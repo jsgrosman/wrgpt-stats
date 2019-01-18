@@ -57,7 +57,7 @@ If you have hand histories that I don't currently possess, I would be grateful.
       * ...
     * ...  
 
-I ignore the `a` round, because that's just for 
+I ignore the `a` round, because that's just for the practice round. 
 
 # Contributing Code
 
