@@ -1,0 +1,112 @@
+Subject: [c19.10111] Holdem Game Broadcast Message(*)
+
+! Table c19, Hand 158, Day 64
+
+! StingRay checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Fred Garvin              |   70050 |     100 |folded|    |         |
+ 2|D  MTpotts                  |   33800 |    1500 |folded|    |         |
+ 3|   bluecandy                |   92900 |     350 |folded|    |         |
+ 4|   The Llama                |   82375 |     600 |folded|    |         |
+ 5|   Kevin Mackey             |   50125 |     100 |folded|    |         |
+ 6|   dubldown                 |   37250 |     100 |folded|    |         |
+ 7|>  Desmontes                |   35225 |   19950 |      |    |         |
+ 8|   calliope                 |   30700 |     100 |folded|    |         |
+ 9|   StingRay                 |   68600 |   19950 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/14/19 10:18:52! Dealing a new hand
+! 01/14/19 10:18:52! Everyone antes $100
+! 01/14/19 10:18:52! bluecandy blinds $250
+! 01/14/19 10:18:52! The Llama blinds $500
+! 01/14/19 12:40:24! Kevin Mackey folds
+! 01/14/19 12:40:24! dubldown folds
+! 01/14/19 13:07:24! Desmontes raises $900 to $1400 total 
+! 01/14/19 13:07:24! calliope folds
+! 01/14/19 14:28:17! StingRay calls 
+! 01/14/19 14:28:17! Fred Garvin folds
+! 01/14/19 15:20:31! MTpotts calls 
+! 01/14/19 15:20:31! bluecandy folds
+! 01/14/19 15:20:31! The Llama folds
+
+! 01/14/19 15:20:31! Pot right ($5850), flopping/dealing/drawing cards
+! 01/14/19 15:20:31! 3 players
+! 01/14/19 15:20:31! Flopped cards: 10h As 3d
+! 01/14/19 15:24:27! Desmontes bets $4200 
+! 01/14/19 18:15:04! StingRay calls 
+! 01/14/19 18:15:04! MTpotts folds
+
+! 01/14/19 18:15:04! Pot right ($14250), flopping/dealing/drawing cards
+! 01/14/19 18:15:04! 2 players
+! 01/14/19 18:15:04! Flopped card: 5s
+! 01/14/19 18:41:35! Desmontes bets $14250 
+! 01/14/19 18:46:01! StingRay calls 
+
+! 01/14/19 18:46:01! Pot right ($42750), flopping/dealing/drawing cards
+! 01/14/19 18:46:01! 2 players
+! 01/14/19 18:46:01! Flopped card: 4s
+! 01/14/19 19:11:44! Desmontes checks
+! 01/14/19 19:19:24! StingRay checks
+! Hand over, current board is:  10h As 3d 5s 4s
+! Desmontes                has: Qs Ah
+! StingRay                 has: 10d 9d
+! Desmontes wins $42750 (net $22800) with One Pair (A A Q 10 5)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Fred Garvin              |   70050 |         |      |    |         |
+ 2|   MTpotts                  |   33800 |         |      |    |         |
+ 3|D  bluecandy                |   92900 |         |      |    |         |
+ 4|   The Llama                |   82375 |         |      |    |         |
+ 5|   Kevin Mackey             |   50125 |         |      |    |         |
+ 6|   dubldown                 |   37250 |         |      |    |         |
+ 7|>  Desmontes                |   77975 |         |      |    |         |
+ 8|   calliope                 |   30700 |         |      |    |         |
+ 9|   StingRay                 |   68600 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 371 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c19.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+The "c" round has started.  Good luck to all
+the remaining players.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,118 @@
+Subject: [b2.10363] Holdem Game Broadcast Message(*)
+
+! Table b2, Hand 26, Day 22
+
+! Poker Dog folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   SpaceMonkey              |   36275 |     300 |folded|    |         |
+ 2|   Poker Dog                |  111700 |    1500 |folded|    |         |
+ 3|   Mr. Rhinelander          |   46325 |     300 |folded|    |         |
+ 4|   Norton33                 |   35000 |     300 |folded|    |         |
+ 5|   Easyas213                |   25475 |       0 |folded|    |         |
+ 6|   wlu_lax6                 |   36450 |       0 |folded|    |         |
+ 7|   rtroll                   |   58725 |     300 |folded|    |         |
+ 8|D> jpawloski                |   42950 |    5500 |      |    |         |
+ 9|   Kevmath                  |   48600 |     300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/01/18 14:41:47! Dealing a new hand
+! 12/01/18 14:41:47! No ante
+! 12/01/18 14:41:47! Kevmath blinds $150
+! 12/01/18 14:41:47! SpaceMonkey blinds $300
+! 12/01/18 14:51:26! Poker Dog calls 
+! 12/01/18 14:57:00! Mr. Rhinelander calls 
+! 12/01/18 16:08:36! Norton33 calls 
+! 12/02/18 07:25:35! Easyas213 folds
+! 12/02/18 07:25:35! wlu_lax6 folds
+! 12/02/18 07:26:42! rtroll calls 
+! 12/02/18 12:50:40! jpawloski calls 
+! 12/02/18 12:51:19! Kevmath calls 
+! 12/02/18 20:18:26! SpaceMonkey checks
+
+! 12/02/18 20:18:26! Pot right ($2100), flopping/dealing/drawing cards
+! 12/02/18 20:18:26! 7 players
+! 12/02/18 20:18:26! Flopped cards: Ad 6s As
+! 12/03/18 06:31:26! Kevmath checks
+! 12/03/18 07:37:16! SpaceMonkey checks
+! 12/03/18 08:17:12! Poker Dog bets $1200 
+! 12/03/18 08:17:12! Mr. Rhinelander folds
+! 12/03/18 08:21:24! Norton33 folds
+! 12/03/18 08:39:19! rtroll folds
+! 12/03/18 12:56:11! jpawloski calls 
+! 12/03/18 12:56:11! Kevmath folds
+! 12/03/18 13:03:55! SpaceMonkey folds
+
+! 12/03/18 13:03:55! Pot right ($4500), flopping/dealing/drawing cards
+! 12/03/18 13:03:55! 2 players
+! 12/03/18 13:03:55! Flopped card: 2s
+! 12/03/18 13:47:08! Poker Dog checks
+! 12/03/18 13:52:03! jpawloski bets $4000 
+! 12/03/18 13:53:44! Poker Dog folds
+! Hand over, no showdown
+! Current board is:  Ad 6s As 2s ?
+! jpawloski wins $8500 (net $3000)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   SpaceMonkey              |   36275 |         |      |    |         |
+ 2|   Poker Dog                |  111700 |         |      |    |         |
+ 3|   Mr. Rhinelander          |   46325 |         |      |    |         |
+ 4|   Norton33                 |   35000 |         |      |    |         |
+ 5|   Easyas213                |   25475 |         |      |    |         |
+ 6|   wlu_lax6                 |   36450 |         |      |    |         |
+ 7|   rtroll                   |   58725 |         |      |    |         |
+ 8|>  jpawloski                |   51450 |         |      |    |         |
+ 9|D  Kevmath                  |   48600 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 527 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b2.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 4
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

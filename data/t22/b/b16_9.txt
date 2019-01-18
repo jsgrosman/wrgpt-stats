@@ -1,0 +1,124 @@
+Message-Id: <201211050359.qA53xWjP028412@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [b16.10139] Holdem Game Broadcast Message(*)                          
+
+! Table b16, Hand 9, Day 14
+
+! Eric Moore calls 
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|V  amz                      |  29550 |    100 |<AWOL>|    |        |
+ 2|   jasong            |  33000 |      0 |folded|    |        |
+ 3|   ABoyles                  |  33200 |   1450 |folded|    |        |
+ 4|   CKRAIZ                   |  29450 |      0 |folded|    |        |
+ 5|>  Dragonrpc                |  17200 |  13450 |      |    |        |
+ 6|   Roger Strom              |  29575 |      0 |folded|    |        |
+ 7|   D-Man                    |  24750 |      0 |folded|    |        |
+ 8|V  Swamper JPops            |  29500 |      0 |<AWOL>|    |        |
+ 9|D  Eric Moore               |  16675 |  13450 |      |    |        |
+10|   Mad Chad                 |  28600 |     50 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 11/03/12 18:44:35! Dealing a new hand
+! 11/03/12 18:44:35! No ante
+! 11/03/12 18:44:35! Mad Chad blinds $50
+! 11/03/12 18:44:35! amz blinds $100
+! 11/03/12 19:17:52! jasong folds
+! 11/03/12 20:29:16! ABoyles calls 
+! 11/03/12 21:45:30! CKRAIZ folds
+! 11/03/12 22:08:00! Dragonrpc calls 
+! 11/04/12 03:31:50! Roger Strom folds
+! 11/04/12 08:31:44! D-Man folds
+! 11/04/12 08:31:44! Swamper JPops is on vacation and folds
+! 11/04/12 08:32:32! Eric Moore raises $150 
+! 11/04/12 08:32:32! Mad Chad folds
+! 11/04/12 08:32:32! amz is on vacation and folds
+! 11/04/12 10:18:38! ABoyles calls 
+! 11/04/12 10:47:39! Dragonrpc calls 
+
+! 11/04/12 10:47:39! Pot right ($900), flopping/dealing/drawing cards
+! 11/04/12 10:47:39! 3 players
+! 11/04/12 10:47:39! Flopped cards: Jh As Ah
+! 11/04/12 11:52:37! ABoyles checks
+! 11/04/12 14:19:02! Dragonrpc bets $600 
+! 11/04/12 14:37:52! Eric Moore raises $600 
+! 11/04/12 14:55:36! ABoyles calls 
+! 11/04/12 17:42:32! Dragonrpc calls 
+
+! 11/04/12 17:42:32! Pot right ($4500), flopping/dealing/drawing cards
+! 11/04/12 17:42:32! 3 players
+! 11/04/12 17:42:32! Flopped card: 9h
+! 11/04/12 18:36:53! ABoyles checks
+! 11/04/12 18:58:57! Dragonrpc bets $4500 
+! 11/04/12 19:05:47! Eric Moore calls 
+! 11/04/12 19:07:02! ABoyles folds
+
+! 11/04/12 19:07:02! Pot right ($13500), flopping/dealing/drawing cards
+! 11/04/12 19:07:02! 2 players
+! 11/04/12 19:07:02! Flopped card: Qh
+! 11/04/12 19:23:09! Dragonrpc bets $7500 
+! 11/04/12 19:59:30! Eric Moore calls 
+! Hand over, current board is:  Jh As Ah 9h Qh
+! Dragonrpc                has: Kh 6h
+! Eric Moore               has: Ad 9d
+! Eric Moore wins $28500 (net $15050) with Full House (A A A 9 9)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|V  amz                      |  29550 |        |<AWOL>|    |        |
+ 2|   jasong            |  33000 |        |      |    |        |
+ 3|   ABoyles                  |  33200 |        |      |    |        |
+ 4|   CKRAIZ                   |  29450 |        |      |    |        |
+ 5|>  Dragonrpc                |  17200 |        |      |    |        |
+ 6|   Roger Strom              |  29575 |        |      |    |        |
+ 7|   D-Man                    |  24750 |        |      |    |        |
+ 8|V  Swamper JPops            |  29500 |        |<AWOL>|    |        |
+ 9|   Eric Moore               |  45175 |        |      |    |        |
+10|D  Mad Chad                 |  28600 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! Roger Strom went on vacation until back 19/11
+! 807 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b16.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+When a live redraw is in progress your table may finish a hand and
+then wait for an empty spot to open up or wait for an incoming player
+before starting the next hand.  This is normal.  This usually takes
+less than a couple of hours but can stretch for a day or more if the
+timing isn't optimal.
+
+Here is a link to the railbird mailing list:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman22@wrgpt.org.
+
+Live Redraw Status as of 11/04/12 07:55:01 PM
+
+Total Empty Seats: 13
+Total Playing Seats: 807
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+And Tumbler: http://wrgptfloorman.tumblr.com
+

@@ -1,0 +1,110 @@
+Subject: [b1.10757] Holdem Game Broadcast Message(*)
+
+! Table b1, Hand 76, Day 39
+
+! mulligan calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Nick Name                |   53275 |      25 |folded|    |         |
+ 2|>  EricL                    |   30000 |   31725 |      |    |         |
+ 3|   Thomas Gabrysch          |   37000 |      25 |folded|    |         |
+ 4|   breyercalvert            |  107800 |      25 |folded|    |         |
+ 5|   BaconPancakes            |   77875 |      25 |folded|    |         |
+ 6|   mulligan                 |  107800 |   31725 |      |    |         |
+ 7|D  stannius                 |   58325 |      25 |folded|    |         |
+ 8|   Kevin Mackey             |   55500 |     175 |folded|    |         |
+ 9|   Endrju                   |   47725 |     325 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/19/18 14:00:37! Dealing a new hand
+! 12/19/18 14:00:37! Everyone antes $25
+! 12/19/18 14:00:37! Kevin Mackey blinds $150
+! 12/19/18 14:00:37! Endrju blinds $300
+! 12/19/18 14:07:38! Nick Name folds
+! 12/19/18 14:35:08! EricL raises $600 to $900 total 
+! 12/19/18 23:14:52! Thomas Gabrysch folds
+! 12/19/18 23:14:52! breyercalvert folds
+! 12/19/18 23:14:52! BaconPancakes folds
+! 12/20/18 05:12:57! mulligan raises $800 to $1700 total 
+! 12/20/18 06:22:21! stannius folds
+! 12/20/18 06:22:21! Kevin Mackey folds
+! 12/20/18 06:22:21! Endrju folds
+! 12/20/18 08:25:44! EricL calls 
+
+! 12/20/18 08:25:44! Pot right ($4075), flopping/dealing/drawing cards
+! 12/20/18 08:25:44! 2 players
+! 12/20/18 08:25:44! Flopped cards: 5c 4d Js
+! 12/20/18 08:33:54! EricL bets $3000 
+! 12/20/18 08:46:32! mulligan raises $3000 to $6000 total 
+! 12/20/18 09:57:07! EricL calls 
+
+! 12/20/18 09:57:07! Pot right ($16075), flopping/dealing/drawing cards
+! 12/20/18 09:57:07! 2 players
+! 12/20/18 09:57:07! Flopped card: 6h
+! 12/20/18 10:23:39! EricL bets $8000 
+! 12/20/18 10:25:49! mulligan calls 
+
+! 12/20/18 10:25:49! Pot right ($32075), flopping/dealing/drawing cards
+! 12/20/18 10:25:49! 2 players
+! 12/20/18 10:25:49! Flopped card: 2d
+! 12/20/18 11:48:38! EricL bets $16000 
+! 12/20/18 12:14:38! mulligan calls 
+! Hand over, current board is:  5c 4d Js 6h 2d
+! EricL                    has: Kh Kc
+! mulligan                 has: Jh 10d
+! EricL wins $64075 (net $32350) with One Pair (K K J 6 5)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Nick Name                |   53275 |         |      |    |         |
+ 2|>  EricL                    |   94075 |         |      |    |         |
+ 3|   Thomas Gabrysch          |   37000 |         |      |    |         |
+ 4|   breyercalvert            |  107800 |         |      |    |         |
+ 5|   BaconPancakes            |   77875 |         |      |    |         |
+ 6|   mulligan                 |  107800 |         |      |    |         |
+ 7|   stannius                 |   58325 |         |      |    |         |
+ 8|D  Kevin Mackey             |   55500 |         |      |    |         |
+ 9|   Endrju                   |   47725 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 451 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b1.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 7
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

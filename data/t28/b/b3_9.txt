@@ -1,0 +1,123 @@
+
+! Table b3, Hand 9, Day 11
+
+! jasong calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   jasong                   |   43625 |    4675 |      |    |         |
+ 2|   Firstorlast56            |   46625 |     675 |folded|    |         |
+ 3|   dave                     |   49775 |       0 |folded|    |         |
+ 4|   lektoraj                 |   50150 |       0 |folded|    |         |
+ 5|   PMD                      |   48950 |       0 |folded|    |         |
+ 6|   ArikK                    |   44175 |     675 |folded|    |         |
+ 7|   bert_ofcl                |   42075 |       0 |folded|    |         |
+ 8|   Shameless                |   49975 |     675 |folded|    |         |
+ 9|D> coming                   |   63275 |    4675 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/20/18 06:43:48! Dealing a new hand
+! 11/20/18 06:43:48! No ante
+! 11/20/18 06:43:48! jasong blinds $75
+! 11/20/18 06:43:48! Firstorlast56 blinds $150
+! 11/20/18 06:44:30! dave folds
+! 11/20/18 08:57:29! lektoraj folds
+! 11/20/18 09:37:37! PMD folds
+! 11/20/18 10:38:25! ArikK calls 
+! 11/20/18 10:38:25! bert_ofcl folds
+! 11/20/18 11:21:59! Shameless calls 
+! 11/20/18 11:54:18! coming calls 
+! 11/20/18 11:59:52! jasong raises $525 to $675 total 
+! 11/20/18 12:26:57! Firstorlast56 calls 
+! 11/20/18 14:39:31! ArikK calls 
+! 11/20/18 15:01:30! Shameless calls 
+! 11/20/18 16:08:00! coming calls 
+
+! 11/20/18 16:08:00! Pot right ($3375), flopping/dealing/drawing cards
+! 11/20/18 16:08:00! 5 players
+! 11/20/18 16:08:00! Flopped cards: Ks 7d Qc
+! 11/20/18 17:56:14! jasong bets $2000 
+! 11/21/18 11:02:05! Firstorlast56 folds
+! 11/21/18 15:03:02! ArikK folds
+! 11/21/18 15:24:16! Shameless folds
+! 11/21/18 15:56:46! coming calls 
+
+! 11/21/18 15:56:46! Pot right ($7375), flopping/dealing/drawing cards
+! 11/21/18 15:56:46! 2 players
+! 11/21/18 15:56:46! Flopped card: 6c
+! 11/21/18 16:12:27! jasong checks
+! 11/21/18 20:37:48! coming checks
+
+! 11/21/18 20:37:48! Pot right ($7375), flopping/dealing/drawing cards
+! 11/21/18 20:37:48! 2 players
+! 11/21/18 20:37:48! Flopped card: 7h
+! 11/21/18 20:37:48! jasong checks
+! 11/22/18 08:54:49! coming bets $2000 
+! 11/22/18 09:53:54! jasong calls 
+! Hand over, current board is:  Ks 7d Qc 6c 7h
+! jasong                   has: 5h 5d
+! coming                   has: As 10h
+! jasong wins $11375 (net $6700) with Two Pair (7 7 5 5 K)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  jasong                   |   55000 |         |      |    |         |
+ 2|   Firstorlast56            |   46625 |         |      |    |         |
+ 3|   dave                     |   49775 |         |      |    |         |
+ 4|   lektoraj                 |   50150 |         |      |    |         |
+ 5|   PMD                      |   48950 |         |      |    |         |
+ 6|   ArikK                    |   44175 |         |      |    |         |
+ 7|   bert_ofcl                |   42075 |         |      |    |         |
+ 8|   Shameless                |   49975 |         |      |    |         |
+ 9|>  coming                   |   63275 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! ArikK timed out during this hand
+! 567 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b3.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

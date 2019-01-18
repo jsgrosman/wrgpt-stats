@@ -1,0 +1,121 @@
+Subject: [b2.10306] Holdem Game Broadcast Message(*)
+
+! Table b2, Hand 22, Day 18
+
+! Kevmath calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   SpaceMonkey              |   46525 |       0 |folded|    |         |
+ 2|   Poker Dog                |   90900 |       0 |folded|    |         |
+ 3|   Mr. Rhinelander          |   41975 |    2000 |folded|    |         |
+ 4|D  Norton33                 |   36050 |       0 |folded|    |         |
+ 5|   Easyas213                |   25475 |     150 |folded|    |         |
+ 6|>  wlu_lax6                 |   51950 |   10000 |      |    |         |
+ 7|   rtroll                   |   59475 |    2000 |folded|    |         |
+ 8|   jpawloski                |   48450 |       0 |folded|    |         |
+ 9|   Kevmath                  |   25050 |   10000 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/29/18 12:02:26! Dealing a new hand
+! 11/29/18 12:02:26! No ante
+! 11/29/18 12:02:26! Easyas213 blinds $150
+! 11/29/18 12:02:26! wlu_lax6 blinds $300
+! 11/29/18 12:03:49! rtroll raises $600 to $900 total 
+! 11/29/18 14:01:05! jpawloski folds
+! 11/29/18 14:02:48! Kevmath raises $1100 to $2000 total 
+! 11/29/18 14:04:58! SpaceMonkey folds
+! 11/29/18 14:04:58! Poker Dog folds
+! 11/29/18 14:08:55! Mr. Rhinelander calls 
+! 11/29/18 14:08:55! Norton33 folds
+! 11/29/18 14:10:01! Easyas213 folds
+! 11/29/18 14:12:22! wlu_lax6 calls 
+! 11/29/18 14:13:31! rtroll calls 
+
+! 11/29/18 14:13:31! Pot right ($8150), flopping/dealing/drawing cards
+! 11/29/18 14:13:31! 4 players
+! 11/29/18 14:13:31! Flopped cards: 3s 9s 2d
+! 11/29/18 14:26:47! wlu_lax6 bets $1000 
+! 11/29/18 14:32:24! rtroll folds
+! 11/29/18 14:33:19! Kevmath raises $2000 to $3000 total 
+! 11/29/18 14:56:11! Mr. Rhinelander folds
+! 11/29/18 15:02:23! wlu_lax6 calls 
+
+! 11/29/18 15:02:23! Pot right ($14150), flopping/dealing/drawing cards
+! 11/29/18 15:02:23! 2 players
+! 11/29/18 15:02:23! Flopped card: Kd
+! 11/29/18 15:03:01! wlu_lax6 checks
+! 11/29/18 18:01:24! Kevmath checks
+
+! 11/29/18 18:01:24! Pot right ($14150), flopping/dealing/drawing cards
+! 11/29/18 18:01:24! 2 players
+! 11/29/18 18:01:24! Flopped card: 10c
+! 11/29/18 18:32:29! wlu_lax6 bets $5000 
+! 11/29/18 18:33:21! Kevmath calls 
+! Hand over, current board is:  3s 9s 2d Kd 10c
+! wlu_lax6                 has: 7s 7h
+! Kevmath                  has: 10h 10d
+! Kevmath wins $24150 (net $14150) with Three of a Kind (10 10 10 K 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   SpaceMonkey              |   46525 |         |      |    |         |
+ 2|   Poker Dog                |   90900 |         |      |    |         |
+ 3|   Mr. Rhinelander          |   41975 |         |      |    |         |
+ 4|   Norton33                 |   36050 |         |      |    |         |
+ 5|D  Easyas213                |   25475 |         |      |    |         |
+ 6|>  wlu_lax6                 |   51950 |         |      |    |         |
+ 7|   rtroll                   |   59475 |         |      |    |         |
+ 8|   jpawloski                |   48450 |         |      |    |         |
+ 9|   Kevmath                  |   49200 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 543 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b2.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,110 @@
+Subject: [c40.10158] Holdem Game Broadcast Message(*)
+
+! Table c40, Hand 164, Day 62
+
+! Bob Brewster folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   SJL                      |   49975 |     600 |folded|    |         |
+ 2|D  GKinz54                  |  125325 |     100 |folded|    |         |
+ 3|   Mrstcao                  |  210025 |     600 |folded|    |         |
+ 4|   null                     |       0 |   32950 |all-in|    |         |
+ 5|   Thomas Sims              |   46100 |     600 |folded|    |         |
+ 6|   acadonnelly              |   40225 |     100 |folded|    |         |
+ 7|>  Bob Brewster             |  183650 |    3600 |folded|    |         |
+ 8|   dave                     |   53200 |       0 |New   |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/11/19 12:53:31! Dealing a new hand
+! 01/11/19 12:53:31! Everyone antes $100
+! 01/11/19 12:53:31! Mrstcao blinds $250
+! 01/11/19 12:53:31! null blinds $500
+! 01/11/19 14:10:06! null is back from vacation
+! 01/11/19 15:05:22! Thomas Sims calls 
+! 01/11/19 16:25:14! New player added to the table: dave
+! 01/11/19 16:25:51! acadonnelly folds
+! 01/11/19 16:25:51! Bob Brewster calls 
+! 01/11/19 17:39:06! SJL calls 
+! 01/11/19 17:40:15! GKinz54 folds
+! 01/11/19 17:40:56! Mrstcao calls 
+! 01/11/19 21:40:18! null checks
+
+! 01/11/19 21:40:18! Pot right ($3200), flopping/dealing/drawing cards
+! 01/11/19 21:40:18! 5 players
+! 01/11/19 21:40:18! Flopped cards: Qh 6s Kc
+! 01/12/19 05:47:43! Mrstcao checks
+! 01/12/19 07:37:23! null checks
+! 01/12/19 08:38:11! Thomas Sims checks
+! 01/12/19 10:45:51! Bob Brewster bets $1000 
+! 01/12/19 10:48:50! SJL folds
+! 01/12/19 10:48:50! Mrstcao folds
+! 01/12/19 11:19:37! null calls 
+! 01/12/19 13:19:57! Thomas Sims folds
+
+! 01/12/19 13:19:57! Pot right ($5200), flopping/dealing/drawing cards
+! 01/12/19 13:19:57! 2 players
+! 01/12/19 13:19:57! Flopped card: As
+! 01/12/19 15:23:23! null checks
+! 01/12/19 17:56:59! Bob Brewster bets $2000 
+! 01/12/19 17:56:59! null raises $29350 to $31350 total and is all in
+! 01/12/19 17:58:02! Bob Brewster folds
+! Hand over, no showdown
+! Current board is:  Qh 6s Kc As ?
+! null wins $38550 (net $5600)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   SJL                      |   49975 |         |      |    |         |
+ 2|   GKinz54                  |  125325 |         |      |    |         |
+ 3|D  Mrstcao                  |  210025 |         |      |    |         |
+ 4|   null                     |   38550 |         |      |    |         |
+ 5|   Thomas Sims              |   46100 |         |      |    |         |
+ 6|   acadonnelly              |   40225 |         |      |    |         |
+ 7|>  Bob Brewster             |  183650 |         |      |    |         |
+ 8|   dave                     |   53200 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 376 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c40.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+The "c" round has started.  Good luck to all
+the remaining players.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 5
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

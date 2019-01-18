@@ -1,0 +1,121 @@
+Subject: [b19.10090] Holdem Game Broadcast Message(*)
+
+! Table b19, Hand 6, Day 7
+
+! Stubey folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Michael Hunter           |   50100 |     500 |folded|    |         |
+ 2|   Vince Tafoya             |   53500 |       0 |folded|    |         |
+ 3|   Alvin Chipmunk           |   34550 |       0 |folded|    |         |
+ 4|   Stubey                   |   46275 |    3500 |folded|    |         |
+ 5|   Daryl                    |   49775 |       0 |folded|    |         |
+ 6|D> Bubba                    |   15775 |   49750 |      |    |         |
+ 7|   Ninetensuited            |   46850 |      75 |folded|    |         |
+ 8|V  Fish Doctor              |   49850 |     150 | NoSho|    |         |
+ 9|V  Pooper                   |   49350 |       0 |<AWOL>|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/16/18 13:35:19! Dealing a new hand
+! 11/16/18 13:35:19! No ante
+! 11/16/18 13:35:19! Ninetensuited blinds $75
+! 11/16/18 13:35:19! Fish Doctor blinds $150
+! 11/16/18 13:35:19! Pooper is on vacation and folds
+! 11/16/18 16:16:27! Michael Hunter raises $350 to $500 total 
+! 11/16/18 20:07:56! Vince Tafoya folds
+! 11/16/18 20:07:56! Alvin Chipmunk folds
+! 11/17/18 05:55:03! Stubey calls 
+! 11/17/18 08:39:11! Daryl folds
+! 11/17/18 08:39:11! Bubba calls 
+! 11/17/18 10:45:34! Ninetensuited folds
+! 11/17/18 10:45:34! Fish Doctor is on vacation and folds
+
+! 11/17/18 10:45:34! Pot right ($1725), flopping/dealing/drawing cards
+! 11/17/18 10:45:34! 3 players
+! 11/17/18 10:45:34! Flopped cards: 9h 8h 6s
+! 11/17/18 10:57:31! Michael Hunter checks
+! 11/17/18 20:11:56! Stubey checks
+! 11/18/18 05:55:29! Bubba bets $500 
+! 11/18/18 07:45:46! Michael Hunter folds
+! 11/18/18 08:10:24! Stubey calls 
+
+! 11/18/18 08:10:24! Pot right ($2725), flopping/dealing/drawing cards
+! 11/18/18 08:10:24! 2 players
+! 11/18/18 08:10:24! Flopped card: 10h
+! 11/18/18 08:11:20! Stubey checks
+! 11/18/18 16:03:57! Bubba bets $2500 
+! 11/18/18 16:15:06! Stubey calls 
+
+! 11/18/18 16:15:06! Pot right ($7725), flopping/dealing/drawing cards
+! 11/18/18 16:15:06! 2 players
+! 11/18/18 16:15:06! Flopped card: 7d
+! 11/18/18 16:17:06! Stubey checks
+! 11/18/18 16:56:07! Bubba bets $46250 
+! 11/18/18 17:04:49! Stubey folds
+! Hand over, no showdown
+! Current board is:  9h 8h 6s 10h 7d
+! Bubba wins $53975 (net $4225)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Michael Hunter           |   50100 |         |      |    |         |
+ 2|   Vince Tafoya             |   53500 |         |      |    |         |
+ 3|   Alvin Chipmunk           |   34550 |         |      |    |         |
+ 4|   Stubey                   |   46275 |         |      |    |         |
+ 5|   Daryl                    |   49775 |         |      |    |         |
+ 6|>  Bubba                    |   69750 |         |      |    |         |
+ 7|D  Ninetensuited            |   46850 |         |      |    |         |
+ 8|V  Fish Doctor              |   49850 |         | NoSho|    |         |
+ 9|V  Pooper                   |   49350 |         |<AWOL>|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 578 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b19.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 10
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

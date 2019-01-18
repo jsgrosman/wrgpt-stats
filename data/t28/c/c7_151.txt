@@ -1,0 +1,115 @@
+Subject: [c7.10063] Holdem Game Broadcast Message(*)
+
+! Table c7, Hand 151, Day 60
+
+! Endrju calls - side pot
+! Pot right ($135550), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped card: Qs
+! Flopped card: 2h
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   JohnnyMac                |  191975 |       0 |New   |    |         |
+ 2|   Johnny Ice               |   57350 |     100 |folded|    |         |
+ 3|>  Endrju                   |       0 |   36475 |all-in|  2 |   79500 |
+ 4|D  Ninetensuited            |   50250 |     100 |folded|    |         |
+ 5|   Daniel Levine            |   66625 |     350 |folded|    |         |
+ 6|   Joe Nadeau               |   48975 |     600 |folded|    |         |
+ 7|   GunsNRoses               |  159700 |    5300 |folded|    |         |
+ 8|   jpawloski                |       0 |   92525 |all-in|  1 |   56050 |
+ 9|   Mejjad                   |   70475 |     100 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/09/19 12:37:10! Dealing a new hand
+! 01/09/19 12:37:10! Everyone antes $100
+! 01/09/19 12:37:10! Daniel Levine blinds $250
+! 01/09/19 12:37:10! Joe Nadeau blinds $500
+! 01/09/19 13:42:21! GunsNRoses calls 
+! 01/09/19 17:41:31! jpawloski calls 
+! 01/09/19 17:41:31! Mejjad folds
+! 01/09/19 17:41:31! Johnny Ice folds
+! 01/09/19 23:32:37! Endrju raises $1700 to $2200 total 
+! 01/09/19 23:40:23! Ninetensuited folds
+! 01/10/19 04:55:19! New player added to the table: JohnnyMac
+! 01/10/19 05:38:32! Daniel Levine folds
+! 01/10/19 08:07:05! Joe Nadeau folds
+! 01/10/19 08:32:53! GunsNRoses calls 
+! 01/10/19 12:21:40! jpawloski calls 
+
+! 01/10/19 12:21:40! Pot right ($8150), flopping/dealing/drawing cards
+! 01/10/19 12:21:40! 3 players
+! 01/10/19 12:21:40! Flopped cards: 3c 5d 6d
+! 01/10/19 12:59:29! GunsNRoses bets $3000 
+! 01/10/19 13:41:39! jpawloski calls 
+! 01/10/19 14:44:15! Endrju raises $8900 to $11900 total 
+! 01/10/19 14:47:07! GunsNRoses folds
+! 01/10/19 14:53:44! jpawloski raises $78325 to $90225 total and is all in
+! 01/10/19 14:54:24! Endrju calls - side pot
+
+! 01/10/19 14:54:24! Pot right ($135550), flopping/dealing/drawing cards
+! 01/10/19 14:54:24! 2 players, 2 all in
+! 01/10/19 14:54:24! Flopped card: Qs
+! 01/10/19 14:54:24! Flopped card: 2h
+! Hand over, current board is:  3c 5d 6d Qs 2h
+! Endrju                   has: 6s 6c
+! jpawloski                has: Ad 2d
+! Pot 1: uncalled $56050 returned to jpawloski
+! Pot 2: Endrju wins $79500 with Three of a Kind (6 6 6 Q 5)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   JohnnyMac                |  191975 |         |      |    |         |
+ 2|   Johnny Ice               |   57350 |         |      |    |         |
+ 3|>  Endrju                   |   79500 |         |      |    |         |
+ 4|   Ninetensuited            |   50250 |         |      |    |         |
+ 5|D  Daniel Levine            |   66625 |         |      |    |         |
+ 6|   Joe Nadeau               |   48975 |         |      |    |         |
+ 7|   GunsNRoses               |  159700 |         |      |    |         |
+ 8|   jpawloski                |   56050 |         |      |    |         |
+ 9|   Mejjad                   |   70475 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 385 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c7.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+The "c" round has started.  Good luck to all
+the remaining players.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 4
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,105 @@
+Subject: [c13.10076] Holdem Game Broadcast Message(*)
+
+! Table c13, Hand 155, Day 60
+
+! Deets folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  AveCat                   |  117200 |    8900 |      |    |         |
+ 2|   Charlie Tuna             |   22750 |     100 |folded|    |         |
+ 3|   David Weiss              |  125875 |     100 |folded|    |         |
+ 4|V  UberHank                 |   40675 |     100 |<AWOL>|    |         |
+ 5|   Larry W                  |   41675 |       0 |New   |    |         |
+ 6|   TheTwizz                 |   14200 |     100 |folded|    |         |
+ 7|   Spidurman                |  103800 |     100 |folded|    |         |
+ 8|D  Deets                    |   53550 |    3900 |folded|    |         |
+ 9|   bert_ofcl                |   38625 |     350 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/10/19 06:54:48! Dealing a new hand
+! 01/10/19 06:54:48! Everyone antes $100
+! 01/10/19 06:54:48! bert_ofcl blinds $250
+! 01/10/19 06:54:48! AveCat blinds $500
+! 01/10/19 07:32:26! Charlie Tuna folds
+! 01/10/19 07:32:26! David Weiss folds
+! 01/10/19 07:32:26! UberHank is on vacation and folds
+! 01/10/19 07:32:26! TheTwizz folds
+! 01/10/19 07:32:26! Spidurman folds
+! 01/10/19 10:27:38! Deets raises $1200 to $1700 total 
+! 01/10/19 10:30:04! bert_ofcl folds
+! 01/10/19 10:49:32! AveCat calls 
+
+! 01/10/19 10:49:32! Pot right ($4450), flopping/dealing/drawing cards
+! 01/10/19 10:49:32! 2 players
+! 01/10/19 10:49:32! Flopped cards: Kc 4c 6d
+! 01/10/19 11:25:24! New player added to the table: Larry W
+! 01/10/19 11:30:49! AveCat checks
+! 01/10/19 11:37:02! Deets bets $2100 
+! 01/10/19 11:37:53! AveCat calls 
+
+! 01/10/19 11:37:53! Pot right ($8650), flopping/dealing/drawing cards
+! 01/10/19 11:37:53! 2 players
+! 01/10/19 11:37:53! Flopped card: Jd
+! 01/10/19 11:38:45! AveCat bets $5000 
+! 01/10/19 11:45:31! Deets folds
+! Hand over, no showdown
+! Current board is:  Kc 4c 6d Jd ?
+! AveCat wins $13650 (net $4750)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  AveCat                   |  130850 |         |      |    |         |
+ 2|   Charlie Tuna             |   22750 |         |      |    |         |
+ 3|   David Weiss              |  125875 |         |      |    |         |
+ 4|V  UberHank                 |   40675 |         |<AWOL>|    |         |
+ 5|   Larry W                  |   41675 |         |      |    |         |
+ 6|   TheTwizz                 |   14200 |         |      |    |         |
+ 7|   Spidurman                |  103800 |         |      |    |         |
+ 8|   Deets                    |   53550 |         |      |    |         |
+ 9|D  bert_ofcl                |   38625 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 386 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c13.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+The "c" round has started.  Good luck to all
+the remaining players.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 3
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

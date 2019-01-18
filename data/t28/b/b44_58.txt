@@ -1,0 +1,113 @@
+Subject: [b44.10941] Holdem Game Broadcast Message(*)
+
+! Table b44, Hand 58, Day 56
+
+! SmBoatDrinks calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   MarcJallday              |   51300 |      50 |folded|    |         |
+ 2|   ADB Jaeger               |   33900 |     450 |folded|    |         |
+ 3|D  sgranen                  |   94450 |     450 |folded|    |         |
+ 5|>  BillB                    |   73900 |    5450 |      |    |         |
+ 6|   SmBoatDrinks             |   12550 |    5450 |      |    |         |
+ 7|   Monika                   |   95575 |      50 |folded|    |         |
+ 8|   Mark-Ed Cards            |   27150 |      50 |folded|    |         |
+ 9|   Pete Holmes              |   74775 |      50 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/04/19 09:52:13! Dealing a new hand
+! 01/04/19 09:52:13! Everyone antes $50
+! 01/04/19 09:52:13! BillB blinds $200
+! 01/04/19 09:52:13! SmBoatDrinks blinds $400
+! 01/04/19 10:04:03! Monika folds
+! 01/04/19 10:43:02! Mark-Ed Cards folds
+! 01/04/19 11:33:19! Pete Holmes folds
+! 01/04/19 11:33:19! MarcJallday folds
+! 01/04/19 11:42:03! ADB Jaeger calls 
+! 01/04/19 11:45:53! sgranen calls 
+! 01/04/19 12:24:35! BillB calls 
+! 01/04/19 12:31:38! SmBoatDrinks checks
+
+! 01/04/19 12:31:38! Pot right ($2000), flopping/dealing/drawing cards
+! 01/04/19 12:31:38! 4 players
+! 01/04/19 12:31:38! Flopped cards: As 6s 7h
+! 01/04/19 15:54:11! BillB checks
+! 01/04/19 15:54:11! SmBoatDrinks checks
+! 01/05/19 04:31:55! ADB Jaeger checks
+! 01/05/19 07:38:54! sgranen checks
+
+! 01/05/19 07:38:54! Pot right ($2000), flopping/dealing/drawing cards
+! 01/05/19 07:38:54! 4 players
+! 01/05/19 07:38:54! Flopped card: Ac
+! 01/05/19 12:26:35! BillB bets $2000 
+! 01/05/19 12:27:57! SmBoatDrinks calls 
+! 01/05/19 13:09:33! ADB Jaeger folds
+! 01/05/19 21:00:07! sgranen folds
+
+! 01/05/19 21:00:07! Pot right ($6000), flopping/dealing/drawing cards
+! 01/05/19 21:00:07! 2 players
+! 01/05/19 21:00:07! Flopped card: 4c
+! 01/06/19 05:16:24! BillB bets $3000 
+! 01/06/19 05:27:21! SmBoatDrinks calls 
+! Hand over, current board is:  As 6s 7h Ac 4c
+! BillB                    has: 2h 6c
+! SmBoatDrinks             has: 7s 6h
+! SmBoatDrinks wins $12000 (net $6550) with Two Pair (A A 7 7 6)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   MarcJallday              |   51300 |         |      |    |         |
+ 2|   ADB Jaeger               |   33900 |         |      |    |         |
+ 3|   sgranen                  |   94450 |         |      |    |         |
+ 5|D> BillB                    |   73900 |         |      |    |         |
+ 6|   SmBoatDrinks             |   24550 |         |      |    |         |
+ 7|   Monika                   |   95575 |         |      |    |         |
+ 8|   Mark-Ed Cards            |   27150 |         |      |    |         |
+ 9|   Pete Holmes              |   74775 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 397 players left in the tournament 
+! Table finished, waiting to redraw seats.
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b44.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+The "b" round is ending.  All tables will finish the 
+current hand then there will be a full redraw to 
+new tables for the "c" round.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 35
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

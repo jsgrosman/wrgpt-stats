@@ -1,0 +1,120 @@
+Subject: [b16.11019] Holdem Game Broadcast Message(*)
+
+! Table b16, Hand 80, Day 50
+
+! Byfthalone calls - side pot
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Paul Ant                 |   49975 |     450 |folded|    |         |
+ 2|   John Senger              |   60750 |      50 |folded|    |         |
+ 3|   Michael Proteau          |   51475 |      50 |folded|    |         |
+ 4|   Aardvark                 |   33975 |      50 |folded|    |         |
+ 5|   Paul McMullin            |   19675 |      50 |folded|    |         |
+ 6|>  Byfthalone               |       0 |   38600 |all-in|  2 |   78350 |
+ 7|   Steve B                  |   27925 |      50 |folded|    |         |
+ 8|D  Piojos                   |   83000 |     450 |folded|    |         |
+ 9|   acadonnelly              |       0 |   83475 |all-in|  1 |   44875 |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/30/18 17:47:54! Dealing a new hand
+! 12/30/18 17:47:54! Everyone antes $50
+! 12/30/18 17:47:54! acadonnelly blinds $200
+! 12/30/18 17:47:54! Paul Ant blinds $400
+! 12/30/18 17:57:47! John Senger folds
+! 12/30/18 18:19:32! Michael Proteau folds
+! 12/30/18 19:20:16! Aardvark folds
+! 12/30/18 19:20:16! Paul McMullin folds
+! 12/30/18 19:41:45! Byfthalone calls 
+! 12/30/18 20:42:15! Steve B folds
+! 12/30/18 21:43:32! Piojos calls 
+! 12/31/18 05:04:23! acadonnelly calls 
+! 12/31/18 05:04:23! Paul Ant checks
+
+! 12/31/18 05:04:23! Pot right ($2050), flopping/dealing/drawing cards
+! 12/31/18 05:04:23! 4 players
+! 12/31/18 05:04:23! Flopped cards: Ad 5h Jd
+! 12/31/18 05:05:49! acadonnelly bets $1000 
+! 12/31/18 06:36:53! Paul Ant folds
+! 12/31/18 07:19:34! Byfthalone raises $1500 to $2500 total 
+! 12/31/18 09:13:53! Piojos folds
+! 12/31/18 09:49:32! acadonnelly calls 
+
+! 12/31/18 09:49:32! Pot right ($7050), flopping/dealing/drawing cards
+! 12/31/18 09:49:32! 2 players
+! 12/31/18 09:49:32! Flopped card: Jh
+! 12/31/18 09:50:08! acadonnelly checks
+! 12/31/18 10:53:28! Byfthalone bets $2000 
+! 12/31/18 10:54:06! acadonnelly calls 
+
+! 12/31/18 10:54:06! Pot right ($11050), flopping/dealing/drawing cards
+! 12/31/18 10:54:06! 2 players
+! 12/31/18 10:54:06! Flopped card: 6h
+! 12/31/18 10:55:17! acadonnelly bets $4000 
+! 12/31/18 11:11:24! Byfthalone raises $4600 to $8600 total 
+! 12/31/18 11:13:52! acadonnelly raises $69925 to $78525 total and is all in
+! 12/31/18 11:23:37! Byfthalone calls - side pot
+! Hand over, current board is:  Ad 5h Jd Jh 6h
+! Byfthalone               has: Jc 6c
+! acadonnelly              has: Ah 7h
+! Pot 1: uncalled $44875 returned to acadonnelly
+! Pot 2: Byfthalone wins $78350 with Full House (J J J 6 6)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Paul Ant                 |   49975 |         |      |    |         |
+ 2|   John Senger              |   60750 |         |      |    |         |
+ 3|   Michael Proteau          |   51475 |         |      |    |         |
+ 4|   Aardvark                 |   33975 |         |      |    |         |
+ 5|   Paul McMullin            |   19675 |         |      |    |         |
+ 6|>  Byfthalone               |   78350 |         |      |    |         |
+ 7|   Steve B                  |   27925 |         |      |    |         |
+ 8|   Piojos                   |   83000 |         |      |    |         |
+ 9|D  acadonnelly              |   44875 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 411 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b16.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+We are now over 45 days into round "b". 
+As soon as any table gets to five or fewer 
+players all tables will finish the current 
+hand and a full redraw to round "c" will be done.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 21
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

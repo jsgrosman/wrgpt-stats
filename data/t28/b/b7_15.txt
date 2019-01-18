@@ -1,0 +1,119 @@
+Subject: [b7.10194] Holdem Game Broadcast Message(*)
+
+! Table b7, Hand 15, Day 15
+
+! TheOldThug checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   JPP                      |   40875 |       0 |folded|    |         |
+ 2|>  threepair                |   42925 |    2525 |      |    |         |
+ 3|   Ryan Thomas              |   98225 |       0 |folded|    |         |
+ 4|   Bryan Juliano            |   46425 |       0 |folded|    |         |
+ 5|   MTpotts                  |   47425 |       0 |folded|    |         |
+ 6|D  TheOldThug               |   55475 |    2525 |      |    |         |
+ 7|   Boiling Frog             |   51600 |      75 |folded|    |         |
+ 8|   FredLS                   |   58425 |     150 |folded|    |         |
+ 9|V  srushe                   |   49775 |       0 | NoSho|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/24/18 10:32:06! Dealing a new hand
+! 11/24/18 10:32:06! No ante
+! 11/24/18 10:32:06! Boiling Frog blinds $75
+! 11/24/18 10:32:06! FredLS blinds $150
+! 11/24/18 10:32:06! srushe is on vacation and folds
+! 11/24/18 10:40:43! JPP folds
+! 11/24/18 10:53:00! threepair raises $375 to $525 total 
+! 11/24/18 10:59:22! Ryan Thomas folds
+! 11/24/18 13:29:45! Bryan Juliano folds
+! 11/24/18 13:29:45! MTpotts folds
+! 11/24/18 13:38:35! TheOldThug calls 
+! 11/24/18 16:00:32! Boiling Frog folds
+! 11/24/18 18:27:34! FredLS folds
+
+! 11/24/18 18:27:34! Pot right ($1275), flopping/dealing/drawing cards
+! 11/24/18 18:27:34! 2 players
+! 11/24/18 18:27:34! Flopped cards: 4h 3c Qs
+! 11/25/18 03:41:10! threepair bets $700 
+! 11/25/18 05:28:31! TheOldThug calls 
+
+! 11/25/18 05:28:31! Pot right ($2675), flopping/dealing/drawing cards
+! 11/25/18 05:28:31! 2 players
+! 11/25/18 05:28:31! Flopped card: 6c
+! 11/26/18 04:29:06! threepair checks
+! 11/26/18 05:28:54! TheOldThug bets $1300 
+! 11/26/18 08:20:16! threepair calls 
+
+! 11/26/18 08:20:16! Pot right ($5275), flopping/dealing/drawing cards
+! 11/26/18 08:20:16! 2 players
+! 11/26/18 08:20:16! Flopped card: 7h
+! 11/26/18 08:22:10! threepair checks
+! 11/26/18 08:25:11! TheOldThug checks
+! Hand over, current board is:  4h 3c Qs 6c 7h
+! threepair                has: Kd Qc
+! TheOldThug               has: As Kh
+! threepair wins $5275 (net $2750) with One Pair (Q Q K 7 6)
+! Antes and blinds go up
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   JPP                      |   40875 |         |      |    |         |
+ 2|>  threepair                |   48200 |         |      |    |         |
+ 3|   Ryan Thomas              |   98225 |         |      |    |         |
+ 4|   Bryan Juliano            |   46425 |         |      |    |         |
+ 5|   MTpotts                  |   47425 |         |      |    |         |
+ 6|   TheOldThug               |   55475 |         |      |    |         |
+ 7|D  Boiling Frog             |   51600 |         |      |    |         |
+ 8|   FredLS                   |   58425 |         |      |    |         |
+ 9|V  srushe                   |   49775 |         | NoSho|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 558 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b7.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,130 @@
+Subject: [b53.10132] Holdem Game Broadcast Message(*)
+
+! Table b53, Hand 10, Day 8
+
+! Wrongfellow checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  Bene Futuis              |   49775 |       0 |folded|    |         |
+ 2|   Kinda Gamey              |   51750 |      75 |folded|    |         |
+ 3|   Jerry Connolly           |   49625 |     150 |folded|    |         |
+ 4|   Kevin Behrens            |   49525 |       0 |folded|    |         |
+ 5|   Spidurman                |   50750 |     150 |folded|    |         |
+ 6|>  jockamo                  |   52275 |     450 |      |    |         |
+ 7|   Wrongfellow              |    3475 |     450 |      |    |         |
+ 8|   Grizz                    |   91775 |       0 |folded|    |         |
+ 9|V  Cindy                    |   49775 |       0 | NoSho|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/18/18 12:36:27! Dealing a new hand
+! 11/18/18 12:36:27! No ante
+! 11/18/18 12:36:27! Kinda Gamey blinds $75
+! 11/18/18 12:36:27! Jerry Connolly blinds $150
+! 11/18/18 12:47:36! Kevin Behrens folds
+! 11/18/18 14:26:51! Spidurman calls 
+! 11/18/18 14:26:51! jockamo calls 
+_____________________________________________________________________________
+
+! D?oh! Lost track of what betting round we were in; thought I had a
+! outs left.
+! -- Wrongfellow --
+_____________________________________________________________________________
+
+! 11/18/18 14:26:51! Wrongfellow calls 
+! 11/18/18 14:26:51! Grizz folds
+! 11/18/18 14:26:51! Cindy is on vacation and folds
+! 11/18/18 16:34:07! Bene Futuis folds
+! 11/18/18 17:14:31! Kinda Gamey folds
+! 11/18/18 17:18:56! Jerry Connolly checks
+
+! 11/18/18 17:18:56! Pot right ($675), flopping/dealing/drawing cards
+! 11/18/18 17:18:56! 4 players
+! 11/18/18 17:18:56! Flopped cards: Ad Qd 3d
+! 11/18/18 17:21:13! Jerry Connolly checks
+! 11/18/18 18:20:48! Spidurman checks
+! 11/19/18 02:07:49! jockamo checks
+! 11/19/18 13:49:20! Wrongfellow checks
+
+! 11/19/18 13:49:20! Pot right ($675), flopping/dealing/drawing cards
+! 11/19/18 13:49:20! 4 players
+! 11/19/18 13:49:20! Flopped card: 6c
+! 11/19/18 13:55:28! Jerry Connolly checks
+! 11/19/18 13:55:28! Spidurman checks
+! 11/19/18 14:11:35! jockamo bets $300 
+! 11/19/18 14:11:35! Wrongfellow calls 
+! 11/19/18 14:25:12! Jerry Connolly folds
+! 11/19/18 14:25:12! Spidurman folds
+
+! 11/19/18 14:25:12! Pot right ($1275), flopping/dealing/drawing cards
+! 11/19/18 14:25:12! 2 players
+! 11/19/18 14:25:12! Flopped card: Js
+! 11/19/18 14:29:06! jockamo checks
+! 11/19/18 14:55:35! Wrongfellow checks
+! Hand over, current board is:  Ad Qd 3d 6c Js
+! jockamo                  has: Qs 9d
+! Wrongfellow              has: Ac 7c
+! Wrongfellow wins $1275 (net $825) with One Pair (A A Q J 7)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Bene Futuis              |   49775 |         |      |    |         |
+ 2|D  Kinda Gamey              |   51750 |         |      |    |         |
+ 3|   Jerry Connolly           |   49625 |         |      |    |         |
+ 4|   Kevin Behrens            |   49525 |         |      |    |         |
+ 5|   Spidurman                |   50750 |         |      |    |         |
+ 6|>  jockamo                  |   52275 |         |      |    |         |
+ 7|   Wrongfellow              |    4750 |         |      |    |         |
+ 8|   Grizz                    |   91775 |         |      |    |         |
+ 9|V  Cindy                    |   49775 |         | NoSho|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 573 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b53.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 3
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

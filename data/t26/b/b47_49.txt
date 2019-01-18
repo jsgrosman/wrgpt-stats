@@ -1,0 +1,106 @@
+
+! Table b47, Hand 49, Day 34
+
+! Rainbow Trout folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Rainbow Trout            |   89675 |     325 |folded|    |         |
+ 2|V  Tammy                    |   48425 |      25 |<AWOL>|    |         |
+ 4|V  Selah                    |   20650 |      25 |<AWOL>|    |         |
+ 5|   Baldgriff                |   60825 |      25 |folded|    |         |
+ 6|>  Grasshopp3r              |   51100 |    1300 |      |    |         |
+ 7|   J. Michael Robertson     |   34800 |      25 |folded|    |         |
+ 8|   asypta                   |   70725 |      25 |folded|    |         |
+ 9|D  Mybanjo                  |   72225 |      25 |folded|    |         |
+10|   jasong            |   49625 |     175 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/19/16 00:14:27! Dealing a new hand
+! 11/19/16 00:14:27! Everyone antes $25
+! 11/19/16 00:14:27! jasong blinds $150
+! 11/19/16 00:14:27! Rainbow Trout blinds $300
+! 11/19/16 00:14:27! Tammy is on vacation and folds
+! 11/19/16 00:14:27! Selah is on vacation and folds
+! 11/19/16 08:24:48! Baldgriff folds
+! 11/19/16 08:32:25! Grasshopp3r calls 
+! 11/19/16 08:32:25! J. Michael Robertson folds
+! 11/19/16 08:32:25! asypta folds
+! 11/19/16 08:32:25! Mybanjo folds
+! 11/19/16 08:32:25! jasong folds
+! 11/19/16 08:32:25! Rainbow Trout checks
+
+! 11/19/16 08:32:25! Pot right ($975), flopping/dealing/drawing cards
+! 11/19/16 08:32:25! 2 players
+! 11/19/16 08:32:25! Flopped cards: 3s 7d 5d
+! 11/19/16 08:46:47! Rainbow Trout checks
+! 11/19/16 08:47:25! Grasshopp3r bets $975 
+! 11/19/16 09:21:25! Rainbow Trout folds
+! Hand over, no showdown
+! Current board is:  3s 7d 5d ? ?
+! Grasshopp3r wins $1950 (net $650)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Rainbow Trout            |   89675 |         |      |    |         |
+ 2|V  Tammy                    |   48425 |         |<AWOL>|    |         |
+ 4|V  Selah                    |   20650 |         |<AWOL>|    |         |
+ 5|   Baldgriff                |   60825 |         |      |    |         |
+ 6|>  Grasshopp3r              |   53050 |         |      |    |         |
+ 7|   J. Michael Robertson     |   34800 |         |      |    |         |
+ 8|   asypta                   |   70725 |         |      |    |         |
+ 9|   Mybanjo                  |   72225 |         |      |    |         |
+10|D  jasong            |   49625 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 483 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b47.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Now that we are more than 30 days into the tourney
+all players that have not yet come to their table are being 
+removed over the next few days.
+
+======
+
+Live Redraw Status as of 11/19/16 08:55:01 AM
+
+Total Empty Seats: 27
+Total Playing Seats: 483
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman26@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

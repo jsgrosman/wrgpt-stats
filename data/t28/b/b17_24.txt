@@ -1,0 +1,116 @@
+Subject: [b17.10383] Holdem Game Broadcast Message(*)
+
+! Table b17, Hand 24, Day 20
+
+! crush_me checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   John Bernstein           |   41800 |       0 |folded|    |         |
+ 2|   Sandy                    |   49200 |       0 |folded|    |         |
+ 3|   Mike DellaBarca          |   44475 |       0 |folded|    |         |
+ 4|   Baldy                    |   83450 |       0 |folded|    |         |
+ 5|   shinsook                 |  107975 |       0 |folded|    |         |
+ 6|D  Kahomono                 |   50950 |     900 |folded|    |         |
+ 8|>  Mark Lemon               |   42475 |    4750 |      |    |         |
+ 9|   crush_me                 |   19275 |    4750 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/30/18 15:04:52! Dealing a new hand
+! 11/30/18 15:04:52! No ante
+! 11/30/18 15:04:52! Mark Lemon blinds $300
+! 11/30/18 15:09:47! crush_me raises $600 to $900 total 
+! 11/30/18 18:26:14! John Bernstein folds
+! 11/30/18 18:26:14! Sandy folds
+! 11/30/18 18:58:06! Mike DellaBarca folds
+! 11/30/18 19:37:57! Baldy folds
+! 11/30/18 19:37:57! shinsook folds
+! 12/01/18 00:34:59! Kahomono calls 
+! 12/01/18 00:34:59! Mark Lemon calls 
+
+! 12/01/18 00:34:59! Pot right ($2700), flopping/dealing/drawing cards
+! 12/01/18 00:34:59! 3 players
+! 12/01/18 00:34:59! Flopped cards: 4s 2s Kc
+! 12/01/18 03:42:40! Mark Lemon checks
+! 12/01/18 04:04:01! crush_me bets $1300 
+! 12/01/18 05:37:10! Kahomono folds
+! 12/01/18 05:37:10! Mark Lemon calls 
+
+! 12/01/18 05:37:10! Pot right ($5300), flopping/dealing/drawing cards
+! 12/01/18 05:37:10! 2 players
+! 12/01/18 05:37:10! Flopped card: 2d
+! 12/01/18 06:47:53! Mark Lemon checks
+! 12/01/18 07:58:23! crush_me bets $2550 
+! 12/01/18 09:10:02! Mark Lemon calls 
+
+! 12/01/18 09:10:02! Pot right ($10400), flopping/dealing/drawing cards
+! 12/01/18 09:10:02! 2 players
+! 12/01/18 09:10:02! Flopped card: 8c
+! 12/01/18 09:27:20! Mark Lemon checks
+! 12/01/18 09:38:14! crush_me checks
+! Hand over, current board is:  4s 2s Kc 2d 8c
+! Mark Lemon               has: Kh 9h
+! crush_me                 has: Ad 4d
+! Mark Lemon wins $10400 (net $5650) with Two Pair (K K 2 2 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   John Bernstein           |   41800 |         |      |    |         |
+ 2|   Sandy                    |   49200 |         |      |    |         |
+ 3|   Mike DellaBarca          |   44475 |         |      |    |         |
+ 4|   Baldy                    |   83450 |         |      |    |         |
+ 5|   shinsook                 |  107975 |         |      |    |         |
+ 6|D  Kahomono                 |   50950 |         |      |    |         |
+ 8|>  Mark Lemon               |   52875 |         |      |    |         |
+ 9|   crush_me                 |   19275 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 534 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b17.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

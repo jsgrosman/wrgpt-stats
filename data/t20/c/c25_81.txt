@@ -1,0 +1,93 @@
+Message-Id: <201101111657.p0BGvdq3007426@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [c25.10240] Holdem Game Broadcast Message(*)                          
+
+! Table c25, Hand 81, Day 72
+
+! Eddie Brown folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|V  Nikadai                  |  69925 |    100 |13 jan|    |        |
+ 2|>  mjoseff                  |  90875 |   9500 |      |    |        |
+ 3|D  Eddie Brown              |  50250 |   2500 |folded|    |        |
+ 4|V  Stanley Chow             |  27700 |    500 |<AWOL>|    |        |
+ 5|   jasong            |  74750 |    900 |folded|    |        |
+ 6|   jennyfar                 |  81300 |    100 |folded|    |        |
+ 7|   AW Coody                 | 111650 |    100 |folded|    |        |
+ 8|   b monie                  |  15400 |    100 |folded|    |        |
+ 9|   JAvery - VP              |  14550 |    100 |folded|    |        |
+10|   KluelessKid              |  45000 |    100 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 01/10/11 12:44:06! Dealing a new hand
+! 01/10/11 12:44:06! Everyone antes $100
+! 01/10/11 12:44:06! Stanley Chow blinds $400
+! 01/10/11 12:44:06! jasong blinds $800
+! 01/10/11 14:37:51! jennyfar folds
+! 01/10/11 14:37:51! AW Coody folds
+! 01/10/11 14:46:15! b monie folds
+! 01/11/11 08:18:46! JAvery - VP folds
+! 01/11/11 08:18:46! KluelessKid folds
+! 01/11/11 08:18:46! Nikadai is on vacation and folds
+! 01/11/11 08:34:02! mjoseff calls 
+! 01/11/11 08:44:38! Eddie Brown raises $1600 
+! 01/11/11 08:44:38! Stanley Chow is on vacation and folds
+! 01/11/11 08:44:38! jasong folds
+! 01/11/11 08:55:42! mjoseff calls 
+
+! 01/11/11 08:55:42! Pot right ($7000), flopping/dealing/drawing cards
+! 01/11/11 08:55:42! 2 players
+! 01/11/11 08:55:42! Flopped cards: 9s Js 4c
+! 01/11/11 08:56:12! mjoseff bets $7000 
+! 01/11/11 08:57:39! Eddie Brown folds
+! Hand over, no showdown
+! Current board is:  9s Js 4c ? ?
+! mjoseff wins $14000 (net $4500)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|V  Nikadai                  |  69925 |        |13 jan|    |        |
+ 2|>  mjoseff                  | 104875 |        |      |    |        |
+ 3|   Eddie Brown              |  50250 |        |      |    |        |
+ 4|DV Stanley Chow             |  27700 |        |<AWOL>|    |        |
+ 5|   jasong            |  74750 |        |      |    |        |
+ 6|   jennyfar                 |  81300 |        |      |    |        |
+ 7|   AW Coody                 | 111650 |        |      |    |        |
+ 8|   b monie                  |  15400 |        |      |    |        |
+ 9|   JAvery - VP              |  14550 |        |      |    |        |
+10|   KluelessKid              |  45000 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 566 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c25.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+If you have any problems send mail to floorman20@wrgpt.org.
+
+Live Redraw Status as of 01/11/11 08:55:01 AM
+
+Total Empty Seats: 30
+Total Playing Seats: 567
+Live redraw in progress:
+Seats Needed: 23
+Seats Waiting: 0
+Moving Players Waiting: 0
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org or follow "wrgpt" on Twitter.
+

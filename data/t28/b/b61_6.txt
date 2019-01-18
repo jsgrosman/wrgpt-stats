@@ -1,0 +1,126 @@
+Subject: [b61.10086] Holdem Game Broadcast Message(*)
+
+! Table b61, Hand 6, Day 5
+
+! Jason Feng checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Mark Dudley              |   50000 |       0 |folded|    |         |
+ 2|>  MShulman                 |   48775 |     500 |      |    |         |
+ 3|   Spier                    |   54575 |     500 |      |    |         |
+ 4|   DMW                      |   50975 |       0 |folded|    |         |
+ 5|   Jim Anderson             |   49175 |       0 |folded|    |         |
+ 6|D  Jason Feng               |   49850 |     500 |      |    |         |
+ 7|   Motown                   |   45075 |      75 |folded|    |         |
+ 8|   zzzrbt                   |   49850 |     150 |folded|    |         |
+ 9|   COC                      |   50000 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/15/18 13:20:43! Dealing a new hand
+! 11/15/18 13:20:43! No ante
+! 11/15/18 13:20:43! Motown blinds $75
+! 11/15/18 13:20:43! zzzrbt blinds $150
+! 11/15/18 13:30:11! COC folds
+! 11/15/18 13:30:11! Mark Dudley is on vacation and folds
+! 11/15/18 13:39:50! MShulman calls 
+! 11/15/18 16:02:00! Spier calls 
+! 11/15/18 16:02:00! DMW folds
+! 11/15/18 18:42:06! Jim Anderson folds
+! 11/15/18 18:51:58! Jason Feng calls 
+! 11/15/18 18:51:58! Motown folds
+! 11/15/18 20:25:28! zzzrbt checks
+
+! 11/15/18 20:25:28! Pot right ($675), flopping/dealing/drawing cards
+! 11/15/18 20:25:28! 4 players
+! 11/15/18 20:25:28! Flopped cards: 8d Js 7c
+! 11/15/18 20:26:08! zzzrbt checks
+! 11/16/18 06:35:04! MShulman checks
+! 11/16/18 10:37:02! Spier checks
+! 11/16/18 10:40:45! Jason Feng checks
+
+! 11/16/18 10:40:45! Pot right ($675), flopping/dealing/drawing cards
+! 11/16/18 10:40:45! 4 players
+! 11/16/18 10:40:45! Flopped card: 3c
+! 11/16/18 13:12:33! zzzrbt checks
+! 11/16/18 13:42:23! Mark Dudley is back from vacation
+! 11/16/18 13:57:39! MShulman checks
+! 11/16/18 14:05:18! Spier bets $350 
+! 11/16/18 14:32:23! Jason Feng calls 
+! 11/16/18 14:33:39! zzzrbt folds
+! 11/16/18 15:16:32! MShulman calls 
+
+! 11/16/18 15:16:32! Pot right ($1725), flopping/dealing/drawing cards
+! 11/16/18 15:16:32! 3 players
+! 11/16/18 15:16:32! Flopped card: 10h
+! 11/16/18 15:52:28! MShulman checks
+! 11/16/18 19:50:50! Spier checks
+! 11/16/18 19:54:10! Jason Feng checks
+! Hand over, current board is:  8d Js 7c 3c 10h
+! MShulman                 has: 2s 2c
+! Spier                    has: 7s 5s
+! Jason Feng               has: 10s Kc
+! Jason Feng wins $1725 (net $1225) with One Pair (10 10 K J 8)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Mark Dudley              |   50000 |         |      |    |         |
+ 2|>  MShulman                 |   48775 |         |      |    |         |
+ 3|   Spier                    |   54575 |         |      |    |         |
+ 4|   DMW                      |   50975 |         |      |    |         |
+ 5|   Jim Anderson             |   49175 |         |      |    |         |
+ 6|   Jason Feng               |   51575 |         |      |    |         |
+ 7|D  Motown                   |   45075 |         |      |    |         |
+ 8|   zzzrbt                   |   49850 |         |      |    |         |
+ 9|   COC                      |   50000 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 577 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b61.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 7
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,122 @@
+Subject: [b1.10811] Holdem Game Broadcast Message(*)
+
+% ok
+! -- Thomas Gabrysch --
+_____________________________________________________________________________
+
+! Table b1, Hand 81, Day 42
+
+! Thomas Gabrysch checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Nick Name                |   53125 |      25 |folded|    |         |
+ 2|   EricL                    |   92500 |    1025 |      |    |         |
+ 3|D  Thomas Gabrysch          |   36100 |    1025 |      |    |         |
+ 4|   breyercalvert            |  109200 |     175 |folded|    |         |
+ 5|   BaconPancakes            |   77450 |     325 |folded|    |         |
+ 6|>  mulligan                 |  106675 |    1025 |      |    |         |
+ 7|   stannius                 |   58200 |      25 |folded|    |         |
+ 8|   Kevin Mackey             |   52975 |      25 |folded|    |         |
+ 9|   Endrju                   |   49475 |      25 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/22/18 09:54:14! Dealing a new hand
+! 12/22/18 09:54:14! Everyone antes $25
+! 12/22/18 09:54:14! breyercalvert blinds $150
+! 12/22/18 09:54:14! BaconPancakes blinds $300
+! 12/22/18 10:40:45! mulligan raises $700 to $1000 total 
+! 12/22/18 10:40:45! stannius folds
+! 12/22/18 10:40:45! Kevin Mackey folds
+! 12/22/18 10:40:45! Endrju folds
+! 12/22/18 11:26:26! Nick Name folds
+! 12/22/18 15:10:22! EricL calls 
+! 12/22/18 15:10:22! Thomas Gabrysch calls 
+! 12/22/18 15:28:35! breyercalvert folds
+! 12/22/18 15:28:35! BaconPancakes folds
+
+! 12/22/18 15:28:35! Pot right ($3675), flopping/dealing/drawing cards
+! 12/22/18 15:28:35! 3 players
+! 12/22/18 15:28:35! Flopped cards: 5c 3d Jh
+! 12/22/18 15:34:09! mulligan checks
+! 12/22/18 15:56:46! EricL checks
+! 12/22/18 22:02:47! Thomas Gabrysch checks
+
+! 12/22/18 22:02:47! Pot right ($3675), flopping/dealing/drawing cards
+! 12/22/18 22:02:47! 3 players
+! 12/22/18 22:02:47! Flopped card: 6s
+! 12/23/18 04:54:37! mulligan checks
+! 12/23/18 04:55:40! EricL checks
+! 12/23/18 06:59:47! Thomas Gabrysch checks
+
+! 12/23/18 06:59:47! Pot right ($3675), flopping/dealing/drawing cards
+! 12/23/18 06:59:47! 3 players
+! 12/23/18 06:59:47! Flopped card: 7s
+! 12/23/18 10:46:42! mulligan checks
+! 12/23/18 11:50:30! EricL checks
+_____________________________________________________________________________
+
+! ok
+! -- Thomas Gabrysch --
+_____________________________________________________________________________
+
+! 12/23/18 13:00:40! Thomas Gabrysch checks
+! Hand over, current board is:  5c 3d Jh 6s 7s
+! EricL                    has: 9s Kd
+! Thomas Gabrysch          has: Qh Ac
+! mulligan                 has: 10h 9h
+! Thomas Gabrysch wins $3675 (net $2650) with No Pair (A Q J 7 6)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Nick Name                |   53125 |         |      |    |         |
+ 2|   EricL                    |   92500 |         |      |    |         |
+ 3|   Thomas Gabrysch          |   39775 |         |      |    |         |
+ 4|D  breyercalvert            |  109200 |         |      |    |         |
+ 5|   BaconPancakes            |   77450 |         |      |    |         |
+ 6|>  mulligan                 |  106675 |         |      |    |         |
+ 7|   stannius                 |   58200 |         |      |    |         |
+ 8|   Kevin Mackey             |   52975 |         |      |    |         |
+ 9|   Endrju                   |   49475 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 440 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b1.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 10
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

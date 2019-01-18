@@ -1,0 +1,116 @@
+Subject: [b8.10612] Holdem Game Broadcast Message(*)
+
+! Table b8, Hand 48, Day 31
+
+! dubldown checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Josh Goldshlag           |   46600 |      25 |folded|    |         |
+ 2|   fxdp                     |   70200 |     325 |folded|    |         |
+ 3|D  Indi                     |   59825 |     325 |folded|    |         |
+ 4|   Charles Moore            |   22300 |     325 |folded|    |         |
+ 5|>  Julie Greenberg          |   41850 |    5250 |      |    |         |
+ 6|   Oldsharkbait             |   75050 |     325 |folded|    |         |
+ 7|   AlbinoSmurf              |   69075 |      25 |folded|    |         |
+ 8|   dubldown                 |   33500 |    5250 |      |    |         |
+ 9|   Cody Jones               |   70400 |      25 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/11/18 13:51:24! Dealing a new hand
+! 12/11/18 13:51:24! Everyone antes $25
+! 12/11/18 13:51:24! Charles Moore blinds $150
+! 12/11/18 13:51:24! Julie Greenberg blinds $300
+! 12/11/18 13:54:03! Oldsharkbait calls 
+! 12/11/18 13:55:03! AlbinoSmurf folds
+! 12/11/18 14:00:26! dubldown calls 
+! 12/11/18 14:03:28! Cody Jones folds
+! 12/11/18 14:09:39! Josh Goldshlag folds
+! 12/11/18 14:40:23! fxdp calls 
+! 12/11/18 14:41:02! Indi calls 
+! 12/11/18 16:09:59! Charles Moore calls 
+! 12/11/18 16:41:36! Julie Greenberg checks
+
+! 12/11/18 16:41:36! Pot right ($2025), flopping/dealing/drawing cards
+! 12/11/18 16:41:36! 6 players
+! 12/11/18 16:41:36! Flopped cards: 2h Ah 3h
+! 12/11/18 16:51:24! Charles Moore checks
+! 12/11/18 17:00:21! Julie Greenberg checks
+! 12/11/18 17:02:28! Oldsharkbait checks
+! 12/11/18 17:25:53! dubldown bets $1675 
+! 12/11/18 19:50:49! fxdp folds
+! 12/11/18 23:01:59! Indi folds
+! 12/12/18 06:40:59! Charles Moore folds
+! 12/12/18 06:40:59! Julie Greenberg calls 
+! 12/12/18 06:40:59! Oldsharkbait folds
+
+! 12/12/18 06:40:59! Pot right ($5375), flopping/dealing/drawing cards
+! 12/12/18 06:40:59! 2 players
+! 12/12/18 06:40:59! Flopped card: 5s
+! 12/12/18 07:14:52! Julie Greenberg checks
+! 12/12/18 07:17:44! dubldown bets $3250 
+! 12/12/18 08:26:24! Julie Greenberg calls 
+
+! 12/12/18 08:26:24! Pot right ($11875), flopping/dealing/drawing cards
+! 12/12/18 08:26:24! 2 players
+! 12/12/18 08:26:24! Flopped card: 7d
+! 12/12/18 08:27:01! Julie Greenberg checks
+! 12/12/18 08:31:18! dubldown checks
+! Hand over, current board is:  2h Ah 3h 5s 7d
+! Julie Greenberg          has: 8s 4h
+! dubldown                 has: As 2s
+! Julie Greenberg wins $11875 (net $6625) with Straight (5 4 3 2 A)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Josh Goldshlag           |   46600 |         |      |    |         |
+ 2|   fxdp                     |   70200 |         |      |    |         |
+ 3|   Indi                     |   59825 |         |      |    |         |
+ 4|D  Charles Moore            |   22300 |         |      |    |         |
+ 5|>  Julie Greenberg          |   53725 |         |      |    |         |
+ 6|   Oldsharkbait             |   75050 |         |      |    |         |
+ 7|   AlbinoSmurf              |   69075 |         |      |    |         |
+ 8|   dubldown                 |   33500 |         |      |    |         |
+ 9|   Cody Jones               |   70400 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 488 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b8.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 18
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

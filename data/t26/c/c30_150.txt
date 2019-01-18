@@ -1,0 +1,129 @@
+
+! Table c30, Hand 150, Day 87
+
+! Fuhzee checks
+! asypta checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   jasong            |   44250 |     300 |folded|    |         |
+ 2|   slugbot                  |   40500 |     300 |folded|    |         |
+ 3|D  Spike                    |  169500 |     300 |folded|    |         |
+ 4|>  tom porter               |   89625 |    4300 |      |    |         |
+ 5|   Morgan                   |   16900 |    2300 |folded|    |         |
+ 6|   Fuhzee                   |   45150 |    4300 |      |    |         |
+ 8|   SmBoatDrinks             |  305450 |     300 |folded|    |         |
+ 9|   shinsook                 |  120675 |     300 |folded|    |         |
+10|   asypta                   |   93675 |    4300 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/11/17 09:24:04! Dealing a new hand
+! 01/11/17 09:24:04! Everyone antes $300
+! 01/11/17 09:24:04! tom porter blinds $1000
+! 01/11/17 09:24:04! Morgan blinds $2000
+! 01/11/17 09:45:21! Fuhzee calls 
+! 01/11/17 09:45:21! SmBoatDrinks folds
+! 01/11/17 10:14:18! tom porter is back from vacation
+! 01/11/17 10:23:20! shinsook folds
+! 01/11/17 10:23:55! asypta calls 
+! 01/11/17 10:23:55! jasong folds
+! 01/11/17 10:28:30! slugbot folds
+! 01/11/17 10:30:15! Spike folds
+! 01/11/17 10:57:34! tom porter calls 
+! 01/11/17 10:58:53! Morgan checks
+
+! 01/11/17 10:58:53! Pot right ($10700), flopping/dealing/drawing cards
+! 01/11/17 10:58:53! 4 players
+! 01/11/17 10:58:53! Flopped cards: 2h 4s 8h
+! 01/11/17 11:34:58! tom porter checks
+! 01/11/17 11:56:45! Morgan checks
+! 01/11/17 12:14:04! Fuhzee checks
+! 01/11/17 12:17:59! asypta checks
+
+! 01/11/17 12:17:59! Pot right ($10700), flopping/dealing/drawing cards
+! 01/11/17 12:17:59! 4 players
+! 01/11/17 12:17:59! Flopped card: 8c
+! 01/11/17 13:04:45! tom porter bets $2000 
+! 01/11/17 13:10:44! Morgan folds
+! 01/11/17 13:23:40! Fuhzee calls 
+! 01/11/17 13:28:21! asypta calls 
+
+! 01/11/17 13:28:21! Pot right ($16700), flopping/dealing/drawing cards
+! 01/11/17 13:28:21! 3 players
+! 01/11/17 13:28:21! Flopped card: 7d
+! 01/11/17 14:48:45! tom porter checks
+! 01/11/17 14:56:55! Fuhzee checks
+! 01/11/17 14:56:55! asypta checks
+! Hand over, current board is:  2h 4s 8h 8c 7d
+! tom porter               has: Ah 3c
+! Fuhzee                   has: As 10d
+! asypta                   has: Jh 9h
+! Fuhzee wins $16700 (net $12400) with One Pair (8 8 A 10 7)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   jasong            |   44250 |         |      |    |         |
+ 2|   slugbot                  |   40500 |         |      |    |         |
+ 3|   Spike                    |  169500 |         |      |    |         |
+ 4|D> tom porter               |   89625 |         |      |    |         |
+ 5|   Morgan                   |   16900 |         |      |    |         |
+ 6|   Fuhzee                   |   61850 |         |      |    |         |
+ 8|   SmBoatDrinks             |  305450 |         |      |    |         |
+ 9|   shinsook                 |  120675 |         |      |    |         |
+10|   asypta                   |   93675 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 280 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c30.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+We have reached 30 days in round "c" so there
+will be no more live redraws this round.  When
+any table gets to 5 or fewer players all tables
+will finish the current hand then a full redraw
+will be done.
+
+======
+
+Live Redraw Status as of 01/11/17 02:55:02 PM
+
+Total Empty Seats: 20
+Total Playing Seats: 280
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman26@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

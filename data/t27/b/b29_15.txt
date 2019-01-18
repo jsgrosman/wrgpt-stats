@@ -1,0 +1,132 @@
+
+! Table b29, Hand 15, Day 13
+
+! Bernie checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Ryan Thomas              |   48575 |       0 |folded|    |         |
+ 2|D  Ben Buchwald             |   49425 |       0 |folded|    |         |
+ 3|   Deryl Garland            |   49350 |      75 |folded|    |         |
+ 4|   Paul Ant                 |   49625 |     150 |folded|    |         |
+ 5|>  beowulf                  |   24625 |   21200 |      |    |         |
+ 6|   Cindy                    |   49350 |       0 |folded|    |         |
+ 7|   asypta                   |   53725 |       0 |folded|    |         |
+ 8|   Bernie                   |   76525 |   21200 |      |    |         |
+ 9|   John Senger              |   51600 |       0 |folded|    |         |
+10|   jasong            |  104275 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/03/17 07:58:14! Dealing a new hand
+! 11/03/17 07:58:14! No ante
+! 11/03/17 07:58:14! Deryl Garland blinds $75
+! 11/03/17 07:58:14! Paul Ant blinds $150
+! 11/03/17 09:06:38! beowulf calls 
+! 11/03/17 10:50:02! Cindy folds
+! 11/03/17 10:50:02! asypta folds
+! 11/03/17 11:18:20! Bernie raises $350 
+! 11/03/17 11:18:20! John Senger folds
+! 11/03/17 11:18:20! jasong folds
+! 11/03/17 11:49:39! Ryan Thomas folds
+! 11/03/17 11:49:39! Ben Buchwald folds
+! 11/03/17 11:49:39! Deryl Garland folds
+! 11/04/17 03:10:55! Paul Ant folds
+! 11/04/17 08:22:41! beowulf calls 
+
+! 11/04/17 08:22:41! Pot right ($1225), flopping/dealing/drawing cards
+! 11/04/17 08:22:41! 2 players
+! 11/04/17 08:22:41! Flopped cards: 4s Ac 5c
+! 11/04/17 08:25:07! beowulf bets $700 
+! 11/04/17 09:52:11! Bernie calls 
+
+! 11/04/17 09:52:11! Pot right ($2625), flopping/dealing/drawing cards
+! 11/04/17 09:52:11! 2 players
+! 11/04/17 09:52:11! Flopped card: 4d
+! 11/04/17 11:03:36! beowulf checks
+! 11/04/17 11:04:00! Bernie bets $20000 
+! 11/04/17 11:57:15! beowulf calls 
+
+! 11/04/17 11:57:15! Pot right ($42625), flopping/dealing/drawing cards
+! 11/04/17 11:57:15! 2 players
+! 11/04/17 11:57:15! Flopped card: 5h
+! 11/04/17 11:57:54! beowulf checks
+! 11/04/17 12:36:25! Bernie checks
+! Hand over, current board is:  4s Ac 5c 4d 5h
+! beowulf                  has: Ks 3h
+! Bernie                   has: Qh Qd
+! Bernie wins $42625 (net $21425) with Two Pair (Q Q 5 5 A)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Ryan Thomas              |   48575 |         |      |    |         |
+ 2|   Ben Buchwald             |   49425 |         |      |    |         |
+ 3|D  Deryl Garland            |   49350 |         |      |    |         |
+ 4|   Paul Ant                 |   49625 |         |      |    |         |
+ 5|>  beowulf                  |   24625 |         |      |    |         |
+ 6|   Cindy                    |   49350 |         |      |    |         |
+ 7|   asypta                   |   53725 |         |      |    |         |
+ 8|   Bernie                   |  119150 |         |      |    |         |
+ 9|   John Senger              |   51600 |         |      |    |         |
+10|   jasong            |  104275 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 563 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b29.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+Daylight Saving Time is ending in USA on November 4
+so the dealer's clock will fall back one hour.
+
+Players who do not come to the tables by day 30 will
+be removed.
+
+The entire round 'b' will be redrawn after day 45.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Live Redraw Status as of 11/04/17 12:25:01 PM
+
+Total Empty Seats: 7
+Total Playing Seats: 563
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman27@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

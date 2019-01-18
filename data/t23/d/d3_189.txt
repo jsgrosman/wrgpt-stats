@@ -1,0 +1,109 @@
+Message-Id: <201403201719.s2KHJfD4021665@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [d3.10281] Holdem Game Broadcast Message(*)                          
+
+! Table d3, Hand 189, Day 130
+
+! Johan Blixt folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Liam OConnell            |  62800 |    600 |folded|    |        |
+ 2|   jasong            |  67150 |    600 |folded|    |        |
+ 3|D  madking                  |  92600 |    600 |folded|    |        |
+ 4|   Johan Blixt              |  20100 |   4600 |folded|    |        |
+ 5|>  Jay E The Wanderer       | 171200 |  14600 |      |    |        |
+ 6|   kaplaba                  |  50400 |    600 |folded|    |        |
+ 7|   BIG MIKE                 |  28225 |    600 |folded|    |        |
+ 8|   Larry Stone              | 114800 |    600 |folded|    |        |
+ 9|   John Kugelman            | 387300 |    600 |folded|    |        |
+10|V  paze                     | 207075 |    600 |<AWOL>|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 03/19/14 12:43:15! Dealing a new hand
+! 03/19/14 12:43:15! Everyone antes $600
+! 03/19/14 12:43:15! Johan Blixt blinds $2000
+! 03/19/14 12:43:15! Jay E The Wanderer blinds $4000
+! 03/19/14 13:45:50! kaplaba folds
+! 03/19/14 13:45:50! BIG MIKE folds
+! 03/19/14 13:45:50! Larry Stone folds
+! 03/19/14 13:45:50! John Kugelman folds
+! 03/19/14 13:45:50! paze is on vacation and folds
+! 03/19/14 13:45:50! Liam OConnell folds
+! 03/19/14 14:35:21! jasong folds
+! 03/19/14 14:35:21! madking folds
+! 03/19/14 14:35:21! Johan Blixt calls 
+! 03/19/14 20:12:39! Jay E The Wanderer checks
+
+! 03/19/14 20:12:39! Pot right ($14000), flopping/dealing/drawing cards
+! 03/19/14 20:12:39! 2 players
+! 03/19/14 20:12:39! Flopped cards: 10d 5s 10c
+! 03/19/14 23:15:17! Johan Blixt checks
+! 03/20/14 04:05:25! Jay E The Wanderer checks
+
+! 03/20/14 04:05:25! Pot right ($14000), flopping/dealing/drawing cards
+! 03/20/14 04:05:25! 2 players
+! 03/20/14 04:05:25! Flopped card: Qd
+! 03/20/14 09:01:02! Johan Blixt checks
+! 03/20/14 10:14:58! Jay E The Wanderer bets $10000 
+! 03/20/14 10:19:40! Johan Blixt folds
+! Hand over, no showdown
+! Current board is:  10d 5s 10c Qd ?
+! Jay E The Wanderer wins $24000 (net $9400)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Liam OConnell            |  62800 |        |      |    |        |
+ 2|   jasong            |  67150 |        |      |    |        |
+ 3|   madking                  |  92600 |        |      |    |        |
+ 4|D  Johan Blixt              |  20100 |        |      |    |        |
+ 5|>  Jay E The Wanderer       | 195200 |        |      |    |        |
+ 6|   kaplaba                  |  50400 |        |      |    |        |
+ 7|   BIG MIKE                 |  28225 |        |      |    |        |
+ 8|   Larry Stone              | 114800 |        |      |    |        |
+ 9|   John Kugelman            | 387300 |        |      |    |        |
+10|V  paze                     | 207075 |        |<AWOL>|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 158 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d3.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+Here is a link to the railbird mailing list:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman23@wrgpt.org.
+
+Live Redraw Status as of 03/20/14 09:55:01 AM
+
+Total Empty Seats: 2
+Total Playing Seats: 158
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

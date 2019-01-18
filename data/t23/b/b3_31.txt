@@ -1,0 +1,99 @@
+Message-Id: <201312182129.rBILTwVF009505@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [b3.10437] Holdem Game Broadcast Message(*)                          
+
+! Table b3, Hand 31, Day 38
+
+! Zipper bets $600 
+! Jose Aguas folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Jim Sokoloff             |  28075 |      0 |folded|    |        |
+ 2|V  Gillian Groves           |  53850 |      0 |24 dec|    |        |
+ 4|   shaerinck                |  40175 |      0 |folded|    |        |
+ 5|   Cindy                    |  56450 |      0 |folded|    |        |
+ 6|   jsw                      |  84275 |      0 |folded|    |        |
+ 7|D  Johnny Ice               |  60900 |      0 |folded|    |        |
+ 8|   Jose Aguas               |  45050 |    400 |folded|    |        |
+ 9|>  Zipper                   |  31250 |   1000 |      |    |        |
+10|   jasong            |  70225 |      0 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 12/17/13 21:54:26! Dealing a new hand
+! 12/17/13 21:54:26! No ante
+! 12/17/13 21:54:26! Jose Aguas blinds $200
+! 12/17/13 21:54:26! Zipper blinds $400
+! 12/17/13 22:03:37! jasong folds
+! 12/18/13 03:55:26! Jim Sokoloff folds
+! 12/18/13 03:55:26! Gillian Groves is on vacation and folds
+! 12/18/13 03:55:26! shaerinck folds
+! 12/18/13 12:33:04! Cindy folds
+! 12/18/13 12:33:04! jsw folds
+! 12/18/13 12:33:04! Johnny Ice folds
+! 12/18/13 12:33:51! Jose Aguas calls 
+! 12/18/13 13:20:26! Zipper checks
+
+! 12/18/13 13:20:26! Pot right ($800), flopping/dealing/drawing cards
+! 12/18/13 13:20:26! 2 players
+! 12/18/13 13:20:26! Flopped cards: 9s Ac 6s
+! 12/18/13 13:25:55! Jose Aguas checks
+! 12/18/13 13:29:57! Zipper bets $600 
+! 12/18/13 13:29:57! Jose Aguas folds
+! Hand over, no showdown
+! Current board is:  9s Ac 6s ? ?
+! Zipper wins $1400 (net $400)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Jim Sokoloff             |  28075 |        |      |    |        |
+ 2|V  Gillian Groves           |  53850 |        |24 dec|    |        |
+ 4|   shaerinck                |  40175 |        |      |    |        |
+ 5|   Cindy                    |  56450 |        |      |    |        |
+ 6|   jsw                      |  84275 |        |      |    |        |
+ 7|   Johnny Ice               |  60900 |        |      |    |        |
+ 8|D  Jose Aguas               |  45050 |        |      |    |        |
+ 9|>  Zipper                   |  32650 |        |      |    |        |
+10|   jasong            |  70225 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 741 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b3.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+Here is a link to the railbird mailing list:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman23@wrgpt.org.
+
+Live Redraw Status as of 12/18/13 01:25:01 PM
+
+Total Empty Seats: 29
+Total Playing Seats: 741
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

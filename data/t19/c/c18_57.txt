@@ -1,0 +1,95 @@
+Message-Id: <201001190623.o0J6NqSn024443@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [c18.10092] Holdem Game Broadcast Message(*)                          
+
+! Table c18, Hand 57, Day 64
+
+! Levi folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Levi                     |  17600 |   1300 |folded|    |        |
+ 2|   Widowmaker               |  72700 |     50 |folded|    |        |
+ 3|   UKPOKER                  |  24450 |     50 |folded|    |        |
+ 4|   J Spencer                |  23150 |     50 |folded|    |        |
+ 5|   Vike                     |  22850 |     50 |folded|    |        |
+ 6|   JB                       |  58850 |    450 |folded|    |        |
+ 7|   jasong            |  30600 |     50 |folded|    |        |
+ 8|>  Senor Sheep              |  25100 |   3500 |      |    |        |
+ 9|D  Brian K                  |  54050 |     50 |folded|    |        |
+10|   jcommand                 |  25025 |    250 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 01/18/10 01:23:48! Dealing a new hand
+! 01/18/10 01:23:48! Everyone antes $50
+! 01/18/10 01:23:48! jcommand blinds $200
+! 01/18/10 01:23:48! Levi blinds $400
+! 01/18/10 03:18:32! Widowmaker folds
+! 01/18/10 03:18:32! UKPOKER folds
+! 01/18/10 08:28:02! J Spencer folds
+! 01/18/10 08:28:02! Vike folds
+! 01/18/10 08:30:23! JB calls 
+! 01/18/10 09:28:48! jasong folds
+! 01/18/10 09:44:08! Senor Sheep raises $850 
+! 01/18/10 11:31:55! Brian K folds
+! 01/18/10 11:31:55! jcommand folds
+! 01/18/10 14:02:51! Levi calls 
+! 01/18/10 14:02:51! JB folds
+
+! 01/18/10 14:02:51! Pot right ($3600), flopping/dealing/drawing cards
+! 01/18/10 14:02:51! 2 players
+! 01/18/10 14:02:51! Flopped cards: Qs Jh 9h
+! 01/18/10 14:03:11! Levi checks
+! 01/18/10 22:10:56! Senor Sheep bets $2200 
+! 01/18/10 22:23:52! Levi folds
+! Hand over, no showdown
+! Current board is:  Qs Jh 9h ? ?
+! Senor Sheep wins $5800 (net $2300)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Levi                     |  17600 |        |      |    |        |
+ 2|   Widowmaker               |  72700 |        |      |    |        |
+ 3|   UKPOKER                  |  24450 |        |      |    |        |
+ 4|   J Spencer                |  23150 |        |      |    |        |
+ 5|   Vike                     |  22850 |        |      |    |        |
+ 6|   JB                       |  58850 |        |      |    |        |
+ 7|   jasong            |  30600 |        |      |    |        |
+ 8|>  Senor Sheep              |  30900 |        |      |    |        |
+ 9|   Brian K                  |  54050 |        |      |    |        |
+10|D  jcommand                 |  25025 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! Vike went on vacation until <Gone>
+! 761 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c18.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Good luck in the second round.
+
+Try to send your action in before it is your turn so keep
+play moving quickly.
+
+Live Redraw Status as of 01/18/10 09:55:01 PM
+
+Total Empty Seats: 25
+Total Playing Seats: 761
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org or follow "wrgpt" on Twitter.
+

@@ -1,0 +1,100 @@
+Message-Id: <201012071538.oB7FcR0M026317@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [b20.10511] Holdem Game Broadcast Message(*)                          
+
+! Table b20, Hand 43, Day 37
+
+! plankton calls 
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|D  Blacktav                 |  56000 |      0 |folded|    |        |
+ 2|>  jasong            |  32400 |  21200 |      |    |        |
+ 3|   Andrew Nelson            |  25100 |    400 |folded|    |        |
+ 4|   plankton                 |  68575 |  21200 |      |    |        |
+ 6|V  Late Entry 2             |  28650 |      0 | NoSho|    |        |
+ 7|   Greg Folla               |  56500 |    400 |folded|    |        |
+ 8|   JackBlack                |  49650 |      0 |folded|    |        |
+10|   Cyberchomp               |  31375 |      0 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 12/06/10 13:42:08! Dealing a new hand
+! 12/06/10 13:42:08! No ante
+! 12/06/10 13:42:08! jasong blinds $200
+! 12/06/10 13:42:08! Andrew Nelson blinds $400
+! 12/06/10 13:42:45! plankton calls 
+! 12/06/10 13:42:45! Late Entry 2 is on vacation and folds
+! 12/07/10 04:07:52! Greg Folla calls 
+! 12/07/10 04:28:58! JackBlack folds
+! 12/07/10 04:28:58! Cyberchomp folds
+! 12/07/10 04:28:58! Blacktav folds
+! 12/07/10 05:49:41! jasong calls 
+! 12/07/10 06:09:39! Andrew Nelson checks
+
+! 12/07/10 06:09:39! Pot right ($1600), flopping/dealing/drawing cards
+! 12/07/10 06:09:39! 4 players
+! 12/07/10 06:09:39! Flopped cards: 8c 10s 2c
+! 12/07/10 06:45:13! jasong bets $1600 
+! 12/07/10 06:48:09! Andrew Nelson folds
+! 12/07/10 06:49:48! plankton calls 
+! 12/07/10 07:24:33! Greg Folla folds
+
+! 12/07/10 07:24:33! Pot right ($4800), flopping/dealing/drawing cards
+! 12/07/10 07:24:33! 2 players
+! 12/07/10 07:24:33! Flopped card: 7c
+! 12/07/10 07:27:13! jasong bets $4800 
+! 12/07/10 07:27:56! plankton calls 
+
+! 12/07/10 07:27:56! Pot right ($14400), flopping/dealing/drawing cards
+! 12/07/10 07:27:56! 2 players
+! 12/07/10 07:27:56! Flopped card: 4h
+! 12/07/10 07:35:59! jasong bets $14400 
+! 12/07/10 07:38:26! plankton calls 
+! Hand over, current board is:  8c 10s 2c 7c 4h
+! jasong            has: 8s 8d
+! plankton                 has: 2s 2h
+! jasong wins $43200 (net $22000) with Three of a Kind (8 8 8 10 7)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Blacktav                 |  56000 |        |      |    |        |
+ 2|D> jasong            |  75600 |        |      |    |        |
+ 3|   Andrew Nelson            |  25100 |        |      |    |        |
+ 4|   plankton                 |  68575 |        |      |    |        |
+ 6|V  Late Entry 2             |  28650 |        | NoSho|    |        |
+ 7|   Greg Folla               |  56500 |        |      |    |        |
+ 8|   JackBlack                |  49650 |        |      |    |        |
+10|   Cyberchomp               |  31375 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 758 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b20.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Good luck.
+
+If you have problems send mail to floorman20@wrgpt.org.
+
+Live Redraw Status as of 12/07/10 07:25:02 AM
+
+Total Empty Seats: 22
+Total Playing Seats: 758
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org or follow "wrgpt" on Twitter.
+

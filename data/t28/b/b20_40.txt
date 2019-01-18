@@ -1,0 +1,123 @@
+Subject: [b20.10468] Holdem Game Broadcast Message(*)
+
+! Table b20, Hand 40, Day 28
+
+! Andrew Nelson bets $3500 
+! Mike B folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   null                     |   49950 |       0 |folded|    |         |
+ 2|   Claudia M                |   61575 |       0 |folded|    |         |
+ 3|   Frank Irwin              |   45150 |       0 |folded|    |         |
+ 4|D  J. Michael Hammond       |   33700 |    1000 |folded|    |         |
+ 5|   D-man                    |   93075 |    1000 |folded|    |         |
+ 6|   Mike B                   |   51225 |    2800 |folded|    |         |
+ 7|   paulpud                  |   41975 |       0 |folded|    |         |
+ 8|>  Andrew Nelson            |   27300 |    6300 |      |    |         |
+ 9|   Mrstcao                  |   82725 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/08/18 10:24:07! Dealing a new hand
+! 12/08/18 10:24:07! No ante
+! 12/08/18 10:24:07! D-man blinds $150
+! 12/08/18 10:24:07! Mike B blinds $300
+_____________________________________________________________________________
+
+! Yes, I disrespected the power of presto.  I beg forgiveness from the wrg
+! gods.
+! -- paulpud --
+_____________________________________________________________________________
+
+! 12/08/18 10:32:20! paulpud folds
+! 12/08/18 10:57:13! Andrew Nelson raises $700 to $1000 total 
+! 12/08/18 10:58:02! Mrstcao folds
+! 12/08/18 10:58:02! null folds
+! 12/08/18 10:58:02! Claudia M folds
+! 12/08/18 10:59:28! Frank Irwin folds
+! 12/08/18 11:41:59! J. Michael Hammond calls 
+! 12/08/18 11:45:11! D-man calls 
+! 12/08/18 11:45:11! Mike B calls 
+
+! 12/08/18 11:45:11! Pot right ($4000), flopping/dealing/drawing cards
+! 12/08/18 11:45:11! 4 players
+! 12/08/18 11:45:11! Flopped cards: 10c 4h 5c
+! 12/08/18 13:30:46! D-man checks
+! 12/08/18 13:30:46! Mike B bets $600 
+! 12/08/18 13:33:42! Andrew Nelson raises $1200 to $1800 total 
+! 12/08/18 14:27:09! J. Michael Hammond folds
+! 12/09/18 00:15:38! D-man folds
+! 12/09/18 00:15:38! Mike B calls 
+
+! 12/09/18 00:15:38! Pot right ($7600), flopping/dealing/drawing cards
+! 12/09/18 00:15:38! 2 players
+! 12/09/18 00:15:38! Flopped card: 5s
+! 12/09/18 04:31:43! Mike B checks
+! 12/09/18 05:50:43! Andrew Nelson bets $3500 
+! 12/09/18 05:50:43! Mike B folds
+! Hand over, no showdown
+! Current board is:  10c 4h 5c 5s ?
+! Andrew Nelson wins $11100 (net $4800)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   null                     |   49950 |         |      |    |         |
+ 2|   Claudia M                |   61575 |         |      |    |         |
+ 3|   Frank Irwin              |   45150 |         |      |    |         |
+ 4|   J. Michael Hammond       |   33700 |         |      |    |         |
+ 5|D  D-man                    |   93075 |         |      |    |         |
+ 6|   Mike B                   |   51225 |         |      |    |         |
+ 7|   paulpud                  |   41975 |         |      |    |         |
+ 8|>  Andrew Nelson            |   38400 |         |      |    |         |
+ 9|   Mrstcao                  |   82725 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 511 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b20.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 2
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

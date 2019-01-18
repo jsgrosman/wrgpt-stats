@@ -1,0 +1,110 @@
+Subject: [b21.11185] Holdem Game Broadcast Message(*)
+
+! Table b21, Hand 103, Day 36
+
+! Eric Brassell calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Isaac Newton             |   44350 |      25 |folded|    |         |
+ 2|   Eric Brassell            |   51650 |    5000 |      |    |         |
+ 3|   Patti                    |   42375 |      25 |folded|    |         |
+ 4|   Ken Anderson             |  142125 |      25 |folded|    |         |
+ 5|   Chris Sims               |   63475 |      25 |folded|    |         |
+ 6|D  fich                     |   41750 |      25 |folded|    |         |
+ 7|   Deborah Abel             |   48250 |     175 |folded|    |         |
+ 8|>  asypta                   |   40925 |    5000 |      |    |         |
+ 9|   RunGoodRob               |   55925 |     975 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/16/18 19:11:46! Dealing a new hand
+! 12/16/18 19:11:46! Everyone antes $25
+! 12/16/18 19:11:46! Deborah Abel blinds $150
+! 12/16/18 19:11:46! asypta blinds $300
+! 12/16/18 19:22:44! RunGoodRob calls 
+! 12/16/18 19:56:32! Isaac Newton folds
+! 12/17/18 02:43:26! Eric Brassell raises $650 to $950 total 
+! 12/17/18 02:43:26! Patti folds
+! 12/17/18 02:43:26! Ken Anderson folds
+! 12/17/18 06:36:44! Chris Sims folds
+! 12/17/18 09:31:22! fich folds
+! 12/17/18 09:31:22! Deborah Abel folds
+! 12/17/18 09:39:19! asypta calls 
+! 12/17/18 11:18:12! RunGoodRob calls 
+
+! 12/17/18 11:18:12! Pot right ($3225), flopping/dealing/drawing cards
+! 12/17/18 11:18:12! 3 players
+! 12/17/18 11:18:12! Flopped cards: Jd 8d 3c
+! 12/17/18 11:30:07! asypta bets $1025 
+! 12/17/18 12:03:09! RunGoodRob folds
+! 12/17/18 12:10:21! Eric Brassell calls 
+
+! 12/17/18 12:10:21! Pot right ($5275), flopping/dealing/drawing cards
+! 12/17/18 12:10:21! 2 players
+! 12/17/18 12:10:21! Flopped card: 3h
+! 12/17/18 12:12:05! asypta checks
+! 12/17/18 12:32:23! Eric Brassell checks
+
+! 12/17/18 12:32:23! Pot right ($5275), flopping/dealing/drawing cards
+! 12/17/18 12:32:23! 2 players
+! 12/17/18 12:32:23! Flopped card: 9s
+! 12/17/18 13:06:20! asypta bets $3000 
+! 12/17/18 13:19:37! Eric Brassell calls 
+! Hand over, current board is:  Jd 8d 3c 3h 9s
+! Eric Brassell            has: Qd 9d
+! asypta                   has: 10h Kc
+! Eric Brassell wins $11275 (net $6275) with Two Pair (9 9 3 3 Q)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Isaac Newton             |   44350 |         |      |    |         |
+ 2|   Eric Brassell            |   62925 |         |      |    |         |
+ 3|   Patti                    |   42375 |         |      |    |         |
+ 4|   Ken Anderson             |  142125 |         |      |    |         |
+ 5|   Chris Sims               |   63475 |         |      |    |         |
+ 6|   fich                     |   41750 |         |      |    |         |
+ 7|D  Deborah Abel             |   48250 |         |      |    |         |
+ 8|>  asypta                   |   40925 |         |      |    |         |
+ 9|   RunGoodRob               |   55925 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 469 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b21.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 21
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

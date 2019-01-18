@@ -1,0 +1,106 @@
+Message-Id: <201112071926.pB7JQ5PD022479@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [b35.10198] Holdem Game Broadcast Message(*)                          
+
+! Table b35, Hand 17, Day 24
+
+! berj kacherian folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|V  Will Farley              |  29700 |      0 | NoSho|    |        |
+ 2|   Willy Eckerslyke         |  32150 |    200 |folded|    |        |
+ 3|   Chris Learmonth          |  27600 |      0 |folded|    |        |
+ 4|   Robert Odell             |  42400 |    200 |folded|    |        |
+ 5|V  Joe Wood                 |  29550 |      0 | NoSho|    |        |
+ 6|   StingRay                 |  35000 |    200 |folded|    |        |
+ 7|D> Craig N. Boyle           |  25050 |   3200 |      |    |        |
+ 8|   berj kacherian           |  25750 |   2000 |folded|    |        |
+ 9|   jasong            |  18000 |    200 |folded|    |        |
+10|   Kina Grannis             |  28800 |      0 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 12/06/11 09:59:33! Dealing a new hand
+! 12/06/11 09:59:33! No ante
+! 12/06/11 09:59:33! berj kacherian blinds $100
+! 12/06/11 09:59:33! jasong blinds $200
+! 12/06/11 10:00:45! Kina Grannis folds
+! 12/06/11 10:00:45! Will Farley is on vacation and folds
+! 12/06/11 11:22:23! Willy Eckerslyke calls 
+! 12/06/11 11:22:23! Chris Learmonth folds
+! 12/06/11 11:33:04! Robert Odell calls 
+! 12/06/11 11:33:04! Joe Wood is on vacation and folds
+! 12/06/11 15:33:53! StingRay calls 
+! 12/06/11 16:27:04! Craig N. Boyle calls 
+! 12/06/11 18:52:34! berj kacherian calls 
+! 12/06/11 18:52:34! jasong checks
+
+! 12/06/11 18:52:34! Pot right ($1200), flopping/dealing/drawing cards
+! 12/06/11 18:52:34! 6 players
+! 12/06/11 18:52:34! Flopped cards: 8h 4c 8s
+! 12/06/11 19:10:52! berj kacherian bets $600 
+! 12/06/11 19:10:52! jasong folds
+! 12/07/11 00:47:50! Willy Eckerslyke folds
+! 12/07/11 00:47:50! Robert Odell folds
+! 12/07/11 04:22:16! StingRay folds
+! 12/07/11 07:57:33! Craig N. Boyle calls 
+
+! 12/07/11 07:57:33! Pot right ($2400), flopping/dealing/drawing cards
+! 12/07/11 07:57:33! 2 players
+! 12/07/11 07:57:33! Flopped card: 6d
+! 12/07/11 08:47:37! berj kacherian bets $1200 
+! 12/07/11 09:30:24! Craig N. Boyle raises $1200 
+! 12/07/11 11:26:05! berj kacherian folds
+! Hand over, no showdown
+! Current board is:  8h 4c 8s 6d ?
+! Craig N. Boyle wins $6000 (net $2800)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|V  Will Farley              |  29700 |        | NoSho|    |        |
+ 2|   Willy Eckerslyke         |  32150 |        |      |    |        |
+ 3|   Chris Learmonth          |  27600 |        |      |    |        |
+ 4|   Robert Odell             |  42400 |        |      |    |        |
+ 5|V  Joe Wood                 |  29550 |        | NoSho|    |        |
+ 6|   StingRay                 |  35000 |        |      |    |        |
+ 7|>  Craig N. Boyle           |  31050 |        |      |    |        |
+ 8|D  berj kacherian           |  25750 |        |      |    |        |
+ 9|   jasong            |  18000 |        |      |    |        |
+10|   Kina Grannis             |  28800 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 791 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b35.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Good luck.
+
+Having problems? Send email to floorman21@wrgpt.org.
+
+Live Redraw Status as of 12/07/11 11:25:07 AM
+
+Total Empty Seats: 23
+Total Playing Seats: 787
+Live redraw in progress:
+Seats Needed: 17
+Seats Waiting: 0
+Moving Players Waiting: 7
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+

@@ -1,0 +1,135 @@
+
+! Table b29, Hand 4, Day 5
+
+! Barton raises $225 and is all in
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Bernie                   |   49700 |       0 |folded|    |         |
+ 2|   John Senger              |   50525 |       0 |folded|    |         |
+ 3|   jasong            |       0 |   49775 |all-in|  2 |  100675 |
+ 4|D  Ryan Thomas              |   49400 |       0 |folded|    |         |
+ 5|   Ben Buchwald             |   50075 |      75 |folded|    |         |
+ 6|   Deryl Garland            |   49650 |     350 |folded|    |         |
+ 7|>  Barton                   |       0 |   50000 |all-in|  1 |     225 |
+ 8|   Toronado13               |   49650 |     350 |folded|    |         |
+ 9|   Paul Ant                 |   50000 |       0 |folded|    |         |
+10|   Cindy                    |   50100 |     350 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 10/26/17 08:24:54! Dealing a new hand
+! 10/26/17 08:24:54! No ante
+! 10/26/17 08:24:54! Ben Buchwald blinds $75
+! 10/26/17 08:24:54! Deryl Garland blinds $150
+! 10/26/17 11:12:14! Barton raises $200 
+! 10/26/17 12:53:25! Toronado13 calls 
+! 10/26/17 20:05:05! Paul Ant folds
+! 10/26/17 20:05:05! Cindy calls 
+! 10/26/17 20:05:05! Bernie folds
+! 10/26/17 20:05:05! John Senger folds
+! 10/26/17 20:05:05! jasong calls 
+! 10/26/17 20:05:05! Ryan Thomas folds
+! 10/26/17 20:05:05! Ben Buchwald folds
+! 10/26/17 20:08:35! Deryl Garland calls 
+
+! 10/26/17 20:08:35! Pot right ($1825), flopping/dealing/drawing cards
+! 10/26/17 20:08:35! 5 players
+! 10/26/17 20:08:35! Flopped cards: Kc Jh 7h
+! 10/26/17 20:09:17! Deryl Garland checks
+! 10/26/17 22:17:43! Barton bets $925 
+! 10/27/17 04:27:09! Toronado13 folds
+! 10/27/17 04:27:09! Cindy folds
+! 10/27/17 04:42:32! jasong raises $3675 
+! 10/27/17 04:42:32! Deryl Garland folds
+! 10/27/17 07:59:03! Barton calls 
+
+! 10/27/17 07:59:03! Pot right ($11025), flopping/dealing/drawing cards
+! 10/27/17 07:59:03! 2 players
+! 10/27/17 07:59:03! Flopped card: Qh
+! 10/27/17 08:01:30! Barton bets $4225 
+! 10/27/17 08:13:10! jasong calls 
+
+! 10/27/17 08:13:10! Pot right ($19475), flopping/dealing/drawing cards
+! 10/27/17 08:13:10! 2 players
+! 10/27/17 08:13:10! Flopped card: Kd
+! 10/27/17 08:33:11! Barton bets $15250 
+! 10/27/17 08:36:49! jasong raises $25350 and is all in
+! 10/27/17 08:38:09! Barton raises $225 and is all in
+! Hand over, current board is:  Kc Jh 7h Qh Kd
+! jasong            has: Kh Jd
+! Barton                   has: Ah 10d
+! Pot 1: uncalled $225 returned to Barton
+! Pot 2: jasong wins $100675 with Full House (K K K J J)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Bernie                   |   49700 |         |      |    |         |
+ 2|   John Senger              |   50525 |         |      |    |         |
+ 3|   jasong            |  100675 |         |      |    |         |
+ 4|   Ryan Thomas              |   49400 |         |      |    |         |
+ 5|D  Ben Buchwald             |   50075 |         |      |    |         |
+ 6|   Deryl Garland            |   49650 |         |      |    |         |
+ 7|>  Barton                   |     225 |         |      |    |         |
+ 8|   Toronado13               |   49650 |         |      |    |         |
+ 9|   Paul Ant                 |   50000 |         |      |    |         |
+10|   Cindy                    |   50100 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Paul Ant went on vacation until <Gone>
+! 594 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b29.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+Welcome to WRGPT27 and good luck.
+
+This is the real WRGPT27.  Your ID has changed.
+Please make a note of it.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Live Redraw Status as of 10/27/17 08:25:02 AM
+
+Total Empty Seats: 6
+Total Playing Seats: 594
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman27@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

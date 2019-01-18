@@ -1,0 +1,120 @@
+Message-Id: <201312112331.rBBNVj0v007382@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [b3.10370] Holdem Game Broadcast Message(*)                          
+
+! Table b3, Hand 25, Day 31
+
+! jsw calls 
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|D  Jim Sokoloff             |  29300 |      0 |folded|    |        |
+ 2|   Gillian Groves           |  53850 |    400 |folded|    |        |
+ 3|>  Oldbear                  |  19950 |   2900 |      |    |        |
+ 4|   shaerinck                |  44400 |      0 |folded|    |        |
+ 5|   Cindy                    |  45450 |    400 |folded|    |        |
+ 6|   jsw                      |  84675 |   2900 |      |    |        |
+ 7|   Johnny Ice               |  42300 |      0 |folded|    |        |
+ 8|   Jose Aguas               |  43625 |      0 |folded|    |        |
+ 9|   Zipper                   |  29650 |    400 |folded|    |        |
+10|   jasong            |  71450 |      0 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 12/10/13 08:55:09! Dealing a new hand
+! 12/10/13 08:55:09! No ante
+! 12/10/13 08:55:09! Gillian Groves blinds $200
+! 12/10/13 08:55:09! Oldbear blinds $400
+! 12/10/13 09:47:01! shaerinck folds
+! 12/10/13 10:36:32! Cindy calls 
+! 12/10/13 11:43:16! jsw calls 
+! 12/10/13 11:43:16! Johnny Ice folds
+! 12/10/13 14:25:55! Jose Aguas folds
+! 12/10/13 14:25:55! Zipper calls 
+! 12/10/13 14:25:55! jasong folds
+! 12/10/13 18:39:37! Jim Sokoloff folds
+! 12/10/13 20:20:42! Gillian Groves calls 
+! 12/10/13 20:56:06! Oldbear checks
+
+! 12/10/13 20:56:06! Pot right ($2000), flopping/dealing/drawing cards
+! 12/10/13 20:56:06! 5 players
+! 12/10/13 20:56:06! Flopped cards: 9c As 6s
+! 12/10/13 22:10:27! Gillian Groves checks
+! 12/11/13 09:49:39! Oldbear bets $500 
+! 12/11/13 10:56:16! Cindy folds
+! 12/11/13 10:58:18! jsw calls 
+! 12/11/13 11:06:39! Zipper folds
+! 12/11/13 11:14:02! Gillian Groves folds
+
+! 12/11/13 11:14:02! Pot right ($3000), flopping/dealing/drawing cards
+! 12/11/13 11:14:02! 2 players
+! 12/11/13 11:14:02! Flopped card: 7h
+! 12/11/13 11:31:54! Oldbear bets $600 
+! 12/11/13 13:53:33! jsw calls 
+
+! 12/11/13 13:53:33! Pot right ($4200), flopping/dealing/drawing cards
+! 12/11/13 13:53:33! 2 players
+! 12/11/13 13:53:33! Flopped card: 10h
+! 12/11/13 14:35:33! Oldbear bets $1400 
+! 12/11/13 15:31:44! jsw calls 
+! Hand over, current board is:  9c As 6s 7h 10h
+! Oldbear                  has: Ac 4c
+! jsw                      has: Kd 5d
+! Oldbear wins $7000 (net $4100) with One Pair (A A 10 9 7)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Jim Sokoloff             |  29300 |        |      |    |        |
+ 2|D  Gillian Groves           |  53850 |        |      |    |        |
+ 3|>  Oldbear                  |  26950 |        |      |    |        |
+ 4|   shaerinck                |  44400 |        |      |    |        |
+ 5|   Cindy                    |  45450 |        |      |    |        |
+ 6|   jsw                      |  84675 |        |      |    |        |
+ 7|   Johnny Ice               |  42300 |        |      |    |        |
+ 8|   Jose Aguas               |  43625 |        |      |    |        |
+ 9|   Zipper                   |  29650 |        |      |    |        |
+10|   jasong            |  71450 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 790 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b3.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+Here is a link to the railbird mailing list:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman23@wrgpt.org.
+
+Live Redraw Status as of 12/11/13 03:25:07 PM
+
+Total Empty Seats: 24
+Total Playing Seats: 786
+Live redraw in progress:
+Seats Needed: 10
+Seats Waiting: 0
+Moving Players Waiting: 10
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

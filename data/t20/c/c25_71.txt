@@ -1,0 +1,94 @@
+Message-Id: <201101032229.p03MTErB028053@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [c25.10143] Holdem Game Broadcast Message(*)                          
+
+! Table c25, Hand 71, Day 64
+
+! jennyfar folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Nikadai                  |  72625 |     50 |folded|    |        |
+ 2|   mjoseff                  |  60775 |     50 |folded|    |        |
+ 3|D  Willard                  |  17150 |     50 |folded|    |        |
+ 4|>  Eddie Brown              |  55250 |   2950 |      |    |        |
+ 5|V  Stanley Chow             |  29700 |    450 |<AWOL>|    |        |
+ 6|   Deborah Abel             |  32200 |     50 |folded|    |        |
+ 7|   jasong            | 112050 |     50 |folded|    |        |
+ 8|   jennyfar                 |  82500 |   1450 |folded|    |        |
+ 9|   AW Coody                 |  53500 |     50 |folded|    |        |
+10|   b monie                  |  29900 |     50 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 01/03/11 07:32:04! Dealing a new hand
+! 01/03/11 07:32:04! Everyone antes $50
+! 01/03/11 07:32:04! Eddie Brown blinds $200
+! 01/03/11 07:32:04! Stanley Chow blinds $400
+! 01/03/11 07:53:45! Deborah Abel folds
+! 01/03/11 08:03:42! jasong folds
+! 01/03/11 12:07:22! jennyfar calls 
+! 01/03/11 12:07:22! AW Coody folds
+! 01/03/11 12:07:22! b monie folds
+! 01/03/11 12:07:22! Nikadai folds
+! 01/03/11 12:07:22! mjoseff folds
+! 01/03/11 12:16:35! Willard folds
+! 01/03/11 12:18:13! Eddie Brown raises $1000 
+! 01/03/11 12:18:13! Stanley Chow is on vacation and folds
+! 01/03/11 13:19:16! jennyfar calls 
+
+! 01/03/11 13:19:16! Pot right ($3700), flopping/dealing/drawing cards
+! 01/03/11 13:19:16! 2 players
+! 01/03/11 13:19:16! Flopped cards: 2h 3s As
+! 01/03/11 13:19:49! Eddie Brown bets $1500 
+! 01/03/11 14:29:14! jennyfar folds
+! Hand over, no showdown
+! Current board is:  2h 3s As ? ?
+! Eddie Brown wins $5200 (net $2250)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Nikadai                  |  72625 |        |      |    |        |
+ 2|   mjoseff                  |  60775 |        |      |    |        |
+ 3|   Willard                  |  17150 |        |      |    |        |
+ 4|D> Eddie Brown              |  60450 |        |      |    |        |
+ 5|V  Stanley Chow             |  29700 |        |<AWOL>|    |        |
+ 6|   Deborah Abel             |  32200 |        |      |    |        |
+ 7|   jasong            | 112050 |        |      |    |        |
+ 8|   jennyfar                 |  82500 |        |      |    |        |
+ 9|   AW Coody                 |  53500 |        |      |    |        |
+10|   b monie                  |  29900 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 615 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c25.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+If you have any problems send mail to floorman20@wrgpt.org.
+
+Live Redraw Status as of 01/03/11 02:25:01 PM
+
+Total Empty Seats: 18
+Total Playing Seats: 615
+Live redraw in progress:
+Seats Needed: 9
+Seats Waiting: 1
+Moving Players Waiting: 0
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org or follow "wrgpt" on Twitter.
+

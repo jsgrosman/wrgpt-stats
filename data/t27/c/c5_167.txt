@@ -1,0 +1,111 @@
+
+! Table c5, Hand 167, Day 100
+
+! jasong folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|>  swamperflaco             |   50325 |   40600 |      |    |         |
+ 3|   Deuce Seven Off Suit     |   20725 |     400 |folded|    |         |
+ 4|   jasong            |  260650 |   15600 |folded|    |         |
+ 5|   MrTiggerGolf             |  156200 |     400 |folded|    |         |
+ 7|   Pete Nerozzi             |   67100 |     400 |folded|    |         |
+ 8|   ArikK                    |  222000 |     400 |folded|    |         |
+ 9|D  Feed the Herd            |  129500 |     400 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/30/18 07:34:37! Dealing a new hand
+! 01/30/18 07:34:37! Everyone antes $400
+! 01/30/18 07:34:37! swamperflaco blinds $3200
+! 01/30/18 09:47:42! Deuce Seven Off Suit folds
+! 01/30/18 10:23:24! jasong raises $12000 to $15200 total 
+_____________________________________________________________________________
+
+! ouch.. sorry for the suck out Swamper...
+! On Tue, Jan 30, 2018 at 10:34 AM, <dealer@wrgpt.org> wrote:
+! (dealer suppressed lines starting with '>' or ':')
+! -- MrTiggerGolf --
+_____________________________________________________________________________
+
+! 01/30/18 10:23:24! MrTiggerGolf folds
+! 01/30/18 10:39:07! Pete Nerozzi folds
+! 01/30/18 10:39:07! ArikK folds
+! 01/30/18 10:39:07! Feed the Herd folds
+! 01/30/18 11:10:19! swamperflaco calls 
+
+! 01/30/18 11:10:19! Pot right ($33200), flopping/dealing/drawing cards
+! 01/30/18 11:10:19! 2 players
+! 01/30/18 11:10:19! Flopped cards: 5d Kd 2c
+! 01/30/18 11:11:25! swamperflaco bets $25000 
+! 01/30/18 11:37:19! jasong folds
+! Hand over, no showdown
+! Current board is:  5d Kd 2c ? ?
+! swamperflaco wins $58200 (net $17600)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|>  swamperflaco             |  108525 |         |      |    |         |
+ 3|   Deuce Seven Off Suit     |   20725 |         |      |    |         |
+ 4|   jasong            |  260650 |         |      |    |         |
+ 5|   MrTiggerGolf             |  156200 |         |      |    |         |
+ 7|   Pete Nerozzi             |   67100 |         |      |    |         |
+ 8|   ArikK                    |  222000 |         |      |    |         |
+ 9|D  Feed the Herd            |  129500 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 215 players left in the tournament, 4 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c5.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+We have gone 30 days in the "c" round so there will be no more 
+live redraws.  As soon as a table gets to five or fewer players 
+all tables will complete their current hand then a full redraw 
+will be made to the "d" round.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Live Redraw Status as of 01/30/18 11:25:02 AM
+
+Total Empty Seats: 65
+Total Playing Seats: 215
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman27@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

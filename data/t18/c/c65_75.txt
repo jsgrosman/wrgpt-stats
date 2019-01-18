@@ -1,0 +1,106 @@
+Message-Id: <200901151741.n0FHfiJU002862@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+Reply-To: dealer@wrgpt.org
+From: dealer@wrgpt.org
+Subject: [c65.10230] Holdem Game Broadcast Message(*)          
+
+! Table c65, Hand 75, Day 74
+
+! Rob CutStyle calls - side pot
+! Pot right ($70000), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped card: 8h
+! Flopped card: Js
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|D> Rob CutStyle             |      0 |  32800 |all-in|  2 |  69600 |
+ 2|   Toronado13               |      0 |  33200 |all-in|  1 |    400 |
+ 3|   paulshe                  |  11900 |    900 |folded|    |        |
+ 4|   Chuck Thompson           |  52650 |    100 |folded|    |        |
+ 5|   Lip                      |  64100 |    100 |folded|    |        |
+ 6|   Kevin Mathers            |  36500 |    100 |folded|    |        |
+ 7|   Brian K                  |  39650 |    100 |folded|    |        |
+ 8|   jasong            |  18200 |   2500 |folded|    |        |
+ 9|   Stuart Resnick           |  46300 |    100 |folded|    |        |
+10|   Alphabits                |  59250 |    100 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 01/14/09 12:55:13! Dealing a new hand
+! 01/14/09 12:55:13! Everyone antes $100
+! 01/14/09 12:55:13! Toronado13 blinds $400
+! 01/14/09 12:55:13! paulshe blinds $800
+! 01/14/09 16:09:21! Chuck Thompson folds
+! 01/14/09 16:50:54! Lip folds
+! 01/14/09 16:50:54! Kevin Mathers folds
+! 01/14/09 17:21:18! Brian K folds
+! 01/14/09 17:21:18! jasong raises $1600 
+! 01/14/09 17:22:16! Stuart Resnick folds
+! 01/14/09 17:22:16! Alphabits folds
+! 01/14/09 17:32:58! Rob CutStyle calls 
+! 01/14/09 17:32:58! Toronado13 calls 
+! 01/14/09 17:32:58! paulshe folds
+
+! 01/14/09 17:32:58! Pot right ($9000), flopping/dealing/drawing cards
+! 01/14/09 17:32:58! 3 players
+! 01/14/09 17:32:58! Flopped cards: 5d 3s Qs
+! 01/14/09 18:46:47! Toronado13 checks
+! 01/14/09 19:14:09! jasong checks
+! 01/14/09 21:02:57! Rob CutStyle bets $5000 
+! 01/15/09 05:34:02! Toronado13 raises $25700 and is all in
+! 01/15/09 05:34:02! jasong folds
+! 01/15/09 09:41:43! Rob CutStyle calls - side pot
+
+! 01/15/09 09:41:43! Pot right ($70000), flopping/dealing/drawing cards
+! 01/15/09 09:41:43! 2 players, 2 all in
+! 01/15/09 09:41:43! Flopped card: 8h
+! 01/15/09 09:41:43! Flopped card: Js
+! Hand over, current board is:  5d 3s Qs 8h Js
+! Rob CutStyle             has: 9s 9c
+! Toronado13               has: 6s 7h
+! Pot 1: uncalled $400 returned to Toronado13
+! Pot 2: Rob CutStyle wins $69600 with One Pair (9 9 Q J 8)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|>  Rob CutStyle             |  69600 |        |      |    |        |
+ 2|D  Toronado13               |    400 |        |      |    |        |
+ 3|   paulshe                  |  11900 |        |      |    |        |
+ 4|   Chuck Thompson           |  52650 |        |      |    |        |
+ 5|   Lip                      |  64100 |        |      |    |        |
+ 6|   Kevin Mathers            |  36500 |        |      |    |        |
+ 7|   Brian K                  |  39650 |        |      |    |        |
+ 8|   jasong            |  18200 |        |      |    |        |
+ 9|   Stuart Resnick           |  46300 |        |      |    |        |
+10|   Alphabits                |  59250 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 638 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c65.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+The last live redraw for the "c" round could begin
+as late as January 21, 2009.
+
+Live Redraw Status as of 01/15/09 09:25:21 AM
+
+Total Empty Seats: 22
+Total Playing Seats: 638
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org
+

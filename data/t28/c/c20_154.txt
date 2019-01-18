@@ -1,0 +1,124 @@
+Subject: [c20.10070] Holdem Game Broadcast Message(*)
+
+% Ahh, onto the next hand
+! -- CPROG --
+_____________________________________________________________________________
+
+! Table c20, Hand 154, Day 60
+
+! CPROG checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Felix Leiter             |   45675 |     100 |folded|    |         |
+ 2|   CPROG                    |  110625 |    2100 |      |    |         |
+ 3|   JZK                      |  108975 |     100 |folded|    |         |
+ 4|   dann                     |   17825 |     100 |folded|    |         |
+ 5|   Samueladams              |   42600 |     100 |folded|    |         |
+ 6|   Bullwinkle               |   34775 |     100 |folded|    |         |
+ 7|D  Bobby Luckbox            |   42875 |     100 |folded|    |         |
+ 8|>  Scooter                  |   42425 |    2100 |      |    |         |
+ 9|   Baldy                    |   93575 |    1100 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/09/19 18:30:12! Dealing a new hand
+! 01/09/19 18:30:12! Everyone antes $100
+! 01/09/19 18:30:12! Scooter blinds $250
+! 01/09/19 18:30:12! Baldy blinds $500
+! 01/10/19 06:00:32! Felix Leiter folds
+! 01/10/19 09:00:08! CPROG calls 
+! 01/10/19 09:01:04! JZK folds
+! 01/10/19 09:01:04! dann folds
+! 01/10/19 09:01:04! Samueladams folds
+! 01/10/19 09:01:04! Bullwinkle folds
+! 01/10/19 09:54:32! Bobby Luckbox folds
+! 01/10/19 10:05:38! Scooter calls 
+! 01/10/19 10:50:21! Baldy checks
+
+! 01/10/19 10:50:21! Pot right ($2400), flopping/dealing/drawing cards
+! 01/10/19 10:50:21! 3 players
+! 01/10/19 10:50:21! Flopped cards: 4d 7h 10h
+! 01/10/19 10:53:53! Scooter bets $500 
+! 01/10/19 11:15:21! Baldy calls 
+! 01/10/19 13:30:04! CPROG calls 
+
+! 01/10/19 13:30:04! Pot right ($3900), flopping/dealing/drawing cards
+! 01/10/19 13:30:04! 3 players
+! 01/10/19 13:30:04! Flopped card: 4c
+! 01/10/19 16:21:04! Scooter bets $1000 
+! 01/10/19 16:38:14! Baldy folds
+! 01/10/19 17:14:55! CPROG calls 
+
+! 01/10/19 17:14:55! Pot right ($5900), flopping/dealing/drawing cards
+! 01/10/19 17:14:55! 2 players
+! 01/10/19 17:14:55! Flopped card: Ah
+! 01/10/19 17:17:26! Scooter checks
+_____________________________________________________________________________
+
+! Ahh, onto the next hand
+! -- CPROG --
+_____________________________________________________________________________
+
+! 01/10/19 17:19:08! CPROG checks
+! Hand over, current board is:  4d 7h 10h 4c Ah
+! CPROG                    has: 10s 9c
+! Scooter                  has: Kc 10c
+! CPROG wins $2950 (net $850) with Two Pair (10 10 4 4 A)
+! Scooter wins $2950 (net $850) with Two Pair (10 10 4 4 A)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Felix Leiter             |   45675 |         |      |    |         |
+ 2|   CPROG                    |  113575 |         |      |    |         |
+ 3|   JZK                      |  108975 |         |      |    |         |
+ 4|   dann                     |   17825 |         |      |    |         |
+ 5|   Samueladams              |   42600 |         |      |    |         |
+ 6|   Bullwinkle               |   34775 |         |      |    |         |
+ 7|   Bobby Luckbox            |   42875 |         |      |    |         |
+ 8|D> Scooter                  |   45375 |         |      |    |         |
+ 9|   Baldy                    |   93575 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 384 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c20.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+The "c" round has started.  Good luck to all
+the remaining players.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 5
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

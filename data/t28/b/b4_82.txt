@@ -1,0 +1,116 @@
+Subject: [b4.11242] Holdem Game Broadcast Message(*)
+
+! Table b4, Hand 82, Day 53
+
+! HeyBuster calls 
+! Pot right ($38150), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 3d
+! Flopped card: 4h
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  Todd Brabbin             |       0 |   14500 |all-in|    |         |
+ 2|   CharlieM                 |  118050 |    5650 |folded|    |         |
+ 3|   Sir Barlow               |   56725 |    1650 |folded|    |         |
+ 4|   Paul Stine               |   29975 |      50 |folded|    |         |
+ 5|>  HeyBuster                |   69325 |   14500 |      |    |         |
+ 6|   TwelveSeven              |   97175 |      50 |folded|    |         |
+ 7|   TheTwizz                 |   44800 |      50 |folded|    |         |
+ 8|   Dan Duncan               |   47050 |      50 |folded|    |         |
+ 9|   feodor                   |   99000 |    1650 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/03/19 10:00:53! Dealing a new hand
+! 01/03/19 10:00:53! Everyone antes $50
+! 01/03/19 10:00:53! CharlieM blinds $200
+! 01/03/19 10:00:53! Sir Barlow blinds $400
+! 01/03/19 13:01:51! Paul Stine folds
+! 01/03/19 13:01:51! HeyBuster calls 
+! 01/03/19 13:01:51! TwelveSeven folds
+! 01/03/19 13:01:51! TheTwizz folds
+! 01/03/19 13:01:51! Dan Duncan folds
+! 01/03/19 13:27:47! feodor raises $1200 to $1600 total 
+! 01/03/19 13:30:26! Todd Brabbin calls 
+! 01/03/19 13:42:28! CharlieM calls 
+! 01/03/19 13:44:41! Sir Barlow calls 
+! 01/03/19 13:49:53! HeyBuster calls 
+
+! 01/03/19 13:49:53! Pot right ($8450), flopping/dealing/drawing cards
+! 01/03/19 13:49:53! 5 players
+! 01/03/19 13:49:53! Flopped cards: 6s Ks 10c
+! 01/03/19 13:55:29! CharlieM bets $4000 
+! 01/03/19 14:11:21! Sir Barlow folds
+! 01/03/19 14:11:21! HeyBuster calls 
+! 01/03/19 14:25:54! feodor folds
+! 01/03/19 14:27:05! Todd Brabbin raises $8850 to $12850 total and is all in
+! 01/03/19 14:29:52! CharlieM folds
+! 01/03/19 16:02:52! HeyBuster calls 
+
+! 01/03/19 16:02:52! Pot right ($38150), flopping/dealing/drawing cards
+! 01/03/19 16:02:52! 2 players, 1 all in
+! 01/03/19 16:02:52! Flopped card: 3d
+! 01/03/19 16:02:52! Flopped card: 4h
+! Hand over, current board is:  6s Ks 10c 3d 4h
+! Todd Brabbin             has: Qs Js
+! HeyBuster                has: Kh 9c
+! HeyBuster wins $38150 (net $23650) with One Pair (K K 10 9 6)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|D  CharlieM                 |  118050 |         |      |    |         |
+ 3|   Sir Barlow               |   56725 |         |      |    |         |
+ 4|   Paul Stine               |   29975 |         |      |    |         |
+ 5|>  HeyBuster                |  107475 |         |      |    |         |
+ 6|   TwelveSeven              |   97175 |         |      |    |         |
+ 7|   TheTwizz                 |   44800 |         |      |    |         |
+ 8|   Dan Duncan               |   47050 |         |      |    |         |
+ 9|   feodor                   |   99000 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Todd Brabbin is eliminated!
+! 401 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b4.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+We are now over 45 days into round "b". 
+As soon as any table gets to five or fewer 
+players all tables will finish the current 
+hand and a full redraw to round "c" will be done.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 30
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

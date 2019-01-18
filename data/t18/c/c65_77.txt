@@ -1,0 +1,91 @@
+Message-Id: <200901161856.n0GIuo1i017565@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+Reply-To: dealer@wrgpt.org
+From: dealer@wrgpt.org
+Subject: [c65.10250] Holdem Game Broadcast Message(*)          
+
+! Table c65, Hand 77, Day 75
+
+! Brian K folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Rob CutStyle             |  69400 |    100 |folded|    |        |
+ 3|D  paulshe                  |  11300 |    100 |folded|    |        |
+ 4|   Chuck Thompson           |  54550 |    500 |folded|    |        |
+ 5|   Lip                      |  63100 |    900 |folded|    |        |
+ 6|>  Kevin Mathers            |  29500 |   6900 |      |    |        |
+ 7|   Brian K                  |  37350 |   2200 |folded|    |        |
+ 8|   jasong            |  18000 |    100 |folded|    |        |
+ 9|   Stuart Resnick           |  46100 |    100 |folded|    |        |
+10|   Alphabits                |  58250 |    100 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 01/16/09 06:27:19! Dealing a new hand
+! 01/16/09 06:27:19! Everyone antes $100
+! 01/16/09 06:27:19! Chuck Thompson blinds $400
+! 01/16/09 06:27:19! Lip blinds $800
+! 01/16/09 06:28:39! Kevin Mathers raises $1300 
+! 01/16/09 07:33:27! Brian K calls 
+! 01/16/09 07:33:27! jasong folds
+! 01/16/09 07:41:09! Stuart Resnick folds
+! 01/16/09 08:44:00! Alphabits folds
+! 01/16/09 08:44:00! Rob CutStyle folds
+! 01/16/09 10:16:42! paulshe folds
+! 01/16/09 10:16:42! Chuck Thompson folds
+! 01/16/09 10:31:40! Lip folds
+
+! 01/16/09 10:31:40! Pot right ($6300), flopping/dealing/drawing cards
+! 01/16/09 10:31:40! 2 players
+! 01/16/09 10:31:40! Flopped cards: Ah 7h Jd
+! 01/16/09 10:33:55! Kevin Mathers bets $4700 
+! 01/16/09 10:56:49! Brian K folds
+! Hand over, no showdown
+! Current board is:  Ah 7h Jd ? ?
+! Kevin Mathers wins $11000 (net $4100)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Rob CutStyle             |  69400 |        |      |    |        |
+ 3|   paulshe                  |  11300 |        |      |    |        |
+ 4|D  Chuck Thompson           |  54550 |        |      |    |        |
+ 5|   Lip                      |  63100 |        |      |    |        |
+ 6|>  Kevin Mathers            |  40500 |        |      |    |        |
+ 7|   Brian K                  |  37350 |        |      |    |        |
+ 8|   jasong            |  18000 |        |      |    |        |
+ 9|   Stuart Resnick           |  46100 |        |      |    |        |
+10|   Alphabits                |  58250 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 629 players left in the tournament
+! Table waiting for live reshuffle
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c65.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+The last live redraw for the "c" round could begin
+as late as January 21, 2009.
+
+Live Redraw Status as of 01/16/09 10:55:00 AM
+
+Total Empty Seats: 31
+Total Playing Seats: 629
+Live redraw in progress:
+Seats Needed: 27
+Seats Waiting: 0
+Moving Players Waiting: 9
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org
+

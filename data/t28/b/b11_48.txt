@@ -1,0 +1,116 @@
+Subject: [b11.10560] Holdem Game Broadcast Message(*)
+
+! Table b11, Hand 48, Day 36
+
+! ADB Jupe calls 
+! Pot right ($89725), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 2s
+! Flopped card: Qh
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   bad                      |   47350 |      25 |folded|    |         |
+ 2|   MNoelH                   |   74075 |      25 |folded|    |         |
+ 3|D  RichNYC                  |   44250 |      25 |folded|    |         |
+ 4|   ddppmm                   |   46850 |     175 |folded|    |         |
+ 5|   DotMatrix                |   50025 |    2025 |folded|    |         |
+ 6|   put_it_good              |       0 |   43700 |all-in|    |         |
+ 7|   Bobby the Worm           |   54200 |      25 |folded|    |         |
+ 8|>  ADB Jupe                 |    5225 |   43700 |      |    |         |
+ 9|   Chris Goedde             |   95700 |      25 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/16/18 10:16:47! Dealing a new hand
+! 12/16/18 10:16:47! Everyone antes $25
+! 12/16/18 10:16:47! ddppmm blinds $150
+! 12/16/18 10:16:47! DotMatrix blinds $300
+! 12/16/18 12:29:43! put_it_good raises $400 to $700 total 
+! 12/16/18 12:29:43! Bobby the Worm folds
+! 12/16/18 13:21:44! ADB Jupe raises $1300 to $2000 total 
+! 12/16/18 13:21:44! Chris Goedde folds
+! 12/16/18 13:21:44! bad folds
+! 12/16/18 13:21:44! MNoelH folds
+! 12/16/18 13:21:44! RichNYC folds
+! 12/16/18 13:21:44! ddppmm folds
+! 12/16/18 14:09:38! DotMatrix calls 
+! 12/16/18 15:00:18! put_it_good calls 
+
+! 12/16/18 15:00:18! Pot right ($6375), flopping/dealing/drawing cards
+! 12/16/18 15:00:18! 3 players
+! 12/16/18 15:00:18! Flopped cards: 6s 5d 8c
+! 12/16/18 18:07:06! DotMatrix checks
+! 12/16/18 22:17:20! put_it_good checks
+! 12/17/18 05:50:55! ADB Jupe bets $6000 
+! 12/17/18 06:49:50! DotMatrix folds
+_____________________________________________________________________________
+
+! gg
+! -- put_it_good --
+_____________________________________________________________________________
+
+! 12/17/18 07:07:24! put_it_good raises $35675 to $41675 total and is all in
+! 12/17/18 07:26:16! ADB Jupe calls 
+
+! 12/17/18 07:26:16! Pot right ($89725), flopping/dealing/drawing cards
+! 12/17/18 07:26:16! 2 players, 1 all in
+! 12/17/18 07:26:16! Flopped card: 2s
+! 12/17/18 07:26:16! Flopped card: Qh
+! Hand over, current board is:  6s 5d 8c 2s Qh
+! put_it_good              has: Qs Qc
+! ADB Jupe                 has: As Ah
+! put_it_good wins $89725 (net $46025) with Three of a Kind (Q Q Q 8 6)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   bad                      |   47350 |         |      |    |         |
+ 2|   MNoelH                   |   74075 |         |      |    |         |
+ 3|   RichNYC                  |   44250 |         |      |    |         |
+ 4|D  ddppmm                   |   46850 |         |      |    |         |
+ 5|   DotMatrix                |   50025 |         |      |    |         |
+ 6|   put_it_good              |   89725 |         |      |    |         |
+ 7|   Bobby the Worm           |   54200 |         |      |    |         |
+ 8|>  ADB Jupe                 |    5225 |         |      |    |         |
+ 9|   Chris Goedde             |   95700 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 467 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b11.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 19
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

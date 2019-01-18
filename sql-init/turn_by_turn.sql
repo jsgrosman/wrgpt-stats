@@ -1,0 +1,16 @@
+  CREATE TABLE IF NOT EXISTS wrgpt.turn_by_turn (
+          tournament_id INT NOT NULL,
+          table_name VARCHAR(45) NOT NULL,
+          hand_num INT NOT NULL,
+          turn_id INT NOT NULL,
+          player VARCHAR(45) NOT NULL,
+          round VARCHAR(45) NOT NULL,
+          timestamp DATETIME NOT NULL,
+          hour_of_day INT NOT NULL,
+          action VARCHAR(45) NOT NULL,
+          bet VARCHAR(45) NULL,
+          big_blind VARCHAR(45) NULL,
+          multiplier FLOAT NULL,
+          is_all_in TINYINT NULL,
+          is_advanced_action TINYINT NULL,
+          PRIMARY KEY (tournament_id, table_name, hand_num, turn_id));

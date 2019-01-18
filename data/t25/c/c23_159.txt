@@ -1,0 +1,119 @@
+
+! Table c23, Hand 159, Day 75
+
+! MojoJojo folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   jasong            |  63875 |    200 |folded|    |        |
+ 2|>  MojoJojo                 | 142475 |  61100 |folded|    |        |
+ 3|   the cake is a pie        |  44400 |    200 |folded|    |        |
+ 4|D  Walter Hunt              |  14250 |    200 |folded|    |        |
+ 5|   Ryan600                  |      0 | 122950 |all-in|    |        |
+ 6|   Murtan                   |  16600 |   1400 |folded|    |        |
+ 7|   888                      | 102650 |    200 |folded|    |        |
+ 8|   Bob                      |  68950 |    200 |folded|    |        |
+ 9|   GestaltyDog              |  32800 |    200 |folded|    |        |
+10|   Ed Fernandez             |  27225 |    200 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 01/07/16 09:03:52! Dealing a new hand
+! 01/07/16 09:03:52! Everyone antes $200
+! 01/07/16 09:03:52! Ryan600 blinds $600
+! 01/07/16 09:03:52! Murtan blinds $1200
+! 01/07/16 10:05:23! 888 folds
+! 01/07/16 10:05:23! Bob folds
+! 01/07/16 10:05:23! GestaltyDog folds
+! 01/07/16 10:42:59! Ed Fernandez folds
+! 01/07/16 10:42:59! jasong folds
+! 01/07/16 11:04:08! MojoJojo raises $5000 
+! 01/07/16 11:04:08! the cake is a pie folds
+! 01/07/16 11:05:32! Walter Hunt folds
+! 01/07/16 11:58:23! Ryan600 calls 
+! 01/08/16 00:32:46! Murtan folds
+
+! 01/08/16 00:32:46! Pot right ($15600), flopping/dealing/drawing cards
+! 01/08/16 00:32:46! 2 players
+! 01/08/16 00:32:46! Flopped cards: Jc 10h 7s
+! 01/08/16 07:58:42! Ryan600 bets $9575 
+! 01/08/16 08:36:48! MojoJojo calls 
+
+! 01/08/16 08:36:48! Pot right ($34750), flopping/dealing/drawing cards
+! 01/08/16 08:36:48! 2 players
+! 01/08/16 08:36:48! Flopped card: Qs
+! 01/08/16 08:42:52! Ryan600 bets $20125 
+! 01/08/16 08:47:47! MojoJojo calls 
+
+! 01/08/16 08:47:47! Pot right ($75000), flopping/dealing/drawing cards
+! 01/08/16 08:47:47! 2 players
+! 01/08/16 08:47:47! Flopped card: 4c
+! 01/08/16 09:34:59! Ryan600 bets $5250 
+! 01/08/16 09:40:38! MojoJojo raises $19750 
+! 01/08/16 09:45:16! Ryan600 raises $61850 and is all in
+! 01/08/16 09:49:08! MojoJojo folds
+! Hand over, no showdown
+! Current board is:  Jc 10h 7s Qs 4c
+! Ryan600 wins $186850 (net $63900)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   jasong            |  63875 |        |      |    |        |
+ 2|>  MojoJojo                 | 142475 |        |      |    |        |
+ 3|   the cake is a pie        |  44400 |        |      |    |        |
+ 4|   Walter Hunt              |  14250 |        |      |    |        |
+ 5|D  Ryan600                  | 186850 |        |      |    |        |
+ 6|   Murtan                   |  16600 |        |      |    |        |
+ 7|   888                      | 102650 |        |      |    |        |
+ 8|   Bob                      |  68950 |        |      |    |        |
+ 9|   GestaltyDog              |  32800 |        |      |    |        |
+10|   Ed Fernandez             |  27225 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 352 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c23.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+======
+
+Live Redraw Status as of 01/08/16 09:25:02 AM
+
+Total Empty Seats: 18
+Total Playing Seats: 352
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman25@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

@@ -1,0 +1,110 @@
+Subject: [c21.10063] Holdem Game Broadcast Message(*)
+
+! Table c21, Hand 152, Day 59
+
+! Patti calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Andy Pierce              |   84875 |     100 |folded|    |         |
+ 2|   sgranen                  |   94625 |     100 |folded|    |         |
+ 3|   mrbert                   |    9125 |     100 |folded|    |         |
+ 4|   Ace Squared              |   48900 |     100 |folded|    |         |
+ 5|D  dgr                      |   71800 |     100 |folded|    |         |
+ 6|   Polar85                  |   57100 |     350 |folded|    |         |
+ 7|   Patti                    |   43375 |    3800 |      |    |         |
+ 8|>  Donald Neilson           |  138925 |    3800 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/08/19 18:12:05! Dealing a new hand
+! 01/08/19 18:12:05! Everyone antes $100
+! 01/08/19 18:12:05! Polar85 blinds $250
+! 01/08/19 18:12:05! Patti blinds $500
+! 01/08/19 18:27:17! Donald Neilson calls 
+! 01/08/19 22:49:42! Andy Pierce folds
+! 01/09/19 10:30:53! sgranen folds
+! 01/09/19 10:30:53! mrbert folds
+! 01/09/19 10:30:53! Ace Squared folds
+! 01/09/19 15:01:02! dgr folds
+! 01/09/19 15:01:02! Polar85 folds
+! 01/09/19 15:01:28! Patti checks
+
+! 01/09/19 15:01:28! Pot right ($2050), flopping/dealing/drawing cards
+! 01/09/19 15:01:28! 2 players
+! 01/09/19 15:01:28! Flopped cards: Ks 6h 5s
+! 01/09/19 15:01:48! Patti bets $1200 
+! 01/09/19 15:02:57! Donald Neilson calls 
+
+! 01/09/19 15:02:57! Pot right ($4450), flopping/dealing/drawing cards
+! 01/09/19 15:02:57! 2 players
+! 01/09/19 15:02:57! Flopped card: Ad
+! 01/09/19 15:03:59! Patti checks
+! 01/09/19 15:04:22! Donald Neilson checks
+
+! 01/09/19 15:04:22! Pot right ($4450), flopping/dealing/drawing cards
+! 01/09/19 15:04:22! 2 players
+! 01/09/19 15:04:22! Flopped card: 2d
+! 01/09/19 15:05:11! Patti checks
+! 01/09/19 15:05:47! Donald Neilson bets $2000 
+! 01/09/19 15:07:56! Patti calls 
+! Hand over, current board is:  Ks 6h 5s Ad 2d
+! Patti                    has: 8s 5d
+! Donald Neilson           has: 10d Kc
+! Donald Neilson wins $8450 (net $4650) with One Pair (K K A 10 6)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Andy Pierce              |   84875 |         |      |    |         |
+ 2|   sgranen                  |   94625 |         |      |    |         |
+ 3|   mrbert                   |    9125 |         |      |    |         |
+ 4|   Ace Squared              |   48900 |         |      |    |         |
+ 5|   dgr                      |   71800 |         |      |    |         |
+ 6|D  Polar85                  |   57100 |         |      |    |         |
+ 7|   Patti                    |   43375 |         |      |    |         |
+ 8|>  Donald Neilson           |  147375 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! dgr timed out during this hand
+! 390 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c21.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+The "c" round has started.  Good luck to all
+the remaining players.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 7
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

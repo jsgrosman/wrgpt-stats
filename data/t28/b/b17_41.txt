@@ -1,0 +1,121 @@
+Subject: [b17.10600] Holdem Game Broadcast Message(*)
+
+! Table b17, Hand 41, Day 31
+
+! John Bernstein calls - side pot
+! Pot right ($229450), flopping/dealing/drawing cards
+! 3 players, 3 all in
+! Flopped card: Ad
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  John Bernstein           |       0 |   99650 |all-in|  2 |  166000 |
+ 2|   Sandy                    |   55175 |      25 |folded|    |         |
+ 3|   Mike DellaBarca          |   42150 |      25 |folded|    |         |
+ 4|   Baldy                    |   80575 |      25 |folded|    |         |
+ 5|D  shinsook                 |       0 |  111400 |all-in|  1 |   11750 |
+ 6|   Kahomono                 |   38525 |     825 |folded|    |         |
+ 7|   Toronado13               |   60425 |     825 |folded|    |         |
+ 8|   Mark Lemon               |    3900 |      25 |folded|    |         |
+ 9|   crush_me                 |       0 |   16650 |all-in|  3 |   51700 |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/11/18 16:21:49! Dealing a new hand
+! 12/11/18 16:21:49! Everyone antes $25
+! 12/11/18 16:21:49! Kahomono blinds $150
+! 12/11/18 16:21:49! Toronado13 blinds $300
+! 12/11/18 16:41:18! Mark Lemon folds
+! 12/11/18 21:31:34! crush_me raises $500 to $800 total 
+! 12/11/18 21:44:32! John Bernstein calls 
+! 12/11/18 21:44:32! Sandy folds
+! 12/12/18 05:32:39! Mike DellaBarca folds
+! 12/12/18 05:32:39! Baldy folds
+! 12/12/18 07:32:02! shinsook calls 
+! 12/12/18 07:32:02! Kahomono calls 
+! 12/12/18 09:26:13! Toronado13 calls 
+
+! 12/12/18 09:26:13! Pot right ($4225), flopping/dealing/drawing cards
+! 12/12/18 09:26:13! 5 players
+! 12/12/18 09:26:13! Flopped cards: 10c 6s 9c
+! 12/12/18 09:26:13! Kahomono checks
+! 12/12/18 09:26:48! Toronado13 checks
+! 12/12/18 09:32:07! crush_me bets $2100 
+! 12/12/18 11:42:52! John Bernstein calls 
+! 12/12/18 11:45:10! shinsook raises $10000 to $12100 total 
+! 12/12/18 11:45:10! Kahomono folds
+! 12/12/18 11:51:19! Toronado13 folds
+! 12/12/18 12:38:54! crush_me raises $3725 to $15825 total and is all in
+! 12/12/18 13:04:04! John Bernstein calls 
+! 12/12/18 13:15:02! shinsook calls 
+
+! 12/12/18 13:15:02! Pot right ($51700), flopping/dealing/drawing cards
+! 12/12/18 13:15:02! 3 players, 1 all in
+! 12/12/18 13:15:02! Flopped card: 7d
+! 12/12/18 13:21:01! John Bernstein bets $30000 
+! 12/12/18 13:22:40! shinsook raises $64750 to $94750 total and is all in
+! 12/12/18 13:27:36! John Bernstein calls - side pot
+
+! 12/12/18 13:27:36! Pot right ($229450), flopping/dealing/drawing cards
+! 12/12/18 13:27:36! 3 players, 3 all in
+! 12/12/18 13:27:36! Flopped card: Ad
+! Hand over, current board is:  10c 6s 9c 7d Ad
+! John Bernstein           has: 7s 7h
+! shinsook                 has: 10s 10d
+! crush_me                 has: Qs Jd
+! Pot 1: uncalled $11750 returned to shinsook
+! Pot 2: shinsook wins $166000 with Three of a Kind (10 10 10 A 9)
+! Pot 3: shinsook wins $51700 with Three of a Kind (10 10 10 A 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|   Sandy                    |   55175 |         |      |    |         |
+ 3|   Mike DellaBarca          |   42150 |         |      |    |         |
+ 4|   Baldy                    |   80575 |         |      |    |         |
+ 5|   shinsook                 |  229450 |         |      |    |         |
+ 6|D  Kahomono                 |   38525 |         |      |    |         |
+ 7|   Toronado13               |   60425 |         |      |    |         |
+ 8|   Mark Lemon               |    3900 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! John Bernstein is eliminated!
+! crush_me is eliminated!
+! 483 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b17.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 10
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

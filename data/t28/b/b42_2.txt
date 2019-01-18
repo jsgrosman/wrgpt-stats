@@ -1,0 +1,121 @@
+Subject: [b42.10042] Holdem Game Broadcast Message(*)
+
+! Table b42, Hand 2, Day 2
+
+! GwynnInTheHall checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   WhyImHere                |   47150 |       0 |folded|    |         |
+ 2|D  judy proteau             |   49925 |       0 |folded|    |         |
+ 3|>  SpiderTribe              |   28050 |   21450 |      |    |         |
+ 4|   GwynnInTheHall           |   25700 |   21450 |      |    |         |
+ 5|   beowulf                  |   50000 |       0 |folded|    |         |
+ 6|   DinoBravo                |   56275 |       0 |folded|    |         |
+ 7|   David Kuznick            |   50000 |       0 |folded|    |         |
+ 8|   Sue N                    |   50000 |       0 |folded|    |         |
+ 9|   I_Bluff_Rivers           |   49550 |     450 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/12/18 17:11:10! Dealing a new hand
+! 11/12/18 17:11:10! No ante
+! 11/12/18 17:11:10! SpiderTribe blinds $75
+! 11/12/18 17:11:10! GwynnInTheHall blinds $150
+! 11/13/18 06:01:02! beowulf folds
+! 11/13/18 06:01:02! DinoBravo folds
+! 11/13/18 06:01:02! David Kuznick folds
+! 11/13/18 06:01:02! Sue N folds
+! 11/13/18 06:05:19! I_Bluff_Rivers raises $300 to $450 total 
+! 11/13/18 07:40:35! WhyImHere folds
+! 11/13/18 07:45:52! judy proteau folds
+! 11/13/18 07:47:46! SpiderTribe raises $1000 to $1450 total 
+! 11/13/18 08:03:04! GwynnInTheHall raises $4500 to $5950 total 
+! 11/13/18 08:04:30! I_Bluff_Rivers folds
+! 11/13/18 08:19:38! SpiderTribe calls 
+
+! 11/13/18 08:19:38! Pot right ($12350), flopping/dealing/drawing cards
+! 11/13/18 08:19:38! 2 players
+! 11/13/18 08:19:38! Flopped cards: 5h Kh 3s
+! 11/13/18 08:20:13! SpiderTribe checks
+! 11/13/18 08:22:30! GwynnInTheHall bets $7750 
+! 11/13/18 08:29:43! SpiderTribe calls 
+
+! 11/13/18 08:29:43! Pot right ($27850), flopping/dealing/drawing cards
+! 11/13/18 08:29:43! 2 players
+! 11/13/18 08:29:43! Flopped card: 8d
+! 11/13/18 08:32:07! SpiderTribe checks
+! 11/13/18 08:40:50! GwynnInTheHall bets $7750 
+! 11/13/18 08:42:37! SpiderTribe calls 
+
+! 11/13/18 08:42:37! Pot right ($43350), flopping/dealing/drawing cards
+! 11/13/18 08:42:37! 2 players
+! 11/13/18 08:42:37! Flopped card: 3h
+! 11/13/18 10:38:05! SpiderTribe checks
+! 11/13/18 10:47:53! GwynnInTheHall checks
+! Hand over, current board is:  5h Kh 3s 8d 3h
+! SpiderTribe              has: Ad Kd
+! GwynnInTheHall           has: Qs Qc
+! SpiderTribe wins $43350 (net $21900) with Two Pair (K K 3 3 A)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   WhyImHere                |   47150 |         |      |    |         |
+ 2|   judy proteau             |   49925 |         |      |    |         |
+ 3|D> SpiderTribe              |   71400 |         |      |    |         |
+ 4|   GwynnInTheHall           |   25700 |         |      |    |         |
+ 5|   beowulf                  |   50000 |         |      |    |         |
+ 6|   DinoBravo                |   56275 |         |      |    |         |
+ 7|   David Kuznick            |   50000 |         |      |    |         |
+ 8|   Sue N                    |   50000 |         |      |    |         |
+ 9|   I_Bluff_Rivers           |   49550 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 589 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b42.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 3
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

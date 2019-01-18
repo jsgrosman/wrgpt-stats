@@ -1,0 +1,110 @@
+Subject: [b45.10559] Holdem Game Broadcast Message(*)
+
+! Table b45, Hand 40, Day 37
+
+! The Llama calls 
+! Pot right ($108675), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 3s
+! Flopped card: 10c
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   ChipRider                |   40600 |     775 |folded|    |         |
+ 2|   mark gray                |       0 |   52650 |all-in|    |         |
+ 3|   Legendnmyhd              |   39050 |      25 |folded|    |         |
+ 4|D  ADBBingo                 |   53150 |    2175 |folded|    |         |
+ 5|>  The Llama                |   98900 |   52650 |      |    |         |
+ 6|   Greg P.                  |   34525 |     325 |folded|    |         |
+ 7|   Chippy McChiperson       |   33025 |      25 |folded|    |         |
+ 8|V  Chaos                    |   58600 |      25 |<AWOL>|    |         |
+ 9|   Jake                     |   69150 |      25 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/17/18 16:04:04! Dealing a new hand
+! 12/17/18 16:04:04! Everyone antes $25
+! 12/17/18 16:04:04! The Llama blinds $150
+! 12/17/18 16:04:04! Greg P. blinds $300
+! 12/17/18 16:51:10! Chippy McChiperson folds
+! 12/17/18 16:51:10! Chaos is on vacation and folds
+! 12/17/18 16:51:10! Jake folds
+! 12/17/18 17:43:47! ChipRider raises $450 to $750 total 
+! 12/17/18 22:42:02! mark gray calls 
+! 12/17/18 22:42:02! Legendnmyhd folds
+! 12/18/18 04:50:07! ADBBingo calls 
+! 12/18/18 04:50:07! The Llama raises $1400 to $2150 total 
+! 12/18/18 08:09:57! Greg P. folds
+! 12/18/18 11:54:13! ChipRider folds
+! 12/18/18 12:22:50! mark gray calls 
+! 12/18/18 12:26:34! ADBBingo calls 
+
+! 12/18/18 12:26:34! Pot right ($7725), flopping/dealing/drawing cards
+! 12/18/18 12:26:34! 3 players
+! 12/18/18 12:26:34! Flopped cards: 7d 9d 6h
+! 12/18/18 12:36:13! The Llama bets $5000 
+! 12/18/18 13:26:26! mark gray raises $45475 to $50475 total and is all in
+! 12/18/18 13:41:56! ADBBingo folds
+! 12/18/18 14:00:26! The Llama calls 
+
+! 12/18/18 14:00:26! Pot right ($108675), flopping/dealing/drawing cards
+! 12/18/18 14:00:26! 2 players, 1 all in
+! 12/18/18 14:00:26! Flopped card: 3s
+! 12/18/18 14:00:26! Flopped card: 10c
+! Hand over, current board is:  7d 9d 6h 3s 10c
+! mark gray                has: 10d 8d
+! The Llama                has: Ah Ac
+! mark gray wins $108675 (net $56025) with Straight (10 9 8 7 6)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   ChipRider                |   40600 |         |      |    |         |
+ 2|   mark gray                |  108675 |         |      |    |         |
+ 3|   Legendnmyhd              |   39050 |         |      |    |         |
+ 4|   ADBBingo                 |   53150 |         |      |    |         |
+ 5|D> The Llama                |   98900 |         |      |    |         |
+ 6|   Greg P.                  |   34525 |         |      |    |         |
+ 7|   Chippy McChiperson       |   33025 |         |      |    |         |
+ 8|V  Chaos                    |   58600 |         |<AWOL>|    |         |
+ 9|   Jake                     |   69150 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 460 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b45.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

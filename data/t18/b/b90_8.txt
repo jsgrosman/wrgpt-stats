@@ -1,0 +1,96 @@
+Message-Id: <200811140002.mAE02wlO006807@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+Reply-To: dealer@wrgpt.org
+From: dealer@wrgpt.org
+Subject: [b90.10105] Holdem Game Broadcast Message(*)          
+
+! Table b90, Hand 8, Day 11
+
+! couchtater folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Poker Ken                |  21100 |    300 |folded|    |        |
+ 2|   DroogieDroog             |  19000 |      0 |folded|    |        |
+ 3|D  Warren Usui              |  19850 |      0 |folded|    |        |
+ 4|   Shyam Markus             |  17450 |     50 |folded|    |        |
+ 5|>  fich                     |  17350 |   1800 |      |    |        |
+ 6|   couchtater               |  19150 |    800 |folded|    |        |
+ 7|   Smeagol                  |  19100 |      0 |folded|    |        |
+ 8|   jasong            |  33000 |      0 |folded|    |        |
+ 9|   calemb10                 |  19600 |      0 |folded|    |        |
+10|   Ray Powers               |  31450 |      0 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 11/12/08 16:10:20! Dealing a new hand
+! 11/12/08 16:10:20! No ante
+! 11/12/08 16:10:20! Shyam Markus blinds $50
+! 11/12/08 16:10:20! fich blinds $100
+! 11/12/08 16:16:22! couchtater raises $200 
+! 11/13/08 07:36:59! Smeagol folds
+! 11/13/08 07:36:59! jasong folds
+! 11/13/08 07:36:59! calemb10 folds
+! 11/13/08 07:36:59! Ray Powers folds
+! 11/13/08 09:27:17! Poker Ken calls 
+! 11/13/08 09:27:17! DroogieDroog folds
+! 11/13/08 09:27:17! Warren Usui folds
+! 11/13/08 09:27:17! Shyam Markus folds
+! 11/13/08 12:09:16! fich calls 
+
+! 11/13/08 12:09:16! Pot right ($950), flopping/dealing/drawing cards
+! 11/13/08 12:09:16! 3 players
+! 11/13/08 12:09:16! Flopped cards: Ks 6s 2d
+! 11/13/08 12:24:59! fich checks
+! 11/13/08 12:39:03! couchtater bets $500 
+! 11/13/08 13:33:35! Poker Ken folds
+! 11/13/08 13:53:06! fich calls 
+
+! 11/13/08 13:53:06! Pot right ($1950), flopping/dealing/drawing cards
+! 11/13/08 13:53:06! 2 players
+! 11/13/08 13:53:06! Flopped card: Kh
+! 11/13/08 13:58:08! fich bets $1000 
+! 11/13/08 16:02:58! couchtater folds
+! Hand over, no showdown
+! Current board is:  Ks 6s 2d Kh ?
+! fich wins $2950 (net $1150)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Poker Ken                |  21100 |        |      |    |        |
+ 2|   DroogieDroog             |  19000 |        |      |    |        |
+ 3|   Warren Usui              |  19850 |        |      |    |        |
+ 4|D  Shyam Markus             |  17450 |        |      |    |        |
+ 5|>  fich                     |  20300 |        |      |    |        |
+ 6|   couchtater               |  19150 |        |      |    |        |
+ 7|   Smeagol                  |  19100 |        |      |    |        |
+ 8|   jasong            |  33000 |        |      |    |        |
+ 9|   calemb10                 |  19600 |        |      |    |        |
+10|   Ray Powers               |  31450 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 1039 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b90.html
+
+TOURNEY INFORMATION
+
+
+NOTICE:
+
+Be careful with the MAKE command.  It means to push
+that many more chips into the pot ignoring what you
+already have out there (including your blinds).  It
+takes no action if the bet is not legal or enough.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org
+

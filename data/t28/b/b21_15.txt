@@ -1,0 +1,119 @@
+Subject: [b21.10202] Holdem Game Broadcast Message(*)
+
+! Table b21, Hand 15, Day 6
+
+! Chris Sims calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Isaac Newton             |   47400 |       0 |folded|    |         |
+ 2|   Eric Brassell            |   47450 |       0 |folded|    |         |
+ 3|>  Sllimbob                 |   40225 |    9475 |      |    |         |
+ 4|   Ken Anderson             |   40050 |     375 |folded|    |         |
+ 5|   Chris Sims               |   39275 |    9475 |      |    |         |
+ 6|D  fich                     |   47875 |       0 |folded|    |         |
+ 7|   Deborah Abel             |   49150 |      75 |folded|    |         |
+ 8|V  8.HEATER-T2              |   49625 |     150 | NoSho|    |         |
+ 9|   RunGoodRob               |   69400 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/17/18 16:42:17! Dealing a new hand
+! 11/17/18 16:42:17! No ante
+! 11/17/18 16:42:17! Deborah Abel blinds $75
+! 11/17/18 16:42:17! 8.HEATER-T2 blinds $150
+! 11/17/18 17:11:57! RunGoodRob folds
+! 11/17/18 17:14:13! Isaac Newton folds
+! 11/17/18 17:14:13! Eric Brassell folds
+! 11/17/18 17:16:44! Sllimbob raises $225 to $375 total 
+! 11/17/18 17:16:44! Ken Anderson calls 
+! 11/17/18 19:56:30! Chris Sims calls 
+! 11/17/18 19:56:30! fich folds
+! 11/17/18 20:00:14! Deborah Abel folds
+! 11/17/18 20:00:14! 8.HEATER-T2 is on vacation and folds
+
+! 11/17/18 20:00:14! Pot right ($1350), flopping/dealing/drawing cards
+! 11/17/18 20:00:14! 3 players
+! 11/17/18 20:00:14! Flopped cards: 8h 4h 3d
+! 11/17/18 20:01:35! Sllimbob bets $450 
+! 11/17/18 20:17:34! Ken Anderson folds
+! 11/17/18 20:20:43! Chris Sims calls 
+
+! 11/17/18 20:20:43! Pot right ($2250), flopping/dealing/drawing cards
+! 11/17/18 20:20:43! 2 players
+! 11/17/18 20:20:43! Flopped card: 2d
+! 11/17/18 20:22:20! Sllimbob bets $800 
+! 11/17/18 20:27:00! Chris Sims raises $3850 to $4650 total 
+! 11/17/18 20:28:26! Sllimbob calls 
+
+! 11/17/18 20:28:26! Pot right ($11550), flopping/dealing/drawing cards
+! 11/17/18 20:28:26! 2 players
+! 11/17/18 20:28:26! Flopped card: 8d
+! 11/17/18 20:29:39! Sllimbob bets $4000 
+! 11/17/18 20:31:55! Chris Sims calls 
+! Hand over, current board is:  8h 4h 3d 2d 8d
+! Sllimbob                 has: As Qc
+! Chris Sims               has: 6d 5d
+! Chris Sims wins $19550 (net $10075) with Diamond Flush (8 6 5 3 2)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Isaac Newton             |   47400 |         |      |    |         |
+ 2|   Eric Brassell            |   47450 |         |      |    |         |
+ 3|>  Sllimbob                 |   40225 |         |      |    |         |
+ 4|   Ken Anderson             |   40050 |         |      |    |         |
+ 5|   Chris Sims               |   58825 |         |      |    |         |
+ 6|   fich                     |   47875 |         |      |    |         |
+ 7|D  Deborah Abel             |   49150 |         |      |    |         |
+ 8|V  8.HEATER-T2              |   49625 |         | NoSho|    |         |
+ 9|   RunGoodRob               |   69400 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 575 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b21.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

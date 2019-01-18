@@ -1,0 +1,126 @@
+
+! Table b29, Hand 13, Day 10
+
+! Ryan Thomas folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Bernie                   |   97725 |       0 |folded|    |         |
+ 2|   John Senger              |   51600 |       0 |folded|    |         |
+ 3|D  jasong            |  104275 |       0 |folded|    |         |
+ 4|   Ryan Thomas              |   46625 |    1000 |folded|    |         |
+ 5|>  Ben Buchwald             |   47425 |    2500 |      |    |         |
+ 6|   Deryl Garland            |   49575 |       0 |folded|    |         |
+ 9|   Paul Ant                 |   49775 |       0 |folded|    |         |
+10|   Cindy                    |   49350 |     150 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/01/17 11:41:01! Dealing a new hand
+! 11/01/17 11:41:01! No ante
+! 11/01/17 11:41:01! Ryan Thomas blinds $75
+! 11/01/17 11:41:01! Ben Buchwald blinds $150
+! 11/01/17 11:51:54! Deryl Garland folds
+! 11/01/17 14:41:15! Paul Ant folds
+! 11/01/17 14:41:15! Cindy calls 
+! 11/01/17 14:41:15! Bernie folds
+! 11/01/17 14:41:15! John Senger folds
+! 11/01/17 14:41:15! jasong folds
+! 11/01/17 15:26:04! Ryan Thomas calls 
+! 11/01/17 15:26:04! Ben Buchwald raises $350 
+! 11/01/17 18:44:35! Cindy folds
+! 11/01/17 19:11:30! Ryan Thomas calls 
+
+! 11/01/17 19:11:30! Pot right ($1150), flopping/dealing/drawing cards
+! 11/01/17 19:11:30! 2 players
+! 11/01/17 19:11:30! Flopped cards: Js 6d Kh
+! 11/01/17 19:12:56! Ryan Thomas checks
+! 11/01/17 20:31:16! Ben Buchwald checks
+
+! 11/01/17 20:31:16! Pot right ($1150), flopping/dealing/drawing cards
+! 11/01/17 20:31:16! 2 players
+! 11/01/17 20:31:16! Flopped card: Qc
+! 11/01/17 20:37:58! Ryan Thomas bets $500 
+! 11/01/17 20:39:39! Ben Buchwald calls 
+
+! 11/01/17 20:39:39! Pot right ($2150), flopping/dealing/drawing cards
+! 11/01/17 20:39:39! 2 players
+! 11/01/17 20:39:39! Flopped card: 6h
+! 11/01/17 20:40:57! Ryan Thomas checks
+! 11/01/17 20:44:31! Ben Buchwald bets $1500 
+! 11/01/17 20:45:30! Ryan Thomas folds
+! Hand over, no showdown
+! Current board is:  Js 6d Kh Qc 6h
+! Ben Buchwald wins $3650 (net $1150)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Bernie                   |   97725 |         |      |    |         |
+ 2|   John Senger              |   51600 |         |      |    |         |
+ 3|   jasong            |  104275 |         |      |    |         |
+ 4|D  Ryan Thomas              |   46625 |         |      |    |         |
+ 5|>  Ben Buchwald             |   51075 |         |      |    |         |
+ 6|   Deryl Garland            |   49575 |         |      |    |         |
+ 9|   Paul Ant                 |   49775 |         |      |    |         |
+10|   Cindy                    |   49350 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 571 players left in the tournament 
+! Table waiting for live reshuffle
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b29.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+Players who do not come to the tables by day 30 will
+be removed.
+
+The entire round 'b' will be redrawn after day 45.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Live Redraw Status as of 11/01/17 08:25:01 PM
+
+Total Empty Seats: 21
+Total Playing Seats: 569
+Live redraw in progress:
+Seats Needed: 18
+Seats Waiting: 0
+Moving Players Waiting: 8
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman27@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

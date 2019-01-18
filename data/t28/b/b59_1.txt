@@ -1,0 +1,138 @@
+Subject: [b59.10035] Holdem Game Broadcast Message(*)
+
+! Table b59, Hand 1, Day 2
+
+! Bob calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  Billco                   |   49550 |     450 |folded|    |         |
+ 2|>  Daniel Levine            |   47750 |    2250 |      |    |         |
+ 3|   Clark Olson              |   49150 |     850 |folded|    |         |
+ 4|   Uncle Check              |   49150 |     850 |folded|    |         |
+ 5|   Bob                      |   47750 |    2250 |      |    |         |
+ 6|   lawrence s               |   50000 |       0 |folded|    |         |
+ 8|   Bobby the Worm           |   49550 |     450 |folded|    |         |
+ 9|   bluecandy                |   49150 |     850 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/12/18 05:16:52! Bobby the Worm is back from vacation
+! 11/12/18 05:21:01! Bob is back from vacation
+! 11/12/18 05:27:05! bluecandy is back from vacation
+! 11/12/18 05:36:06! Daniel Levine is back from vacation
+! 11/12/18 05:47:31! lawrence s is back from vacation
+! 11/12/18 07:34:21! Clark Olson is back from vacation
+! 11/12/18 07:38:07! Uncle Check is back from vacation
+! 11/12/18 08:04:31! Billco is back from vacation
+! 11/12/18 08:04:32! Dealing a new hand
+! 11/12/18 08:04:32! No ante
+! 11/12/18 08:04:32! Daniel Levine blinds $75
+! 11/12/18 08:04:32! Clark Olson blinds $150
+! 11/12/18 08:06:00! Uncle Check calls 
+! 11/12/18 08:07:38! Bob calls 
+! 11/12/18 08:19:19! lawrence s folds
+! 11/12/18 08:19:19! Isabel Ste.Croix is on vacation and folds
+! 11/12/18 08:25:02! Player leaving table: Isabel Ste.Croix
+! 11/12/18 12:22:29! Bobby the Worm calls 
+! 11/12/18 12:29:00! bluecandy raises $300 to $450 total 
+! 11/12/18 15:58:48! Billco calls 
+! 11/12/18 16:06:42! Daniel Levine calls 
+! 11/12/18 16:20:14! Clark Olson calls 
+! 11/12/18 16:20:14! Uncle Check calls 
+! 11/12/18 16:48:40! Bob calls 
+! 11/12/18 18:10:42! Bobby the Worm calls 
+
+! 11/12/18 18:10:42! Pot right ($3150), flopping/dealing/drawing cards
+! 11/12/18 18:10:42! 7 players
+! 11/12/18 18:10:42! Flopped cards: Ah As Qh
+! 11/12/18 18:24:12! Daniel Levine bets $200 
+! 11/12/18 18:25:11! Clark Olson calls 
+! 11/12/18 18:32:22! Uncle Check calls 
+! 11/12/18 18:53:57! Bob raises $200 to $400 total 
+! 11/12/18 18:53:57! Bobby the Worm folds
+! 11/12/18 19:24:55! bluecandy calls 
+! 11/13/18 00:54:44! Billco folds
+! 11/13/18 04:41:03! Daniel Levine calls 
+! 11/13/18 06:08:57! Clark Olson calls 
+! 11/13/18 06:08:57! Uncle Check calls 
+
+! 11/13/18 06:08:57! Pot right ($5150), flopping/dealing/drawing cards
+! 11/13/18 06:08:57! 5 players
+! 11/13/18 06:08:57! Flopped card: 4d
+! 11/13/18 06:59:48! Daniel Levine bets $400 
+! 11/13/18 07:35:52! Clark Olson folds
+! 11/13/18 07:38:10! Uncle Check folds
+! 11/13/18 07:38:14! Bob calls 
+! 11/13/18 08:09:46! bluecandy folds
+
+! 11/13/18 08:09:46! Pot right ($5950), flopping/dealing/drawing cards
+! 11/13/18 08:09:46! 2 players
+! 11/13/18 08:09:46! Flopped card: 2d
+! 11/13/18 09:17:16! Daniel Levine bets $1000 
+! 11/13/18 09:31:48! Bob calls 
+! Hand over, current board is:  Ah As Qh 4d 2d
+! Daniel Levine            has: Jd Ac
+! Bob                      has: Ad 4c
+! Bob wins $7950 (net $5700) with Full House (A A A 4 4)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Billco                   |   49550 |         |      |    |         |
+ 2|D> Daniel Levine            |   47750 |         |      |    |         |
+ 3|   Clark Olson              |   49150 |         |      |    |         |
+ 4|   Uncle Check              |   49150 |         |      |    |         |
+ 5|   Bob                      |   55700 |         |      |    |         |
+ 6|   lawrence s               |   50000 |         |      |    |         |
+ 8|   Bobby the Worm           |   49550 |         |      |    |         |
+ 9|   bluecandy                |   49150 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 590 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b59.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 1
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

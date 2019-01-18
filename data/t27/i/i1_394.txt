@@ -1,0 +1,124 @@
+X-BeenThere: railbird@lists.wrgpt.org
+X-Mailman-Version: 2.1.16
+Precedence: list
+Reply-To: dealer@wrgpt.org
+List-Id: WRGPT Rail <railbird.lists.wrgpt.org>
+List-Unsubscribe: <http://lists.wrgpt.org/options/railbird>,
+ <mailto:railbird-request@lists.wrgpt.org?subject=unsubscribe>
+List-Archive: <http://lists.wrgpt.org/pipermail/railbird/>
+List-Help: <mailto:railbird-request@lists.wrgpt.org?subject=help>
+List-Subscribe: <http://lists.wrgpt.org/listinfo/railbird>,
+ <mailto:railbird-request@lists.wrgpt.org?subject=subscribe>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+Errors-To: railbird-bounces@lists.wrgpt.org
+Sender: "Railbird" <railbird-bounces@lists.wrgpt.org>
+
+! Table i1, Hand 394, Day 181
+
+! LektorAJ folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   StingRay                 | 4739800 |    3000 |folded|    |         |
+ 2|   Longines                 |  654550 |    3000 |folded|    |         |
+ 3|   Dman                     |       0 | 1467400 |all-in|    |         |
+ 4|DV rtroll                   |  915800 |    3000 |    23|    |         |
+ 5|   Poker Dog                | 1528900 |   28000 |folded|    |         |
+ 6|>  LektorAJ                 | 1563500 |  505000 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 04/20/18 08:33:52! Dealing a new hand
+! 04/20/18 08:33:52! Everyone antes $3000
+! 04/20/18 08:33:52! Poker Dog blinds $25000
+! 04/20/18 08:33:52! LektorAJ blinds $50000
+! 04/20/18 09:20:31! StingRay folds
+! 04/20/18 09:20:31! Longines folds
+! 04/20/18 09:37:53! Dman raises $103000 to $153000 total 
+! 04/20/18 09:37:53! rtroll is on vacation and folds
+! 04/20/18 09:37:53! Poker Dog folds
+! 04/20/18 16:54:34! LektorAJ calls 
+
+! 04/20/18 16:54:34! Pot right ($349000), flopping/dealing/drawing cards
+! 04/20/18 16:54:34! 2 players
+! 04/20/18 16:54:34! Flopped cards: Kd 10c 4c
+! 04/20/18 16:55:44! LektorAJ checks
+! 04/20/18 19:57:28! Dman bets $349000 
+! 04/21/18 00:13:11! LektorAJ calls 
+
+! 04/21/18 00:13:11! Pot right ($1047000), flopping/dealing/drawing cards
+! 04/21/18 00:13:11! 2 players
+! 04/21/18 00:13:11! Flopped card: 2s
+! 04/21/18 00:14:12! LektorAJ checks
+! 04/21/18 00:39:17! Dman bets $962400 and is all in
+! 04/21/18 00:52:00! LektorAJ folds
+! Hand over, no showdown
+! Current board is:  Kd 10c 4c 2s ?
+! Dman wins $2009400 (net $542000)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   StingRay                 | 4739800 |         |      |    |         |
+ 2|   Longines                 |  654550 |         |      |    |         |
+ 3|   Dman                     | 2009400 |         |      |    |         |
+ 4|V  rtroll                   |  915800 |         |    23|    |         |
+ 5|D  Poker Dog                | 1528900 |         |      |    |         |
+ 6|>  LektorAJ                 | 1563500 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 12 players left in the tournament, 2 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/i/i1.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+However, if there were prizes they would pay the top 63 entrants.
+The standings are now showing theoretical prizes if WRGPT were a
+10k event.
+
+======
+
+Live Redraw Status as of 04/21/18 12:25:01 AM
+
+Total Empty Seats: 0
+Total Playing Seats: 12
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman27@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

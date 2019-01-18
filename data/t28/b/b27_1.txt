@@ -1,0 +1,125 @@
+Subject: [b27.10019] Holdem Game Broadcast Message(*)
+
+! Table b27, Hand 1, Day 2
+
+! Quick checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  the cake is a pie        |   50000 |       0 |folded|    |         |
+ 2|V  nixed                    |   49925 |      75 | NoSho|    |         |
+ 3|>  Swamper bfj              |   49200 |     800 |      |    |         |
+ 4|   Regis                    |   50000 |       0 |folded|    |         |
+ 5|   Panfried                 |   50000 |       0 |folded|    |         |
+ 6|   db222                    |   50000 |       0 |folded|    |         |
+ 7|   Quick                    |   49200 |     800 |      |    |         |
+ 8|   docdanger                |   50000 |       0 |folded|    |         |
+ 9|V  Al F                     |   50000 |       0 | NoSho|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/12/18 01:09:46! Regis is back from vacation
+! 11/12/18 01:31:03! Swamper bfj is back from vacation
+! 11/12/18 03:35:13! Panfried is back from vacation
+! 11/12/18 03:53:11! db222 is back from vacation
+! 11/12/18 05:16:48! docdanger is back from vacation
+! 11/12/18 07:19:33! the cake is a pie is back from vacation
+! 11/12/18 08:09:24! Quick is back from vacation
+! 11/13/18 00:02:14! Dealing a new hand
+! 11/13/18 00:02:14! No ante
+! 11/13/18 00:02:14! nixed blinds $75
+! 11/13/18 00:02:14! Swamper bfj blinds $150
+! 11/13/18 03:54:39! Regis folds
+! 11/13/18 06:04:26! Panfried folds
+! 11/13/18 06:04:26! db222 folds
+! 11/13/18 08:07:24! Quick raises $250 to $400 total 
+! 11/13/18 08:07:24! docdanger folds
+! 11/13/18 08:07:24! Al F is on vacation and folds
+! 11/13/18 08:07:24! the cake is a pie folds
+! 11/13/18 08:07:24! nixed is on vacation and folds
+! 11/13/18 09:20:41! Swamper bfj calls 
+
+! 11/13/18 09:20:41! Pot right ($875), flopping/dealing/drawing cards
+! 11/13/18 09:20:41! 2 players
+! 11/13/18 09:20:41! Flopped cards: 7s 10c 5c
+! 11/13/18 10:28:36! Swamper bfj checks
+! 11/13/18 11:15:17! Quick bets $400 
+! 11/13/18 11:53:33! Swamper bfj calls 
+
+! 11/13/18 11:53:33! Pot right ($1675), flopping/dealing/drawing cards
+! 11/13/18 11:53:33! 2 players
+! 11/13/18 11:53:33! Flopped card: 2h
+! 11/13/18 11:53:55! Swamper bfj checks
+! 11/13/18 12:23:50! Quick checks
+
+! 11/13/18 12:23:50! Pot right ($1675), flopping/dealing/drawing cards
+! 11/13/18 12:23:50! 2 players
+! 11/13/18 12:23:50! Flopped card: 3h
+! 11/13/18 12:35:38! Swamper bfj checks
+! 11/13/18 16:20:08! Quick checks
+! Hand over, current board is:  7s 10c 5c 2h 3h
+! Swamper bfj              has: 9s Jh
+! Quick                    has: Ks Ac
+! Quick wins $1675 (net $875) with No Pair (A K 10 7 5)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   the cake is a pie        |   50000 |         |      |    |         |
+ 2|DV nixed                    |   49925 |         | NoSho|    |         |
+ 3|>  Swamper bfj              |   49200 |         |      |    |         |
+ 4|   Regis                    |   50000 |         |      |    |         |
+ 5|   Panfried                 |   50000 |         |      |    |         |
+ 6|   db222                    |   50000 |         |      |    |         |
+ 7|   Quick                    |   50875 |         |      |    |         |
+ 8|   docdanger                |   50000 |         |      |    |         |
+ 9|V  Al F                     |   50000 |         | NoSho|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 589 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b27.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 3
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

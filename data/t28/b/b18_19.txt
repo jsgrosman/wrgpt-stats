@@ -1,0 +1,121 @@
+Subject: [b18.10214] Holdem Game Broadcast Message(*)
+
+! Table b18, Hand 19, Day 17
+
+! Se4Wong4 calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Barton                   |   99450 |       0 |folded|    |         |
+ 2|D  Tarpon907                |   46825 |       0 |folded|    |         |
+ 3|   Grlalx                   |   47750 |     600 |folded|    |         |
+ 4|   SJL                      |   49325 |     300 |folded|    |         |
+ 5|>  jokerdpo                 |   28150 |   32600 |      |    |         |
+ 6|   Russ Bryan               |   33875 |       0 |folded|    |         |
+ 7|V  TOMCAT                   |   49550 |       0 | NoSho|    |         |
+ 8|   Se4Wong4                 |   15700 |   32600 |      |    |         |
+ 9|V  w0m84t                   |   18150 |       0 |<AWOL>|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/27/18 18:39:04! Dealing a new hand
+! 11/27/18 18:39:04! No ante
+! 11/27/18 18:39:04! Grlalx blinds $150
+! 11/27/18 18:39:04! SJL blinds $300
+! 11/27/18 18:57:39! jokerdpo raises $300 to $600 total 
+! 11/27/18 18:57:39! Russ Bryan folds
+! 11/27/18 18:57:39! TOMCAT is on vacation and folds
+! 11/27/18 20:16:06! Se4Wong4 calls 
+! 11/27/18 20:16:06! w0m84t is on vacation and folds
+! 11/27/18 20:16:06! Barton folds
+! 11/28/18 00:47:55! Tarpon907 folds
+! 11/28/18 07:22:24! Grlalx calls 
+! 11/28/18 07:22:24! SJL folds
+
+! 11/28/18 07:22:24! Pot right ($2100), flopping/dealing/drawing cards
+! 11/28/18 07:22:24! 3 players
+! 11/28/18 07:22:24! Flopped cards: 3d 6h 7d
+! 11/28/18 07:24:09! Grlalx checks
+! 11/28/18 07:25:19! jokerdpo bets $1300 
+! 11/28/18 07:27:15! Se4Wong4 raises $4700 to $6000 total 
+! 11/28/18 07:27:15! Grlalx folds
+! 11/28/18 07:28:27! jokerdpo calls 
+
+! 11/28/18 07:28:27! Pot right ($14100), flopping/dealing/drawing cards
+! 11/28/18 07:28:27! 2 players
+! 11/28/18 07:28:27! Flopped card: 2c
+! 11/28/18 07:28:49! jokerdpo checks
+! 11/28/18 07:31:56! Se4Wong4 bets $11000 
+! 11/28/18 07:32:29! jokerdpo calls 
+
+! 11/28/18 07:32:29! Pot right ($36100), flopping/dealing/drawing cards
+! 11/28/18 07:32:29! 2 players
+! 11/28/18 07:32:29! Flopped card: 9c
+! 11/28/18 07:33:56! jokerdpo bets $15000 
+! 11/28/18 07:45:39! Se4Wong4 calls 
+! Hand over, current board is:  3d 6h 7d 2c 9c
+! jokerdpo                 has: 9s 9h
+! Se4Wong4                 has: 6s 6c
+! jokerdpo wins $66100 (net $33500) with Three of a Kind (9 9 9 7 6)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Barton                   |   99450 |         |      |    |         |
+ 2|   Tarpon907                |   46825 |         |      |    |         |
+ 3|D  Grlalx                   |   47750 |         |      |    |         |
+ 4|   SJL                      |   49325 |         |      |    |         |
+ 5|>  jokerdpo                 |   94250 |         |      |    |         |
+ 6|   Russ Bryan               |   33875 |         |      |    |         |
+ 7|V  TOMCAT                   |   49550 |         | NoSho|    |         |
+ 8|   Se4Wong4                 |   15700 |         |      |    |         |
+ 9|V  w0m84t                   |   18150 |         |<AWOL>|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 552 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b18.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

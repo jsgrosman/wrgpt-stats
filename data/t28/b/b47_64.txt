@@ -1,0 +1,115 @@
+Subject: [b47.10709] Holdem Game Broadcast Message(*)
+
+! Table b47, Hand 64, Day 52
+
+! Josh Moore calls 
+! Pot right ($37900), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: Kc
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|DV DangerDan                |    5175 |      50 |<AWOL>|    |         |
+ 2|   Brian Crowley            |   61375 |     250 |folded|    |         |
+ 3|   Spiraling Shape          |   61575 |    1550 |folded|    |         |
+ 4|>  Josh Moore               |   97025 |   17950 |      |    |         |
+ 5|   Schneb                   |   16800 |      50 |folded|    |         |
+ 6|V  sendlo                   |   56350 |      50 | Jan 6|    |         |
+ 8|   Tythejeweler             |       0 |   17950 |all-in|    |         |
+ 9|   Don Overton              |  163725 |      50 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/01/19 12:24:29! Dealing a new hand
+! 01/01/19 12:24:29! Everyone antes $50
+! 01/01/19 12:24:29! Brian Crowley blinds $200
+! 01/01/19 12:24:29! Spiraling Shape blinds $400
+! 01/01/19 12:52:08! Josh Moore raises $1100 to $1500 total 
+! 01/01/19 12:52:08! Schneb folds
+! 01/01/19 12:52:08! sendlo is on vacation and folds
+! 01/01/19 13:12:10! Tythejeweler calls 
+! 01/01/19 13:12:10! Don Overton folds
+! 01/01/19 13:12:10! DangerDan is on vacation and folds
+! 01/01/19 13:12:10! Brian Crowley folds
+! 01/01/19 13:12:10! Spiraling Shape calls 
+
+! 01/01/19 13:12:10! Pot right ($5100), flopping/dealing/drawing cards
+! 01/01/19 13:12:10! 3 players
+! 01/01/19 13:12:10! Flopped cards: 9s 8c Ac
+! 01/02/19 10:50:23! Spiraling Shape checks
+! 01/02/19 11:11:12! Josh Moore checks
+! 01/02/19 11:11:12! Tythejeweler checks
+
+! 01/02/19 11:11:12! Pot right ($5100), flopping/dealing/drawing cards
+! 01/02/19 11:11:12! 3 players
+! 01/02/19 11:11:12! Flopped card: 3h
+! 01/02/19 11:45:39! Spiraling Shape checks
+! 01/02/19 11:47:37! Josh Moore bets $5100 
+! 01/02/19 12:13:38! Tythejeweler raises $11300 to $16400 total and is all in
+! 01/02/19 12:22:03! Spiraling Shape folds
+! 01/02/19 12:26:24! Josh Moore calls 
+
+! 01/02/19 12:26:24! Pot right ($37900), flopping/dealing/drawing cards
+! 01/02/19 12:26:24! 2 players, 1 all in
+! 01/02/19 12:26:24! Flopped card: Kc
+! Hand over, current board is:  9s 8c Ac 3h Kc
+! Josh Moore               has: 9d 9c
+! Tythejeweler             has: Ah 2h
+! Josh Moore wins $37900 (net $19950) with Three of a Kind (9 9 9 A K)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|V  DangerDan                |    5175 |         |<AWOL>|    |         |
+ 2|D  Brian Crowley            |   61375 |         |      |    |         |
+ 3|   Spiraling Shape          |   61575 |         |      |    |         |
+ 4|>  Josh Moore               |  134925 |         |      |    |         |
+ 5|   Schneb                   |   16800 |         |      |    |         |
+ 6|V  sendlo                   |   56350 |         | Jan 6|    |         |
+ 9|   Don Overton              |  163725 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Tythejeweler is eliminated!
+! 404 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b47.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+We are now over 45 days into round "b". 
+As soon as any table gets to five or fewer 
+players all tables will finish the current 
+hand and a full redraw to round "c" will be done.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 27
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

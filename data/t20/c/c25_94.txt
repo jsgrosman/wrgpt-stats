@@ -1,0 +1,101 @@
+Message-Id: <201101252147.p0PLlABX029995@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [c25.10370] Holdem Game Broadcast Message(*)                          
+
+! Table c25, Hand 94, Day 86
+
+! b monie folds
+! Julian Longo folds
+! David is on vacation and folds
+! JAvery - VP calls 
+! Pot right ($25250), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped cards: 4c 10h 5d
+! Flopped card: Ad
+! Flopped card: Kd
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|D  Julian Longo             |  22825 |    200 |folded|    |        |
+ 2|V  David                    |  85350 |    800 |<AWOL>|    |        |
+ 3|>  JAvery - VP              |   1725 |  11525 |      |    |        |
+ 4|   Its Just AA              | 125925 |    200 |folded|    |        |
+ 5|   Nikadai                  |      0 |  11525 |all-in|    |        |
+ 6|   mjoseff                  | 123875 |    200 |folded|    |        |
+ 7|   Eddie Brown              | 197525 |    200 |folded|    |        |
+ 8|   jasong            |  52150 |    200 |folded|    |        |
+ 9|   AW Coody                 |  93750 |    200 |folded|    |        |
+10|   b monie                  |  16100 |    200 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 01/25/11 11:55:06! Dealing a new hand
+! 01/25/11 11:55:06! Everyone antes $200
+! 01/25/11 11:55:06! David blinds $600
+! 01/25/11 11:55:06! JAvery - VP blinds $1200
+! 01/25/11 12:02:39! Its Just AA folds
+! 01/25/11 12:50:28! Nikadai raises $10125 and is all in
+! 01/25/11 12:50:28! mjoseff folds
+! 01/25/11 12:50:28! Eddie Brown folds
+! 01/25/11 12:50:28! jasong folds
+! 01/25/11 12:50:28! AW Coody folds
+! 01/25/11 13:47:10! b monie folds
+! 01/25/11 13:47:10! Julian Longo folds
+! 01/25/11 13:47:10! David is on vacation and folds
+! 01/25/11 13:47:10! JAvery - VP calls 
+
+! 01/25/11 13:47:10! Pot right ($25250), flopping/dealing/drawing cards
+! 01/25/11 13:47:10! 2 players, 1 all in
+! 01/25/11 13:47:10! Flopped cards: 4c 10h 5d
+! 01/25/11 13:47:10! Flopped card: Ad
+! 01/25/11 13:47:10! Flopped card: Kd
+! Hand over, current board is:  4c 10h 5d Ad Kd
+! JAvery - VP              has: As Js
+! Nikadai                  has: Jh Qd
+! Nikadai wins $25250 (net $13725) with Straight (A K Q J 10)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Julian Longo             |  22825 |        |      |    |        |
+ 2|DV David                    |  85350 |        |<AWOL>|    |        |
+ 3|>  JAvery - VP              |   1725 |        |      |    |        |
+ 4|   Its Just AA              | 125925 |        |      |    |        |
+ 5|   Nikadai                  |  25250 |        |      |    |        |
+ 6|   mjoseff                  | 123875 |        |      |    |        |
+ 7|   Eddie Brown              | 197525 |        |      |    |        |
+ 8|   jasong            |  52150 |        |      |    |        |
+ 9|   AW Coody                 |  93750 |        |      |    |        |
+10|   b monie                  |  16100 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 504 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c25.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+If you have any problems send mail to floorman20@wrgpt.org.
+
+Live Redraw Status as of 01/25/11 01:25:01 PM
+
+Total Empty Seats: 26
+Total Playing Seats: 504
+Live redraw in progress:
+Seats Needed: 20
+Seats Waiting: 0
+Moving Players Waiting: 10
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org or follow "wrgpt" on Twitter.
+

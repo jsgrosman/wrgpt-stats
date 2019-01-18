@@ -1,0 +1,132 @@
+
+! Table b29, Hand 35, Day 30
+
+! Courtney Brennan folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  jasong            |   89675 |   17025 |      |    |         |
+ 2|   Ben Buchwald             |   46725 |    7025 |folded|    |         |
+ 3|D  Deryl Garland            |   61800 |      25 |folded|    |         |
+ 4|V  Paul Ant                 |  117375 |     175 |<Gone>|    |         |
+ 5|   Cindy                    |   29375 |     325 |folded|    |         |
+ 6|   Courtney Brennan         |   40350 |    7025 |folded|    |         |
+ 7|   asypta                   |   70875 |      25 |folded|    |         |
+ 8|   Bernie                   |  127825 |      25 |folded|    |         |
+ 9|   fich                     |   55275 |      25 |folded|    |         |
+10|   John Senger              |   37050 |      25 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/21/17 03:54:51! Dealing a new hand
+! 11/21/17 03:54:51! Everyone antes $25
+! 11/21/17 03:54:51! Paul Ant blinds $150
+! 11/21/17 03:54:51! Cindy blinds $300
+! 11/21/17 04:14:23! Courtney Brennan calls 
+! 11/21/17 07:00:54! asypta folds
+! 11/21/17 07:00:54! Bernie folds
+! 11/21/17 08:02:34! fich folds
+! 11/21/17 08:02:34! John Senger folds
+! 11/21/17 08:02:34! jasong calls 
+! 11/21/17 08:02:34! Ben Buchwald raises $1700 
+! 11/21/17 08:02:34! Deryl Garland folds
+! 11/21/17 08:02:34! Paul Ant is on vacation and folds
+! 11/21/17 10:46:21! Cindy folds
+! 11/21/17 11:01:00! Courtney Brennan calls 
+! 11/21/17 11:01:00! jasong calls 
+
+! 11/21/17 11:01:00! Pot right ($6700), flopping/dealing/drawing cards
+! 11/21/17 11:01:00! 3 players
+! 11/21/17 11:01:00! Flopped cards: 10d Kh Ah
+! 11/21/17 11:02:41! Courtney Brennan bets $5000 
+! 11/21/17 11:05:30! jasong calls 
+! 11/21/17 11:08:25! Ben Buchwald calls 
+
+! 11/21/17 11:08:25! Pot right ($21700), flopping/dealing/drawing cards
+! 11/21/17 11:08:25! 3 players
+! 11/21/17 11:08:25! Flopped card: 7s
+! 11/21/17 11:23:14! Courtney Brennan checks
+! 11/21/17 11:33:17! jasong checks
+! 11/21/17 11:35:30! Ben Buchwald checks
+
+! 11/21/17 11:35:30! Pot right ($21700), flopping/dealing/drawing cards
+! 11/21/17 11:35:30! 3 players
+! 11/21/17 11:35:30! Flopped card: 4c
+! 11/21/17 11:39:44! Courtney Brennan checks
+! 11/21/17 11:40:37! jasong bets $10000 
+! 11/21/17 11:41:49! Ben Buchwald folds
+! 11/21/17 11:51:10! Courtney Brennan folds
+! Hand over, no showdown
+! Current board is:  10d Kh Ah 7s 4c
+! jasong wins $31700 (net $14675)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  jasong            |  121375 |         |      |    |         |
+ 2|   Ben Buchwald             |   46725 |         |      |    |         |
+ 3|   Deryl Garland            |   61800 |         |      |    |         |
+ 4|DV Paul Ant                 |  117375 |         |<Gone>|    |         |
+ 5|   Cindy                    |   29375 |         |      |    |         |
+ 6|   Courtney Brennan         |   40350 |         |      |    |         |
+ 7|   asypta                   |   70875 |         |      |    |         |
+ 8|   Bernie                   |  127825 |         |      |    |         |
+ 9|   fich                     |   55275 |         |      |    |         |
+10|   John Senger              |   37050 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 515 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b29.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+Players who do not come to the tables by day 30 will
+be removed.
+
+The entire round 'b' will be redrawn after day 45.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Live Redraw Status as of 11/21/17 11:25:02 AM
+
+Total Empty Seats: 25
+Total Playing Seats: 515
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman27@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

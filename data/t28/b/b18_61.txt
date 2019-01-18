@@ -1,0 +1,124 @@
+Subject: [b18.10695] Holdem Game Broadcast Message(*)
+
+% This is such a dumb call.
+% On Wed, Dec 26, 2018, 7:26 PM <dealer@wrgpt.org wrote:
+% (dealer suppressed lines starting with '>' or ':')
+! -- Russ Bryan --
+_____________________________________________________________________________
+
+! Table b18, Hand 61, Day 45
+
+! Russ Bryan calls 
+! Pot right ($62050), flopping/dealing/drawing cards
+! 3 players, 2 all in
+! Flopped card: 7h
+! Flopped card: Jd
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Barton                   |  110350 |      50 |folded|    |         |
+ 2|   Tarpon907                |  148300 |      50 |folded|    |         |
+ 3|D  Grlalx                   |       0 |    8400 |all-in|  3 |   25700 |
+ 4|   SJL                      |   50725 |     250 |folded|    |         |
+ 5|   jokerdpo                 |       0 |   26575 |all-in|  2 |   36350 |
+ 6|>  Russ Bryan               |   14350 |   26575 |      |  2 |   36350 |
+ 7|   All Hail Me              |  113975 |      50 |folded|    |         |
+ 8|   Mike Sager               |  109400 |      50 |folded|    |         |
+ 9|   denimmined               |   13550 |      50 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/26/18 08:17:44! Dealing a new hand
+! 12/26/18 08:17:44! Everyone antes $50
+! 12/26/18 08:17:44! SJL blinds $200
+! 12/26/18 08:17:44! jokerdpo blinds $400
+! 12/26/18 09:03:41! Russ Bryan raises $600 to $1000 total 
+! 12/26/18 09:03:41! All Hail Me folds
+! 12/26/18 10:10:35! Mike Sager folds
+! 12/26/18 12:26:54! denimmined folds
+! 12/26/18 12:26:54! Barton folds
+! 12/26/18 14:14:37! Tarpon907 folds
+! 12/26/18 14:16:43! Grlalx calls 
+! 12/26/18 14:19:09! SJL folds
+! 12/26/18 15:37:14! jokerdpo calls 
+
+! 12/26/18 15:37:14! Pot right ($3650), flopping/dealing/drawing cards
+! 12/26/18 15:37:14! 3 players
+! 12/26/18 15:37:14! Flopped cards: 9d As 2c
+! 12/26/18 15:37:59! jokerdpo checks
+! 12/26/18 15:47:54! Russ Bryan bets $1800 
+! 12/26/18 15:49:22! Grlalx raises $5550 to $7350 total and is all in
+! 12/26/18 16:26:32! jokerdpo raises $18175 to $25525 total and is all in
+_____________________________________________________________________________
+
+! This is such a dumb call.
+! On Wed, Dec 26, 2018, 7:26 PM <dealer@wrgpt.org wrote:
+! (dealer suppressed lines starting with '>' or ':')
+! -- Russ Bryan --
+_____________________________________________________________________________
+
+! 12/26/18 17:08:10! Russ Bryan calls 
+
+! 12/26/18 17:08:10! Pot right ($62050), flopping/dealing/drawing cards
+! 12/26/18 17:08:10! 3 players, 2 all in
+! 12/26/18 17:08:10! Flopped card: 7h
+! 12/26/18 17:08:10! Flopped card: Jd
+! Hand over, current board is:  9d As 2c 7h Jd
+! Grlalx                   has: 8s 8d
+! jokerdpo                 has: 2s 9c
+! Russ Bryan               has: Js Ad
+! Pot 2: Russ Bryan wins $36350 with Two Pair (A A J J 9)
+! Pot 3: Russ Bryan wins $25700 with Two Pair (A A J J 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Barton                   |  110350 |         |      |    |         |
+ 2|   Tarpon907                |  148300 |         |      |    |         |
+ 4|D  SJL                      |   50725 |         |      |    |         |
+ 6|>  Russ Bryan               |   76400 |         |      |    |         |
+ 7|   All Hail Me              |  113975 |         |      |    |         |
+ 8|   Mike Sager               |  109400 |         |      |    |         |
+ 9|   denimmined               |   13550 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Grlalx is eliminated!
+! jokerdpo is eliminated!
+! 431 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b18.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

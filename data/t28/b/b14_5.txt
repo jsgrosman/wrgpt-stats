@@ -1,0 +1,110 @@
+Subject: [b14.10079] Holdem Game Broadcast Message(*)
+
+! Table b14, Hand 5, Day 4
+
+! Stephen Wong folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|V  Diputsur                 |   50000 |       0 | NoSho|    |         |
+ 2|>  Stephen Wong             |   41675 |    8250 |folded|    |         |
+ 3|   Per Starback             |   47625 |     450 |folded|    |         |
+ 4|   John Cairns              |  149625 |       0 |folded|    |         |
+ 5|   David McVay              |   45850 |       0 |New   |    |         |
+ 6|D  MarinaMan                |   47400 |       0 |folded|    |         |
+ 7|   CRStals                  |   49400 |     450 |folded|    |         |
+ 8|   Dennis Roberts           |   49400 |     150 |folded|    |         |
+ 9|   Jen                      |       0 |   55575 |all-in|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/14/18 22:13:59! Dealing a new hand
+! 11/14/18 22:13:59! No ante
+! 11/14/18 22:13:59! CRStals blinds $75
+! 11/14/18 22:13:59! Dennis Roberts blinds $150
+! 11/15/18 03:58:03! Jen calls 
+! 11/15/18 06:25:06! New player added to the table: David McVay
+! 11/15/18 06:25:19! New player added to the table: Diputsur
+! 11/15/18 08:30:05! Stephen Wong raises $300 to $450 total 
+! 11/15/18 08:45:57! Per Starback calls 
+! 11/15/18 08:45:57! John Cairns folds
+! 11/15/18 08:45:57! MarinaMan folds
+! 11/15/18 08:58:29! CRStals calls 
+! 11/15/18 08:58:29! Dennis Roberts folds
+! 11/15/18 08:59:30! Jen calls 
+
+! 11/15/18 08:59:30! Pot right ($1950), flopping/dealing/drawing cards
+! 11/15/18 08:59:30! 4 players
+! 11/15/18 08:59:30! Flopped cards: Kh 9h 4s
+! 11/15/18 09:03:30! CRStals checks
+! 11/15/18 09:11:17! Jen bets $1950 
+! 11/15/18 09:39:05! Stephen Wong raises $5850 to $7800 total 
+! 11/15/18 10:21:25! Per Starback folds
+! 11/15/18 12:33:22! CRStals folds
+! 11/15/18 12:33:22! Jen raises $47325 to $55125 total and is all in
+! 11/15/18 15:16:50! Stephen Wong folds
+! Hand over, no showdown
+! Current board is:  Kh 9h 4s ? ?
+! Jen wins $64875 (net $9300)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|V  Diputsur                 |   50000 |         | NoSho|    |         |
+ 2|>  Stephen Wong             |   41675 |         |      |    |         |
+ 3|   Per Starback             |   47625 |         |      |    |         |
+ 4|   John Cairns              |  149625 |         |      |    |         |
+ 5|   David McVay              |   45850 |         |      |    |         |
+ 6|   MarinaMan                |   47400 |         |      |    |         |
+ 7|D  CRStals                  |   49400 |         |      |    |         |
+ 8|   Dennis Roberts           |   49400 |         |      |    |         |
+ 9|   Jen                      |   64875 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 581 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b14.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 3
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

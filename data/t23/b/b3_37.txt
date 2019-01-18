@@ -1,0 +1,103 @@
+Message-Id: <201312232050.rBNKoiMv014081@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [b3.10522] Holdem Game Broadcast Message(*)                          
+
+! Table b3, Hand 37, Day 43
+
+! Jose Aguas folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Jim Sokoloff             |  37025 |     50 |folded|    |        |
+ 2|   Jeremy Miller            |  54500 |     50 |folded|    |        |
+ 3|V  Gillian Groves           |  53200 |     50 |24 dec|    |        |
+ 4|D> shaerinck                |  39175 |   1450 |      |    |        |
+ 5|V  Cindy                    |  55400 |    250 |27 Dec|    |        |
+ 6|   jsw                      |  80625 |    450 |folded|    |        |
+ 7|   Johnny Ice               |  66050 |     50 |folded|    |        |
+ 8|   Jose Aguas               |  36350 |    450 |folded|    |        |
+ 9|   Zipper                   |  32200 |     50 |folded|    |        |
+10|   jasong            |  69575 |     50 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 12/23/13 10:13:24! Dealing a new hand
+! 12/23/13 10:13:24! Everyone antes $50
+! 12/23/13 10:13:24! Cindy blinds $200
+! 12/23/13 10:13:24! jsw blinds $400
+! 12/23/13 10:16:31! Johnny Ice folds
+! 12/23/13 10:25:57! Jose Aguas calls 
+! 12/23/13 10:25:57! Zipper folds
+! 12/23/13 10:25:57! jasong folds
+! 12/23/13 10:25:57! Jim Sokoloff folds
+! 12/23/13 10:40:16! Jeremy Miller folds
+! 12/23/13 10:40:16! Gillian Groves is on vacation and folds
+! 12/23/13 10:54:29! shaerinck calls 
+! 12/23/13 10:54:29! Cindy is on vacation and folds
+! 12/23/13 11:37:02! jsw checks
+
+! 12/23/13 11:37:02! Pot right ($1900), flopping/dealing/drawing cards
+! 12/23/13 11:37:02! 3 players
+! 12/23/13 11:37:02! Flopped cards: 8s 10d 3d
+! 12/23/13 12:31:43! jsw checks
+! 12/23/13 12:36:42! Jose Aguas checks
+! 12/23/13 12:38:19! shaerinck bets $1000 
+! 12/23/13 12:39:40! jsw folds
+! 12/23/13 12:50:44! Jose Aguas folds
+! Hand over, no showdown
+! Current board is:  8s 10d 3d ? ?
+! shaerinck wins $2900 (net $1450)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Jim Sokoloff             |  37025 |        |      |    |        |
+ 2|   Jeremy Miller            |  54500 |        |      |    |        |
+ 3|V  Gillian Groves           |  53200 |        |24 dec|    |        |
+ 4|>  shaerinck                |  42075 |        |      |    |        |
+ 5|DV Cindy                    |  55400 |        |27 Dec|    |        |
+ 6|   jsw                      |  80625 |        |      |    |        |
+ 7|   Johnny Ice               |  66050 |        |      |    |        |
+ 8|   Jose Aguas               |  36350 |        |      |    |        |
+ 9|   Zipper                   |  32200 |        |      |    |        |
+10|   jasong            |  69575 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 712 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b3.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+Here is a link to the railbird mailing list:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman23@wrgpt.org.
+
+Live Redraw Status as of 12/23/13 12:25:01 PM
+
+Total Empty Seats: 28
+Total Playing Seats: 712
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

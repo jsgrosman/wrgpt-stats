@@ -1,0 +1,120 @@
+
+! Table b47, Hand 82, Day 46
+
+! MacBond21 checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   MacBond21                |   38975 |    8800 |      |    |         |
+ 2|   Baldgriff                |   57775 |      50 |folded|    |         |
+ 3|D  Grasshopp3r              |   76775 |      50 |folded|    |         |
+ 5|>  asypta                   |   66350 |    8800 |      |    |         |
+ 6|   Mybanjo                  |   92050 |    1300 |folded|    |         |
+ 7|   jasong            |   46975 |      50 |folded|    |         |
+ 8|   Rainbow Trout            |   97900 |      50 |folded|    |         |
+ 9|   Rathkopf                 |  103150 |      50 |folded|    |         |
+10|V  Tammy                    |   45075 |      50 |<AWOL>|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/01/16 16:41:36! Dealing a new hand
+! 12/01/16 16:41:36! Everyone antes $50
+! 12/01/16 16:41:36! asypta blinds $200
+! 12/01/16 16:41:36! Mybanjo blinds $400
+! 12/01/16 17:21:59! jasong folds
+! 12/01/16 17:21:59! Rainbow Trout folds
+! 12/01/16 17:21:59! Rathkopf folds
+! 12/01/16 17:21:59! Tammy is on vacation and folds
+! 12/01/16 17:25:21! MacBond21 raises $850 
+! 12/01/16 17:27:11! Baldgriff folds
+! 12/01/16 17:32:29! Grasshopp3r folds
+! 12/01/16 17:45:11! asypta calls 
+! 12/01/16 17:54:14! Mybanjo calls 
+
+! 12/01/16 17:54:14! Pot right ($4200), flopping/dealing/drawing cards
+! 12/01/16 17:54:14! 3 players
+! 12/01/16 17:54:14! Flopped cards: 7d 5d 10d
+! 12/01/16 17:58:35! asypta bets $2250 
+! 12/01/16 18:11:59! Mybanjo folds
+! 12/01/16 18:17:56! MacBond21 calls 
+
+! 12/01/16 18:17:56! Pot right ($8700), flopping/dealing/drawing cards
+! 12/01/16 18:17:56! 2 players
+! 12/01/16 18:17:56! Flopped card: 7h
+! 12/01/16 18:18:23! asypta checks
+! 12/01/16 18:21:22! MacBond21 bets $5250 
+! 12/01/16 18:24:13! asypta calls 
+
+! 12/01/16 18:24:13! Pot right ($19200), flopping/dealing/drawing cards
+! 12/01/16 18:24:13! 2 players
+! 12/01/16 18:24:13! Flopped card: Qc
+! 12/01/16 18:24:53! asypta checks
+! 12/01/16 18:27:29! MacBond21 checks
+! Hand over, current board is:  7d 5d 10d 7h Qc
+! MacBond21                has: Js Jh
+! asypta                   has: 8s 10c
+! MacBond21 wins $19200 (net $10400) with Two Pair (J J 7 7 Q)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   MacBond21                |   58175 |         |      |    |         |
+ 2|   Baldgriff                |   57775 |         |      |    |         |
+ 3|   Grasshopp3r              |   76775 |         |      |    |         |
+ 5|D> asypta                   |   66350 |         |      |    |         |
+ 6|   Mybanjo                  |   92050 |         |      |    |         |
+ 7|   jasong            |   46975 |         |      |    |         |
+ 8|   Rainbow Trout            |   97900 |         |      |    |         |
+ 9|   Rathkopf                 |  103150 |         |      |    |         |
+10|V  Tammy                    |   45075 |         |<AWOL>|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 452 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b47.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Day 45 is November 30.  After day 45 there will be no
+more live redraws.  After any table gets to five or fewer
+players there will be a full redraw to new tables.
+
+======
+
+Live Redraw Status as of 12/01/16 06:25:01 PM
+
+Total Empty Seats: 28
+Total Playing Seats: 452
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman26@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

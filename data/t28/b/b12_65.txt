@@ -1,0 +1,120 @@
+Subject: [b12.10878] Holdem Game Broadcast Message(*)
+
+! Table b12, Hand 65, Day 38
+
+! Billco calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Billco                   |   25675 |   20325 |      |    |         |
+ 2|   Rich Guidoboni           |  144450 |     325 |folded|    |         |
+ 3|>  Grizz                    |   48000 |   20325 |      |    |         |
+ 4|D  Spier                    |   79050 |      25 |folded|    |         |
+ 5|   Jascha                   |   45625 |     775 |folded|    |         |
+ 6|   ThinkingPokerAndrew      |   22075 |   20325 |      |    |         |
+ 7|   EWalk                    |   75725 |      25 |folded|    |         |
+ 8|   JohnnyMac                |  160600 |     325 |folded|    |         |
+ 9|   Clarence Beeks           |   13350 |     325 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/18/18 17:16:23! Dealing a new hand
+! 12/18/18 17:16:23! Everyone antes $25
+! 12/18/18 17:16:23! Jascha blinds $150
+! 12/18/18 17:16:23! ThinkingPokerAndrew blinds $300
+! 12/18/18 18:04:35! EWalk folds
+! 12/18/18 18:56:09! JohnnyMac calls 
+! 12/18/18 18:58:27! Clarence Beeks calls 
+! 12/18/18 21:51:31! Billco calls 
+! 12/18/18 21:51:31! Rich Guidoboni calls 
+! 12/19/18 02:56:56! Grizz calls 
+! 12/19/18 02:56:56! Spier folds
+! 12/19/18 09:34:53! Jascha calls 
+! 12/19/18 09:52:54! ThinkingPokerAndrew checks
+
+! 12/19/18 09:52:54! Pot right ($2325), flopping/dealing/drawing cards
+! 12/19/18 09:52:54! 7 players
+! 12/19/18 09:52:54! Flopped cards: 5d Js 10d
+! 12/19/18 10:00:12! Jascha bets $450 
+! 12/19/18 10:08:28! ThinkingPokerAndrew raises $2550 to $3000 total 
+! 12/19/18 10:09:15! JohnnyMac folds
+! 12/19/18 10:34:48! Clarence Beeks folds
+! 12/19/18 11:12:51! Billco calls 
+! 12/19/18 11:12:51! Rich Guidoboni folds
+! 12/19/18 11:13:59! Grizz calls 
+! 12/19/18 11:13:59! Jascha folds
+
+! 12/19/18 11:13:59! Pot right ($11775), flopping/dealing/drawing cards
+! 12/19/18 11:13:59! 3 players
+! 12/19/18 11:13:59! Flopped card: Qs
+! 12/19/18 11:17:07! ThinkingPokerAndrew checks
+! 12/19/18 11:18:15! Billco bets $15000 
+! 12/19/18 11:19:07! Grizz calls 
+! 12/19/18 11:46:34! ThinkingPokerAndrew calls 
+
+! 12/19/18 11:46:34! Pot right ($56775), flopping/dealing/drawing cards
+! 12/19/18 11:46:34! 3 players
+! 12/19/18 11:46:34! Flopped card: 8s
+! 12/19/18 11:48:38! ThinkingPokerAndrew checks
+! 12/19/18 11:50:24! Billco checks
+! 12/19/18 12:04:33! Grizz bets $2000 
+! 12/19/18 12:09:28! ThinkingPokerAndrew calls 
+! 12/19/18 16:34:06! Billco calls 
+! Hand over, current board is:  5d Js 10d Qs 8s
+! Billco                   has: Qh 10h
+! Grizz                    has: Ad 6d
+! ThinkingPokerAndrew      has: Jd 2d
+! Billco wins $62775 (net $42450) with Two Pair (Q Q 10 10 J)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Billco                   |   88450 |         |      |    |         |
+ 2|   Rich Guidoboni           |  144450 |         |      |    |         |
+ 3|>  Grizz                    |   48000 |         |      |    |         |
+ 4|   Spier                    |   79050 |         |      |    |         |
+ 5|D  Jascha                   |   45625 |         |      |    |         |
+ 6|   ThinkingPokerAndrew      |   22075 |         |      |    |         |
+ 7|   EWalk                    |   75725 |         |      |    |         |
+ 8|   JohnnyMac                |  160600 |         |      |    |         |
+ 9|   Clarence Beeks           |   13350 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 461 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b12.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 11
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

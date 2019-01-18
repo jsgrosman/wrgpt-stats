@@ -1,0 +1,110 @@
+Subject: [b55.10332] Holdem Game Broadcast Message(*)
+
+! Table b55, Hand 30, Day 31
+
+! Patti checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   MOVED BillDaBear         |       0 |      25 |folded|    |         |
+ 2|   MOVED C666               |       0 |      25 |folded|    |         |
+ 3|D  Patti                    |   45950 |    8725 |      |    |         |
+ 4|   MOVED ChipRider          |       0 |     175 |folded|    |         |
+ 5|   MOVED Scipio             |       0 |     325 |folded|    |         |
+ 6|>  tekbot                   |   40250 |    8725 |      |    |         |
+ 7|   MOVED Dr. Evil           |       0 |      25 |folded|    |         |
+ 8|   MOVED LenFuego           |       0 |      25 |folded|    |         |
+ 9|   MOVED Tom Abraham        |       0 |      25 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/12/18 06:58:50! Dealing a new hand
+! 12/12/18 06:58:50! Everyone antes $25
+! 12/12/18 06:58:50! ChipRider blinds $150
+! 12/12/18 06:58:50! Scipio blinds $300
+! 12/12/18 08:29:55! tekbot raises $600 to $900 total 
+! 12/12/18 12:51:18! Dr. Evil folds
+! 12/12/18 12:51:18! LenFuego folds
+! 12/12/18 12:51:18! Tom Abraham folds
+! 12/12/18 12:51:18! BillDaBear folds
+! 12/12/18 12:51:18! C666 folds
+! 12/12/18 12:52:06! Patti calls 
+! 12/12/18 12:52:06! ChipRider folds
+! 12/12/18 12:52:06! Scipio is on vacation and folds
+
+! 12/12/18 12:52:06! Pot right ($2475), flopping/dealing/drawing cards
+! 12/12/18 12:52:06! 2 players
+! 12/12/18 12:52:06! Flopped cards: 7c 4h 2c
+! 12/12/18 12:53:43! tekbot bets $1200 
+! 12/12/18 12:55:53! Patti raises $1600 to $2800 total 
+! 12/12/18 13:55:03! Player leaving table: Dr. Evil
+! 12/12/18 13:55:07! Player leaving table: LenFuego
+! 12/12/18 13:55:09! Player leaving table: Tom Abraham
+! 12/12/18 13:55:11! Player leaving table: C666
+! 12/12/18 13:55:13! Player leaving table: ChipRider
+! 12/12/18 13:55:15! Player leaving table: BillDaBear
+! 12/12/18 13:55:17! Player leaving table: Scipio
+! 12/12/18 14:00:21! tekbot calls 
+
+! 12/12/18 14:00:21! Pot right ($8075), flopping/dealing/drawing cards
+! 12/12/18 14:00:21! 2 players
+! 12/12/18 14:00:21! Flopped card: Kh
+! 12/12/18 14:01:07! tekbot checks
+! 12/12/18 14:02:26! Patti bets $5000 
+! 12/12/18 14:03:08! tekbot calls 
+
+! 12/12/18 14:03:08! Pot right ($18075), flopping/dealing/drawing cards
+! 12/12/18 14:03:08! 2 players
+! 12/12/18 14:03:08! Flopped card: 3d
+! 12/12/18 14:03:51! tekbot checks
+! 12/12/18 14:04:32! Patti checks
+! Hand over, current board is:  7c 4h 2c Kh 3d
+! Patti                    has: Qd Kc
+! tekbot                   has: Ah Ac
+! tekbot wins $18075 (net $9350) with One Pair (A A K 7 4)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 3|D  Patti                    |   45950 |         |      |    |         |
+ 6|>  tekbot                   |   58325 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 483 players left in the tournament 
+! Table waiting for live reshuffle
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b55.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 12
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

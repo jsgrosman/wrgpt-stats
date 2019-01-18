@@ -1,0 +1,113 @@
+Message-Id: <200912180643.nBI6hUBI007604@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [b50.10208] Holdem Game Broadcast Message(*)                          
+
+! Table b50, Hand 19, Day 32
+
+! Kold Call folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|V  Mar Anderson             |  32550 |    400 |28 Dec|    |        |
+ 2|   Argus                    |  27100 |      0 |folded|    |        |
+ 3|   Jack Walsh               |  28950 |    800 |folded|    |        |
+ 4|   GP                       |  25500 |      0 |folded|    |        |
+ 5|   Annika                   |  26950 |      0 |folded|    |        |
+ 6|   Kold Call                |  29550 |   1800 |folded|    |        |
+ 7|   Super Rock               |  29400 |      0 |folded|    |        |
+ 8|V  Brett Holz               |  31650 |      0 |<AWOL>|    |        |
+ 9|D> Woody Myers              |  28450 |   3800 |      |    |        |
+10|   jasong            |  32900 |    200 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 12/17/09 10:34:08! Dealing a new hand
+! 12/17/09 10:34:08! No ante
+! 12/17/09 10:34:08! jasong blinds $200
+! 12/17/09 10:34:08! Mar Anderson blinds $400
+! 12/17/09 12:27:22! Argus folds
+! 12/17/09 12:33:04! Jack Walsh calls 
+! 12/17/09 12:33:04! GP folds
+! 12/17/09 13:54:55! Annika folds
+! 12/17/09 13:54:55! Kold Call raises $400 
+! 12/17/09 13:54:55! Super Rock folds
+! 12/17/09 13:54:55! Brett Holz is on vacation and folds
+! 12/17/09 14:00:40! Woody Myers calls 
+! 12/17/09 14:01:25! jasong folds
+! 12/17/09 14:01:25! Mar Anderson is on vacation and folds
+! 12/17/09 14:43:37! Jack Walsh calls 
+
+! 12/17/09 14:43:37! Pot right ($3000), flopping/dealing/drawing cards
+! 12/17/09 14:43:37! 3 players
+! 12/17/09 14:43:37! Flopped cards: 2c 10d 10s
+! 12/17/09 14:44:26! Jack Walsh checks
+! 12/17/09 15:25:43! Kold Call bets $1000 
+! 12/17/09 15:32:59! Woody Myers calls 
+! 12/17/09 15:37:31! Jack Walsh folds
+
+! 12/17/09 15:37:31! Pot right ($5000), flopping/dealing/drawing cards
+! 12/17/09 15:37:31! 2 players
+! 12/17/09 15:37:31! Flopped card: 5h
+_____________________________________________________________________________
+
+! I have made my flush
+! -- Kold Call --
+_____________________________________________________________________________
+
+! 12/17/09 15:56:04! Kold Call checks
+_____________________________________________________________________________
+
+! I made my straight on the flop, straight beats a flush right?
+! -- Woody Myers --
+_____________________________________________________________________________
+
+! 12/17/09 16:33:02! Woody Myers bets $2000 
+! 12/17/09 22:43:27! Kold Call folds
+! Hand over, no showdown
+! Current board is:  2c 10d 10s 5h ?
+! Woody Myers wins $7000 (net $3200)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|V  Mar Anderson             |  32550 |        |28 Dec|    |        |
+ 2|   Argus                    |  27100 |        |      |    |        |
+ 3|   Jack Walsh               |  28950 |        |      |    |        |
+ 4|   GP                       |  25500 |        |      |    |        |
+ 5|   Annika                   |  26950 |        |      |    |        |
+ 6|   Kold Call                |  29550 |        |      |    |        |
+ 7|   Super Rock               |  29400 |        |      |    |        |
+ 8|V  Brett Holz               |  31650 |        |<AWOL>|    |        |
+ 9|>  Woody Myers              |  35450 |        |      |    |        |
+10|D  jasong            |  32900 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 899 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b50.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Live Redraw Status as of 12/17/09 10:25:02 PM
+
+Total Empty Seats: 30
+Total Playing Seats: 890
+Live redraw in progress:
+Seats Needed: 26
+Seats Waiting: 0
+Moving Players Waiting: 6
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org or follow "wrgpt" on Twitter.
+

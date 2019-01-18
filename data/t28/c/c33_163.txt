@@ -1,0 +1,116 @@
+Subject: [c33.10217] Holdem Game Broadcast Message(*)
+
+! Table c33, Hand 163, Day 63
+
+! BigBlind calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   BigBlind                 |   41050 |   13750 |      |    |         |
+ 2|   Scot Wolfington          |   68350 |     100 |folded|    |         |
+ 3|   Walter Hunt              |   46050 |     100 |folded|    |         |
+ 4|   Poker Coach              |  177125 |     100 |folded|    |         |
+ 5|   John Senger              |   77675 |     100 |folded|    |         |
+ 6|   Bryan Juliano            |   51750 |     100 |folded|    |         |
+ 7|V  Bobby the Worm           |   43125 |     100 |17 Jan|    |         |
+ 8|D  Michael                  |   69250 |    5750 |folded|    |         |
+ 9|>  Big Stack Bryan          |   17150 |   13750 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/13/19 08:01:18! Dealing a new hand
+! 01/13/19 08:01:18! Everyone antes $100
+! 01/13/19 08:01:18! Big Stack Bryan blinds $250
+! 01/13/19 08:01:18! BigBlind blinds $500
+! 01/13/19 08:11:55! Scot Wolfington folds
+! 01/13/19 09:56:21! Walter Hunt folds
+! 01/13/19 09:56:21! Poker Coach folds
+! 01/13/19 09:56:21! John Senger folds
+! 01/13/19 09:56:21! Bryan Juliano folds
+! 01/13/19 09:56:21! Bobby the Worm is on vacation and folds
+! 01/13/19 09:58:01! Michael raises $2150 to $2650 total 
+! 01/13/19 10:05:46! Big Stack Bryan calls 
+! 01/13/19 10:07:52! BigBlind calls 
+
+! 01/13/19 10:07:52! Pot right ($8850), flopping/dealing/drawing cards
+! 01/13/19 10:07:52! 3 players
+! 01/13/19 10:07:52! Flopped cards: 7s Qc 10d
+! 01/13/19 10:18:32! Big Stack Bryan checks
+! 01/13/19 10:42:17! BigBlind bets $1000 
+! 01/13/19 11:41:04! Michael calls 
+! 01/13/19 11:45:12! Big Stack Bryan raises $2000 to $3000 total 
+! 01/13/19 11:54:17! BigBlind calls 
+! 01/13/19 11:55:00! Michael calls 
+
+! 01/13/19 11:55:00! Pot right ($17850), flopping/dealing/drawing cards
+! 01/13/19 11:55:00! 3 players
+! 01/13/19 11:55:00! Flopped card: Qh
+! 01/13/19 11:57:04! Big Stack Bryan bets $3000 
+! 01/13/19 12:43:12! BigBlind calls 
+! 01/13/19 12:47:59! Michael folds
+
+! 01/13/19 12:47:59! Pot right ($23850), flopping/dealing/drawing cards
+! 01/13/19 12:47:59! 2 players
+! 01/13/19 12:47:59! Flopped card: 9h
+! 01/13/19 12:50:50! Big Stack Bryan bets $5000 
+! 01/13/19 12:53:40! BigBlind calls 
+! Hand over, current board is:  7s Qc 10d Qh 9h
+! BigBlind                 has: 8s 6s
+! Big Stack Bryan          has: 10h Qd
+! Big Stack Bryan wins $33850 (net $20100) with Full House (Q Q Q 10 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   BigBlind                 |   41050 |         |      |    |         |
+ 2|   Scot Wolfington          |   68350 |         |      |    |         |
+ 3|   Walter Hunt              |   46050 |         |      |    |         |
+ 4|   Poker Coach              |  177125 |         |      |    |         |
+ 5|   John Senger              |   77675 |         |      |    |         |
+ 6|   Bryan Juliano            |   51750 |         |      |    |         |
+ 7|V  Bobby the Worm           |   43125 |         |17 Jan|    |         |
+ 8|   Michael                  |   69250 |         |      |    |         |
+ 9|D> Big Stack Bryan          |   51000 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 375 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c33.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+The "c" round has started.  Good luck to all
+the remaining players.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

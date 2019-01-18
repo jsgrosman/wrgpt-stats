@@ -1,0 +1,105 @@
+
+! Table b4, Hand 65, Day 50
+
+! jasong bets $1250 
+! benmax is on vacation and folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|>  jasong            |  71225 |   1700 |      |    |        |
+ 2|   rtroll                   |  39300 |     50 |folded|    |        |
+ 3|   Rambo                    |  16200 |     50 |folded|    |        |
+ 4|   Ryan Thomas              |  38550 |     50 |folded|    |        |
+ 6|D  Deborah Abel             |   6850 |     50 |folded|    |        |
+ 7|   Nick Varacalli           |  23100 |    250 |folded|    |        |
+ 8|V  benmax                   |  26450 |    450 |RESIGN|    |        |
+ 9|   Sir Barlow               | 163700 |     50 |folded|    |        |
+10|   Dalai Pookah             |  66050 |     50 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 12/14/15 08:11:57! Dealing a new hand
+! 12/14/15 08:11:57! Everyone antes $50
+! 12/14/15 08:11:57! Nick Varacalli blinds $200
+! 12/14/15 08:11:57! benmax blinds $400
+! 12/14/15 08:14:22! Sir Barlow folds
+! 12/14/15 08:14:22! Dalai Pookah folds
+! 12/14/15 08:16:47! jasong calls 
+! 12/14/15 09:00:11! rtroll folds
+! 12/14/15 09:00:49! Rambo folds
+! 12/14/15 09:00:49! Ryan Thomas folds
+! 12/14/15 09:07:13! Deborah Abel folds
+! 12/14/15 09:16:16! Nick Varacalli folds
+! 12/14/15 09:16:16! benmax is on vacation and checks
+
+! 12/14/15 09:16:16! Pot right ($1450), flopping/dealing/drawing cards
+! 12/14/15 09:16:16! 2 players
+! 12/14/15 09:16:16! Flopped cards: 7s 5c 8c
+! 12/14/15 09:16:16! benmax is on vacation and checks
+! 12/14/15 09:41:53! jasong bets $1250 
+! 12/14/15 09:41:53! benmax is on vacation and folds
+! Hand over, no showdown
+! Current board is:  7s 5c 8c ? ?
+! jasong wins $2700 (net $1000)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|>  jasong            |  73925 |        |      |    |        |
+ 2|   rtroll                   |  39300 |        |      |    |        |
+ 3|   Rambo                    |  16200 |        |      |    |        |
+ 4|   Ryan Thomas              |  38550 |        |      |    |        |
+ 6|   Deborah Abel             |   6850 |        |      |    |        |
+ 7|D  Nick Varacalli           |  23100 |        |      |    |        |
+ 8|V  benmax                   |  26450 |        |RESIGN|    |        |
+ 9|   Sir Barlow               | 163700 |        |      |    |        |
+10|   Dalai Pookah             |  66050 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 513 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b4.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+There will be no more live redraws for round "b".
+
+======
+
+Live Redraw Status as of 12/14/15 09:25:01 AM
+
+Total Empty Seats: 27
+Total Playing Seats: 513
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman25@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

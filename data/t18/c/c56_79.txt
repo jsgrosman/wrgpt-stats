@@ -1,0 +1,109 @@
+Message-Id: <200901261305.n0QD5qr3025754@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+Reply-To: dealer@wrgpt.org
+From: dealer@wrgpt.org
+Subject: [c56.10269] Holdem Game Broadcast Message(*)          
+
+! Table c56, Hand 79, Day 85
+
+! Philip Tussey calls 
+! Pot right ($34200), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 3h
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Eric Muller              |  42425 |    100 |folded|    |        |
+ 2|   jasong            |      0 |  16300 |all-in|    |        |
+ 3|D  Luke C                   |  22400 |    100 |folded|    |        |
+ 4|>  Philip Tussey            |  15200 |  16300 |      |    |        |
+ 5|   Brian Seymour            |  71600 |    900 |folded|    |        |
+ 6|   CKRAIZ                   |  92500 |    100 |folded|    |        |
+ 7|   The Occupant             |  51650 |    100 |folded|    |        |
+ 8|   Guy Desjardins           |  19900 |    100 |folded|    |        |
+ 9|   bullman                  |  46500 |    100 |folded|    |        |
+10|   mhug2                    |  14300 |    100 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 01/24/09 10:00:59! Dealing a new hand
+! 01/24/09 10:00:59! Everyone antes $100
+! 01/24/09 10:00:59! Philip Tussey blinds $400
+! 01/24/09 10:00:59! Brian Seymour blinds $800
+! 01/24/09 10:06:35! CKRAIZ folds
+! 01/24/09 10:26:58! The Occupant folds
+! 01/24/09 13:36:13! Guy Desjardins folds
+! 01/24/09 13:36:13! bullman folds
+! 01/24/09 13:36:13! mhug2 folds
+! 01/24/09 13:36:13! Eric Muller folds
+! 01/24/09 17:44:39! jasong raises $1000 
+! 01/24/09 20:52:26! Luke C folds
+! 01/25/09 06:48:46! Philip Tussey calls 
+! 01/25/09 06:48:46! Brian Seymour folds
+
+! 01/25/09 06:48:46! Pot right ($5400), flopping/dealing/drawing cards
+! 01/25/09 06:48:46! 2 players
+! 01/25/09 06:48:46! Flopped cards: 7s 5s 9h
+! 01/25/09 08:46:00! Philip Tussey checks
+! 01/25/09 13:21:39! jasong bets $3000 
+! 01/25/09 17:14:38! Philip Tussey calls 
+
+! 01/25/09 17:14:38! Pot right ($11400), flopping/dealing/drawing cards
+! 01/25/09 17:14:38! 2 players
+! 01/25/09 17:14:38! Flopped card: 3s
+! 01/25/09 17:15:13! Philip Tussey checks
+! 01/25/09 17:33:21! jasong bets $11400 and is all in
+! 01/26/09 05:05:40! Philip Tussey calls 
+
+! 01/26/09 05:05:40! Pot right ($34200), flopping/dealing/drawing cards
+! 01/26/09 05:05:40! 2 players, 1 all in
+! 01/26/09 05:05:40! Flopped card: 3h
+! Hand over, current board is:  7s 5s 9h 3s 3h
+! jasong            has: 7d 6d
+! Philip Tussey            has: Ah 9d
+! Philip Tussey wins $34200 (net $17900) with Two Pair (9 9 3 3 A)
+! Antes and blinds go up
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Eric Muller              |  42425 |        |      |    |        |
+ 3|   Luke C                   |  22400 |        |      |    |        |
+ 4|D> Philip Tussey            |  49400 |        |      |    |        |
+ 5|   Brian Seymour            |  71600 |        |      |    |        |
+ 6|   CKRAIZ                   |  92500 |        |      |    |        |
+ 7|   The Occupant             |  51650 |        |      |    |        |
+ 8|   Guy Desjardins           |  19900 |        |      |    |        |
+ 9|   bullman                  |  46500 |        |      |    |        |
+10|   mhug2                    |  14300 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! jasong is eliminated!
+! 569 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c56.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+There will be no more redraws for the "c" round.
+A full redraw will happen when we get a table down
+to five or less players.
+
+Live Redraw Status as of 01/26/09 04:55:01 AM
+
+Total Empty Seats: 30
+Total Playing Seats: 570
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org
+

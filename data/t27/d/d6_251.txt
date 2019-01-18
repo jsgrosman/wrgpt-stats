@@ -1,0 +1,109 @@
+
+! Table d6, Hand 251, Day 134
+
+! piojos raises $42450 to $207250 total and is all in
+! Pot right ($388050), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped cards: 7s 5c 6c
+! Flopped card: 9c
+! Flopped card: 10h
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   DGold                    |       0 |  165800 |all-in|  2 |  345600 |
+ 2|   dr54321                  |   47550 |    1000 |folded|    |         |
+ 3|   jasong            |  268075 |    1000 |folded|    |         |
+ 5|   ArikK                    |  348275 |    1000 |folded|    |         |
+ 6|D> piojos                   |       0 |  208250 |all-in|  1 |   42450 |
+ 8|   Lets Go Red Sox          |  439775 |    4000 |folded|    |         |
+ 9|   Joe Nadeau               |   67000 |    7000 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/05/18 06:32:39! Dealing a new hand
+! 03/05/18 06:32:39! Everyone antes $1000
+! 03/05/18 06:32:39! Lets Go Red Sox blinds $3000
+! 03/05/18 06:32:39! Joe Nadeau blinds $6000
+! 03/05/18 06:36:37! DGold raises $6000 to $12000 total 
+! 03/05/18 08:14:46! dr54321 folds
+! 03/05/18 08:14:46! jasong folds
+! 03/05/18 08:14:46! ArikK folds
+! 03/05/18 09:28:06! piojos raises $27000 to $39000 total 
+! 03/05/18 09:44:33! Lets Go Red Sox folds
+! 03/05/18 10:31:19! Joe Nadeau folds
+! 03/05/18 11:35:54! DGold raises $125800 to $164800 total and is all in
+! 03/05/18 12:48:54! piojos raises $42450 to $207250 total and is all in
+
+! 03/05/18 12:48:54! Pot right ($388050), flopping/dealing/drawing cards
+! 03/05/18 12:48:54! 2 players, 2 all in
+! 03/05/18 12:48:54! Flopped cards: 7s 5c 6c
+! 03/05/18 12:48:54! Flopped card: 9c
+! 03/05/18 12:48:54! Flopped card: 10h
+! Hand over, current board is:  7s 5c 6c 9c 10h
+! DGold                    has: As Kc
+! piojos                   has: Ks Kd
+! Pot 1: uncalled $42450 returned to piojos
+! Pot 2: piojos wins $345600 with One Pair (K K 10 9 7)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|   dr54321                  |   47550 |         |      |    |         |
+ 3|   jasong            |  268075 |         |      |    |         |
+ 5|   ArikK                    |  348275 |         |      |    |         |
+ 6|>  piojos                   |  388050 |         |      |    |         |
+ 8|D  Lets Go Red Sox          |  439775 |         |      |    |         |
+ 9|   Joe Nadeau               |   67000 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! DGold is eliminated!
+! 93 players left in the tournament, 2 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d6.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Live Redraw Status as of 03/05/18 12:25:01 PM
+
+Total Empty Seats: 26
+Total Playing Seats: 94
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman27@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

@@ -1,0 +1,123 @@
+Subject: [b24.10146] Holdem Game Broadcast Message(*)
+
+! Table b24, Hand 11, Day 10
+
+! BigBlind calls 
+! Pot right ($100525), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: Kd
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Rugratbbc                |   46425 |    1575 |folded|    |         |
+ 2|D  Loboc                    |   48975 |       0 |folded|    |         |
+ 3|   StewieG                  |       0 |   49325 |all-in|    |         |
+ 4|   Wally F                  |   97200 |     150 |folded|    |         |
+ 5|   Der Olf                  |   54800 |       0 |folded|    |         |
+ 6|V  Darse Billings           |   50525 |       0 |  sfbs|    |         |
+ 7|   Mugsy                    |   50425 |       0 |folded|    |         |
+ 8|   Buggilla                 |   47725 |     150 |folded|    |         |
+ 9|>  BigBlind                 |    1475 |   49325 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/20/18 10:16:06! Dealing a new hand
+! 11/20/18 10:16:06! No ante
+! 11/20/18 10:16:06! StewieG blinds $75
+! 11/20/18 10:16:06! Wally F blinds $150
+! 11/20/18 10:23:16! Der Olf folds
+! 11/20/18 10:23:16! Darse Billings is on vacation and folds
+! 11/20/18 10:57:16! Mugsy folds
+! 11/20/18 11:19:39! Buggilla calls 
+! 11/20/18 11:27:14! BigBlind calls 
+! 11/20/18 11:28:38! Rugratbbc raises $550 to $700 total 
+! 11/20/18 15:29:02! Loboc folds
+! 11/20/18 15:46:26! StewieG raises $875 to $1575 total 
+! 11/20/18 15:46:26! Wally F folds
+! 11/20/18 15:47:11! Buggilla folds
+! 11/20/18 16:34:34! BigBlind calls 
+! 11/20/18 18:28:10! Rugratbbc calls 
+
+! 11/20/18 18:28:10! Pot right ($5025), flopping/dealing/drawing cards
+! 11/20/18 18:28:10! 3 players
+! 11/20/18 18:28:10! Flopped cards: Qs 6d Jh
+! 11/20/18 19:59:01! StewieG bets $5000 
+! 11/21/18 00:03:55! BigBlind calls 
+! 11/21/18 00:03:55! Rugratbbc folds
+
+! 11/21/18 00:03:55! Pot right ($15025), flopping/dealing/drawing cards
+! 11/21/18 00:03:55! 2 players
+! 11/21/18 00:03:55! Flopped card: 2c
+! 11/21/18 05:46:55! StewieG bets $42750 and is all in
+! 11/21/18 06:44:35! BigBlind calls 
+
+! 11/21/18 06:44:35! Pot right ($100525), flopping/dealing/drawing cards
+! 11/21/18 06:44:35! 2 players, 1 all in
+! 11/21/18 06:44:35! Flopped card: Kd
+! Hand over, current board is:  Qs 6d Jh 2c Kd
+! StewieG                  has: Ks Kh
+! BigBlind                 has: Qd 7d
+! StewieG wins $100525 (net $51200) with Three of a Kind (K K K Q J)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Rugratbbc                |   46425 |         |      |    |         |
+ 2|   Loboc                    |   48975 |         |      |    |         |
+ 3|D  StewieG                  |  100525 |         |      |    |         |
+ 4|   Wally F                  |   97200 |         |      |    |         |
+ 5|   Der Olf                  |   54800 |         |      |    |         |
+ 6|V  Darse Billings           |   50525 |         |  sfbs|    |         |
+ 7|   Mugsy                    |   50425 |         |      |    |         |
+ 8|   Buggilla                 |   47725 |         |      |    |         |
+ 9|>  BigBlind                 |    1475 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Loboc timed out during this hand
+! 570 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b24.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 5
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

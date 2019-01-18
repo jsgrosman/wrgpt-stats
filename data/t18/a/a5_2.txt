@@ -1,0 +1,93 @@
+Message-Id: <200810221554.m9MFsaSi005901@elvis.wrgpt.org>
+To: jsgrosman@yahoo.com
+Reply-To: dealer@wrgpt.org
+From: dealer@wrgpt.org
+Subject: [a5.10030] Holdem Game Broadcast Message(*)          
+
+! Table a5, Hand 2, Day 3
+
+! shou72 folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   BrianU                   |  19200 |    400 |folded|    |        |
+ 2|D  JPawloski                |  19550 |    400 |folded|    |        |
+ 3|   Jim McGill               |  40050 |    400 |folded|    |        |
+ 4|   shou72                   |  19600 |    400 |folded|    |        |
+ 5|   CPT-Ron                  |  20000 |      0 |folded|    |        |
+ 6|>  Garnett21k               |  18000 |   2000 |      |    |        |
+ 7|   Ortzy                    |  20000 |      0 |folded|    |        |
+ 9|   jasong            |  20000 |      0 |folded|    |        |
+10|V  Shadim                   |  20000 |      0 | NoSho|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 10/21/08 09:21:32! Dealing a new hand
+! 10/21/08 09:21:32! No ante
+! 10/21/08 09:21:32! Jim McGill blinds $50
+! 10/21/08 09:21:32! shou72 blinds $100
+! 10/21/08 09:51:15! CPT-Ron folds
+! 10/21/08 12:12:28! Garnett21k raises $300 
+! 10/21/08 12:12:28! Ortzy folds
+! 10/21/08 12:12:28! jasong folds
+! 10/21/08 12:12:28! Shadim is on vacation and folds
+! 10/21/08 13:37:37! BrianU calls 
+! 10/21/08 13:43:03! JPawloski calls 
+! 10/21/08 13:43:03! Jim McGill calls 
+! 10/21/08 13:53:38! shou72 calls 
+
+! 10/21/08 13:53:38! Pot right ($2000), flopping/dealing/drawing cards
+! 10/21/08 13:53:38! 5 players
+! 10/21/08 13:53:38! Flopped cards: 3h 8c 3s
+! 10/21/08 13:58:42! Jim McGill checks
+! 10/21/08 14:11:46! shou72 checks
+! 10/21/08 22:49:45! Garnett21k bets $1600 
+! 10/22/08 06:36:34! BrianU folds
+! 10/22/08 06:36:34! JPawloski folds
+! 10/22/08 08:33:25! Jim McGill folds
+! 10/22/08 08:54:33! shou72 folds
+! Hand over, no showdown
+! Current board is:  3h 8c 3s ? ?
+! Garnett21k wins $3600 (net $1600)
+! Antes and blinds go up
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   BrianU                   |  19200 |        |      |    |        |
+ 2|   JPawloski                |  19550 |        |      |    |        |
+ 3|D  Jim McGill               |  40050 |        |      |    |        |
+ 4|   shou72                   |  19600 |        |      |    |        |
+ 5|   CPT-Ron                  |  20000 |        |      |    |        |
+ 6|>  Garnett21k               |  21600 |        |      |    |        |
+ 7|   Ortzy                    |  20000 |        |      |    |        |
+ 9|   jasong            |  20000 |        |      |    |        |
+10|V  Shadim                   |  20000 |        | NoSho|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 912 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+TOURNEY INFORMATION
+
+
+NOTICE:
+
+This is the PRACTICE round.  It will go until about 10/31 and
+stop without warning.  This round does not count.  You will
+start with a full stack of chips when the real tourney starts
+on or about November 4.
+
+So, use this to try out ADVANCE actions.  That is, not hard
+actions, but, rather, actions taken in ADVANCE of your turn.
+They are pretty easy.  Check out the links below.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org
+

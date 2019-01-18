@@ -1,0 +1,103 @@
+Subject: [b11.10467] Holdem Game Broadcast Message(*)
+
+! Table b11, Hand 40, Day 31
+
+! put_it_good folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   bad                      |   45125 |      25 |folded|    |         |
+ 2|   MNoelH                   |   36700 |      25 |folded|    |         |
+ 3|   RichNYC                  |   46150 |      25 |folded|    |         |
+ 4|D  ddppmm                   |   85050 |      25 |folded|    |         |
+ 5|>  DotMatrix                |   51725 |    1525 |      |    |         |
+ 6|   put_it_good              |   45625 |     725 |folded|    |         |
+ 7|   Bobby the Worm           |   56450 |      25 |folded|    |         |
+ 8|   ADB Jupe                 |   49550 |      25 |New   |    |         |
+ 9|   Chris Goedde             |   88600 |      25 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/11/18 17:09:13! Dealing a new hand
+! 12/11/18 17:09:13! Everyone antes $25
+! 12/11/18 17:09:13! DotMatrix blinds $150
+! 12/11/18 17:09:13! put_it_good blinds $300
+! 12/11/18 17:26:19! Bobby the Worm folds
+! 12/11/18 17:26:19! Three Pair is on vacation and folds
+! 12/11/18 17:36:33! Chris Goedde folds
+! 12/11/18 18:18:45! bad folds
+! 12/11/18 18:18:45! MNoelH folds
+! 12/11/18 19:30:44! RichNYC folds
+! 12/11/18 19:30:44! ddppmm folds
+! 12/11/18 21:01:22! DotMatrix calls 
+! 12/11/18 23:18:18! put_it_good checks
+
+! 12/11/18 23:18:18! Pot right ($825), flopping/dealing/drawing cards
+! 12/11/18 23:18:18! 2 players
+! 12/11/18 23:18:18! Flopped cards: Jd 4s Kd
+! 12/12/18 00:25:04! Player leaving table: Three Pair
+! 12/12/18 04:42:45! DotMatrix bets $400 
+! 12/12/18 04:44:18! put_it_good calls 
+
+! 12/12/18 04:44:18! Pot right ($1625), flopping/dealing/drawing cards
+! 12/12/18 04:44:18! 2 players
+! 12/12/18 04:44:18! Flopped card: 8h
+! 12/12/18 04:55:13! New player added to the table: ADB Jupe
+! 12/12/18 04:59:49! DotMatrix bets $800 
+! 12/12/18 05:06:33! put_it_good folds
+! Hand over, no showdown
+! Current board is:  Jd 4s Kd 8h ?
+! DotMatrix wins $2425 (net $900)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   bad                      |   45125 |         |      |    |         |
+ 2|   MNoelH                   |   36700 |         |      |    |         |
+ 3|   RichNYC                  |   46150 |         |      |    |         |
+ 4|   ddppmm                   |   85050 |         |      |    |         |
+ 5|D> DotMatrix                |   54150 |         |      |    |         |
+ 6|   put_it_good              |   45625 |         |      |    |         |
+ 7|   Bobby the Worm           |   56450 |         |      |    |         |
+ 8|   ADB Jupe                 |   49550 |         |      |    |         |
+ 9|   Chris Goedde             |   88600 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 486 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b11.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 18
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,91 @@
+Message-Id: <201012312041.oBVKfjep030111@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [c25.10083] Holdem Game Broadcast Message(*)                          
+
+! Table c25, Hand 64, Day 61
+
+! Alan Gopin calls - side pot
+! Pot right ($113000), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped cards: Qs 4d 9h
+! Flopped card: 3c
+! Flopped card: 2s
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|V  Stanley Chow             |  30650 |    450 |<AWOL>|    |        |
+ 2|   Deborah Abel             |  33150 |    450 |folded|    |        |
+ 3|   jasong            |      0 |  75650 |all-in|  1 |  39550 |
+ 5|>  Alan Gopin               |      0 |  36100 |all-in|  2 |  73450 |
+ 7|   jennyfar                 |  75850 |     50 |folded|    |        |
+ 9|D  b monie                  |  17250 |     50 |folded|    |        |
+10|   mjoseff                  |  79025 |    250 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 12/31/10 08:48:30! Dealing a new hand
+! 12/31/10 08:48:30! Everyone antes $50
+! 12/31/10 08:48:30! mjoseff blinds $200
+! 12/31/10 08:48:30! Stanley Chow blinds $400
+! 12/31/10 08:56:14! Deborah Abel calls 
+! 12/31/10 09:53:42! jasong raises $2000 
+! 12/31/10 09:53:42! Alan Gopin raises $6150 
+! 12/31/10 11:01:38! jennyfar folds
+! 12/31/10 11:01:38! b monie folds
+! 12/31/10 11:01:38! mjoseff folds
+! 12/31/10 11:01:38! Stanley Chow is on vacation and folds
+! 12/31/10 11:01:38! Deborah Abel folds
+! 12/31/10 11:25:44! jasong raises $67050 and is all in
+! 12/31/10 12:41:45! Alan Gopin calls - side pot
+
+! 12/31/10 12:41:45! Pot right ($113000), flopping/dealing/drawing cards
+! 12/31/10 12:41:45! 2 players, 2 all in
+! 12/31/10 12:41:45! Flopped cards: Qs 4d 9h
+! 12/31/10 12:41:45! Flopped card: 3c
+! 12/31/10 12:41:45! Flopped card: 2s
+! Hand over, current board is:  Qs 4d 9h 3c 2s
+! jasong            has: Ah Ac
+! Alan Gopin               has: 10d 10c
+! Pot 1: uncalled $39550 returned to jasong
+! Pot 2: jasong wins $73450 with One Pair (A A Q 9 4)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|V  Stanley Chow             |  30650 |        |<AWOL>|    |        |
+ 2|   Deborah Abel             |  33150 |        |      |    |        |
+ 3|   jasong            | 113000 |        |      |    |        |
+ 7|   jennyfar                 |  75850 |        |      |    |        |
+ 9|   b monie                  |  17250 |        |      |    |        |
+10|D  mjoseff                  |  79025 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! Alan Gopin is eliminated!
+! 621 players left in the tournament, 2 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c25.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+If you have any problems send mail to floorman20@wrgpt.org.
+
+Live Redraw Status as of 12/31/10 12:25:01 PM
+
+Total Empty Seats: 29
+Total Playing Seats: 622
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org or follow "wrgpt" on Twitter.
+

@@ -1,0 +1,125 @@
+Subject: [b33.10157] Holdem Game Broadcast Message(*)
+
+! Table b33, Hand 12, Day 10
+
+! Olof Siverbo calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   MadChad                  |   42225 |     600 |folded|    |         |
+ 2|   Olof Siverbo             |   43725 |    6600 |      |    |         |
+ 3|D  rktsci                   |   49175 |       0 |folded|    |         |
+ 4|   Couchtater               |   56725 |      75 |folded|    |         |
+ 5|   GKinz54                  |   45025 |     600 |folded|    |         |
+ 6|>  pokerpilot               |   42575 |    6600 |      |    |         |
+ 7|   Bob R                    |   56775 |       0 |folded|    |         |
+ 8|   Rayo Kniep               |   48850 |       0 |folded|    |         |
+ 9|   Desmontes                |   50450 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/20/18 12:24:55! Dealing a new hand
+! 11/20/18 12:24:55! No ante
+! 11/20/18 12:24:55! Couchtater blinds $75
+! 11/20/18 12:24:55! GKinz54 blinds $150
+! 11/20/18 12:31:51! pokerpilot raises $150 to $300 total 
+! 11/20/18 12:51:53! Bob R folds
+! 11/20/18 12:51:53! Rayo Kniep folds
+! 11/20/18 12:51:53! Desmontes folds
+! 11/20/18 12:51:53! MadChad calls 
+! 11/20/18 23:14:48! Olof Siverbo raises $300 to $600 total 
+! 11/21/18 07:01:03! rktsci folds
+! 11/21/18 09:17:48! Couchtater folds
+! 11/21/18 09:21:28! GKinz54 calls 
+! 11/21/18 09:21:28! pokerpilot calls 
+! 11/21/18 09:47:54! MadChad calls 
+
+! 11/21/18 09:47:54! Pot right ($2475), flopping/dealing/drawing cards
+! 11/21/18 09:47:54! 4 players
+! 11/21/18 09:47:54! Flopped cards: Qc Ah Jd
+! 11/21/18 09:48:45! GKinz54 checks
+! 11/21/18 10:21:01! pokerpilot checks
+! 11/21/18 10:32:15! MadChad checks
+! 11/21/18 10:33:40! Olof Siverbo bets $1000 
+! 11/21/18 10:35:29! GKinz54 folds
+! 11/21/18 10:42:56! pokerpilot calls 
+! 11/21/18 11:26:33! MadChad folds
+
+! 11/21/18 11:26:33! Pot right ($4475), flopping/dealing/drawing cards
+! 11/21/18 11:26:33! 2 players
+! 11/21/18 11:26:33! Flopped card: 2c
+! 11/21/18 11:37:54! pokerpilot checks
+! 11/21/18 12:35:29! Olof Siverbo bets $2000 
+! 11/21/18 13:04:28! pokerpilot calls 
+
+! 11/21/18 13:04:28! Pot right ($8475), flopping/dealing/drawing cards
+! 11/21/18 13:04:28! 2 players
+! 11/21/18 13:04:28! Flopped card: As
+! 11/21/18 13:05:08! pokerpilot bets $3000 
+! 11/21/18 13:39:35! Olof Siverbo calls 
+! Hand over, current board is:  Qc Ah Jd 2c As
+! Olof Siverbo             has: Ks Kd
+! pokerpilot               has: 9s Kh
+! Olof Siverbo wins $14475 (net $7875) with Two Pair (A A K K Q)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   MadChad                  |   42225 |         |      |    |         |
+ 2|   Olof Siverbo             |   58200 |         |      |    |         |
+ 3|   rktsci                   |   49175 |         |      |    |         |
+ 4|D  Couchtater               |   56725 |         |      |    |         |
+ 5|   GKinz54                  |   45025 |         |      |    |         |
+ 6|>  pokerpilot               |   42575 |         |      |    |         |
+ 7|   Bob R                    |   56775 |         |      |    |         |
+ 8|   Rayo Kniep               |   48850 |         |      |    |         |
+ 9|   Desmontes                |   50450 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 569 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b33.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 7
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

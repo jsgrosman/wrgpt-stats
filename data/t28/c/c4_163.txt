@@ -1,0 +1,113 @@
+Subject: [c4.10187] Holdem Game Broadcast Message(*)
+
+! Table c4, Hand 163, Day 62
+
+! Chkchk checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Russ Bryan               |   89075 |     100 |folded|    |         |
+ 2|   DotMatrix                |   27350 |     100 |folded|    |         |
+ 3|   Jeff Palmucci            |   89475 |     100 |folded|    |         |
+ 4|>  Chippy McChiperson       |   69650 |    7600 |      |    |         |
+ 5|   What Beats What Again    |   19975 |     100 |folded|    |         |
+ 6|   rAmAk                    |   54650 |     100 |folded|    |         |
+ 7|D  Chkchk                   |   68850 |    7600 |      |    |         |
+ 8|   Ryan Thomas              |  121000 |     350 |folded|    |         |
+ 9|   eliuk35                  |  127050 |     600 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/12/19 09:00:05! Dealing a new hand
+! 01/12/19 09:00:05! Everyone antes $100
+! 01/12/19 09:00:05! Ryan Thomas blinds $250
+! 01/12/19 09:00:05! eliuk35 blinds $500
+! 01/12/19 09:28:13! Russ Bryan folds
+! 01/12/19 09:28:13! DotMatrix folds
+! 01/12/19 11:05:13! Jeff Palmucci folds
+! 01/12/19 11:35:45! Chippy McChiperson raises $1000 to $1500 total 
+! 01/12/19 11:35:45! What Beats What Again folds
+! 01/12/19 11:35:45! rAmAk folds
+! 01/12/19 11:47:20! Chkchk calls 
+! 01/12/19 11:47:20! Ryan Thomas folds
+! 01/12/19 11:47:20! eliuk35 folds
+
+! 01/12/19 11:47:20! Pot right ($4650), flopping/dealing/drawing cards
+! 01/12/19 11:47:20! 2 players
+! 01/12/19 11:47:20! Flopped cards: 4h Ks Qs
+! 01/12/19 11:48:29! Chippy McChiperson checks
+! 01/12/19 11:49:31! Chkchk bets $2000 
+! 01/12/19 11:50:30! Chippy McChiperson calls 
+
+! 01/12/19 11:50:30! Pot right ($8650), flopping/dealing/drawing cards
+! 01/12/19 11:50:30! 2 players
+! 01/12/19 11:50:30! Flopped card: 10s
+! 01/12/19 11:51:16! Chippy McChiperson checks
+! 01/12/19 12:11:54! Chkchk bets $4000 
+! 01/12/19 12:36:12! Chippy McChiperson calls 
+
+! 01/12/19 12:36:12! Pot right ($16650), flopping/dealing/drawing cards
+! 01/12/19 12:36:12! 2 players
+! 01/12/19 12:36:12! Flopped card: 9c
+! 01/12/19 12:37:04! Chippy McChiperson checks
+! 01/12/19 13:21:32! Chkchk checks
+! Hand over, current board is:  4h Ks Qs 10s 9c
+! Chippy McChiperson       has: Jd Qc
+! Chkchk                   has: 9s Kc
+! Chippy McChiperson wins $16650 (net $9050) with Straight (K Q J 10 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Russ Bryan               |   89075 |         |      |    |         |
+ 2|   DotMatrix                |   27350 |         |      |    |         |
+ 3|   Jeff Palmucci            |   89475 |         |      |    |         |
+ 4|>  Chippy McChiperson       |   86300 |         |      |    |         |
+ 5|   What Beats What Again    |   19975 |         |      |    |         |
+ 6|   rAmAk                    |   54650 |         |      |    |         |
+ 7|   Chkchk                   |   68850 |         |      |    |         |
+ 8|D  Ryan Thomas              |  121000 |         |      |    |         |
+ 9|   eliuk35                  |  127050 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 377 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c4.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+The "c" round has started.  Good luck to all
+the remaining players.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 4
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

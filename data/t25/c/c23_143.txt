@@ -1,0 +1,116 @@
+
+! Table c23, Hand 143, Day 62
+
+! GestaltyDog folds
+! Pot right ($5050), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: Qs
+! Flopped card: As
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Ryan600                  | 123000 |    100 |folded|    |        |
+ 2|D  Murtan                   |  41300 |    100 |folded|    |        |
+ 3|>  Bob                      |  71125 |   3425 |      |  1 |   4800 |
+ 4|   GestaltyDog              |  39500 |    900 |folded|    |        |
+ 5|   Ed Fernandez             |  43300 |    100 |folded|    |        |
+ 6|   jasong            |  26825 |    100 |folded|    |        |
+ 7|   MojoJojo                 | 206475 |    100 |folded|    |        |
+ 8|V  mishkadeel               |      0 |     25 |RESIGN| 10 |    250 |
+ 9|   the cake is a pie        |  20200 |    100 |folded|    |        |
+10|V  Walter Hunt              |  19850 |    100 |  0104|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 12/25/15 20:14:55! Dealing a new hand
+! 12/25/15 20:14:55! mishkadeel antes $25 and is all in
+! 12/25/15 20:14:55! Everyone else antes $100
+! 12/25/15 20:14:55! Bob blinds $400
+! 12/25/15 20:14:55! GestaltyDog blinds $800
+! 12/25/15 21:09:44! Ed Fernandez folds
+! 12/26/15 05:32:27! jasong folds
+! 12/26/15 05:32:27! MojoJojo folds
+! 12/26/15 05:32:27! the cake is a pie folds
+! 12/26/15 05:32:27! Walter Hunt is on vacation and folds
+! 12/26/15 05:32:27! Ryan600 folds
+! 12/26/15 05:32:27! Murtan folds
+! 12/26/15 05:36:05! Bob calls 
+! 12/26/15 10:07:10! GestaltyDog checks
+
+! 12/26/15 10:07:10! Pot right ($2525), flopping/dealing/drawing cards
+! 12/26/15 10:07:10! 3 players, 1 all in
+! 12/26/15 10:07:10! Flopped cards: 3d Ad 7h
+! 12/26/15 13:54:13! Bob bets $2525 
+! 12/26/15 20:14:43! GestaltyDog folds
+
+! 12/26/15 20:14:43! Pot right ($5050), flopping/dealing/drawing cards
+! 12/26/15 20:14:43! 2 players, 1 all in
+! 12/26/15 20:14:43! Flopped card: Qs
+! 12/26/15 20:14:43! Flopped card: As
+! Hand over, current board is:  3d Ad 7h Qs As
+! Bob                      has: 9s Ac
+! Pot 1: uncalled $4800 returned to Bob
+! Pot 10: Bob wins $250 with Three of a Kind (A A A Q 9)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Ryan600                  | 123000 |        |      |    |        |
+ 2|   Murtan                   |  41300 |        |      |    |        |
+ 3|D> Bob                      |  76175 |        |      |    |        |
+ 4|   GestaltyDog              |  39500 |        |      |    |        |
+ 5|   Ed Fernandez             |  43300 |        |      |    |        |
+ 6|   jasong            |  26825 |        |      |    |        |
+ 7|   MojoJojo                 | 206475 |        |      |    |        |
+ 9|   the cake is a pie        |  20200 |        |      |    |        |
+10|V  Walter Hunt              |  19850 |        |  0104|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! mishkadeel is eliminated!
+! 441 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c23.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the "c" round.
+
+======
+
+Live Redraw Status as of 12/26/15 07:55:02 PM
+
+Total Empty Seats: 15
+Total Playing Seats: 442
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman25@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

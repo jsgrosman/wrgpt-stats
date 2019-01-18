@@ -1,0 +1,116 @@
+
+! Table b70, Hand 30, Day 29
+
+! Sarah D raises $32950 and is all in
+! Pot right ($84150), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped cards: 4c Kc 3h
+! Flopped card: 10s
+! Flopped card: Qd
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   TheOldThug               |  48975 |   1200 |folded|    |        |
+ 2|>  Sarah D                  |      0 |  57650 |all-in|  1 |  32950 |
+ 3|   jasong            |  48775 |      0 |folded|    |        |
+ 4|D  J Hop                    |      0 |  24700 |all-in|  2 |  51200 |
+ 5|   patricko                 |  52650 |    200 |folded|    |        |
+ 6|   LenFuego                 |  21850 |    400 |folded|    |        |
+ 7|   Wrongfellow              |  44125 |      0 |folded|    |        |
+ 8|   Thomas Gabrysch          |  26775 |      0 |folded|    |        |
+ 9|V  Ian D. Myers             |  29550 |      0 |<AWOL>|    |        |
+10|   Derrick Martins          |  38000 |      0 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 11/23/15 12:49:25! Dealing a new hand
+! 11/23/15 12:49:25! No ante
+! 11/23/15 12:49:25! patricko blinds $200
+! 11/23/15 12:49:25! LenFuego blinds $400
+! 11/23/15 12:56:38! Wrongfellow folds
+! 11/23/15 13:05:04! Thomas Gabrysch folds
+! 11/23/15 13:05:04! Ian D. Myers is on vacation and folds
+! 11/23/15 13:20:30! Derrick Martins folds
+! 11/23/15 15:15:33! TheOldThug raises $800 
+! 11/23/15 15:38:31! Sarah D raises $1650 
+! 11/23/15 15:47:59! jasong folds
+! 11/23/15 16:41:03! J Hop raises $21850 and is all in
+! 11/23/15 16:41:03! patricko folds
+! 11/23/15 19:02:40! LenFuego folds
+! 11/23/15 19:02:40! TheOldThug folds
+! 11/23/15 19:22:59! Sarah D raises $32950 and is all in
+
+! 11/23/15 19:22:59! Pot right ($84150), flopping/dealing/drawing cards
+! 11/23/15 19:22:59! 2 players, 2 all in
+! 11/23/15 19:22:59! Flopped cards: 4c Kc 3h
+! 11/23/15 19:22:59! Flopped card: 10s
+! 11/23/15 19:22:59! Flopped card: Qd
+! Hand over, current board is:  4c Kc 3h 10s Qd
+! Sarah D                  has: Qh Ac
+! J Hop                    has: Jd 10d
+! Pot 1: uncalled $32950 returned to Sarah D
+! Pot 2: Sarah D wins $51200 with One Pair (Q Q A K 10)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   TheOldThug               |  48975 |        |      |    |        |
+ 2|>  Sarah D                  |  84150 |        |      |    |        |
+ 3|   jasong            |  48775 |        |      |    |        |
+ 5|D  patricko                 |  52650 |        |      |    |        |
+ 6|   LenFuego                 |  21850 |        |      |    |        |
+ 7|   Wrongfellow              |  44125 |        |      |    |        |
+ 8|   Thomas Gabrysch          |  26775 |        |      |    |        |
+ 9|V  Ian D. Myers             |  29550 |        |<AWOL>|    |        |
+10|   Derrick Martins          |  38000 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! J Hop is eliminated!
+! 655 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b70.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Any players who have not started in WRGPT after day 30 will
+have their stacks removed from the tourney.
+
+======
+
+Live Redraw Status as of 11/23/15 06:55:02 PM
+
+Total Empty Seats: 24
+Total Playing Seats: 656
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman25@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

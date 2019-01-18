@@ -1,0 +1,116 @@
+Subject: [c13.10219] Holdem Game Broadcast Message(*)
+
+! Table c13, Hand 169, Day 67
+
+! Charlie Tuna calls and is all in
+! Pot right ($31550), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 5s
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   AveCat                   |  136900 |    1350 |folded|    |         |
+ 2|   Charlie Tuna             |       0 |   13550 |all-in|    |         |
+ 3|   David Weiss              |  110325 |    1350 |folded|    |         |
+ 4|DV UberHank                 |   37775 |     100 |<AWOL>|    |         |
+ 5|>  Larry W                  |   24575 |   13550 |      |    |         |
+ 6|   TheTwizz                 |    7250 |    1350 |folded|    |         |
+ 7|   Spidurman                |  125800 |     100 |folded|    |         |
+ 8|   Deets                    |   63350 |     100 |folded|    |         |
+ 9|   bert_ofcl                |   34475 |     100 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/16/19 15:06:05! Dealing a new hand
+! 01/16/19 15:06:05! Everyone antes $100
+! 01/16/19 15:06:05! Larry W blinds $250
+! 01/16/19 15:06:05! TheTwizz blinds $500
+! 01/16/19 15:24:10! Spidurman folds
+! 01/16/19 15:24:10! Deets folds
+! 01/16/19 15:24:10! bert_ofcl folds
+! 01/16/19 15:31:24! AveCat calls 
+! 01/16/19 15:33:47! Charlie Tuna raises $750 to $1250 total 
+! 01/16/19 15:51:20! David Weiss calls 
+! 01/16/19 15:51:20! UberHank is on vacation and folds
+! 01/16/19 16:03:33! Larry W calls 
+! 01/16/19 16:31:45! TheTwizz calls 
+! 01/16/19 17:34:00! AveCat calls 
+
+! 01/16/19 17:34:00! Pot right ($7150), flopping/dealing/drawing cards
+! 01/16/19 17:34:00! 5 players
+! 01/16/19 17:34:00! Flopped cards: 8d 3h 10s
+! 01/16/19 20:46:34! Larry W checks
+! 01/17/19 00:32:43! TheTwizz checks
+! 01/17/19 09:40:04! AveCat checks
+! 01/17/19 09:40:04! Charlie Tuna bets $3000 
+! 01/17/19 09:40:04! David Weiss folds
+! 01/17/19 11:07:54! Larry W calls 
+! 01/17/19 11:09:08! TheTwizz folds
+! 01/17/19 11:16:07! AveCat folds
+
+! 01/17/19 11:16:07! Pot right ($13150), flopping/dealing/drawing cards
+! 01/17/19 11:16:07! 2 players
+! 01/17/19 11:16:07! Flopped card: 2h
+! 01/17/19 11:22:46! Larry W bets $9200 
+! 01/17/19 13:36:37! Charlie Tuna calls and is all in
+
+! 01/17/19 13:36:37! Pot right ($31550), flopping/dealing/drawing cards
+! 01/17/19 13:36:37! 2 players, 1 all in
+! 01/17/19 13:36:37! Flopped card: 5s
+! Hand over, current board is:  8d 3h 10s 2h 5s
+! Charlie Tuna             has: Qs Qc
+! Larry W                  has: 8s 10c
+! Larry W wins $31550 (net $18000) with Two Pair (10 10 8 8 5)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   AveCat                   |  136900 |         |      |    |         |
+ 3|   David Weiss              |  110325 |         |      |    |         |
+ 4|V  UberHank                 |   37775 |         |<AWOL>|    |         |
+ 5|D> Larry W                  |   56125 |         |      |    |         |
+ 6|   TheTwizz                 |    7250 |         |      |    |         |
+ 7|   Spidurman                |  125800 |         |      |    |         |
+ 8|   Deets                    |   63350 |         |      |    |         |
+ 9|   bert_ofcl                |   34475 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Charlie Tuna is eliminated!
+! 358 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c13.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

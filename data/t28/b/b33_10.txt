@@ -1,0 +1,123 @@
+Subject: [b33.10126] Holdem Game Broadcast Message(*)
+
+! Table b33, Hand 10, Day 8
+
+! GKinz54 bets $3500 
+! Bob R calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  MadChad                  |   42825 |       0 |folded|    |         |
+ 2|   Olof Siverbo             |   50325 |      75 |folded|    |         |
+ 3|   rktsci                   |   49250 |     150 |folded|    |         |
+ 4|   Couchtater               |   57100 |     450 |folded|    |         |
+ 5|>  GKinz54                  |   45625 |    5950 |      |    |         |
+ 6|   pokerpilot               |   49175 |       0 |folded|    |         |
+ 7|   Bob R                    |   43825 |    5950 |      |    |         |
+ 8|   Rayo Kniep               |   48850 |       0 |folded|    |         |
+ 9|   Desmontes                |   50450 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/19/18 10:14:46! Dealing a new hand
+! 11/19/18 10:14:46! No ante
+! 11/19/18 10:14:46! Olof Siverbo blinds $75
+! 11/19/18 10:14:46! rktsci blinds $150
+! 11/19/18 10:34:16! Couchtater raises $150 to $300 total 
+! 11/19/18 10:36:01! GKinz54 calls 
+! 11/19/18 11:25:19! pokerpilot folds
+! 11/19/18 12:22:41! Bob R raises $150 to $450 total 
+! 11/19/18 12:22:41! Rayo Kniep folds
+! 11/19/18 12:22:41! Desmontes folds
+! 11/19/18 12:22:41! MadChad folds
+! 11/19/18 13:00:02! Olof Siverbo folds
+! 11/19/18 15:46:52! rktsci folds
+! 11/19/18 15:52:49! Couchtater calls 
+! 11/19/18 16:04:51! GKinz54 calls 
+
+! 11/19/18 16:04:51! Pot right ($1575), flopping/dealing/drawing cards
+! 11/19/18 16:04:51! 3 players
+! 11/19/18 16:04:51! Flopped cards: 9d 6d 2c
+! 11/19/18 16:07:39! Couchtater checks
+! 11/19/18 17:14:55! GKinz54 bets $1000 
+! 11/19/18 21:03:09! Bob R raises $1000 to $2000 total 
+! 11/19/18 21:05:21! Couchtater folds
+! 11/19/18 21:06:55! GKinz54 calls 
+
+! 11/19/18 21:06:55! Pot right ($5575), flopping/dealing/drawing cards
+! 11/19/18 21:06:55! 2 players
+! 11/19/18 21:06:55! Flopped card: Jc
+! 11/19/18 21:07:58! GKinz54 checks
+! 11/19/18 21:09:11! Bob R checks
+
+! 11/19/18 21:09:11! Pot right ($5575), flopping/dealing/drawing cards
+! 11/19/18 21:09:11! 2 players
+! 11/19/18 21:09:11! Flopped card: Qs
+! 11/19/18 21:14:01! GKinz54 bets $3500 
+! 11/19/18 21:14:01! Bob R calls 
+! Hand over, current board is:  9d 6d 2c Jc Qs
+! GKinz54                  has: Kd Jd
+! Bob R                    has: Ah Ac
+! Bob R wins $12575 (net $6625) with One Pair (A A Q J 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   MadChad                  |   42825 |         |      |    |         |
+ 2|D  Olof Siverbo             |   50325 |         |      |    |         |
+ 3|   rktsci                   |   49250 |         |      |    |         |
+ 4|   Couchtater               |   57100 |         |      |    |         |
+ 5|>  GKinz54                  |   45625 |         |      |    |         |
+ 6|   pokerpilot               |   49175 |         |      |    |         |
+ 7|   Bob R                    |   56400 |         |      |    |         |
+ 8|   Rayo Kniep               |   48850 |         |      |    |         |
+ 9|   Desmontes                |   50450 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 572 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b33.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 4
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

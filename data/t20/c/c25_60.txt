@@ -1,0 +1,106 @@
+Message-Id: <201012301729.oBUHTiUQ022319@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [c25.10046] Holdem Game Broadcast Message(*)                          
+
+! Table c25, Hand 60, Day 60
+
+! mjoseff raises $16100 and is all in
+! Pot right ($80475), flopping/dealing/drawing cards
+! 3 players, 3 all in
+! Flopped card: Ah
+! Flopped card: 2d
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|V  Stanley Chow             |  31250 |     50 |<AWOL>|    |        |
+ 2|   Deborah Abel             |  33750 |     50 |folded|    |        |
+ 3|   jasong            |  75800 |     50 |folded|    |        |
+ 4|D  Ricardo75                |      0 |   6975 |all-in|  3 |  21425 |
+ 5|   Alan Gopin               |  37100 |    250 |folded|    |        |
+ 6|   Minimus                  |      0 |  28450 |all-in|  2 |  42950 |
+ 7|   jennyfar                 |  78050 |     50 |folded|    |        |
+ 9|   b monie                  |  12500 |     50 |folded|    |        |
+10|>  mjoseff                  |      0 |  44550 |all-in|  1 |  16100 |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 12/29/10 08:37:33! Dealing a new hand
+! 12/29/10 08:37:33! Everyone antes $50
+! 12/29/10 08:37:33! Alan Gopin blinds $200
+! 12/29/10 08:37:33! Minimus blinds $400
+! 12/29/10 09:36:13! jennyfar folds
+! 12/29/10 12:58:27! b monie folds
+! 12/29/10 13:52:53! mjoseff calls 
+! 12/29/10 13:52:53! Stanley Chow is on vacation and folds
+! 12/29/10 14:01:54! Deborah Abel folds
+! 12/29/10 14:01:54! jasong folds
+! 12/30/10 05:03:57! Ricardo75 raises $1200 
+! 12/30/10 05:03:57! Alan Gopin folds
+! 12/30/10 07:42:55! Minimus raises $1800 
+! 12/30/10 08:04:28! mjoseff calls 
+! 12/30/10 09:14:04! Ricardo75 raises $3525 and is all in
+! 12/30/10 09:15:44! Minimus calls 
+! 12/30/10 09:21:20! mjoseff calls 
+
+! 12/30/10 09:21:20! Pot right ($21425), flopping/dealing/drawing cards
+! 12/30/10 09:21:20! 3 players, 1 all in
+! 12/30/10 09:21:20! Flopped cards: 10d 5h 5d
+! 12/30/10 09:22:40! Minimus bets $21475 and is all in
+! 12/30/10 09:29:43! mjoseff raises $16100 and is all in
+
+! 12/30/10 09:29:43! Pot right ($80475), flopping/dealing/drawing cards
+! 12/30/10 09:29:43! 3 players, 3 all in
+! 12/30/10 09:29:43! Flopped card: Ah
+! 12/30/10 09:29:43! Flopped card: 2d
+! Hand over, current board is:  10d 5h 5d Ah 2d
+! Ricardo75                has: As 9h
+! Minimus                  has: Js Jc
+! mjoseff                  has: 9c 5c
+! Pot 1: uncalled $16100 returned to mjoseff
+! Pot 2: mjoseff wins $42950 with Three of a Kind (5 5 5 A 10)
+! Pot 3: mjoseff wins $21425 with Three of a Kind (5 5 5 A 10)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|V  Stanley Chow             |  31250 |        |<AWOL>|    |        |
+ 2|   Deborah Abel             |  33750 |        |      |    |        |
+ 3|   jasong            |  75800 |        |      |    |        |
+ 5|D  Alan Gopin               |  37100 |        |      |    |        |
+ 7|   jennyfar                 |  78050 |        |      |    |        |
+ 9|   b monie                  |  12500 |        |      |    |        |
+10|>  mjoseff                  |  80475 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! Ricardo75 is eliminated!
+! Minimus is eliminated!
+! 626 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c25.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Tables will now all finish their current hand then will be waiting
+for a full redraw for the next round.
+
+If you have any problems send mail to floorman20@wrgpt.org.
+
+Live Redraw Status as of 12/30/10 09:25:01 AM
+
+Total Empty Seats: 23
+Total Playing Seats: 628
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org or follow "wrgpt" on Twitter.
+

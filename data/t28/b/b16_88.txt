@@ -1,0 +1,112 @@
+Subject: [b16.11121] Holdem Game Broadcast Message(*)
+
+! Table b16, Hand 88, Day 54
+
+! Byfthalone checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Paul Ant                 |   72525 |      50 |folded|    |         |
+ 2|   John Senger              |   60850 |      50 |folded|    |         |
+ 4|   Aardvark                 |   15375 |      50 |folded|    |         |
+ 5|>  Paul McMullin            |   15475 |    3250 |      |    |         |
+ 6|   Byfthalone               |   67750 |    3250 |      |    |         |
+ 7|D  Steve B                  |   27775 |      50 |folded|    |         |
+ 8|   Piojos                   |  140225 |     250 |folded|    |         |
+ 9|   acadonnelly              |   41825 |    1250 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/03/19 17:49:37! Dealing a new hand
+! 01/03/19 17:49:37! Everyone antes $50
+! 01/03/19 17:49:37! Piojos blinds $200
+! 01/03/19 17:49:37! acadonnelly blinds $400
+! 01/03/19 18:15:42! Paul Ant folds
+! 01/03/19 18:15:42! John Senger folds
+! 01/03/19 18:15:42! Aardvark folds
+! 01/03/19 18:17:02! Paul McMullin raises $800 to $1200 total 
+! 01/04/19 07:31:21! Byfthalone calls 
+! 01/04/19 07:31:21! Steve B folds
+! 01/04/19 07:31:21! Piojos folds
+! 01/04/19 07:33:19! acadonnelly calls 
+
+! 01/04/19 07:33:19! Pot right ($4200), flopping/dealing/drawing cards
+! 01/04/19 07:33:19! 3 players
+! 01/04/19 07:33:19! Flopped cards: 7c 6d 6h
+! 01/04/19 07:34:00! acadonnelly checks
+! 01/04/19 07:35:36! Paul McMullin bets $2000 
+! 01/04/19 07:36:55! Byfthalone calls 
+! 01/04/19 07:37:51! acadonnelly folds
+
+! 01/04/19 07:37:51! Pot right ($8200), flopping/dealing/drawing cards
+! 01/04/19 07:37:51! 2 players
+! 01/04/19 07:37:51! Flopped card: 9s
+! 01/04/19 07:37:53! Paul McMullin checks
+! 01/04/19 07:40:35! Byfthalone checks
+
+! 01/04/19 07:40:35! Pot right ($8200), flopping/dealing/drawing cards
+! 01/04/19 07:40:35! 2 players
+! 01/04/19 07:40:35! Flopped card: 5s
+! 01/04/19 07:41:28! Paul McMullin checks
+! 01/04/19 07:48:33! Byfthalone checks
+! Hand over, current board is:  7c 6d 6h 9s 5s
+! Paul McMullin            has: 2s Ah
+! Byfthalone               has: 5h 3h
+! Byfthalone wins $8200 (net $4950) with Two Pair (6 6 5 5 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Paul Ant                 |   72525 |         |      |    |         |
+ 2|   John Senger              |   60850 |         |      |    |         |
+ 4|   Aardvark                 |   15375 |         |      |    |         |
+ 5|>  Paul McMullin            |   15475 |         |      |    |         |
+ 6|   Byfthalone               |   75950 |         |      |    |         |
+ 7|   Steve B                  |   27775 |         |      |    |         |
+ 8|D  Piojos                   |  140225 |         |      |    |         |
+ 9|   acadonnelly              |   41825 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 401 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b16.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+We are now over 45 days into round "b". 
+As soon as any table gets to five or fewer 
+players all tables will finish the current 
+hand and a full redraw to round "c" will be done.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 31
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

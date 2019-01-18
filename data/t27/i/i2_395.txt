@@ -1,0 +1,109 @@
+
+! Table i2, Hand 395, Day 179
+
+! Lets Go Red Sox folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Quiet Lion               |       0 | 1065700 |all-in|    |         |
+ 2|   Stephen Mack             | 2945250 |    3000 |folded|    |         |
+ 3|   Doctor Worm              | 2013775 |    3000 |folded|    |         |
+ 4|   Bwana                    | 1915375 |    3000 |folded|    |         |
+ 5|D> Lets Go Red Sox          | 2674275 |  611000 |folded|    |         |
+ 6|   jasong            | 4529350 |   28000 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 04/19/18 08:16:47! Dealing a new hand
+! 04/19/18 08:16:47! Everyone antes $3000
+! 04/19/18 08:16:47! jasong blinds $25000
+! 04/19/18 08:16:47! Quiet Lion blinds $50000
+! 04/19/18 08:18:48! Stephen Mack folds
+! 04/19/18 08:35:01! Doctor Worm folds
+! 04/19/18 10:26:59! Bwana folds
+! 04/19/18 11:03:56! Lets Go Red Sox raises $83000 to $133000 total 
+! 04/19/18 11:03:56! jasong folds
+! 04/19/18 11:04:28! Quiet Lion calls 
+
+! 04/19/18 11:04:28! Pot right ($309000), flopping/dealing/drawing cards
+! 04/19/18 11:04:28! 2 players
+! 04/19/18 11:04:28! Flopped cards: 7c 7d 9h
+! 04/19/18 11:05:22! Quiet Lion checks
+! 04/19/18 11:05:54! Lets Go Red Sox bets $150000 
+! 04/19/18 11:09:53! Quiet Lion calls 
+
+! 04/19/18 11:09:53! Pot right ($609000), flopping/dealing/drawing cards
+! 04/19/18 11:09:53! 2 players
+! 04/19/18 11:09:53! Flopped card: 9d
+! 04/19/18 11:11:12! Quiet Lion checks
+! 04/19/18 11:11:57! Lets Go Red Sox bets $325000 
+! 04/19/18 11:15:07! Quiet Lion raises $454700 to $779700 total and is all in
+! 04/19/18 11:17:03! Lets Go Red Sox folds
+! Hand over, no showdown
+! Current board is:  7c 7d 9h 9d ?
+! Quiet Lion wins $1713700 (net $648000)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Quiet Lion               | 1713700 |         |      |    |         |
+ 2|   Stephen Mack             | 2945250 |         |      |    |         |
+ 3|   Doctor Worm              | 2013775 |         |      |    |         |
+ 4|   Bwana                    | 1915375 |         |      |    |         |
+ 5|>  Lets Go Red Sox          | 2674275 |         |      |    |         |
+ 6|D  jasong            | 4529350 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 12 players left in the tournament, 2 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/i/i2.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+However, if there were prizes they would pay the top 63 entrants.
+The standings are now showing theoretical prizes if WRGPT were a
+10k event.
+
+======
+
+Live Redraw Status as of 04/19/18 10:55:02 AM
+
+Total Empty Seats: 0
+Total Playing Seats: 12
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman27@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

@@ -1,0 +1,97 @@
+Message-Id: <200912140409.nBE49JGM019492@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [b50.10160] Holdem Game Broadcast Message(*)                          
+
+! Table b50, Hand 15, Day 28
+
+! jasong folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Mar Anderson             |  32950 |      0 |folded|    |        |
+ 2|   Argus                    |  27100 |      0 |folded|    |        |
+ 3|   Jack Walsh               |  29750 |      0 |folded|    |        |
+ 4|   GP                       |  27900 |      0 |folded|    |        |
+ 5|D  Annika                   |  27750 |      0 |folded|    |        |
+ 6|>  Kold Call                |  28750 |   1700 |      |    |        |
+ 7|   Super Rock               |  29500 |    200 |folded|    |        |
+ 8|   Brett Holz               |  29750 |      0 |folded|    |        |
+ 9|   Woody Myers              |  30450 |      0 |folded|    |        |
+10|   jasong            |  33500 |    700 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 12/11/09 11:08:44! Dealing a new hand
+! 12/11/09 11:08:44! No ante
+! 12/11/09 11:08:44! Kold Call blinds $100
+! 12/11/09 11:08:44! Super Rock blinds $200
+! 12/11/09 14:50:46! Brett Holz folds
+! 12/11/09 14:50:46! Woody Myers folds
+! 12/11/09 14:50:46! jasong calls 
+! 12/11/09 14:50:46! Mar Anderson folds
+! 12/11/09 14:50:46! Argus folds
+! 12/11/09 14:50:46! Jack Walsh folds
+! 12/11/09 14:50:46! GP folds
+! 12/11/09 14:50:46! Annika folds
+! 12/12/09 23:12:45! Kold Call raises $500 
+! 12/13/09 11:01:17! Super Rock folds
+! 12/13/09 11:01:17! jasong calls 
+
+! 12/13/09 11:01:17! Pot right ($1600), flopping/dealing/drawing cards
+! 12/13/09 11:01:17! 2 players
+! 12/13/09 11:01:17! Flopped cards: 10h 4s 10d
+! 12/13/09 19:31:19! Kold Call bets $1000 
+! 12/13/09 20:09:18! jasong folds
+! Hand over, no showdown
+! Current board is:  10h 4s 10d ? ?
+! Kold Call wins $2600 (net $900)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Mar Anderson             |  32950 |        |      |    |        |
+ 2|   Argus                    |  27100 |        |      |    |        |
+ 3|   Jack Walsh               |  29750 |        |      |    |        |
+ 4|   GP                       |  27900 |        |      |    |        |
+ 5|   Annika                   |  27750 |        |      |    |        |
+ 6|D> Kold Call                |  31350 |        |      |    |        |
+ 7|   Super Rock               |  29500 |        |      |    |        |
+ 8|   Brett Holz               |  29750 |        |      |    |        |
+ 9|   Woody Myers              |  30450 |        |      |    |        |
+10|   jasong            |  33500 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 944 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b50.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Players who have not shown up to play will
+be removed from the tournament starting day 31
+which is December 16, 2009.  This is a manual
+process so it may take a few days to get all
+of the NoSho players removed.
+
+Live Redraw Status as of 12/13/09 07:55:01 PM
+
+Total Empty Seats: 25
+Total Playing Seats: 945
+Live redraw in progress:
+Seats Needed: 20
+Seats Waiting: 1
+Moving Players Waiting: 0
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org or follow "wrgpt" on Twitter.
+

@@ -1,0 +1,125 @@
+Subject: [b23.10325] Holdem Game Broadcast Message(*)
+
+! Table b23, Hand 31, Day 29
+
+! ThunderRd calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  Ken Kubey                |   40800 |    7600 |      |    |         |
+ 2|   Chkchk                   |   64625 |       0 |folded|    |         |
+ 3|   Eight of Spades          |   45550 |       0 |folded|    |         |
+ 4|   TomasL                   |   74225 |       0 |folded|    |         |
+ 5|D  What Beats What Again    |   36000 |       0 |folded|    |         |
+ 6|   ThunderRd                |   79800 |    7600 |      |    |         |
+ 7|   Roger Strom              |   54225 |    1600 |folded|    |         |
+ 8|   David Weiss              |   95725 |       0 |folded|    |         |
+ 9|   Bert Bell                |   49850 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/07/18 11:05:18! Dealing a new hand
+! 12/07/18 11:05:18! No ante
+! 12/07/18 11:05:18! ThunderRd blinds $150
+! 12/07/18 11:05:18! Roger Strom blinds $300
+! 12/07/18 11:06:16! David Weiss folds
+! 12/07/18 13:42:25! Bert Bell folds
+! 12/07/18 13:42:25! Ken Kubey raises $500 to $800 total 
+! 12/07/18 14:23:30! Chkchk folds
+! 12/07/18 14:23:30! Eight of Spades folds
+! 12/07/18 14:23:30! TomasL folds
+! 12/07/18 14:23:30! What Beats What Again folds
+! 12/08/18 01:44:41! ThunderRd calls 
+! 12/08/18 04:32:08! Roger Strom raises $800 to $1600 total 
+! 12/08/18 09:21:54! Ken Kubey calls 
+! 12/08/18 09:21:54! ThunderRd calls 
+
+! 12/08/18 09:21:54! Pot right ($4800), flopping/dealing/drawing cards
+! 12/08/18 09:21:54! 3 players
+! 12/08/18 09:21:54! Flopped cards: 2h 10h 6d
+! 12/08/18 17:14:49! ThunderRd checks
+! 12/09/18 00:33:56! Roger Strom checks
+! 12/09/18 04:02:12! Ken Kubey checks
+
+! 12/09/18 04:02:12! Pot right ($4800), flopping/dealing/drawing cards
+! 12/09/18 04:02:12! 3 players
+! 12/09/18 04:02:12! Flopped card: 9c
+! 12/09/18 04:02:12! ThunderRd checks
+! 12/09/18 06:33:27! Roger Strom checks
+! 12/09/18 10:40:47! Ken Kubey bets $3000 
+! 12/09/18 18:33:04! ThunderRd calls 
+! 12/10/18 02:49:35! Roger Strom folds
+
+! 12/10/18 02:49:35! Pot right ($10800), flopping/dealing/drawing cards
+! 12/10/18 02:49:35! 2 players
+! 12/10/18 02:49:35! Flopped card: 7s
+! 12/10/18 05:48:19! ThunderRd checks
+! 12/10/18 09:39:17! Ken Kubey bets $3000 
+! 12/10/18 16:11:25! ThunderRd calls 
+! Hand over, current board is:  2h 10h 6d 9c 7s
+! Ken Kubey                has: 8s 8d
+! ThunderRd                has: Qs 9d
+! Ken Kubey wins $16800 (net $9200) with Straight (10 9 8 7 6)
+! Antes and blinds go up
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  Ken Kubey                |   57600 |         |      |    |         |
+ 2|   Chkchk                   |   64625 |         |      |    |         |
+ 3|   Eight of Spades          |   45550 |         |      |    |         |
+ 4|   TomasL                   |   74225 |         |      |    |         |
+ 5|   What Beats What Again    |   36000 |         |      |    |         |
+ 6|D  ThunderRd                |   79800 |         |      |    |         |
+ 7|   Roger Strom              |   54225 |         |      |    |         |
+ 8|   David Weiss              |   95725 |         |      |    |         |
+ 9|   Bert Bell                |   49850 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 504 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b23.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 12
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,108 @@
+
+! Table b70, Hand 16, Day 18
+
+! Ben Irving folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   patricko                 |  30850 |      0 |folded|    |        |
+ 2|   LenFuego                 |  24250 |   1000 |folded|    |        |
+ 3|   Wrongfellow              |  35950 |      0 |folded|    |        |
+ 4|   Thomas Gabrysch          |  29500 |      0 |folded|    |        |
+ 6|D  Derrick Martins          |  37150 |      0 |folded|    |        |
+ 7|   Handsome Al              |  30100 |    100 |folded|    |        |
+ 8|   Ben Irving               |  20700 |   3500 |folded|    |        |
+ 9|   Sarah D                  |  58100 |   1000 |folded|    |        |
+10|>  jasong            |  15200 |  12600 |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 11/11/15 12:04:13! Dealing a new hand
+! 11/11/15 12:04:13! No ante
+! 11/11/15 12:04:13! Handsome Al blinds $100
+! 11/11/15 12:04:13! Ben Irving blinds $200
+! 11/11/15 12:05:43! Sarah D calls 
+! 11/11/15 12:48:15! jasong raises $800 
+! 11/11/15 13:15:36! patricko folds
+! 11/11/15 17:49:46! LenFuego calls 
+! 11/11/15 23:42:32! Wrongfellow folds
+! 11/11/15 23:42:32! Thomas Gabrysch folds
+! 11/12/15 02:49:16! Derrick Martins folds
+! 11/12/15 02:49:16! Handsome Al folds
+! 11/12/15 02:49:16! Ben Irving calls 
+! 11/12/15 08:10:48! Sarah D calls 
+
+! 11/12/15 08:10:48! Pot right ($4100), flopping/dealing/drawing cards
+! 11/12/15 08:10:48! 4 players
+! 11/12/15 08:10:48! Flopped cards: 5c 7h Kc
+! 11/12/15 08:25:23! Ben Irving bets $2500 
+! 11/12/15 09:05:28! Sarah D folds
+! 11/12/15 09:10:48! jasong raises $9100 
+! 11/12/15 09:22:00! LenFuego folds
+! 11/12/15 09:41:36! Ben Irving folds
+! Hand over, no showdown
+! Current board is:  5c 7h Kc ? ?
+! jasong wins $18200 (net $5600)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   patricko                 |  30850 |        |      |    |        |
+ 2|   LenFuego                 |  24250 |        |      |    |        |
+ 3|   Wrongfellow              |  35950 |        |      |    |        |
+ 4|   Thomas Gabrysch          |  29500 |        |      |    |        |
+ 6|   Derrick Martins          |  37150 |        |      |    |        |
+ 7|D  Handsome Al              |  30100 |        |      |    |        |
+ 8|   Ben Irving               |  20700 |        |      |    |        |
+ 9|   Sarah D                  |  58100 |        |      |    |        |
+10|>  jasong            |  33400 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 720 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b70.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Any players who have not started in WRGPT after day 30 will
+have their stacks removed from the tourney.
+
+======
+
+Live Redraw Status as of 11/12/15 09:25:02 AM
+
+Total Empty Seats: 11
+Total Playing Seats: 719
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman25@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

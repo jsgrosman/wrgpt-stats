@@ -1,0 +1,115 @@
+Subject: [c1.10174] Holdem Game Broadcast Message(*)
+
+! Table c1, Hand 164, Day 65
+
+! Crunch calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Barton                   |  129450 |     600 |folded|    |         |
+ 2|   db222                    |   96150 |     100 |folded|    |         |
+ 3|   Mother Speaks            |   42900 |     100 |folded|    |         |
+ 4|   siona                    |   43075 |     100 |folded|    |         |
+ 5|   Crunch                   |   27100 |   21100 |      |    |         |
+ 6|   the cake is a pie        |  166675 |     600 |folded|    |         |
+ 7|>  Bob R                    |   43275 |   21100 |      |    |         |
+ 8|D  The Rabid Moose          |   98200 |     600 |folded|    |         |
+ 9|   shinsook                 |  393750 |     600 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/14/19 16:37:18! Dealing a new hand
+! 01/14/19 16:37:18! Everyone antes $100
+! 01/14/19 16:37:18! shinsook blinds $250
+! 01/14/19 16:37:18! Barton blinds $500
+! 01/14/19 16:58:57! db222 folds
+! 01/14/19 16:58:57! Mother Speaks folds
+! 01/14/19 19:24:24! siona folds
+! 01/14/19 20:50:22! Crunch calls 
+! 01/14/19 22:38:55! the cake is a pie calls 
+! 01/14/19 22:38:55! Bob R calls 
+! 01/15/19 03:21:43! The Rabid Moose calls 
+! 01/15/19 08:49:47! shinsook calls 
+! 01/15/19 08:52:15! Barton checks
+
+! 01/15/19 08:52:15! Pot right ($3900), flopping/dealing/drawing cards
+! 01/15/19 08:52:15! 6 players
+! 01/15/19 08:52:15! Flopped cards: Qh Kc 4c
+! 01/15/19 09:12:36! shinsook checks
+! 01/15/19 09:12:36! Barton checks
+! 01/15/19 09:24:11! Crunch bets $3000 
+! 01/15/19 10:00:06! the cake is a pie folds
+! 01/15/19 10:03:37! Bob R calls 
+! 01/15/19 10:03:37! The Rabid Moose folds
+! 01/15/19 10:03:37! shinsook folds
+! 01/15/19 10:03:37! Barton folds
+
+! 01/15/19 10:03:37! Pot right ($9900), flopping/dealing/drawing cards
+! 01/15/19 10:03:37! 2 players
+! 01/15/19 10:03:37! Flopped card: 5h
+! 01/15/19 10:13:50! Crunch bets $7500 
+! 01/15/19 10:17:13! Bob R calls 
+
+! 01/15/19 10:17:13! Pot right ($24900), flopping/dealing/drawing cards
+! 01/15/19 10:17:13! 2 players
+! 01/15/19 10:17:13! Flopped card: Ah
+! 01/15/19 10:21:59! Crunch checks
+! 01/15/19 10:41:42! Bob R bets $10000 
+! 01/15/19 10:42:59! Crunch calls 
+! Hand over, current board is:  Qh Kc 4c 5h Ah
+! Crunch                   has: Ad Qc
+! Bob R                    has: Kh 3h
+! Bob R wins $44900 (net $23800) with Heart Flush (A K Q 5 3)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Barton                   |  129450 |         |      |    |         |
+ 2|   db222                    |   96150 |         |      |    |         |
+ 3|   Mother Speaks            |   42900 |         |      |    |         |
+ 4|   siona                    |   43075 |         |      |    |         |
+ 5|   Crunch                   |   27100 |         |      |    |         |
+ 6|   the cake is a pie        |  166675 |         |      |    |         |
+ 7|>  Bob R                    |   88175 |         |      |    |         |
+ 8|   The Rabid Moose          |   98200 |         |      |    |         |
+ 9|D  shinsook                 |  393750 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 369 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c1.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 4
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

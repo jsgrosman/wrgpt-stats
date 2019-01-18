@@ -1,0 +1,93 @@
+Message-Id: <200912040627.nB46RfJN013826@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [b50.10102] Holdem Game Broadcast Message(*)                          
+
+! Table b50, Hand 8, Day 18
+
+! Brett Holz bets $5700 
+! Argus folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Mar Anderson             |  34550 |      0 |folded|    |        |
+ 2|   Argus                    |  27400 |   2700 |folded|    |        |
+ 3|   Jack Walsh               |  29850 |      0 |folded|    |        |
+ 4|   GP                       |  28200 |      0 |folded|    |        |
+ 5|   Annika                   |  28050 |      0 |folded|    |        |
+ 6|   Kold Call                |  29150 |      0 |folded|    |        |
+ 7|   Super Rock               |  29700 |      0 |folded|    |        |
+ 8|D> Brett Holz               |  21750 |   8400 |      |    |        |
+ 9|   Woody Myers              |  30150 |    100 |folded|    |        |
+10|   jasong            |  29800 |    200 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 12/02/09 18:26:41! Dealing a new hand
+! 12/02/09 18:26:41! No ante
+! 12/02/09 18:26:41! Woody Myers blinds $100
+! 12/02/09 18:26:41! jasong blinds $200
+! 12/02/09 20:56:36! Mar Anderson folds
+! 12/03/09 03:22:37! Argus raises $700 
+! 12/03/09 03:22:37! Jack Walsh folds
+! 12/03/09 03:22:37! GP folds
+! 12/03/09 03:22:37! Annika folds
+! 12/03/09 10:50:43! Kold Call folds
+! 12/03/09 10:50:43! Super Rock folds
+! 12/03/09 13:52:57! Brett Holz raises $1800 
+! 12/03/09 13:52:57! Woody Myers folds
+! 12/03/09 16:10:14! jasong folds
+! 12/03/09 16:10:14! Argus calls 
+
+! 12/03/09 16:10:14! Pot right ($5700), flopping/dealing/drawing cards
+! 12/03/09 16:10:14! 2 players
+! 12/03/09 16:10:14! Flopped cards: Ah Jd Qh
+! 12/03/09 21:19:01! Argus checks
+! 12/03/09 22:27:40! Brett Holz bets $5700 
+! 12/03/09 22:27:40! Argus folds
+! Hand over, no showdown
+! Current board is:  Ah Jd Qh ? ?
+! Brett Holz wins $11400 (net $3000)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Mar Anderson             |  34550 |        |      |    |        |
+ 2|   Argus                    |  27400 |        |      |    |        |
+ 3|   Jack Walsh               |  29850 |        |      |    |        |
+ 4|   GP                       |  28200 |        |      |    |        |
+ 5|   Annika                   |  28050 |        |      |    |        |
+ 6|   Kold Call                |  29150 |        |      |    |        |
+ 7|   Super Rock               |  29700 |        |      |    |        |
+ 8|>  Brett Holz               |  33150 |        |      |    |        |
+ 9|D  Woody Myers              |  30150 |        |      |    |        |
+10|   jasong            |  29800 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! Argus timed out during this hand
+! 988 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b50.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+
+Live Redraw Status as of 12/03/09 10:25:01 PM
+
+Total Empty Seats: 22
+Total Playing Seats: 988
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org or follow "wrgpt" on Twitter.
+

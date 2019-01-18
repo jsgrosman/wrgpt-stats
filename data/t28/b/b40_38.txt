@@ -1,0 +1,123 @@
+Subject: [b40.10518] Holdem Game Broadcast Message(*)
+
+! Table b40, Hand 38, Day 29
+
+! jimboslice calls 
+! Pot right ($65150), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 9c
+! Flopped card: 2c
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Rick Brown               |   43150 |       0 |folded|    |         |
+ 2|D  Motown                   |   45500 |       0 |folded|    |         |
+ 3|   calliope                 |   44775 |     150 |folded|    |         |
+ 4|   StingRay                 |  108050 |     300 |folded|    |         |
+ 5|   Per Landberger           |       0 |   22050 |all-in|    |         |
+ 6|   Derrick Martins          |   28950 |   10300 |folded|    |         |
+ 7|   Shari silk               |   98000 |       0 |folded|    |         |
+ 8|   rAmAk                    |   56750 |   10300 |folded|    |         |
+ 9|>  jimboslice               |   76400 |   22050 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/09/18 20:04:57! Dealing a new hand
+! 12/09/18 20:04:57! No ante
+! 12/09/18 20:04:57! calliope blinds $150
+! 12/09/18 20:04:57! StingRay blinds $300
+! 12/09/18 22:35:02! Per Landberger calls 
+! 12/10/18 03:21:14! Derrick Martins calls 
+! 12/10/18 03:21:14! Shari silk folds
+! 12/10/18 03:24:22! rAmAk raises $2200 to $2500 total 
+! 12/10/18 03:50:13! jimboslice raises $2500 to $5000 total 
+! 12/10/18 07:25:50! Rick Brown folds
+! 12/10/18 07:25:50! Motown folds
+! 12/10/18 07:25:50! calliope folds
+! 12/10/18 07:25:50! StingRay folds
+! 12/10/18 08:50:37! Per Landberger calls 
+! 12/10/18 08:55:52! Derrick Martins raises $5300 to $10300 total 
+! 12/10/18 09:04:35! rAmAk calls 
+! 12/10/18 09:10:21! jimboslice calls 
+! 12/10/18 09:10:21! Per Landberger calls 
+
+! 12/10/18 09:10:21! Pot right ($41650), flopping/dealing/drawing cards
+! 12/10/18 09:10:21! 4 players
+! 12/10/18 09:10:21! Flopped cards: 8s 8d 9h
+! 12/10/18 13:14:49! Per Landberger bets $11750 and is all in
+! 12/10/18 13:17:15! Derrick Martins folds
+! 12/10/18 17:18:02! rAmAk folds
+! 12/10/18 17:22:04! jimboslice calls 
+
+! 12/10/18 17:22:04! Pot right ($65150), flopping/dealing/drawing cards
+! 12/10/18 17:22:04! 2 players, 1 all in
+! 12/10/18 17:22:04! Flopped card: 9c
+! 12/10/18 17:22:04! Flopped card: 2c
+! Hand over, current board is:  8s 8d 9h 9c 2c
+! Per Landberger           has: As 10d
+! jimboslice               has: Qh Qc
+! jimboslice wins $65150 (net $43100) with Two Pair (Q Q 9 9 8)
+! Antes and blinds go up
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Rick Brown               |   43150 |         |      |    |         |
+ 2|   Motown                   |   45500 |         |      |    |         |
+ 3|D  calliope                 |   44775 |         |      |    |         |
+ 4|   StingRay                 |  108050 |         |      |    |         |
+ 6|   Derrick Martins          |   28950 |         |      |    |         |
+ 7|   Shari silk               |   98000 |         |      |    |         |
+ 8|   rAmAk                    |   56750 |         |      |    |         |
+ 9|>  jimboslice               |  141550 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Per Landberger is eliminated!
+! rAmAk timed out during this hand
+! 503 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b40.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 12
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

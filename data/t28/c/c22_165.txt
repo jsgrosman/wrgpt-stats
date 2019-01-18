@@ -1,0 +1,119 @@
+Subject: [c22.10262] Holdem Game Broadcast Message(*)
+
+! Table c22, Hand 165, Day 65
+
+! bigjimmf1 calls - side pot
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  siooma                   |       0 |  139650 |all-in|  1 |   24250 |
+ 2|   BBLWOG                   |  129175 |     600 |folded|    |         |
+ 3|   Eric Brassell            |  122000 |     600 |folded|    |         |
+ 4|   Der Olf                  |   45000 |     100 |folded|    |         |
+ 5|   Quick                    |   81900 |     100 |folded|    |         |
+ 6|   indiansquib              |   53850 |     100 |folded|    |         |
+ 7|   Sir Barlow               |  118350 |     100 |folded|    |         |
+ 8|   BrownTrout               |   87975 |    1800 |folded|    |         |
+ 9|>  bigjimmf1                |       0 |  115400 |all-in|  2 |  234200 |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/15/19 11:24:46! Dealing a new hand
+! 01/15/19 11:24:46! Everyone antes $100
+! 01/15/19 11:24:46! BBLWOG blinds $250
+! 01/15/19 11:24:46! Eric Brassell blinds $500
+! 01/15/19 11:30:38! Der Olf folds
+! 01/15/19 11:40:00! Quick folds
+! 01/15/19 11:40:00! indiansquib folds
+! 01/15/19 11:44:35! Sir Barlow folds
+! 01/15/19 11:52:24! BrownTrout calls 
+! 01/15/19 12:20:30! bigjimmf1 calls 
+! 01/15/19 13:12:36! siooma calls 
+! 01/15/19 13:12:36! BBLWOG calls 
+! 01/15/19 13:12:36! Eric Brassell checks
+
+! 01/15/19 13:12:36! Pot right ($3400), flopping/dealing/drawing cards
+! 01/15/19 13:12:36! 5 players
+! 01/15/19 13:12:36! Flopped cards: 7s Qs 10h
+! 01/15/19 13:46:07! BBLWOG checks
+! 01/15/19 13:46:07! Eric Brassell checks
+! 01/15/19 13:54:36! BrownTrout bets $1200 
+! 01/15/19 14:28:31! bigjimmf1 calls 
+! 01/15/19 14:30:30! siooma raises $2400 to $3600 total 
+! 01/15/19 14:30:30! BBLWOG folds
+! 01/15/19 14:30:30! Eric Brassell folds
+! 01/15/19 15:08:34! BrownTrout folds
+! 01/15/19 15:29:34! bigjimmf1 calls 
+
+! 01/15/19 15:29:34! Pot right ($11800), flopping/dealing/drawing cards
+! 01/15/19 15:29:34! 2 players
+! 01/15/19 15:29:34! Flopped card: Jh
+! 01/15/19 15:39:26! bigjimmf1 checks
+! 01/15/19 17:14:32! siooma bets $6000 
+! 01/15/19 17:52:35! bigjimmf1 raises $14000 to $20000 total 
+! 01/15/19 17:57:12! siooma calls 
+
+! 01/15/19 17:57:12! Pot right ($51800), flopping/dealing/drawing cards
+! 01/15/19 17:57:12! 2 players
+! 01/15/19 17:57:12! Flopped card: 4d
+! 01/15/19 18:07:16! bigjimmf1 bets $40000 
+! 01/15/19 18:10:03! siooma raises $75450 to $115450 total and is all in
+! 01/15/19 18:13:11! bigjimmf1 calls - side pot
+! Hand over, current board is:  7s Qs 10h Jh 4d
+! siooma                   has: 9h 8d
+! bigjimmf1                has: 9d Kc
+! Pot 1: uncalled $24250 returned to siooma
+! Pot 2: bigjimmf1 wins $234200 with Straight (K Q J 10 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   siooma                   |   24250 |         |      |    |         |
+ 2|D  BBLWOG                   |  129175 |         |      |    |         |
+ 3|   Eric Brassell            |  122000 |         |      |    |         |
+ 4|   Der Olf                  |   45000 |         |      |    |         |
+ 5|   Quick                    |   81900 |         |      |    |         |
+ 6|   indiansquib              |   53850 |         |      |    |         |
+ 7|   Sir Barlow               |  118350 |         |      |    |         |
+ 8|   BrownTrout               |   87975 |         |      |    |         |
+ 9|>  bigjimmf1                |  234200 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 369 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c22.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 4
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

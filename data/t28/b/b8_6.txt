@@ -1,0 +1,120 @@
+Subject: [b8.10067] Holdem Game Broadcast Message(*)
+
+! Table b8, Hand 6, Day 4
+
+! Oldsharkbait calls - side pot
+! Pot right ($100450), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped card: Qh
+! Flopped card: Js
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Algernon                 |       0 |   49850 |all-in|  1 |      75 |
+ 2|   fxdp                     |   50150 |     600 |folded|    |         |
+ 3|   Indi                     |   50975 |       0 |folded|    |         |
+ 4|   Charles Moore            |   48800 |       0 |folded|    |         |
+ 5|   Julie Greenberg          |   49775 |       0 |folded|    |         |
+ 6|D> Oldsharkbait             |       0 |   49775 |all-in|  2 |  100375 |
+ 7|   AlbinoSmurf              |   50300 |      75 |folded|    |         |
+ 8|   dubldown                 |   49550 |     150 |folded|    |         |
+ 9|   Cody Jones               |   50000 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/15/18 05:43:11! Dealing a new hand
+! 11/15/18 05:43:11! No ante
+! 11/15/18 05:43:11! AlbinoSmurf blinds $75
+! 11/15/18 05:43:11! dubldown blinds $150
+! 11/15/18 06:08:05! Cody Jones folds
+! 11/15/18 06:45:46! Algernon raises $150 to $300 total 
+! 11/15/18 06:53:29! fxdp calls 
+! 11/15/18 06:53:29! Indi folds
+! 11/15/18 07:22:34! Charles Moore folds
+! 11/15/18 07:22:34! Julie Greenberg folds
+! 11/15/18 08:14:43! Oldsharkbait raises $300 to $600 total 
+! 11/15/18 08:14:43! AlbinoSmurf folds
+! 11/15/18 08:14:43! dubldown folds
+! 11/15/18 08:54:58! Algernon calls 
+! 11/15/18 08:54:58! fxdp calls 
+
+! 11/15/18 08:54:58! Pot right ($2025), flopping/dealing/drawing cards
+! 11/15/18 08:54:58! 3 players
+! 11/15/18 08:54:58! Flopped cards: 3c 8h 3h
+! 11/15/18 08:56:07! Algernon bets $2025 
+! 11/15/18 09:07:19! fxdp folds
+! 11/15/18 09:12:00! Oldsharkbait raises $2500 to $4525 total 
+! 11/15/18 09:23:55! Algernon raises $44725 to $49250 total and is all in
+! 11/15/18 09:36:13! Oldsharkbait calls - side pot
+
+! 11/15/18 09:36:13! Pot right ($100450), flopping/dealing/drawing cards
+! 11/15/18 09:36:13! 2 players, 2 all in
+! 11/15/18 09:36:13! Flopped card: Qh
+! 11/15/18 09:36:13! Flopped card: Js
+! Hand over, current board is:  3c 8h 3h Qh Js
+! Algernon                 has: Ks 10s
+! Oldsharkbait             has: 8d 8c
+! Pot 1: uncalled $75 returned to Algernon
+! Pot 2: Oldsharkbait wins $100375 with Full House (8 8 8 3 3)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Algernon                 |      75 |         |      |    |         |
+ 2|   fxdp                     |   50150 |         |      |    |         |
+ 3|   Indi                     |   50975 |         |      |    |         |
+ 4|   Charles Moore            |   48800 |         |      |    |         |
+ 5|   Julie Greenberg          |   49775 |         |      |    |         |
+ 6|>  Oldsharkbait             |  100375 |         |      |    |         |
+ 7|D  AlbinoSmurf              |   50300 |         |      |    |         |
+ 8|   dubldown                 |   49550 |         |      |    |         |
+ 9|   Cody Jones               |   50000 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 585 players left in the tournament, 2 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b8.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 10
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

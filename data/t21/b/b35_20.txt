@@ -1,0 +1,97 @@
+Message-Id: <201112121937.pBCJb07I015799@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [b35.10235] Holdem Game Broadcast Message(*)                          
+
+! Table b35, Hand 20, Day 29
+
+! jasong folds
+! Willy Eckerslyke folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|V  Will Farley              |  29400 |    100 | NoSho|    |        |
+ 2|>  Willy Eckerslyke         |  31350 |    800 |folded|    |        |
+ 3|   Chris Learmonth          |  27600 |      0 |folded|    |        |
+ 4|   Robert Odell             |  42400 |      0 |folded|    |        |
+ 5|V  Joe Wood                 |  29550 |      0 | NoSho|    |        |
+ 6|   StingRay                 |      0 |  30900 |all-in|    |        |
+ 7|   Craig N. Boyle           |  27350 |      0 |folded|    |        |
+ 8|   berj kacherian           |  30050 |      0 |folded|    |        |
+ 9|   jasong            |  17500 |    400 |folded|    |        |
+10|D  Kina Grannis             |  32600 |      0 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 12/11/11 17:45:04! Dealing a new hand
+! 12/11/11 17:45:04! No ante
+! 12/11/11 17:45:04! Will Farley blinds $100
+! 12/11/11 17:45:04! Willy Eckerslyke blinds $200
+! 12/12/11 00:01:43! Chris Learmonth folds
+! 12/12/11 00:01:43! Robert Odell folds
+! 12/12/11 00:01:43! Joe Wood is on vacation and folds
+! 12/12/11 00:01:43! StingRay calls 
+! 12/12/11 00:01:43! Craig N. Boyle folds
+! 12/12/11 07:37:53! berj kacherian folds
+! 12/12/11 08:38:51! jasong raises $200 
+! 12/12/11 08:38:51! Kina Grannis folds
+! 12/12/11 08:38:51! Will Farley is on vacation and folds
+! 12/12/11 08:41:04! Willy Eckerslyke calls 
+! 12/12/11 11:13:05! StingRay calls 
+
+! 12/12/11 11:13:05! Pot right ($1300), flopping/dealing/drawing cards
+! 12/12/11 11:13:05! 3 players
+! 12/12/11 11:13:05! Flopped cards: 7c 6h 5h
+! 12/12/11 11:26:39! Willy Eckerslyke bets $400 
+! 12/12/11 11:26:39! StingRay raises $30100 and is all in
+! 12/12/11 11:36:59! jasong folds
+! 12/12/11 11:36:59! Willy Eckerslyke folds
+! Hand over, no showdown
+! Current board is:  7c 6h 5h ? ?
+! StingRay wins $32200 (net $1300)
+! Antes and blinds go up
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|DV Will Farley              |  29400 |        | NoSho|    |        |
+ 2|>  Willy Eckerslyke         |  31350 |        |      |    |        |
+ 3|   Chris Learmonth          |  27600 |        |      |    |        |
+ 4|   Robert Odell             |  42400 |        |      |    |        |
+ 5|V  Joe Wood                 |  29550 |        | NoSho|    |        |
+ 6|   StingRay                 |  32200 |        |      |    |        |
+ 7|   Craig N. Boyle           |  27350 |        |      |    |        |
+ 8|   berj kacherian           |  30050 |        |      |    |        |
+ 9|   jasong            |  17500 |        |      |    |        |
+10|   Kina Grannis             |  32600 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 765 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b35.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Good luck.
+
+Having problems? Send email to floorman21@wrgpt.org.
+
+Live Redraw Status as of 12/12/11 11:25:01 AM
+
+Total Empty Seats: 26
+Total Playing Seats: 764
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+

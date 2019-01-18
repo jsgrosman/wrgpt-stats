@@ -1,0 +1,122 @@
+
+! Table b4, Hand 76, Day 53
+
+! Sir Barlow folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   jasong            |  36425 |    450 |folded|    |        |
+ 2|   rtroll                   |  38150 |     50 |folded|    |        |
+ 3|   Rambo                    |   6350 |   7150 |      |    |        |
+ 4|   Ryan Thomas              |  71275 |     50 |folded|    |        |
+ 6|   Deborah Abel             |   5700 |     50 |folded|    |        |
+ 7|   Nick Varacalli           |  21150 |     50 |folded|    |        |
+ 9|D  Sir Barlow               | 170100 |   2950 |folded|    |        |
+10|>  Dalai Pookah             |  60900 |   7150 |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 12/17/15 10:35:54! Dealing a new hand
+! 12/17/15 10:35:54! Everyone antes $50
+! 12/17/15 10:35:54! Dalai Pookah blinds $200
+! 12/17/15 10:35:54! jasong blinds $400
+! 12/17/15 10:47:57! rtroll folds
+! 12/17/15 11:43:19! Rambo calls 
+! 12/17/15 11:43:19! Ryan Thomas folds
+! 12/17/15 11:43:19! Deborah Abel folds
+! 12/17/15 11:43:19! Nick Varacalli folds
+! 12/17/15 11:44:03! Sir Barlow calls 
+! 12/17/15 11:56:27! Dalai Pookah calls 
+! 12/17/15 11:56:27! jasong checks
+
+! 12/17/15 11:56:27! Pot right ($2000), flopping/dealing/drawing cards
+! 12/17/15 11:56:27! 4 players
+! 12/17/15 11:56:27! Flopped cards: 10d 4s 5c
+! 12/17/15 11:59:59! Dalai Pookah checks
+! 12/17/15 11:59:59! jasong checks
+! 12/17/15 12:02:04! Rambo checks
+! 12/17/15 12:05:06! Sir Barlow bets $1000 
+! 12/17/15 12:32:40! Dalai Pookah calls 
+! 12/17/15 12:32:40! jasong folds
+! 12/17/15 13:24:15! Rambo calls 
+
+! 12/17/15 13:24:15! Pot right ($5000), flopping/dealing/drawing cards
+! 12/17/15 13:24:15! 3 players
+! 12/17/15 13:24:15! Flopped card: 2h
+! 12/17/15 13:32:04! Dalai Pookah checks
+! 12/17/15 14:05:51! Rambo checks
+! 12/17/15 14:39:52! Sir Barlow bets $1500 
+! 12/17/15 15:14:09! Dalai Pookah calls 
+! 12/17/15 16:03:08! Rambo calls 
+
+! 12/17/15 16:03:08! Pot right ($9500), flopping/dealing/drawing cards
+! 12/17/15 16:03:08! 3 players
+! 12/17/15 16:03:08! Flopped card: Ks
+! 12/17/15 16:05:08! Dalai Pookah bets $4200 
+! 12/17/15 16:06:55! Rambo calls 
+! 12/17/15 16:28:59! Sir Barlow folds
+! Hand over, current board is:  10d 4s 5c 2h Ks
+! Rambo                    has: As Kc
+! Dalai Pookah             has: 3s Ac
+! Dalai Pookah wins $17900 (net $10750) with Straight (5 4 3 2 A)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   jasong            |  36425 |        |      |    |        |
+ 2|   rtroll                   |  38150 |        |      |    |        |
+ 3|   Rambo                    |   6350 |        |      |    |        |
+ 4|   Ryan Thomas              |  71275 |        |      |    |        |
+ 6|   Deborah Abel             |   5700 |        |      |    |        |
+ 7|   Nick Varacalli           |  21150 |        |      |    |        |
+ 9|   Sir Barlow               | 170100 |        |      |    |        |
+10|D> Dalai Pookah             |  78800 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 489 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b4.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+There will be no more live redraws for round "b".
+
+======
+
+Live Redraw Status as of 12/17/15 04:25:02 PM
+
+Total Empty Seats: 51
+Total Playing Seats: 489
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman25@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

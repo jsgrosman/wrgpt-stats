@@ -1,0 +1,117 @@
+Subject: [b59.10421] Holdem Game Broadcast Message(*)
+
+! Table b59, Hand 30, Day 23
+
+! Bob folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|>  Daniel Levine            |   13850 |   29400 |      |    |         |
+ 3|D  MOVED Clark Olson        |       0 |    1300 |folded|    |         |
+ 4|   MOVED Uncle Check        |       0 |    1300 |folded|    |         |
+ 5|   Bob                      |   41325 |    9400 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/04/18 09:51:11! Dealing a new hand
+! 12/04/18 09:51:11! No ante
+! 12/04/18 09:51:11! Uncle Check blinds $150
+! 12/04/18 09:51:11! Bob blinds $300
+! 12/04/18 09:56:37! lawrence s folds
+! 12/04/18 10:53:47! null folds
+! 12/04/18 10:53:47! Bobby the Worm folds
+! 12/04/18 11:06:32! bluecandy folds
+! 12/04/18 14:30:11! Billco folds
+! 12/04/18 14:31:07! Daniel Levine calls 
+! 12/04/18 14:33:36! Clark Olson raises $1000 to $1300 total 
+! 12/04/18 14:55:02! Player leaving table: lawrence s
+! 12/04/18 14:55:07! Player leaving table: Billco
+! 12/04/18 14:55:08! Player leaving table: null
+! 12/04/18 14:55:10! Player leaving table: bluecandy
+! 12/04/18 14:55:13! Player leaving table: Bobby the Worm
+! 12/04/18 15:15:20! Uncle Check calls 
+! 12/04/18 15:18:44! Bob calls 
+! 12/04/18 15:19:41! Daniel Levine calls 
+
+! 12/04/18 15:19:41! Pot right ($5200), flopping/dealing/drawing cards
+! 12/04/18 15:19:41! 4 players
+! 12/04/18 15:19:41! Flopped cards: 7d 3h 3s
+! 12/04/18 15:35:37! Uncle Check checks
+! 12/04/18 15:36:25! Bob bets $2700 
+! 12/04/18 15:42:12! Daniel Levine calls 
+! 12/04/18 15:47:07! Clark Olson folds
+! 12/04/18 15:47:27! Uncle Check folds
+
+! 12/04/18 15:47:27! Pot right ($10600), flopping/dealing/drawing cards
+! 12/04/18 15:47:27! 2 players
+! 12/04/18 15:47:27! Flopped card: 8c
+! 12/04/18 15:55:03! Player leaving table: Uncle Check
+! 12/04/18 15:55:06! Player leaving table: Clark Olson
+! 12/04/18 16:41:17! Bob bets $2700 
+! 12/04/18 16:43:23! Daniel Levine raises $2700 to $5400 total 
+! 12/04/18 16:53:46! Bob calls 
+
+! 12/04/18 16:53:46! Pot right ($21400), flopping/dealing/drawing cards
+! 12/04/18 16:53:46! 2 players
+! 12/04/18 16:53:46! Flopped card: Qh
+! 12/04/18 16:56:45! Bob checks
+! 12/04/18 16:57:58! Daniel Levine bets $20000 
+! 12/04/18 17:01:59! Bob folds
+! Hand over, no showdown
+! Current board is:  7d 3h 3s 8c Qh
+! Daniel Levine wins $41400 (net $12000)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|>  Daniel Levine            |   55250 |         |      |    |         |
+ 5|   Bob                      |   41325 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 519 players left in the tournament 
+! Table waiting for live reshuffle
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b59.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 12
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

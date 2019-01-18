@@ -1,0 +1,108 @@
+Message-Id: <201111291725.pATHPQV9017902@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [b35.10108] Holdem Game Broadcast Message(*)                          
+
+! Table b35, Hand 8, Day 16
+
+! berj kacherian folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|V  Will Farley              |  30000 |      0 | NoSho|    |        |
+ 2|>  Willy Eckerslyke         |  28800 |   2300 |      |    |        |
+ 3|   Chris Learmonth          |  29900 |      0 |folded|    |        |
+ 4|   Robert Odell             |  28950 |    900 |folded|    |        |
+ 5|V  Joe Wood                 |  29850 |      0 | NoSho|    |        |
+ 6|   StingRay                 |  27200 |      0 |folded|    |        |
+ 7|   Craig N. Boyle           |  31150 |      0 |folded|    |        |
+ 8|D  berj kacherian           |  28950 |    900 |folded|    |        |
+ 9|   jasong            |  31050 |     50 |folded|    |        |
+10|   Kina Grannis             |  29700 |    300 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 11/23/11 19:38:10! Dealing a new hand
+! 11/23/11 19:38:10! No ante
+! 11/23/11 19:38:10! jasong blinds $50
+! 11/23/11 19:38:10! Kina Grannis blinds $100
+! 11/23/11 19:38:10! Will Farley is on vacation and folds
+! 11/24/11 00:47:16! Willy Eckerslyke calls 
+! 11/24/11 01:11:42! Chris Learmonth folds
+! 11/24/11 01:11:42! Robert Odell raises $200 
+! 11/24/11 01:11:42! Joe Wood is on vacation and folds
+! 11/24/11 07:17:20! StingRay folds
+! 11/24/11 08:13:32! Craig N. Boyle folds
+! 11/27/11 22:28:52! berj kacherian calls 
+! 11/27/11 22:28:52! jasong folds
+! 11/28/11 03:13:51! Kina Grannis calls 
+! 11/28/11 03:13:51! Willy Eckerslyke calls 
+
+! 11/28/11 03:13:51! Pot right ($1250), flopping/dealing/drawing cards
+! 11/28/11 03:13:51! 4 players
+! 11/28/11 03:13:51! Flopped cards: Qs 2d 8d
+! 11/28/11 03:14:23! Kina Grannis checks
+! 11/28/11 03:45:44! Willy Eckerslyke checks
+! 11/28/11 08:40:05! Robert Odell bets $600 
+! 11/28/11 13:06:56! berj kacherian calls 
+! 11/28/11 18:10:01! Kina Grannis folds
+! 11/28/11 18:10:01! Willy Eckerslyke calls 
+
+! 11/28/11 18:10:01! Pot right ($3050), flopping/dealing/drawing cards
+! 11/28/11 18:10:01! 3 players
+! 11/28/11 18:10:01! Flopped card: 8s
+! 11/28/11 23:59:36! Willy Eckerslyke bets $1400 
+! 11/29/11 00:01:23! Robert Odell folds
+! 11/29/11 09:25:26! berj kacherian folds
+! Hand over, no showdown
+! Current board is:  Qs 2d 8d 8s ?
+! Willy Eckerslyke wins $4450 (net $2150)
+! Antes and blinds go up
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|V  Will Farley              |  30000 |        | NoSho|    |        |
+ 2|>  Willy Eckerslyke         |  33250 |        |      |    |        |
+ 3|   Chris Learmonth          |  29900 |        |      |    |        |
+ 4|   Robert Odell             |  28950 |        |      |    |        |
+ 5|V  Joe Wood                 |  29850 |        | NoSho|    |        |
+ 6|   StingRay                 |  27200 |        |      |    |        |
+ 7|   Craig N. Boyle           |  31150 |        |      |    |        |
+ 8|   berj kacherian           |  28950 |        |      |    |        |
+ 9|D  jasong            |  31050 |        |      |    |        |
+10|   Kina Grannis             |  29700 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 825 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b35.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+This is the real tourney.  The practice round is over.
+Please RECHECK your cards to see you have from the "B" round.
+Also, your ID will NOT start with a "p" in the real tourney.
+
+Good luck.
+
+Having problems? Send email to floorman21@wrgpt.org.
+
+Live Redraw Status as of 11/29/11 09:25:01 AM
+
+Total Empty Seats: 25
+Total Playing Seats: 825
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+

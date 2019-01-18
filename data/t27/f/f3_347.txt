@@ -1,0 +1,111 @@
+
+! Table f3, Hand 347, Day 166
+
+! NS bets $80000 
+! jasong folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   rtroll                   |  584400 |    2000 |folded|    |         |
+ 3|   Stefan Dios              |  261925 |    2000 |folded|    |         |
+ 4|   Bwana                    | 2731850 |    2000 |folded|    |         |
+ 5|D  SCSI                     |  329575 |    2000 |folded|    |         |
+ 6|   Dman                     |  402400 |   12000 |folded|    |         |
+ 7|   jasong            | 1375900 |   22000 |folded|    |         |
+ 8|   Poker Dog                |  756525 |    2000 |folded|    |         |
+ 9|>  NS                       |  744500 |  102000 |      |    |         |
+10|   Bagock Esq               |  181575 |    2000 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 04/06/18 11:40:55! Dealing a new hand
+! 04/06/18 11:40:55! Everyone antes $2000
+! 04/06/18 11:40:55! Dman blinds $10000
+! 04/06/18 11:40:55! jasong blinds $20000
+! 04/06/18 11:48:15! Poker Dog folds
+! 04/06/18 12:05:07! NS calls 
+! 04/06/18 12:07:21! Bagock Esq folds
+! 04/06/18 13:16:53! rtroll folds
+! 04/06/18 13:16:53! Stefan Dios folds
+! 04/06/18 13:16:53! Bwana folds
+! 04/06/18 13:17:43! SCSI folds
+! 04/06/18 14:13:25! Dman folds
+! 04/06/18 14:13:25! jasong checks
+
+! 04/06/18 14:13:25! Pot right ($68000), flopping/dealing/drawing cards
+! 04/06/18 14:13:25! 2 players
+! 04/06/18 14:13:25! Flopped cards: Kh 2h 10c
+! 04/06/18 14:22:37! jasong checks
+! 04/06/18 14:50:41! NS bets $80000 
+! 04/06/18 14:50:41! jasong folds
+! Hand over, no showdown
+! Current board is:  Kh 2h 10c ? ?
+! NS wins $148000 (net $46000)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   rtroll                   |  584400 |         |      |    |         |
+ 3|   Stefan Dios              |  261925 |         |      |    |         |
+ 4|   Bwana                    | 2731850 |         |      |    |         |
+ 5|   SCSI                     |  329575 |         |      |    |         |
+ 6|D  Dman                     |  402400 |         |      |    |         |
+ 7|   jasong            | 1375900 |         |      |    |         |
+ 8|   Poker Dog                |  756525 |         |      |    |         |
+ 9|>  NS                       |  892500 |         |      |    |         |
+10|   Bagock Esq               |  181575 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 33 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/f/f3.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+However, if there were prizes they would pay the top 63 entrants.
+The standings are now showing theoretical prizes if WRGPT were a
+10k event.
+
+======
+
+Live Redraw Status as of 04/06/18 02:25:01 PM
+
+Total Empty Seats: 6
+Total Playing Seats: 33
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman27@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

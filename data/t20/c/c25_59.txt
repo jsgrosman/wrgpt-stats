@@ -1,0 +1,112 @@
+Message-Id: <201012291637.oBTGbXGe027685@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [c25.10033] Holdem Game Broadcast Message(*)                          
+
+! Table c25, Hand 59, Day 59
+
+! jennyfar calls 
+! Pot right ($57400), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: Qh
+! Flopped card: 8d
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|V  Stanley Chow             |  31300 |     50 |<AWOL>|    |        |
+ 2|   Deborah Abel             |  33800 |   5450 |folded|    |        |
+ 3|D  jasong            |  75850 |   2450 |folded|    |        |
+ 4|   Ricardo75                |   6975 |    250 |folded|    |        |
+ 5|   Alan Gopin               |  37350 |    450 |folded|    |        |
+ 6|   Minimus                  |  28450 |     50 |folded|    |        |
+ 7|>  jennyfar                 |  20700 |  21600 |      |    |        |
+ 8|   Paul Rotering            |      0 |  21600 |all-in|    |        |
+ 9|   b monie                  |  12550 |   5450 |folded|    |        |
+10|   mjoseff                  |  44550 |     50 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 12/23/10 09:45:25! Dealing a new hand
+! 12/23/10 09:45:25! Everyone antes $50
+! 12/23/10 09:45:25! Ricardo75 blinds $200
+! 12/23/10 09:45:25! Alan Gopin blinds $400
+! 12/23/10 11:17:03! Minimus folds
+! 12/23/10 13:20:19! jennyfar calls 
+! 12/23/10 13:20:19! Paul Rotering calls 
+! 12/23/10 13:25:06! b monie raises $800 
+! 12/23/10 13:25:06! mjoseff folds
+! 12/23/10 13:25:06! Stanley Chow is on vacation and folds
+! 12/23/10 15:53:35! Deborah Abel raises $1200 
+! 12/23/10 15:56:54! jasong calls 
+! 12/28/10 07:23:03! Ricardo75 folds
+! 12/28/10 07:23:03! Alan Gopin folds
+! 12/28/10 08:25:39! jennyfar calls 
+! 12/28/10 08:25:39! Paul Rotering raises $3000 
+! 12/28/10 08:40:21! b monie calls 
+! 12/28/10 09:52:07! Deborah Abel calls 
+! 12/28/10 10:55:54! jasong folds
+! 12/28/10 12:16:11! jennyfar calls 
+
+! 12/28/10 12:16:11! Pot right ($25100), flopping/dealing/drawing cards
+! 12/28/10 12:16:11! 4 players
+! 12/28/10 12:16:11! Flopped cards: 9s Jh 8s
+! 12/28/10 12:17:39! jennyfar bets $10000 
+! 12/28/10 12:28:21! Paul Rotering raises $6150 and is all in
+! 12/28/10 12:32:56! b monie folds
+! 12/29/10 08:35:47! Deborah Abel folds
+! 12/29/10 08:37:32! jennyfar calls 
+
+! 12/29/10 08:37:32! Pot right ($57400), flopping/dealing/drawing cards
+! 12/29/10 08:37:32! 2 players, 1 all in
+! 12/29/10 08:37:32! Flopped card: Qh
+! 12/29/10 08:37:32! Flopped card: 8d
+! Hand over, current board is:  9s Jh 8s Qh 8d
+! jennyfar                 has: As 10s
+! Paul Rotering            has: Ad Jc
+! jennyfar wins $57400 (net $35800) with Straight (Q J 10 9 8)
+! Antes and blinds go up
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|V  Stanley Chow             |  31300 |        |<AWOL>|    |        |
+ 2|   Deborah Abel             |  33800 |        |      |    |        |
+ 3|   jasong            |  75850 |        |      |    |        |
+ 4|D  Ricardo75                |   6975 |        |      |    |        |
+ 5|   Alan Gopin               |  37350 |        |      |    |        |
+ 6|   Minimus                  |  28450 |        |      |    |        |
+ 7|>  jennyfar                 |  78100 |        |      |    |        |
+ 9|   b monie                  |  12550 |        |      |    |        |
+10|   mjoseff                  |  44550 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! Paul Rotering is eliminated!
+! 630 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c25.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Tables will now all finish their current hand then will be waiting
+for a full redraw for the next round.
+
+If you have any problems send mail to floorman20@wrgpt.org.
+
+Live Redraw Status as of 12/29/10 08:25:01 AM
+
+Total Empty Seats: 20
+Total Playing Seats: 631
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org or follow "wrgpt" on Twitter.
+

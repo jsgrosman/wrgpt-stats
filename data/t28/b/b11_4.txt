@@ -1,0 +1,120 @@
+Subject: [b11.10068] Holdem Game Broadcast Message(*)
+
+! Table b11, Hand 4, Day 7
+
+! MNoelH calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   bad                      |   49700 |     150 |folded|    |         |
+ 2|   MNoelH                   |   47225 |    2700 |      |    |         |
+ 3|   RichNYC                  |   49775 |       0 |folded|    |         |
+ 4|D> ddppmm                   |   34700 |    2700 |      |    |         |
+ 5|   DotMatrix                |   67450 |      75 |folded|    |         |
+ 6|   put_it_good              |   45825 |     150 |folded|    |         |
+ 7|   Bommerman                |   50000 |       0 |folded|    |         |
+ 8|V  Three Pair               |   50000 |       0 | NoSho|    |         |
+ 9|   Chris Goedde             |   49550 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/16/18 14:52:45! Dealing a new hand
+! 11/16/18 14:52:45! No ante
+! 11/16/18 14:52:45! DotMatrix blinds $75
+! 11/16/18 14:52:45! put_it_good blinds $150
+! 11/16/18 16:47:14! Bommerman folds
+! 11/16/18 16:47:14! Three Pair is on vacation and folds
+! 11/16/18 16:52:52! Chris Goedde folds
+! 11/16/18 17:05:15! bad calls 
+! 11/16/18 17:28:49! MNoelH raises $300 to $450 total 
+! 11/16/18 17:28:49! RichNYC folds
+! 11/16/18 19:15:48! ddppmm raises $750 to $1200 total 
+! 11/16/18 19:58:27! DotMatrix folds
+! 11/17/18 01:20:11! put_it_good folds
+! 11/17/18 04:16:26! bad folds
+! 11/17/18 10:06:10! MNoelH calls 
+
+! 11/17/18 10:06:10! Pot right ($2775), flopping/dealing/drawing cards
+! 11/17/18 10:06:10! 2 players
+! 11/17/18 10:06:10! Flopped cards: Jd 10d Jh
+! 11/17/18 10:08:22! MNoelH checks
+! 11/17/18 11:54:11! ddppmm checks
+
+! 11/17/18 11:54:11! Pot right ($2775), flopping/dealing/drawing cards
+! 11/17/18 11:54:11! 2 players
+! 11/17/18 11:54:11! Flopped card: 4c
+! 11/17/18 13:14:22! MNoelH checks
+! 11/17/18 15:36:21! ddppmm checks
+
+! 11/17/18 15:36:21! Pot right ($2775), flopping/dealing/drawing cards
+! 11/17/18 15:36:21! 2 players
+! 11/17/18 15:36:21! Flopped card: Qc
+! 11/17/18 20:27:55! MNoelH checks
+! 11/18/18 10:41:49! ddppmm bets $1500 
+! 11/18/18 13:10:15! MNoelH calls 
+! Hand over, current board is:  Jd 10d Jh 4c Qc
+! MNoelH                   has: Qs Ad
+! ddppmm                   has: As Ks
+! ddppmm wins $5775 (net $3075) with Straight (A K Q J 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   bad                      |   49700 |         |      |    |         |
+ 2|   MNoelH                   |   47225 |         |      |    |         |
+ 3|   RichNYC                  |   49775 |         |      |    |         |
+ 4|>  ddppmm                   |   40475 |         |      |    |         |
+ 5|D  DotMatrix                |   67450 |         |      |    |         |
+ 6|   put_it_good              |   45825 |         |      |    |         |
+ 7|   Bommerman                |   50000 |         |      |    |         |
+ 8|V  Three Pair               |   50000 |         | NoSho|    |         |
+ 9|   Chris Goedde             |   49550 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 577 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b11.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 10
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

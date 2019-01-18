@@ -1,0 +1,97 @@
+Message-Id: <201011112116.oABLGmuD011504@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [b20.10235] Holdem Game Broadcast Message(*)                          
+
+! Table b20, Hand 21, Day 11
+
+! Greg Folla bets $5000 
+! jasong folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|D  JackBlack                |  24625 |      0 |folded|    |        |
+ 2|   wlu_lax6                 |  35550 |     50 |folded|    |        |
+ 3|   Cyberchomp               |  29600 |    100 |folded|    |        |
+ 4|   jasong            |  35275 |   1000 |folded|    |        |
+ 5|   dBeau                    |  29525 |      0 |folded|    |        |
+ 6|   Andrew Nelson            |  35150 |      0 |folded|    |        |
+ 7|   plankton                 |  49575 |      0 |folded|    |        |
+ 8|   GZK                      |  29900 |      0 |folded|    |        |
+ 9|V  Late Entry 2             |  29550 |      0 | NoSho|    |        |
+10|>  Greg Folla               |  53500 |   6000 |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 11/11/10 07:25:05! Dealing a new hand
+! 11/11/10 07:25:05! No ante
+! 11/11/10 07:25:05! wlu_lax6 blinds $50
+! 11/11/10 07:25:05! Cyberchomp blinds $100
+! 11/11/10 08:01:33! jasong raises $300 
+! 11/11/10 08:01:33! dBeau folds
+! 11/11/10 08:01:33! Andrew Nelson folds
+! 11/11/10 08:01:33! plankton folds
+! 11/11/10 08:44:54! GZK folds
+! 11/11/10 08:44:54! Late Entry 2 is on vacation and folds
+! 11/11/10 09:08:11! Greg Folla raises $600 
+! 11/11/10 09:08:11! JackBlack folds
+! 11/11/10 09:36:01! wlu_lax6 folds
+! 11/11/10 12:00:16! Cyberchomp folds
+! 11/11/10 12:00:16! jasong calls 
+
+! 11/11/10 12:00:16! Pot right ($2150), flopping/dealing/drawing cards
+! 11/11/10 12:00:16! 2 players
+! 11/11/10 12:00:16! Flopped cards: 7c 3d 2s
+! 11/11/10 13:01:18! jasong checks
+! 11/11/10 13:16:47! Greg Folla bets $5000 
+! 11/11/10 13:16:47! jasong folds
+! Hand over, no showdown
+! Current board is:  7c 3d 2s ? ?
+! Greg Folla wins $7150 (net $1150)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   JackBlack                |  24625 |        |      |    |        |
+ 2|D  wlu_lax6                 |  35550 |        |      |    |        |
+ 3|   Cyberchomp               |  29600 |        |      |    |        |
+ 4|   jasong            |  35275 |        |      |    |        |
+ 5|   dBeau                    |  29525 |        |      |    |        |
+ 6|   Andrew Nelson            |  35150 |        |      |    |        |
+ 7|   plankton                 |  49575 |        |      |    |        |
+ 8|   GZK                      |  29900 |        |      |    |        |
+ 9|V  Late Entry 2             |  29550 |        | NoSho|    |        |
+10|>  Greg Folla               |  60650 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 875 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b20.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Good luck.
+
+If you have problems send mail to floorman20@wrgpt.org.
+
+Live Redraw Status as of 11/11/10 12:55:08 PM
+
+Total Empty Seats: 23
+Total Playing Seats: 867
+Live redraw in progress:
+Seats Needed: 11
+Seats Waiting: 0
+Moving Players Waiting: 1
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org or follow "wrgpt" on Twitter.
+

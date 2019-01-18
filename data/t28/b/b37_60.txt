@@ -1,0 +1,113 @@
+Subject: [b37.10733] Holdem Game Broadcast Message(*)
+
+! Table b37, Hand 60, Day 50
+
+! Tom Bayz bets $6200 
+! Tom Abraham folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Tom Abraham              |  123525 |    4050 |folded|    |         |
+ 2|   Charlie Tuna             |   39100 |      50 |folded|    |         |
+ 3|V  MichaelJ                 |   42575 |      50 | 31DEC|    |         |
+ 4|>  Tom Bayz                 |   42775 |   10250 |      |    |         |
+ 5|V  SaucyJim                 |   31025 |      50 |<AWOL>|    |         |
+ 6|DV JRX                      |   60025 |      50 |   vac|    |         |
+ 7|   Ben Buchwald             |  164100 |    1250 |folded|    |         |
+ 8|   Rkal                     |   99300 |    1250 |folded|    |         |
+ 9|   Mother Speaks            |   49550 |      50 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/29/18 10:51:45! Dealing a new hand
+! 12/29/18 10:51:45! Everyone antes $50
+! 12/29/18 10:51:45! Ben Buchwald blinds $200
+! 12/29/18 10:51:45! Rkal blinds $400
+! 12/29/18 11:03:32! Mother Speaks folds
+! 12/29/18 12:27:02! Tom Abraham raises $800 to $1200 total 
+! 12/29/18 12:40:26! Charlie Tuna folds
+! 12/29/18 12:40:26! MichaelJ is on vacation and folds
+! 12/29/18 13:47:27! Tom Bayz calls 
+! 12/29/18 13:47:27! SaucyJim is on vacation and folds
+! 12/29/18 13:47:27! JRX is on vacation and folds
+! 12/29/18 14:43:49! Ben Buchwald calls 
+! 12/29/18 14:43:49! Rkal calls 
+
+! 12/29/18 14:43:49! Pot right ($5250), flopping/dealing/drawing cards
+! 12/29/18 14:43:49! 4 players
+! 12/29/18 14:43:49! Flopped cards: 2h 10h 2c
+! 12/29/18 14:45:04! Ben Buchwald checks
+! 12/29/18 15:00:18! Rkal checks
+! 12/29/18 15:24:13! Tom Abraham checks
+! 12/30/18 00:28:39! Tom Bayz bets $2800 
+! 12/30/18 07:41:13! Ben Buchwald folds
+! 12/30/18 07:41:13! Rkal folds
+! 12/30/18 11:29:17! Tom Abraham calls 
+
+! 12/30/18 11:29:17! Pot right ($10850), flopping/dealing/drawing cards
+! 12/30/18 11:29:17! 2 players
+! 12/30/18 11:29:17! Flopped card: 7d
+! 12/30/18 19:20:04! Tom Abraham checks
+! 12/31/18 04:19:19! Tom Bayz bets $6200 
+! 12/31/18 04:19:19! Tom Abraham folds
+! Hand over, no showdown
+! Current board is:  2h 10h 2c 7d ?
+! Tom Bayz wins $17050 (net $6800)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Tom Abraham              |  123525 |         |      |    |         |
+ 2|   Charlie Tuna             |   39100 |         |      |    |         |
+ 3|V  MichaelJ                 |   42575 |         | 31DEC|    |         |
+ 4|>  Tom Bayz                 |   59825 |         |      |    |         |
+ 5|V  SaucyJim                 |   31025 |         |<AWOL>|    |         |
+ 6|V  JRX                      |   60025 |         |   vac|    |         |
+ 7|D  Ben Buchwald             |  164100 |         |      |    |         |
+ 8|   Rkal                     |   99300 |         |      |    |         |
+ 9|   Mother Speaks            |   49550 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 413 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b37.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+We are now over 45 days into round "b". 
+As soon as any table gets to five or fewer 
+players all tables will finish the current 
+hand and a full redraw to round "c" will be done.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 19
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

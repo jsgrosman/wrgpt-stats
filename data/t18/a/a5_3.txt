@@ -1,0 +1,92 @@
+Message-Id: <200810222324.m9MNOi32005448@elvis.wrgpt.org>
+To: jsgrosman@yahoo.com
+Reply-To: dealer@wrgpt.org
+From: dealer@wrgpt.org
+Subject: [a5.10041] Holdem Game Broadcast Message(*)          
+
+! Table a5, Hand 3, Day 3
+
+! BrianU folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|>  BrianU                   |  13450 |   5750 |folded|    |        |
+ 2|   JPawloski                |      0 |  19550 |all-in|    |        |
+ 3|D  Jim McGill               |  40050 |      0 |folded|    |        |
+ 4|   shou72                   |  19500 |    100 |folded|    |        |
+ 5|   CPT-Ron                  |  19800 |    200 |folded|    |        |
+ 6|   Garnett21k               |  21600 |      0 |folded|    |        |
+ 7|   Ortzy                    |  14250 |   5750 |folded|    |        |
+ 9|   jasong            |  20000 |      0 |folded|    |        |
+10|V  Shadim                   |  20000 |      0 | NoSho|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 10/22/08 08:54:38! Dealing a new hand
+! 10/22/08 08:54:38! No ante
+! 10/22/08 08:54:38! shou72 blinds $100
+! 10/22/08 08:54:38! CPT-Ron blinds $200
+! 10/22/08 11:19:16! Garnett21k folds
+! 10/22/08 11:19:16! Ortzy raises $550 
+! 10/22/08 11:19:16! jasong folds
+! 10/22/08 11:19:16! Shadim is on vacation and folds
+! 10/22/08 12:05:34! BrianU calls 
+! 10/22/08 12:05:34! JPawloski raises $5000 
+! 10/22/08 12:05:34! Jim McGill folds
+! 10/22/08 12:05:34! shou72 folds
+! 10/22/08 13:41:30! CPT-Ron folds
+! 10/22/08 13:47:47! Ortzy calls 
+! 10/22/08 13:48:29! BrianU calls 
+
+! 10/22/08 13:48:29! Pot right ($17550), flopping/dealing/drawing cards
+! 10/22/08 13:48:29! 3 players
+! 10/22/08 13:48:29! Flopped cards: 10h Jh 8s
+! 10/22/08 13:49:13! Ortzy checks
+! 10/22/08 13:49:47! BrianU checks
+! 10/22/08 14:28:36! JPawloski bets $13800 and is all in
+! 10/22/08 15:14:20! Ortzy folds
+! 10/22/08 16:24:41! BrianU folds
+! Hand over, no showdown
+! Current board is:  10h Jh 8s ? ?
+! JPawloski wins $31350 (net $11800)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|>  BrianU                   |  13450 |        |      |    |        |
+ 2|   JPawloski                |  31350 |        |      |    |        |
+ 3|   Jim McGill               |  40050 |        |      |    |        |
+ 4|D  shou72                   |  19500 |        |      |    |        |
+ 5|   CPT-Ron                  |  19800 |        |      |    |        |
+ 6|   Garnett21k               |  21600 |        |      |    |        |
+ 7|   Ortzy                    |  14250 |        |      |    |        |
+ 9|   jasong            |  20000 |        |      |    |        |
+10|V  Shadim                   |  20000 |        | NoSho|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 902 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+TOURNEY INFORMATION
+
+
+NOTICE:
+
+This is the PRACTICE round.  It will go until about 10/31 and
+stop without warning.  This round does not count.  You will
+start with a full stack of chips when the real tourney starts
+on or about November 4.
+
+So, use this to try out ADVANCE actions.  That is, not hard
+actions, but, rather, actions taken in ADVANCE of your turn.
+They are pretty easy.  Check out the links below.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org
+

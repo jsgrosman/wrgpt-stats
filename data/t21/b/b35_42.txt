@@ -1,0 +1,104 @@
+Message-Id: <201201061658.q06Gwdd7028445@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [b35.10475] Holdem Game Broadcast Message(*)                          
+
+! Table b35, Hand 42, Day 54
+
+! NS folds
+! Robert Odell folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   NS                       |  25450 |    450 |folded|    |        |
+ 2|   Craig N. Boyle           |  20175 |     50 |folded|    |        |
+ 3|   berj kacherian           |  26650 |     50 |folded|    |        |
+ 4|   jasong            |  15700 |     50 |folded|    |        |
+ 5|   Kina Grannis             |  46400 |     50 |folded|    |        |
+ 6|   Willy Eckerslyke         |  29800 |     50 |folded|    |        |
+ 7|   Chris Learmonth          |  21600 |     50 |folded|    |        |
+ 8|D  Robert Odell             |  53675 |    450 |folded|    |        |
+ 9|   StingRay                 |  24800 |    250 |folded|    |        |
+10|>  Caryl Aronson            |  40350 |   1400 |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 01/05/12 15:07:21! Dealing a new hand
+! 01/05/12 15:07:21! Everyone antes $50
+! 01/05/12 15:07:21! StingRay blinds $200
+! 01/05/12 15:07:21! Caryl Aronson blinds $400
+! 01/05/12 15:10:45! NS calls 
+_____________________________________________________________________________
+
+! Doh!
+! This message and any attached documents are only for the use of the inte
+! ved this message in error, please notify the sender immediately, and the
+! -- Craig N. Boyle --
+_____________________________________________________________________________
+
+! 01/05/12 15:13:02! Craig N. Boyle folds
+! 01/05/12 16:18:09! berj kacherian folds
+! 01/05/12 16:40:16! jasong folds
+! 01/05/12 18:55:04! Kina Grannis folds
+! 01/06/12 00:45:44! Willy Eckerslyke folds
+! 01/06/12 00:45:44! Chris Learmonth folds
+! 01/06/12 00:45:44! Robert Odell calls 
+! 01/06/12 00:45:44! StingRay folds
+! 01/06/12 07:50:32! Caryl Aronson checks
+
+! 01/06/12 07:50:32! Pot right ($1900), flopping/dealing/drawing cards
+! 01/06/12 07:50:32! 3 players
+! 01/06/12 07:50:32! Flopped cards: 5s 9d Qs
+! 01/06/12 07:51:24! Caryl Aronson bets $950 
+! 01/06/12 08:58:38! NS folds
+! 01/06/12 08:58:38! Robert Odell folds
+! Hand over, no showdown
+! Current board is:  5s 9d Qs ? ?
+! Caryl Aronson wins $2850 (net $1450)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   NS                       |  25450 |        |      |    |        |
+ 2|   Craig N. Boyle           |  20175 |        |      |    |        |
+ 3|   berj kacherian           |  26650 |        |      |    |        |
+ 4|   jasong            |  15700 |        |      |    |        |
+ 5|   Kina Grannis             |  46400 |        |      |    |        |
+ 6|   Willy Eckerslyke         |  29800 |        |      |    |        |
+ 7|   Chris Learmonth          |  21600 |        |      |    |        |
+ 8|   Robert Odell             |  53675 |        |      |    |        |
+ 9|D  StingRay                 |  24800 |        |      |    |        |
+10|>  Caryl Aronson            |  43200 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 613 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b35.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+There will be no more live redraws for the "b" round.
+When a table gets below six players all tables will finish
+the current hand and a full redraw will occur.
+
+Having problems? Send email to floorman21@wrgpt.org.
+
+Live Redraw Status as of 01/06/12 08:55:01 AM
+
+Total Empty Seats: 57
+Total Playing Seats: 613
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+

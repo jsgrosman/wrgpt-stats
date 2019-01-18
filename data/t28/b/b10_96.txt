@@ -1,0 +1,115 @@
+Subject: [b10.11063] Holdem Game Broadcast Message(*)
+
+! Table b10, Hand 96, Day 53
+
+! Peter Gozinya checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Sahu Habibi              |   89950 |     250 |folded|    |         |
+ 2|   BluffaloBill             |   72975 |     450 |folded|    |         |
+ 3|   Home_Brew_Boy            |   27250 |      50 |folded|    |         |
+ 4|   Thomas Sims              |   36150 |      50 |folded|    |         |
+ 5|   Deryl Garland            |  159000 |      50 |folded|    |         |
+ 6|   Cruella                  |   10650 |      50 |folded|    |         |
+ 7|   Otto                     |  177550 |      50 |folded|    |         |
+ 8|>  zipper                   |   35850 |    6850 |      |    |         |
+ 9|D  Peter Gozinya            |   93500 |    6850 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/02/19 17:51:53! Dealing a new hand
+! 01/02/19 17:51:53! Everyone antes $50
+! 01/02/19 17:51:53! Sahu Habibi blinds $200
+! 01/02/19 17:51:53! BluffaloBill blinds $400
+! 01/02/19 17:53:37! Home_Brew_Boy folds
+! 01/02/19 17:57:25! Thomas Sims folds
+! 01/02/19 18:02:04! Deryl Garland folds
+! 01/02/19 18:02:04! Cruella folds
+! 01/02/19 18:02:04! Otto folds
+! 01/02/19 18:06:53! zipper raises $900 to $1300 total 
+! 01/02/19 18:13:58! Peter Gozinya calls 
+! 01/02/19 18:20:37! Sahu Habibi folds
+! 01/02/19 18:20:37! BluffaloBill folds
+
+! 01/02/19 18:20:37! Pot right ($3650), flopping/dealing/drawing cards
+! 01/02/19 18:20:37! 2 players
+! 01/02/19 18:20:37! Flopped cards: Qh 10h Kd
+! 01/02/19 19:25:02! zipper bets $900 
+! 01/02/19 19:36:30! Peter Gozinya raises $1600 to $2500 total 
+! 01/02/19 20:41:43! zipper calls 
+
+! 01/02/19 20:41:43! Pot right ($8650), flopping/dealing/drawing cards
+! 01/02/19 20:41:43! 2 players
+! 01/02/19 20:41:43! Flopped card: 10c
+! 01/03/19 07:37:26! zipper checks
+! 01/03/19 09:27:05! Peter Gozinya bets $3000 
+! 01/03/19 11:46:43! zipper calls 
+
+! 01/03/19 11:46:43! Pot right ($14650), flopping/dealing/drawing cards
+! 01/03/19 11:46:43! 2 players
+! 01/03/19 11:46:43! Flopped card: 3s
+! 01/03/19 12:51:39! zipper checks
+! 01/03/19 13:39:00! Peter Gozinya checks
+! Hand over, current board is:  Qh 10h Kd 10c 3s
+! zipper                   has: Ah Jc
+! Peter Gozinya            has: Kh Ad
+! zipper wins $14650 (net $7800) with Straight (A K Q J 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  Sahu Habibi              |   89950 |         |      |    |         |
+ 2|   BluffaloBill             |   72975 |         |      |    |         |
+ 3|   Home_Brew_Boy            |   27250 |         |      |    |         |
+ 4|   Thomas Sims              |   36150 |         |      |    |         |
+ 5|   Deryl Garland            |  159000 |         |      |    |         |
+ 6|   Cruella                  |   10650 |         |      |    |         |
+ 7|   Otto                     |  177550 |         |      |    |         |
+ 8|>  zipper                   |   50500 |         |      |    |         |
+ 9|   Peter Gozinya            |   93500 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 402 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b10.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+We are now over 45 days into round "b". 
+As soon as any table gets to five or fewer 
+players all tables will finish the current 
+hand and a full redraw to round "c" will be done.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 30
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

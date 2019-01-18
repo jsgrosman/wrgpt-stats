@@ -1,0 +1,122 @@
+Subject: [b12.11043] Holdem Game Broadcast Message(*)
+
+! Table b12, Hand 77, Day 47
+
+! Billco raises $28100 to $82725 total and is all in
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  Billco                   |       0 |   99675 |all-in|  1 |   28100 |
+ 2|   Rich Guidoboni           |  142700 |     450 |folded|    |         |
+ 3|   Grizz                    |   62800 |     450 |folded|    |         |
+ 4|   Spier                    |       0 |   71575 |all-in|  2 |  145100 |
+ 5|   Jascha                   |   35850 |      50 |folded|    |         |
+ 6|   ThinkingPokerAndrew      |   29750 |      50 |folded|    |         |
+ 7|D  EWalk                    |   62750 |      50 |folded|    |         |
+ 8|   JohnnyMac                |  170875 |     450 |folded|    |         |
+ 9|   Johnny Ice               |   51500 |     450 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/27/18 17:53:21! Dealing a new hand
+! 12/27/18 17:53:21! Everyone antes $50
+! 12/27/18 17:53:21! JohnnyMac blinds $200
+! 12/27/18 17:53:21! Johnny Ice blinds $400
+! 12/28/18 00:08:26! Billco calls 
+! 12/28/18 00:08:26! Rich Guidoboni calls 
+! 12/28/18 05:00:29! Grizz calls 
+! 12/28/18 05:00:29! Spier calls 
+! 12/28/18 05:00:29! Jascha folds
+! 12/28/18 07:04:27! ThinkingPokerAndrew folds
+! 12/28/18 09:12:34! EWalk folds
+! 12/28/18 09:12:34! JohnnyMac calls 
+! 12/28/18 09:36:11! Johnny Ice checks
+
+! 12/28/18 09:36:11! Pot right ($2850), flopping/dealing/drawing cards
+! 12/28/18 09:36:11! 6 players
+! 12/28/18 09:36:11! Flopped cards: 5h 9d 10s
+! 12/28/18 09:36:41! JohnnyMac checks
+! 12/28/18 09:37:14! Johnny Ice checks
+! 12/28/18 09:52:58! Billco bets $2500 
+! 12/28/18 09:52:58! Rich Guidoboni folds
+! 12/28/18 10:02:11! Grizz folds
+! 12/28/18 10:57:44! Spier calls 
+! 12/28/18 10:57:44! JohnnyMac folds
+! 12/28/18 10:57:44! Johnny Ice folds
+
+! 12/28/18 10:57:44! Pot right ($7850), flopping/dealing/drawing cards
+! 12/28/18 10:57:44! 2 players
+! 12/28/18 10:57:44! Flopped card: Kh
+! 12/28/18 13:00:52! Billco bets $5000 
+! 12/28/18 15:21:51! Spier raises $9000 to $14000 total 
+! 12/28/18 15:46:14! Billco calls 
+
+! 12/28/18 15:46:14! Pot right ($35850), flopping/dealing/drawing cards
+! 12/28/18 15:46:14! 2 players
+! 12/28/18 15:46:14! Flopped card: 4d
+! 12/28/18 17:52:09! Billco bets $15000 
+! 12/28/18 19:44:54! Spier raises $39625 to $54625 total and is all in
+! 12/28/18 21:32:03! Billco raises $28100 to $82725 total and is all in
+! Hand over, current board is:  5h 9d 10s Kh 4d
+! Billco                   has: 9s Kc
+! Spier                    has: As 9h
+! Pot 1: uncalled $28100 returned to Billco
+! Pot 2: Billco wins $145100 with Two Pair (K K 9 9 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  Billco                   |  173200 |         |      |    |         |
+ 2|   Rich Guidoboni           |  142700 |         |      |    |         |
+ 3|   Grizz                    |   62800 |         |      |    |         |
+ 5|   Jascha                   |   35850 |         |      |    |         |
+ 6|   ThinkingPokerAndrew      |   29750 |         |      |    |         |
+ 7|   EWalk                    |   62750 |         |      |    |         |
+ 8|D  JohnnyMac                |  170875 |         |      |    |         |
+ 9|   Johnny Ice               |   51500 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Spier is eliminated!
+! 420 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b12.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+We are now over 45 days into round "b". 
+As soon as any table gets to five or fewer 
+players all tables will finish the current 
+hand and a full redraw to round "c" will be done.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 11
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

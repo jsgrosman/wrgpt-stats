@@ -1,0 +1,109 @@
+Subject: [b30.10476] Holdem Game Broadcast Message(*)
+
+! Table b30, Hand 48, Day 31
+
+! poolshark8189 calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|V  DadSaysDOH               |   46750 |      25 |Dec. 2|    |         |
+ 2|D  Ed Barrett               |   46400 |      25 |folded|    |         |
+ 4|   Fredrik Westerlund       |   41175 |     175 |folded|    |         |
+ 5|>  poolshark8189            |   26800 |   20975 |      |    |         |
+ 6|   bigbrett                 |   54325 |      25 |folded|    |         |
+ 7|   dchizzle41               |  141650 |     775 |folded|    |         |
+ 8|   GeekMissy                |   49900 |      25 |folded|    |         |
+ 9|   Kit Woolsey              |       0 |   20975 |all-in|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/12/18 06:32:22! Dealing a new hand
+! 12/12/18 06:32:22! Everyone antes $25
+! 12/12/18 06:32:22! Fredrik Westerlund blinds $150
+! 12/12/18 06:32:22! poolshark8189 blinds $300
+! 12/12/18 13:01:03! bigbrett folds
+! 12/12/18 13:17:12! dchizzle41 raises $450 to $750 total 
+! 12/12/18 13:17:12! GeekMissy folds
+! 12/12/18 13:29:20! Kit Woolsey calls 
+! 12/12/18 13:29:20! DadSaysDOH is on vacation and folds
+! 12/12/18 13:29:20! Ed Barrett folds
+! 12/12/18 13:29:20! Fredrik Westerlund folds
+! 12/12/18 13:29:20! poolshark8189 calls 
+
+! 12/12/18 13:29:20! Pot right ($2600), flopping/dealing/drawing cards
+! 12/12/18 13:29:20! 3 players
+! 12/12/18 13:29:20! Flopped cards: 3h 10c 6c
+! 12/12/18 13:38:12! poolshark8189 bets $2000 
+! 12/12/18 13:54:56! dchizzle41 folds
+! 12/12/18 14:00:05! Kit Woolsey raises $3000 to $5000 total 
+! 12/12/18 14:20:29! poolshark8189 calls 
+
+! 12/12/18 14:20:29! Pot right ($12600), flopping/dealing/drawing cards
+! 12/12/18 14:20:29! 2 players
+! 12/12/18 14:20:29! Flopped card: 3d
+! 12/12/18 14:21:19! poolshark8189 bets $6000 
+! 12/12/18 14:22:54! Kit Woolsey calls 
+
+! 12/12/18 14:22:54! Pot right ($24600), flopping/dealing/drawing cards
+! 12/12/18 14:22:54! 2 players
+! 12/12/18 14:22:54! Flopped card: 9c
+! 12/12/18 14:23:24! poolshark8189 bets $7000 
+! 12/12/18 14:24:30! Kit Woolsey raises $2200 to $9200 total and is all in
+! 12/12/18 14:27:06! poolshark8189 calls 
+! Hand over, current board is:  3h 10c 6c 3d 9c
+! poolshark8189            has: Kc 2c
+! Kit Woolsey              has: Ac 5c
+! Kit Woolsey wins $43000 (net $22025) with Club Flush (A 10 9 6 5)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|V  DadSaysDOH               |   46750 |         |Dec. 2|    |         |
+ 2|   Ed Barrett               |   46400 |         |      |    |         |
+ 4|D  Fredrik Westerlund       |   41175 |         |      |    |         |
+ 5|>  poolshark8189            |   26800 |         |      |    |         |
+ 6|   bigbrett                 |   54325 |         |      |    |         |
+ 7|   dchizzle41               |  141650 |         |      |    |         |
+ 8|   GeekMissy                |   49900 |         |      |    |         |
+ 9|   Kit Woolsey              |   43000 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! bigbrett timed out during this hand
+! 483 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b30.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 3
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,137 @@
+Subject: [b9.10205] Holdem Game Broadcast Message(*)
+
+! Table b9, Hand 17, Day 14
+
+! Ed Fernandez calls - side pot
+! Pot right ($99425), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped card: Qc
+! Flopped card: 5s
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  drjeys                   |   51975 |       0 |folded|    |         |
+ 2|   BrownTrout               |   48700 |      75 |folded|    |         |
+ 3|   J. Michael Robertson     |       0 |   50000 |all-in|  1 |    1050 |
+ 4|   Stray Taoist             |   50800 |     400 |folded|    |         |
+ 5|>  Ed Fernandez             |       0 |   48950 |all-in|  2 |   98375 |
+ 6|   Jeff Goff                |   50000 |       0 |folded|    |         |
+ 7|   Michael Rankin           |   50425 |       0 |folded|    |         |
+ 8|   danthefan                |  100575 |       0 |folded|    |         |
+ 9|   indiansquib              |   48100 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/24/18 20:34:14! Dealing a new hand
+! 11/24/18 20:34:14! No ante
+! 11/24/18 20:34:14! BrownTrout blinds $75
+! 11/24/18 20:34:14! J. Michael Robertson blinds $150
+! 11/25/18 00:52:13! Stray Taoist calls 
+! 11/25/18 00:57:20! Ed Fernandez raises $250 to $400 total 
+! 11/25/18 03:00:38! Jeff Goff folds
+! 11/25/18 03:00:38! Michael Rankin folds
+! 11/25/18 03:00:38! danthefan folds
+! 11/25/18 05:54:58! indiansquib folds
+! 11/25/18 05:57:15! drjeys folds
+! 11/25/18 10:41:07! BrownTrout folds
+_____________________________________________________________________________
+
+! Please consider checking your email a bit more frequently.
+! Use advanced actions, every time.  Faster play is rewarded.
+! -- J. Michael Robertson --
+_____________________________________________________________________________
+
+! 11/25/18 10:41:07! J. Michael Robertson calls 
+_____________________________________________________________________________
+
+! It is the weekend! No one sits over their email all weekend long. wrgpt 
+! timeouts (I know, I've hit some, every year since over a decade I've got
+! the timezone-ing wrong) but it isn't supposed to be _fast_.
+! -- Stray Taoist --
+_____________________________________________________________________________
+
+! 11/25/18 11:03:22! Stray Taoist calls 
+
+! 11/25/18 11:03:22! Pot right ($1275), flopping/dealing/drawing cards
+! 11/25/18 11:03:22! 3 players
+! 11/25/18 11:03:22! Flopped cards: Qd Kh Jc
+! 11/25/18 11:24:21! J. Michael Robertson bets $1000 
+! 11/25/18 11:26:43! Stray Taoist folds
+! 11/25/18 13:13:31! Ed Fernandez raises $2000 to $3000 total 
+! 11/25/18 13:22:27! J. Michael Robertson raises $6000 to $9000 total 
+! 11/25/18 13:55:08! Ed Fernandez raises $12000 to $21000 total 
+! 11/25/18 14:06:12! J. Michael Robertson raises $28600 to $49600 total and is all in
+! 11/25/18 14:25:48! Ed Fernandez calls - side pot
+
+! 11/25/18 14:25:48! Pot right ($99425), flopping/dealing/drawing cards
+! 11/25/18 14:25:48! 2 players, 2 all in
+! 11/25/18 14:25:48! Flopped card: Qc
+! 11/25/18 14:25:48! Flopped card: 5s
+! Hand over, current board is:  Qd Kh Jc Qc 5s
+! J. Michael Robertson     has: Ah 10d
+! Ed Fernandez             has: As 10s
+! Pot 1: uncalled $1050 returned to J. Michael Robertson
+! Pot 2: J. Michael Robertson wins $49200 with Straight (A K Q J 10)
+! Pot 2: Ed Fernandez wins $49175 with Straight (A K Q J 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   drjeys                   |   51975 |         |      |    |         |
+ 2|D  BrownTrout               |   48700 |         |      |    |         |
+ 3|   J. Michael Robertson     |   50250 |         |      |    |         |
+ 4|   Stray Taoist             |   50800 |         |      |    |         |
+ 5|>  Ed Fernandez             |   49175 |         |      |    |         |
+ 6|   Jeff Goff                |   50000 |         |      |    |         |
+ 7|   Michael Rankin           |   50425 |         |      |    |         |
+ 8|   danthefan                |  100575 |         |      |    |         |
+ 9|   indiansquib              |   48100 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 562 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b9.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 5
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,100 @@
+Message-Id: <200812300301.mBU31Z9M028249@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+Reply-To: dealer@wrgpt.org
+From: dealer@wrgpt.org
+Subject: [c65.10049] Holdem Game Broadcast Message(*)          
+
+! Table c65, Hand 61, Day 57
+
+! jasong folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   David Kuznick            |  17650 |     50 |folded|    |        |
+ 2|   paulshe                  |  23400 |     50 |folded|    |        |
+ 3|   Chuck Thompson           |  39000 |     50 |folded|    |        |
+ 4|   Kevin Mathers            |  35800 |     50 |folded|    |        |
+ 5|D  Brian K                  |  33050 |     50 |folded|    |        |
+ 6|   jasong            |  23800 |   8150 |folded|    |        |
+ 7|   MikeB                    |  20900 |    450 |folded|    |        |
+ 8|   Alphabits                |  54800 |     50 |folded|    |        |
+ 9|   Rob CutStyle             |  28400 |     50 |folded|    |        |
+10|>  Toronado13               |   9000 |  13850 |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 12/26/08 05:21:40! Dealing a new hand
+! 12/26/08 05:21:40! Everyone antes $50
+! 12/26/08 05:21:40! jasong blinds $200
+! 12/26/08 05:21:40! MikeB blinds $400
+! 12/26/08 06:04:03! Alphabits folds
+! 12/26/08 10:52:17! Rob CutStyle folds
+! 12/26/08 10:52:17! Toronado13 calls 
+! 12/26/08 10:52:17! David Kuznick folds
+! 12/26/08 13:06:11! paulshe folds
+! 12/26/08 13:06:11! Chuck Thompson folds
+! 12/26/08 13:06:11! Kevin Mathers folds
+! 12/29/08 06:01:06! Brian K folds
+! 12/29/08 06:01:06! jasong raises $2000 
+! 12/29/08 10:38:24! MikeB folds
+! 12/29/08 10:39:04! Toronado13 calls 
+
+! 12/29/08 10:39:04! Pot right ($5700), flopping/dealing/drawing cards
+! 12/29/08 10:39:04! 2 players
+! 12/29/08 10:39:04! Flopped cards: 6s 7c Js
+! 12/29/08 11:14:15! jasong bets $5700 
+! 12/29/08 11:26:07! Toronado13 raises $5700 
+! 12/29/08 19:01:33! jasong folds
+! Hand over, no showdown
+! Current board is:  6s 7c Js ? ?
+! Toronado13 wins $22800 (net $8950)
+! Antes and blinds go up
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   David Kuznick            |  17650 |        |      |    |        |
+ 2|   paulshe                  |  23400 |        |      |    |        |
+ 3|   Chuck Thompson           |  39000 |        |      |    |        |
+ 4|   Kevin Mathers            |  35800 |        |      |    |        |
+ 5|   Brian K                  |  33050 |        |      |    |        |
+ 6|D  jasong            |  23800 |        |      |    |        |
+ 7|   MikeB                    |  20900 |        |      |    |        |
+ 8|   Alphabits                |  54800 |        |      |    |        |
+ 9|   Rob CutStyle             |  28400 |        |      |    |        |
+10|>  Toronado13               |  31800 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 760 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c65.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+WRGPT18 is now on a holiday until January 5, 2009.  Play continues
+but no timeouts will happen until then.
+
+The last live redraw for the "c" round could begin
+as late as January 21, 2009.
+
+Live Redraw Status as of 12/29/08 06:55:01 PM
+
+Total Empty Seats: 45
+Total Playing Seats: 760
+Live redraw in progress:
+Seats Needed: 26
+Seats Waiting: 0
+Moving Players Waiting: 0
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org
+

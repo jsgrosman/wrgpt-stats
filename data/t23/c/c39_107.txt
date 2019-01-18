@@ -1,0 +1,114 @@
+Message-Id: <201401301747.s0UHlar8022295@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [c39.10196] Holdem Game Broadcast Message(*)                          
+
+! Table c39, Hand 107, Day 81
+
+! TedTab calls - side pot
+! Pot right ($58900), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: Ah
+! Flopped card: 6c
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|V  Diputsur                 |  75475 |    100 |<AWOL>|    |        |
+ 2|   ChimpyChoo               |  41125 |    100 |folded|    |        |
+ 3|   ThunderRd                |  68625 |    100 |folded|    |        |
+ 4|   ScoJo                    |  39350 |    100 |folded|    |        |
+ 5|   Jpchiefs58               |  20975 |    900 |folded|    |        |
+ 7|   jasong            |  42275 |    100 |folded|    |        |
+ 8|D  Kimbo                    |  47050 |    100 |folded|    |        |
+ 9|   TedTab                   |      0 |  23200 |all-in|  2 |  47900 |
+10|>  Tooner                   |  36900 |  34200 |      |  1 |  11000 |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 01/30/14 04:44:55! Dealing a new hand
+! 01/30/14 04:44:55! Everyone antes $100
+! 01/30/14 04:44:55! TedTab blinds $400
+! 01/30/14 04:44:55! Tooner blinds $800
+! 01/30/14 04:44:55! Diputsur is on vacation and folds
+! 01/30/14 04:48:50! ChimpyChoo folds
+! 01/30/14 04:48:50! ThunderRd folds
+! 01/30/14 05:18:07! ScoJo folds
+! 01/30/14 06:25:11! Jpchiefs58 calls 
+! 01/30/14 08:18:41! jasong folds
+! 01/30/14 08:24:54! Kimbo folds
+! 01/30/14 08:34:39! TedTab calls 
+! 01/30/14 08:35:14! Tooner checks
+
+! 01/30/14 08:35:14! Pot right ($3300), flopping/dealing/drawing cards
+! 01/30/14 08:35:14! 3 players
+! 01/30/14 08:35:14! Flopped cards: Ad 4d 8h
+! 01/30/14 09:38:56! TedTab bets $3300 
+! 01/30/14 09:40:41! Tooner raises $30000 
+! 01/30/14 09:46:33! Jpchiefs58 folds
+! 01/30/14 09:47:35! TedTab calls - side pot
+
+! 01/30/14 09:47:35! Pot right ($58900), flopping/dealing/drawing cards
+! 01/30/14 09:47:35! 2 players, 1 all in
+! 01/30/14 09:47:35! Flopped card: Ah
+! 01/30/14 09:47:35! Flopped card: 6c
+! Hand over, current board is:  Ad 4d 8h Ah 6c
+! TedTab                   has: Qd 10c
+! Tooner                   has: As 9h
+! Pot 1: uncalled $11000 returned to Tooner
+! Pot 2: Tooner wins $47900 with Three of a Kind (A A A 9 8)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|V  Diputsur                 |  75475 |        |<AWOL>|    |        |
+ 2|   ChimpyChoo               |  41125 |        |      |    |        |
+ 3|   ThunderRd                |  68625 |        |      |    |        |
+ 4|   ScoJo                    |  39350 |        |      |    |        |
+ 5|   Jpchiefs58               |  20975 |        |      |    |        |
+ 7|   jasong            |  42275 |        |      |    |        |
+ 8|D  Kimbo                    |  47050 |        |      |    |        |
+10|>  Tooner                   |  95800 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! TedTab is eliminated!
+! 471 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c39.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Remember to use advance actions to speed up the game.
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+Here is a link to the railbird mailing list:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman23@wrgpt.org.
+
+Live Redraw Status as of 01/30/14 09:25:01 AM
+
+Total Empty Seats: 28
+Total Playing Seats: 472
+Live redraw in progress:
+Seats Needed: 17
+Seats Waiting: 0
+Moving Players Waiting: 0
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

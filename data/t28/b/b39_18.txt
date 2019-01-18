@@ -1,0 +1,121 @@
+Subject: [b39.10214] Holdem Game Broadcast Message(*)
+
+! Table b39, Hand 18, Day 15
+
+! Ben Irving calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Jim Sokoloff             |   46700 |     300 |folded|    |         |
+ 2|   Steve Watanabe           |   48025 |     300 |folded|    |         |
+ 3|   Redbird                  |   53025 |       0 |folded|    |         |
+ 4|   TrayRacer                |   50800 |       0 |folded|    |         |
+ 5|>  Mejjad                   |   46100 |    1700 |      |    |         |
+ 6|V  TennisGeek               |   49550 |       0 |<AWOL>|    |         |
+ 7|   Ben Irving               |   53700 |    1700 |      |    |         |
+ 8|V  grendel                  |   48925 |       0 | 3 Dec|    |         |
+ 9|D  kettledrum               |   49175 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/26/18 06:50:02! Dealing a new hand
+! 11/26/18 06:50:02! No ante
+! 11/26/18 06:50:02! Jim Sokoloff blinds $150
+! 11/26/18 06:50:02! Steve Watanabe blinds $300
+! 11/26/18 07:32:20! Redbird folds
+! 11/26/18 09:19:58! TrayRacer folds
+! 11/26/18 09:46:37! Mejjad calls 
+! 11/26/18 09:46:37! TennisGeek is on vacation and folds
+! 11/26/18 10:52:41! Ben Irving calls 
+! 11/26/18 10:52:41! grendel is on vacation and folds
+! 11/26/18 10:52:41! kettledrum folds
+! 11/26/18 11:52:38! Jim Sokoloff calls 
+! 11/26/18 11:52:38! Steve Watanabe checks
+
+! 11/26/18 11:52:38! Pot right ($1200), flopping/dealing/drawing cards
+! 11/26/18 11:52:38! 4 players
+! 11/26/18 11:52:38! Flopped cards: 2d 6d 5h
+! 11/26/18 12:22:38! Jim Sokoloff checks
+! 11/26/18 12:35:46! Steve Watanabe checks
+! 11/26/18 12:39:30! Mejjad bets $400 
+! 11/26/18 12:59:54! Ben Irving calls 
+! 11/26/18 13:08:50! Jim Sokoloff folds
+! 11/26/18 13:08:50! Steve Watanabe folds
+
+! 11/26/18 13:08:50! Pot right ($2000), flopping/dealing/drawing cards
+! 11/26/18 13:08:50! 2 players
+! 11/26/18 13:08:50! Flopped card: 10c
+! 11/26/18 13:16:15! Mejjad checks
+! 11/26/18 13:25:05! Ben Irving checks
+
+! 11/26/18 13:25:05! Pot right ($2000), flopping/dealing/drawing cards
+! 11/26/18 13:25:05! 2 players
+! 11/26/18 13:25:05! Flopped card: 5s
+! 11/26/18 13:30:10! Mejjad bets $1000 
+! 11/26/18 13:31:06! Ben Irving calls 
+! Hand over, current board is:  2d 6d 5h 10c 5s
+! Mejjad                   has: 2s Ac
+! Ben Irving               has: 7s 7h
+! Ben Irving wins $4000 (net $2300) with Two Pair (7 7 5 5 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  Jim Sokoloff             |   46700 |         |      |    |         |
+ 2|   Steve Watanabe           |   48025 |         |      |    |         |
+ 3|   Redbird                  |   53025 |         |      |    |         |
+ 4|   TrayRacer                |   50800 |         |      |    |         |
+ 5|>  Mejjad                   |   46100 |         |      |    |         |
+ 6|V  TennisGeek               |   49550 |         |<AWOL>|    |         |
+ 7|   Ben Irving               |   57700 |         |      |    |         |
+ 8|V  grendel                  |   48925 |         | 3 Dec|    |         |
+ 9|   kettledrum               |   49175 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 556 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b39.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 11
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,84 @@
+Message-Id: <201101130116.p0D1GbHU030155@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [c25.10262] Holdem Game Broadcast Message(*)                          
+
+! Table c25, Hand 84, Day 73
+
+! jasong folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|V  Nikadai                  |  69625 |    100 |13 jan|    |        |
+ 2|   mjoseff                  | 107575 |    100 |folded|    |        |
+ 3|   Eddie Brown              |  49950 |    100 |folded|    |        |
+ 4|V  Stanley Chow             |  27400 |    100 |<AWOL>|    |        |
+ 5|>  jasong            |  70250 |   3900 |folded|    |        |
+ 6|D  jennyfar                 |  79800 |    100 |folded|    |        |
+ 7|   AW Coody                 | 109350 |    500 |folded|    |        |
+ 8|   b monie                  |      0 |  17400 |all-in|    |        |
+ 9|   JAvery - VP              |  14250 |    100 |folded|    |        |
+10|   KluelessKid              |  44700 |    100 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 01/12/11 11:43:34! Dealing a new hand
+! 01/12/11 11:43:34! Everyone antes $100
+! 01/12/11 11:43:34! AW Coody blinds $400
+! 01/12/11 11:43:34! b monie blinds $800
+! 01/12/11 12:10:16! JAvery - VP folds
+! 01/12/11 13:14:33! KluelessKid folds
+! 01/12/11 13:14:33! Nikadai is on vacation and folds
+! 01/12/11 13:14:33! mjoseff folds
+! 01/12/11 13:14:33! Eddie Brown folds
+! 01/12/11 13:14:33! Stanley Chow is on vacation and folds
+! 01/12/11 13:23:29! jasong raises $3000 
+! 01/12/11 15:30:43! jennyfar folds
+! 01/12/11 15:30:43! AW Coody folds
+! 01/12/11 15:53:22! b monie raises $13500 and is all in
+! 01/12/11 17:16:37! jasong folds
+! Hand over, no showdown
+! Current board is:  ? ? ? ? ?
+! b monie wins $22500 (net $5100)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|V  Nikadai                  |  69625 |        |13 jan|    |        |
+ 2|   mjoseff                  | 107575 |        |      |    |        |
+ 3|   Eddie Brown              |  49950 |        |      |    |        |
+ 4|V  Stanley Chow             |  27400 |        |<AWOL>|    |        |
+ 5|>  jasong            |  70250 |        |      |    |        |
+ 6|   jennyfar                 |  79800 |        |      |    |        |
+ 7|D  AW Coody                 | 109350 |        |      |    |        |
+ 8|   b monie                  |  22500 |        |      |    |        |
+ 9|   JAvery - VP              |  14250 |        |      |    |        |
+10|   KluelessKid              |  44700 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 562 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c25.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+If you have any problems send mail to floorman20@wrgpt.org.
+
+Live Redraw Status as of 01/12/11 04:55:01 PM
+
+Total Empty Seats: 8
+Total Playing Seats: 562
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org or follow "wrgpt" on Twitter.
+

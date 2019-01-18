@@ -1,0 +1,112 @@
+Subject: [b32.10128] Holdem Game Broadcast Message(*)
+
+! Table b32, Hand 13, Day 8
+
+! BT folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   BTBarney                 |   50700 |       0 |folded|    |         |
+ 2|V  shred the gnar           |   49700 |       0 |<AWOL>|    |         |
+ 3|   Larry Stone              |   46250 |       0 |folded|    |         |
+ 4|D> Jeremiah                 |   44900 |    1150 |      |    |         |
+ 5|V  The Real Deal            |   49550 |      75 | NoSho|    |         |
+ 6|   Don Kirkpatrick          |   53300 |     150 |folded|    |         |
+ 7|   BT                       |   55100 |     450 |folded|    |         |
+ 8|V  Hossein                  |   49775 |       0 |<AWOL>|    |         |
+ 9|   Stefan Dios              |   48900 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/19/18 11:49:49! Dealing a new hand
+! 11/19/18 11:49:49! No ante
+! 11/19/18 11:49:49! The Real Deal blinds $75
+! 11/19/18 11:49:49! Don Kirkpatrick blinds $150
+! 11/19/18 11:52:35! BT calls 
+! 11/19/18 11:52:35! Hossein is on vacation and folds
+! 11/19/18 11:55:01! Stefan Dios folds
+! 11/19/18 11:57:57! BTBarney folds
+! 11/19/18 11:57:57! shred the gnar is on vacation and folds
+! 11/19/18 11:57:57! Larry Stone folds
+! 11/19/18 12:36:47! Jeremiah raises $300 to $450 total 
+! 11/19/18 12:36:47! The Real Deal is on vacation and folds
+! 11/19/18 12:36:47! Don Kirkpatrick folds
+! 11/19/18 12:42:23! BT calls 
+
+! 11/19/18 12:42:23! Pot right ($1125), flopping/dealing/drawing cards
+! 11/19/18 12:42:23! 2 players
+! 11/19/18 12:42:23! Flopped cards: Kc 9h 9d
+! 11/19/18 12:44:11! BT checks
+! 11/19/18 12:45:58! Jeremiah checks
+
+! 11/19/18 12:45:58! Pot right ($1125), flopping/dealing/drawing cards
+! 11/19/18 12:45:58! 2 players
+! 11/19/18 12:45:58! Flopped card: Qh
+! 11/19/18 12:47:33! BT checks
+! 11/19/18 12:48:40! Jeremiah bets $700 
+! 11/19/18 12:50:08! BT folds
+! Hand over, no showdown
+! Current board is:  Kc 9h 9d Qh ?
+! Jeremiah wins $1825 (net $675)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   BTBarney                 |   50700 |         |      |    |         |
+ 2|V  shred the gnar           |   49700 |         |<AWOL>|    |         |
+ 3|   Larry Stone              |   46250 |         |      |    |         |
+ 4|>  Jeremiah                 |   46725 |         |      |    |         |
+ 5|DV The Real Deal            |   49550 |         | NoSho|    |         |
+ 6|   Don Kirkpatrick          |   53300 |         |      |    |         |
+ 7|   BT                       |   55100 |         |      |    |         |
+ 8|V  Hossein                  |   49775 |         |<AWOL>|    |         |
+ 9|   Stefan Dios              |   48900 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 573 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b32.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 3
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

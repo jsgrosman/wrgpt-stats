@@ -1,0 +1,119 @@
+Subject: [b32.10270] Holdem Game Broadcast Message(*)
+
+! Table b32, Hand 30, Day 18
+
+! BTBarney checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   BTBarney                 |   47575 |    5900 |      |    |         |
+ 2|V  shred the gnar           |   49250 |       0 |<AWOL>|    |         |
+ 3|D  Larry Stone              |   46900 |       0 |folded|    |         |
+ 4|>  Jeremiah                 |   39300 |    5900 |      |    |         |
+ 5|V  The Real Deal            |   49025 |     300 | NoSho|    |         |
+ 6|   Don Kirkpatrick          |   51975 |       0 |folded|    |         |
+ 7|   BT                       |   52750 |       0 |folded|    |         |
+ 8|V  Hossein                  |   49100 |       0 |<AWOL>|    |         |
+ 9|   Stefan Dios              |   52025 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/29/18 12:13:36! Dealing a new hand
+! 11/29/18 12:13:36! No ante
+! 11/29/18 12:13:36! Jeremiah blinds $150
+! 11/29/18 12:13:36! The Real Deal blinds $300
+! 11/29/18 12:32:57! Don Kirkpatrick folds
+! 11/29/18 12:32:57! BT folds
+! 11/29/18 12:32:57! Hossein is on vacation and folds
+! 11/29/18 12:32:57! Stefan Dios folds
+! 11/29/18 12:41:42! BTBarney raises $300 to $600 total 
+! 11/29/18 12:41:42! shred the gnar is on vacation and folds
+! 11/29/18 12:41:42! Larry Stone folds
+! 11/29/18 12:54:32! Jeremiah calls 
+! 11/29/18 12:54:32! The Real Deal is on vacation and folds
+
+! 11/29/18 12:54:32! Pot right ($1500), flopping/dealing/drawing cards
+! 11/29/18 12:54:32! 2 players
+! 11/29/18 12:54:32! Flopped cards: 2c 9c 8s
+! 11/29/18 12:55:40! Jeremiah checks
+! 11/29/18 12:56:29! BTBarney bets $600 
+! 11/29/18 13:12:10! Jeremiah raises $1200 to $1800 total 
+! 11/29/18 13:13:06! BTBarney calls 
+
+! 11/29/18 13:13:06! Pot right ($5100), flopping/dealing/drawing cards
+! 11/29/18 13:13:06! 2 players
+! 11/29/18 13:13:06! Flopped card: 6c
+! 11/29/18 13:14:44! Jeremiah bets $3500 
+! 11/29/18 13:21:23! BTBarney calls 
+
+! 11/29/18 13:21:23! Pot right ($12100), flopping/dealing/drawing cards
+! 11/29/18 13:21:23! 2 players
+! 11/29/18 13:21:23! Flopped card: Qc
+! 11/29/18 13:22:45! Jeremiah checks
+! 11/29/18 13:23:25! BTBarney checks
+! Hand over, current board is:  2c 9c 8s 6c Qc
+! BTBarney                 has: 6s 9d
+! Jeremiah                 has: Jh Jc
+! Jeremiah wins $12100 (net $6200) with Club Flush (Q J 9 6 2)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   BTBarney                 |   47575 |         |      |    |         |
+ 2|V  shred the gnar           |   49250 |         |<AWOL>|    |         |
+ 3|   Larry Stone              |   46900 |         |      |    |         |
+ 4|D> Jeremiah                 |   51400 |         |      |    |         |
+ 5|V  The Real Deal            |   49025 |         | NoSho|    |         |
+ 6|   Don Kirkpatrick          |   51975 |         |      |    |         |
+ 7|   BT                       |   52750 |         |      |    |         |
+ 8|V  Hossein                  |   49100 |         |<AWOL>|    |         |
+ 9|   Stefan Dios              |   52025 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 548 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b32.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 10
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

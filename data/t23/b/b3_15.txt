@@ -1,0 +1,119 @@
+Message-Id: <201311291306.rATD6hdt024253@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [b3.10214] Holdem Game Broadcast Message(*)                          
+
+! Table b3, Hand 15, Day 19
+
+! Jose Aguas checks
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   jfholmes                 |      0 |   3900 |all-in|  3 |  15800 |
+ 2|   jsw                      |  55800 |      0 |folded|    |        |
+ 3|   Scooter                  |  30600 |      0 |folded|    |        |
+ 4|   Fryday                   |  17225 |      0 |folded|    |        |
+ 5|D  Jose Aguas               |  37425 |   6200 |      |  2 |   4600 |
+ 6|   beowulf                  |  25475 |   3900 |folded|    |        |
+ 7|   jasong            |  39050 |    200 |folded|    |        |
+ 8|>  Oldbear                  |  13375 |   6200 |      |  2 |   4600 |
+ 9|   shaerinck                |  30800 |      0 |folded|    |        |
+10|V  Late Entry 7             |  29850 |      0 |  AWOL|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 11/27/13 15:21:55! Dealing a new hand
+! 11/27/13 15:21:55! No ante
+! 11/27/13 15:21:55! beowulf blinds $100
+! 11/27/13 15:21:55! jasong blinds $200
+! 11/27/13 15:32:16! Oldbear raises $400 
+! 11/27/13 16:41:17! shaerinck folds
+! 11/27/13 16:41:17! Late Entry 7 is on vacation and folds
+! 11/27/13 16:41:17! jfholmes raises $3300 and is all in
+! 11/27/13 16:41:17! jsw folds
+! 11/27/13 16:41:17! Scooter folds
+! 11/27/13 16:41:17! Fryday folds
+! 11/27/13 17:25:12! Jose Aguas calls 
+! 11/28/13 01:43:00! beowulf calls 
+! 11/28/13 08:40:53! jasong folds
+! 11/28/13 12:38:25! Oldbear calls 
+
+! 11/28/13 12:38:25! Pot right ($15800), flopping/dealing/drawing cards
+! 11/28/13 12:38:25! 4 players, 1 all in
+! 11/28/13 12:38:25! Flopped cards: 9c Kc 5c
+! 11/28/13 12:42:10! beowulf checks
+! 11/28/13 12:43:14! Oldbear checks
+! 11/28/13 13:51:50! Jose Aguas bets $2300 
+! 11/28/13 13:51:50! beowulf folds
+! 11/28/13 14:28:56! Oldbear calls 
+
+! 11/28/13 14:28:56! Pot right ($20400), flopping/dealing/drawing cards
+! 11/28/13 14:28:56! 3 players, 1 all in
+! 11/28/13 14:28:56! Flopped card: 8h
+! 11/28/13 14:33:26! Oldbear checks
+! 11/28/13 14:37:36! Jose Aguas checks
+
+! 11/28/13 14:37:36! Pot right ($20400), flopping/dealing/drawing cards
+! 11/28/13 14:37:36! 3 players, 1 all in
+! 11/28/13 14:37:36! Flopped card: Kh
+! 11/28/13 15:10:16! Oldbear checks
+! 11/29/13 05:06:42! Jose Aguas checks
+! Hand over, current board is:  9c Kc 5c 8h Kh
+! jfholmes                 has: Js Jc
+! Jose Aguas               has: As 7s
+! Oldbear                  has: Ks 10h
+! Pot 2: Oldbear wins $4600 with Three of a Kind (K K K 10 9)
+! Pot 3: Oldbear wins $15800 with Three of a Kind (K K K 10 9)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 2|   jsw                      |  55800 |        |      |    |        |
+ 3|   Scooter                  |  30600 |        |      |    |        |
+ 4|   Fryday                   |  17225 |        |      |    |        |
+ 5|   Jose Aguas               |  37425 |        |      |    |        |
+ 6|D  beowulf                  |  25475 |        |      |    |        |
+ 7|   jasong            |  39050 |        |      |    |        |
+ 8|>  Oldbear                  |  33775 |        |      |    |        |
+ 9|   shaerinck                |  30800 |        |      |    |        |
+10|V  Late Entry 7             |  29850 |        |  AWOL|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! jfholmes is eliminated!
+! 895 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b3.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+This is the REAL WRGPT23.
+
+REMEMBER: You only get FOUR hours to act this year in your office day.
+
+Here is a link to the railbird mailing list:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman23@wrgpt.org.
+
+Live Redraw Status as of 11/29/13 04:55:02 AM
+
+Total Empty Seats: 24
+Total Playing Seats: 896
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

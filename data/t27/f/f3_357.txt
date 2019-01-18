@@ -1,0 +1,121 @@
+
+! Table f3, Hand 357, Day 171
+
+! GKinz54 raises $331875 to $575475 total and is all in
+! Pot right ($874075), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped cards: 5s Kd Ac
+! Flopped card: Kc
+! Flopped card: 5c
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D> GKinz54                  |       0 |  578475 |all-in|  1 |  331875 |
+ 2|   Poker Dog                |  862525 |   28000 |folded|    |         |
+ 3|   Ed Baker                 |       0 |  246600 |all-in|  2 |  542200 |
+ 4|   StingRay                 | 3927300 |    3000 |folded|    |         |
+ 5|   NS                       |  785500 |    3000 |folded|    |         |
+ 6|   rtroll                   | 1116800 |    3000 |folded|    |         |
+ 7|   Bwana                    | 2433375 |    3000 |folded|    |         |
+ 8|   SCSI                     |  606150 |    3000 |folded|    |         |
+ 9|   Dman                     |  300400 |    3000 |folded|    |         |
+10|   jasong            | 1365900 |    3000 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 04/10/18 14:55:05! Dealing a new hand
+! 04/10/18 14:55:05! Everyone antes $3000
+! 04/10/18 14:55:05! Poker Dog blinds $25000
+! 04/10/18 14:55:05! Ed Baker blinds $50000
+! 04/10/18 15:10:00! StingRay folds
+! 04/10/18 15:50:33! NS folds
+! 04/10/18 16:29:35! rtroll folds
+! 04/10/18 16:29:35! Bwana folds
+! 04/10/18 16:31:58! SCSI folds
+! 04/11/18 07:46:43! Dman folds
+! 04/11/18 07:46:43! jasong folds
+! 04/11/18 08:17:22! GKinz54 raises $52000 to $102000 total 
+! 04/11/18 08:24:32! Poker Dog folds
+! 04/11/18 08:33:43! Ed Baker raises $141600 to $243600 total and is all in
+! 04/11/18 08:35:59! GKinz54 raises $331875 to $575475 total and is all in
+
+! 04/11/18 08:35:59! Pot right ($874075), flopping/dealing/drawing cards
+! 04/11/18 08:35:59! 2 players, 2 all in
+! 04/11/18 08:35:59! Flopped cards: 5s Kd Ac
+! 04/11/18 08:35:59! Flopped card: Kc
+! 04/11/18 08:35:59! Flopped card: 5c
+! Hand over, current board is:  5s Kd Ac Kc 5c
+! GKinz54                  has: Qs 10h
+! Ed Baker                 has: 7s 6s
+! Pot 1: uncalled $331875 returned to GKinz54
+! Pot 2: GKinz54 wins $271100 with Two Pair (K K 5 5 A)
+! Pot 2: Ed Baker wins $271100 with Two Pair (K K 5 5 A)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  GKinz54                  |  602975 |         |      |    |         |
+ 2|D  Poker Dog                |  862525 |         |      |    |         |
+ 3|   Ed Baker                 |  271100 |         |      |    |         |
+ 4|   StingRay                 | 3927300 |         |      |    |         |
+ 5|   NS                       |  785500 |         |      |    |         |
+ 6|   rtroll                   | 1116800 |         |      |    |         |
+ 7|   Bwana                    | 2433375 |         |      |    |         |
+ 8|   SCSI                     |  606150 |         |      |    |         |
+ 9|   Dman                     |  300400 |         |      |    |         |
+10|   jasong            | 1365900 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 26 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/f/f3.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+However, if there were prizes they would pay the top 63 entrants.
+The standings are now showing theoretical prizes if WRGPT were a
+10k event.
+
+======
+
+Live Redraw Status as of 04/11/18 08:25:01 AM
+
+Total Empty Seats: 3
+Total Playing Seats: 26
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman27@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

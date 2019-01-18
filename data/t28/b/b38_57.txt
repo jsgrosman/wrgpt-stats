@@ -1,0 +1,120 @@
+Subject: [b38.10717] Holdem Game Broadcast Message(*)
+
+! Table b38, Hand 57, Day 55
+
+! T4 calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   SCM                      |   50475 |      50 |folded|    |         |
+ 2|   SunnyGirl                |   56900 |    1150 |folded|    |         |
+ 3|D  JoseRijo                 |   45125 |      50 |folded|    |         |
+ 4|   underdog                 |   34250 |    1150 |folded|    |         |
+ 5|   JK                       |   60025 |    1150 |folded|    |         |
+ 6|>  Krushinski               |    9350 |   20150 |      |    |         |
+ 7|   Jeff Palmucci            |   83975 |      50 |folded|    |         |
+ 8|   Crunch                   |   45200 |      50 |folded|    |         |
+ 9|   T4                       |   20750 |   20150 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/03/19 10:40:57! Dealing a new hand
+! 01/03/19 10:40:57! Everyone antes $50
+! 01/03/19 10:40:57! underdog blinds $200
+! 01/03/19 10:40:57! JK blinds $400
+! 01/03/19 12:24:31! JK is back from vacation
+! 01/03/19 13:15:58! Krushinski calls 
+! 01/03/19 13:15:58! Jeff Palmucci folds
+! 01/03/19 13:15:58! Crunch folds
+! 01/03/19 13:37:07! T4 raises $700 to $1100 total 
+! 01/03/19 13:37:07! SCM folds
+! 01/03/19 13:37:37! SunnyGirl calls 
+! 01/03/19 14:05:26! JoseRijo folds
+! 01/03/19 14:08:40! underdog calls 
+! 01/03/19 14:38:32! JK calls 
+! 01/03/19 17:55:57! Krushinski calls 
+
+! 01/03/19 17:55:57! Pot right ($5950), flopping/dealing/drawing cards
+! 01/03/19 17:55:57! 5 players
+! 01/03/19 17:55:57! Flopped cards: 3s 4d 4c
+! 01/03/19 20:14:14! underdog checks
+! 01/04/19 06:27:04! JK checks
+! 01/04/19 15:53:51! Krushinski checks
+! 01/04/19 20:04:20! T4 bets $4500 
+! 01/05/19 00:42:50! SunnyGirl folds
+! 01/05/19 03:58:37! underdog folds
+! 01/05/19 04:04:56! JK folds
+! 01/05/19 09:19:40! Krushinski calls 
+
+! 01/05/19 09:19:40! Pot right ($14950), flopping/dealing/drawing cards
+! 01/05/19 09:19:40! 2 players
+! 01/05/19 09:19:40! Flopped card: 5d
+! 01/05/19 09:20:30! Krushinski bets $4500 
+! 01/05/19 09:38:38! T4 calls 
+
+! 01/05/19 09:38:38! Pot right ($23950), flopping/dealing/drawing cards
+! 01/05/19 09:38:38! 2 players
+! 01/05/19 09:38:38! Flopped card: 2s
+! 01/05/19 09:50:03! Krushinski bets $10000 
+! 01/05/19 10:08:17! T4 calls 
+! Hand over, current board is:  3s 4d 4c 5d 2s
+! Krushinski               has: Ah 2c
+! T4                       has: 8s 8h
+! Krushinski wins $43950 (net $23800) with Straight (5 4 3 2 A)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   SCM                      |   50475 |         |      |    |         |
+ 2|   SunnyGirl                |   56900 |         |      |    |         |
+ 3|   JoseRijo                 |   45125 |         |      |    |         |
+ 4|D  underdog                 |   34250 |         |      |    |         |
+ 5|   JK                       |   60025 |         |      |    |         |
+ 6|>  Krushinski               |   53300 |         |      |    |         |
+ 7|   Jeff Palmucci            |   83975 |         |      |    |         |
+ 8|   Crunch                   |   45200 |         |      |    |         |
+ 9|   T4                       |   20750 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 397 players left in the tournament 
+! Table finished, waiting to redraw seats.
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b38.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+The "b" round is ending.  All tables will finish the 
+current hand then there will be a full redraw to 
+new tables for the "c" round.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 35
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

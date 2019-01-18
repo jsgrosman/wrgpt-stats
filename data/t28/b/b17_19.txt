@@ -1,0 +1,122 @@
+Subject: [b17.10311] Holdem Game Broadcast Message(*)
+
+! Table b17, Hand 19, Day 17
+
+! Sandy calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  John Bernstein           |   41800 |       0 |folded|    |         |
+ 2|   Sandy                    |   43550 |    2825 |      |    |         |
+ 3|   Mike DellaBarca          |   42225 |     300 |folded|    |         |
+ 4|   Baldy                    |   84700 |       0 |folded|    |         |
+ 5|   shinsook                 |   50075 |       0 |folded|    |         |
+ 6|>  Kahomono                 |   53400 |    2825 |      |    |         |
+ 7|   Wit                      |   55350 |       0 |folded|    |         |
+ 8|   Mark Lemon               |   48925 |       0 |folded|    |         |
+ 9|   crush_me                 |   24025 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/27/18 14:39:19! Dealing a new hand
+! 11/27/18 14:39:19! No ante
+! 11/27/18 14:39:19! Sandy blinds $150
+! 11/27/18 14:39:19! Mike DellaBarca blinds $300
+! 11/27/18 14:43:59! Baldy folds
+! 11/27/18 15:51:13! shinsook folds
+! 11/27/18 16:13:38! Kahomono calls 
+! 11/27/18 16:13:38! Wit folds
+! 11/27/18 16:13:38! Mark Lemon folds
+! 11/27/18 16:13:38! crush_me folds
+! 11/27/18 16:13:38! John Bernstein folds
+! 11/27/18 16:27:55! Sandy calls 
+! 11/27/18 21:08:52! Mike DellaBarca checks
+
+! 11/27/18 21:08:52! Pot right ($900), flopping/dealing/drawing cards
+! 11/27/18 21:08:52! 3 players
+! 11/27/18 21:08:52! Flopped cards: 3h 9d Kc
+! 11/28/18 05:56:09! Sandy checks
+! 11/28/18 05:56:09! Mike DellaBarca checks
+! 11/28/18 05:56:57! Kahomono checks
+
+! 11/28/18 05:56:57! Pot right ($900), flopping/dealing/drawing cards
+! 11/28/18 05:56:57! 3 players
+! 11/28/18 05:56:57! Flopped card: Qc
+! 11/28/18 06:01:06! Sandy checks
+! 11/28/18 06:01:06! Mike DellaBarca checks
+! 11/28/18 06:01:57! Kahomono bets $675 
+! 11/28/18 06:33:07! Sandy calls 
+! 11/28/18 06:33:07! Mike DellaBarca folds
+
+! 11/28/18 06:33:07! Pot right ($2250), flopping/dealing/drawing cards
+! 11/28/18 06:33:07! 2 players
+! 11/28/18 06:33:07! Flopped card: Ac
+! 11/28/18 06:33:59! Sandy checks
+! 11/28/18 06:34:57! Kahomono bets $1850 
+! 11/28/18 06:55:30! Sandy calls 
+! Hand over, current board is:  3h 9d Kc Qc Ac
+! Sandy                    has: As 4c
+! Kahomono                 has: 5h 6d
+! Sandy wins $5950 (net $3125) with One Pair (A A K Q 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   John Bernstein           |   41800 |         |      |    |         |
+ 2|D  Sandy                    |   49500 |         |      |    |         |
+ 3|   Mike DellaBarca          |   42225 |         |      |    |         |
+ 4|   Baldy                    |   84700 |         |      |    |         |
+ 5|   shinsook                 |   50075 |         |      |    |         |
+ 6|>  Kahomono                 |   53400 |         |      |    |         |
+ 7|   Wit                      |   55350 |         |      |    |         |
+ 8|   Mark Lemon               |   48925 |         |      |    |         |
+ 9|   crush_me                 |   24025 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 553 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b17.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 5
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

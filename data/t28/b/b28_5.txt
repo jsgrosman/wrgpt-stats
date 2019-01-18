@@ -1,0 +1,123 @@
+Subject: [b28.10074] Holdem Game Broadcast Message(*)
+
+! Table b28, Hand 5, Day 4
+
+! Bobby Luckbox checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Dan Driscoll             |   49700 |       0 |folded|    |         |
+ 2|   CardRunner               |   50450 |       0 |folded|    |         |
+ 3|   Bobby Luckbox            |   48175 |    2125 |      |    |         |
+ 4|   Ira Agins                |   49775 |       0 |folded|    |         |
+ 5|D  funjon                   |   56175 |       0 |folded|    |         |
+ 6|   DazedAndConfused         |   49475 |      75 |folded|    |         |
+ 7|   Matt Matros              |   48475 |     350 |folded|    |         |
+ 8|   Mark Horn                |   50000 |       0 |folded|    |         |
+ 9|>  rbmoore                  |   43100 |    2125 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/15/18 01:43:27! Dealing a new hand
+! 11/15/18 01:43:27! No ante
+! 11/15/18 01:43:27! DazedAndConfused blinds $75
+! 11/15/18 01:43:27! Matt Matros blinds $150
+! 11/15/18 06:17:10! Mark Horn folds
+! 11/15/18 06:18:37! rbmoore calls 
+! 11/15/18 10:20:02! Dan Driscoll folds
+! 11/15/18 10:20:02! CardRunner folds
+! 11/15/18 10:54:33! Bobby Luckbox raises $200 to $350 total 
+! 11/15/18 10:54:33! Ira Agins folds
+! 11/15/18 10:55:37! funjon folds
+! 11/15/18 10:55:37! DazedAndConfused folds
+! 11/15/18 11:06:36! Matt Matros calls 
+! 11/15/18 11:14:36! rbmoore calls 
+
+! 11/15/18 11:14:36! Pot right ($1125), flopping/dealing/drawing cards
+! 11/15/18 11:14:36! 3 players
+! 11/15/18 11:14:36! Flopped cards: Kh 6c 3h
+! 11/15/18 11:15:39! Matt Matros checks
+! 11/15/18 11:19:16! rbmoore checks
+! 11/15/18 11:29:34! Bobby Luckbox bets $625 
+! 11/15/18 11:31:34! Matt Matros folds
+! 11/15/18 12:40:28! rbmoore calls 
+
+! 11/15/18 12:40:28! Pot right ($2375), flopping/dealing/drawing cards
+! 11/15/18 12:40:28! 2 players
+! 11/15/18 12:40:28! Flopped card: 3d
+! 11/15/18 12:46:44! rbmoore checks
+! 11/15/18 12:50:16! Bobby Luckbox bets $1150 
+! 11/15/18 12:50:55! rbmoore calls 
+
+! 11/15/18 12:50:55! Pot right ($4675), flopping/dealing/drawing cards
+! 11/15/18 12:50:55! 2 players
+! 11/15/18 12:50:55! Flopped card: 4h
+! 11/15/18 12:52:22! rbmoore checks
+! 11/15/18 12:53:42! Bobby Luckbox checks
+! Hand over, current board is:  Kh 6c 3h 3d 4h
+! Bobby Luckbox            has: Qh Jc
+! rbmoore                  has: Kc 8c
+! rbmoore wins $4675 (net $2550) with Two Pair (K K 3 3 8)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Dan Driscoll             |   49700 |         |      |    |         |
+ 2|   CardRunner               |   50450 |         |      |    |         |
+ 3|   Bobby Luckbox            |   48175 |         |      |    |         |
+ 4|   Ira Agins                |   49775 |         |      |    |         |
+ 5|   funjon                   |   56175 |         |      |    |         |
+ 6|D  DazedAndConfused         |   49475 |         |      |    |         |
+ 7|   Matt Matros              |   48475 |         |      |    |         |
+ 8|   Mark Horn                |   50000 |         |      |    |         |
+ 9|>  rbmoore                  |   47775 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Dan Driscoll timed out during this hand
+! 585 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b28.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 11
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

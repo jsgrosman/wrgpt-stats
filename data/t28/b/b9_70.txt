@@ -1,0 +1,110 @@
+Subject: [b9.10875] Holdem Game Broadcast Message(*)
+
+! Table b9, Hand 70, Day 54
+
+! Jeff Goff checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   drjeys                   |   58600 |      50 |folded|    |         |
+ 2|D  BrownTrout               |   66375 |      50 |folded|    |         |
+ 3|   J. Michael Robertson     |   34875 |     250 |folded|    |         |
+ 4|>  Spidurman                |  122075 |    1250 |      |    |         |
+ 5|   Ed Fernandez             |   93400 |      50 |folded|    |         |
+ 6|   Jeff Goff                |   31475 |    1250 |      |    |         |
+ 8|   danthefan                |   81275 |      50 |folded|    |         |
+ 9|   indiansquib              |   56350 |      50 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/04/19 10:42:46! Dealing a new hand
+! 01/04/19 10:42:46! Everyone antes $50
+! 01/04/19 10:42:46! J. Michael Robertson blinds $200
+! 01/04/19 10:42:46! Spidurman blinds $400
+! 01/04/19 11:13:30! Ed Fernandez folds
+! 01/04/19 11:13:30! Jeff Goff calls 
+! 01/04/19 11:13:30! danthefan folds
+! 01/04/19 11:13:30! indiansquib folds
+! 01/04/19 15:14:02! drjeys folds
+! 01/04/19 15:14:02! BrownTrout folds
+! 01/04/19 15:14:02! J. Michael Robertson folds
+! 01/04/19 15:49:36! Spidurman checks
+
+! 01/04/19 15:49:36! Pot right ($1400), flopping/dealing/drawing cards
+! 01/04/19 15:49:36! 2 players
+! 01/04/19 15:49:36! Flopped cards: 5s 10h 2h
+! 01/04/19 15:49:50! Spidurman checks
+! 01/04/19 16:15:15! Jeff Goff checks
+
+! 01/04/19 16:15:15! Pot right ($1400), flopping/dealing/drawing cards
+! 01/04/19 16:15:15! 2 players
+! 01/04/19 16:15:15! Flopped card: 9d
+! 01/04/19 16:49:28! Spidurman checks
+! 01/04/19 17:13:45! Jeff Goff bets $800 
+! 01/04/19 17:38:42! Spidurman calls 
+
+! 01/04/19 17:38:42! Pot right ($3000), flopping/dealing/drawing cards
+! 01/04/19 17:38:42! 2 players
+! 01/04/19 17:38:42! Flopped card: Js
+! 01/04/19 17:38:56! Spidurman checks
+! 01/04/19 18:03:19! Jeff Goff checks
+! Hand over, current board is:  5s 10h 2h 9d Js
+! Spidurman                has: Ks Qd
+! Jeff Goff                has: As 9h
+! Spidurman wins $3000 (net $1750) with Straight (K Q J 10 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   drjeys                   |   58600 |         |      |    |         |
+ 2|   BrownTrout               |   66375 |         |      |    |         |
+ 3|D  J. Michael Robertson     |   34875 |         |      |    |         |
+ 4|>  Spidurman                |  125075 |         |      |    |         |
+ 5|   Ed Fernandez             |   93400 |         |      |    |         |
+ 6|   Jeff Goff                |   31475 |         |      |    |         |
+ 8|   danthefan                |   81275 |         |      |    |         |
+ 9|   indiansquib              |   56350 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 397 players left in the tournament 
+! Table finished, waiting to redraw seats.
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b9.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+The "b" round is ending.  All tables will finish the 
+current hand then there will be a full redraw to 
+new tables for the "c" round.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 34
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

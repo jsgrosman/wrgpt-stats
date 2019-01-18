@@ -1,0 +1,113 @@
+
+! Table j1, Hand 422, Day 184
+
+! Dman folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Stephen Mack             | 2338500 |    5000 |folded|    |         |
+ 2|   Lets Go Red Sox          | 3188275 |    5000 |folded|    |         |
+ 3|   rtroll                   | 1504600 |    5000 |folded|    |         |
+ 4|D  StingRay                 | 7536000 |    5000 |folded|    |         |
+ 5|   LektorAJ                 | 1457500 |   55000 |folded|    |         |
+ 6|   Dman                     |  259600 |  255000 |folded|    |         |
+ 7|>  Doctor Worm              | 2389275 |  555000 |      |    |         |
+ 8|   jasong            | 4769350 |  255000 |folded|    |         |
+ 9|   Bwana                    | 1487375 |    5000 |folded|    |         |
+10|   Quiet Lion               | 1123200 |    5000 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 04/24/18 07:29:57! Dealing a new hand
+! 04/24/18 07:29:57! Everyone antes $5000
+! 04/24/18 07:29:57! LektorAJ blinds $50000
+! 04/24/18 07:29:57! Dman blinds $100000
+! 04/24/18 07:40:10! Doctor Worm raises $150000 to $250000 total 
+! 04/24/18 08:36:26! jasong calls 
+! 04/24/18 09:55:54! Bwana folds
+! 04/24/18 09:55:54! Quiet Lion folds
+! 04/24/18 10:18:38! Stephen Mack folds
+! 04/24/18 10:18:38! Lets Go Red Sox folds
+! 04/24/18 10:18:38! rtroll folds
+! 04/24/18 10:18:38! StingRay folds
+! 04/24/18 10:18:38! LektorAJ folds
+! 04/24/18 10:20:40! Dman calls 
+
+! 04/24/18 10:20:40! Pot right ($850000), flopping/dealing/drawing cards
+! 04/24/18 10:20:40! 3 players
+! 04/24/18 10:20:40! Flopped cards: 9s 8s 6s
+! 04/24/18 10:49:58! Dman checks
+! 04/24/18 11:19:38! Doctor Worm bets $300000 
+! 04/24/18 11:26:01! jasong folds
+! 04/24/18 12:58:07! Dman folds
+! Hand over, no showdown
+! Current board is:  9s 8s 6s ? ?
+! Doctor Worm wins $1150000 (net $595000)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Stephen Mack             | 2338500 |         |      |    |         |
+ 2|   Lets Go Red Sox          | 3188275 |         |      |    |         |
+ 3|   rtroll                   | 1504600 |         |      |    |         |
+ 4|   StingRay                 | 7536000 |         |      |    |         |
+ 5|D  LektorAJ                 | 1457500 |         |      |    |         |
+ 6|   Dman                     |  259600 |         |      |    |         |
+ 7|>  Doctor Worm              | 3539275 |         |      |    |         |
+ 8|   jasong            | 4769350 |         |      |    |         |
+ 9|   Bwana                    | 1487375 |         |      |    |         |
+10|   Quiet Lion               | 1123200 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/j/j1.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+However, if there were prizes they would pay the top 63 entrants.
+The standings are now showing theoretical prizes if WRGPT were a
+10k event.
+
+======
+
+Live Redraw Status as of 04/24/18 12:55:02 PM
+
+Total Empty Seats: 0
+Total Playing Seats: 10
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman27@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

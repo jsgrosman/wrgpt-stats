@@ -1,0 +1,110 @@
+
+! Table b29, Hand 79, Day 54
+
+! Ben Buchwald folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   asypta                   |   74350 |      50 |folded|    |         |
+ 2|D  Bernie                   |   88600 |      50 |folded|    |         |
+ 3|   fich                     |  162475 |     250 |folded|    |         |
+ 5|   jasong            |   96750 |     450 |folded|    |         |
+ 6|>  CPROG                    |   49950 |    6050 |      |    |         |
+ 7|   Ben Buchwald             |   57600 |    2550 |folded|    |         |
+ 8|   Deryl Garland            |   58275 |      50 |folded|    |         |
+ 9|   Paul Ant                 |  115525 |      50 |folded|    |         |
+10|   Courtney Brennan         |   32100 |      50 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/14/17 18:50:12! Dealing a new hand
+! 12/14/17 18:50:12! Everyone antes $50
+! 12/14/17 18:50:12! fich blinds $200
+! 12/14/17 18:50:12! jasong blinds $400
+! 12/14/17 19:48:50! CPROG calls 
+! 12/14/17 19:48:50! Ben Buchwald raises $2100 
+! 12/14/17 19:48:50! Deryl Garland folds
+! 12/14/17 23:36:01! Paul Ant folds
+! 12/14/17 23:36:01! Courtney Brennan folds
+! 12/15/17 06:51:56! asypta folds
+! 12/15/17 06:51:56! Bernie folds
+! 12/15/17 06:51:56! fich folds
+! 12/15/17 06:51:56! jasong folds
+! 12/15/17 09:29:31! CPROG calls 
+
+! 12/15/17 09:29:31! Pot right ($6050), flopping/dealing/drawing cards
+! 12/15/17 09:29:31! 2 players
+! 12/15/17 09:29:31! Flopped cards: 3c As Kh
+! 12/15/17 09:31:01! CPROG bets $3500 
+! 12/15/17 09:56:04! Ben Buchwald folds
+! Hand over, no showdown
+! Current board is:  3c As Kh ? ?
+! CPROG wins $9550 (net $3500)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   asypta                   |   74350 |         |      |    |         |
+ 2|   Bernie                   |   88600 |         |      |    |         |
+ 3|D  fich                     |  162475 |         |      |    |         |
+ 5|   jasong            |   96750 |         |      |    |         |
+ 6|>  CPROG                    |   59500 |         |      |    |         |
+ 7|   Ben Buchwald             |   57600 |         |      |    |         |
+ 8|   Deryl Garland            |   58275 |         |      |    |         |
+ 9|   Paul Ant                 |  115525 |         |      |    |         |
+10|   Courtney Brennan         |   32100 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 423 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b29.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+The entire round 'b' will be redrawn as soon as any 
+table gets down to five or fewer players.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Live Redraw Status as of 12/15/17 09:55:02 AM
+
+Total Empty Seats: 57
+Total Playing Seats: 423
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman27@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

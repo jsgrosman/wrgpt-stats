@@ -1,0 +1,118 @@
+
+! Table c5, Hand 164, Day 99
+
+! SwamperShirley calls 
+! Pot right ($137100), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 2c
+! Flopped card: Qc
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  SwamperShirley           |   23900 |   64950 |      |    |         |
+ 2|   swamperflaco             |   94925 |     400 |folded|    |         |
+ 3|   Deuce Seven Off Suit     |   21925 |     400 |folded|    |         |
+ 4|   jasong            |  280250 |     400 |folded|    |         |
+ 5|D  MrTiggerGolf             |  113500 |     400 |folded|    |         |
+ 7|   Pete Nerozzi             |   68300 |    2000 |folded|    |         |
+ 8|   ArikK                    |  224800 |    3600 |folded|    |         |
+ 9|   Feed the Herd            |       0 |   64950 |all-in|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/29/18 07:23:38! Dealing a new hand
+! 01/29/18 07:23:38! Everyone antes $400
+! 01/29/18 07:23:38! Pete Nerozzi blinds $1600
+! 01/29/18 07:23:38! ArikK blinds $3200
+! 01/29/18 08:04:03! Feed the Herd raises $38800 to $42000 total 
+! 01/29/18 08:17:02! SwamperShirley calls 
+! 01/29/18 08:33:30! swamperflaco folds
+! 01/29/18 10:49:55! Deuce Seven Off Suit folds
+! 01/29/18 10:49:55! jasong folds
+! 01/29/18 11:03:07! MrTiggerGolf folds
+! 01/29/18 11:04:05! Pete Nerozzi folds
+! 01/29/18 11:04:05! ArikK folds
+
+! 01/29/18 11:04:05! Pot right ($92000), flopping/dealing/drawing cards
+! 01/29/18 11:04:05! 2 players
+! 01/29/18 11:04:05! Flopped cards: 2s 6d 3s
+! 01/29/18 14:39:06! Feed the Herd bets $22550 and is all in
+! 01/29/18 15:19:15! SwamperShirley calls 
+
+! 01/29/18 15:19:15! Pot right ($137100), flopping/dealing/drawing cards
+! 01/29/18 15:19:15! 2 players, 1 all in
+! 01/29/18 15:19:15! Flopped card: 2c
+! 01/29/18 15:19:15! Flopped card: Qc
+! Hand over, current board is:  2s 6d 3s 2c Qc
+! SwamperShirley           has: Ah Kc
+! Feed the Herd            has: Kh Kd
+! Feed the Herd wins $137100 (net $72150) with Two Pair (K K 2 2 Q)
+! MrTiggerGolf             reveals  As 10c
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  SwamperShirley           |   23900 |         |      |    |         |
+ 2|   swamperflaco             |   94925 |         |      |    |         |
+ 3|   Deuce Seven Off Suit     |   21925 |         |      |    |         |
+ 4|   jasong            |  280250 |         |      |    |         |
+ 5|   MrTiggerGolf             |  113500 |         |      |    |         |
+ 7|D  Pete Nerozzi             |   68300 |         |      |    |         |
+ 8|   ArikK                    |  224800 |         |      |    |         |
+ 9|   Feed the Herd            |  137100 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 220 players left in the tournament, 4 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c5.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+We have gone 30 days in the "c" round so there will be no more 
+live redraws.  As soon as a table gets to five or fewer players 
+all tables will complete their current hand then a full redraw 
+will be made to the "d" round.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Live Redraw Status as of 01/29/18 02:55:01 PM
+
+Total Empty Seats: 60
+Total Playing Seats: 220
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman27@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

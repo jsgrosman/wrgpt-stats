@@ -1,0 +1,131 @@
+Subject: [b36.10312] Holdem Game Broadcast Message(*)
+
+! Table b36, Hand 20, Day 20
+
+! glorphy calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   glorphy                  |   30050 |    9350 |      |    |         |
+ 2|   Bugsy                    |   47075 |       0 |folded|    |         |
+ 3|D> Big Bobby Dollar         |  104975 |    9350 |      |    |         |
+ 4|   P0k3Y                    |  118425 |     150 |folded|    |         |
+ 5|   Blind Owl                |   48025 |     750 |folded|    |         |
+ 6|V  rcheney                  |   47150 |       0 |<AWOL>|    |         |
+ 7|   Swamper_Shirley          |   37450 |     300 |folded|    |         |
+ 8|   pocketaces               |   48750 |     750 |folded|    |         |
+ 9|   Rollo                    |   38725 |    2850 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/30/18 03:55:48! Dealing a new hand
+! 11/30/18 03:55:48! No ante
+! 11/30/18 03:55:48! P0k3Y blinds $150
+! 11/30/18 03:55:48! Blind Owl blinds $300
+! 11/30/18 03:55:48! rcheney is on vacation and folds
+! 11/30/18 05:36:48! Swamper_Shirley calls 
+! 11/30/18 07:27:45! pocketaces calls 
+! 11/30/18 07:27:45! Rollo calls 
+! 11/30/18 07:31:33! glorphy calls 
+! 11/30/18 07:31:33! Bugsy folds
+! 11/30/18 07:32:13! Big Bobby Dollar raises $450 to $750 total 
+! 11/30/18 07:35:49! P0k3Y folds
+! 11/30/18 07:35:49! Blind Owl calls 
+! 11/30/18 09:32:53! Swamper_Shirley folds
+! 11/30/18 09:39:37! pocketaces calls 
+! 11/30/18 09:40:33! Rollo calls 
+! 11/30/18 10:01:03! glorphy calls 
+
+! 11/30/18 10:01:03! Pot right ($4200), flopping/dealing/drawing cards
+! 11/30/18 10:01:03! 5 players
+! 11/30/18 10:01:03! Flopped cards: 5d Qh 10c
+! 11/30/18 12:00:12! Blind Owl checks
+! 11/30/18 12:48:28! pocketaces checks
+! 11/30/18 12:49:12! Rollo bets $2100 
+! 11/30/18 12:52:38! glorphy calls 
+! 11/30/18 12:53:23! Big Bobby Dollar calls 
+! 11/30/18 15:19:15! Blind Owl folds
+! 11/30/18 20:04:14! pocketaces folds
+
+! 11/30/18 20:04:14! Pot right ($10500), flopping/dealing/drawing cards
+! 11/30/18 20:04:14! 3 players
+! 11/30/18 20:04:14! Flopped card: 9s
+! 11/30/18 21:51:32! Rollo checks
+! 11/30/18 22:16:09! glorphy checks
+! 12/01/18 05:02:11! Big Bobby Dollar bets $3300 
+! 12/01/18 07:03:45! Rollo folds
+! 12/01/18 16:12:34! glorphy calls 
+
+! 12/01/18 16:12:34! Pot right ($17100), flopping/dealing/drawing cards
+! 12/01/18 16:12:34! 2 players
+! 12/01/18 16:12:34! Flopped card: Kc
+! 12/01/18 16:13:13! glorphy checks
+! 12/01/18 16:55:17! Big Bobby Dollar bets $3200 
+! 12/01/18 17:16:56! glorphy calls 
+! Hand over, current board is:  5d Qh 10c 9s Kc
+! glorphy                  has: Jh 9h
+! Big Bobby Dollar         has: Jd 9d
+! glorphy wins $11750 (net $2400) with Straight (K Q J 10 9)
+! Big Bobby Dollar wins $11750 (net $2400) with Straight (K Q J 10 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   glorphy                  |   41800 |         |      |    |         |
+ 2|   Bugsy                    |   47075 |         |      |    |         |
+ 3|>  Big Bobby Dollar         |  116725 |         |      |    |         |
+ 4|D  P0k3Y                    |  118425 |         |      |    |         |
+ 5|   Blind Owl                |   48025 |         |      |    |         |
+ 6|V  rcheney                  |   47150 |         |<AWOL>|    |         |
+ 7|   Swamper_Shirley          |   37450 |         |      |    |         |
+ 8|   pocketaces               |   48750 |         |      |    |         |
+ 9|   Rollo                    |   38725 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 532 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b36.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

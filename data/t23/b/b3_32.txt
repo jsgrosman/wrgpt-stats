@@ -1,0 +1,122 @@
+Message-Id: <201312191655.rBJGte9M012255@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [b3.10451] Holdem Game Broadcast Message(*)                          
+
+! Table b3, Hand 32, Day 39
+
+! jsw calls 
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Jim Sokoloff             |  28075 |      0 |folded|    |        |
+ 2|V  Gillian Groves           |  53850 |      0 |24 dec|    |        |
+ 4|   shaerinck                |  40175 |      0 |folded|    |        |
+ 5|   Cindy                    |  56450 |      0 |folded|    |        |
+ 6|   jsw                      |  79875 |   4400 |      |    |        |
+ 7|>  Johnny Ice               |  56500 |   4400 |      |    |        |
+ 8|D  Jose Aguas               |  45050 |      0 |folded|    |        |
+ 9|   Zipper                   |  32250 |    400 |folded|    |        |
+10|   jasong            |  69825 |    400 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 12/18/13 13:30:20! Dealing a new hand
+! 12/18/13 13:30:20! No ante
+! 12/18/13 13:30:20! Zipper blinds $200
+! 12/18/13 13:30:20! jasong blinds $400
+! 12/18/13 14:04:41! Jim Sokoloff folds
+! 12/18/13 14:04:41! Gillian Groves is on vacation and folds
+! 12/18/13 14:04:41! shaerinck folds
+! 12/18/13 14:53:11! Cindy folds
+! 12/18/13 16:26:40! jsw calls 
+! 12/18/13 16:35:28! Johnny Ice calls 
+! 12/19/13 03:47:21! Jose Aguas folds
+! 12/19/13 03:47:21! Zipper calls 
+! 12/19/13 03:47:21! jasong checks
+
+! 12/19/13 03:47:21! Pot right ($1600), flopping/dealing/drawing cards
+! 12/19/13 03:47:21! 4 players
+! 12/19/13 03:47:21! Flopped cards: 4s 8s 10d
+! 12/19/13 07:49:02! Zipper checks
+! 12/19/13 07:49:02! jasong checks
+! 12/19/13 07:49:02! jsw checks
+! 12/19/13 08:01:54! Johnny Ice checks
+
+! 12/19/13 08:01:54! Pot right ($1600), flopping/dealing/drawing cards
+! 12/19/13 08:01:54! 4 players
+! 12/19/13 08:01:54! Flopped card: 9c
+! 12/19/13 08:01:54! Zipper checks
+! 12/19/13 08:01:54! jasong checks
+! 12/19/13 08:04:57! jsw checks
+! 12/19/13 08:07:12! Johnny Ice bets $1600 
+! 12/19/13 08:07:12! Zipper folds
+! 12/19/13 08:07:12! jasong folds
+! 12/19/13 08:10:21! jsw calls 
+
+! 12/19/13 08:10:21! Pot right ($4800), flopping/dealing/drawing cards
+! 12/19/13 08:10:21! 2 players
+! 12/19/13 08:10:21! Flopped card: 10s
+! 12/19/13 08:32:41! jsw checks
+! 12/19/13 08:52:14! Johnny Ice bets $2400 
+! 12/19/13 08:55:40! jsw calls 
+! Hand over, current board is:  4s 8s 10d 9c 10s
+! jsw                      has: Ah Jd
+! Johnny Ice               has: 9s Jh
+! Johnny Ice wins $9600 (net $5200) with Two Pair (10 10 9 9 J)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Jim Sokoloff             |  28075 |        |      |    |        |
+ 2|V  Gillian Groves           |  53850 |        |24 dec|    |        |
+ 4|   shaerinck                |  40175 |        |      |    |        |
+ 5|   Cindy                    |  56450 |        |      |    |        |
+ 6|   jsw                      |  79875 |        |      |    |        |
+ 7|>  Johnny Ice               |  66100 |        |      |    |        |
+ 8|   Jose Aguas               |  45050 |        |      |    |        |
+ 9|D  Zipper                   |  32250 |        |      |    |        |
+10|   jasong            |  69825 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! Zipper timed out during this hand
+! 740 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b3.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+Here is a link to the railbird mailing list:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman23@wrgpt.org.
+
+Live Redraw Status as of 12/19/13 08:55:01 AM
+
+Total Empty Seats: 30
+Total Playing Seats: 740
+Live redraw in progress:
+Seats Needed: 30
+Seats Waiting: 0
+Moving Players Waiting: 0
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

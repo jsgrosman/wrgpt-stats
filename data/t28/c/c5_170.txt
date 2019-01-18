@@ -1,0 +1,108 @@
+Subject: [c5.10242] Holdem Game Broadcast Message(*)
+
+! Table c5, Hand 170, Day 67
+
+! EricL checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Oaktowndad               |   78575 |     100 |folded|    |         |
+ 2|   Couchtater               |   32200 |     100 |folded|    |         |
+ 3|   Russ Fox                 |   51300 |     100 |folded|    |         |
+ 4|   EricL                    |   89100 |   12900 |      |    |         |
+ 5|D  Sahu Habibi              |  135025 |     100 |folded|    |         |
+ 6|   Camo                     |   31100 |     350 |folded|    |         |
+ 7|   All Hail Me              |  115525 |     600 |folded|    |         |
+ 8|   A. Donk                  |   26350 |     100 |folded|    |         |
+ 9|>  Jake                     |   47525 |   12900 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/17/19 07:38:41! Dealing a new hand
+! 01/17/19 07:38:41! Everyone antes $100
+! 01/17/19 07:38:41! Camo blinds $250
+! 01/17/19 07:38:41! All Hail Me blinds $500
+! 01/17/19 08:10:03! A. Donk folds
+! 01/17/19 09:05:11! Jake raises $1500 to $2000 total 
+! 01/17/19 11:06:02! Oaktowndad folds
+! 01/17/19 11:06:02! Couchtater folds
+! 01/17/19 11:06:02! Russ Fox folds
+! 01/17/19 12:41:23! EricL calls 
+! 01/17/19 12:41:23! Sahu Habibi folds
+! 01/17/19 12:41:23! Camo folds
+! 01/17/19 12:41:23! All Hail Me folds
+
+! 01/17/19 12:41:23! Pot right ($5650), flopping/dealing/drawing cards
+! 01/17/19 12:41:23! 2 players
+! 01/17/19 12:41:23! Flopped cards: 6h 6s 10d
+! 01/17/19 14:19:07! Jake bets $3300 
+! 01/17/19 14:53:12! EricL calls 
+
+! 01/17/19 14:53:12! Pot right ($12250), flopping/dealing/drawing cards
+! 01/17/19 14:53:12! 2 players
+! 01/17/19 14:53:12! Flopped card: 5s
+! 01/17/19 14:55:12! Jake bets $7500 
+! 01/17/19 16:32:37! EricL calls 
+
+! 01/17/19 16:32:37! Pot right ($27250), flopping/dealing/drawing cards
+! 01/17/19 16:32:37! 2 players
+! 01/17/19 16:32:37! Flopped card: Jc
+! 01/17/19 19:28:58! Jake checks
+! 01/17/19 19:32:50! EricL checks
+! Hand over, current board is:  6h 6s 10d 5s Jc
+! EricL                    has: 9c 7c
+! Jake                     has: Qh Jh
+! Jake wins $27250 (net $14350) with Two Pair (J J 6 6 Q)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Oaktowndad               |   78575 |         |      |    |         |
+ 2|   Couchtater               |   32200 |         |      |    |         |
+ 3|   Russ Fox                 |   51300 |         |      |    |         |
+ 4|   EricL                    |   89100 |         |      |    |         |
+ 5|   Sahu Habibi              |  135025 |         |      |    |         |
+ 6|D  Camo                     |   31100 |         |      |    |         |
+ 7|   All Hail Me              |  115525 |         |      |    |         |
+ 8|   A. Donk                  |   26350 |         |      |    |         |
+ 9|>  Jake                     |   74775 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 357 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c5.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

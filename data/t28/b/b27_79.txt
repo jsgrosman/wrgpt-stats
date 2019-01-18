@@ -1,0 +1,109 @@
+Subject: [b27.10884] Holdem Game Broadcast Message(*)
+
+! Table b27, Hand 79, Day 31
+
+! Swamper bfj checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  the cake is a pie        |   76650 |    6325 |      |    |         |
+ 2|V  Scipio                   |   48500 |       0 |<Gone>|    |         |
+ 3|   Swamper bfj              |  105900 |    6325 |      |    |         |
+ 4|   Regis                    |   46375 |      25 |folded|    |         |
+ 5|   LenFuego                 |   47100 |       0 |New   |    |         |
+ 6|   db222                    |   77100 |      25 |folded|    |         |
+ 7|   Quick                    |   84700 |      25 |folded|    |         |
+ 8|D  docdanger                |   49950 |      25 |folded|    |         |
+ 9|   DKatx512                 |   58550 |     175 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/12/18 11:41:20! Dealing a new hand
+! 12/12/18 11:41:20! Everyone antes $25
+! 12/12/18 11:41:20! DKatx512 blinds $150
+! 12/12/18 11:41:20! the cake is a pie blinds $300
+! 12/12/18 11:57:25! Swamper bfj raises $1000 to $1300 total 
+! 12/12/18 12:01:38! Regis folds
+! 12/12/18 12:01:38! db222 folds
+! 12/12/18 12:17:01! Quick folds
+! 12/12/18 12:30:25! docdanger folds
+! 12/12/18 12:41:39! DKatx512 folds
+! 12/12/18 13:27:41! the cake is a pie calls 
+
+! 12/12/18 13:27:41! Pot right ($2925), flopping/dealing/drawing cards
+! 12/12/18 13:27:41! 2 players
+! 12/12/18 13:27:41! Flopped cards: Qh Kd 4s
+! 12/12/18 13:28:33! the cake is a pie checks
+! 12/12/18 13:40:26! Swamper bfj checks
+
+! 12/12/18 13:40:26! Pot right ($2925), flopping/dealing/drawing cards
+! 12/12/18 13:40:26! 2 players
+! 12/12/18 13:40:26! Flopped card: Kc
+! 12/12/18 13:55:08! New player added to the table: LenFuego
+! 12/12/18 13:55:18! New player added to the table: Scipio
+! 12/12/18 14:57:02! the cake is a pie bets $2200 
+! 12/12/18 14:57:02! Swamper bfj raises $2800 to $5000 total 
+! 12/12/18 14:58:05! the cake is a pie calls 
+
+! 12/12/18 14:58:05! Pot right ($12925), flopping/dealing/drawing cards
+! 12/12/18 14:58:05! 2 players
+! 12/12/18 14:58:05! Flopped card: 9d
+! 12/12/18 14:58:31! the cake is a pie checks
+! 12/12/18 15:24:20! Swamper bfj checks
+! Hand over, current board is:  Qh Kd 4s Kc 9d
+! the cake is a pie        has: Qs 10s
+! Swamper bfj              has: Ad Qd
+! Swamper bfj wins $12925 (net $6600) with Two Pair (K K Q Q A)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  the cake is a pie        |   76650 |         |      |    |         |
+ 2|V  Scipio                   |   48500 |         |<Gone>|    |         |
+ 3|   Swamper bfj              |  118825 |         |      |    |         |
+ 4|   Regis                    |   46375 |         |      |    |         |
+ 5|   LenFuego                 |   47100 |         |      |    |         |
+ 6|   db222                    |   77100 |         |      |    |         |
+ 7|   Quick                    |   84700 |         |      |    |         |
+ 8|   docdanger                |   49950 |         |      |    |         |
+ 9|D  DKatx512                 |   58550 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 483 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b27.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 3
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

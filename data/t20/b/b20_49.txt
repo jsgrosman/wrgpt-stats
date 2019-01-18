@@ -1,0 +1,98 @@
+Message-Id: <201012131437.oBDEbCcW030240@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [b20.10568] Holdem Game Broadcast Message(*)                          
+
+! Table b20, Hand 49, Day 43
+
+! plankton folds
+! Greg Folla folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Ross Porter              |  21750 |      0 |folded|    |        |
+ 2|D  Cyberchomp               |  31775 |      0 |folded|    |        |
+ 3|   Swamp Duff               |  47250 |    200 |folded|    |        |
+ 4|   Blacktav                 |  51300 |    400 |folded|    |        |
+ 5|   jasong            |  74400 |      0 |folded|    |        |
+ 6|V  Andrew Nelson            |  22400 |      0 |<AWOL>|    |        |
+ 7|   plankton                 |  71975 |   1100 |folded|    |        |
+ 9|   Greg Folla               |  53800 |   2100 |folded|    |        |
+10|>  JackBlack                |  41850 |   4600 |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 12/10/10 15:44:47! Dealing a new hand
+! 12/10/10 15:44:47! No ante
+! 12/10/10 15:44:47! Swamp Duff blinds $200
+! 12/10/10 15:44:47! Blacktav blinds $400
+! 12/10/10 17:03:54! jasong folds
+! 12/10/10 17:03:54! Andrew Nelson is on vacation and folds
+! 12/11/10 09:24:32! plankton calls 
+! 12/11/10 18:11:32! Greg Folla calls 
+! 12/11/10 18:11:32! JackBlack raises $700 
+! 12/11/10 18:11:32! Ross Porter folds
+! 12/11/10 18:11:32! Cyberchomp folds
+! 12/12/10 06:02:23! Swamp Duff folds
+! 12/12/10 06:02:23! Blacktav folds
+! 12/12/10 09:36:34! plankton calls 
+! 12/12/10 09:51:19! Greg Folla calls 
+
+! 12/12/10 09:51:19! Pot right ($3900), flopping/dealing/drawing cards
+! 12/12/10 09:51:19! 3 players
+! 12/12/10 09:51:19! Flopped cards: 5d Jd 10c
+! 12/12/10 17:30:16! plankton checks
+! 12/12/10 19:30:42! Greg Folla bets $1000 
+! 12/13/10 01:54:16! JackBlack raises $2500 
+! 12/13/10 06:37:12! plankton folds
+! 12/13/10 06:37:12! Greg Folla folds
+! Hand over, no showdown
+! Current board is:  5d Jd 10c ? ?
+! JackBlack wins $8400 (net $3800)
+! Antes and blinds go up
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Ross Porter              |  21750 |        |      |    |        |
+ 2|   Cyberchomp               |  31775 |        |      |    |        |
+ 3|D  Swamp Duff               |  47250 |        |      |    |        |
+ 4|   Blacktav                 |  51300 |        |      |    |        |
+ 5|   jasong            |  74400 |        |      |    |        |
+ 6|V  Andrew Nelson            |  22400 |        |<AWOL>|    |        |
+ 7|   plankton                 |  71975 |        |      |    |        |
+ 9|   Greg Folla               |  53800 |        |      |    |        |
+10|>  JackBlack                |  50250 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 707 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b20.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Players who have not shown up to WRGPT20 yet are being removed.
+
+If you are absent for 45 days without letting the floorman know
+you will also be removed.
+
+If you have any problems send mail to floorman20@wrgpt.org.
+
+Live Redraw Status as of 12/13/10 06:25:01 AM
+
+Total Empty Seats: 14
+Total Playing Seats: 706
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org or follow "wrgpt" on Twitter.
+

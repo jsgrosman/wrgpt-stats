@@ -1,0 +1,121 @@
+Subject: [b33.10213] Holdem Game Broadcast Message(*)
+
+! Table b33, Hand 16, Day 13
+
+! GKinz54 checks
+! pokerpilot checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   MadChad                  |   30200 |       0 |folded|    |         |
+ 2|   Olof Siverbo             |   64850 |       0 |folded|    |         |
+ 3|   rktsci                   |   46650 |     450 |folded|    |         |
+ 4|   Couchtater               |   41900 |       0 |folded|    |         |
+ 5|>  GKinz54                  |   40750 |    4200 |      |    |         |
+ 6|   pokerpilot               |   46700 |    4200 |      |    |         |
+ 7|D  Bob R                    |   56550 |       0 |folded|    |         |
+ 8|   Rayo Kniep               |   63025 |      75 |folded|    |         |
+ 9|   Desmontes                |   50300 |     150 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/23/18 11:06:12! Dealing a new hand
+! 11/23/18 11:06:12! No ante
+! 11/23/18 11:06:12! Rayo Kniep blinds $75
+! 11/23/18 11:06:12! Desmontes blinds $150
+! 11/23/18 12:46:03! MadChad folds
+! 11/23/18 12:46:03! Olof Siverbo folds
+! 11/23/18 13:00:29! rktsci calls 
+! 11/23/18 13:00:29! Couchtater folds
+! 11/23/18 13:01:12! GKinz54 raises $300 to $450 total 
+! 11/23/18 13:05:50! pokerpilot calls 
+! 11/23/18 13:05:50! Bob R folds
+! 11/23/18 17:06:02! Rayo Kniep folds
+! 11/23/18 23:54:36! Desmontes folds
+! 11/23/18 23:54:36! rktsci calls 
+
+! 11/23/18 23:54:36! Pot right ($1575), flopping/dealing/drawing cards
+! 11/23/18 23:54:36! 3 players
+! 11/23/18 23:54:36! Flopped cards: 6s 3d Ad
+! 11/24/18 06:49:46! rktsci checks
+! 11/24/18 06:50:56! GKinz54 bets $1250 
+! 11/24/18 06:50:56! pokerpilot calls 
+! 11/24/18 06:55:35! rktsci folds
+
+! 11/24/18 06:55:35! Pot right ($4075), flopping/dealing/drawing cards
+! 11/24/18 06:55:35! 2 players
+! 11/24/18 06:55:35! Flopped card: 4h
+! 11/24/18 08:16:36! GKinz54 bets $2500 
+! 11/24/18 08:16:36! pokerpilot calls 
+
+! 11/24/18 08:16:36! Pot right ($9075), flopping/dealing/drawing cards
+! 11/24/18 08:16:36! 2 players
+! 11/24/18 08:16:36! Flopped card: 5h
+! 11/24/18 08:24:06! GKinz54 checks
+! 11/24/18 08:24:06! pokerpilot checks
+! Hand over, current board is:  6s 3d Ad 4h 5h
+! GKinz54                  has: Ah Qc
+! pokerpilot               has: As 10c
+! GKinz54 wins $9075 (net $4875) with One Pair (A A Q 6 5)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   MadChad                  |   30200 |         |      |    |         |
+ 2|   Olof Siverbo             |   64850 |         |      |    |         |
+ 3|   rktsci                   |   46650 |         |      |    |         |
+ 4|   Couchtater               |   41900 |         |      |    |         |
+ 5|>  GKinz54                  |   49825 |         |      |    |         |
+ 6|   pokerpilot               |   46700 |         |      |    |         |
+ 7|   Bob R                    |   56550 |         |      |    |         |
+ 8|D  Rayo Kniep               |   63025 |         |      |    |         |
+ 9|   Desmontes                |   50300 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 565 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b33.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 2
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

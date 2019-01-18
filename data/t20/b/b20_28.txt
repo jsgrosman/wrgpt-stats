@@ -1,0 +1,96 @@
+Message-Id: <201011202055.oAKKtUJV016060@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [b20.10328] Holdem Game Broadcast Message(*)                          
+
+! Table b20, Hand 28, Day 20
+
+! Blacktav folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Blacktav                 |  30850 |    800 |folded|    |        |
+ 2|>  jasong            |  32225 |   2700 |      |    |        |
+ 3|   Andrew Nelson            |  35950 |      0 |folded|    |        |
+ 4|   plankton                 |  77300 |      0 |folded|    |        |
+ 5|   GZK                      |  30500 |      0 |folded|    |        |
+ 6|DV Late Entry 2             |  29250 |      0 | NoSho|    |        |
+ 7|   Greg Folla               |  57900 |    100 |folded|    |        |
+ 8|   JackBlack                |  25825 |    200 |folded|    |        |
+ 9|   wlu_lax6                 |  35750 |      0 |folded|    |        |
+10|   Cyberchomp               |  32100 |      0 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 11/19/10 20:07:20! Dealing a new hand
+! 11/19/10 20:07:20! No ante
+! 11/19/10 20:07:20! Greg Folla blinds $100
+! 11/19/10 20:07:20! JackBlack blinds $200
+! 11/20/10 02:35:56! wlu_lax6 folds
+! 11/20/10 02:35:56! Cyberchomp folds
+! 11/20/10 04:33:05! Blacktav calls 
+! 11/20/10 04:43:19! jasong raises $600 
+! 11/20/10 08:06:40! Andrew Nelson folds
+! 11/20/10 08:21:30! plankton folds
+! 11/20/10 08:21:30! GZK folds
+! 11/20/10 08:21:30! Late Entry 2 is on vacation and folds
+! 11/20/10 08:21:30! Greg Folla folds
+! 11/20/10 08:45:12! JackBlack folds
+! 11/20/10 08:45:12! Blacktav calls 
+
+! 11/20/10 08:45:12! Pot right ($1900), flopping/dealing/drawing cards
+! 11/20/10 08:45:12! 2 players
+! 11/20/10 08:45:12! Flopped cards: 9s 6d 8h
+! 11/20/10 08:50:38! Blacktav checks
+! 11/20/10 11:23:10! jasong bets $1900 
+! 11/20/10 12:55:30! Blacktav folds
+! Hand over, no showdown
+! Current board is:  9s 6d 8h ? ?
+! jasong wins $3800 (net $1100)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Blacktav                 |  30850 |        |      |    |        |
+ 2|>  jasong            |  36025 |        |      |    |        |
+ 3|   Andrew Nelson            |  35950 |        |      |    |        |
+ 4|   plankton                 |  77300 |        |      |    |        |
+ 5|   GZK                      |  30500 |        |      |    |        |
+ 6|V  Late Entry 2             |  29250 |        | NoSho|    |        |
+ 7|D  Greg Folla               |  57900 |        |      |    |        |
+ 8|   JackBlack                |  25825 |        |      |    |        |
+ 9|   wlu_lax6                 |  35750 |        |      |    |        |
+10|   Cyberchomp               |  32100 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 846 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b20.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Good luck.
+
+If you have problems send mail to floorman20@wrgpt.org.
+
+Live Redraw Status as of 11/20/10 12:55:01 PM
+
+Total Empty Seats: 31
+Total Playing Seats: 839
+Live redraw in progress:
+Seats Needed: 23
+Seats Waiting: 0
+Moving Players Waiting: 3
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org or follow "wrgpt" on Twitter.
+

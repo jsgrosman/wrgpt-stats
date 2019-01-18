@@ -1,0 +1,93 @@
+Message-Id: <201012231745.oBNHjOsR014278@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [c25.10016] Holdem Game Broadcast Message(*)                          
+
+! Table c25, Hand 58, Day 53
+
+! Ricardo75 folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|V  Stanley Chow             |  31350 |     50 |<AWOL>|    |        |
+ 2|D  Deborah Abel             |  39250 |     50 |folded|    |        |
+ 3|   jasong            |  78300 |    250 |folded|    |        |
+ 4|>  Ricardo75                |   7225 |   5250 |folded|    |        |
+ 5|   Alan Gopin               |  37800 |     50 |folded|    |        |
+ 6|   Minimus                  |  28500 |     50 |folded|    |        |
+ 7|   jennyfar                 |  42300 |     50 |folded|    |        |
+ 8|   Paul Rotering            |  21600 |     50 |folded|    |        |
+ 9|   b monie                  |  18000 |     50 |folded|    |        |
+10|   mjoseff                  |      0 |  38750 |all-in|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 12/22/10 19:51:26! Dealing a new hand
+! 12/22/10 19:51:26! Everyone antes $50
+! 12/22/10 19:51:26! jasong blinds $200
+! 12/22/10 19:51:26! Ricardo75 blinds $400
+! 12/23/10 04:22:55! Alan Gopin folds
+! 12/23/10 04:22:55! Minimus folds
+! 12/23/10 07:54:25! jennyfar folds
+! 12/23/10 07:54:25! Paul Rotering folds
+! 12/23/10 07:54:25! b monie folds
+! 12/23/10 08:10:29! mjoseff raises $800 
+! 12/23/10 08:10:29! Stanley Chow is on vacation and folds
+! 12/23/10 08:10:29! Deborah Abel folds
+! 12/23/10 08:10:29! jasong folds
+! 12/23/10 08:45:25! Ricardo75 calls 
+
+! 12/23/10 08:45:25! Pot right ($3100), flopping/dealing/drawing cards
+! 12/23/10 08:45:25! 2 players
+! 12/23/10 08:45:25! Flopped cards: 5c 7d Jh
+! 12/23/10 08:47:58! Ricardo75 bets $4000 
+! 12/23/10 08:49:08! mjoseff raises $33500 and is all in
+! 12/23/10 09:45:24! Ricardo75 folds
+! Hand over, no showdown
+! Current board is:  5c 7d Jh ? ?
+! mjoseff wins $44600 (net $5850)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|V  Stanley Chow             |  31350 |        |<AWOL>|    |        |
+ 2|   Deborah Abel             |  39250 |        |      |    |        |
+ 3|D  jasong            |  78300 |        |      |    |        |
+ 4|>  Ricardo75                |   7225 |        |      |    |        |
+ 5|   Alan Gopin               |  37800 |        |      |    |        |
+ 6|   Minimus                  |  28500 |        |      |    |        |
+ 7|   jennyfar                 |  42300 |        |      |    |        |
+ 8|   Paul Rotering            |  21600 |        |      |    |        |
+ 9|   b monie                  |  18000 |        |      |    |        |
+10|   mjoseff                  |  44600 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 649 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c25.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Tables will now all finish their current hand then will be waiting
+for a full redraw for the next round.
+
+If you have any problems send mail to floorman20@wrgpt.org.
+
+Live Redraw Status as of 12/23/10 09:25:01 AM
+
+Total Empty Seats: 2
+Total Playing Seats: 649
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org or follow "wrgpt" on Twitter.
+

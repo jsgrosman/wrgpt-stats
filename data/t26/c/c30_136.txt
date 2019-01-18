@@ -1,0 +1,108 @@
+
+! Table c30, Hand 136, Day 78
+
+! SmBoatDrinks calls 
+! Pot right ($46400), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped cards: 10s Qs 6c
+! Flopped card: Ad
+! Flopped card: 6s
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   jasong            |   45650 |     200 |folded|    |         |
+ 2|   delbaeth                 |   24075 |     200 |folded|    |         |
+ 3|   slugbot                  |       0 |   22200 |all-in|    |         |
+ 4|   Morgan                   |   17100 |     200 |folded|    |         |
+ 6|   Oldbear                  |   62500 |     200 |folded|    |         |
+ 7|D  TomasL                   |   19225 |     200 |folded|    |         |
+ 8|   Brent Widmark            |   56550 |     800 |folded|    |         |
+ 9|>  SmBoatDrinks             |  232950 |   22200 |      |    |         |
+10|   shinsook                 |  112575 |     200 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/02/17 12:15:30! Dealing a new hand
+! 01/02/17 12:15:30! Everyone antes $200
+! 01/02/17 12:15:30! Brent Widmark blinds $600
+! 01/02/17 12:15:30! SmBoatDrinks blinds $1200
+! 01/02/17 12:36:23! shinsook folds
+! 01/02/17 12:36:23! jasong folds
+! 01/02/17 12:36:23! delbaeth folds
+! 01/02/17 14:49:02! slugbot raises $20800 and is all in
+! 01/02/17 15:21:37! Morgan folds
+! 01/02/17 15:21:37! Oldbear folds
+! 01/02/17 15:21:37! TomasL folds
+! 01/02/17 17:15:39! Brent Widmark folds
+! 01/02/17 17:34:00! SmBoatDrinks calls 
+
+! 01/02/17 17:34:00! Pot right ($46400), flopping/dealing/drawing cards
+! 01/02/17 17:34:00! 2 players, 1 all in
+! 01/02/17 17:34:01! Flopped cards: 10s Qs 6c
+! 01/02/17 17:34:01! Flopped card: Ad
+! 01/02/17 17:34:01! Flopped card: 6s
+! Hand over, current board is:  10s Qs 6c Ad 6s
+! slugbot                  has: Ah 8d
+! SmBoatDrinks             has: 5h 5c
+! slugbot wins $46400 (net $24200) with Two Pair (A A 6 6 Q)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   jasong            |   45650 |         |      |    |         |
+ 2|   delbaeth                 |   24075 |         |      |    |         |
+ 3|   slugbot                  |   46400 |         |      |    |         |
+ 4|   Morgan                   |   17100 |         |      |    |         |
+ 6|   Oldbear                  |   62500 |         |      |    |         |
+ 7|   TomasL                   |   19225 |         |      |    |         |
+ 8|D  Brent Widmark            |   56550 |         |      |    |         |
+ 9|>  SmBoatDrinks             |  232950 |         |      |    |         |
+10|   shinsook                 |  112575 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 334 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c30.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+======
+
+Live Redraw Status as of 01/02/17 05:25:02 PM
+
+Total Empty Seats: 26
+Total Playing Seats: 334
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman26@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

@@ -1,0 +1,116 @@
+Subject: [b31.10622] Holdem Game Broadcast Message(*)
+
+! Table b31, Hand 41, Day 29
+
+! iVoted4Kodos checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Coach Matt               |   94325 |     300 |folded|    |         |
+ 2|   A. Donk                  |   43200 |       0 |folded|    |         |
+ 3|>  eliuk35                  |   48200 |    2800 |      |    |         |
+ 4|   GunsNRoses               |   99075 |    1000 |folded|    |         |
+ 5|   Pete McEvoy              |   49325 |       0 |folded|    |         |
+ 6|   SCSI                     |   70600 |       0 |folded|    |         |
+ 8|D  iVoted4Kodos             |   25200 |    2800 |      |    |         |
+ 9|   Kyle Stein               |   93475 |     150 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/09/18 13:48:09! Dealing a new hand
+! 12/09/18 13:48:09! No ante
+! 12/09/18 13:48:09! Kyle Stein blinds $150
+! 12/09/18 13:48:09! Coach Matt blinds $300
+! 12/09/18 14:15:11! A. Donk folds
+! 12/09/18 15:24:38! eliuk35 raises $700 to $1000 total 
+! 12/09/18 16:33:35! GunsNRoses calls 
+! 12/09/18 17:05:51! Pete McEvoy folds
+! 12/09/18 17:06:59! SCSI folds
+! 12/09/18 17:47:39! iVoted4Kodos calls 
+! 12/09/18 20:53:02! Kyle Stein folds
+! 12/10/18 06:28:56! Coach Matt folds
+
+! 12/10/18 06:28:56! Pot right ($3450), flopping/dealing/drawing cards
+! 12/10/18 06:28:56! 3 players
+! 12/10/18 06:28:56! Flopped cards: 4h Qd 9s
+! 12/10/18 06:35:03! eliuk35 bets $1800 
+! 12/10/18 07:14:05! GunsNRoses folds
+! 12/10/18 09:44:06! iVoted4Kodos calls 
+
+! 12/10/18 09:44:06! Pot right ($7050), flopping/dealing/drawing cards
+! 12/10/18 09:44:06! 2 players
+! 12/10/18 09:44:06! Flopped card: 7d
+! 12/10/18 09:54:18! eliuk35 checks
+! 12/10/18 09:59:46! iVoted4Kodos checks
+
+! 12/10/18 09:59:46! Pot right ($7050), flopping/dealing/drawing cards
+! 12/10/18 09:59:46! 2 players
+! 12/10/18 09:59:46! Flopped card: 9d
+! 12/10/18 10:02:46! eliuk35 checks
+! 12/10/18 10:04:30! iVoted4Kodos checks
+! Hand over, current board is:  4h Qd 9s 7d 9d
+! eliuk35                  has: Ks Ac
+! iVoted4Kodos             has: Qs Js
+! iVoted4Kodos wins $7050 (net $4250) with Two Pair (Q Q 9 9 J)
+! Antes and blinds go up
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Coach Matt               |   94325 |         |      |    |         |
+ 2|   A. Donk                  |   43200 |         |      |    |         |
+ 3|>  eliuk35                  |   48200 |         |      |    |         |
+ 4|   GunsNRoses               |   99075 |         |      |    |         |
+ 5|   Pete McEvoy              |   49325 |         |      |    |         |
+ 6|   SCSI                     |   70600 |         |      |    |         |
+ 8|   iVoted4Kodos             |   32250 |         |      |    |         |
+ 9|D  Kyle Stein               |   93475 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 505 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b31.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

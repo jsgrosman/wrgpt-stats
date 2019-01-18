@@ -1,0 +1,100 @@
+Subject: [c13.10106] Holdem Game Broadcast Message(*)
+
+! Table c13, Hand 158, Day 61
+
+! bert_ofcl bets $2500 
+! David Weiss folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   AveCat                   |  135450 |     100 |folded|    |         |
+ 2|D  Charlie Tuna             |   18200 |     100 |folded|    |         |
+ 3|   David Weiss              |  123575 |    1600 |folded|    |         |
+ 4|V  UberHank                 |   39875 |     600 |<AWOL>|    |         |
+ 5|   Larry W                  |   41375 |     100 |folded|    |         |
+ 6|   TheTwizz                 |   13900 |     100 |folded|    |         |
+ 7|   Spidurman                |  103500 |     100 |folded|    |         |
+ 8|   Deets                    |   53250 |     100 |folded|    |         |
+ 9|>  bert_ofcl                |   35975 |    4100 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/11/19 09:31:12! Dealing a new hand
+! 01/11/19 09:31:12! Everyone antes $100
+! 01/11/19 09:31:12! David Weiss blinds $250
+! 01/11/19 09:31:12! UberHank blinds $500
+! 01/11/19 10:24:37! Larry W folds
+! 01/11/19 10:46:34! TheTwizz folds
+! 01/11/19 10:46:34! Spidurman folds
+! 01/11/19 12:41:28! Deets folds
+! 01/11/19 12:53:44! bert_ofcl raises $1000 to $1500 total 
+! 01/11/19 14:40:51! AveCat folds
+! 01/11/19 15:11:15! Charlie Tuna folds
+! 01/11/19 15:11:15! David Weiss calls 
+! 01/11/19 15:11:15! UberHank is on vacation and folds
+
+! 01/11/19 15:11:15! Pot right ($4400), flopping/dealing/drawing cards
+! 01/11/19 15:11:15! 2 players
+! 01/11/19 15:11:15! Flopped cards: 3h 4c 8d
+! 01/11/19 15:14:53! David Weiss checks
+! 01/11/19 15:20:20! bert_ofcl bets $2500 
+! 01/11/19 15:20:20! David Weiss folds
+! Hand over, no showdown
+! Current board is:  3h 4c 8d ? ?
+! bert_ofcl wins $6900 (net $2800)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   AveCat                   |  135450 |         |      |    |         |
+ 2|   Charlie Tuna             |   18200 |         |      |    |         |
+ 3|D  David Weiss              |  123575 |         |      |    |         |
+ 4|V  UberHank                 |   39875 |         |<AWOL>|    |         |
+ 5|   Larry W                  |   41375 |         |      |    |         |
+ 6|   TheTwizz                 |   13900 |         |      |    |         |
+ 7|   Spidurman                |  103500 |         |      |    |         |
+ 8|   Deets                    |   53250 |         |      |    |         |
+ 9|>  bert_ofcl                |   42875 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 383 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c13.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+The "c" round has started.  Good luck to all
+the remaining players.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 10
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

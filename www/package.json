@@ -1,0 +1,19 @@
+{
+  "name": "wrgpt-stats",
+  "version": "0.0.5",
+  "description": "Parses Hand Summaries from WRGPT, and shows player stats",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jason Grosman",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.2.1",
+    "chart.js": "^2.7.3",
+    "chartjs-plugin-labels": "^1.1.0",
+    "chosen-jquery": "^0.1.1",
+    "jquery": "^3.3.1",
+    "popper": "^1.0.1"
+  }
+}

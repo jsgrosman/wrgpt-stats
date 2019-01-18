@@ -1,0 +1,113 @@
+Message-Id: <201311040249.rA42nEcb005361@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [a34.10104] Holdem Game Broadcast Message(*)                          
+
+! Table a34, Hand 8, Day 7
+
+! Mrstcao folds
+! Dan Duncan folds
+! Maple Syrup folds
+! jasong folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Bert                     |  33150 |      0 |folded|    |        |
+ 2|   Mafamba                  |      0 |  92300 |all-in|    |        |
+ 3|   Phil Murphy              |  29100 |      0 |folded|    |        |
+ 4|D  Mrstcao                  |  55300 |   1500 |folded|    |        |
+ 5|   Dan Duncan               |   9000 |   1500 |folded|    |        |
+ 7|   Guns N Roses             |   4450 |    400 |folded|    |        |
+ 8|   Maple Syrup              |  18400 |   1500 |folded|    |        |
+ 9|   Bryan Juliano            |  54650 |      0 |folded|    |        |
+10|>  jasong            |  19450 |   5500 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 11/01/13 16:21:57! Dealing a new hand
+! 11/01/13 16:21:57! No ante
+! 11/01/13 16:21:57! Dan Duncan blinds $200
+! 11/01/13 16:21:57! Guns N Roses blinds $400
+! 11/01/13 16:38:46! Maple Syrup calls 
+! 11/01/13 16:51:25! Bryan Juliano folds
+! 11/01/13 17:43:14! jasong raises $1100 
+! 11/01/13 17:43:14! Bert folds
+! 11/01/13 20:47:48! Mafamba calls 
+! 11/01/13 20:47:48! Phil Murphy folds
+! 11/02/13 20:17:51! Mrstcao calls 
+! 11/02/13 21:29:15! Dan Duncan calls 
+! 11/02/13 21:29:15! Guns N Roses folds
+! 11/02/13 21:47:17! Maple Syrup calls 
+
+! 11/02/13 21:47:17! Pot right ($7900), flopping/dealing/drawing cards
+! 11/02/13 21:47:17! 5 players
+! 11/02/13 21:47:17! Flopped cards: Ah 10d 3d
+! 11/03/13 08:17:16! Dan Duncan checks
+! 11/03/13 08:41:12! Maple Syrup checks
+! 11/03/13 13:50:32! jasong bets $4000 
+! 11/03/13 14:20:38! Mafamba raises $86800 and is all in
+! 11/03/13 18:49:12! Mrstcao folds
+! 11/03/13 18:49:12! Dan Duncan folds
+! 11/03/13 18:49:12! Maple Syrup folds
+! 11/03/13 18:49:12! jasong folds
+! Hand over, no showdown
+! Current board is:  Ah 10d 3d ? ?
+! Mafamba wins $102700 (net $10400)
+! Antes and blinds go up
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Bert                     |  33150 |        |      |    |        |
+ 2|   Mafamba                  | 102700 |        |      |    |        |
+ 3|   Phil Murphy              |  29100 |        |      |    |        |
+ 4|   Mrstcao                  |  55300 |        |      |    |        |
+ 5|D  Dan Duncan               |   9000 |        |      |    |        |
+ 7|   Guns N Roses             |   4450 |        |      |    |        |
+ 8|   Maple Syrup              |  18400 |        |      |    |        |
+ 9|   Bryan Juliano            |  54650 |        |      |    |        |
+10|>  jasong            |  19450 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 759 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/a/a34.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+This is the practice round.
+Please try advance actions, conditional actions, etc. as it
+doesn't count if you make a mistake now.  
+After the practice round we will start over again with a full stack.
+
+Here is a link to the railbird mailing list:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman23@wrgpt.org.
+
+Live Redraw Status as of 11/03/13 06:25:01 PM
+
+Total Empty Seats: 41
+Total Playing Seats: 759
+Live redraw in progress:
+Seats Needed: 18
+Seats Waiting: 2
+Moving Players Waiting: 0
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+And Tumbler: http://wrgptfloorman.tumblr.com
+Hand history: http://hands.wrgpt.org
+

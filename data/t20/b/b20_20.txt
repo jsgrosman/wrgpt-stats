@@ -1,0 +1,112 @@
+Message-Id: <201011111511.oABFBIAq001762@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [b20.10227] Holdem Game Broadcast Message(*)                          
+
+! Table b20, Hand 20, Day 11
+
+! plankton calls 
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|>  Andrew Nelson            |  33400 |    800 |      |    |        |
+ 2|   plankton                 |  49575 |    800 |      |    |        |
+ 4|DV Late Entry 2             |  29550 |      0 | NoSho|    |        |
+ 5|   JackBlack                |  24625 |     50 |folded|    |        |
+ 6|   wlu_lax6                 |  35600 |    100 |folded|    |        |
+ 7|   Cyberchomp               |  29700 |      0 |folded|    |        |
+ 8|   jasong            |  36275 |      0 |folded|    |        |
+ 9|   dBeau                    |  29525 |      0 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 11/10/10 06:55:40! Dealing a new hand
+! 11/10/10 06:55:40! No ante
+! 11/10/10 06:55:40! JackBlack blinds $50
+! 11/10/10 06:55:40! wlu_lax6 blinds $100
+! 11/10/10 14:45:27! Cyberchomp folds
+! 11/10/10 14:45:27! jasong folds
+! 11/10/10 14:45:27! dBeau folds
+! 11/11/10 06:04:45! Andrew Nelson calls 
+! 11/11/10 06:31:12! plankton raises $200 
+! 11/11/10 06:31:12! Late Entry 2 is on vacation and folds
+! 11/11/10 06:31:12! JackBlack folds
+! 11/11/10 06:37:22! wlu_lax6 folds
+! 11/11/10 06:40:37! Andrew Nelson calls 
+
+! 11/11/10 06:40:37! Pot right ($750), flopping/dealing/drawing cards
+! 11/11/10 06:40:37! 2 players
+! 11/11/10 06:40:37! Flopped cards: 7d Qc 9d
+! 11/11/10 06:41:59! Andrew Nelson checks
+! 11/11/10 06:43:35! plankton checks
+
+! 11/11/10 06:43:35! Pot right ($750), flopping/dealing/drawing cards
+! 11/11/10 06:43:35! 2 players
+! 11/11/10 06:43:35! Flopped card: 9s
+! 11/11/10 07:02:15! Andrew Nelson checks
+! 11/11/10 07:08:54! plankton checks
+
+! 11/11/10 07:08:54! Pot right ($750), flopping/dealing/drawing cards
+! 11/11/10 07:08:54! 2 players
+! 11/11/10 07:08:54! Flopped card: 6c
+! 11/11/10 07:10:50! Andrew Nelson bets $500 
+! 11/11/10 07:11:16! plankton calls 
+! Hand over, current board is:  7d Qc 9d 9s 6c
+! Andrew Nelson            has: As 7s
+! plankton                 has: Kh 7h
+! Andrew Nelson wins $1750 (net $950) with Two Pair (9 9 7 7 A)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|>  Andrew Nelson            |  35150 |        |      |    |        |
+ 2|   plankton                 |  49575 |        |      |    |        |
+ 4|V  Late Entry 2             |  29550 |        | NoSho|    |        |
+ 5|D  JackBlack                |  24625 |        |      |    |        |
+ 6|   wlu_lax6                 |  35600 |        |      |    |        |
+ 7|   Cyberchomp               |  29700 |        |      |    |        |
+ 8|   jasong            |  36275 |        |      |    |        |
+ 9|   dBeau                    |  29525 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 870 players left in the tournament
+! Table waiting for live reshuffle
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b20.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+If you have problems send mail to floorman20@wrgpt.org.
+
+Off topic:
+Vote for long-time WRGPT'er Russ Fox in the 2+2 Forums' PokerStars Caribbean Adventure Home Game contest:
+
+Register:   http://bit.ly/dqugMf
+Vote:         http://bit.ly/dqFC5X
+
+Binglaha is Pot Limit Omaha with a dice roll on the flop to determine whether 
+its High or High/Low.  Voting ends 11:59 pm Eastern, Wed Nov 10.  
+
+Send Russ to the Caribbean!
+
+Live Redraw Status as of 11/11/10 06:55:02 AM
+
+Total Empty Seats: 30
+Total Playing Seats: 870
+Live redraw in progress:
+Seats Needed: 28
+Seats Waiting: 0
+Moving Players Waiting: 9
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org or follow "wrgpt" on Twitter.
+

@@ -1,0 +1,120 @@
+Subject: [b23.10517] Holdem Game Broadcast Message(*)
+
+! Table b23, Hand 47, Day 47
+
+! Chkchk calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Ken Kubey                |   56825 |      50 |folded|    |         |
+ 2|   Chkchk                   |   69450 |    5350 |      |    |         |
+ 3|D> Eight of Spades          |   50050 |    5350 |      |    |         |
+ 4|   TomasL                   |   60650 |     250 |folded|    |         |
+ 5|   What Beats What Again    |   33925 |    2350 |folded|    |         |
+ 6|   ThunderRd                |   64200 |      50 |folded|    |         |
+ 7|   Roger Strom              |   55225 |      50 |folded|    |         |
+ 8|   David Weiss              |  106725 |      50 |folded|    |         |
+ 9|   Bert Bell                |   47000 |      50 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/26/18 23:19:44! Dealing a new hand
+! 12/26/18 23:19:44! Everyone antes $50
+! 12/26/18 23:19:44! TomasL blinds $200
+! 12/26/18 23:19:44! What Beats What Again blinds $400
+! 12/27/18 01:55:35! ThunderRd folds
+! 12/27/18 05:31:05! Roger Strom folds
+! 12/27/18 05:31:05! David Weiss folds
+! 12/27/18 11:01:08! Bert Bell folds
+! 12/27/18 11:01:08! Ken Kubey folds
+! 12/27/18 11:04:31! Chkchk calls 
+! 12/27/18 12:18:55! Eight of Spades raises $400 to $800 total 
+! 12/27/18 12:20:38! TomasL folds
+! 12/27/18 12:46:21! What Beats What Again calls 
+! 12/27/18 12:51:52! Chkchk calls 
+
+! 12/27/18 12:51:52! Pot right ($3050), flopping/dealing/drawing cards
+! 12/27/18 12:51:52! 3 players
+! 12/27/18 12:51:52! Flopped cards: 9h Kd 2d
+! 12/27/18 13:45:59! What Beats What Again checks
+! 12/27/18 14:38:06! Chkchk checks
+! 12/27/18 15:41:44! Eight of Spades checks
+
+! 12/27/18 15:41:44! Pot right ($3050), flopping/dealing/drawing cards
+! 12/27/18 15:41:44! 3 players
+! 12/27/18 15:41:44! Flopped card: 4h
+! 12/27/18 16:36:05! What Beats What Again bets $1500 
+! 12/27/18 16:50:21! Chkchk calls 
+! 12/27/18 17:33:31! Eight of Spades calls 
+
+! 12/27/18 17:33:31! Pot right ($7550), flopping/dealing/drawing cards
+! 12/27/18 17:33:31! 3 players
+! 12/27/18 17:33:31! Flopped card: 7s
+! 12/27/18 20:59:39! What Beats What Again checks
+! 12/27/18 21:57:11! Chkchk checks
+! 12/27/18 22:46:48! Eight of Spades bets $3000 
+! 12/28/18 05:00:12! What Beats What Again folds
+! 12/28/18 08:35:28! Chkchk calls 
+! Hand over, current board is:  9h Kd 2d 4h 7s
+! Chkchk                   has: 8h 9c
+! Eight of Spades          has: Jc 10c
+! Chkchk wins $13550 (net $8200) with One Pair (9 9 K 8 7)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Ken Kubey                |   56825 |         |      |    |         |
+ 2|   Chkchk                   |   83000 |         |      |    |         |
+ 3|>  Eight of Spades          |   50050 |         |      |    |         |
+ 4|D  TomasL                   |   60650 |         |      |    |         |
+ 5|   What Beats What Again    |   33925 |         |      |    |         |
+ 6|   ThunderRd                |   64200 |         |      |    |         |
+ 7|   Roger Strom              |   55225 |         |      |    |         |
+ 8|   David Weiss              |  106725 |         |      |    |         |
+ 9|   Bert Bell                |   47000 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Bert Bell timed out during this hand
+! 423 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b23.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+We are now over 45 days into round "b". 
+As soon as any table gets to five or fewer 
+players all tables will finish the current 
+hand and a full redraw to round "c" will be done.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

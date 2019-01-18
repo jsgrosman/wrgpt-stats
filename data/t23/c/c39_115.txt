@@ -1,0 +1,127 @@
+Message-Id: <201402091555.s19Ft4Lc030501@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [c39.10281] Holdem Game Broadcast Message(*)                          
+
+! Table c39, Hand 115, Day 91
+
+! ScoJo calls - side pot
+! Pot right ($81650), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 8s
+! Flopped card: 7c
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   ScoJo                    |      0 |  34850 |all-in|  2 |  81500 |
+ 2|D  jasong            |  53375 |   5000 |folded|    |        |
+ 3|   Kimbo                    |  47750 |    800 |folded|    |        |
+ 4|>  Tooner                   |  56700 |  35000 |      |  1 |    150 |
+ 5|   Diputsur                 |  66975 |   5000 |folded|    |        |
+ 6|   Auron                    |  30350 |    200 |folded|    |        |
+ 7|   ChimpyChoo               |  38225 |    200 |folded|    |        |
+ 8|   skatesave                |  68600 |    200 |folded|    |        |
+ 9|   elfyhead                 | 107025 |    200 |folded|    |        |
+10|   ThunderRd                |  34425 |    200 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 02/07/14 07:46:40! Dealing a new hand
+! 02/07/14 07:46:40! Everyone antes $200
+! 02/07/14 07:46:40! Kimbo blinds $600
+! 02/07/14 07:46:40! Tooner blinds $1200
+! 02/07/14 10:20:13! Diputsur raises $1800 
+! 02/07/14 11:14:10! Auron folds
+! 02/07/14 11:14:10! ChimpyChoo folds
+_____________________________________________________________________________
+
+! Kimbo, you're welcome!
+! Good fast folding, love the pace, keep it up!
+! -- skatesave --
+_____________________________________________________________________________
+
+! 02/07/14 11:14:10! skatesave folds
+! 02/07/14 11:21:46! elfyhead folds
+! 02/07/14 17:29:00! ThunderRd folds
+! 02/07/14 17:41:50! ScoJo raises $1800 
+! 02/07/14 18:37:00! jasong calls 
+! 02/07/14 18:37:00! Kimbo folds
+! 02/07/14 20:54:58! Tooner calls 
+! 02/08/14 07:57:46! Diputsur calls 
+
+! 02/08/14 07:57:46! Pot right ($21800), flopping/dealing/drawing cards
+! 02/08/14 07:57:46! 4 players
+! 02/08/14 07:57:46! Flopped cards: 4c 3s 6d
+! 02/08/14 16:52:01! Tooner checks
+! 02/08/14 17:02:51! Diputsur checks
+! 02/08/14 17:14:39! ScoJo bets $10000 
+! 02/08/14 19:24:09! jasong folds
+! 02/09/14 06:34:16! Tooner raises $20000 
+! 02/09/14 06:34:16! Diputsur folds
+! 02/09/14 07:55:03! ScoJo calls - side pot
+
+! 02/09/14 07:55:03! Pot right ($81650), flopping/dealing/drawing cards
+! 02/09/14 07:55:03! 2 players, 1 all in
+! 02/09/14 07:55:03! Flopped card: 8s
+! 02/09/14 07:55:03! Flopped card: 7c
+! Hand over, current board is:  4c 3s 6d 8s 7c
+! ScoJo                    has: Kh Kc
+! Tooner                   has: 7s 7h
+! Pot 1: uncalled $150 returned to Tooner
+! Pot 2: Tooner wins $81500 with Three of a Kind (7 7 7 8 6)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 2|   jasong            |  53375 |        |      |    |        |
+ 3|D  Kimbo                    |  47750 |        |      |    |        |
+ 4|>  Tooner                   | 138350 |        |      |    |        |
+ 5|   Diputsur                 |  66975 |        |      |    |        |
+ 6|   Auron                    |  30350 |        |      |    |        |
+ 7|   ChimpyChoo               |  38225 |        |      |    |        |
+ 8|   skatesave                |  68600 |        |      |    |        |
+ 9|   elfyhead                 | 107025 |        |      |    |        |
+10|   ThunderRd                |  34425 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! ScoJo is eliminated!
+! 402 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c39.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+The "c" round will have no more live redraws.  When any table
+gets below six players all tables will finish their current hand
+then a full redraw will happen.
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+Here is a link to the railbird mailing list:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman23@wrgpt.org.
+
+Live Redraw Status as of 02/09/14 07:55:01 AM
+
+Total Empty Seats: 17
+Total Playing Seats: 403
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

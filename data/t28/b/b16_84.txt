@@ -1,0 +1,130 @@
+Subject: [b16.11074] Holdem Game Broadcast Message(*)
+
+% Here's hoping I backed into a pot here
+% On Wed, Jan 2, 2019 at 3:40 PM <dealer@wrgpt.org> wrote:
+% (dealer suppressed lines starting with '>' or ':')
+! -- Aardvark --
+_____________________________________________________________________________
+
+! Table b16, Hand 84, Day 52
+
+! Aardvark calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  Paul Ant                 |   36275 |   17850 |      |    |         |
+ 2|   John Senger              |   59450 |      50 |folded|    |         |
+ 3|D  Michael Proteau          |   54125 |      50 |folded|    |         |
+ 4|   Aardvark                 |   15575 |   17850 |      |    |         |
+ 5|   Paul McMullin            |   19075 |     450 |folded|    |         |
+ 6|   Byfthalone               |   77750 |      50 |folded|    |         |
+ 7|   Steve B                  |   28775 |      50 |folded|    |         |
+ 8|   Piojos                   |   80350 |      50 |folded|    |         |
+ 9|   acadonnelly              |   42175 |      50 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/02/19 07:51:48! Dealing a new hand
+! 01/02/19 07:51:48! Everyone antes $50
+! 01/02/19 07:51:48! Aardvark blinds $200
+! 01/02/19 07:51:48! Paul McMullin blinds $400
+! 01/02/19 08:03:13! Byfthalone folds
+! 01/02/19 08:33:38! Steve B folds
+! 01/02/19 08:33:38! Piojos folds
+! 01/02/19 08:33:38! acadonnelly folds
+! 01/02/19 08:46:34! Paul Ant raises $600 to $1000 total 
+! 01/02/19 08:46:34! John Senger folds
+! 01/02/19 09:04:20! Michael Proteau folds
+! 01/02/19 09:12:23! Aardvark calls 
+! 01/02/19 09:13:08! Paul McMullin folds
+
+! 01/02/19 09:13:08! Pot right ($2850), flopping/dealing/drawing cards
+! 01/02/19 09:13:08! 2 players
+! 01/02/19 09:13:08! Flopped cards: 7s 10h 7c
+! 01/02/19 10:09:29! Aardvark checks
+! 01/02/19 11:36:35! Paul Ant bets $1000 
+! 01/02/19 11:38:02! Aardvark raises $2600 to $3600 total 
+! 01/02/19 11:40:27! Paul Ant calls 
+
+! 01/02/19 11:40:27! Pot right ($10050), flopping/dealing/drawing cards
+! 01/02/19 11:40:27! 2 players
+! 01/02/19 11:40:27! Flopped card: 6h
+! 01/02/19 11:42:23! Aardvark bets $8200 
+! 01/02/19 11:45:06! Paul Ant calls 
+
+! 01/02/19 11:45:06! Pot right ($26450), flopping/dealing/drawing cards
+! 01/02/19 11:45:06! 2 players
+! 01/02/19 11:45:06! Flopped card: Qc
+! 01/02/19 11:47:24! Aardvark checks
+! 01/02/19 12:40:16! Paul Ant bets $5000 
+_____________________________________________________________________________
+
+! Here's hoping I backed into a pot here
+! On Wed, Jan 2, 2019 at 3:40 PM <dealer@wrgpt.org> wrote:
+! (dealer suppressed lines starting with '>' or ':')
+! -- Aardvark --
+_____________________________________________________________________________
+
+! 01/02/19 12:41:33! Aardvark calls 
+! Hand over, current board is:  7s 10h 7c 6h Qc
+! Paul Ant                 has: 8h 7d
+! Aardvark                 has: Qs 9s
+! Paul Ant wins $36450 (net $18600) with Three of a Kind (7 7 7 Q 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  Paul Ant                 |   72725 |         |      |    |         |
+ 2|   John Senger              |   59450 |         |      |    |         |
+ 3|   Michael Proteau          |   54125 |         |      |    |         |
+ 4|D  Aardvark                 |   15575 |         |      |    |         |
+ 5|   Paul McMullin            |   19075 |         |      |    |         |
+ 6|   Byfthalone               |   77750 |         |      |    |         |
+ 7|   Steve B                  |   28775 |         |      |    |         |
+ 8|   Piojos                   |   80350 |         |      |    |         |
+ 9|   acadonnelly              |   42175 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 404 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b16.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+We are now over 45 days into round "b". 
+As soon as any table gets to five or fewer 
+players all tables will finish the current 
+hand and a full redraw to round "c" will be done.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 27
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

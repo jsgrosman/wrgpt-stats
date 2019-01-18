@@ -1,0 +1,120 @@
+Subject: [b51.10326] Holdem Game Broadcast Message(*)
+
+! Table b51, Hand 22, Day 17
+
+! JRX calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Quiet Lion               |   48250 |       0 |folded|    |         |
+ 2|   JRX                      |   31875 |   14700 |      |    |         |
+ 3|   Eric Moore               |   49250 |       0 |folded|    |         |
+ 4|D  Willy Eckerslyke         |   16375 |       0 |folded|    |         |
+ 5|   Dalai Pookah             |   40375 |     300 |folded|    |         |
+ 6|>  Steve Zagieboylo         |   94125 |   14700 |      |    |         |
+ 7|   Scooter                  |   46550 |       0 |folded|    |         |
+ 8|   BigElmo                  |   48575 |       0 |folded|    |         |
+ 9|   PvtPyle                  |   44925 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/27/18 08:03:45! Dealing a new hand
+! 11/27/18 08:03:45! No ante
+! 11/27/18 08:03:45! Dalai Pookah blinds $150
+! 11/27/18 08:03:45! Steve Zagieboylo blinds $300
+! 11/27/18 09:06:43! Scooter folds
+! 11/27/18 09:06:43! BigElmo folds
+! 11/27/18 12:13:52! PvtPyle folds
+! 11/27/18 12:13:52! Quiet Lion folds
+! 11/27/18 12:35:19! JRX calls 
+! 11/27/18 12:47:08! Eric Moore folds
+! 11/27/18 12:47:08! Willy Eckerslyke folds
+! 11/27/18 13:18:36! Dalai Pookah calls 
+! 11/27/18 13:19:22! Steve Zagieboylo raises $1000 to $1300 total 
+! 11/27/18 14:00:45! JRX calls 
+! 11/27/18 20:32:18! Dalai Pookah folds
+
+! 11/27/18 20:32:18! Pot right ($2900), flopping/dealing/drawing cards
+! 11/27/18 20:32:18! 2 players
+! 11/27/18 20:32:18! Flopped cards: Jc Js 7d
+! 11/27/18 20:52:31! Steve Zagieboylo checks
+! 11/28/18 04:07:40! JRX bets $2900 
+! 11/28/18 04:17:45! Steve Zagieboylo calls 
+
+! 11/28/18 04:17:45! Pot right ($8700), flopping/dealing/drawing cards
+! 11/28/18 04:17:45! 2 players
+! 11/28/18 04:17:45! Flopped card: Kh
+! 11/28/18 04:19:34! Steve Zagieboylo checks
+! 11/28/18 05:52:24! JRX checks
+
+! 11/28/18 05:52:24! Pot right ($8700), flopping/dealing/drawing cards
+! 11/28/18 05:52:24! 2 players
+! 11/28/18 05:52:24! Flopped card: Ac
+! 11/28/18 05:59:14! Steve Zagieboylo bets $10500 
+! 11/28/18 08:14:55! JRX calls 
+! Hand over, current board is:  Jc Js 7d Kh Ac
+! JRX                      has: Ks 8s
+! Steve Zagieboylo         has: 7s 7c
+! Steve Zagieboylo wins $29700 (net $15000) with Full House (7 7 7 J J)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Quiet Lion               |   48250 |         |      |    |         |
+ 2|   JRX                      |   31875 |         |      |    |         |
+ 3|   Eric Moore               |   49250 |         |      |    |         |
+ 4|   Willy Eckerslyke         |   16375 |         |      |    |         |
+ 5|D  Dalai Pookah             |   40375 |         |      |    |         |
+ 6|>  Steve Zagieboylo         |  123825 |         |      |    |         |
+ 7|   Scooter                  |   46550 |         |      |    |         |
+ 8|   BigElmo                  |   48575 |         |      |    |         |
+ 9|   PvtPyle                  |   44925 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 552 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b51.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

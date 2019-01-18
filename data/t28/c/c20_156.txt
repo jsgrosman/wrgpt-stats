@@ -1,0 +1,112 @@
+Subject: [c20.10090] Holdem Game Broadcast Message(*)
+
+! Table c20, Hand 156, Day 61
+
+! CPROG calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  Felix Leiter             |   36575 |    8500 |      |    |         |
+ 2|   CPROG                    |  104975 |    8500 |      |    |         |
+ 3|   JZK                      |  108775 |     100 |folded|    |         |
+ 4|   dann                     |   17625 |     100 |folded|    |         |
+ 5|   Samueladams              |   42400 |     100 |folded|    |         |
+ 6|   Bullwinkle               |   36225 |     100 |folded|    |         |
+ 7|   Bobby Luckbox            |   42675 |     100 |folded|    |         |
+ 8|   Scooter                  |   45175 |     100 |folded|    |         |
+ 9|D  Baldy                    |   93125 |     100 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/11/19 05:16:15! Dealing a new hand
+! 01/11/19 05:16:15! Everyone antes $100
+! 01/11/19 05:16:15! Felix Leiter blinds $250
+! 01/11/19 05:16:15! CPROG blinds $500
+! 01/11/19 05:19:06! JZK folds
+! 01/11/19 05:21:35! dann folds
+! 01/11/19 08:42:35! Samueladams folds
+! 01/11/19 08:42:35! Bullwinkle folds
+! 01/11/19 08:42:35! Bobby Luckbox folds
+! 01/11/19 08:42:35! Scooter folds
+! 01/11/19 08:42:35! Baldy folds
+! 01/11/19 08:42:35! Felix Leiter calls 
+! 01/11/19 10:12:31! CPROG checks
+
+! 01/11/19 10:12:31! Pot right ($1900), flopping/dealing/drawing cards
+! 01/11/19 10:12:31! 2 players
+! 01/11/19 10:12:31! Flopped cards: Qc Qh 2s
+! 01/11/19 11:06:57! Felix Leiter checks
+! 01/11/19 11:31:58! CPROG bets $1900 
+! 01/11/19 11:57:43! Felix Leiter calls 
+
+! 01/11/19 11:57:43! Pot right ($5700), flopping/dealing/drawing cards
+! 01/11/19 11:57:43! 2 players
+! 01/11/19 11:57:43! Flopped card: 5h
+! 01/11/19 11:59:25! Felix Leiter checks
+! 01/11/19 13:35:20! CPROG checks
+
+! 01/11/19 13:35:20! Pot right ($5700), flopping/dealing/drawing cards
+! 01/11/19 13:35:20! 2 players
+! 01/11/19 13:35:20! Flopped card: 3d
+! 01/11/19 13:37:33! Felix Leiter bets $6000 
+! 01/11/19 13:58:53! CPROG calls 
+! Hand over, current board is:  Qc Qh 2s 5h 3d
+! Felix Leiter             has: Qs 5c
+! CPROG                    has: 6h 6d
+! Felix Leiter wins $17700 (net $9200) with Full House (Q Q Q 5 5)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D> Felix Leiter             |   54275 |         |      |    |         |
+ 2|   CPROG                    |  104975 |         |      |    |         |
+ 3|   JZK                      |  108775 |         |      |    |         |
+ 4|   dann                     |   17625 |         |      |    |         |
+ 5|   Samueladams              |   42400 |         |      |    |         |
+ 6|   Bullwinkle               |   36225 |         |      |    |         |
+ 7|   Bobby Luckbox            |   42675 |         |      |    |         |
+ 8|   Scooter                  |   45175 |         |      |    |         |
+ 9|   Baldy                    |   93125 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 383 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c20.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+The "c" round has started.  Good luck to all
+the remaining players.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 10
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,136 @@
+
+! Table c36, Hand 94, Day 73
+
+! JonM folds
+! Pot right ($47500), flopping/dealing/drawing cards
+! 3 players, 2 all in
+! Flopped card: 5d
+! Flopped card: 6h
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   heyelander               |  67100 |    200 |folded|    |        |
+ 2|   James Scharf             |  46950 |    200 |folded|    |        |
+ 3|   razhell                  |  23900 |   1400 |folded|    |        |
+ 4|>  Bob The Butcher          |  93500 |  18800 |      |  1 |  10000 |
+ 5|   JonM                     |  69675 |   8450 |folded|    |        |
+ 6|   Righteous Indignation    |  13650 |    200 |folded|    |        |
+ 7|D  jasong            |      0 |   8450 |all-in|  4 |  36800 |
+ 8|   Chris Edwards            |  28900 |    800 |folded|    |        |
+ 9|   Chris Learmonth          |      0 |   8800 |all-in|  2 |    700 |
+10|   Al Hambra                |  60525 |    200 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 01/20/15 13:31:26! Dealing a new hand
+! 01/20/15 13:31:26! Everyone antes $200
+! 01/20/15 13:31:26! Chris Edwards blinds $600
+! 01/20/15 13:31:26! Chris Learmonth blinds $1200
+! 01/20/15 13:32:27! Al Hambra folds
+! 01/20/15 14:23:01! heyelander folds
+! 01/20/15 14:23:01! James Scharf folds
+! 01/20/15 15:39:34! razhell calls 
+! 01/20/15 16:09:26! Bob The Butcher calls 
+! 01/20/15 16:11:09! JonM calls 
+! 01/20/15 16:11:09! Righteous Indignation folds
+! 01/20/15 16:11:09! jasong raises $7050 and is all in
+! 01/21/15 05:48:21! Chris Edwards folds
+_____________________________________________________________________________
+
+! On 20 January 2015 at 21:31, <dealer@wrgpt.org> wrote:
+! (dealer suppressed lines starting with '>' or ':')
+! -- Chris Learmonth --
+_____________________________________________________________________________
+
+! 01/21/15 06:40:27! Chris Learmonth calls 
+! 01/21/15 06:40:27! razhell folds
+! 01/21/15 06:54:06! Bob The Butcher calls 
+! 01/21/15 07:11:41! JonM calls 
+
+! 01/21/15 07:11:41! Pot right ($36800), flopping/dealing/drawing cards
+! 01/21/15 07:11:41! 4 players, 1 all in
+! 01/21/15 07:11:41! Flopped cards: Jc Qh 3s
+_____________________________________________________________________________
+
+! well, it's been fun
+! -- Chris Learmonth --
+_____________________________________________________________________________
+
+! 01/21/15 07:37:59! Chris Learmonth bets $350 and is all in
+! 01/21/15 07:56:01! Bob The Butcher raises $10000 
+! 01/21/15 08:31:15! JonM folds
+
+! 01/21/15 08:31:15! Pot right ($47500), flopping/dealing/drawing cards
+! 01/21/15 08:31:15! 3 players, 2 all in
+! 01/21/15 08:31:15! Flopped card: 5d
+! 01/21/15 08:31:15! Flopped card: 6h
+! Hand over, current board is:  Jc Qh 3s 5d 6h
+! Bob The Butcher          has: Jh Kd
+! jasong            has: As Kc
+! Chris Learmonth          has: Ks Js
+! Pot 1: uncalled $10000 returned to Bob The Butcher
+! Pot 2: Bob The Butcher wins $350 with One Pair (J J K Q 6)
+! Pot 2: Chris Learmonth wins $350 with One Pair (J J K Q 6)
+! Pot 4: Bob The Butcher wins $18400 with One Pair (J J K Q 6)
+! Pot 4: Chris Learmonth wins $18400 with One Pair (J J K Q 6)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   heyelander               |  67100 |        |      |    |        |
+ 2|   James Scharf             |  46950 |        |      |    |        |
+ 3|   razhell                  |  23900 |        |      |    |        |
+ 4|>  Bob The Butcher          | 122250 |        |      |    |        |
+ 5|   JonM                     |  69675 |        |      |    |        |
+ 6|   Righteous Indignation    |  13650 |        |      |    |        |
+ 8|D  Chris Edwards            |  28900 |        |      |    |        |
+ 9|   Chris Learmonth          |  18750 |        |      |    |        |
+10|   Al Hambra                |  60525 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! jasong is eliminated!
+! 420 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c36.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Good luck.
+
+======
+
+Live Redraw Status as of 01/21/15 08:25:01 AM
+
+Total Empty Seats: 29
+Total Playing Seats: 421
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+Here is a link to the railbird mailing list:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman24@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

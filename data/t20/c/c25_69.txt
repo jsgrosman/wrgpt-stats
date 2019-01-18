@@ -1,0 +1,94 @@
+Message-Id: <201101022327.p02NRVLI007661@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [c25.10124] Holdem Game Broadcast Message(*)                          
+
+! Table c25, Hand 69, Day 63
+
+! Willard folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|D> Nikadai                  |  69725 |   1950 |      |    |        |
+ 2|   mjoseff                  |  62275 |    250 |folded|    |        |
+ 3|   Willard                  |  17450 |    450 |folded|    |        |
+ 4|   Eddie Brown              |  58650 |     50 |folded|    |        |
+ 5|V  Stanley Chow             |  30200 |     50 |<AWOL>|    |        |
+ 6|   Deborah Abel             |  32300 |     50 |folded|    |        |
+ 7|   jasong            | 112150 |     50 |folded|    |        |
+ 8|   jennyfar                 |  84000 |     50 |folded|    |        |
+ 9|   AW Coody                 |  53600 |     50 |folded|    |        |
+10|   b monie                  |  27500 |     50 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 01/01/11 11:55:02! Dealing a new hand
+! 01/01/11 11:55:02! Everyone antes $50
+! 01/01/11 11:55:02! mjoseff blinds $200
+! 01/01/11 11:55:02! Willard blinds $400
+! 01/01/11 11:59:48! Eddie Brown folds
+! 01/01/11 11:59:48! Stanley Chow is on vacation and folds
+! 01/01/11 11:59:48! Deborah Abel folds
+! 01/01/11 12:59:00! jasong folds
+! 01/01/11 12:59:00! jennyfar folds
+! 01/01/11 12:59:00! AW Coody folds
+! 01/01/11 12:59:00! b monie folds
+! 01/02/11 14:32:21! Nikadai calls 
+! 01/02/11 14:32:21! mjoseff folds
+! 01/02/11 14:46:44! Willard checks
+
+! 01/02/11 14:46:44! Pot right ($1500), flopping/dealing/drawing cards
+! 01/02/11 14:46:44! 2 players
+! 01/02/11 14:46:44! Flopped cards: Qh 3c 5s
+! 01/02/11 14:48:06! Willard checks
+! 01/02/11 14:51:02! Nikadai bets $1500 
+! 01/02/11 15:27:31! Willard folds
+! Hand over, no showdown
+! Current board is:  Qh 3c 5s ? ?
+! Nikadai wins $3000 (net $1050)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|>  Nikadai                  |  72725 |        |      |    |        |
+ 2|D  mjoseff                  |  62275 |        |      |    |        |
+ 3|   Willard                  |  17450 |        |      |    |        |
+ 4|   Eddie Brown              |  58650 |        |      |    |        |
+ 5|V  Stanley Chow             |  30200 |        |<AWOL>|    |        |
+ 6|   Deborah Abel             |  32300 |        |      |    |        |
+ 7|   jasong            | 112150 |        |      |    |        |
+ 8|   jennyfar                 |  84000 |        |      |    |        |
+ 9|   AW Coody                 |  53600 |        |      |    |        |
+10|   b monie                  |  27500 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 615 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c25.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+If you have any problems send mail to floorman20@wrgpt.org.
+
+Live Redraw Status as of 01/02/11 03:25:01 PM
+
+Total Empty Seats: 26
+Total Playing Seats: 616
+Live redraw in progress:
+Seats Needed: 18
+Seats Waiting: 1
+Moving Players Waiting: 0
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org or follow "wrgpt" on Twitter.
+

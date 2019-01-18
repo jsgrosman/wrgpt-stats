@@ -1,0 +1,97 @@
+Message-Id: <201101242313.p0ONDdDA009371@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [c25.10362] Holdem Game Broadcast Message(*)                          
+
+! Table c25, Hand 92, Day 85
+
+! jennyfar calls - side pot
+! Pot right ($197925), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped cards: 7c Jd 10d
+! Flopped card: 4s
+! Flopped card: Js
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Nikadai                  |  11725 |   1400 |folded|    |        |
+ 2|   mjoseff                  | 124275 |    200 |folded|    |        |
+ 3|   Eddie Brown              |      0 | 104325 |all-in|  1 |  30125 |
+ 4|D  jasong            |  52550 |  15800 |folded|    |        |
+ 5|>  jennyfar                 |      0 |  74200 |all-in|  2 | 167800 |
+ 6|   AW Coody                 |  94750 |   1400 |folded|    |        |
+ 7|   b monie                  |  17700 |    200 |folded|    |        |
+ 8|   JAvery - VP              |  10050 |    200 |folded|    |        |
+10|   Its Just AA              | 126325 |    200 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 01/24/11 07:05:24! Dealing a new hand
+! 01/24/11 07:05:24! Everyone antes $200
+! 01/24/11 07:05:24! jennyfar blinds $600
+! 01/24/11 07:05:24! AW Coody blinds $1200
+! 01/24/11 08:01:21! b monie folds
+! 01/24/11 08:01:21! JAvery - VP folds
+! 01/24/11 09:05:05! Its Just AA folds
+! 01/24/11 10:32:26! Nikadai calls 
+! 01/24/11 10:32:26! mjoseff folds
+! 01/24/11 10:33:49! Eddie Brown raises $2400 
+! 01/24/11 11:22:38! jasong raises $12000 
+! 01/24/11 11:54:25! jennyfar calls 
+! 01/24/11 12:25:32! AW Coody folds
+! 01/24/11 13:27:54! Nikadai folds
+! 01/24/11 13:27:54! Eddie Brown raises $88525 and is all in
+! 01/24/11 13:52:30! jasong folds
+! 01/24/11 15:13:38! jennyfar calls - side pot
+
+! 01/24/11 15:13:38! Pot right ($197925), flopping/dealing/drawing cards
+! 01/24/11 15:13:38! 2 players, 2 all in
+! 01/24/11 15:13:38! Flopped cards: 7c Jd 10d
+! 01/24/11 15:13:38! Flopped card: 4s
+! 01/24/11 15:13:38! Flopped card: Js
+! Hand over, current board is:  7c Jd 10d 4s Js
+! Eddie Brown              has: As Ad
+! jennyfar                 has: Ks Qs
+! Pot 1: uncalled $30125 returned to Eddie Brown
+! Pot 2: Eddie Brown wins $167800 with Two Pair (A A J J 10)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Nikadai                  |  11725 |        |      |    |        |
+ 2|   mjoseff                  | 124275 |        |      |    |        |
+ 3|   Eddie Brown              | 197925 |        |      |    |        |
+ 4|D  jasong            |  52550 |        |      |    |        |
+ 6|   AW Coody                 |  94750 |        |      |    |        |
+ 7|   b monie                  |  17700 |        |      |    |        |
+ 8|   JAvery - VP              |  10050 |        |      |    |        |
+10|   Its Just AA              | 126325 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! jennyfar is eliminated!
+! 510 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c25.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+If you have any problems send mail to floorman20@wrgpt.org.
+
+Live Redraw Status as of 01/24/11 02:55:01 PM
+
+Total Empty Seats: 29
+Total Playing Seats: 511
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org or follow "wrgpt" on Twitter.
+

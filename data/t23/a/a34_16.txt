@@ -1,0 +1,124 @@
+Message-Id: <201311080251.rA82pRnu032479@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [a34.10181] Holdem Game Broadcast Message(*)                          
+
+! Table a34, Hand 16, Day 11
+
+! Maple Syrup calls - side pot
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Mafamba                  | 105500 |    100 |folded|    |        |
+ 2|   John Repeat Dance        |  55700 |    100 |folded|    |        |
+ 3|D  Phil Murphy              |  28300 |    100 |folded|    |        |
+ 4|   Sally James              |   6250 |    500 |folded|    |        |
+ 5|>  Mrstcao                  |  25150 |  38200 |      |  1 |   9400 |
+ 6|   Dan Duncan               |   9400 |    100 |folded|    |        |
+ 7|   Maple Syrup              |      0 |  28800 |all-in|  2 |  58800 |
+ 8|   Bryan Juliano            |  53450 |    100 |folded|    |        |
+ 9|   jasong            |  12250 |    100 |folded|    |        |
+10|   Bert                     |  28950 |    100 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 11/07/13 07:50:26! Dealing a new hand
+! 11/07/13 07:50:26! Everyone antes $100
+! 11/07/13 07:50:26! Sally James blinds $400
+! 11/07/13 07:50:26! Mrstcao blinds $800
+! 11/07/13 08:14:15! Dan Duncan folds
+! 11/07/13 09:01:25! Maple Syrup raises $3000 
+! 11/07/13 09:01:25! Bryan Juliano folds
+! 11/07/13 12:31:02! jasong folds
+! 11/07/13 12:31:02! Bert folds
+! 11/07/13 13:36:34! Mafamba folds
+! 11/07/13 13:52:21! John Repeat Dance folds
+! 11/07/13 14:09:59! Phil Murphy folds
+! 11/07/13 14:12:29! Sally James folds
+! 11/07/13 14:34:43! Mrstcao calls 
+
+! 11/07/13 14:34:43! Pot right ($9000), flopping/dealing/drawing cards
+! 11/07/13 14:34:43! 2 players
+! 11/07/13 14:34:43! Flopped cards: 9c 8h As
+! 11/07/13 14:35:53! Mrstcao bets $5300 
+! 11/07/13 14:57:37! Maple Syrup raises $8000 
+! 11/07/13 14:59:11! Mrstcao calls 
+
+! 11/07/13 14:59:11! Pot right ($35600), flopping/dealing/drawing cards
+! 11/07/13 14:59:11! 2 players
+! 11/07/13 14:59:11! Flopped card: 4d
+! 11/07/13 15:00:50! Mrstcao checks
+! 11/07/13 15:31:22! Maple Syrup bets $5500 
+! 11/07/13 15:36:05! Mrstcao raises $5500 
+! 11/07/13 15:57:24! Maple Syrup calls 
+
+! 11/07/13 15:57:24! Pot right ($57600), flopping/dealing/drawing cards
+! 11/07/13 15:57:24! 2 players
+! 11/07/13 15:57:24! Flopped card: 2c
+! 11/07/13 16:04:13! Mrstcao bets $10000 
+! 11/07/13 18:51:24! Maple Syrup calls - side pot
+! Hand over, current board is:  9c 8h As 4d 2c
+! Mrstcao                  has: Ah 5h
+! Maple Syrup              has: Qd Ac
+! Pot 1: uncalled $9400 returned to Mrstcao
+! Pot 2: Maple Syrup wins $58800 with One Pair (A A Q 9 8)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Mafamba                  | 105500 |        |      |    |        |
+ 2|   John Repeat Dance        |  55700 |        |      |    |        |
+ 3|   Phil Murphy              |  28300 |        |      |    |        |
+ 4|D  Sally James              |   6250 |        |      |    |        |
+ 5|>  Mrstcao                  |  34550 |        |      |    |        |
+ 6|   Dan Duncan               |   9400 |        |      |    |        |
+ 7|   Maple Syrup              |  58800 |        |      |    |        |
+ 8|   Bryan Juliano            |  53450 |        |      |    |        |
+ 9|   jasong            |  12250 |        |      |    |        |
+10|   Bert                     |  28950 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 682 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/a/a34.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+This is the practice round.
+Please try advance actions, conditional actions, etc. as it
+doesn't count if you make a mistake now.  
+After the practice round we will start over again with a full stack.
+Timeouts in the practice round DO NOT carry over to the real
+tourney.  (nor do the chips, sorry)
+
+Here is a link to the railbird mailing list:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman23@wrgpt.org.
+
+Live Redraw Status as of 11/07/13 06:25:01 PM
+
+Total Empty Seats: 36
+Total Playing Seats: 674
+Live redraw in progress:
+Seats Needed: 12
+Seats Waiting: 0
+Moving Players Waiting: 2
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+And Tumbler: http://wrgptfloorman.tumblr.com
+Hand history: http://hands.wrgpt.org
+

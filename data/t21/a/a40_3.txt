@@ -1,0 +1,98 @@
+Message-Id: <201111101624.pAAGOYPp013980@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [a40.10041] Holdem Game Broadcast Message(*)                          
+
+! Table a40, Hand 3, Day 8
+
+! Eric Moore folds
+! ChrisG folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|D  Don Todd                 |  29950 |      0 |folded|    |        |
+ 2|   Stetson2850              |  29600 |    200 |folded|    |        |
+ 3|   KO Mike                  |  89750 |    400 |folded|    |        |
+ 4|   mbd1mbd1                 |  34100 |      0 |folded|    |        |
+ 5|   ChrisG                   |  29200 |    800 |folded|    |        |
+ 6|>  jasong            |  27600 |   2300 |      |    |        |
+ 7|V  Sin Memoria              |  30000 |      0 | NoSho|    |        |
+ 8|   srushe                   |  30000 |      0 |folded|    |        |
+ 9|   Eric Moore               |  25200 |    800 |folded|    |        |
+10|   Tom B                    |  30000 |      0 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 11/08/11 07:25:03! Dealing a new hand
+! 11/08/11 07:25:03! No ante
+! 11/08/11 07:25:03! Stetson2850 blinds $200
+! 11/08/11 07:25:03! KO Mike blinds $400
+! 11/08/11 08:31:30! mbd1mbd1 folds
+! 11/08/11 09:05:22! ChrisG raises $400 
+! 11/08/11 09:05:22! jasong calls 
+! 11/08/11 09:05:22! Sin Memoria is on vacation and folds
+! 11/08/11 09:53:20! srushe folds
+! 11/08/11 09:54:39! Eric Moore calls 
+! 11/08/11 10:31:47! Tom B folds
+! 11/08/11 10:34:52! Don Todd folds
+! 11/09/11 06:42:02! Stetson2850 folds
+! 11/10/11 06:17:44! KO Mike folds
+
+! 11/10/11 06:17:44! Pot right ($3000), flopping/dealing/drawing cards
+! 11/10/11 06:17:44! 3 players
+! 11/10/11 06:17:44! Flopped cards: 3h 10d 9s
+! 11/10/11 06:28:33! ChrisG checks
+! 11/10/11 07:30:05! jasong bets $1500 
+! 11/10/11 08:24:33! Eric Moore folds
+! 11/10/11 08:24:33! ChrisG folds
+! Hand over, no showdown
+! Current board is:  3h 10d 9s ? ?
+! jasong wins $4500 (net $2200)
+! Antes and blinds go up
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Don Todd                 |  29950 |        |      |    |        |
+ 2|D  Stetson2850              |  29600 |        |      |    |        |
+ 3|   KO Mike                  |  89750 |        |      |    |        |
+ 4|   mbd1mbd1                 |  34100 |        |      |    |        |
+ 5|   ChrisG                   |  29200 |        |      |    |        |
+ 6|>  jasong            |  32100 |        |      |    |        |
+ 7|V  Sin Memoria              |  30000 |        | NoSho|    |        |
+ 8|   srushe                   |  30000 |        |      |    |        |
+ 9|   Eric Moore               |  25200 |        |      |    |        |
+10|   Tom B                    |  30000 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! Stetson2850 timed out during this hand
+! KO Mike timed out during this hand
+! 618 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/a/a40.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the practice round.
+
+This is a PRACTICE round.  Try things.  Try ADVANCE action to speed the game.
+
+Having problems? Send email to floorman21@wrgpt.org.
+Live Redraw Status as of 11/10/11 07:55:05 AM
+
+Total Empty Seats: 22
+Total Playing Seats: 618
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+You can follow "wrgpt" on Twitter.
+

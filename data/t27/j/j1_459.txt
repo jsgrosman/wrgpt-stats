@@ -1,0 +1,110 @@
+X-BeenThere: railbird@lists.wrgpt.org
+X-Mailman-Version: 2.1.16
+Precedence: list
+Reply-To: dealer@wrgpt.org
+List-Id: WRGPT Rail <railbird.lists.wrgpt.org>
+List-Unsubscribe: <http://lists.wrgpt.org/options/railbird>,
+ <mailto:railbird-request@lists.wrgpt.org?subject=unsubscribe>
+List-Archive: <http://lists.wrgpt.org/pipermail/railbird/>
+List-Help: <mailto:railbird-request@lists.wrgpt.org?subject=help>
+List-Subscribe: <http://lists.wrgpt.org/listinfo/railbird>,
+ <mailto:railbird-request@lists.wrgpt.org?subject=subscribe>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+Errors-To: railbird-bounces@lists.wrgpt.org
+Sender: "Railbird" <railbird-bounces@lists.wrgpt.org>
+
+! Table j1, Hand 459, Day 193
+
+! Lets Go Red Sox folds
+! StingRay folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|   Lets Go Red Sox          |12284000 |  225000 |folded|    |         |
+ 4|   StingRay                 |11633275 |  225000 |folded|    |         |
+10|D> Quiet Lion               | 2442650 |  393750 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 05/02/18 21:07:34! Dealing a new hand
+! 05/02/18 21:07:34! Everyone antes $5000
+! 05/02/18 21:07:34! Lets Go Red Sox blinds $50000
+! 05/02/18 21:07:34! StingRay blinds $100000
+! 05/02/18 22:29:01! Quiet Lion raises $120000 to $220000 total 
+! 05/03/18 00:40:45! Lets Go Red Sox calls 
+! 05/03/18 01:16:59! StingRay calls 
+
+! 05/03/18 01:16:59! Pot right ($675000), flopping/dealing/drawing cards
+! 05/03/18 01:16:59! 3 players
+! 05/03/18 01:16:59! Flopped cards: 5d 9s Jd
+! 05/03/18 06:47:52! Lets Go Red Sox checks
+! 05/03/18 06:50:05! StingRay checks
+! 05/03/18 06:58:24! Quiet Lion bets $168750 
+! 05/03/18 07:52:51! Lets Go Red Sox folds
+! 05/03/18 07:52:51! StingRay folds
+! Hand over, no showdown
+! Current board is:  5d 9s Jd ? ?
+! Quiet Lion wins $843750 (net $450000)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|D  Lets Go Red Sox          |12284000 |         |      |    |         |
+ 4|   StingRay                 |11633275 |         |      |    |         |
+10|>  Quiet Lion               | 3286400 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/j/j1.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+However, if there were prizes they would pay the top 63 entrants.
+The standings are now showing theoretical prizes if WRGPT were a
+10k event.
+
+======
+
+Live Redraw Status as of 05/03/18 07:25:02 AM
+
+Total Empty Seats: 7
+Total Playing Seats: 3
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman27@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

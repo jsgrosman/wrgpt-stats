@@ -1,0 +1,122 @@
+Subject: [b46.10159] Holdem Game Broadcast Message(*)
+
+! Table b46, Hand 10, Day 6
+
+! njflaco calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  njflaco                  |   22625 |   27075 |      |    |         |
+ 2|   tx4allTheFish            |   52325 |      75 |folded|    |         |
+ 3|   Donald Neilson           |   56350 |     300 |folded|    |         |
+ 4|>  scjansen                 |   17000 |   27075 |      |    |         |
+ 5|   Scoobs                   |   49675 |       0 |folded|    |         |
+ 6|   Svante Wester            |   46575 |       0 |folded|    |         |
+ 7|   SaucySlingo              |   49825 |     300 |folded|    |         |
+ 8|   Bob Brewster             |   51175 |       0 |folded|    |         |
+ 9|   Dr. Flush                |   47750 |    1875 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/16/18 12:22:12! Dealing a new hand
+! 11/16/18 12:22:12! No ante
+! 11/16/18 12:22:12! tx4allTheFish blinds $75
+! 11/16/18 12:22:12! Donald Neilson blinds $150
+! 11/16/18 12:33:14! scjansen raises $150 to $300 total 
+! 11/16/18 13:54:41! Scoobs folds
+! 11/16/18 13:54:41! Svante Wester folds
+! 11/16/18 14:53:54! SaucySlingo calls 
+! 11/16/18 14:53:54! Bob Brewster folds
+! 11/16/18 17:36:39! Dr. Flush calls 
+! 11/16/18 18:14:30! njflaco calls 
+! 11/17/18 00:44:04! tx4allTheFish folds
+! 11/17/18 07:48:28! Donald Neilson calls 
+
+! 11/17/18 07:48:28! Pot right ($1575), flopping/dealing/drawing cards
+! 11/17/18 07:48:28! 5 players
+! 11/17/18 07:48:28! Flopped cards: 8d 5d 9h
+! 11/17/18 07:53:01! Donald Neilson checks
+! 11/17/18 08:03:50! scjansen bets $1575 
+! 11/17/18 08:05:55! SaucySlingo folds
+! 11/17/18 08:53:34! Dr. Flush calls 
+! 11/17/18 10:03:51! njflaco calls 
+! 11/17/18 10:03:51! Donald Neilson folds
+
+! 11/17/18 10:03:51! Pot right ($6300), flopping/dealing/drawing cards
+! 11/17/18 10:03:51! 3 players
+! 11/17/18 10:03:51! Flopped card: 5h
+! 11/17/18 10:45:49! scjansen bets $6300 
+! 11/17/18 11:00:52! Dr. Flush folds
+! 11/17/18 11:05:25! njflaco calls 
+
+! 11/17/18 11:05:25! Pot right ($18900), flopping/dealing/drawing cards
+! 11/17/18 11:05:25! 2 players
+! 11/17/18 11:05:25! Flopped card: 6s
+! 11/17/18 11:43:52! scjansen bets $18900 
+! 11/17/18 12:09:39! njflaco calls 
+! Hand over, current board is:  8d 5d 9h 5h 6s
+! njflaco                  has: 6h 5c
+! scjansen                 has: 9d 9c
+! scjansen wins $56700 (net $29625) with Full House (9 9 9 5 5)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   njflaco                  |   22625 |         |      |    |         |
+ 2|D  tx4allTheFish            |   52325 |         |      |    |         |
+ 3|   Donald Neilson           |   56350 |         |      |    |         |
+ 4|>  scjansen                 |   73700 |         |      |    |         |
+ 5|   Scoobs                   |   49675 |         |      |    |         |
+ 6|   Svante Wester            |   46575 |         |      |    |         |
+ 7|   SaucySlingo              |   49825 |         |      |    |         |
+ 8|   Bob Brewster             |   51175 |         |      |    |         |
+ 9|   Dr. Flush                |   47750 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 576 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b46.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

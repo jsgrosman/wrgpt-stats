@@ -1,0 +1,115 @@
+Message-Id: <201403231933.s2NJXe2e017639@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [d3.10328] Holdem Game Broadcast Message(*)                          
+
+! Table d3, Hand 195, Day 133
+
+! John Kugelman folds
+! paze folds
+! Liam OConnell raises $14575 and is all in
+! Pot right ($111825), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped cards: 10h 6d 3h
+! Flopped card: Jd
+! Flopped card: 10s
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|>  Liam OConnell            |      0 |  59800 |all-in|  1 |  14575 |
+ 2|   jasong            | 120300 |    600 |folded|    |        |
+ 3|   madking                  | 101000 |    600 |folded|    |        |
+ 4|   Johan Blixt              |  16500 |    600 |folded|    |        |
+ 5|   Jay E The Wanderer       | 189600 |    600 |folded|    |        |
+ 6|   kaplaba                  |  38800 |    600 |folded|    |        |
+ 7|   BIG MIKE                 |      0 |  45225 |all-in|  2 |  97250 |
+ 8|   Larry Stone              | 137200 |    600 |folded|    |        |
+ 9|D  John Kugelman            | 377700 |    600 |folded|    |        |
+10|   paze                     | 132725 |   2600 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 03/22/14 18:44:44! Dealing a new hand
+! 03/22/14 18:44:44! Everyone antes $600
+! 03/22/14 18:44:44! paze blinds $2000
+! 03/22/14 18:44:44! Liam OConnell blinds $4000
+! 03/22/14 18:45:52! jasong folds
+! 03/22/14 20:24:03! madking folds
+! 03/23/14 00:49:02! Johan Blixt folds
+! 03/23/14 00:49:02! Jay E The Wanderer folds
+! 03/23/14 00:49:02! kaplaba folds
+! 03/23/14 12:32:51! BIG MIKE raises $40625 and is all in
+! 03/23/14 12:32:51! Larry Stone folds
+! 03/23/14 12:33:39! John Kugelman folds
+! 03/23/14 12:33:39! paze folds
+! 03/23/14 12:33:39! Liam OConnell raises $14575 and is all in
+
+! 03/23/14 12:33:39! Pot right ($111825), flopping/dealing/drawing cards
+! 03/23/14 12:33:39! 2 players, 2 all in
+! 03/23/14 12:33:39! Flopped cards: 10h 6d 3h
+! 03/23/14 12:33:39! Flopped card: Jd
+! 03/23/14 12:33:39! Flopped card: 10s
+! Hand over, current board is:  10h 6d 3h Jd 10s
+! Liam OConnell            has: Kh Kd
+! BIG MIKE                 has: Ks Qs
+! Pot 1: uncalled $14575 returned to Liam OConnell
+! Pot 2: Liam OConnell wins $97250 with Two Pair (K K 10 10 J)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|>  Liam OConnell            | 111825 |        |      |    |        |
+ 2|   jasong            | 120300 |        |      |    |        |
+ 3|   madking                  | 101000 |        |      |    |        |
+ 4|   Johan Blixt              |  16500 |        |      |    |        |
+ 5|   Jay E The Wanderer       | 189600 |        |      |    |        |
+ 6|   kaplaba                  |  38800 |        |      |    |        |
+ 8|   Larry Stone              | 137200 |        |      |    |        |
+ 9|   John Kugelman            | 377700 |        |      |    |        |
+10|D  paze                     | 132725 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! BIG MIKE is eliminated!
+! 149 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d3.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+There will be no more live redraws for the "d" round.
+The round will continue until any table gets below six players
+at which time a full redraw will occur.
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+Here is a link to the railbird mailing list:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman23@wrgpt.org.
+
+Live Redraw Status as of 03/23/14 12:25:01 PM
+
+Total Empty Seats: 10
+Total Playing Seats: 150
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

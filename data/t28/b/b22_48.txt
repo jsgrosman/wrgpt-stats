@@ -1,0 +1,114 @@
+Subject: [b22.10434] Holdem Game Broadcast Message(*)
+
+! Table b22, Hand 48, Day 26
+
+! Clark Olson bets $15000 
+! JZK folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|V  Taki                     |   48125 |       0 |  busy|    |         |
+ 2|V  Alex K                   |   48575 |       0 | NoSho|    |         |
+ 3|D  Ace Squared              |   46650 |       0 |folded|    |         |
+ 4|   JZK                      |   92850 |    7500 |folded|    |         |
+ 5|>  Clark Olson              |   24875 |   22500 |      |    |         |
+ 6|   Derek Noakes             |   53225 |       0 |folded|    |         |
+ 7|   starrman99               |   52150 |       0 |folded|    |         |
+ 8|   bignacho                 |   54675 |       0 |folded|    |         |
+ 9|   micwso                   |   45800 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/07/18 08:03:34! Dealing a new hand
+! 12/07/18 08:03:34! No ante
+! 12/07/18 08:03:34! JZK blinds $150
+! 12/07/18 08:03:34! Clark Olson blinds $300
+! 12/07/18 09:34:27! Derek Noakes folds
+! 12/07/18 09:52:53! starrman99 folds
+! 12/07/18 09:52:53! bignacho folds
+! 12/07/18 09:52:53! micwso folds
+! 12/07/18 09:52:53! Taki is on vacation and folds
+! 12/07/18 09:52:53! Alex K is on vacation and folds
+! 12/07/18 09:55:59! Ace Squared folds
+! 12/07/18 11:35:21! JZK raises $450 to $750 total 
+! 12/07/18 11:47:30! Clark Olson raises $1000 to $1750 total 
+! 12/07/18 11:52:21! JZK raises $2250 to $4000 total 
+! 12/07/18 11:54:19! Clark Olson calls 
+
+! 12/07/18 11:54:19! Pot right ($8000), flopping/dealing/drawing cards
+! 12/07/18 11:54:19! 2 players
+! 12/07/18 11:54:19! Flopped cards: Qd 5h Ah
+! 12/07/18 11:56:35! JZK bets $3500 
+! 12/07/18 11:58:26! Clark Olson calls 
+
+! 12/07/18 11:58:26! Pot right ($15000), flopping/dealing/drawing cards
+! 12/07/18 11:58:26! 2 players
+! 12/07/18 11:58:26! Flopped card: 3h
+! 12/07/18 11:59:44! JZK checks
+! 12/07/18 12:03:13! Clark Olson bets $15000 
+! 12/07/18 12:03:13! JZK folds
+! Hand over, no showdown
+! Current board is:  Qd 5h Ah 3h ?
+! Clark Olson wins $30000 (net $7500)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|V  Taki                     |   48125 |         |  busy|    |         |
+ 2|V  Alex K                   |   48575 |         | NoSho|    |         |
+ 3|   Ace Squared              |   46650 |         |      |    |         |
+ 4|D  JZK                      |   92850 |         |      |    |         |
+ 5|>  Clark Olson              |   54875 |         |      |    |         |
+ 6|   Derek Noakes             |   53225 |         |      |    |         |
+ 7|   starrman99               |   52150 |         |      |    |         |
+ 8|   bignacho                 |   54675 |         |      |    |         |
+ 9|   micwso                   |   45800 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 513 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b22.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,127 @@
+Subject: [b51.10239] Holdem Game Broadcast Message(*)
+
+! Table b51, Hand 16, Day 13
+
+! Eric Moore folds
+! Willy Eckerslyke calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Quiet Lion               |   48475 |       0 |folded|    |         |
+ 2|   JRX                      |   47900 |       0 |folded|    |         |
+ 3|   Eric Moore               |   49850 |    5850 |folded|    |         |
+ 4|   Willy Eckerslyke         |   11400 |   33850 |      |    |         |
+ 5|   Dalai Pookah             |   42175 |       0 |folded|    |         |
+ 6|>  Steve Zagieboylo         |   27850 |   33850 |      |    |         |
+ 7|D  Scooter                  |   46550 |       0 |folded|    |         |
+ 8|   BigElmo                  |   49025 |      75 |folded|    |         |
+ 9|   PvtPyle                  |   52675 |     475 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/23/18 15:02:02! Dealing a new hand
+! 11/23/18 15:02:02! No ante
+! 11/23/18 15:02:02! BigElmo blinds $75
+! 11/23/18 15:02:02! PvtPyle blinds $150
+! 11/23/18 15:03:02! Quiet Lion folds
+! 11/24/18 06:56:44! JRX folds
+! 11/24/18 07:59:02! Eric Moore raises $325 to $475 total 
+! 11/24/18 08:15:13! Willy Eckerslyke calls 
+! 11/24/18 08:25:26! Dalai Pookah folds
+! 11/24/18 08:35:21! Steve Zagieboylo calls 
+! 11/24/18 08:35:21! Scooter folds
+! 11/24/18 08:46:47! BigElmo folds
+! 11/24/18 12:58:41! PvtPyle calls 
+
+! 11/24/18 12:58:41! Pot right ($1975), flopping/dealing/drawing cards
+! 11/24/18 12:58:41! 4 players
+! 11/24/18 12:58:41! Flopped cards: Jh 3d Kc
+! 11/24/18 13:04:29! PvtPyle checks
+! 11/24/18 13:05:26! Eric Moore bets $1175 
+! 11/24/18 13:21:00! Willy Eckerslyke raises $1200 to $2375 total 
+! 11/24/18 13:58:19! Steve Zagieboylo calls 
+! 11/24/18 14:02:12! PvtPyle folds
+! 11/24/18 14:07:21! Eric Moore calls 
+
+! 11/24/18 14:07:21! Pot right ($9100), flopping/dealing/drawing cards
+! 11/24/18 14:07:21! 3 players
+! 11/24/18 14:07:21! Flopped card: 3s
+! 11/24/18 14:11:22! Eric Moore checks
+! 11/24/18 14:27:24! Willy Eckerslyke bets $3000 
+! 11/24/18 14:29:44! Steve Zagieboylo calls 
+! 11/24/18 14:33:31! Eric Moore calls 
+
+! 11/24/18 14:33:31! Pot right ($18100), flopping/dealing/drawing cards
+! 11/24/18 14:33:31! 3 players
+! 11/24/18 14:33:31! Flopped card: 2c
+! 11/24/18 14:35:10! Eric Moore checks
+! 11/24/18 14:36:22! Willy Eckerslyke bets $6000 
+! 11/24/18 14:40:34! Steve Zagieboylo raises $22000 to $28000 total 
+! 11/24/18 14:44:21! Eric Moore folds
+! 11/24/18 14:44:21! Willy Eckerslyke calls 
+! Hand over, current board is:  Jh 3d Kc 3s 2c
+! Willy Eckerslyke         has: Qs Kd
+! Steve Zagieboylo         has: Ks 3h
+! Steve Zagieboylo wins $74100 (net $40250) with Full House (3 3 3 K K)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Quiet Lion               |   48475 |         |      |    |         |
+ 2|   JRX                      |   47900 |         |      |    |         |
+ 3|   Eric Moore               |   49850 |         |      |    |         |
+ 4|   Willy Eckerslyke         |   11400 |         |      |    |         |
+ 5|   Dalai Pookah             |   42175 |         |      |    |         |
+ 6|>  Steve Zagieboylo         |  101950 |         |      |    |         |
+ 7|   Scooter                  |   46550 |         |      |    |         |
+ 8|D  BigElmo                  |   49025 |         |      |    |         |
+ 9|   PvtPyle                  |   52675 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 564 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b51.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 3
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

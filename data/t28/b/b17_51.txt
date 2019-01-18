@@ -1,0 +1,115 @@
+Subject: [b17.10723] Holdem Game Broadcast Message(*)
+
+! Table b17, Hand 51, Day 37
+
+! shinsook calls 
+! Pot right ($72275), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 4c
+! Flopped card: 9s
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   tekbot                   |   57650 |      25 |folded|    |         |
+ 2|   Sandy                    |   47425 |    5125 |folded|    |         |
+ 3|   Mike DellaBarca          |   40850 |      25 |folded|    |         |
+ 4|   Baldy                    |   82550 |      25 |folded|    |         |
+ 5|>  shinsook                 |  186175 |   31850 |      |    |         |
+ 6|D  Kahomono                 |   31725 |    1125 |folded|    |         |
+ 7|   Toronado13               |   67900 |    1125 |folded|    |         |
+ 8|   Jerry Connolly           |       0 |   31850 |all-in|    |         |
+ 9|   BillDaBear               |  105425 |    1125 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/17/18 12:19:50! Dealing a new hand
+! 12/17/18 12:19:50! Everyone antes $25
+! 12/17/18 12:19:50! Toronado13 blinds $150
+! 12/17/18 12:19:50! Jerry Connolly blinds $300
+! 12/17/18 14:53:55! BillDaBear calls 
+! 12/17/18 14:55:15! tekbot folds
+! 12/17/18 15:03:10! Sandy raises $800 to $1100 total 
+! 12/17/18 16:16:21! Mike DellaBarca folds
+! 12/17/18 16:16:21! Baldy folds
+! 12/17/18 16:22:16! shinsook calls 
+! 12/17/18 16:22:16! Kahomono calls 
+! 12/17/18 18:57:53! Toronado13 calls 
+! 12/17/18 18:58:38! Jerry Connolly calls 
+! 12/17/18 19:26:37! BillDaBear calls 
+
+! 12/17/18 19:26:37! Pot right ($6825), flopping/dealing/drawing cards
+! 12/17/18 19:26:37! 6 players
+! 12/17/18 19:26:37! Flopped cards: 4h 3s Kh
+! 12/17/18 19:27:41! Toronado13 checks
+! 12/17/18 19:36:12! Jerry Connolly checks
+! 12/17/18 21:37:25! BillDaBear checks
+! 12/18/18 05:06:01! Sandy bets $4000 
+! 12/18/18 06:57:04! shinsook calls 
+! 12/18/18 06:57:04! Kahomono folds
+! 12/18/18 07:29:44! Toronado13 folds
+! 12/18/18 07:31:09! Jerry Connolly raises $26725 to $30725 total and is all in
+! 12/18/18 07:31:09! BillDaBear folds
+! 12/18/18 09:11:00! Sandy folds
+! 12/18/18 11:56:17! shinsook calls 
+
+! 12/18/18 11:56:17! Pot right ($72275), flopping/dealing/drawing cards
+! 12/18/18 11:56:17! 2 players, 1 all in
+! 12/18/18 11:56:17! Flopped card: 4c
+! 12/18/18 11:56:17! Flopped card: 9s
+! Hand over, current board is:  4h 3s Kh 4c 9s
+! shinsook                 has: Ks Jh
+! Jerry Connolly           has: 8h 7h
+! shinsook wins $72275 (net $40425) with Two Pair (K K 4 4 J)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   tekbot                   |   57650 |         |      |    |         |
+ 2|   Sandy                    |   47425 |         |      |    |         |
+ 3|   Mike DellaBarca          |   40850 |         |      |    |         |
+ 4|   Baldy                    |   82550 |         |      |    |         |
+ 5|>  shinsook                 |  258450 |         |      |    |         |
+ 6|   Kahomono                 |   31725 |         |      |    |         |
+ 7|D  Toronado13               |   67900 |         |      |    |         |
+ 9|   BillDaBear               |  105425 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Jerry Connolly is eliminated!
+! 460 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b17.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 7
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

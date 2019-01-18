@@ -1,0 +1,105 @@
+Message-Id: <200901201656.n0KGujwY005203@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+Reply-To: dealer@wrgpt.org
+From: dealer@wrgpt.org
+Subject: [c56.10221] Holdem Game Broadcast Message(*)          
+
+! Table c56, Hand 75, Day 79
+
+! Brian Seymour calls 
+! Pot right ($14200), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped cards: 6d 8s 7d
+! Flopped card: 6s
+! Flopped card: 6h
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   The Occupant             |  52050 |    100 |folded|    |        |
+ 2|D  Guy Desjardins           |  19200 |    100 |folded|    |        |
+ 3|   bullman                  |  46900 |    500 |folded|    |        |
+ 4|   mhug2                    |  18600 |    900 |folded|    |        |
+ 5|   jasong            |  17800 |    100 |folded|    |        |
+ 6|   Luke C                   |  18300 |    100 |folded|    |        |
+ 7|   Philip Tussey            |  29400 |    100 |folded|    |        |
+ 8|   funjon                   |      0 |   6100 |all-in|    |        |
+ 9|>  Brian Seymour            |  58600 |   6100 |      |    |        |
+10|   CKRAIZ                   |  92900 |    100 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 01/19/09 08:24:05! Dealing a new hand
+! 01/19/09 08:24:05! Everyone antes $100
+! 01/19/09 08:24:05! bullman blinds $400
+! 01/19/09 08:24:05! mhug2 blinds $800
+! 01/19/09 09:00:30! jasong folds
+! 01/19/09 09:59:43! Luke C folds
+! 01/19/09 09:59:43! Philip Tussey folds
+! 01/19/09 11:45:55! funjon calls 
+! 01/19/09 11:58:32! Brian Seymour raises $4000 
+! 01/19/09 11:58:32! CKRAIZ folds
+! 01/19/09 11:58:32! The Occupant folds
+! 01/19/09 13:01:04! Guy Desjardins folds
+! 01/19/09 13:01:04! bullman folds
+! 01/20/09 06:26:45! mhug2 folds
+_____________________________________________________________________________
+
+! Just dont care anymore.  Time to go back to work.
+! -- funjon --
+_____________________________________________________________________________
+
+! 01/20/09 06:26:45! funjon raises $1200 and is all in
+! 01/20/09 08:56:43! Brian Seymour calls 
+
+! 01/20/09 08:56:43! Pot right ($14200), flopping/dealing/drawing cards
+! 01/20/09 08:56:43! 2 players, 1 all in
+! 01/20/09 08:56:43! Flopped cards: 6d 8s 7d
+! 01/20/09 08:56:43! Flopped card: 6s
+! 01/20/09 08:56:43! Flopped card: 6h
+! Hand over, current board is:  6d 8s 7d 6s 6h
+! funjon                   has: Ks 2s
+! Brian Seymour            has: Ad 9d
+! Brian Seymour wins $14200 (net $8100) with Three of a Kind (6 6 6 A 9)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   The Occupant             |  52050 |        |      |    |        |
+ 2|   Guy Desjardins           |  19200 |        |      |    |        |
+ 3|D  bullman                  |  46900 |        |      |    |        |
+ 4|   mhug2                    |  18600 |        |      |    |        |
+ 5|   jasong            |  17800 |        |      |    |        |
+ 6|   Luke C                   |  18300 |        |      |    |        |
+ 7|   Philip Tussey            |  29400 |        |      |    |        |
+ 9|>  Brian Seymour            |  72800 |        |      |    |        |
+10|   CKRAIZ                   |  92900 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! funjon is eliminated!
+! 609 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c56.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+The last live redraw for the "c" round could begin
+as late as January 21, 2009.
+
+Live Redraw Status as of 01/20/09 08:55:00 AM
+
+Total Empty Seats: 20
+Total Playing Seats: 610
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org
+

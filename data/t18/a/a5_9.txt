@@ -1,0 +1,99 @@
+Message-Id: <200810302128.m9ULSgsp004373@elvis.wrgpt.org>
+To: jsgrosman@yahoo.com
+Reply-To: dealer@wrgpt.org
+From: dealer@wrgpt.org
+Subject: [a5.10108] Holdem Game Broadcast Message(*)          
+
+! Table a5, Hand 9, Day 11
+
+! CPT-Ron calls - side pot
+! Pot right ($92800), flopping/dealing/drawing cards
+! 3 players, 3 all in
+! Flopped cards: Qc 6d Js
+! Flopped card: 9d
+! Flopped card: Ah
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 2|   JPawloski                |  31650 |    900 |folded|    |        |
+ 3|   Jim McGill               |      0 |  54200 |all-in|  1 |  34700 |
+ 4|   shou72                   |  23200 |    100 |folded|    |        |
+ 5|>  CPT-Ron                  |      0 |  17800 |all-in|  3 |  54700 |
+ 6|   Garnett21k               |      0 |  19500 |all-in|  2 |   3400 |
+ 7|   Ortzy                    |  15150 |    100 |folded|    |        |
+ 9|   jasong            |  18000 |    100 |folded|    |        |
+10|DV Shadim                   |  19200 |    100 | NoSho|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 10/30/08 09:35:31! Dealing a new hand
+! 10/30/08 09:35:31! Everyone antes $100
+! 10/30/08 09:35:31! JPawloski blinds $800
+! 10/30/08 12:56:25! Jim McGill raises $2000 
+! 10/30/08 13:48:02! shou72 folds
+! 10/30/08 13:56:32! CPT-Ron calls 
+! 10/30/08 13:56:32! Garnett21k raises $16600 and is all in
+! 10/30/08 13:56:32! Ortzy folds
+! 10/30/08 14:19:55! jasong folds
+! 10/30/08 14:19:55! Shadim is on vacation and folds
+! 10/30/08 14:19:55! JPawloski folds
+! 10/30/08 14:19:55! Jim McGill raises $34700 and is all in
+! 10/30/08 14:28:40! CPT-Ron calls - side pot
+
+! 10/30/08 14:28:40! Pot right ($92800), flopping/dealing/drawing cards
+! 10/30/08 14:28:40! 3 players, 3 all in
+! 10/30/08 14:28:40! Flopped cards: Qc 6d Js
+! 10/30/08 14:28:40! Flopped card: 9d
+! 10/30/08 14:28:40! Flopped card: Ah
+! Hand over, current board is:  Qc 6d Js 9d Ah
+! Jim McGill               has: 10d 10c
+! CPT-Ron                  has: 8d 8c
+! Garnett21k               has: 5h 4h
+! Pot 1: uncalled $34700 returned to Jim McGill
+! Pot 2: Jim McGill wins $3400 with One Pair (10 10 A Q J)
+! Pot 3: Jim McGill wins $54700 with One Pair (10 10 A Q J)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 2|   JPawloski                |  31650 |        |      |    |        |
+ 3|   Jim McGill               |  92800 |        |      |    |        |
+ 4|   shou72                   |  23200 |        |      |    |        |
+ 7|   Ortzy                    |  15150 |        |      |    |        |
+ 9|   jasong            |  18000 |        |      |    |        |
+10|DV Shadim                   |  19200 |        | NoSho|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! CPT-Ron is eliminated!
+! Garnett21k is eliminated!
+! 737 players left in the tournament, 2 tables down to six players
+! A new hand will be dealt shortly
+
+
+TOURNEY INFORMATION
+
+
+NOTICE:
+
+Any email or start time changes made in the practice round
+DO NOT CARRY OVER to the real tourney.  If you want them
+to stay you will need to enter them again after the
+real tourney starts.
+
+This is the PRACTICE round.  It will go until about 10/31 and
+stop without warning.  This round does not count.  You will
+start with a full stack of chips when the real tourney starts
+on or about November 4.
+
+So, use this to try out ADVANCE actions.  That is, not hard
+actions, but, rather, actions taken in ADVANCE of your turn.
+They are pretty easy.  Check out the links below.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org
+

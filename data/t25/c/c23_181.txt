@@ -1,0 +1,118 @@
+
+! Table c23, Hand 181, Day 91
+
+! Ryan600 calls - side pot
+! Pot right ($187575), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped cards: 5h 4s 4d
+! Flopped card: 6s
+! Flopped card: Qs
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   jasong            |  55375 |    300 |folded|    |        |
+ 2|   MojoJojo                 |  84075 |    300 |folded|    |        |
+ 3|   the cake is a pie        |      0 | 100775 |all-in|  1 |  19375 |
+ 4|V  Walter Hunt              |  41500 |    300 |   MON|    |        |
+ 5|>  Ryan600                  |      0 |  81400 |all-in|  2 | 168200 |
+ 6|D  Murtan                   |  84200 |    300 |folded|    |        |
+ 7|   888                      | 112750 |   1300 |folded|    |        |
+ 8|   Bob                      |  93650 |   2300 |folded|    |        |
+ 9|   GestaltyDog              |  21700 |    300 |folded|    |        |
+10|   Ed Fernandez             |  19250 |    300 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 01/24/16 00:36:59! Dealing a new hand
+! 01/24/16 00:36:59! Everyone antes $300
+! 01/24/16 00:36:59! 888 blinds $1000
+! 01/24/16 00:36:59! Bob blinds $2000
+! 01/24/16 08:07:17! GestaltyDog folds
+! 01/24/16 10:20:57! Ed Fernandez folds
+! 01/24/16 10:20:57! jasong folds
+! 01/24/16 10:20:57! MojoJojo folds
+! 01/24/16 10:23:32! the cake is a pie raises $3700 
+! 01/24/16 10:23:32! Walter Hunt is on vacation and folds
+! 01/24/16 11:24:39! Ryan600 raises $6300 
+! 01/24/16 13:32:49! Murtan folds
+! 01/24/16 13:32:49! 888 folds
+! 01/24/16 13:32:49! Bob folds
+! 01/24/16 13:42:51! the cake is a pie raises $88475 and is all in
+! 01/24/16 14:01:57! Ryan600 calls - side pot
+
+! 01/24/16 14:01:57! Pot right ($187575), flopping/dealing/drawing cards
+! 01/24/16 14:01:57! 2 players, 2 all in
+! 01/24/16 14:01:57! Flopped cards: 5h 4s 4d
+! 01/24/16 14:01:57! Flopped card: 6s
+! 01/24/16 14:01:57! Flopped card: Qs
+! Hand over, current board is:  5h 4s 4d 6s Qs
+! the cake is a pie        has: Jd Jc
+! Ryan600                  has: 10h 7h
+! Pot 1: uncalled $19375 returned to the cake is a pie
+! Pot 2: the cake is a pie wins $168200 with Two Pair (J J 4 4 Q)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   jasong            |  55375 |        |      |    |        |
+ 2|   MojoJojo                 |  84075 |        |      |    |        |
+ 3|   the cake is a pie        | 187575 |        |      |    |        |
+ 4|V  Walter Hunt              |  41500 |        |   MON|    |        |
+ 6|   Murtan                   |  84200 |        |      |    |        |
+ 7|D  888                      | 112750 |        |      |    |        |
+ 8|   Bob                      |  93650 |        |      |    |        |
+ 9|   GestaltyDog              |  21700 |        |      |    |        |
+10|   Ed Fernandez             |  19250 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! Ryan600 is eliminated!
+! 253 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c23.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+There will be no further live redraws for the "c" round
+as we have been playing over 30 days.  When the first table
+gets to five or fewer players every table will finish the
+current hand and a full redraw will occur.
+
+======
+
+Live Redraw Status as of 01/24/16 01:55:02 PM
+
+Total Empty Seats: 26
+Total Playing Seats: 254
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman25@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

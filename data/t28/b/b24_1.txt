@@ -1,0 +1,135 @@
+Subject: [b24.10029] Holdem Game Broadcast Message(*)
+
+! Table b24, Hand 1, Day 2
+
+! Mugsy checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  janie                    |   49625 |     375 |folded|    |         |
+ 2|   Loboc                    |   49925 |      75 |folded|    |         |
+ 3|>  StewieG                  |   48875 |    1125 |      |    |         |
+ 4|   Wally F                  |   50000 |       0 |folded|    |         |
+ 5|   Der Olf                  |   48875 |    1125 |      |    |         |
+ 6|   Darse Billings           |   50000 |       0 |folded|    |         |
+ 7|   Mugsy                    |   48875 |    1125 |      |    |         |
+ 8|   Buggilla                 |   49625 |     375 |folded|    |         |
+ 9|   BigBlind                 |   49625 |     375 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/12/18 00:34:41! Mugsy is back from vacation
+! 11/12/18 01:54:45! Loboc is back from vacation
+! 11/12/18 04:55:36! Buggilla is back from vacation
+! 11/12/18 05:29:01! Der Olf is back from vacation
+! 11/12/18 05:42:52! janie is back from vacation
+! 11/12/18 05:54:19! BigBlind is back from vacation
+! 11/12/18 06:42:00! StewieG is back from vacation
+! 11/12/18 09:07:38! Wally F is back from vacation
+! 11/12/18 10:19:02! Darse Billings is back from vacation
+! 11/12/18 10:19:03! Dealing a new hand
+! 11/12/18 10:19:03! No ante
+! 11/12/18 10:19:03! Loboc blinds $75
+! 11/12/18 10:19:03! StewieG blinds $150
+! 11/12/18 10:41:39! Wally F folds
+! 11/12/18 11:20:22! Der Olf calls 
+! 11/12/18 11:20:22! Darse Billings folds
+! 11/12/18 11:25:22! Mugsy raises $225 to $375 total 
+! 11/12/18 11:34:30! Buggilla calls 
+! 11/12/18 11:50:09! BigBlind calls 
+! 11/12/18 12:08:34! janie calls 
+! 11/12/18 12:08:34! Loboc folds
+! 11/12/18 12:11:54! StewieG calls 
+! 11/12/18 12:40:13! Der Olf calls 
+
+! 11/12/18 12:40:13! Pot right ($2325), flopping/dealing/drawing cards
+! 11/12/18 12:40:13! 6 players
+! 11/12/18 12:40:13! Flopped cards: 4d Qh 8h
+! 11/12/18 13:24:29! StewieG checks
+! 11/12/18 16:51:26! Der Olf bets $750 
+! 11/13/18 00:05:59! Mugsy calls 
+! 11/13/18 00:05:59! Buggilla folds
+! 11/13/18 04:07:13! BigBlind folds
+! 11/13/18 04:07:13! janie folds
+! 11/13/18 05:35:34! StewieG calls 
+
+! 11/13/18 05:35:34! Pot right ($4575), flopping/dealing/drawing cards
+! 11/13/18 05:35:34! 3 players
+! 11/13/18 05:35:34! Flopped card: 10c
+! 11/13/18 05:37:31! StewieG checks
+! 11/13/18 06:08:01! Der Olf checks
+! 11/13/18 06:43:54! Mugsy checks
+
+! 11/13/18 06:43:54! Pot right ($4575), flopping/dealing/drawing cards
+! 11/13/18 06:43:54! 3 players
+! 11/13/18 06:43:54! Flopped card: Kh
+! 11/13/18 06:50:04! StewieG checks
+! 11/13/18 08:19:16! Der Olf checks
+! 11/13/18 08:34:04! Mugsy checks
+! Hand over, current board is:  4d Qh 8h 10c Kh
+! StewieG                  has: 5s 6h
+! Der Olf                  has: 7s Qd
+! Mugsy                    has: As 4s
+! Der Olf wins $4575 (net $3450) with One Pair (Q Q K 10 8)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   janie                    |   49625 |         |      |    |         |
+ 2|D  Loboc                    |   49925 |         |      |    |         |
+ 3|>  StewieG                  |   48875 |         |      |    |         |
+ 4|   Wally F                  |   50000 |         |      |    |         |
+ 5|   Der Olf                  |   53450 |         |      |    |         |
+ 6|   Darse Billings           |   50000 |         |      |    |         |
+ 7|   Mugsy                    |   48875 |         |      |    |         |
+ 8|   Buggilla                 |   49625 |         |      |    |         |
+ 9|   BigBlind                 |   49625 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 591 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b24.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 1
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

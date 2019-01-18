@@ -1,0 +1,97 @@
+Message-Id: <201012312318.oBVNIDrg007313@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [c25.10095] Holdem Game Broadcast Message(*)                          
+
+! Table c25, Hand 65, Day 61
+
+! mjoseff calls 
+! Pot right ($35300), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 10c
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|V  Stanley Chow             |  30400 |    250 |<AWOL>|    |        |
+ 2|   Deborah Abel             |  32700 |    450 |folded|    |        |
+ 3|   jasong            | 112950 |     50 |folded|    |        |
+ 7|   jennyfar                 |  75800 |     50 |folded|    |        |
+ 9|   b monie                  |      0 |  17250 |all-in|    |        |
+10|D> mjoseff                  |  61775 |  17250 |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 12/31/10 12:41:46! Dealing a new hand
+! 12/31/10 12:41:46! Everyone antes $50
+! 12/31/10 12:41:46! Stanley Chow blinds $200
+! 12/31/10 12:41:46! Deborah Abel blinds $400
+! 12/31/10 13:00:23! jasong folds
+! 12/31/10 13:01:37! jennyfar folds
+! 12/31/10 13:18:42! b monie raises $1450 
+! 12/31/10 13:23:30! mjoseff calls 
+! 12/31/10 13:23:30! Stanley Chow is on vacation and folds
+! 12/31/10 14:17:42! Deborah Abel folds
+
+! 12/31/10 14:17:42! Pot right ($4600), flopping/dealing/drawing cards
+! 12/31/10 14:17:42! 2 players
+! 12/31/10 14:17:42! Flopped cards: 10s Ac Ks
+! 12/31/10 14:19:03! b monie bets $3300 
+! 12/31/10 14:57:01! mjoseff calls 
+
+! 12/31/10 14:57:01! Pot right ($11200), flopping/dealing/drawing cards
+! 12/31/10 14:57:01! 2 players
+! 12/31/10 14:57:01! Flopped card: As
+! 12/31/10 14:58:06! b monie checks
+! 12/31/10 15:00:11! mjoseff bets $11200 
+! 12/31/10 15:00:47! b monie raises $850 and is all in
+! 12/31/10 15:18:12! mjoseff calls 
+
+! 12/31/10 15:18:12! Pot right ($35300), flopping/dealing/drawing cards
+! 12/31/10 15:18:12! 2 players, 1 all in
+! 12/31/10 15:18:12! Flopped card: 10c
+! Hand over, current board is:  10s Ac Ks As 10c
+! b monie                  has: Ah Jc
+! mjoseff                  has: 7s Jd
+! b monie wins $35300 (net $18050) with Full House (A A A 10 10)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|DV Stanley Chow             |  30400 |        |<AWOL>|    |        |
+ 2|   Deborah Abel             |  32700 |        |      |    |        |
+ 3|   jasong            | 112950 |        |      |    |        |
+ 7|   jennyfar                 |  75800 |        |      |    |        |
+ 9|   b monie                  |  35300 |        |      |    |        |
+10|>  mjoseff                  |  61775 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 621 players left in the tournament, 2 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c25.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+If you have any problems send mail to floorman20@wrgpt.org.
+
+Live Redraw Status as of 12/31/10 02:55:01 PM
+
+Total Empty Seats: 30
+Total Playing Seats: 621
+Live redraw in progress:
+Seats Needed: 27
+Seats Waiting: 0
+Moving Players Waiting: 0
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org or follow "wrgpt" on Twitter.
+

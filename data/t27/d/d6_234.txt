@@ -1,0 +1,109 @@
+
+! Table d6, Hand 234, Day 128
+
+! jasong folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  DGold                    |  138400 |   64000 |      |    |         |
+ 2|   dr54321                  |  124550 |    1000 |folded|    |         |
+ 3|D  jasong            |  137075 |   31000 |folded|    |         |
+ 4|   Ronnie L snyder          |  100200 |    4000 |folded|    |         |
+ 5|   ArikK                    |  399275 |    7000 |folded|    |         |
+ 6|   piojos                   |  192750 |    1000 |folded|    |         |
+ 8|   Lets Go Red Sox          |  282775 |    1000 |folded|    |         |
+ 9|   Joe Nadeau               |   73700 |    1000 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/27/18 17:23:01! Dealing a new hand
+! 02/27/18 17:23:01! Everyone antes $1000
+! 02/27/18 17:23:01! Ronnie L snyder blinds $3000
+! 02/27/18 17:23:01! ArikK blinds $6000
+! 02/27/18 19:40:17! piojos folds
+! 02/27/18 19:40:17! Lets Go Red Sox folds
+! 02/27/18 19:40:17! Joe Nadeau folds
+! 02/27/18 19:42:19! DGold raises $6000 to $12000 total 
+! 02/27/18 19:42:19! dr54321 folds
+! 02/27/18 20:59:13! jasong calls 
+! 02/27/18 20:59:13! Ronnie L snyder folds
+! 02/27/18 21:26:17! ArikK folds
+
+! 02/27/18 21:26:17! Pot right ($41000), flopping/dealing/drawing cards
+! 02/27/18 21:26:17! 2 players
+! 02/27/18 21:26:17! Flopped cards: 2s 9s 7c
+! 02/27/18 21:40:52! DGold bets $18000 
+! 02/27/18 22:21:04! jasong calls 
+
+! 02/27/18 22:21:04! Pot right ($77000), flopping/dealing/drawing cards
+! 02/27/18 22:21:04! 2 players
+! 02/27/18 22:21:04! Flopped card: 7d
+! 02/27/18 22:23:10! DGold bets $33000 
+! 02/27/18 22:50:37! jasong folds
+! Hand over, no showdown
+! Current board is:  2s 9s 7c 7d ?
+! DGold wins $110000 (net $46000)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  DGold                    |  248400 |         |      |    |         |
+ 2|   dr54321                  |  124550 |         |      |    |         |
+ 3|   jasong            |  137075 |         |      |    |         |
+ 4|D  Ronnie L snyder          |  100200 |         |      |    |         |
+ 5|   ArikK                    |  399275 |         |      |    |         |
+ 6|   piojos                   |  192750 |         |      |    |         |
+ 8|   Lets Go Red Sox          |  282775 |         |      |    |         |
+ 9|   Joe Nadeau               |   73700 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 108 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d6.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Live Redraw Status as of 02/27/18 10:25:01 PM
+
+Total Empty Seats: 12
+Total Playing Seats: 108
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman27@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

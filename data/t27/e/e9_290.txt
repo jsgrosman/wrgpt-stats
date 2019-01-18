@@ -1,0 +1,118 @@
+
+! Table e9, Hand 290, Day 149
+
+! Ed Baker folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Andy Pierce              | 1301775 |    1000 |folded|    |         |
+ 2|   Bwana                    |  680550 |    1000 |folded|    |         |
+ 3|   Taki                     |  136600 |    1000 |folded|    |         |
+ 4|   Bob R                    |  477550 |    1000 |folded|    |         |
+ 5|D  Ed Baker                 |  248500 |   41000 |folded|    |         |
+ 6|   jasong            |  683900 |    7000 |folded|    |         |
+ 7|   Jillian McKillican       |  301350 |   13000 |folded|    |         |
+ 8|>  Stephen Mack             |  837300 |   91000 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/19/18 18:07:27! Dealing a new hand
+! 03/19/18 18:07:27! Everyone antes $1000
+! 03/19/18 18:07:27! jasong blinds $6000
+! 03/19/18 18:07:27! Jillian McKillican blinds $12000
+! 03/19/18 19:19:48! Stephen Mack raises $28000 to $40000 total 
+! 03/19/18 19:19:48! Andy Pierce folds
+! 03/19/18 22:33:13! Bwana folds
+! 03/19/18 23:06:44! Taki folds
+! 03/19/18 23:06:44! Bob R folds
+! 03/20/18 03:08:25! Ed Baker calls 
+! 03/20/18 03:08:25! jasong folds
+! 03/20/18 03:08:25! Jillian McKillican folds
+
+! 03/20/18 03:08:25! Pot right ($106000), flopping/dealing/drawing cards
+! 03/20/18 03:08:25! 2 players
+! 03/20/18 03:08:25! Flopped cards: 10s 3c 3h
+! 03/20/18 06:59:12! Stephen Mack checks
+_____________________________________________________________________________
+
+! sorry for the delay
+! -- Ed Baker --
+_____________________________________________________________________________
+
+! 03/20/18 09:39:26! Ed Baker checks
+
+! 03/20/18 09:39:26! Pot right ($106000), flopping/dealing/drawing cards
+! 03/20/18 09:39:26! 2 players
+! 03/20/18 09:39:26! Flopped card: 9h
+! 03/20/18 09:43:44! Stephen Mack bets $50000 
+! 03/20/18 09:49:35! Ed Baker folds
+! Hand over, no showdown
+! Current board is:  10s 3c 3h 9h ?
+! Stephen Mack wins $156000 (net $65000)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Andy Pierce              | 1301775 |         |      |    |         |
+ 2|   Bwana                    |  680550 |         |      |    |         |
+ 3|   Taki                     |  136600 |         |      |    |         |
+ 4|   Bob R                    |  477550 |         |      |    |         |
+ 5|   Ed Baker                 |  248500 |         |      |    |         |
+ 6|D  jasong            |  683900 |         |      |    |         |
+ 7|   Jillian McKillican       |  301350 |         |      |    |         |
+ 8|>  Stephen Mack             |  993300 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 58 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/e/e9.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+However, if there were prizes they would pay the top 63 entrants.
+The standings are now showing theoretical prizes if WRGPT were a
+10k event.
+
+======
+
+Live Redraw Status as of 03/20/18 09:25:01 AM
+
+Total Empty Seats: 6
+Total Playing Seats: 58
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman27@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

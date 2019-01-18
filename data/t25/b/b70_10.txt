@@ -1,0 +1,120 @@
+
+! Table b70, Hand 10, Day 10
+
+! Derrick Martins folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   patricko                 |  31950 |     50 |folded|    |        |
+ 2|   LenFuego                 |  25300 |    450 |folded|    |        |
+ 3|   Wrongfellow              |  32750 |      0 |folded|    |        |
+ 4|   Thomas Gabrysch          |  29850 |      0 |folded|    |        |
+ 5|   Norton                   |  28800 |      0 |folded|    |        |
+ 6|   Derrick Martins          |  31050 |   2950 |folded|    |        |
+ 7|   Handsome Al              |  31500 |      0 |folded|    |        |
+ 8|   Ben Irving               |  25000 |      0 |folded|    |        |
+ 9|>  Sarah D                  |  24300 |   6200 |      |    |        |
+10|D  jasong            |  29850 |      0 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 11/03/15 13:28:10! Dealing a new hand
+! 11/03/15 13:28:10! No ante
+! 11/03/15 13:28:10! patricko blinds $50
+! 11/03/15 13:28:10! LenFuego blinds $100
+! 11/03/15 13:53:12! Wrongfellow folds
+! 11/03/15 14:24:59! Thomas Gabrysch folds
+! 11/03/15 14:24:59! Norton folds
+! 11/03/15 14:56:05! Derrick Martins calls 
+! 11/03/15 16:28:54! Handsome Al folds
+! 11/03/15 20:03:11! Ben Irving folds
+! 11/04/15 10:08:25! Sarah D raises $350 
+! 11/04/15 10:08:25! jasong folds
+! 11/04/15 10:11:23! patricko folds
+! 11/04/15 10:45:53! LenFuego calls 
+! 11/04/15 10:59:53! Derrick Martins calls 
+
+! 11/04/15 10:59:53! Pot right ($1400), flopping/dealing/drawing cards
+! 11/04/15 10:59:53! 3 players
+! 11/04/15 10:59:53! Flopped cards: Jc Js 7h
+! 11/04/15 11:22:06! LenFuego checks
+! 11/04/15 14:16:34! Derrick Martins bets $500 
+! 11/04/15 15:05:34! Sarah D calls 
+! 11/04/15 15:39:53! LenFuego folds
+
+! 11/04/15 15:39:53! Pot right ($2400), flopping/dealing/drawing cards
+! 11/04/15 15:39:53! 2 players
+! 11/04/15 15:39:53! Flopped card: 3c
+! 11/04/15 15:47:08! Derrick Martins bets $2000 
+! 11/04/15 15:48:39! Sarah D raises $3250 
+! 11/04/15 15:49:40! Derrick Martins folds
+! Hand over, no showdown
+! Current board is:  Jc Js 7h 3c ?
+! Sarah D wins $9650 (net $3450)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|D  patricko                 |  31950 |        |      |    |        |
+ 2|   LenFuego                 |  25300 |        |      |    |        |
+ 3|   Wrongfellow              |  32750 |        |      |    |        |
+ 4|   Thomas Gabrysch          |  29850 |        |      |    |        |
+ 5|   Norton                   |  28800 |        |      |    |        |
+ 6|   Derrick Martins          |  31050 |        |      |    |        |
+ 7|   Handsome Al              |  31500 |        |      |    |        |
+ 8|   Ben Irving               |  25000 |        |      |    |        |
+ 9|>  Sarah D                  |  33950 |        |      |    |        |
+10|   jasong            |  29850 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 760 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b70.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+This is the REAL WRGPT.  
+
+Good luck.
+======
+
+Live Redraw Status as of 11/04/15 03:25:02 PM
+
+Total Empty Seats: 30
+Total Playing Seats: 760
+Live redraw in progress:
+Seats Needed: 30
+Seats Waiting: 0
+Moving Players Waiting: 0
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman25@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

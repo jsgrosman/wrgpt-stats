@@ -1,0 +1,121 @@
+Subject: [b49.10197] Holdem Game Broadcast Message(*)
+
+! Table b49, Hand 15, Day 10
+
+! OpinionatedGeek checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Schmuckbox               |   72425 |       0 |folded|    |         |
+ 2|   Rod Hall                 |   18850 |     450 |      |    |         |
+ 3|   Dragon                   |   44800 |       0 |folded|    |         |
+ 4|   OpinionatedGeek          |   50125 |     450 |      |    |         |
+ 5|   Not66                    |   51550 |       0 |folded|    |         |
+ 6|D  Michael                  |   47850 |       0 |folded|    |         |
+ 7|   Keith Troell             |  100700 |      75 |folded|    |         |
+ 8|>  edwin gomez              |   12950 |     450 |      |    |         |
+ 9|   FeltShark                |   49325 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/20/18 14:04:56! Dealing a new hand
+! 11/20/18 14:04:56! No ante
+! 11/20/18 14:04:56! Keith Troell blinds $75
+! 11/20/18 14:04:56! edwin gomez blinds $150
+! 11/20/18 18:33:41! FeltShark folds
+! 11/20/18 18:33:41! Schmuckbox folds
+! 11/20/18 23:02:52! Rod Hall raises $300 to $450 total 
+! 11/20/18 23:02:52! Dragon folds
+! 11/20/18 23:23:48! OpinionatedGeek calls 
+! 11/20/18 23:23:48! Not66 folds
+! 11/20/18 23:23:48! Michael folds
+! 11/21/18 05:14:35! Keith Troell folds
+! 11/21/18 05:53:36! edwin gomez calls 
+
+! 11/21/18 05:53:36! Pot right ($1425), flopping/dealing/drawing cards
+! 11/21/18 05:53:36! 3 players
+! 11/21/18 05:53:36! Flopped cards: 4s 7d 5d
+! 11/21/18 05:55:37! edwin gomez checks
+! 11/21/18 09:36:19! Rod Hall checks
+! 11/21/18 09:40:44! OpinionatedGeek checks
+
+! 11/21/18 09:40:44! Pot right ($1425), flopping/dealing/drawing cards
+! 11/21/18 09:40:44! 3 players
+! 11/21/18 09:40:44! Flopped card: Ac
+! 11/21/18 09:53:22! edwin gomez checks
+! 11/21/18 09:56:51! Rod Hall checks
+! 11/21/18 09:59:28! OpinionatedGeek checks
+
+! 11/21/18 09:59:28! Pot right ($1425), flopping/dealing/drawing cards
+! 11/21/18 09:59:28! 3 players
+! 11/21/18 09:59:28! Flopped card: As
+! 11/21/18 10:32:31! edwin gomez checks
+! 11/21/18 10:32:31! Rod Hall checks
+! 11/21/18 10:34:32! OpinionatedGeek checks
+! Hand over, current board is:  4s 7d 5d Ac As
+! Rod Hall                 has: Kd Qc
+! OpinionatedGeek          has: Ks Jh
+! edwin gomez              has: 8s 9c
+! Rod Hall wins $1425 (net $975) with One Pair (A A K Q 7)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Schmuckbox               |   72425 |         |      |    |         |
+ 2|   Rod Hall                 |   20275 |         |      |    |         |
+ 3|   Dragon                   |   44800 |         |      |    |         |
+ 4|   OpinionatedGeek          |   50125 |         |      |    |         |
+ 5|   Not66                    |   51550 |         |      |    |         |
+ 6|   Michael                  |   47850 |         |      |    |         |
+ 7|D  Keith Troell             |  100700 |         |      |    |         |
+ 8|>  edwin gomez              |   12950 |         |      |    |         |
+ 9|   FeltShark                |   49325 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 569 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b49.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

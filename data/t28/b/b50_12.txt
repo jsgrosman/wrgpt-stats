@@ -1,0 +1,120 @@
+Subject: [b50.10169] Holdem Game Broadcast Message(*)
+
+! Table b50, Hand 12, Day 10
+
+! JADC calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Loudlion                 |   51025 |       0 |folded|    |         |
+ 2|   Swifty                   |   54825 |       0 |folded|    |         |
+ 3|D  ChrisTeaNa               |   52050 |       0 |folded|    |         |
+ 4|   DrSayre                  |       0 |   42475 |all-in|    |         |
+ 5|>  JADC                     |    8825 |   42475 |      |    |         |
+ 6|   denimmined               |   49775 |       0 |folded|    |         |
+ 7|   Nitcast                  |   45650 |       0 |folded|    |         |
+ 8|   Grasshopp3r              |   50875 |       0 |folded|    |         |
+ 9|   Scott Ziegler            |   52025 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/20/18 19:27:18! Dealing a new hand
+! 11/20/18 19:27:18! No ante
+! 11/20/18 19:27:18! DrSayre blinds $75
+! 11/20/18 19:27:18! JADC blinds $150
+! 11/20/18 20:35:39! denimmined folds
+! 11/20/18 21:53:45! Swifty is back from vacation
+! 11/21/18 02:56:59! Nitcast folds
+! 11/21/18 02:56:59! Grasshopp3r folds
+! 11/21/18 02:56:59! Scott Ziegler folds
+! 11/21/18 05:47:33! Loudlion folds
+! 11/21/18 09:15:17! Swifty folds
+! 11/21/18 09:15:17! ChrisTeaNa folds
+! 11/21/18 09:58:06! DrSayre raises $375 to $525 total 
+! 11/21/18 09:59:04! JADC calls 
+
+! 11/21/18 09:59:04! Pot right ($1050), flopping/dealing/drawing cards
+! 11/21/18 09:59:04! 2 players
+! 11/21/18 09:59:04! Flopped cards: 5h As 10c
+! 11/21/18 10:32:11! DrSayre bets $375 
+! 11/21/18 10:33:15! JADC calls 
+
+! 11/21/18 10:33:15! Pot right ($1800), flopping/dealing/drawing cards
+! 11/21/18 10:33:15! 2 players
+! 11/21/18 10:33:15! Flopped card: 9c
+! 11/21/18 10:35:08! DrSayre bets $875 
+! 11/21/18 10:37:30! JADC calls 
+
+! 11/21/18 10:37:30! Pot right ($3550), flopping/dealing/drawing cards
+! 11/21/18 10:37:30! 2 players
+! 11/21/18 10:37:30! Flopped card: Ad
+! 11/21/18 10:43:55! DrSayre bets $2550 
+! 11/21/18 10:44:59! JADC raises $5100 to $7650 total 
+! 11/21/18 10:53:47! DrSayre raises $33050 to $40700 total and is all in
+! 11/21/18 10:55:22! JADC calls 
+! Hand over, current board is:  5h As 10c 9c Ad
+! DrSayre                  has: 10s Ah
+! JADC                     has: 9s 9h
+! DrSayre wins $84950 (net $42475) with Full House (A A A 10 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Loudlion                 |   51025 |         |      |    |         |
+ 2|   Swifty                   |   54825 |         |      |    |         |
+ 3|   ChrisTeaNa               |   52050 |         |      |    |         |
+ 4|D  DrSayre                  |   84950 |         |      |    |         |
+ 5|>  JADC                     |    8825 |         |      |    |         |
+ 6|   denimmined               |   49775 |         |      |    |         |
+ 7|   Nitcast                  |   45650 |         |      |    |         |
+ 8|   Grasshopp3r              |   50875 |         |      |    |         |
+ 9|   Scott Ziegler            |   52025 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 569 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b50.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 7
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

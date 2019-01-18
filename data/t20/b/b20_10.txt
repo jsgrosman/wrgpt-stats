@@ -1,0 +1,106 @@
+Message-Id: <201011081501.oA8F14ne011296@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [b20.10122] Holdem Game Broadcast Message(*)                          
+
+! Table b20, Hand 10, Day 8
+
+! plankton folds
+! JackBlack folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|D  Andrew Nelson            |  34400 |      0 |folded|    |        |
+ 2|   plankton                 |  52075 |    350 |folded|    |        |
+ 4|V  Late Entry 2             |  29750 |    100 | NoSho|    |        |
+ 5|   JackBlack                |  23775 |    350 |folded|    |        |
+ 6|>  wlu_lax6                 |  31650 |   1550 |      |    |        |
+ 7|   Cyberchomp               |  29850 |      0 |folded|    |        |
+ 8|   jasong            |  36225 |      0 |folded|    |        |
+ 9|   dBeau                    |  29925 |      0 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 11/05/10 12:11:24! Dealing a new hand
+! 11/05/10 12:11:24! No ante
+! 11/05/10 12:11:24! plankton blinds $50
+! 11/05/10 12:11:24! Late Entry 2 blinds $100
+! 11/05/10 13:29:42! Cyberchomp is back from vacation
+! 11/06/10 12:56:37! JackBlack calls 
+! 11/06/10 16:48:23! wlu_lax6 calls 
+! 11/06/10 16:48:23! Cyberchomp folds
+! 11/06/10 16:48:23! jasong folds
+! 11/06/10 16:48:23! dBeau folds
+! 11/08/10 06:35:03! Andrew Nelson folds
+! 11/08/10 06:43:01! plankton calls 
+! 11/08/10 06:43:01! Late Entry 2 is on vacation and checks
+
+! 11/08/10 06:43:01! Pot right ($400), flopping/dealing/drawing cards
+! 11/08/10 06:43:01! 4 players
+! 11/08/10 06:43:01! Flopped cards: 8d 9s 3h
+! 11/08/10 06:43:52! plankton bets $250 
+! 11/08/10 06:43:52! Late Entry 2 is on vacation and folds
+! 11/08/10 06:46:51! JackBlack calls 
+! 11/08/10 06:52:39! wlu_lax6 calls 
+
+! 11/08/10 06:52:39! Pot right ($1150), flopping/dealing/drawing cards
+! 11/08/10 06:52:39! 3 players
+! 11/08/10 06:52:39! Flopped card: Kd
+! 11/08/10 06:53:20! plankton checks
+! 11/08/10 06:54:21! JackBlack checks
+! 11/08/10 06:56:26! wlu_lax6 bets $1200 
+! 11/08/10 07:01:03! plankton folds
+! 11/08/10 07:01:03! JackBlack folds
+! Hand over, no showdown
+! Current board is:  8d 9s 3h Kd ?
+! wlu_lax6 wins $2350 (net $800)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Andrew Nelson            |  34400 |        |      |    |        |
+ 2|D  plankton                 |  52075 |        |      |    |        |
+ 4|V  Late Entry 2             |  29750 |        | NoSho|    |        |
+ 5|   JackBlack                |  23775 |        |      |    |        |
+ 6|>  wlu_lax6                 |  34000 |        |      |    |        |
+ 7|   Cyberchomp               |  29850 |        |      |    |        |
+ 8|   jasong            |  36225 |        |      |    |        |
+ 9|   dBeau                    |  29925 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! Cyberchomp went on vacation until NOV 10
+! 878 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b20.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to WRGPT20.
+This is the real tourney.
+Good luck.
+
+Changes to email or hours of play made in the practice round to NOT carry over
+to the real tourney.  You will need to set them again if you set them for
+the practice round.
+
+If you have problems send mail to floorman20@wrgpt.org.
+
+
+Live Redraw Status as of 11/08/10 06:55:01 AM
+
+Total Empty Seats: 22
+Total Playing Seats: 878
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org or follow "wrgpt" on Twitter.
+

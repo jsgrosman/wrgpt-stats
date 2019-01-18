@@ -1,0 +1,118 @@
+Subject: [b22.10502] Holdem Game Broadcast Message(*)
+
+! Table b22, Hand 55, Day 30
+
+! Ace Squared calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|DV Taki                     |   47625 |      25 |  busy|    |         |
+ 2|V  Alex K                   |   48075 |     175 | NoSho|    |         |
+ 3|   Ace Squared              |   40225 |    7300 |      |    |         |
+ 4|   JZK                      |  106700 |      25 |folded|    |         |
+ 5|   Clark Olson              |   55775 |      25 |folded|    |         |
+ 6|   Derek Noakes             |   51375 |      25 |folded|    |         |
+ 7|   starrman99               |   51650 |      25 |folded|    |         |
+ 8|   bignacho                 |   42225 |      25 |folded|    |         |
+ 9|>  micwso                   |   38350 |    7300 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/10/18 14:00:29! Dealing a new hand
+! 12/10/18 14:00:29! Everyone antes $25
+! 12/10/18 14:00:29! Alex K blinds $150
+! 12/10/18 14:00:29! Ace Squared blinds $300
+! 12/10/18 14:55:49! JZK folds
+! 12/10/18 14:58:05! Clark Olson folds
+! 12/10/18 14:58:05! Derek Noakes folds
+! 12/10/18 15:43:30! starrman99 folds
+! 12/10/18 15:43:30! bignacho folds
+! 12/10/18 21:49:56! micwso calls 
+! 12/10/18 21:49:56! Taki is on vacation and folds
+! 12/10/18 21:49:56! Alex K is on vacation and folds
+! 12/11/18 04:58:10! Ace Squared checks
+
+! 12/11/18 04:58:10! Pot right ($975), flopping/dealing/drawing cards
+! 12/11/18 04:58:10! 2 players
+! 12/11/18 04:58:10! Flopped cards: Kd 3h 8h
+! 12/11/18 05:04:02! Ace Squared bets $975 
+! 12/11/18 05:33:15! micwso calls 
+
+! 12/11/18 05:33:15! Pot right ($2925), flopping/dealing/drawing cards
+! 12/11/18 05:33:15! 2 players
+! 12/11/18 05:33:15! Flopped card: 4h
+! 12/11/18 05:35:07! Ace Squared bets $2000 
+! 12/11/18 05:37:24! micwso calls 
+
+! 12/11/18 05:37:24! Pot right ($6925), flopping/dealing/drawing cards
+! 12/11/18 05:37:24! 2 players
+! 12/11/18 05:37:24! Flopped card: Jh
+! 12/11/18 05:38:58! Ace Squared checks
+! 12/11/18 05:40:11! micwso bets $4000 
+! 12/11/18 05:45:43! Ace Squared calls 
+! Hand over, current board is:  Kd 3h 8h 4h Jh
+! Ace Squared              has: Kh 3d
+! micwso                   has: Qh 8d
+! Ace Squared wins $14925 (net $7625) with Heart Flush (K J 8 4 3)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|V  Taki                     |   47625 |         |  busy|    |         |
+ 2|DV Alex K                   |   48075 |         | NoSho|    |         |
+ 3|   Ace Squared              |   55150 |         |      |    |         |
+ 4|   JZK                      |  106700 |         |      |    |         |
+ 5|   Clark Olson              |   55775 |         |      |    |         |
+ 6|   Derek Noakes             |   51375 |         |      |    |         |
+ 7|   starrman99               |   51650 |         |      |    |         |
+ 8|   bignacho                 |   42225 |         |      |    |         |
+ 9|>  micwso                   |   38350 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 502 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b22.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 14
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

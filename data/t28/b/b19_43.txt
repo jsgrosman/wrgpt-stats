@@ -1,0 +1,117 @@
+Subject: [b19.10573] Holdem Game Broadcast Message(*)
+
+! Table b19, Hand 43, Day 36
+
+! Stubey checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   mrbert                   |   14700 |   10300 |      |    |         |
+ 2|   Vince Tafoya             |   47325 |      25 |folded|    |         |
+ 3|   Alvin Chipmunk           |   37725 |      25 |folded|    |         |
+ 4|   Stubey                   |   67600 |   10300 |      |    |         |
+ 5|   Daryl                    |  124150 |     325 |folded|    |         |
+ 6|   Bubba                    |   10550 |     325 |folded|    |         |
+ 7|D  Ninetensuited            |   57200 |     325 |folded|    |         |
+ 8|>  Fish Doctor              |   34675 |   10300 |      |    |         |
+ 9|   Pooper                   |   50675 |     325 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/16/18 11:41:18! Dealing a new hand
+! 12/16/18 11:41:18! Everyone antes $25
+! 12/16/18 11:41:18! Fish Doctor blinds $150
+! 12/16/18 11:41:18! Pooper blinds $300
+! 12/16/18 12:05:13! mrbert calls 
+! 12/16/18 20:05:52! Vince Tafoya folds
+! 12/16/18 20:05:52! Alvin Chipmunk folds
+! 12/16/18 20:09:07! Stubey calls 
+! 12/17/18 05:04:48! Daryl calls 
+! 12/17/18 05:04:48! Bubba calls 
+! 12/17/18 07:25:50! Ninetensuited calls 
+! 12/17/18 07:41:55! Fish Doctor raises $2325 to $2625 total 
+! 12/17/18 08:10:18! Pooper folds
+! 12/17/18 11:13:14! mrbert calls 
+! 12/17/18 12:48:49! Stubey calls 
+! 12/17/18 12:48:49! Daryl folds
+! 12/17/18 12:48:49! Bubba folds
+! 12/17/18 12:48:49! Ninetensuited folds
+
+! 12/17/18 12:48:49! Pot right ($9300), flopping/dealing/drawing cards
+! 12/17/18 12:48:49! 3 players
+! 12/17/18 12:48:49! Flopped cards: 10d Kd Ah
+! 12/17/18 13:20:50! Fish Doctor bets $2650 
+! 12/17/18 14:34:57! mrbert calls 
+! 12/17/18 14:36:12! Stubey calls 
+
+! 12/17/18 14:36:12! Pot right ($17250), flopping/dealing/drawing cards
+! 12/17/18 14:36:12! 3 players
+! 12/17/18 14:36:12! Flopped card: Qd
+! 12/17/18 14:53:36! Fish Doctor bets $5000 
+! 12/17/18 17:34:58! mrbert calls 
+! 12/17/18 17:52:26! Stubey calls 
+
+! 12/17/18 17:52:26! Pot right ($32250), flopping/dealing/drawing cards
+! 12/17/18 17:52:26! 3 players
+! 12/17/18 17:52:26! Flopped card: Ac
+! 12/17/18 18:13:11! Fish Doctor checks
+! 12/17/18 18:13:11! mrbert checks
+! 12/17/18 18:41:42! Stubey checks
+! Hand over, current board is:  10d Kd Ah Qd Ac
+! mrbert                   has: 9h 9d
+! Stubey                   has: 2h Ad
+! Fish Doctor              has: Qs Kh
+! Stubey wins $32250 (net $21950) with Three of a Kind (A A A K Q)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   mrbert                   |   14700 |         |      |    |         |
+ 2|   Vince Tafoya             |   47325 |         |      |    |         |
+ 3|   Alvin Chipmunk           |   37725 |         |      |    |         |
+ 4|   Stubey                   |   99850 |         |      |    |         |
+ 5|   Daryl                    |  124150 |         |      |    |         |
+ 6|   Bubba                    |   10550 |         |      |    |         |
+ 7|   Ninetensuited            |   57200 |         |      |    |         |
+ 8|D> Fish Doctor              |   34675 |         |      |    |         |
+ 9|   Pooper                   |   50675 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 464 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b19.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 4
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

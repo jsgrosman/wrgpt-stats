@@ -1,0 +1,112 @@
+
+! Table a28, Hand 21, Day 19
+
+! Willy Eckerslyke folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Inca                     |  97025 |    600 |folded|    |        |
+ 2|   Andimonte                |  99350 |    600 |folded|    |        |
+ 3|D  cobbaroo                 |  26650 |    600 |folded|    |        |
+ 4|   Willy Eckerslyke         |  32200 |   8600 |folded|    |        |
+ 5|V  jasong            |  20150 |   4600 | NoSho|    |        |
+ 6|   Sally James              | 173525 |    600 |folded|    |        |
+ 7|   Bugsy                    | 166000 |    600 |folded|    |        |
+ 8|   Tooner                   |  50100 |    600 |folded|    |        |
+ 9|>  boxcarsfull              |  50100 |  23600 |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 10/22/15 18:41:09! Dealing a new hand
+! 10/22/15 18:41:09! Everyone antes $600
+! 10/22/15 18:41:09! Willy Eckerslyke blinds $2000
+! 10/22/15 18:41:09! jasong blinds $4000
+! 10/22/15 19:39:52! Sally James folds
+! 10/22/15 19:39:52! Bugsy folds
+! 10/22/15 20:32:18! Andimonte is back from vacation
+! 10/22/15 23:15:00! Willy Eckerslyke is back from vacation
+! 10/23/15 05:31:52! Tooner folds
+! 10/23/15 05:41:23! boxcarsfull raises $4000 
+! 10/23/15 06:07:24! Inca folds
+! 10/23/15 10:04:46! Andimonte folds
+! 10/23/15 10:12:59! cobbaroo folds
+! 10/23/15 11:11:55! Willy Eckerslyke calls 
+! 10/23/15 11:11:55! jasong is on vacation and folds
+
+! 10/23/15 11:11:55! Pot right ($25400), flopping/dealing/drawing cards
+! 10/23/15 11:11:55! 2 players
+! 10/23/15 11:11:55! Flopped cards: 7d Qs Ad
+! 10/23/15 11:13:13! Willy Eckerslyke checks
+! 10/23/15 12:01:49! boxcarsfull bets $15000 
+! 10/23/15 14:03:32! Willy Eckerslyke folds
+! Hand over, no showdown
+! Current board is:  7d Qs Ad ? ?
+! boxcarsfull wins $40400 (net $16800)
+! Antes and blinds go up
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Inca                     |  97025 |        |      |    |        |
+ 2|   Andimonte                |  99350 |        |      |    |        |
+ 3|   cobbaroo                 |  26650 |        |      |    |        |
+ 4|D  Willy Eckerslyke         |  32200 |        |      |    |        |
+ 5|V  jasong            |  20150 |        | NoSho|    |        |
+ 6|   Sally James              | 173525 |        |      |    |        |
+ 7|   Bugsy                    | 166000 |        |      |    |        |
+ 8|   Tooner                   |  50100 |        |      |    |        |
+ 9|>  boxcarsfull              |  90500 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 281 players left in the tournament, 2 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/a/a28.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+This is the PRACTICE Round.  It will last about two weeks
+and could stop or restart suddenly to fix issues if found.
+
+The WRGPT real tourney was originally scheduled to start 10/19.  
+The service provider is now saying the Monday scheduled service
+will be done Thursday so we will start on Monday 10/26 unless
+something else comes up.
+
+Good luck.
+======
+
+Live Redraw Status as of 10/23/15 01:55:02 PM
+
+Total Empty Seats: 29
+Total Playing Seats: 281
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+Here is a link to the railbird mailing list:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman25@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

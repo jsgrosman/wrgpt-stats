@@ -1,0 +1,113 @@
+Subject: [b55.10074] Holdem Game Broadcast Message(*)
+
+! Table b55, Hand 6, Day 9
+
+! ADB DaVoice folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   BillDaBear               |   50000 |       0 |folded|    |         |
+ 2|   C666                     |   52650 |       0 |folded|    |         |
+ 3|   ADB DaVoice              |   24475 |   10150 |folded|    |         |
+ 4|   ChipRider                |   48825 |       0 |folded|    |         |
+ 5|V  Scipio                   |   49775 |       0 | NoSho|    |         |
+ 6|D  tekbot                   |   49775 |       0 |folded|    |         |
+ 7|>  Dr. Evil                 |   26850 |   22150 |      |    |         |
+ 8|   LenFuego                 |   48225 |     150 |folded|    |         |
+ 9|   Tom Abraham              |   66525 |     450 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/19/18 06:52:01! Dealing a new hand
+! 11/19/18 06:52:01! No ante
+! 11/19/18 06:52:01! Dr. Evil blinds $75
+! 11/19/18 06:52:01! LenFuego blinds $150
+! 11/19/18 07:09:23! Tom Abraham raises $300 to $450 total 
+! 11/19/18 07:37:49! BillDaBear folds
+! 11/19/18 08:11:29! C666 folds
+! 11/19/18 11:04:03! ADB DaVoice raises $900 to $1350 total 
+! 11/19/18 11:04:03! ChipRider folds
+! 11/19/18 11:04:03! Scipio is on vacation and folds
+! 11/19/18 11:05:02! tekbot folds
+! 11/19/18 11:49:32! Dr. Evil raises $2800 to $4150 total 
+! 11/19/18 15:51:02! LenFuego folds
+! 11/19/18 15:51:02! Tom Abraham folds
+! 11/19/18 15:51:02! ADB DaVoice calls 
+
+! 11/19/18 15:51:02! Pot right ($8900), flopping/dealing/drawing cards
+! 11/19/18 15:51:02! 2 players
+! 11/19/18 15:51:02! Flopped cards: 6c 9c Qh
+! 11/19/18 19:35:00! Dr. Evil bets $6000 
+! 11/19/18 19:35:00! ADB DaVoice calls 
+
+! 11/19/18 19:35:00! Pot right ($20900), flopping/dealing/drawing cards
+! 11/19/18 19:35:00! 2 players
+! 11/19/18 19:35:00! Flopped card: 2h
+! 11/19/18 19:36:41! Dr. Evil bets $12000 
+! 11/20/18 11:24:31! ADB DaVoice folds
+! Hand over, no showdown
+! Current board is:  6c 9c Qh 2h ?
+! Dr. Evil wins $32900 (net $10750)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   BillDaBear               |   50000 |         |      |    |         |
+ 2|   C666                     |   52650 |         |      |    |         |
+ 3|   ADB DaVoice              |   24475 |         |      |    |         |
+ 4|   ChipRider                |   48825 |         |      |    |         |
+ 5|V  Scipio                   |   49775 |         | NoSho|    |         |
+ 6|   tekbot                   |   49775 |         |      |    |         |
+ 7|D> Dr. Evil                 |   59750 |         |      |    |         |
+ 8|   LenFuego                 |   48225 |         |      |    |         |
+ 9|   Tom Abraham              |   66525 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! LenFuego timed out during this hand
+! 572 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b55.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 4
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

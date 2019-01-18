@@ -1,0 +1,119 @@
+Subject: [b7.10705] Holdem Game Broadcast Message(*)
+
+! Table b7, Hand 59, Day 42
+
+! JPP calls - side pot
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  JPP                      |       0 |   46450 |all-in|  2 |   94125 |
+ 2|   Stanley Chow             |       0 |   70750 |all-in|  1 |   24300 |
+ 3|   Ryan Thomas              |   46350 |      25 |folded|    |         |
+ 4|   Bryan Juliano            |   42350 |      25 |folded|    |         |
+ 5|   MTpotts                  |   40700 |      25 |folded|    |         |
+ 6|D  TheOldThug               |   82825 |     325 |folded|    |         |
+ 7|   Boiling Frog             |   51550 |     175 |folded|    |         |
+ 8|   FredLS                   |   45900 |     625 |folded|    |         |
+ 9|   dann                     |   47875 |      25 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/21/18 15:01:06! Dealing a new hand
+! 12/21/18 15:01:06! Everyone antes $25
+! 12/21/18 15:01:06! Boiling Frog blinds $150
+! 12/21/18 15:01:06! FredLS blinds $300
+! 12/21/18 15:13:07! TheOldThug is back from vacation
+! 12/21/18 20:34:12! dann folds
+! 12/22/18 03:21:10! JPP calls 
+! 12/22/18 03:21:10! Stanley Chow calls 
+! 12/22/18 03:21:10! Ryan Thomas folds
+! 12/22/18 11:28:24! Bryan Juliano folds
+! 12/22/18 11:28:24! MTpotts folds
+! 12/22/18 12:01:18! TheOldThug calls 
+! 12/22/18 12:32:37! Boiling Frog folds
+! 12/22/18 12:32:37! FredLS checks
+
+! 12/22/18 12:32:37! Pot right ($1575), flopping/dealing/drawing cards
+! 12/22/18 12:32:37! 4 players
+! 12/22/18 12:32:37! Flopped cards: As Jd 2h
+! 12/22/18 12:46:08! FredLS checks
+! 12/22/18 13:40:50! JPP checks
+! 12/22/18 15:30:24! Stanley Chow bets $300 
+! 12/22/18 15:46:43! TheOldThug folds
+! 12/22/18 16:25:34! FredLS calls 
+! 12/22/18 17:16:24! JPP calls 
+
+! 12/22/18 17:16:24! Pot right ($2475), flopping/dealing/drawing cards
+! 12/22/18 17:16:24! 3 players
+! 12/22/18 17:16:24! Flopped card: 7c
+! 12/22/18 20:29:44! FredLS checks
+! 12/23/18 04:08:06! JPP checks
+! 12/23/18 05:33:45! Stanley Chow bets $2000 
+! 12/23/18 05:56:30! FredLS folds
+! 12/23/18 06:36:33! JPP raises $3500 to $5500 total 
+! 12/23/18 11:19:18! Stanley Chow calls 
+
+! 12/23/18 11:19:18! Pot right ($13475), flopping/dealing/drawing cards
+! 12/23/18 11:19:18! 2 players
+! 12/23/18 11:19:18! Flopped card: 9h
+! 12/23/18 11:29:29! JPP bets $11000 
+! 12/23/18 13:25:37! Stanley Chow raises $53625 to $64625 total and is all in
+! 12/23/18 13:34:29! JPP calls - side pot
+! Hand over, current board is:  As Jd 2h 7c 9h
+! JPP                      has: 7s 7d
+! Stanley Chow             has: 10s Ah
+! Pot 1: uncalled $24300 returned to Stanley Chow
+! Pot 2: JPP wins $94125 with Three of a Kind (7 7 7 A J)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  JPP                      |   94125 |         |      |    |         |
+ 2|   Stanley Chow             |   24300 |         |      |    |         |
+ 3|   Ryan Thomas              |   46350 |         |      |    |         |
+ 4|   Bryan Juliano            |   42350 |         |      |    |         |
+ 5|   MTpotts                  |   40700 |         |      |    |         |
+ 6|   TheOldThug               |   82825 |         |      |    |         |
+ 7|D  Boiling Frog             |   51550 |         |      |    |         |
+ 8|   FredLS                   |   45900 |         |      |    |         |
+ 9|   dann                     |   47875 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 440 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b7.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 10
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

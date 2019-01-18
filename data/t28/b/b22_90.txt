@@ -1,0 +1,114 @@
+Subject: [b22.10885] Holdem Game Broadcast Message(*)
+
+! Table b22, Hand 90, Day 51
+
+! starrman99 calls - side pot
+! Pot right ($111150), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped card: 9d
+! Flopped card: Qc
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|V  Taki                     |   43900 |     250 |<AWOL>|    |         |
+ 2|   Spike                    |   64900 |     450 |folded|    |         |
+ 3|   Ace Squared              |   49150 |      50 |folded|    |         |
+ 4|   JZK                      |  107025 |      50 |folded|    |         |
+ 5|   Clark Olson              |       0 |   61825 |all-in|  1 |   13450 |
+ 6|   Derek Noakes             |   47725 |      50 |folded|    |         |
+ 7|>  starrman99               |       0 |   48375 |all-in|  2 |   97700 |
+ 8|   bignacho                 |   20025 |      50 |folded|    |         |
+ 9|D  micwso                   |   57950 |      50 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/01/19 10:31:16! Dealing a new hand
+! 01/01/19 10:31:16! Everyone antes $50
+! 01/01/19 10:31:16! Taki blinds $200
+! 01/01/19 10:31:16! Spike blinds $400
+! 01/01/19 10:36:51! Ace Squared folds
+! 01/01/19 10:42:35! JZK folds
+! 01/01/19 10:45:12! Clark Olson raises $800 to $1200 total 
+! 01/01/19 10:55:37! Derek Noakes folds
+! 01/01/19 11:50:14! starrman99 raises $2000 to $3200 total 
+! 01/01/19 13:16:10! bignacho folds
+! 01/01/19 13:24:24! micwso folds
+! 01/01/19 13:24:24! Taki is on vacation and folds
+! 01/01/19 14:34:58! Spike folds
+! 01/01/19 14:43:53! Clark Olson calls 
+
+! 01/01/19 14:43:53! Pot right ($7450), flopping/dealing/drawing cards
+! 01/01/19 14:43:53! 2 players
+! 01/01/19 14:43:53! Flopped cards: 8h 7c 6h
+! 01/01/19 14:45:16! Clark Olson checks
+! 01/01/19 19:50:23! starrman99 bets $4000 
+! 01/01/19 20:01:56! Clark Olson raises $54575 to $58575 total and is all in
+! 01/01/19 20:26:42! starrman99 calls - side pot
+
+! 01/01/19 20:26:42! Pot right ($111150), flopping/dealing/drawing cards
+! 01/01/19 20:26:42! 2 players, 2 all in
+! 01/01/19 20:26:42! Flopped card: 9d
+! 01/01/19 20:26:42! Flopped card: Qc
+! Hand over, current board is:  8h 7c 6h 9d Qc
+! Clark Olson              has: Kh Qh
+! starrman99               has: Ad Ac
+! Pot 1: uncalled $13450 returned to Clark Olson
+! Pot 2: starrman99 wins $97700 with One Pair (A A Q 9 8)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|DV Taki                     |   43900 |         |<AWOL>|    |         |
+ 2|   Spike                    |   64900 |         |      |    |         |
+ 3|   Ace Squared              |   49150 |         |      |    |         |
+ 4|   JZK                      |  107025 |         |      |    |         |
+ 5|   Clark Olson              |   13450 |         |      |    |         |
+ 6|   Derek Noakes             |   47725 |         |      |    |         |
+ 7|>  starrman99               |   97700 |         |      |    |         |
+ 8|   bignacho                 |   20025 |         |      |    |         |
+ 9|   micwso                   |   57950 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 407 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b22.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+We are now over 45 days into round "b". 
+As soon as any table gets to five or fewer 
+players all tables will finish the current 
+hand and a full redraw to round "c" will be done.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 25
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

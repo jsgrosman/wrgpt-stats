@@ -1,0 +1,116 @@
+Subject: [b5.10498] Holdem Game Broadcast Message(*)
+
+! Table b5, Hand 42, Day 39
+
+! Xaralambous checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Steb                     |   51625 |      25 |folded|    |         |
+ 2|   threeputzzz              |    9925 |      25 |folded|    |         |
+ 3|   Dalamo                   |   48625 |      25 |folded|    |         |
+ 4|   CPROG                    |   80500 |      25 |folded|    |         |
+ 5|   Xaralambous              |   80625 |    3275 |      |    |         |
+ 6|D  James Bond               |   50025 |      25 |folded|    |         |
+ 7|   DocOber                  |   39575 |     175 |folded|    |         |
+ 8|>  Chris Danek              |   78275 |    3275 |      |    |         |
+ 9|   siona                    |   49225 |      25 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/20/18 12:10:34! Dealing a new hand
+! 12/20/18 12:10:34! Everyone antes $25
+! 12/20/18 12:10:34! DocOber blinds $150
+! 12/20/18 12:10:34! Chris Danek blinds $300
+! 12/20/18 12:18:15! siona folds
+! 12/20/18 12:29:59! Steb folds
+! 12/20/18 12:29:59! threeputzzz folds
+! 12/20/18 13:04:17! Dalamo folds
+_____________________________________________________________________________
+
+! Our table has had at least 3 pocket Aces in the last 8 hands. I've lost 
+! them and now lost with them.
+! -- CPROG --
+_____________________________________________________________________________
+
+! 12/20/18 13:04:17! CPROG folds
+! 12/20/18 13:55:45! Xaralambous raises $450 to $750 total 
+! 12/20/18 13:55:45! James Bond folds
+! 12/20/18 16:00:33! DocOber folds
+! 12/20/18 16:07:39! Chris Danek calls 
+
+! 12/20/18 16:07:39! Pot right ($1875), flopping/dealing/drawing cards
+! 12/20/18 16:07:39! 2 players
+! 12/20/18 16:07:39! Flopped cards: 8h Ad 9s
+! 12/20/18 16:08:15! Chris Danek checks
+! 12/20/18 16:28:13! Xaralambous bets $2500 
+! 12/20/18 16:30:46! Chris Danek calls 
+
+! 12/20/18 16:30:46! Pot right ($6875), flopping/dealing/drawing cards
+! 12/20/18 16:30:46! 2 players
+! 12/20/18 16:30:46! Flopped card: 2s
+! 12/20/18 16:31:12! Chris Danek checks
+! 12/20/18 16:33:15! Xaralambous checks
+
+! 12/20/18 16:33:15! Pot right ($6875), flopping/dealing/drawing cards
+! 12/20/18 16:33:15! 2 players
+! 12/20/18 16:33:15! Flopped card: 7d
+! 12/20/18 16:38:06! Chris Danek checks
+! 12/20/18 16:43:19! Xaralambous checks
+! Hand over, current board is:  8h Ad 9s 2s 7d
+! Xaralambous              has: Jd Kc
+! Chris Danek              has: 7h 5h
+! Chris Danek wins $6875 (net $3600) with One Pair (7 7 A 9 8)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Steb                     |   51625 |         |      |    |         |
+ 2|   threeputzzz              |    9925 |         |      |    |         |
+ 3|   Dalamo                   |   48625 |         |      |    |         |
+ 4|   CPROG                    |   80500 |         |      |    |         |
+ 5|   Xaralambous              |   80625 |         |      |    |         |
+ 6|   James Bond               |   50025 |         |      |    |         |
+ 7|D  DocOber                  |   39575 |         |      |    |         |
+ 8|>  Chris Danek              |   85150 |         |      |    |         |
+ 9|   siona                    |   49225 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 450 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b5.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

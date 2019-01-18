@@ -1,0 +1,100 @@
+
+! Table c30, Hand 128, Day 72
+
+! shinsook folds
+! jasong folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  jasong            |   41650 |    1400 |folded|    |         |
+ 2|   delbaeth                 |   34775 |     200 |folded|    |         |
+ 3|   slugbot                  |   53800 |     200 |folded|    |         |
+ 4|   Morgan                   |       0 |   15500 |all-in|    |         |
+ 5|   jfholmes                 |   90000 |     200 |folded|    |         |
+ 6|   Oldbear                  |   70700 |     200 |folded|    |         |
+ 7|   TomasL                   |   26225 |     200 |folded|    |         |
+ 8|   Brent Widmark            |   59950 |     200 |folded|    |         |
+ 9|D  SmBoatDrinks             |  121550 |     200 |folded|    |         |
+10|   shinsook                 |   99275 |     800 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/26/16 14:58:55! Dealing a new hand
+! 12/26/16 14:58:55! Everyone antes $200
+! 12/26/16 14:58:55! shinsook blinds $600
+! 12/26/16 14:58:55! jasong blinds $1200
+! 12/26/16 16:00:48! delbaeth folds
+! 12/26/16 18:51:19! slugbot folds
+! 12/27/16 05:56:32! Morgan raises $14100 and is all in
+! 12/27/16 05:56:32! jfholmes folds
+! 12/27/16 05:56:32! Oldbear folds
+! 12/27/16 05:56:32! TomasL folds
+! 12/27/16 06:38:27! Brent Widmark folds
+! 12/27/16 07:40:04! SmBoatDrinks folds
+! 12/27/16 09:07:23! shinsook folds
+! 12/27/16 09:07:23! jasong folds
+! Hand over, no showdown
+! Current board is:  ? ? ? ? ?
+! Morgan wins $19100 (net $3600)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  jasong            |   41650 |         |      |    |         |
+ 2|   delbaeth                 |   34775 |         |      |    |         |
+ 3|   slugbot                  |   53800 |         |      |    |         |
+ 4|   Morgan                   |   19100 |         |      |    |         |
+ 5|   jfholmes                 |   90000 |         |      |    |         |
+ 6|   Oldbear                  |   70700 |         |      |    |         |
+ 7|   TomasL                   |   26225 |         |      |    |         |
+ 8|   Brent Widmark            |   59950 |         |      |    |         |
+ 9|   SmBoatDrinks             |  121550 |         |      |    |         |
+10|D  shinsook                 |   99275 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 360 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c30.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+======
+
+Live Redraw Status as of 12/27/16 08:55:02 AM
+
+Total Empty Seats: 29
+Total Playing Seats: 361
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman26@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

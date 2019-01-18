@@ -1,0 +1,119 @@
+Subject: [c32.10136] Holdem Game Broadcast Message(*)
+
+! Table c32, Hand 159, Day 64
+
+! bozo calls 
+! Pot right ($64800), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 8c
+! Flopped card: 2h
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Per Starback             |   77100 |    3100 |folded|    |         |
+ 2|>  bozo                     |   73650 |   27425 |      |    |         |
+ 3|D  jasong                   |   62475 |     100 |folded|    |         |
+ 4|   Mike B                   |   21700 |     350 |folded|    |         |
+ 5|   Swamper_Shirley          |   77275 |    3100 |folded|    |         |
+ 6|   Ron Duursma              |   42225 |     100 |folded|    |         |
+ 7|   DazedAndConfused         |   68600 |    3100 |folded|    |         |
+ 8|   Thomas Gabrysch          |   65300 |     100 |folded|    |         |
+ 9|   jpchiefs                 |       0 |   27425 |all-in|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/13/19 07:25:46! Dealing a new hand
+! 01/13/19 07:25:46! Everyone antes $100
+! 01/13/19 07:25:46! Mike B blinds $250
+! 01/13/19 07:25:46! Swamper_Shirley blinds $500
+! 01/13/19 07:39:05! Ron Duursma folds
+! 01/13/19 12:00:24! DazedAndConfused calls 
+! 01/13/19 12:00:24! Thomas Gabrysch folds
+! 01/13/19 12:45:55! jpchiefs calls 
+! 01/14/19 00:34:52! Per Starback calls 
+! 01/14/19 04:13:49! bozo raises $2500 to $3000 total 
+! 01/14/19 04:13:49! jasong folds
+! 01/14/19 04:13:49! Mike B folds
+! 01/14/19 04:42:37! Swamper_Shirley calls 
+! 01/14/19 05:49:05! DazedAndConfused calls 
+! 01/14/19 06:04:23! jpchiefs calls 
+! 01/14/19 06:11:18! Per Starback calls 
+
+! 01/14/19 06:11:18! Pot right ($16150), flopping/dealing/drawing cards
+! 01/14/19 06:11:18! 5 players
+! 01/14/19 06:11:18! Flopped cards: 7h 7s 6s
+! 01/14/19 06:33:20! Swamper_Shirley checks
+! 01/14/19 06:39:39! DazedAndConfused checks
+! 01/14/19 07:10:46! jpchiefs checks
+! 01/14/19 07:10:46! Per Starback checks
+! 01/14/19 07:11:30! bozo bets $10000 
+! 01/14/19 07:37:53! Swamper_Shirley folds
+! 01/14/19 09:00:48! DazedAndConfused folds
+! 01/14/19 09:32:36! jpchiefs raises $14325 to $24325 total and is all in
+! 01/14/19 09:32:36! Per Starback folds
+! 01/14/19 09:34:28! bozo calls 
+
+! 01/14/19 09:34:28! Pot right ($64800), flopping/dealing/drawing cards
+! 01/14/19 09:34:28! 2 players, 1 all in
+! 01/14/19 09:34:28! Flopped card: 8c
+! 01/14/19 09:34:28! Flopped card: 2h
+! Hand over, current board is:  7h 7s 6s 8c 2h
+! bozo                     has: As 5s
+! jpchiefs                 has: Qs Qd
+! jpchiefs wins $64800 (net $37375) with Two Pair (Q Q 7 7 8)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Per Starback             |   77100 |         |      |    |         |
+ 2|>  bozo                     |   73650 |         |      |    |         |
+ 3|   jasong                   |   62475 |         |      |    |         |
+ 4|D  Mike B                   |   21700 |         |      |    |         |
+ 5|   Swamper_Shirley          |   77275 |         |      |    |         |
+ 6|   Ron Duursma              |   42225 |         |      |    |         |
+ 7|   DazedAndConfused         |   68600 |         |      |    |         |
+ 8|   Thomas Gabrysch          |   65300 |         |      |    |         |
+ 9|   jpchiefs                 |   64800 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 373 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c32.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+The "c" round has started.  Good luck to all
+the remaining players.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 7
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

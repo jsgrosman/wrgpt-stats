@@ -1,0 +1,121 @@
+Subject: [b57.10064] Holdem Game Broadcast Message(*)
+
+! Table b57, Hand 3, Day 3
+
+! Neil Boyce checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   heffmike                 |   33400 |       0 |folded|    |         |
+ 2|>  craigswanson             |   41425 |    8500 |      |    |         |
+ 3|D  Neil Boyce               |   40450 |    8500 |      |    |         |
+ 4|   tarigojaergihioahdged    |   42825 |      75 |folded|    |         |
+ 5|   Jeff Okamoto             |   49850 |     150 |folded|    |         |
+ 6|   Rkal                     |   78125 |       0 |folded|    |         |
+ 7|   DKatx512                 |   48200 |       0 |folded|    |         |
+ 8|   Spaniard                 |   49000 |    1000 |folded|    |         |
+ 9|   Poker Coach              |   48500 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/13/18 15:39:52! Dealing a new hand
+! 11/13/18 15:39:52! No ante
+! 11/13/18 15:39:52! tarigojaergihioahdged blinds $75
+! 11/13/18 15:39:52! Jeff Okamoto blinds $150
+! 11/14/18 03:02:29! Rkal folds
+! 11/14/18 03:02:29! DKatx512 folds
+! 11/14/18 05:13:31! Spaniard raises $350 to $500 total 
+! 11/14/18 05:13:31! Poker Coach folds
+! 11/14/18 05:13:31! heffmike folds
+! 11/14/18 05:40:46! craigswanson calls 
+! 11/14/18 07:52:35! Neil Boyce raises $500 to $1000 total 
+! 11/14/18 07:52:35! tarigojaergihioahdged folds
+! 11/14/18 07:52:35! Jeff Okamoto folds
+! 11/14/18 07:56:34! Spaniard calls 
+! 11/14/18 07:59:52! craigswanson calls 
+
+! 11/14/18 07:59:52! Pot right ($3225), flopping/dealing/drawing cards
+! 11/14/18 07:59:52! 3 players
+! 11/14/18 07:59:52! Flopped cards: 7s 10h 5s
+! 11/14/18 08:01:23! Spaniard checks
+! 11/14/18 08:39:02! craigswanson bets $2000 
+! 11/14/18 08:40:06! Neil Boyce calls 
+! 11/14/18 08:55:29! Spaniard folds
+
+! 11/14/18 08:55:29! Pot right ($7225), flopping/dealing/drawing cards
+! 11/14/18 08:55:29! 2 players
+! 11/14/18 08:55:29! Flopped card: 4s
+! 11/14/18 08:57:16! craigswanson bets $5500 
+! 11/14/18 08:57:56! Neil Boyce calls 
+
+! 11/14/18 08:57:56! Pot right ($18225), flopping/dealing/drawing cards
+! 11/14/18 08:57:56! 2 players
+! 11/14/18 08:57:56! Flopped card: 8c
+! 11/14/18 08:58:35! craigswanson checks
+! 11/14/18 08:59:31! Neil Boyce checks
+! Hand over, current board is:  7s 10h 5s 4s 8c
+! craigswanson             has: Kc 10c
+! Neil Boyce               has: As Ad
+! Neil Boyce wins $18225 (net $9725) with One Pair (A A 10 8 7)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   heffmike                 |   33400 |         |      |    |         |
+ 2|>  craigswanson             |   41425 |         |      |    |         |
+ 3|   Neil Boyce               |   58675 |         |      |    |         |
+ 4|D  tarigojaergihioahdged    |   42825 |         |      |    |         |
+ 5|   Jeff Okamoto             |   49850 |         |      |    |         |
+ 6|   Rkal                     |   78125 |         |      |    |         |
+ 7|   DKatx512                 |   48200 |         |      |    |         |
+ 8|   Spaniard                 |   49000 |         |      |    |         |
+ 9|   Poker Coach              |   48500 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 585 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b57.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 7
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

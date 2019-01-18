@@ -1,0 +1,111 @@
+Message-Id: <200911222258.nAMMw6SS026469@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [b50.10038] Holdem Game Broadcast Message(*)                          
+
+! Table b50, Hand 3, Day 7
+
+! Mar Anderson calls 
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Mar Anderson             |  28500 |   1500 |      |    |        |
+ 2|   Argus                    |  30100 |      0 |folded|    |        |
+ 3|D  Jack Walsh               |  29850 |      0 |folded|    |        |
+ 4|   GP                       |  29800 |    100 |folded|    |        |
+ 5|>  Annika                   |  28500 |   1500 |      |    |        |
+ 6|V  Kold Call                |  29700 |      0 |<AWOL>|    |        |
+ 7|   Super Rock               |  30000 |      0 |folded|    |        |
+ 8|   Brett Holz               |  30000 |      0 |folded|    |        |
+ 9|   Woody Myers              |  30450 |      0 |folded|    |        |
+10|   jasong            |  30000 |      0 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 11/19/09 16:12:47! Dealing a new hand
+! 11/19/09 16:12:47! No ante
+! 11/19/09 16:12:47! GP blinds $50
+! 11/19/09 16:12:47! Annika blinds $100
+! 11/19/09 16:12:47! Kold Call is on vacation and folds
+! 11/19/09 18:09:47! Super Rock folds
+! 11/19/09 18:34:41! Mar Anderson is back from vacation
+! 11/19/09 20:03:40! Brett Holz folds
+! 11/19/09 20:03:40! Woody Myers folds
+! 11/19/09 20:03:40! jasong folds
+! 11/19/09 21:19:01! Mar Anderson calls 
+! 11/20/09 02:14:55! Argus folds
+! 11/20/09 02:14:55! Jack Walsh folds
+! 11/20/09 08:02:23! GP calls 
+! 11/20/09 11:05:30! Annika checks
+
+! 11/20/09 11:05:30! Pot right ($300), flopping/dealing/drawing cards
+! 11/20/09 11:05:30! 3 players
+! 11/20/09 11:05:30! Flopped cards: 6h Ac 3d
+! 11/20/09 11:07:03! GP checks
+! 11/20/09 11:11:21! Annika bets $400 
+! 11/20/09 11:43:42! Mar Anderson calls 
+! 11/20/09 11:43:42! GP folds
+
+! 11/20/09 11:43:42! Pot right ($1100), flopping/dealing/drawing cards
+! 11/20/09 11:43:42! 2 players
+! 11/20/09 11:43:42! Flopped card: Jd
+! 11/20/09 12:48:00! Annika bets $500 
+! 11/20/09 14:34:56! Mar Anderson calls 
+
+! 11/20/09 14:34:56! Pot right ($2100), flopping/dealing/drawing cards
+! 11/20/09 14:34:56! 2 players
+! 11/20/09 14:34:56! Flopped card: 2s
+! 11/22/09 11:14:03! Annika bets $500 
+! 11/22/09 14:58:04! Mar Anderson calls 
+! Hand over, current board is:  6h Ac 3d Jd 2s
+! Mar Anderson             has: Ad 4c
+! Annika                   has: 5h 6d
+! Mar Anderson wins $3100 (net $1600) with One Pair (A A J 6 4)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Mar Anderson             |  31600 |        |      |    |        |
+ 2|   Argus                    |  30100 |        |      |    |        |
+ 3|   Jack Walsh               |  29850 |        |      |    |        |
+ 4|D  GP                       |  29800 |        |      |    |        |
+ 5|>  Annika                   |  28500 |        |      |    |        |
+ 6|V  Kold Call                |  29700 |        |<AWOL>|    |        |
+ 7|   Super Rock               |  30000 |        |      |    |        |
+ 8|   Brett Holz               |  30000 |        |      |    |        |
+ 9|   Woody Myers              |  30450 |        |      |    |        |
+10|   jasong            |  30000 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 1037 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b50.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+SIG
+
+Welcome to WRGPT19.  This is no longer the practice round.
+
+Live Redraw Status as of 11/22/09 02:55:02 PM
+
+Total Empty Seats: 22
+Total Playing Seats: 1037
+Live redraw in progress:
+Seats Needed: 19
+Seats Waiting: 0
+Moving Players Waiting: 0
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org or follow "wrgpt" on Twitter.
+

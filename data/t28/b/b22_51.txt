@@ -1,0 +1,115 @@
+Subject: [b22.10466] Holdem Game Broadcast Message(*)
+
+! Table b22, Hand 51, Day 28
+
+! bignacho folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|V  Taki                     |   48125 |       0 |  busy|    |         |
+ 2|V  Alex K                   |   48575 |       0 | NoSho|    |         |
+ 3|   Ace Squared              |   47100 |       0 |folded|    |         |
+ 4|   JZK                      |       0 |   92850 |all-in|    |         |
+ 5|   Clark Olson              |   55025 |     750 |folded|    |         |
+ 6|D  Derek Noakes             |   51425 |     750 |folded|    |         |
+ 7|   starrman99               |   51700 |     150 |folded|    |         |
+ 8|>  bignacho                 |   42425 |   12250 |folded|    |         |
+ 9|   micwso                   |   45800 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/08/18 17:35:12! Dealing a new hand
+! 12/08/18 17:35:12! No ante
+! 12/08/18 17:35:12! starrman99 blinds $150
+! 12/08/18 17:35:12! bignacho blinds $300
+! 12/08/18 23:13:37! micwso folds
+! 12/08/18 23:13:37! Taki is on vacation and folds
+! 12/08/18 23:13:37! Alex K is on vacation and folds
+! 12/09/18 04:28:38! Ace Squared folds
+! 12/09/18 07:18:13! JZK raises $450 to $750 total 
+! 12/09/18 07:52:07! Clark Olson calls 
+! 12/09/18 08:07:44! Derek Noakes calls 
+! 12/09/18 09:39:39! starrman99 folds
+! 12/09/18 12:03:22! bignacho raises $3800 to $4550 total 
+! 12/09/18 12:45:18! JZK raises $7700 to $12250 total 
+! 12/09/18 12:50:16! Clark Olson folds
+! 12/09/18 13:02:33! Derek Noakes folds
+! 12/09/18 13:14:46! bignacho calls 
+
+! 12/09/18 13:14:46! Pot right ($26150), flopping/dealing/drawing cards
+! 12/09/18 13:14:46! 2 players
+! 12/09/18 13:14:46! Flopped cards: Qh 2s 2h
+! 12/09/18 13:16:28! bignacho checks
+! 12/09/18 13:51:43! JZK checks
+
+! 12/09/18 13:51:43! Pot right ($26150), flopping/dealing/drawing cards
+! 12/09/18 13:51:43! 2 players
+! 12/09/18 13:51:43! Flopped card: 3d
+! 12/09/18 14:21:24! bignacho checks
+! 12/09/18 14:22:15! JZK bets $80600 and is all in
+! 12/09/18 14:33:19! bignacho folds
+! Hand over, no showdown
+! Current board is:  Qh 2s 2h 3d ?
+! JZK wins $106750 (net $13900)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|V  Taki                     |   48125 |         |  busy|    |         |
+ 2|V  Alex K                   |   48575 |         | NoSho|    |         |
+ 3|   Ace Squared              |   47100 |         |      |    |         |
+ 4|   JZK                      |  106750 |         |      |    |         |
+ 5|   Clark Olson              |   55025 |         |      |    |         |
+ 6|   Derek Noakes             |   51425 |         |      |    |         |
+ 7|D  starrman99               |   51700 |         |      |    |         |
+ 8|>  bignacho                 |   42425 |         |      |    |         |
+ 9|   micwso                   |   45800 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 508 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b22.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 5
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

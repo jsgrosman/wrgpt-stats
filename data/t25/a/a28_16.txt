@@ -1,0 +1,128 @@
+
+! Table a28, Hand 16, Day 16
+
+! Willy Eckerslyke folds
+! Pot right ($73600), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 7s
+! Flopped card: 7c
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|V  jasong            |  26950 |    400 | NoSho|    |        |
+ 2|   Sally James              |      0 |  26800 |all-in|    |        |
+ 3|D> Jen L                    |  15225 |  26800 |      |    |        |
+ 4|   Tooner                   |  52900 |   2000 |folded|    |        |
+ 5|   Zipper                   |  31500 |   3600 |folded|    |        |
+ 6|   Mark Ballinger           |  59850 |    400 |folded|    |        |
+ 7|   Andimonte                | 103200 |    400 |folded|    |        |
+ 8|   cobbaroo                 |  35450 |    400 |folded|    |        |
+ 9|   CadillacCoody            |  33700 |    400 |folded|    |        |
+10|   Willy Eckerslyke         |  11450 |  12400 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 10/20/15 05:20:41! Dealing a new hand
+! 10/20/15 05:20:41! Everyone antes $400
+! 10/20/15 05:20:41! Tooner blinds $1600
+! 10/20/15 05:20:41! Zipper blinds $3200
+! 10/20/15 06:24:55! Mark Ballinger folds
+! 10/20/15 09:32:51! Andimonte folds
+! 10/20/15 09:32:51! cobbaroo folds
+! 10/20/15 09:32:51! CadillacCoody folds
+! 10/20/15 09:56:07! Willy Eckerslyke calls 
+! 10/20/15 09:56:07! jasong is on vacation and folds
+! 10/20/15 10:37:42! Sally James raises $8800 
+! 10/20/15 10:39:12! Jen L calls 
+! 10/20/15 10:39:12! Tooner folds
+! 10/20/15 12:09:48! Zipper folds
+! 10/20/15 12:52:56! Willy Eckerslyke calls 
+
+! 10/20/15 12:52:56! Pot right ($44800), flopping/dealing/drawing cards
+! 10/20/15 12:52:56! 3 players
+! 10/20/15 12:52:56! Flopped cards: Qc 3d 4s
+! 10/20/15 12:54:56! Willy Eckerslyke checks
+! 10/20/15 18:17:33! Sally James bets $14400 and is all in
+! 10/20/15 18:35:31! Jen L calls 
+! 10/20/15 21:40:13! Willy Eckerslyke folds
+
+! 10/20/15 21:40:13! Pot right ($73600), flopping/dealing/drawing cards
+! 10/20/15 21:40:13! 2 players, 1 all in
+! 10/20/15 21:40:13! Flopped card: 7s
+! 10/20/15 21:40:13! Flopped card: 7c
+! Hand over, current board is:  Qc 3d 4s 7s 7c
+! Sally James              has: 9h 9c
+! Jen L                    has: 8s 3s
+! Sally James wins $73600 (net $46800) with Two Pair (9 9 7 7 Q)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|V  jasong            |  26950 |        | NoSho|    |        |
+ 2|   Sally James              |  73600 |        |      |    |        |
+ 3|>  Jen L                    |  15225 |        |      |    |        |
+ 4|D  Tooner                   |  52900 |        |      |    |        |
+ 5|   Zipper                   |  31500 |        |      |    |        |
+ 6|   Mark Ballinger           |  59850 |        |      |    |        |
+ 7|   Andimonte                | 103200 |        |      |    |        |
+ 8|   cobbaroo                 |  35450 |        |      |    |        |
+ 9|   CadillacCoody            |  33700 |        |      |    |        |
+10|   Willy Eckerslyke         |  11450 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 372 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/a/a28.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+This is the PRACTICE Round.  It will last about two weeks
+and could stop or restart suddenly to fix issues if found.
+
+The WRGPT real tourney was originally scheduled to start 10/19.  
+However, the service provider for the server has scheduled an 
+upgrade for that day so we are going to wait until that upgrade 
+has completed and we are convinced it has no effect on WRGPT.  
+This may take only a day or as long as a week.
+
+Good luck.
+======
+
+Live Redraw Status as of 10/20/15 09:25:02 PM
+
+Total Empty Seats: 40
+Total Playing Seats: 360
+Live redraw in progress:
+Seats Needed: 16
+Seats Waiting: 0
+Moving Players Waiting: 6
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+Here is a link to the railbird mailing list:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman25@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

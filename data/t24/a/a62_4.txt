@@ -1,0 +1,111 @@
+
+! Table a62, Hand 4, Day 5
+
+! Motown folds
+! Couchtater folds
+! Reignbare folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   jasong            |  33450 |      0 |folded|    |        |
+ 2|   OaktownDad               |  29950 |      0 |folded|    |        |
+ 3|   sarahbellum              |  43150 |      0 |folded|    |        |
+ 4|D  Motown                   |  29200 |    600 |folded|    |        |
+ 5|   Couchtater               |  29200 |    600 |folded|    |        |
+ 6|   Reignbare                |  26250 |    600 |folded|    |        |
+ 7|   sidlives                 |  30000 |      0 |folded|    |        |
+ 8|>  Stephen Wong             |  20200 |   5100 |      |    |        |
+ 9|   Quick                    |  21100 |    600 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 10/30/14 00:44:36! Dealing a new hand
+! 10/30/14 00:44:36! No ante
+! 10/30/14 00:44:36! Couchtater blinds $100
+! 10/30/14 00:44:36! Reignbare blinds $200
+! 10/30/14 06:49:18! sidlives folds
+! 10/30/14 08:34:32! Stephen Wong calls 
+! 10/30/14 08:38:56! Quick raises $400 
+! 10/30/14 08:38:56! jasong folds
+! 10/30/14 09:17:01! OaktownDad folds
+! 10/30/14 11:10:19! sarahbellum folds
+! 10/30/14 13:24:56! Motown calls 
+! 10/30/14 13:37:09! Couchtater calls 
+! 10/30/14 14:02:29! Reignbare calls 
+! 10/30/14 17:27:04! Stephen Wong calls 
+
+! 10/30/14 17:27:04! Pot right ($3000), flopping/dealing/drawing cards
+! 10/30/14 17:27:04! 5 players
+! 10/30/14 17:27:04! Flopped cards: 8h 5d 7d
+! 10/30/14 17:32:06! Couchtater checks
+! 10/30/14 21:40:39! Reignbare checks
+! 10/30/14 21:40:39! Stephen Wong bets $4500 
+! 10/30/14 21:57:42! Quick folds
+! 10/31/14 04:11:22! Motown folds
+! 10/31/14 04:11:22! Couchtater folds
+! 10/31/14 04:11:22! Reignbare folds
+! Hand over, no showdown
+! Current board is:  8h 5d 7d ? ?
+! Stephen Wong wins $7500 (net $2400)
+! Antes and blinds go up
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   jasong            |  33450 |        |      |    |        |
+ 2|   OaktownDad               |  29950 |        |      |    |        |
+ 3|   sarahbellum              |  43150 |        |      |    |        |
+ 4|   Motown                   |  29200 |        |      |    |        |
+ 5|D  Couchtater               |  29200 |        |      |    |        |
+ 6|   Reignbare                |  26250 |        |      |    |        |
+ 7|   sidlives                 |  30000 |        |      |    |        |
+ 8|>  Stephen Wong             |  27700 |        |      |    |        |
+ 9|   Quick                    |  21100 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 589 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/a/a62.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+This is the PRACTICE ROUND.  This DOES NOT COUNT.
+Try using the in advance action and the advanced actions mentioned
+in the manual while it is the practice round.
+
+The practice round may suddenly start and/or restart if problems
+are found that need a restart to test or correct.
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+Here is a link to the railbird mailing list:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman24@wrgpt.org.
+
+Live Redraw Status as of 10/31/14 03:55:01 AM
+
+Total Empty Seats: 28
+Total Playing Seats: 589
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

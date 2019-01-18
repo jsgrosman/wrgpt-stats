@@ -1,0 +1,109 @@
+Subject: [b13.10608] Holdem Game Broadcast Message(*)
+
+! Table b13, Hand 54, Day 36
+
+! tristero checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   JoeBou                   |   46975 |     175 |folded|    |         |
+ 2|>  DaveKal                  |   83300 |     325 |      |    |         |
+ 3|V  JAY ENGLANDER            |   43225 |      25 |<AWOL>|    |         |
+ 4|   DrXenonBloom             |   39550 |      25 |folded|    |         |
+ 5|   Morgan                   |   25100 |      25 |folded|    |         |
+ 6|   MShulman                 |  144600 |       0 |New   |    |         |
+ 7|   Theodore Chipmunk        |  121825 |      25 |folded|    |         |
+ 8|   cezz                     |   68925 |      25 |folded|    |         |
+ 9|D  tristero                 |  110950 |     325 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/17/18 06:54:27! Dealing a new hand
+! 12/17/18 06:54:27! Everyone antes $25
+! 12/17/18 06:54:27! JoeBou blinds $150
+! 12/17/18 06:54:27! DaveKal blinds $300
+! 12/17/18 06:54:27! JAY ENGLANDER is on vacation and folds
+! 12/17/18 06:56:03! DrXenonBloom folds
+! 12/17/18 06:56:03! Morgan folds
+! 12/17/18 06:56:59! Theodore Chipmunk folds
+! 12/17/18 07:01:28! cezz folds
+! 12/17/18 07:01:28! tristero calls 
+! 12/17/18 08:25:07! New player added to the table: MShulman
+! 12/17/18 09:00:21! JoeBou folds
+! 12/17/18 13:03:11! DaveKal checks
+
+! 12/17/18 13:03:11! Pot right ($950), flopping/dealing/drawing cards
+! 12/17/18 13:03:11! 2 players
+! 12/17/18 13:03:11! Flopped cards: 6d 7d 9c
+! 12/17/18 13:03:48! DaveKal checks
+! 12/17/18 13:10:04! tristero checks
+
+! 12/17/18 13:10:04! Pot right ($950), flopping/dealing/drawing cards
+! 12/17/18 13:10:04! 2 players
+! 12/17/18 13:10:04! Flopped card: 10s
+! 12/17/18 14:17:21! DaveKal checks
+! 12/17/18 14:25:34! tristero checks
+
+! 12/17/18 14:25:34! Pot right ($950), flopping/dealing/drawing cards
+! 12/17/18 14:25:34! 2 players
+! 12/17/18 14:25:34! Flopped card: 8s
+! 12/17/18 14:30:31! DaveKal checks
+! 12/17/18 14:36:50! tristero checks
+! Hand over, current board is:  6d 7d 9c 10s 8s
+! DaveKal                  has: Ah Qh
+! tristero                 has: Qs 5s
+! DaveKal wins $475 (net $150) with Straight (10 9 8 7 6)
+! tristero wins $475 (net $150) with Straight (10 9 8 7 6)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  JoeBou                   |   46975 |         |      |    |         |
+ 2|>  DaveKal                  |   83775 |         |      |    |         |
+ 3|V  JAY ENGLANDER            |   43225 |         |<AWOL>|    |         |
+ 4|   DrXenonBloom             |   39550 |         |      |    |         |
+ 5|   Morgan                   |   25100 |         |      |    |         |
+ 6|   MShulman                 |  144600 |         |      |    |         |
+ 7|   Theodore Chipmunk        |  121825 |         |      |    |         |
+ 8|   cezz                     |   68925 |         |      |    |         |
+ 9|   tristero                 |  111425 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 470 players left in the tournament, 2 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b13.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 21
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,100 @@
+
+! Table e9, Hand 312, Day 158
+
+! Bob R folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Jillian McKillican       |  552200 |    2000 |folded|    |         |
+ 2|   Stephen Mack             |  819400 |    2000 |folded|    |         |
+ 3|   Andy Pierce              |  250875 |    2000 |folded|    |         |
+ 4|D  Bwana                    | 2159850 |    2000 |folded|    |         |
+ 6|>  Ro-me-ro                 |  700150 |   47000 |      |    |         |
+ 7|   Bob R                    |  632550 |   22000 |folded|    |         |
+ 8|   Ed Baker                 |  307300 |    2000 |folded|    |         |
+ 9|   jasong            |  723900 |    2000 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/29/18 01:17:09! Dealing a new hand
+! 03/29/18 01:17:09! Everyone antes $2000
+! 03/29/18 01:17:09! Ro-me-ro blinds $10000
+! 03/29/18 01:17:09! Bob R blinds $20000
+! 03/29/18 04:51:53! Ed Baker folds
+! 03/29/18 04:51:53! jasong folds
+! 03/29/18 04:51:53! Jillian McKillican folds
+! 03/29/18 04:51:53! Stephen Mack folds
+! 03/29/18 04:51:53! Andy Pierce folds
+! 03/29/18 04:51:53! Bwana folds
+! 03/29/18 05:06:34! Ro-me-ro raises $25000 to $45000 total 
+! 03/29/18 07:38:47! Bob R folds
+! Hand over, no showdown
+! Current board is:  ? ? ? ? ?
+! Ro-me-ro wins $81000 (net $34000)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Jillian McKillican       |  552200 |         |      |    |         |
+ 2|   Stephen Mack             |  819400 |         |      |    |         |
+ 3|   Andy Pierce              |  250875 |         |      |    |         |
+ 4|   Bwana                    | 2159850 |         |      |    |         |
+ 6|D> Ro-me-ro                 |  781150 |         |      |    |         |
+ 7|   Bob R                    |  632550 |         |      |    |         |
+ 8|   Ed Baker                 |  307300 |         |      |    |         |
+ 9|   jasong            |  723900 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 42 players left in the tournament, 3 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/e/e9.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+However, if there were prizes they would pay the top 63 entrants.
+The standings are now showing theoretical prizes if WRGPT were a
+10k event.
+
+======
+
+Live Redraw Status as of 03/29/18 07:25:01 AM
+
+Total Empty Seats: 13
+Total Playing Seats: 42
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman27@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

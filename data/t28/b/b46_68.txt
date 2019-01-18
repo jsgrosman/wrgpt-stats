@@ -1,0 +1,123 @@
+Subject: [b46.11006] Holdem Game Broadcast Message(*)
+
+! Table b46, Hand 68, Day 48
+
+! Bob Brewster calls 
+! Pot right ($24275), flopping/dealing/drawing cards
+! 3 players, 2 all in
+! Flopped card: Qs
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   skatesave                |       0 |    8400 |all-in|  2 |    5250 |
+ 2|   tx4allTheFish            |   22500 |      50 |folded|    |         |
+ 3|   Donald Neilson           |   57500 |      50 |folded|    |         |
+ 4|   scjansen                 |   63300 |      50 |folded|    |         |
+ 5|D  Kevin Behrens            |   60100 |      50 |folded|    |         |
+ 6|   Svante Wester            |   83850 |    1050 |folded|    |         |
+ 7|V  SaucySlingo              |   62950 |     450 |<AWOL>|    |         |
+ 8|>  Bob Brewster             |  160775 |    8400 |      |  2 |    5250 |
+ 9|   Dr. Flush                |       0 |    5775 |all-in|  3 |   19025 |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/28/18 07:56:38! Dealing a new hand
+! 12/28/18 07:56:38! Everyone antes $50
+! 12/28/18 07:56:38! Svante Wester blinds $200
+! 12/28/18 07:56:38! SaucySlingo blinds $400
+! 12/28/18 10:21:50! Bob Brewster calls 
+! 12/28/18 10:58:39! Dr. Flush raises $600 to $1000 total 
+! 12/28/18 11:27:42! skatesave calls 
+! 12/28/18 11:27:42! tx4allTheFish folds
+! 12/28/18 11:33:15! Donald Neilson folds
+! 12/28/18 11:33:15! scjansen folds
+! 12/28/18 15:25:22! Kevin Behrens folds
+! 12/28/18 15:26:46! Svante Wester calls 
+! 12/28/18 15:26:46! SaucySlingo is on vacation and folds
+! 12/28/18 19:02:36! Bob Brewster calls 
+
+! 12/28/18 19:02:36! Pot right ($4850), flopping/dealing/drawing cards
+! 12/28/18 19:02:36! 4 players
+! 12/28/18 19:02:36! Flopped cards: Qc 2s 9s
+! 12/29/18 01:21:05! Svante Wester checks
+! 12/29/18 10:33:47! Bob Brewster checks
+! 12/29/18 10:34:57! Dr. Flush bets $2000 
+! 12/29/18 11:03:50! skatesave calls 
+! 12/29/18 11:03:50! Svante Wester folds
+! 12/29/18 11:03:50! Bob Brewster calls 
+
+! 12/29/18 11:03:50! Pot right ($10850), flopping/dealing/drawing cards
+! 12/29/18 11:03:50! 3 players
+! 12/29/18 11:03:50! Flopped card: 10h
+! 12/29/18 12:45:48! Bob Brewster checks
+! 12/29/18 12:45:48! Dr. Flush bets $2725 and is all in
+! 12/29/18 13:02:08! skatesave raises $2625 to $5350 total and is all in
+! 12/29/18 13:40:11! Bob Brewster calls 
+
+! 12/29/18 13:40:11! Pot right ($24275), flopping/dealing/drawing cards
+! 12/29/18 13:40:11! 3 players, 2 all in
+! 12/29/18 13:40:11! Flopped card: Qs
+! Hand over, current board is:  Qc 2s 9s 10h Qs
+! skatesave                has: 2h 2c
+! Bob Brewster             has: 5s 3s
+! Dr. Flush                has: Ks Qh
+! Pot 2: skatesave wins $5250 with Full House (2 2 2 Q Q)
+! Pot 3: skatesave wins $19025 with Full House (2 2 2 Q Q)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   skatesave                |   24275 |         |      |    |         |
+ 2|   tx4allTheFish            |   22500 |         |      |    |         |
+ 3|   Donald Neilson           |   57500 |         |      |    |         |
+ 4|   scjansen                 |   63300 |         |      |    |         |
+ 5|   Kevin Behrens            |   60100 |         |      |    |         |
+ 6|D  Svante Wester            |   83850 |         |      |    |         |
+ 7|V  SaucySlingo              |   62950 |         |<AWOL>|    |         |
+ 8|>  Bob Brewster             |  160775 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Dr. Flush is eliminated!
+! 418 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b46.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+We are now over 45 days into round "b". 
+As soon as any table gets to five or fewer 
+players all tables will finish the current 
+hand and a full redraw to round "c" will be done.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 13
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

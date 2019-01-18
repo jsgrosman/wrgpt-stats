@@ -1,0 +1,118 @@
+Subject: [b2.10974] Holdem Game Broadcast Message(*)
+
+! Table b2, Hand 75, Day 53
+
+! smak checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|   Poker Dog                |  254575 |      50 |folded|    |         |
+ 3|   Mr. Rhinelander          |   56575 |      50 |folded|    |         |
+ 4|   poohbear                 |   49775 |      50 |folded|    |         |
+ 5|D  smak                     |   38250 |     450 |      |    |         |
+ 6|>  Scooter                  |   43975 |     450 |      |    |         |
+ 7|   rtroll                   |  101775 |     450 |      |    |         |
+ 8|   jpawloski                |   84525 |      50 |folded|    |         |
+ 9|   Kevmath                  |   74375 |     450 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/03/19 11:59:31! Dealing a new hand
+! 01/03/19 11:59:31! Everyone antes $50
+! 01/03/19 11:59:31! Scooter blinds $200
+! 01/03/19 11:59:31! rtroll blinds $400
+! 01/03/19 12:16:14! jpawloski folds
+! 01/03/19 12:16:47! Kevmath calls 
+! 01/03/19 12:57:32! Poker Dog folds
+! 01/03/19 12:57:32! Mr. Rhinelander folds
+! 01/03/19 12:57:32! poohbear folds
+! 01/03/19 13:05:11! smak calls 
+! 01/03/19 13:05:11! Scooter calls 
+! 01/03/19 13:07:14! rtroll checks
+
+! 01/03/19 13:07:14! Pot right ($2000), flopping/dealing/drawing cards
+! 01/03/19 13:07:14! 4 players
+! 01/03/19 13:07:14! Flopped cards: Js 8d 2s
+! 01/03/19 13:57:00! Scooter checks
+! 01/03/19 15:56:52! rtroll checks
+! 01/03/19 15:57:19! Kevmath checks
+! 01/03/19 15:58:06! smak checks
+
+! 01/03/19 15:58:06! Pot right ($2000), flopping/dealing/drawing cards
+! 01/03/19 15:58:06! 4 players
+! 01/03/19 15:58:06! Flopped card: 9d
+! 01/03/19 17:05:48! Scooter checks
+! 01/03/19 17:06:54! rtroll checks
+! 01/03/19 17:31:28! Kevmath checks
+! 01/03/19 17:31:58! smak checks
+
+! 01/03/19 17:31:58! Pot right ($2000), flopping/dealing/drawing cards
+! 01/03/19 17:31:58! 4 players
+! 01/03/19 17:31:58! Flopped card: 10c
+! 01/03/19 17:46:40! Scooter checks
+! 01/03/19 18:21:52! rtroll checks
+! 01/03/19 18:31:39! Kevmath checks
+! 01/03/19 18:40:17! smak checks
+! Hand over, current board is:  Js 8d 2s 9d 10c
+! smak                     has: Kh 6h
+! Scooter                  has: 7h 5h
+! rtroll                   has: 6c 5c
+! Kevmath                  has: Kd 10d
+! Scooter wins $2000 (net $1550) with Straight (J 10 9 8 7)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|   Poker Dog                |  254575 |         |      |    |         |
+ 3|   Mr. Rhinelander          |   56575 |         |      |    |         |
+ 4|   poohbear                 |   49775 |         |      |    |         |
+ 5|   smak                     |   38250 |         |      |    |         |
+ 6|D> Scooter                  |   45975 |         |      |    |         |
+ 7|   rtroll                   |  101775 |         |      |    |         |
+ 8|   jpawloski                |   84525 |         |      |    |         |
+ 9|   Kevmath                  |   74375 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 401 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b2.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+We are now over 45 days into round "b". 
+As soon as any table gets to five or fewer 
+players all tables will finish the current 
+hand and a full redraw to round "c" will be done.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 31
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

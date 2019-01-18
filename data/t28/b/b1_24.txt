@@ -1,0 +1,121 @@
+Subject: [b1.10232] Holdem Game Broadcast Message(*)
+
+! Table b1, Hand 24, Day 12
+
+! EricL checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Nick Name                |   51350 |       0 |folded|    |         |
+ 2|   EricL                    |   44425 |    4300 |      |    |         |
+ 3|   Thomas Gabrysch          |   49200 |       0 |folded|    |         |
+ 4|   Bacon                    |   52550 |       0 |folded|    |         |
+ 5|   Duncan                   |   48750 |       0 |folded|    |         |
+ 6|D  mulligan                 |   41025 |       0 |folded|    |         |
+ 7|>  stannius                 |   51950 |    4300 |      |    |         |
+ 8|   Kevin Mackey             |   49175 |     150 |folded|    |         |
+ 9|V  Endrju                   |   52825 |       0 |Dec 1s|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/22/18 16:30:18! Dealing a new hand
+! 11/22/18 16:30:18! No ante
+! 11/22/18 16:30:18! stannius blinds $75
+! 11/22/18 16:30:18! Kevin Mackey blinds $150
+! 11/22/18 16:30:18! Endrju is on vacation and folds
+! 11/22/18 17:35:10! stannius is back from vacation
+! 11/23/18 06:31:09! Nick Name folds
+! 11/23/18 11:26:47! EricL raises $350 to $500 total 
+! 11/23/18 12:53:10! Thomas Gabrysch folds
+! 11/23/18 12:53:10! Bacon folds
+! 11/23/18 12:53:10! Duncan folds
+! 11/23/18 12:53:10! mulligan folds
+! 11/23/18 12:54:16! stannius calls 
+! 11/23/18 12:54:16! Kevin Mackey folds
+
+! 11/23/18 12:54:16! Pot right ($1150), flopping/dealing/drawing cards
+! 11/23/18 12:54:16! 2 players
+! 11/23/18 12:54:16! Flopped cards: 2c Qd 4d
+! 11/23/18 12:55:07! stannius checks
+! 11/23/18 12:56:19! EricL bets $800 
+! 11/23/18 12:57:04! stannius raises $800 to $1600 total 
+! 11/23/18 12:58:14! EricL calls 
+
+! 11/23/18 12:58:14! Pot right ($4350), flopping/dealing/drawing cards
+! 11/23/18 12:58:14! 2 players
+! 11/23/18 12:58:14! Flopped card: 2s
+! 11/23/18 13:30:53! stannius bets $1000 
+! 11/23/18 13:33:01! EricL raises $1200 to $2200 total 
+! 11/23/18 13:38:31! stannius calls 
+
+! 11/23/18 13:38:31! Pot right ($8750), flopping/dealing/drawing cards
+! 11/23/18 13:38:31! 2 players
+! 11/23/18 13:38:31! Flopped card: Js
+! 11/23/18 13:39:24! stannius checks
+! 11/23/18 13:39:49! EricL checks
+! Hand over, current board is:  2c Qd 4d 2s Js
+! EricL                    has: Qs 9s
+! stannius                 has: 9d 9c
+! EricL wins $8750 (net $4450) with Two Pair (Q Q 2 2 J)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Nick Name                |   51350 |         |      |    |         |
+ 2|   EricL                    |   53175 |         |      |    |         |
+ 3|   Thomas Gabrysch          |   49200 |         |      |    |         |
+ 4|   Bacon                    |   52550 |         |      |    |         |
+ 5|   Duncan                   |   48750 |         |      |    |         |
+ 6|   mulligan                 |   41025 |         |      |    |         |
+ 7|D> stannius                 |   51950 |         |      |    |         |
+ 8|   Kevin Mackey             |   49175 |         |      |    |         |
+ 9|V  Endrju                   |   52825 |         |Dec 1s|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 565 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b1.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 2
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

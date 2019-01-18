@@ -1,0 +1,128 @@
+
+! Table b10, Hand 12, Day 11
+
+! Kicksave checks
+! Diputsur checks
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Diputsur                 |  42350 |    700 |      |    |        |
+ 2|D  Amar Patel               |  29750 |    100 |folded|    |        |
+ 3|>  tom porter               |  31250 |    700 |      |    |        |
+ 4|   Ralph MPN                |  27950 |    100 |folded|    |        |
+ 5|   Nate Meyvis              |  30450 |      0 |folded|    |        |
+ 6|   Kicksave                 |  23550 |    700 |      |    |        |
+ 7|   Swamper Brian            |  34950 |      0 |folded|    |        |
+ 8|   WayneFenster             |  30650 |    100 |folded|    |        |
+ 9|   Jim Sokoloff             |  29400 |      0 |folded|    |        |
+10|   jasong            |  17300 |      0 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 11/19/14 14:46:38! Dealing a new hand
+! 11/19/14 14:46:38! No ante
+! 11/19/14 14:46:38! tom porter blinds $50
+! 11/19/14 14:46:38! Ralph MPN blinds $100
+! 11/19/14 16:07:31! Nate Meyvis folds
+! 11/19/14 16:07:31! Kicksave calls 
+! 11/19/14 16:07:57! Swamper Brian folds
+! 11/19/14 16:18:53! WayneFenster calls 
+! 11/19/14 16:18:53! Jim Sokoloff folds
+! 11/19/14 16:18:53! jasong folds
+! 11/19/14 17:04:57! Diputsur calls 
+! 11/19/14 17:04:57! Amar Patel calls 
+! 11/19/14 17:08:39! tom porter calls 
+! 11/19/14 17:25:52! Ralph MPN checks
+
+! 11/19/14 17:25:52! Pot right ($600), flopping/dealing/drawing cards
+! 11/19/14 17:25:52! 6 players
+! 11/19/14 17:25:52! Flopped cards: 9h 2c Ks
+! 11/19/14 17:32:02! tom porter checks
+! 11/19/14 18:22:03! Ralph MPN checks
+! 11/19/14 18:22:03! Kicksave checks
+! 11/19/14 19:36:35! WayneFenster checks
+! 11/19/14 19:37:45! Diputsur bets $300 
+! 11/19/14 19:38:37! Amar Patel folds
+! 11/19/14 19:47:51! tom porter calls 
+! 11/20/14 12:34:28! Ralph MPN folds
+! 11/20/14 14:03:27! Kicksave calls 
+! 11/20/14 14:03:27! WayneFenster folds
+
+! 11/20/14 14:03:27! Pot right ($1500), flopping/dealing/drawing cards
+! 11/20/14 14:03:27! 3 players
+! 11/20/14 14:03:27! Flopped card: Jd
+! 11/20/14 14:21:33! tom porter bets $300 
+! 11/20/14 14:34:56! Kicksave calls 
+! 11/20/14 14:57:11! Diputsur calls 
+
+! 11/20/14 14:57:11! Pot right ($2400), flopping/dealing/drawing cards
+! 11/20/14 14:57:11! 3 players
+! 11/20/14 14:57:11! Flopped card: As
+! 11/20/14 14:58:20! tom porter checks
+! 11/20/14 16:11:36! Kicksave checks
+! 11/20/14 16:11:36! Diputsur checks
+! Hand over, current board is:  9h 2c Ks Jd As
+! Diputsur                 has: 10h Kc
+! tom porter               has: 10s Jc
+! Kicksave                 has: 10d 9d
+! Diputsur wins $2400 (net $1700) with One Pair (K K A J 10)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Diputsur                 |  44750 |        |      |    |        |
+ 2|   Amar Patel               |  29750 |        |      |    |        |
+ 3|D> tom porter               |  31250 |        |      |    |        |
+ 4|   Ralph MPN                |  27950 |        |      |    |        |
+ 5|   Nate Meyvis              |  30450 |        |      |    |        |
+ 6|   Kicksave                 |  23550 |        |      |    |        |
+ 7|   Swamper Brian            |  34950 |        |      |    |        |
+ 8|   WayneFenster             |  30650 |        |      |    |        |
+ 9|   Jim Sokoloff             |  29400 |        |      |    |        |
+10|   jasong            |  17300 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 720 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b10.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+This is WRGPT24.  Good luck.
+======
+
+Live Redraw Status as of 11/20/14 03:55:01 PM
+
+Total Empty Seats: 8
+Total Playing Seats: 720
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+Here is a link to the railbird mailing list:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman24@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

@@ -1,0 +1,98 @@
+Message-Id: <201101142256.p0EMuiL7032579@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [c25.10285] Holdem Game Broadcast Message(*)                          
+
+! Table c25, Hand 86, Day 75
+
+! mjoseff folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Nikadai                  |  69425 |    100 |folded|    |        |
+ 2|>  mjoseff                  |  89475 |  18000 |folded|    |        |
+ 3|   Eddie Brown              |  49750 |    100 |folded|    |        |
+ 4|V  Stanley Chow             |  27200 |    100 |<AWOL>|    |        |
+ 5|   jasong            |  70050 |    100 |folded|    |        |
+ 6|   jennyfar                 |  79600 |    100 |folded|    |        |
+ 7|   AW Coody                 | 112650 |    100 |folded|    |        |
+ 8|D  b monie                  |  21900 |    100 |folded|    |        |
+ 9|   JAvery - VP              |  11550 |    500 |folded|    |        |
+10|   KluelessKid              |      0 |  44600 |all-in|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 01/14/11 05:40:40! Dealing a new hand
+! 01/14/11 05:40:40! Everyone antes $100
+! 01/14/11 05:40:40! JAvery - VP blinds $400
+! 01/14/11 05:40:40! KluelessKid blinds $800
+! 01/14/11 06:39:40! Nikadai folds
+! 01/14/11 06:58:32! mjoseff raises $1600 
+! 01/14/11 06:58:32! Eddie Brown folds
+! 01/14/11 06:58:32! Stanley Chow is on vacation and folds
+! 01/14/11 06:58:32! jasong folds
+! 01/14/11 07:19:58! jennyfar folds
+! 01/14/11 10:43:46! AW Coody folds
+! 01/14/11 10:43:46! b monie folds
+! 01/14/11 10:51:58! JAvery - VP folds
+! 01/14/11 12:29:19! KluelessKid calls 
+
+! 01/14/11 12:29:19! Pot right ($6200), flopping/dealing/drawing cards
+! 01/14/11 12:29:19! 2 players
+! 01/14/11 12:29:19! Flopped cards: Kc 2c 6d
+! 01/14/11 12:32:54! KluelessKid checks
+! 01/14/11 12:45:12! mjoseff bets $3100 
+! 01/14/11 14:26:19! KluelessKid calls 
+
+! 01/14/11 14:26:19! Pot right ($12400), flopping/dealing/drawing cards
+! 01/14/11 14:26:19! 2 players
+! 01/14/11 14:26:19! Flopped card: Js
+! 01/14/11 14:29:12! KluelessKid checks
+! 01/14/11 14:45:09! mjoseff bets $12400 
+! 01/14/11 14:56:13! KluelessKid raises $26600 and is all in
+! 01/14/11 14:56:44! mjoseff folds
+! Hand over, no showdown
+! Current board is:  Kc 2c 6d Js ?
+! KluelessKid wins $63800 (net $19200)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Nikadai                  |  69425 |        |      |    |        |
+ 2|>  mjoseff                  |  89475 |        |      |    |        |
+ 3|   Eddie Brown              |  49750 |        |      |    |        |
+ 4|V  Stanley Chow             |  27200 |        |<AWOL>|    |        |
+ 5|   jasong            |  70050 |        |      |    |        |
+ 6|   jennyfar                 |  79600 |        |      |    |        |
+ 7|   AW Coody                 | 112650 |        |      |    |        |
+ 8|   b monie                  |  21900 |        |      |    |        |
+ 9|D  JAvery - VP              |  11550 |        |      |    |        |
+10|   KluelessKid              |  63800 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 552 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c25.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+If you have any problems send mail to floorman20@wrgpt.org.
+
+Live Redraw Status as of 01/14/11 02:55:01 PM
+
+Total Empty Seats: 18
+Total Playing Seats: 552
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org or follow "wrgpt" on Twitter.
+

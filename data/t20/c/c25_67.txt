@@ -1,0 +1,74 @@
+Message-Id: <201101010105.p0115Z1n007248@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [c25.10105] Holdem Game Broadcast Message(*)                          
+
+! Table c25, Hand 67, Day 61
+
+! jasong folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|V  Stanley Chow             |  30300 |     50 |<AWOL>|    |        |
+ 2|D  Deborah Abel             |  32400 |     50 |folded|    |        |
+ 3|   jasong            | 112250 |    250 |folded|    |        |
+ 7|>  jennyfar                 |  75300 |    450 |      |    |        |
+ 9|   b monie                  |  35200 |     50 |folded|    |        |
+10|   mjoseff                  |  62575 |     50 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 12/31/10 15:33:01! Dealing a new hand
+! 12/31/10 15:33:01! Everyone antes $50
+! 12/31/10 15:33:01! jasong blinds $200
+! 12/31/10 15:33:01! jennyfar blinds $400
+! 12/31/10 15:33:44! b monie folds
+! 12/31/10 15:34:13! mjoseff folds
+! 12/31/10 15:34:13! Stanley Chow is on vacation and folds
+! 12/31/10 15:39:10! Deborah Abel folds
+! 12/31/10 17:05:35! jasong folds
+! Hand over, no showdown
+! Current board is:  ? ? ? ? ?
+! jennyfar wins $900 (net $450)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|V  Stanley Chow             |  30300 |        |<AWOL>|    |        |
+ 2|   Deborah Abel             |  32400 |        |      |    |        |
+ 3|D  jasong            | 112250 |        |      |    |        |
+ 7|>  jennyfar                 |  76200 |        |      |    |        |
+ 9|   b monie                  |  35200 |        |      |    |        |
+10|   mjoseff                  |  62575 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 620 players left in the tournament, 2 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c25.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+If you have any problems send mail to floorman20@wrgpt.org.
+
+Live Redraw Status as of 12/31/10 04:55:01 PM
+
+Total Empty Seats: 31
+Total Playing Seats: 620
+Live redraw in progress:
+Seats Needed: 27
+Seats Waiting: 0
+Moving Players Waiting: 0
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org or follow "wrgpt" on Twitter.
+

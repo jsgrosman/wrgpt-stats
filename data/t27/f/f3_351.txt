@@ -1,0 +1,116 @@
+
+! Table f3, Hand 351, Day 169
+
+! rtroll folds
+! Pot right ($504150), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped cards: 8s 4d 6h
+! Flopped card: 5d
+! Flopped card: 3c
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  rtroll                   |  525400 |   53000 |folded|    |         |
+ 3|   Stefan Dios              |  252925 |    3000 |folded|    |         |
+ 4|   Bwana                    | 2746850 |    3000 |folded|    |         |
+ 5|   SCSI                     |       0 |  277575 |all-in|  1 |  122000 |
+ 6|   Dman                     |  393400 |    3000 |folded|    |         |
+ 7|   jasong            | 1334900 |    3000 |folded|    |         |
+ 8|   Poker Dog                |  905525 |    3000 |folded|    |         |
+ 9|D  NS                       |  853500 |    3000 |folded|    |         |
+10|   Bagock Esq               |       0 |  155575 |all-in|  2 |  382150 |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 04/09/18 07:18:29! Dealing a new hand
+! 04/09/18 07:18:29! Everyone antes $3000
+! 04/09/18 07:18:29! Bagock Esq blinds $25000
+! 04/09/18 07:18:29! rtroll blinds $50000
+! 04/09/18 08:55:23! Stefan Dios folds
+! 04/09/18 08:55:23! Bwana folds
+! 04/09/18 08:56:14! SCSI raises $224575 to $274575 total and is all in
+! 04/09/18 08:56:14! Dman folds
+! 04/09/18 08:56:14! jasong folds
+! 04/09/18 08:56:14! Poker Dog folds
+! 04/09/18 09:02:01! NS folds
+! 04/09/18 09:04:25! Bagock Esq calls - side pot
+! 04/09/18 10:52:14! rtroll folds
+
+! 04/09/18 10:52:14! Pot right ($504150), flopping/dealing/drawing cards
+! 04/09/18 10:52:14! 2 players, 2 all in
+! 04/09/18 10:52:14! Flopped cards: 8s 4d 6h
+! 04/09/18 10:52:14! Flopped card: 5d
+! 04/09/18 10:52:14! Flopped card: 3c
+! Hand over, current board is:  8s 4d 6h 5d 3c
+! SCSI                     has: 7s 7h
+! Bagock Esq               has: Js Jc
+! Pot 1: uncalled $122000 returned to SCSI
+! Pot 2: SCSI wins $382150 with Straight (8 7 6 5 4)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  rtroll                   |  525400 |         |      |    |         |
+ 3|   Stefan Dios              |  252925 |         |      |    |         |
+ 4|   Bwana                    | 2746850 |         |      |    |         |
+ 5|   SCSI                     |  504150 |         |      |    |         |
+ 6|   Dman                     |  393400 |         |      |    |         |
+ 7|   jasong            | 1334900 |         |      |    |         |
+ 8|   Poker Dog                |  905525 |         |      |    |         |
+ 9|D  NS                       |  853500 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Bagock Esq is eliminated!
+! 30 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/f/f3.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+However, if there were prizes they would pay the top 63 entrants.
+The standings are now showing theoretical prizes if WRGPT were a
+10k event.
+
+======
+
+Live Redraw Status as of 04/09/18 10:25:02 AM
+
+Total Empty Seats: 8
+Total Playing Seats: 31
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman27@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

@@ -1,0 +1,123 @@
+Subject: [b25.10561] Holdem Game Broadcast Message(*)
+
+! Table b25, Hand 38, Day 29
+
+! Fred Garvin calls 
+! Pot right ($38000), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: Ac
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Crespie                  |   32725 |       0 |folded|    |         |
+ 2|D  gilette                  |   56725 |    1000 |folded|    |         |
+ 3|   Lobocs                   |   92550 |    1000 |folded|    |         |
+ 4|   khudwrx03                |       0 |   18000 |all-in|    |         |
+ 5|   yawetag                  |   91850 |       0 |folded|    |         |
+ 6|   Brian Huss               |   56650 |       0 |folded|    |         |
+ 7|>  Fred Garvin              |   35225 |   18000 |      |    |         |
+ 8|   BBLWOG                   |   44325 |       0 |folded|    |         |
+ 9|   Mark Oosterveld          |   55175 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/08/18 19:04:25! Dealing a new hand
+! 12/08/18 19:04:25! No ante
+! 12/08/18 19:04:25! Lobocs blinds $150
+! 12/08/18 19:04:25! khudwrx03 blinds $300
+! 12/08/18 19:06:26! yawetag folds
+! 12/09/18 04:52:40! Brian Huss folds
+! 12/09/18 06:08:00! Fred Garvin calls 
+! 12/09/18 06:08:00! BBLWOG folds
+! 12/09/18 06:08:00! Mark Oosterveld folds
+! 12/09/18 06:08:00! Crespie folds
+! 12/09/18 08:09:15! gilette raises $700 to $1000 total 
+! 12/09/18 11:28:52! Lobocs calls 
+! 12/09/18 11:59:53! khudwrx03 calls 
+! 12/09/18 15:11:52! Fred Garvin calls 
+
+! 12/09/18 15:11:52! Pot right ($4000), flopping/dealing/drawing cards
+! 12/09/18 15:11:52! 4 players
+! 12/09/18 15:11:52! Flopped cards: 5c 6c Kd
+! 12/09/18 15:35:04! Lobocs checks
+! 12/09/18 15:52:06! khudwrx03 bets $1500 
+! 12/09/18 18:50:14! Fred Garvin calls 
+! 12/09/18 19:04:52! gilette folds
+! 12/09/18 19:09:30! Lobocs folds
+
+! 12/09/18 19:09:30! Pot right ($7000), flopping/dealing/drawing cards
+! 12/09/18 19:09:30! 2 players
+! 12/09/18 19:09:30! Flopped card: 4s
+! 12/09/18 19:27:20! khudwrx03 bets $15500 and is all in
+! 12/10/18 04:20:10! Fred Garvin calls 
+
+! 12/10/18 04:20:10! Pot right ($38000), flopping/dealing/drawing cards
+! 12/10/18 04:20:10! 2 players, 1 all in
+! 12/10/18 04:20:10! Flopped card: Ac
+! Hand over, current board is:  5c 6c Kd 4s Ac
+! khudwrx03                has: 8s 7c
+! Fred Garvin              has: 6d 5d
+! khudwrx03 wins $38000 (net $20000) with Straight (8 7 6 5 4)
+! Antes and blinds go up
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Crespie                  |   32725 |         |      |    |         |
+ 2|   gilette                  |   56725 |         |      |    |         |
+ 3|D  Lobocs                   |   92550 |         |      |    |         |
+ 4|   khudwrx03                |   38000 |         |      |    |         |
+ 5|   yawetag                  |   91850 |         |      |    |         |
+ 6|   Brian Huss               |   56650 |         |      |    |         |
+ 7|>  Fred Garvin              |   35225 |         |      |    |         |
+ 8|   BBLWOG                   |   44325 |         |      |    |         |
+ 9|   Mark Oosterveld          |   55175 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 507 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b25.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

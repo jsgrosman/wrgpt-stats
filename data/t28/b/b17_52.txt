@@ -1,0 +1,107 @@
+Subject: [b17.10737] Holdem Game Broadcast Message(*)
+
+! Table b17, Hand 52, Day 37
+
+! shinsook calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   tekbot                   |   57625 |      25 |folded|    |         |
+ 2|>  Sandy                    |   30600 |   16825 |      |    |         |
+ 3|   Mike DellaBarca          |   40025 |     825 |folded|    |         |
+ 4|   Baldy                    |   82525 |      25 |folded|    |         |
+ 5|   shinsook                 |  241625 |   16825 |      |    |         |
+ 6|   Kahomono                 |   31700 |      25 |folded|    |         |
+ 7|D  Toronado13               |   67875 |      25 |folded|    |         |
+ 9|   BillDaBear               |  104600 |     825 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/18/18 11:56:20! Dealing a new hand
+! 12/18/18 11:56:20! Everyone antes $25
+! 12/18/18 11:56:20! BillDaBear blinds $300
+! 12/18/18 12:18:01! tekbot folds
+! 12/18/18 13:56:42! Sandy raises $500 to $800 total 
+! 12/18/18 15:13:40! Mike DellaBarca calls 
+! 12/18/18 15:13:40! Baldy folds
+! 12/18/18 16:01:21! shinsook calls 
+! 12/18/18 16:01:21! Kahomono folds
+! 12/18/18 16:01:21! Toronado13 folds
+! 12/18/18 16:19:07! BillDaBear calls 
+
+! 12/18/18 16:19:07! Pot right ($3400), flopping/dealing/drawing cards
+! 12/18/18 16:19:07! 4 players
+! 12/18/18 16:19:07! Flopped cards: Qd 8h Jd
+! 12/18/18 16:30:31! BillDaBear checks
+! 12/18/18 16:34:23! Sandy bets $2000 
+! 12/18/18 16:50:13! Mike DellaBarca folds
+! 12/18/18 16:50:57! shinsook calls 
+! 12/18/18 16:50:57! BillDaBear folds
+
+! 12/18/18 16:50:57! Pot right ($7400), flopping/dealing/drawing cards
+! 12/18/18 16:50:57! 2 players
+! 12/18/18 16:50:57! Flopped card: Ks
+! 12/18/18 16:55:59! Sandy bets $4000 
+! 12/18/18 17:02:14! shinsook calls 
+
+! 12/18/18 17:02:14! Pot right ($15400), flopping/dealing/drawing cards
+! 12/18/18 17:02:14! 2 players
+! 12/18/18 17:02:14! Flopped card: 8c
+! 12/18/18 17:49:59! Sandy bets $10000 
+! 12/18/18 19:34:04! shinsook calls 
+! Hand over, current board is:  Qd 8h Jd Ks 8c
+! Sandy                    has: Ad 9d
+! shinsook                 has: 10s 10h
+! shinsook wins $35400 (net $18575) with Two Pair (10 10 8 8 K)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   tekbot                   |   57625 |         |      |    |         |
+ 2|>  Sandy                    |   30600 |         |      |    |         |
+ 3|   Mike DellaBarca          |   40025 |         |      |    |         |
+ 4|   Baldy                    |   82525 |         |      |    |         |
+ 5|   shinsook                 |  277025 |         |      |    |         |
+ 6|   Kahomono                 |   31700 |         |      |    |         |
+ 7|D  Toronado13               |   67875 |         |      |    |         |
+ 9|   BillDaBear               |  104600 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 458 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b17.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 10
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

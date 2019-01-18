@@ -1,0 +1,127 @@
+Subject: [b1.10213] Holdem Game Broadcast Message(*)
+
+! Table b1, Hand 22, Day 11
+
+! stannius checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Nick Name                |   51350 |       0 |folded|    |         |
+ 2|   EricL                    |   48500 |       0 |folded|    |         |
+ 3|   Thomas Gabrysch          |   49200 |       0 |folded|    |         |
+ 4|D  Bacon                    |   52550 |       0 |folded|    |         |
+ 5|   Duncan                   |   48750 |      75 |folded|    |         |
+ 6|>  mulligan                 |   41100 |    9925 |      |    |         |
+ 7|   stannius                 |   36475 |    9925 |      |    |         |
+ 8|   Kevin Mackey             |   49325 |       0 |folded|    |         |
+ 9|V  Endrju                   |   52825 |       0 |Dec 1s|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/21/18 15:08:10! Dealing a new hand
+! 11/21/18 15:08:10! No ante
+! 11/21/18 15:08:10! Duncan blinds $75
+! 11/21/18 15:08:10! mulligan blinds $150
+! 11/21/18 15:12:11! stannius raises $300 to $450 total 
+! 11/21/18 15:12:11! Kevin Mackey folds
+! 11/21/18 15:12:11! Endrju is on vacation and folds
+! 11/21/18 15:54:30! Nick Name folds
+! 11/21/18 19:56:03! EricL folds
+! 11/21/18 19:56:03! Thomas Gabrysch folds
+! 11/21/18 19:56:03! Bacon folds
+! 11/21/18 19:56:03! Duncan folds
+_____________________________________________________________________________
+
+! Happy Thanksgiving. Any non-US players at the table?
+! Cheers to all. Will the flop be something to be thankful for?
+! -- mulligan --
+_____________________________________________________________________________
+
+! 11/22/18 05:25:30! mulligan calls 
+
+! 11/22/18 05:25:30! Pot right ($975), flopping/dealing/drawing cards
+! 11/22/18 05:25:30! 2 players
+! 11/22/18 05:25:30! Flopped cards: 10d Ah Kh
+! 11/22/18 05:27:43! mulligan bets $475 
+! 11/22/18 06:45:06! stannius raises $3000 to $3475 total 
+! 11/22/18 06:48:52! mulligan calls 
+
+! 11/22/18 06:48:52! Pot right ($7925), flopping/dealing/drawing cards
+! 11/22/18 06:48:52! 2 players
+! 11/22/18 06:48:52! Flopped card: 9s
+! 11/22/18 06:49:35! mulligan checks
+! 11/22/18 07:41:41! stannius bets $6000 
+! 11/22/18 11:04:20! mulligan calls 
+
+! 11/22/18 11:04:20! Pot right ($19925), flopping/dealing/drawing cards
+! 11/22/18 11:04:20! 2 players
+! 11/22/18 11:04:20! Flopped card: 6s
+! 11/22/18 11:05:07! mulligan checks
+! 11/22/18 11:09:44! stannius checks
+! Hand over, current board is:  10d Ah Kh 9s 6s
+! mulligan                 has: Ad 9d
+! stannius                 has: As Ac
+! stannius wins $19925 (net $10000) with Three of a Kind (A A A K 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Nick Name                |   51350 |         |      |    |         |
+ 2|   EricL                    |   48500 |         |      |    |         |
+ 3|   Thomas Gabrysch          |   49200 |         |      |    |         |
+ 4|   Bacon                    |   52550 |         |      |    |         |
+ 5|D  Duncan                   |   48750 |         |      |    |         |
+ 6|>  mulligan                 |   41100 |         |      |    |         |
+ 7|   stannius                 |   56400 |         |      |    |         |
+ 8|   Kevin Mackey             |   49325 |         |      |    |         |
+ 9|V  Endrju                   |   52825 |         |Dec 1s|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! EricL timed out during this hand
+! 566 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b1.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 10
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

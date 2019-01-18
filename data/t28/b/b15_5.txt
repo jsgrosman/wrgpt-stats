@@ -1,0 +1,122 @@
+Subject: [b15.10079] Holdem Game Broadcast Message(*)
+
+! Table b15, Hand 5, Day 5
+
+! Bob the Butcher folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Russ Fox                 |   49650 |       0 |folded|    |         |
+ 2|   Bob the Butcher          |   34275 |   15000 |folded|    |         |
+ 3|   Rapidj                   |   47050 |       0 |folded|    |         |
+ 4|>  Brent Moore              |   29775 |   20000 |      |    |         |
+ 5|D  Clayaiken                |   36625 |       0 |folded|    |         |
+ 6|   Oaktowndad               |   49775 |      75 |folded|    |         |
+ 7|   Mike Litoris             |   49200 |     150 |folded|    |         |
+ 8|   Fee Weasel               |   48650 |    2500 |folded|    |         |
+ 9|   Klod                     |   67275 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/15/18 14:10:43! Dealing a new hand
+! 11/15/18 14:10:43! No ante
+! 11/15/18 14:10:43! Oaktowndad blinds $75
+! 11/15/18 14:10:43! Mike Litoris blinds $150
+! 11/15/18 14:44:47! Fee Weasel raises $850 to $1000 total 
+! 11/15/18 15:26:50! Klod folds
+! 11/15/18 15:26:50! Russ Fox folds
+! 11/15/18 15:27:30! Bob the Butcher calls 
+! 11/15/18 23:03:27! Rapidj folds
+! 11/15/18 23:03:27! Brent Moore calls 
+! 11/15/18 23:03:27! Clayaiken folds
+! 11/15/18 23:40:54! Oaktowndad folds
+! 11/15/18 23:40:54! Mike Litoris folds
+
+! 11/15/18 23:40:54! Pot right ($3225), flopping/dealing/drawing cards
+! 11/15/18 23:40:54! 3 players
+! 11/15/18 23:40:54! Flopped cards: 10c 2s Jh
+! 11/16/18 03:51:50! Fee Weasel checks
+! 11/16/18 03:54:00! Bob the Butcher bets $1500 
+! 11/16/18 05:47:24! Brent Moore calls 
+! 11/16/18 09:11:45! Fee Weasel calls 
+
+! 11/16/18 09:11:45! Pot right ($7725), flopping/dealing/drawing cards
+! 11/16/18 09:11:45! 3 players
+! 11/16/18 09:11:45! Flopped card: 10h
+! 11/16/18 09:40:30! Fee Weasel checks
+! 11/16/18 09:41:19! Bob the Butcher bets $1500 
+! 11/16/18 10:09:39! Brent Moore raises $6000 to $7500 total 
+! 11/16/18 10:43:29! Fee Weasel folds
+! 11/16/18 10:55:11! Bob the Butcher calls 
+
+! 11/16/18 10:55:11! Pot right ($22725), flopping/dealing/drawing cards
+! 11/16/18 10:55:11! 2 players
+! 11/16/18 10:55:11! Flopped card: 6s
+! 11/16/18 11:55:44! Bob the Butcher bets $5000 
+! 11/16/18 12:08:10! Brent Moore raises $5000 to $10000 total 
+! 11/16/18 12:35:57! Bob the Butcher folds
+! Hand over, no showdown
+! Current board is:  10c 2s Jh 10h 6s
+! Brent Moore wins $37725 (net $17725)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Russ Fox                 |   49650 |         |      |    |         |
+ 2|   Bob the Butcher          |   34275 |         |      |    |         |
+ 3|   Rapidj                   |   47050 |         |      |    |         |
+ 4|>  Brent Moore              |   67500 |         |      |    |         |
+ 5|   Clayaiken                |   36625 |         |      |    |         |
+ 6|D  Oaktowndad               |   49775 |         |      |    |         |
+ 7|   Mike Litoris             |   49200 |         |      |    |         |
+ 8|   Fee Weasel               |   48650 |         |      |    |         |
+ 9|   Klod                     |   67275 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 578 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b15.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

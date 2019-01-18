@@ -1,0 +1,98 @@
+Message-Id: <201001150847.o0F8lCqJ005440@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [c18.10071] Holdem Game Broadcast Message(*)                          
+
+! Table c18, Hand 55, Day 61
+
+! UKPOKER folds
+! Brian K folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Levi                     |  23100 |     50 |folded|    |        |
+ 2|>  Widowmaker               |  70200 |   1150 |      |    |        |
+ 3|   UKPOKER                  |  24550 |    450 |folded|    |        |
+ 4|   J Spencer                |  18000 |     50 |folded|    |        |
+ 5|   Vike                     |  22950 |     50 |folded|    |        |
+ 6|   JB                       |  59350 |     50 |folded|    |        |
+ 7|D  jasong            |  30700 |     50 |folded|    |        |
+ 8|   Senor Sheep              |  28650 |    250 |folded|    |        |
+ 9|   Brian K                  |  54350 |    450 |folded|    |        |
+10|   jcommand                 |  25725 |     50 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 01/13/10 13:33:32! Dealing a new hand
+! 01/13/10 13:33:32! Everyone antes $50
+! 01/13/10 13:33:32! Senor Sheep blinds $200
+! 01/13/10 13:33:32! Brian K blinds $400
+! 01/13/10 13:34:52! jcommand folds
+! 01/13/10 14:34:16! Levi folds
+! 01/13/10 16:03:50! Widowmaker calls 
+! 01/13/10 16:03:50! UKPOKER calls 
+! 01/13/10 17:00:49! J Spencer folds
+! 01/14/10 07:05:16! Vike folds
+! 01/14/10 07:05:16! JB folds
+! 01/14/10 07:05:16! jasong folds
+! 01/14/10 13:07:01! Senor Sheep folds
+! 01/14/10 14:33:17! Brian K checks
+
+! 01/14/10 14:33:17! Pot right ($1900), flopping/dealing/drawing cards
+! 01/14/10 14:33:17! 3 players
+! 01/14/10 14:33:17! Flopped cards: 5c Qh 9d
+! 01/14/10 14:33:17! Brian K checks
+! 01/14/10 15:47:47! Widowmaker bets $700 
+! 01/15/10 00:47:12! UKPOKER folds
+! 01/15/10 00:47:12! Brian K folds
+! Hand over, no showdown
+! Current board is:  5c Qh 9d ? ?
+! Widowmaker wins $2600 (net $1450)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Levi                     |  23100 |        |      |    |        |
+ 2|>  Widowmaker               |  72800 |        |      |    |        |
+ 3|   UKPOKER                  |  24550 |        |      |    |        |
+ 4|   J Spencer                |  18000 |        |      |    |        |
+ 5|   Vike                     |  22950 |        |      |    |        |
+ 6|   JB                       |  59350 |        |      |    |        |
+ 7|   jasong            |  30700 |        |      |    |        |
+ 8|D  Senor Sheep              |  28650 |        |      |    |        |
+ 9|   Brian K                  |  54350 |        |      |    |        |
+10|   jcommand                 |  25725 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 775 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c18.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Good luck in the second round.
+
+Try to send your action in before it is your turn so keep
+play moving quickly.
+
+Live Redraw Status as of 01/15/10 12:25:02 AM
+
+Total Empty Seats: 20
+Total Playing Seats: 775
+Live redraw in progress:
+Seats Needed: 9
+Seats Waiting: 1
+Moving Players Waiting: 0
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org or follow "wrgpt" on Twitter.
+

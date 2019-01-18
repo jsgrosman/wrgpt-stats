@@ -1,0 +1,109 @@
+Subject: [b5.10710] Holdem Game Broadcast Message(*)
+
+! Table b5, Hand 58, Day 54
+
+! Chris Danek folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Steb                     |   44825 |      50 |folded|    |         |
+ 2|   DrSayre                  |       0 |   50625 |all-in|    |         |
+ 3|   Dalamo                   |   47675 |      50 |folded|    |         |
+ 4|   CPROG                    |   99425 |      50 |folded|    |         |
+ 5|D  Xaralambous              |   52025 |      50 |folded|    |         |
+ 6|   James Bond               |   47575 |     250 |folded|    |         |
+ 7|   DocOber                  |   37825 |     450 |folded|    |         |
+ 8|>  Chris Danek              |  118000 |   18250 |folded|    |         |
+ 9|   siona                    |   45025 |      50 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/03/19 14:26:31! Dealing a new hand
+! 01/03/19 14:26:31! Everyone antes $50
+! 01/03/19 14:26:31! James Bond blinds $200
+! 01/03/19 14:26:31! DocOber blinds $400
+! 01/03/19 14:35:02! Chris Danek raises $800 to $1200 total 
+! 01/03/19 16:01:37! siona folds
+! 01/03/19 17:47:38! Steb folds
+! 01/03/19 18:21:09! DrSayre raises $3000 to $4200 total 
+! 01/03/19 19:56:44! Dalamo folds
+! 01/03/19 19:56:44! CPROG folds
+! 01/04/19 02:31:06! Xaralambous folds
+! 01/04/19 02:31:06! James Bond folds
+! 01/04/19 02:54:15! DocOber folds
+! 01/04/19 08:13:02! Chris Danek raises $5000 to $9200 total 
+! 01/04/19 09:07:51! DrSayre calls 
+
+! 01/04/19 09:07:51! Pot right ($19450), flopping/dealing/drawing cards
+! 01/04/19 09:07:51! 2 players
+! 01/04/19 09:07:51! Flopped cards: 5d Qh Jd
+! 01/04/19 09:19:36! Chris Danek bets $9000 
+! 01/04/19 10:38:31! DrSayre calls 
+
+! 01/04/19 10:38:31! Pot right ($37450), flopping/dealing/drawing cards
+! 01/04/19 10:38:31! 2 players
+! 01/04/19 10:38:31! Flopped card: As
+! 01/04/19 10:57:58! Chris Danek checks
+! 01/04/19 10:59:24! DrSayre bets $32375 and is all in
+! 01/04/19 11:03:59! Chris Danek folds
+! Hand over, no showdown
+! Current board is:  5d Qh Jd As ?
+! DrSayre wins $69825 (net $19200)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Steb                     |   44825 |         |      |    |         |
+ 2|   DrSayre                  |   69825 |         |      |    |         |
+ 3|   Dalamo                   |   47675 |         |      |    |         |
+ 4|   CPROG                    |   99425 |         |      |    |         |
+ 5|   Xaralambous              |   52025 |         |      |    |         |
+ 6|D  James Bond               |   47575 |         |      |    |         |
+ 7|   DocOber                  |   37825 |         |      |    |         |
+ 8|>  Chris Danek              |  118000 |         |      |    |         |
+ 9|   siona                    |   45025 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 400 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b5.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+We are now over 45 days into round "b". 
+As soon as any table gets to five or fewer 
+players all tables will finish the current 
+hand and a full redraw to round "c" will be done.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 32
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,115 @@
+Subject: [b43.10480] Holdem Game Broadcast Message(*)
+
+! Table b43, Hand 32, Day 30
+
+! DroogieDroog calls 
+! Pot right ($42725), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 9d
+! Flopped card: Qs
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   dgr                      |   80325 |      25 |folded|    |         |
+ 2|>  DroogieDroog             |   17825 |   21050 |      |    |         |
+ 3|   LetsGoRedSox             |   71075 |      25 |folded|    |         |
+ 4|   melanocetidae            |   55325 |      25 |folded|    |         |
+ 5|DV siooma                   |   59375 |      25 |17 dec|    |         |
+ 6|   SteedCarson              |   89425 |     175 |folded|    |         |
+ 7|   Joe Nadeau               |   54625 |     325 |folded|    |         |
+ 8|   reelbigbeagles           |   30950 |      25 |folded|    |         |
+ 9|   Butter trader            |       0 |   21050 |all-in|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/10/18 14:22:10! Dealing a new hand
+! 12/10/18 14:22:10! Everyone antes $25
+! 12/10/18 14:22:10! SteedCarson blinds $150
+! 12/10/18 14:22:10! Joe Nadeau blinds $300
+! 12/10/18 14:23:16! reelbigbeagles folds
+! 12/10/18 14:33:52! Butter trader raises $300 to $600 total 
+! 12/10/18 15:18:12! dgr folds
+! 12/10/18 15:39:38! DroogieDroog raises $1400 to $2000 total 
+! 12/10/18 17:12:56! LetsGoRedSox folds
+! 12/10/18 21:53:21! melanocetidae folds
+! 12/10/18 21:53:21! siooma is on vacation and folds
+! 12/11/18 07:37:04! SteedCarson folds
+! 12/11/18 07:37:04! Joe Nadeau folds
+! 12/11/18 09:14:04! Butter trader calls 
+
+! 12/11/18 09:14:04! Pot right ($4675), flopping/dealing/drawing cards
+! 12/11/18 09:14:04! 2 players
+! 12/11/18 09:14:04! Flopped cards: Qd Jc Kh
+! 12/11/18 09:16:36! Butter trader bets $19025 and is all in
+! 12/11/18 09:49:34! DroogieDroog calls 
+
+! 12/11/18 09:49:34! Pot right ($42725), flopping/dealing/drawing cards
+! 12/11/18 09:49:34! 2 players, 1 all in
+! 12/11/18 09:49:34! Flopped card: 9d
+! 12/11/18 09:49:34! Flopped card: Qs
+! Hand over, current board is:  Qd Jc Kh 9d Qs
+! DroogieDroog             has: Jh 10c
+! Butter trader            has: Js Ah
+! DroogieDroog wins $42725 (net $21675) with Straight (K Q J 10 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   dgr                      |   80325 |         |      |    |         |
+ 2|>  DroogieDroog             |   60550 |         |      |    |         |
+ 3|   LetsGoRedSox             |   71075 |         |      |    |         |
+ 4|   melanocetidae            |   55325 |         |      |    |         |
+ 5|V  siooma                   |   59375 |         |17 dec|    |         |
+ 6|D  SteedCarson              |   89425 |         |      |    |         |
+ 7|   Joe Nadeau               |   54625 |         |      |    |         |
+ 8|   reelbigbeagles           |   30950 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Butter trader is eliminated!
+! 496 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b43.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

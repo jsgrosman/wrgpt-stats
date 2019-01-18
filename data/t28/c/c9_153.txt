@@ -1,0 +1,121 @@
+Subject: [c9.10069] Holdem Game Broadcast Message(*)
+
+! Table c9, Hand 153, Day 59
+
+! Rkal checks
+! CAB checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   ddppmm                   |   47750 |     100 |folded|    |         |
+ 2|   Nathan Zuercher          |   61425 |     100 |folded|    |         |
+ 3|   Rkal                     |  108750 |     600 |      |    |         |
+ 4|V  Taki                     |   42300 |     100 |   Too|    |         |
+ 5|   Steb                     |   43225 |     100 |folded|    |         |
+ 6|D  CAB                      |   39825 |     600 |      |    |         |
+ 7|>  tristero                 |  115875 |     600 |      |    |         |
+ 8|   Neechieguy               |   27025 |     600 |      |    |         |
+ 9|   Klod                     |  128725 |     100 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/09/19 10:31:24! Dealing a new hand
+! 01/09/19 10:31:24! Everyone antes $100
+! 01/09/19 10:31:24! tristero blinds $250
+! 01/09/19 10:31:24! Neechieguy blinds $500
+! 01/09/19 10:32:34! Klod folds
+! 01/09/19 10:34:43! ddppmm folds
+! 01/09/19 10:49:19! Nathan Zuercher folds
+! 01/09/19 10:50:51! Rkal calls 
+! 01/09/19 10:50:51! Taki is on vacation and folds
+! 01/09/19 10:54:11! Steb folds
+! 01/09/19 11:09:50! CAB calls 
+! 01/09/19 11:09:50! tristero calls 
+! 01/09/19 11:23:41! Neechieguy checks
+
+! 01/09/19 11:23:41! Pot right ($2900), flopping/dealing/drawing cards
+! 01/09/19 11:23:41! 4 players
+! 01/09/19 11:23:41! Flopped cards: Kc 5s 9d
+! 01/09/19 11:25:16! tristero checks
+! 01/09/19 11:25:16! Neechieguy checks
+! 01/09/19 13:11:53! Rkal checks
+! 01/09/19 13:11:53! CAB checks
+
+! 01/09/19 13:11:53! Pot right ($2900), flopping/dealing/drawing cards
+! 01/09/19 13:11:53! 4 players
+! 01/09/19 13:11:53! Flopped card: 3s
+! 01/09/19 13:21:43! tristero checks
+! 01/09/19 13:21:43! Neechieguy checks
+! 01/09/19 13:21:43! Rkal checks
+! 01/09/19 13:21:43! CAB checks
+
+! 01/09/19 13:21:43! Pot right ($2900), flopping/dealing/drawing cards
+! 01/09/19 13:21:43! 4 players
+! 01/09/19 13:21:43! Flopped card: 10d
+! 01/09/19 13:22:36! tristero checks
+! 01/09/19 13:22:36! Neechieguy checks
+! 01/09/19 13:24:15! Rkal checks
+! 01/09/19 13:24:15! CAB checks
+! Hand over, current board is:  Kc 5s 9d 3s 10d
+! Rkal                     has: 8h Ac
+! CAB                      has: 10h 5h
+! tristero                 has: 10c 4c
+! Neechieguy               has: 2d 2c
+! CAB wins $2900 (net $2300) with Two Pair (10 10 5 5 K)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   ddppmm                   |   47750 |         |      |    |         |
+ 2|   Nathan Zuercher          |   61425 |         |      |    |         |
+ 3|   Rkal                     |  108750 |         |      |    |         |
+ 4|V  Taki                     |   42300 |         |   Too|    |         |
+ 5|   Steb                     |   43225 |         |      |    |         |
+ 6|   CAB                      |   42725 |         |      |    |         |
+ 7|D> tristero                 |  115875 |         |      |    |         |
+ 8|   Neechieguy               |   27025 |         |      |    |         |
+ 9|   Klod                     |  128725 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Neechieguy resigned from the game
+! 391 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c9.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+The "c" round has started.  Good luck to all
+the remaining players.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

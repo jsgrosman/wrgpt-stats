@@ -1,0 +1,118 @@
+
+! Table c5, Hand 119, Day 68
+
+! Deuce Seven Off Suit calls 
+! Pot right ($20700), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped cards: 6h 3s 8d
+! Flopped card: Kd
+! Flopped card: Ks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   jasong            |  112000 |     100 |folded|    |         |
+ 2|D  Plain Ed                 |   23600 |     100 |folded|    |         |
+ 3|   MrTiggerGolf             |   69900 |     350 |folded|    |         |
+ 4|   ArikK                    |   41575 |     600 |folded|    |         |
+ 5|   Richard Nixon            |   76325 |     100 |folded|    |         |
+ 6|   swamperflaco             |   27100 |     100 |folded|    |         |
+ 7|>  Deuce Seven Off Suit     |   83075 |    9575 |      |    |         |
+ 8|   jhaden                   |   59400 |     100 |folded|    |         |
+ 9|   Jason Feng               |       0 |    9575 |all-in|    |         |
+10|   Joker                    |  113300 |     100 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/29/17 09:53:37! Dealing a new hand
+! 12/29/17 09:53:37! Everyone antes $100
+! 12/29/17 09:53:37! MrTiggerGolf blinds $250
+! 12/29/17 09:53:37! ArikK blinds $500
+! 12/29/17 10:14:37! Richard Nixon folds
+! 12/29/17 10:26:20! swamperflaco folds
+! 12/29/17 11:27:03! Deuce Seven Off Suit calls 
+! 12/29/17 12:13:47! jhaden folds
+! 12/29/17 12:13:47! Jason Feng raises $8975 to $9475 total and is all in
+! 12/29/17 12:13:47! Joker folds
+! 12/29/17 12:13:47! jasong folds
+! 12/29/17 12:13:47! Plain Ed folds
+! 12/29/17 15:02:21! MrTiggerGolf folds
+! 12/29/17 15:02:21! ArikK folds
+! 12/29/17 16:16:37! Deuce Seven Off Suit calls 
+
+! 12/29/17 16:16:37! Pot right ($20700), flopping/dealing/drawing cards
+! 12/29/17 16:16:37! 2 players, 1 all in
+! 12/29/17 16:16:37! Flopped cards: 6h 3s 8d
+! 12/29/17 16:16:37! Flopped card: Kd
+! 12/29/17 16:16:37! Flopped card: Ks
+! Hand over, current board is:  6h 3s 8d Kd Ks
+! Deuce Seven Off Suit     has: 10d Kc
+! Jason Feng               has: 7c 5c
+! Deuce Seven Off Suit wins $20700 (net $11125) with Three of a Kind (K K K 10 8)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   jasong            |  112000 |         |      |    |         |
+ 2|   Plain Ed                 |   23600 |         |      |    |         |
+ 3|D  MrTiggerGolf             |   69900 |         |      |    |         |
+ 4|   ArikK                    |   41575 |         |      |    |         |
+ 5|   Richard Nixon            |   76325 |         |      |    |         |
+ 6|   swamperflaco             |   27100 |         |      |    |         |
+ 7|>  Deuce Seven Off Suit     |  103775 |         |      |    |         |
+ 8|   jhaden                   |   59400 |         |      |    |         |
+10|   Joker                    |  113300 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Jason Feng is eliminated!
+! 365 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c5.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+Welcome to the "c" round.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Live Redraw Status as of 12/29/17 03:55:01 PM
+
+Total Empty Seats: 12
+Total Playing Seats: 366
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman27@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

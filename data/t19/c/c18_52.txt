@@ -1,0 +1,110 @@
+Message-Id: <201001121536.o0CFaaVU022202@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [c18.10041] Holdem Game Broadcast Message(*)                          
+
+! Table c18, Hand 52, Day 58
+
+! Widowmaker folds
+! JB folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Levi                     |  23250 |     50 |folded|    |        |
+ 2|   Widowmaker               |  67550 |    450 |folded|    |        |
+ 3|   UKPOKER                  |  25100 |     50 |folded|    |        |
+ 4|D  J Spencer                |  19050 |     50 |folded|    |        |
+ 5|   Vike                     |  23100 |    250 |folded|    |        |
+ 6|   JB                       |  59100 |    450 |folded|    |        |
+ 7|   jasong            |  31450 |     50 |folded|    |        |
+ 8|   Senor Sheep              |  29900 |     50 |folded|    |        |
+ 9|   Brian K                  |  54900 |     50 |folded|    |        |
+10|>  jcommand                 |  23375 |   1950 |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 01/11/10 07:42:47! Dealing a new hand
+! 01/11/10 07:42:47! Everyone antes $50
+! 01/11/10 07:42:47! Vike blinds $200
+! 01/11/10 07:42:47! JB blinds $400
+! 01/11/10 07:48:51! jasong folds
+! 01/11/10 08:18:40! Senor Sheep folds
+! 01/11/10 09:17:42! Brian K folds
+! 01/11/10 09:17:42! jcommand calls 
+! 01/11/10 10:04:36! UKPOKER is back from vacation
+! 01/11/10 14:18:07! Levi folds
+! 01/11/10 14:18:07! Widowmaker calls 
+! 01/11/10 14:18:07! UKPOKER folds
+! 01/11/10 14:33:40! J Spencer folds
+! 01/11/10 14:33:40! Vike folds
+! 01/11/10 15:59:37! JB checks
+
+! 01/11/10 15:59:37! Pot right ($1900), flopping/dealing/drawing cards
+! 01/11/10 15:59:37! 3 players
+! 01/11/10 15:59:37! Flopped cards: 9s Ah 4d
+! 01/11/10 16:01:04! JB checks
+! 01/11/10 16:26:48! jcommand checks
+! 01/11/10 17:28:51! Widowmaker checks
+
+! 01/11/10 17:28:51! Pot right ($1900), flopping/dealing/drawing cards
+! 01/11/10 17:28:51! 3 players
+! 01/11/10 17:28:51! Flopped card: Qd
+! 01/11/10 17:28:51! JB checks
+! 01/11/10 17:50:09! jcommand checks
+! 01/12/10 03:22:58! Widowmaker checks
+
+! 01/12/10 03:22:58! Pot right ($1900), flopping/dealing/drawing cards
+! 01/12/10 03:22:58! 3 players
+! 01/12/10 03:22:58! Flopped card: Jd
+! 01/12/10 03:31:14! JB checks
+! 01/12/10 07:25:05! jcommand bets $1500 
+! 01/12/10 07:36:35! Widowmaker folds
+! 01/12/10 07:36:35! JB folds
+! Hand over, no showdown
+! Current board is:  9s Ah 4d Qd Jd
+! jcommand wins $3400 (net $1450)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Levi                     |  23250 |        |      |    |        |
+ 2|   Widowmaker               |  67550 |        |      |    |        |
+ 3|   UKPOKER                  |  25100 |        |      |    |        |
+ 4|   J Spencer                |  19050 |        |      |    |        |
+ 5|D  Vike                     |  23100 |        |      |    |        |
+ 6|   JB                       |  59100 |        |      |    |        |
+ 7|   jasong            |  31450 |        |      |    |        |
+ 8|   Senor Sheep              |  29900 |        |      |    |        |
+ 9|   Brian K                  |  54900 |        |      |    |        |
+10|>  jcommand                 |  26775 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 797 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c18.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Good luck in the second round.
+
+Try to send your action in before it is your turn so keep
+play moving quickly.
+
+Live Redraw Status as of 01/12/10 07:25:02 AM
+
+Total Empty Seats: 15
+Total Playing Seats: 798
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org or follow "wrgpt" on Twitter.
+

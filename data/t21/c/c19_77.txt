@@ -1,0 +1,109 @@
+Message-Id: <201201232103.q0NL3wWJ015816@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [c19.10052] Holdem Game Broadcast Message(*)                          
+
+! Table c19, Hand 77, Day 71
+
+! Ro-me-ro calls 
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Ro-me-ro                 |  26300 |  42100 |      |    |        |
+ 2|   Anshu                    |  77350 |    100 |folded|    |        |
+ 3|   Neechieguy               |  37925 |    100 |folded|    |        |
+ 5|D  Jenner N. Broody         |   5100 |    100 |folded|    |        |
+ 6|   Linzk425                 |  28450 |    500 |folded|    |        |
+ 7|>  swamper wlu_lax6         |  61950 |  42100 |      |    |        |
+ 8|   Paul McMullin            |  38150 |    100 |folded|    |        |
+ 9|   jasong            |  15050 |    100 |folded|    |        |
+10|   mash001                  |  20500 |    100 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 01/23/12 00:24:30! Dealing a new hand
+! 01/23/12 00:24:30! Everyone antes $100
+! 01/23/12 00:24:30! Linzk425 blinds $400
+! 01/23/12 00:24:30! swamper wlu_lax6 blinds $800
+! 01/23/12 05:48:24! Paul McMullin folds
+! 01/23/12 07:07:56! jasong folds
+! 01/23/12 07:22:57! mash001 folds
+! 01/23/12 07:26:54! Ro-me-ro raises $1200 
+! 01/23/12 07:26:54! Anshu folds
+! 01/23/12 08:04:16! Neechieguy folds
+! 01/23/12 08:04:16! Jenner N. Broody folds
+! 01/23/12 08:11:20! Linzk425 folds
+! 01/23/12 08:22:43! swamper wlu_lax6 calls 
+
+! 01/23/12 08:22:43! Pot right ($5300), flopping/dealing/drawing cards
+! 01/23/12 08:22:43! 2 players
+! 01/23/12 08:22:43! Flopped cards: 9d 3c 6h
+! 01/23/12 08:26:08! swamper wlu_lax6 bets $900 
+! 01/23/12 09:40:05! Ro-me-ro raises $4100 
+! 01/23/12 11:33:00! swamper wlu_lax6 calls 
+
+! 01/23/12 11:33:00! Pot right ($15300), flopping/dealing/drawing cards
+! 01/23/12 11:33:00! 2 players
+! 01/23/12 11:33:00! Flopped card: 7h
+! 01/23/12 11:59:30! swamper wlu_lax6 checks
+! 01/23/12 12:11:39! Ro-me-ro bets $10000 
+! 01/23/12 12:39:18! swamper wlu_lax6 calls 
+
+! 01/23/12 12:39:18! Pot right ($35300), flopping/dealing/drawing cards
+! 01/23/12 12:39:18! 2 players
+! 01/23/12 12:39:18! Flopped card: 4h
+! 01/23/12 12:43:50! swamper wlu_lax6 bets $25000 
+! 01/23/12 13:03:57! Ro-me-ro calls 
+! Hand over, current board is:  9d 3c 6h 7h 4h
+! Ro-me-ro                 has: 10h 10c
+! swamper wlu_lax6         has: 7s 5s
+! swamper wlu_lax6 wins $85300 (net $43200) with Straight (7 6 5 4 3)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Ro-me-ro                 |  26300 |        |      |    |        |
+ 2|   Anshu                    |  77350 |        |      |    |        |
+ 3|   Neechieguy               |  37925 |        |      |    |        |
+ 5|   Jenner N. Broody         |   5100 |        |      |    |        |
+ 6|D  Linzk425                 |  28450 |        |      |    |        |
+ 7|>  swamper wlu_lax6         | 147250 |        |      |    |        |
+ 8|   Paul McMullin            |  38150 |        |      |    |        |
+ 9|   jasong            |  15050 |        |      |    |        |
+10|   mash001                  |  20500 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 523 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c19.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+There will be no more live redraws for the "b" round.
+When a table gets BELOW six players all tables will finish
+the current hand and a full redraw will occur.
+
+Having problems? Send email to floorman21@wrgpt.org.
+
+Live Redraw Status as of 01/23/12 12:55:02 PM
+
+Total Empty Seats: 25
+Total Playing Seats: 523
+Live redraw in progress:
+Seats Needed: 17
+Seats Waiting: 1
+Moving Players Waiting: 0
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+

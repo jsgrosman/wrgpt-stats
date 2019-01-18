@@ -1,0 +1,111 @@
+Message-Id: <201403100011.s2A0B9vJ014207@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [d19.10229] Holdem Game Broadcast Message(*)                          
+
+! Table d19, Hand 177, Day 119
+
+! Indiansquib calls 
+! Pot right ($21750), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped cards: Kc 3c 6h
+! Flopped card: 3d
+! Flopped card: 5s
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Shawn Pope               | 122050 |    400 |folded|    |        |
+ 2|   jasong            |  38975 |    400 |folded|    |        |
+ 3|   bluecandy                | 116600 |    400 |folded|    |        |
+ 4|D  Berglar                  |  64450 |    400 |folded|    |        |
+ 5|   Joe Nadeau               | 377950 |   2000 |folded|    |        |
+ 6|   tired                    |  66700 |   3600 |folded|    |        |
+ 7|   Luigi Barone             |  44500 |    400 |folded|    |        |
+ 8|   Tennisgirl               |      0 |   6875 |all-in|    |        |
+ 9|>  Indiansquib              | 203475 |   6875 |      |    |        |
+10|   smak                     |  38700 |    400 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 03/08/14 09:10:20! Dealing a new hand
+! 03/08/14 09:10:20! Everyone antes $400
+! 03/08/14 09:10:20! Joe Nadeau blinds $1600
+! 03/08/14 09:10:20! tired blinds $3200
+! 03/08/14 12:19:41! Luigi Barone folds
+! 03/08/14 15:25:48! Tennisgirl calls 
+! 03/08/14 15:48:20! Indiansquib raises $3200 
+! 03/08/14 15:48:20! smak folds
+! 03/08/14 19:07:23! Shawn Pope folds
+! 03/08/14 19:07:23! jasong folds
+! 03/08/14 19:07:23! bluecandy folds
+! 03/09/14 16:22:04! Berglar folds
+! 03/09/14 16:22:04! Joe Nadeau folds
+! 03/09/14 16:22:04! tired folds
+! 03/09/14 16:22:04! Tennisgirl raises $75 and is all in
+! 03/09/14 17:11:08! Indiansquib calls 
+
+! 03/09/14 17:11:08! Pot right ($21750), flopping/dealing/drawing cards
+! 03/09/14 17:11:08! 2 players, 1 all in
+! 03/09/14 17:11:08! Flopped cards: Kc 3c 6h
+! 03/09/14 17:11:08! Flopped card: 3d
+! 03/09/14 17:11:08! Flopped card: 5s
+! Hand over, current board is:  Kc 3c 6h 3d 5s
+! Tennisgirl               has: Qd 10c
+! Indiansquib              has: Ad Qc
+! Indiansquib wins $21750 (net $14875) with One Pair (3 3 A K Q)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Shawn Pope               | 122050 |        |      |    |        |
+ 2|   jasong            |  38975 |        |      |    |        |
+ 3|   bluecandy                | 116600 |        |      |    |        |
+ 4|   Berglar                  |  64450 |        |      |    |        |
+ 5|D  Joe Nadeau               | 377950 |        |      |    |        |
+ 6|   tired                    |  66700 |        |      |    |        |
+ 7|   Luigi Barone             |  44500 |        |      |    |        |
+ 9|>  Indiansquib              | 225225 |        |      |    |        |
+10|   smak                     |  38700 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! Tennisgirl is eliminated!
+! 234 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d19.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+Here is a link to the railbird mailing list:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman23@wrgpt.org.
+
+Live Redraw Status as of 03/09/14 04:55:01 PM
+
+Total Empty Seats: 15
+Total Playing Seats: 235
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

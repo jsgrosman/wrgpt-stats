@@ -1,0 +1,111 @@
+Message-Id: <201404102132.s3ALWjvO008130@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [e7.10155] Holdem Game Broadcast Message(*)                          
+
+! Table e7, Hand 245, Day 151
+
+! Matt Kosovsky folds
+! Mad Chad calls - side pot
+! Pot right ($238100), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped cards: 4h 5h 10d
+! Flopped card: Qh
+! Flopped card: 2d
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Spike                    | 482025 |   1000 |folded|    |        |
+ 2|   Fredrik Westerlund       |  93000 |   1000 |folded|    |        |
+ 3|>  Mad Chad                 |      0 | 110600 |all-in|  2 | 237200 |
+ 4|   altidude6202             | 538125 |   1000 |folded|    |        |
+ 5|   jasong            |      0 | 111500 |all-in|  1 |    900 |
+ 6|   dave radke               | 244725 |   1000 |folded|    |        |
+ 7|D  The Cleaner              |  96600 |   1000 |folded|    |        |
+ 8|   Joe Nadeau               | 259900 |   4000 |folded|    |        |
+ 9|   Matt Kosovsky            |  92200 |   7000 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 04/10/14 07:45:53! Dealing a new hand
+! 04/10/14 07:45:53! Everyone antes $1000
+! 04/10/14 07:45:53! Joe Nadeau blinds $3000
+! 04/10/14 07:45:53! Matt Kosovsky blinds $6000
+! 04/10/14 09:24:11! Spike folds
+! 04/10/14 09:24:11! Fredrik Westerlund folds
+! 04/10/14 09:59:57! Mad Chad raises $24000 
+! 04/10/14 09:59:57! altidude6202 folds
+! 04/10/14 12:03:48! jasong raises $80500 and is all in
+! 04/10/14 12:03:48! dave radke folds
+! 04/10/14 12:03:48! The Cleaner folds
+! 04/10/14 14:09:28! Joe Nadeau folds
+! 04/10/14 14:32:44! Matt Kosovsky folds
+! 04/10/14 14:32:44! Mad Chad calls - side pot
+
+! 04/10/14 14:32:44! Pot right ($238100), flopping/dealing/drawing cards
+! 04/10/14 14:32:44! 2 players, 2 all in
+! 04/10/14 14:32:44! Flopped cards: 4h 5h 10d
+! 04/10/14 14:32:44! Flopped card: Qh
+! 04/10/14 14:32:44! Flopped card: 2d
+! Hand over, current board is:  4h 5h 10d Qh 2d
+! Mad Chad                 has: Ah Jh
+! jasong            has: Qs Ac
+! Pot 1: uncalled $900 returned to jasong
+! Pot 2: Mad Chad wins $237200 with Heart Flush (A Q J 5 4)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Spike                    | 482025 |        |      |    |        |
+ 2|   Fredrik Westerlund       |  93000 |        |      |    |        |
+ 3|>  Mad Chad                 | 237200 |        |      |    |        |
+ 4|   altidude6202             | 538125 |        |      |    |        |
+ 5|   jasong            |    900 |        |      |    |        |
+ 6|   dave radke               | 244725 |        |      |    |        |
+ 7|   The Cleaner              |  96600 |        |      |    |        |
+ 8|D  Joe Nadeau               | 259900 |        |      |    |        |
+ 9|   Matt Kosovsky            |  92200 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 82 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/e/e7.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+There are NO prizes for WRGPT.  The amounts shown in the standings
+are what the prizes might be for a $10k entry fee tourney.
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+Here is a link to the railbird mailing list:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman23@wrgpt.org.
+
+Live Redraw Status as of 04/10/14 02:25:01 PM
+
+Total Empty Seats: 13
+Total Playing Seats: 82
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

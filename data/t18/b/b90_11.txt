@@ -1,0 +1,100 @@
+Message-Id: <200811192137.mAJLbTih030660@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+Reply-To: dealer@wrgpt.org
+From: dealer@wrgpt.org
+Subject: [b90.10148] Holdem Game Broadcast Message(*)          
+
+! Table b90, Hand 11, Day 17
+
+! Ray Powers folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Poker Ken                |      0 |  21100 |all-in|    |        |
+ 2|   DroogieDroog             |  19550 |      0 |folded|    |        |
+ 3|   Warren Usui              |  19850 |      0 |folded|    |        |
+ 4|   Shyam Markus             |  15050 |   2400 |folded|    |        |
+ 5|   fich                     |  19900 |      0 |folded|    |        |
+ 6|D  couchtater               |  18700 |      0 |folded|    |        |
+ 7|   Smeagol                  |  18100 |    100 |folded|    |        |
+ 8|   jasong            |  32800 |    200 |folded|    |        |
+ 9|   calemb10                 |  19600 |      0 |folded|    |        |
+10|>  Ray Powers               |  26250 |   6400 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 11/18/08 09:38:09! Dealing a new hand
+! 11/18/08 09:38:09! No ante
+! 11/18/08 09:38:09! Smeagol blinds $100
+! 11/18/08 09:38:09! jasong blinds $200
+! 11/18/08 10:48:03! calemb10 folds
+! 11/18/08 11:01:48! Ray Powers raises $600 
+! 11/18/08 11:31:33! Poker Ken calls 
+! 11/18/08 13:22:40! DroogieDroog folds
+! 11/19/08 03:09:01! Warren Usui folds
+! 11/19/08 03:50:18! Shyam Markus raises $1600 
+! 11/19/08 03:50:18! fich folds
+! 11/19/08 03:50:18! couchtater folds
+! 11/19/08 03:50:18! Smeagol folds
+! 11/19/08 04:45:36! jasong folds
+! 11/19/08 06:05:52! Ray Powers calls 
+! 11/19/08 09:32:42! Poker Ken calls 
+
+! 11/19/08 09:32:42! Pot right ($7500), flopping/dealing/drawing cards
+! 11/19/08 09:32:42! 3 players
+! 11/19/08 09:32:42! Flopped cards: Ks 7d 7c
+! 11/19/08 10:51:34! Ray Powers bets $4000 
+! 11/19/08 11:03:36! Poker Ken calls 
+! 11/19/08 12:27:55! Shyam Markus folds
+
+! 11/19/08 12:27:55! Pot right ($15500), flopping/dealing/drawing cards
+! 11/19/08 12:27:55! 2 players
+! 11/19/08 12:27:55! Flopped card: 5s
+! 11/19/08 12:34:28! Ray Powers checks
+! 11/19/08 13:21:00! Poker Ken bets $14700 and is all in
+! 11/19/08 13:37:29! Ray Powers folds
+! Hand over, no showdown
+! Current board is:  Ks 7d 7c 5s ?
+! Poker Ken wins $30200 (net $9100)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Poker Ken                |  30200 |        |      |    |        |
+ 2|   DroogieDroog             |  19550 |        |      |    |        |
+ 3|   Warren Usui              |  19850 |        |      |    |        |
+ 4|   Shyam Markus             |  15050 |        |      |    |        |
+ 5|   fich                     |  19900 |        |      |    |        |
+ 6|   couchtater               |  18700 |        |      |    |        |
+ 7|D  Smeagol                  |  18100 |        |      |    |        |
+ 8|   jasong            |  32800 |        |      |    |        |
+ 9|   calemb10                 |  19600 |        |      |    |        |
+10|>  Ray Powers               |  26250 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! Warren Usui timed out during this hand
+! 1017 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b90.html
+
+TOURNEY INFORMATION
+
+
+NOTICE:
+
+If you are on vacation for 45 days you will be 
+removed from the tourney.  Exceptions will be made 
+only in the case of telling the floorman why you
+have a good reason to be gone for 45 days before
+the 45 days have elapsed.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org
+

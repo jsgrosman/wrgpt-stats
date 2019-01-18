@@ -1,0 +1,108 @@
+
+! Table b10, Hand 23, Day 22
+
+! Diputsur folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   jasong            |  16300 |      0 |folded|    |        |
+ 2|   Diputsur                 |  44675 |    200 |folded|    |        |
+ 3|   Amar Patel               |  29600 |      0 |folded|    |        |
+ 4|D  tom porter               |  29750 |      0 |folded|    |        |
+ 5|>  Ralph MPN                |  26525 |    600 |      |    |        |
+ 6|   Nate Meyvis              |  63650 |    200 |folded|    |        |
+ 7|   Kicksave                 |  23550 |      0 |folded|    |        |
+ 8|   Swamper Brian            |  33900 |      0 |folded|    |        |
+ 9|   WayneFenster             |  31050 |      0 |folded|    |        |
+10|   Kasey                    |  21350 |      0 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 12/01/14 14:04:57! Dealing a new hand
+! 12/01/14 14:04:57! No ante
+! 12/01/14 14:04:57! Ralph MPN blinds $100
+! 12/01/14 14:04:57! Nate Meyvis blinds $200
+! 12/01/14 14:05:22! Kicksave folds
+! 12/01/14 14:05:47! Swamper Brian folds
+! 12/01/14 15:06:36! WayneFenster folds
+! 12/01/14 16:05:30! Kasey folds
+! 12/01/14 16:05:30! jasong folds
+! 12/01/14 17:06:58! Diputsur calls 
+! 12/01/14 17:06:58! Amar Patel folds
+! 12/01/14 17:06:58! tom porter folds
+! 12/01/14 17:29:19! Ralph MPN calls 
+! 12/01/14 17:31:58! Nate Meyvis checks
+
+! 12/01/14 17:31:58! Pot right ($600), flopping/dealing/drawing cards
+! 12/01/14 17:31:58! 3 players
+! 12/01/14 17:31:58! Flopped cards: Jd 4h Js
+! 12/01/14 18:39:11! Ralph MPN bets $400 
+! 12/01/14 18:52:05! Nate Meyvis folds
+! 12/01/14 19:01:54! Diputsur folds
+! Hand over, no showdown
+! Current board is:  Jd 4h Js ? ?
+! Ralph MPN wins $1000 (net $400)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   jasong            |  16300 |        |      |    |        |
+ 2|   Diputsur                 |  44675 |        |      |    |        |
+ 3|   Amar Patel               |  29600 |        |      |    |        |
+ 4|   tom porter               |  29750 |        |      |    |        |
+ 5|D> Ralph MPN                |  27525 |        |      |    |        |
+ 6|   Nate Meyvis              |  63650 |        |      |    |        |
+ 7|   Kicksave                 |  23550 |        |      |    |        |
+ 8|   Swamper Brian            |  33900 |        |      |    |        |
+ 9|   WayneFenster             |  31050 |        |      |    |        |
+10|   Kasey                    |  21350 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 678 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b10.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+This is WRGPT24.  Good luck.
+
+If a player does not show up to play by the end of day 30 they will
+be removed from the tournament.
+
+======
+
+Live Redraw Status as of 12/01/14 06:55:01 PM
+
+Total Empty Seats: 22
+Total Playing Seats: 678
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+Here is a link to the railbird mailing list:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman24@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

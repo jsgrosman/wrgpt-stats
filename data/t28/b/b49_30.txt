@@ -1,0 +1,119 @@
+Subject: [b49.10384] Holdem Game Broadcast Message(*)
+
+! Table b49, Hand 30, Day 20
+
+! Michael calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Schmuckbox               |   64725 |       0 |folded|    |         |
+ 2|   Rod Hall                 |   15825 |       0 |folded|    |         |
+ 3|D  Dragon                   |   27100 |       0 |folded|    |         |
+ 4|   OpinionatedGeek          |   50650 |     150 |folded|    |         |
+ 5|>  Not66                    |   29675 |   19550 |      |    |         |
+ 6|   Michael                  |   28950 |   19550 |      |    |         |
+ 7|   Keith Troell             |  101600 |       0 |folded|    |         |
+ 8|   edwin gomez              |   26200 |       0 |folded|    |         |
+ 9|   FeltShark                |   66025 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/01/18 06:21:02! Dealing a new hand
+! 12/01/18 06:21:02! No ante
+! 12/01/18 06:21:02! OpinionatedGeek blinds $150
+! 12/01/18 06:21:02! Not66 blinds $300
+! 12/01/18 06:22:27! Michael raises $750 to $1050 total 
+! 12/01/18 10:03:58! Keith Troell folds
+! 12/01/18 11:28:36! edwin gomez folds
+! 12/01/18 11:28:36! FeltShark folds
+! 12/01/18 11:28:36! Schmuckbox folds
+! 12/01/18 11:28:36! Rod Hall folds
+! 12/01/18 11:28:36! Dragon folds
+! 12/01/18 11:28:36! OpinionatedGeek folds
+! 12/01/18 11:38:36! Not66 calls 
+
+! 12/01/18 11:38:36! Pot right ($2250), flopping/dealing/drawing cards
+! 12/01/18 11:38:36! 2 players
+! 12/01/18 11:38:36! Flopped cards: Jd 9d Jh
+! 12/01/18 11:40:05! Not66 checks
+! 12/01/18 12:41:47! Michael bets $2250 
+! 12/01/18 15:28:10! Not66 calls 
+
+! 12/01/18 15:28:10! Pot right ($6750), flopping/dealing/drawing cards
+! 12/01/18 15:28:10! 2 players
+! 12/01/18 15:28:10! Flopped card: 4s
+! 12/01/18 15:51:19! Not66 checks
+! 12/01/18 16:09:19! Michael bets $5250 
+! 12/01/18 16:14:39! Not66 calls 
+
+! 12/01/18 16:14:39! Pot right ($17250), flopping/dealing/drawing cards
+! 12/01/18 16:14:39! 2 players
+! 12/01/18 16:14:39! Flopped card: 3d
+! 12/01/18 16:19:39! Not66 bets $11000 
+! 12/01/18 17:13:16! Michael calls 
+! Hand over, current board is:  Jd 9d Jh 4s 3d
+! Not66                    has: Js 9s
+! Michael                  has: As Ad
+! Not66 wins $39250 (net $19700) with Full House (J J J 9 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Schmuckbox               |   64725 |         |      |    |         |
+ 2|   Rod Hall                 |   15825 |         |      |    |         |
+ 3|   Dragon                   |   27100 |         |      |    |         |
+ 4|D  OpinionatedGeek          |   50650 |         |      |    |         |
+ 5|>  Not66                    |   68925 |         |      |    |         |
+ 6|   Michael                  |   28950 |         |      |    |         |
+ 7|   Keith Troell             |  101600 |         |      |    |         |
+ 8|   edwin gomez              |   26200 |         |      |    |         |
+ 9|   FeltShark                |   66025 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 532 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b49.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

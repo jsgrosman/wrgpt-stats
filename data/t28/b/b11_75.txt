@@ -1,0 +1,107 @@
+Subject: [b11.10832] Holdem Game Broadcast Message(*)
+
+! Table b11, Hand 75, Day 54
+
+! ddppmm checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 3|>  RichNYC                  |   41100 |    5750 |      |    |         |
+ 4|   ddppmm                   |   38350 |    5750 |      |    |         |
+ 5|D  DotMatrix                |   29850 |      50 |folded|    |         |
+ 6|   put_it_good              |   81475 |     250 |folded|    |         |
+ 7|   Bobby the Worm           |   60875 |     450 |folded|    |         |
+ 8|   ADB Jupe                 |   18900 |      50 |folded|    |         |
+ 9|   Chris Goedde             |  156475 |      50 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/04/19 08:48:46! Dealing a new hand
+! 01/04/19 08:48:46! Everyone antes $50
+! 01/04/19 08:48:46! put_it_good blinds $200
+! 01/04/19 08:48:46! Bobby the Worm blinds $400
+! 01/04/19 08:50:43! ADB Jupe folds
+! 01/04/19 10:18:41! Chris Goedde folds
+! 01/04/19 10:31:32! RichNYC raises $700 to $1100 total 
+! 01/04/19 13:13:36! ddppmm calls 
+! 01/04/19 13:13:36! DotMatrix folds
+! 01/04/19 13:13:36! put_it_good folds
+! 01/04/19 13:13:36! Bobby the Worm folds
+
+! 01/04/19 13:13:36! Pot right ($3150), flopping/dealing/drawing cards
+! 01/04/19 13:13:36! 2 players
+! 01/04/19 13:13:36! Flopped cards: 6d Jd Qs
+! 01/04/19 13:56:12! RichNYC bets $1800 
+! 01/04/19 14:10:15! ddppmm calls 
+
+! 01/04/19 14:10:15! Pot right ($6750), flopping/dealing/drawing cards
+! 01/04/19 14:10:15! 2 players
+! 01/04/19 14:10:15! Flopped card: 4h
+! 01/04/19 14:12:19! RichNYC bets $2800 
+! 01/04/19 14:13:14! ddppmm calls 
+
+! 01/04/19 14:13:15! Pot right ($12350), flopping/dealing/drawing cards
+! 01/04/19 14:13:15! 2 players
+! 01/04/19 14:13:15! Flopped card: 5c
+! 01/04/19 14:15:17! RichNYC checks
+! 01/04/19 14:16:02! ddppmm checks
+! Hand over, current board is:  6d Jd Qs 4h 5c
+! RichNYC                  has: Kh Qd
+! ddppmm                   has: Jh Ac
+! RichNYC wins $12350 (net $6600) with One Pair (Q Q K J 6)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 3|>  RichNYC                  |   53450 |         |      |    |         |
+ 4|   ddppmm                   |   38350 |         |      |    |         |
+ 5|   DotMatrix                |   29850 |         |      |    |         |
+ 6|D  put_it_good              |   81475 |         |      |    |         |
+ 7|   Bobby the Worm           |   60875 |         |      |    |         |
+ 8|   ADB Jupe                 |   18900 |         |      |    |         |
+ 9|   Chris Goedde             |  156475 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 399 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b11.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+We are now over 45 days into round "b". 
+As soon as any table gets to five or fewer 
+players all tables will finish the current 
+hand and a full redraw to round "c" will be done.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 33
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

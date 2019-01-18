@@ -1,0 +1,120 @@
+Subject: [b40.10287] Holdem Game Broadcast Message(*)
+
+! Table b40, Hand 21, Day 17
+
+! Per Landberger checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Rick Brown               |   46250 |       0 |folded|    |         |
+ 2|   Dave Williams            |   46900 |       0 |folded|    |         |
+ 3|D  calliope                 |   56325 |       0 |folded|    |         |
+ 4|>  StingRay                 |   64975 |    4000 |      |    |         |
+ 5|   Per Landberger           |   38725 |    4000 |      |    |         |
+ 6|   Gunter Flagendorf        |   30775 |       0 |folded|    |         |
+ 7|   Shari silk               |   92750 |       0 |folded|    |         |
+ 8|   rAmAk                    |   42600 |       0 |folded|    |         |
+ 9|   jimboslice               |   52475 |    1000 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/27/18 17:37:17! Dealing a new hand
+! 11/27/18 17:37:17! No ante
+! 11/27/18 17:37:17! StingRay blinds $150
+! 11/27/18 17:37:17! Per Landberger blinds $300
+! 11/28/18 06:58:49! Gunter Flagendorf folds
+! 11/28/18 06:58:49! Shari silk folds
+! 11/28/18 06:58:49! rAmAk folds
+! 11/28/18 06:58:49! jimboslice raises $700 to $1000 total 
+! 11/28/18 07:18:30! Rick Brown folds
+! 11/28/18 07:18:30! Dave Williams folds
+! 11/28/18 07:34:13! calliope folds
+! 11/28/18 07:45:32! StingRay calls 
+! 11/28/18 10:28:46! Per Landberger calls 
+
+! 11/28/18 10:28:46! Pot right ($3000), flopping/dealing/drawing cards
+! 11/28/18 10:28:46! 3 players
+! 11/28/18 10:28:46! Flopped cards: Kh 8h 3d
+! 11/28/18 10:31:10! StingRay checks
+! 11/28/18 10:31:10! Per Landberger bets $1000 
+! 11/28/18 10:37:14! jimboslice folds
+! 11/28/18 10:39:21! StingRay calls 
+
+! 11/28/18 10:39:21! Pot right ($5000), flopping/dealing/drawing cards
+! 11/28/18 10:39:21! 2 players
+! 11/28/18 10:39:21! Flopped card: 6d
+! 11/28/18 10:40:05! StingRay checks
+! 11/28/18 10:40:58! Per Landberger bets $2000 
+! 11/28/18 10:41:55! StingRay calls 
+
+! 11/28/18 10:41:55! Pot right ($9000), flopping/dealing/drawing cards
+! 11/28/18 10:41:55! 2 players
+! 11/28/18 10:41:55! Flopped card: 2s
+! 11/28/18 10:42:20! StingRay checks
+! 11/28/18 10:43:32! Per Landberger checks
+! Hand over, current board is:  Kh 8h 3d 6d 2s
+! StingRay                 has: 8s 9h
+! Per Landberger           has: 7h 8d
+! StingRay wins $9000 (net $5000) with One Pair (8 8 K 9 6)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Rick Brown               |   46250 |         |      |    |         |
+ 2|   Dave Williams            |   46900 |         |      |    |         |
+ 3|   calliope                 |   56325 |         |      |    |         |
+ 4|D> StingRay                 |   73975 |         |      |    |         |
+ 5|   Per Landberger           |   38725 |         |      |    |         |
+ 6|   Gunter Flagendorf        |   30775 |         |      |    |         |
+ 7|   Shari silk               |   92750 |         |      |    |         |
+ 8|   rAmAk                    |   42600 |         |      |    |         |
+ 9|   jimboslice               |   52475 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 552 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b40.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

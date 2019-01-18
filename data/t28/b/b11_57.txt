@@ -1,0 +1,101 @@
+Subject: [b11.10658] Holdem Game Broadcast Message(*)
+
+! Table b11, Hand 57, Day 42
+
+! DotMatrix calls 
+! Pot right ($9475), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped cards: 3c 5s 5h
+! Flopped card: Qc
+! Flopped card: 6c
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   bad                      |   46750 |      25 |folded|    |         |
+ 2|   MNoelH                   |   72350 |      25 |folded|    |         |
+ 3|D  RichNYC                  |   46575 |      25 |folded|    |         |
+ 4|   ddppmm                   |   36975 |     175 |folded|    |         |
+ 5|>  DotMatrix                |   51325 |    4575 |      |    |         |
+ 6|   put_it_good              |   83500 |      25 |folded|    |         |
+ 7|   Bobby the Worm           |   62350 |      25 |folded|    |         |
+ 8|   ADB Jupe                 |       0 |    4575 |all-in|    |         |
+ 9|   Chris Goedde             |   98100 |      25 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/22/18 19:33:59! Dealing a new hand
+! 12/22/18 19:33:59! Everyone antes $25
+! 12/22/18 19:33:59! ddppmm blinds $150
+! 12/22/18 19:33:59! DotMatrix blinds $300
+! 12/22/18 22:22:57! put_it_good folds
+! 12/22/18 22:22:57! Bobby the Worm folds
+! 12/22/18 22:22:57! ADB Jupe raises $4250 to $4550 total and is all in
+! 12/22/18 22:22:57! Chris Goedde folds
+! 12/23/18 05:34:27! bad folds
+! 12/23/18 05:34:27! MNoelH folds
+! 12/23/18 05:34:27! RichNYC folds
+! 12/23/18 07:01:02! ddppmm folds
+! 12/23/18 08:26:23! DotMatrix calls 
+
+! 12/23/18 08:26:23! Pot right ($9475), flopping/dealing/drawing cards
+! 12/23/18 08:26:23! 2 players, 1 all in
+! 12/23/18 08:26:23! Flopped cards: 3c 5s 5h
+! 12/23/18 08:26:23! Flopped card: Qc
+! 12/23/18 08:26:23! Flopped card: 6c
+! Hand over, current board is:  3c 5s 5h Qc 6c
+! DotMatrix                has: 10s 10d
+! ADB Jupe                 has: Qd Kc
+! ADB Jupe wins $9475 (net $4900) with Two Pair (Q Q 5 5 K)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   bad                      |   46750 |         |      |    |         |
+ 2|   MNoelH                   |   72350 |         |      |    |         |
+ 3|   RichNYC                  |   46575 |         |      |    |         |
+ 4|D  ddppmm                   |   36975 |         |      |    |         |
+ 5|>  DotMatrix                |   51325 |         |      |    |         |
+ 6|   put_it_good              |   83500 |         |      |    |         |
+ 7|   Bobby the Worm           |   62350 |         |      |    |         |
+ 8|   ADB Jupe                 |    9475 |         |      |    |         |
+ 9|   Chris Goedde             |   98100 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 441 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b11.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

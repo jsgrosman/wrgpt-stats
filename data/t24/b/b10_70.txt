@@ -1,0 +1,132 @@
+
+! Table b10, Hand 70, Day 57
+
+! Nate Meyvis bets $34675 and is all in
+_____________________________________________________________________________
+
+% NH Nate
+! -- Kasey --
+_____________________________________________________________________________
+
+! Kasey folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 2|   Nate Meyvis              |      0 |  43875 |all-in|    |        |
+ 3|   Kicksave                 |  86550 |    100 |folded|    |        |
+ 4|   The Sound of Inevitabi   |  39625 |    100 |folded|    |        |
+ 5|   Swamper Brian            |  38000 |    100 |folded|    |        |
+ 6|   WayneFenster             |  48775 |    100 |folded|    |        |
+ 7|D> Kasey                    |  13075 |   9200 |folded|    |        |
+ 8|   jasong            |  16850 |    500 |folded|    |        |
+ 9|   Diputsur                 |  82375 |    900 |folded|    |        |
+10|   Amar Patel               |  23225 |    100 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 01/05/15 13:19:51! Dealing a new hand
+! 01/05/15 13:19:51! Everyone antes $100
+! 01/05/15 13:19:51! jasong blinds $400
+! 01/05/15 13:19:51! Diputsur blinds $800
+! 01/05/15 13:32:53! Amar Patel folds
+! 01/05/15 13:36:40! Nate Meyvis raises $1100 
+! 01/05/15 13:36:40! Kicksave folds
+! 01/05/15 13:36:40! The Sound of Inevitabi is on vacation and folds
+! 01/05/15 13:36:40! Swamper Brian folds
+! 01/05/15 13:40:46! WayneFenster folds
+! 01/05/15 14:36:16! The Sound of Inevitabi is back from vacation
+! 01/05/15 15:44:00! Kasey calls 
+! 01/05/15 15:44:00! jasong folds
+! 01/05/15 16:39:28! Diputsur folds
+
+! 01/05/15 16:39:28! Pot right ($5900), flopping/dealing/drawing cards
+! 01/05/15 16:39:28! 2 players
+! 01/05/15 16:39:28! Flopped cards: 7h Kd 10h
+! 01/05/15 16:40:23! Nate Meyvis bets $2900 
+! 01/05/15 17:17:14! Kasey calls 
+
+! 01/05/15 17:17:14! Pot right ($11700), flopping/dealing/drawing cards
+! 01/05/15 17:17:14! 2 players
+! 01/05/15 17:17:14! Flopped card: 5c
+! 01/05/15 17:39:35! Nate Meyvis bets $4300 
+! 01/05/15 17:52:11! Kasey calls 
+
+! 01/05/15 17:52:11! Pot right ($20300), flopping/dealing/drawing cards
+! 01/05/15 17:52:11! 2 players
+! 01/05/15 17:52:11! Flopped card: 6c
+! 01/05/15 17:53:55! Nate Meyvis bets $34675 and is all in
+_____________________________________________________________________________
+
+! NH Nate
+! -- Kasey --
+_____________________________________________________________________________
+
+! 01/05/15 17:53:55! Kasey folds
+! Hand over, no showdown
+! Current board is:  7h Kd 10h 5c 6c
+! Nate Meyvis wins $54975 (net $11100)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 2|   Nate Meyvis              |  54975 |        |      |    |        |
+ 3|   Kicksave                 |  86550 |        |      |    |        |
+ 4|   The Sound of Inevitabi   |  39625 |        |      |    |        |
+ 5|   Swamper Brian            |  38000 |        |      |    |        |
+ 6|   WayneFenster             |  48775 |        |      |    |        |
+ 7|>  Kasey                    |  13075 |        |      |    |        |
+ 8|D  jasong            |  16850 |        |      |    |        |
+ 9|   Diputsur                 |  82375 |        |      |    |        |
+10|   Amar Patel               |  23225 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 492 players left in the tournament, 2 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b10.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+There will be no more live redraws in round "b".  The tables
+will play until there are five or fewer on one table then all 
+other tables will complete their current hand and a full 
+redraw will be done.
+
+Good luck.
+
+======
+
+Live Redraw Status as of 01/05/15 05:25:01 PM
+
+Total Empty Seats: 56
+Total Playing Seats: 494
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+Here is a link to the railbird mailing list:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman24@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

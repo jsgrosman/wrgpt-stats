@@ -1,0 +1,103 @@
+Subject: [b5.10393] Holdem Game Broadcast Message(*)
+
+! Table b5, Hand 34, Day 32
+
+! Chris Danek folds
+! siona folds
+! Pot right ($24725), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped cards: 4d 9c Ac
+! Flopped card: 5h
+! Flopped card: Kd
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Steb                     |   53525 |      25 |folded|    |         |
+ 2|   threeputzzz              |       0 |    6050 |all-in|  2 |   12725 |
+ 3|   Dalamo                   |   49275 |      25 |folded|    |         |
+ 4|>  CPROG                    |   80525 |   18050 |      |  1 |   12000 |
+ 5|   Xaralambous              |   60400 |      25 |folded|    |         |
+ 6|   James Bond               |   52375 |      25 |folded|    |         |
+ 7|D  DocOber                  |   41650 |      25 |folded|    |         |
+ 8|   Chris Danek              |   82625 |     175 |folded|    |         |
+ 9|   siona                    |   50175 |     325 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/13/18 12:25:53! Dealing a new hand
+! 12/13/18 12:25:53! Everyone antes $25
+! 12/13/18 12:25:53! Chris Danek blinds $150
+! 12/13/18 12:25:53! siona blinds $300
+! 12/13/18 12:36:05! Steb folds
+! 12/13/18 12:36:05! threeputzzz raises $5725 to $6025 total and is all in
+! 12/13/18 12:52:16! Dalamo folds
+! 12/13/18 12:53:28! CPROG raises $12000 to $18025 total 
+! 12/13/18 13:01:37! Xaralambous folds
+! 12/13/18 13:01:37! James Bond folds
+! 12/13/18 13:01:37! DocOber folds
+! 12/13/18 13:20:42! Chris Danek folds
+! 12/13/18 13:20:42! siona folds
+
+! 12/13/18 13:20:42! Pot right ($24725), flopping/dealing/drawing cards
+! 12/13/18 13:20:42! 2 players, 1 all in
+! 12/13/18 13:20:42! Flopped cards: 4d 9c Ac
+! 12/13/18 13:20:42! Flopped card: 5h
+! 12/13/18 13:20:42! Flopped card: Kd
+! Hand over, current board is:  4d 9c Ac 5h Kd
+! threeputzzz              has: As Ah
+! CPROG                    has: Qs Qh
+! Pot 1: uncalled $12000 returned to CPROG
+! Pot 2: threeputzzz wins $12725 with Three of a Kind (A A A K 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Steb                     |   53525 |         |      |    |         |
+ 2|   threeputzzz              |   12725 |         |      |    |         |
+ 3|   Dalamo                   |   49275 |         |      |    |         |
+ 4|>  CPROG                    |   92525 |         |      |    |         |
+ 5|   Xaralambous              |   60400 |         |      |    |         |
+ 6|   James Bond               |   52375 |         |      |    |         |
+ 7|   DocOber                  |   41650 |         |      |    |         |
+ 8|D  Chris Danek              |   82625 |         |      |    |         |
+ 9|   siona                    |   50175 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 480 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b5.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 5
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,116 @@
+Subject: [b1.10844] Holdem Game Broadcast Message(*)
+
+! Table b1, Hand 83, Day 45
+
+! BaconPancakes bets $2700 
+! Nick Name folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Nick Name                |   50300 |    2800 |folded|    |         |
+ 2|   EricL                    |   92425 |      50 |folded|    |         |
+ 3|   Thomas Gabrysch          |   39700 |      50 |folded|    |         |
+ 4|   breyercalvert            |  108225 |      50 |folded|    |         |
+ 5|D> BaconPancakes            |   60525 |    5500 |      |    |         |
+ 6|   mulligan                 |  118175 |    1000 |folded|    |         |
+ 7|   stannius                 |   57725 |     450 |folded|    |         |
+ 8|   Kevin Mackey             |   52900 |      50 |folded|    |         |
+ 9|   Endrju                   |   49400 |      50 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/24/18 13:17:57! Dealing a new hand
+! 12/24/18 13:17:57! Everyone antes $50
+! 12/24/18 13:17:57! mulligan blinds $200
+! 12/24/18 13:17:57! stannius blinds $400
+! 12/24/18 13:26:28! Kevin Mackey folds
+! 12/24/18 13:26:28! Endrju folds
+! 12/24/18 14:05:14! Nick Name calls 
+! 12/24/18 14:28:38! EricL folds
+! 12/24/18 15:17:40! Thomas Gabrysch folds
+! 12/24/18 19:19:02! breyercalvert folds
+! 12/25/18 08:37:19! BaconPancakes calls 
+! 12/25/18 08:37:19! mulligan raises $550 to $950 total 
+! 12/25/18 08:37:19! stannius folds
+! 12/25/18 10:59:32! Nick Name calls 
+! 12/25/18 13:54:58! BaconPancakes calls 
+
+! 12/25/18 13:54:58! Pot right ($3700), flopping/dealing/drawing cards
+! 12/25/18 13:54:58! 3 players
+! 12/25/18 13:54:58! Flopped cards: Ac 8d Kh
+! 12/25/18 14:03:22! mulligan checks
+! 12/25/18 20:41:45! Nick Name checks
+! 12/26/18 06:42:37! BaconPancakes checks
+
+! 12/26/18 06:42:37! Pot right ($3700), flopping/dealing/drawing cards
+! 12/26/18 06:42:37! 3 players
+! 12/26/18 06:42:37! Flopped card: 8c
+! 12/26/18 06:51:46! mulligan checks
+! 12/26/18 09:46:12! Nick Name bets $1800 
+! 12/26/18 10:41:21! BaconPancakes calls 
+! 12/26/18 10:44:42! mulligan folds
+
+! 12/26/18 10:44:42! Pot right ($7300), flopping/dealing/drawing cards
+! 12/26/18 10:44:42! 2 players
+! 12/26/18 10:44:42! Flopped card: Jh
+! 12/26/18 14:46:02! Nick Name checks
+! 12/26/18 16:12:13! BaconPancakes bets $2700 
+! 12/26/18 16:12:13! Nick Name folds
+! Hand over, no showdown
+! Current board is:  Ac 8d Kh 8c Jh
+! BaconPancakes wins $10000 (net $4500)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Nick Name                |   50300 |         |      |    |         |
+ 2|   EricL                    |   92425 |         |      |    |         |
+ 3|   Thomas Gabrysch          |   39700 |         |      |    |         |
+ 4|   breyercalvert            |  108225 |         |      |    |         |
+ 5|>  BaconPancakes            |   70525 |         |      |    |         |
+ 6|D  mulligan                 |  118175 |         |      |    |         |
+ 7|   stannius                 |   57725 |         |      |    |         |
+ 8|   Kevin Mackey             |   52900 |         |      |    |         |
+ 9|   Endrju                   |   49400 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Nick Name timed out during this hand
+! breyercalvert timed out during this hand
+! 433 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b1.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,106 @@
+Message-Id: <201001261830.o0QIUvKW022369@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [c18.10156] Holdem Game Broadcast Message(*)                          
+
+! Table c18, Hand 62, Day 72
+
+! UKPOKER calls and is all in
+! Pot right ($46100), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: Kh
+! Flopped card: Qs
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Levi                     |  17100 |    100 |folded|    |        |
+ 2|>  Widowmaker               |  56350 |  21650 |      |    |        |
+ 3|   UKPOKER                  |      0 |  21650 |all-in|    |        |
+ 4|D  Vike                     |  21950 |    100 |folded|    |        |
+ 5|   JB                       |  57750 |    500 |folded|    |        |
+ 6|   jasong            |  21100 |    900 |folded|    |        |
+ 7|   MichaelJ                 |  26125 |    100 |folded|    |        |
+ 8|   Senor Sheep              |  52050 |    100 |folded|    |        |
+ 9|   Brian K                  |  50750 |    900 |folded|    |        |
+10|   jcommand                 |  51925 |    100 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 01/25/10 10:54:03! Dealing a new hand
+! 01/25/10 10:54:03! Everyone antes $100
+! 01/25/10 10:54:03! JB blinds $400
+! 01/25/10 10:54:03! jasong blinds $800
+! 01/25/10 10:56:21! MichaelJ folds
+! 01/25/10 10:58:50! Senor Sheep folds
+! 01/25/10 19:03:49! Brian K calls 
+! 01/25/10 19:03:49! jcommand folds
+! 01/25/10 22:41:06! Levi folds
+! 01/26/10 04:20:04! Widowmaker calls 
+! 01/26/10 04:20:04! UKPOKER raises $4200 
+! 01/26/10 04:20:04! Vike folds
+! 01/26/10 04:20:04! JB folds
+! 01/26/10 04:20:04! jasong folds
+! 01/26/10 08:06:35! Brian K folds
+! 01/26/10 10:27:27! Widowmaker calls 
+
+! 01/26/10 10:27:27! Pot right ($13000), flopping/dealing/drawing cards
+! 01/26/10 10:27:27! 2 players
+! 01/26/10 10:27:27! Flopped cards: 4c 10d 5d
+! 01/26/10 10:28:23! Widowmaker bets $16550 
+! 01/26/10 10:30:56! UKPOKER calls and is all in
+
+! 01/26/10 10:30:56! Pot right ($46100), flopping/dealing/drawing cards
+! 01/26/10 10:30:56! 2 players, 1 all in
+! 01/26/10 10:30:56! Flopped card: Kh
+! 01/26/10 10:30:56! Flopped card: Qs
+! Hand over, current board is:  4c 10d 5d Kh Qs
+! Widowmaker               has: Qc 9c
+! UKPOKER                  has: Ah 2c
+! Widowmaker wins $46100 (net $24450) with One Pair (Q Q K 10 9)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Levi                     |  17100 |        |      |    |        |
+ 2|>  Widowmaker               | 102450 |        |      |    |        |
+ 4|   Vike                     |  21950 |        |      |    |        |
+ 5|D  JB                       |  57750 |        |      |    |        |
+ 6|   jasong            |  21100 |        |      |    |        |
+ 7|   MichaelJ                 |  26125 |        |      |    |        |
+ 8|   Senor Sheep              |  52050 |        |      |    |        |
+ 9|   Brian K                  |  50750 |        |      |    |        |
+10|   jcommand                 |  51925 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! UKPOKER is eliminated!
+! 712 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c18.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Try to send your action in before it is your turn so keep
+play moving quickly.
+
+
+Live Redraw Status as of 01/26/10 10:25:02 AM
+
+Total Empty Seats: 27
+Total Playing Seats: 713
+Live redraw in progress:
+Seats Needed: 10
+Seats Waiting: 0
+Moving Players Waiting: 0
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org or follow "wrgpt" on Twitter.
+

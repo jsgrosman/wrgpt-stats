@@ -1,0 +1,116 @@
+Subject: [b21.10960] Holdem Game Broadcast Message(*)
+
+! Table b21, Hand 80, Day 28
+
+! RunGoodRob folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  Isaac Newton             |   50100 |    1800 |      |    |         |
+ 2|   Eric Brassell            |   53100 |       0 |folded|    |         |
+ 4|   Ken Anderson             |   82300 |     300 |folded|    |         |
+ 5|   Chris Sims               |   67900 |       0 |folded|    |         |
+ 6|   fich                     |   48800 |       0 |folded|    |         |
+ 7|   Deborah Abel             |   50400 |       0 |folded|    |         |
+ 8|DV 8.HEATER-T2              |   47525 |       0 | NoSho|    |         |
+ 9|   RunGoodRob               |   46975 |     800 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/09/18 07:54:23! Dealing a new hand
+! 12/09/18 07:54:23! No ante
+! 12/09/18 07:54:23! RunGoodRob blinds $150
+! 12/09/18 07:54:23! Isaac Newton blinds $300
+! 12/09/18 08:02:52! Eric Brassell folds
+! 12/09/18 10:10:04! Ken Anderson calls 
+! 12/09/18 10:10:04! Chris Sims folds
+! 12/09/18 10:10:04! fich folds
+! 12/09/18 10:10:04! Deborah Abel folds
+! 12/09/18 10:10:04! 8.HEATER-T2 is on vacation and folds
+! 12/09/18 10:27:54! RunGoodRob calls 
+! 12/09/18 10:27:54! Isaac Newton checks
+
+! 12/09/18 10:27:54! Pot right ($900), flopping/dealing/drawing cards
+! 12/09/18 10:27:54! 3 players
+! 12/09/18 10:27:54! Flopped cards: 2c Ac 4h
+! 12/09/18 10:51:40! RunGoodRob checks
+! 12/09/18 10:51:40! Isaac Newton checks
+! 12/09/18 11:25:46! Ken Anderson checks
+
+! 12/09/18 11:25:46! Pot right ($900), flopping/dealing/drawing cards
+! 12/09/18 11:25:46! 3 players
+! 12/09/18 11:25:46! Flopped card: 10h
+! 12/09/18 12:14:47! RunGoodRob bets $500 
+! 12/09/18 12:14:47! Isaac Newton calls 
+! 12/09/18 12:14:47! Ken Anderson folds
+
+! 12/09/18 12:14:47! Pot right ($1900), flopping/dealing/drawing cards
+! 12/09/18 12:14:47! 2 players
+! 12/09/18 12:14:47! Flopped card: Qc
+! 12/09/18 12:22:51! RunGoodRob checks
+! 12/09/18 12:27:25! Isaac Newton bets $1000 
+! 12/09/18 13:04:24! RunGoodRob folds
+! Hand over, no showdown
+! Current board is:  2c Ac 4h 10h Qc
+! Isaac Newton wins $2900 (net $1100)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  Isaac Newton             |   53000 |         |      |    |         |
+ 2|   Eric Brassell            |   53100 |         |      |    |         |
+ 4|   Ken Anderson             |   82300 |         |      |    |         |
+ 5|   Chris Sims               |   67900 |         |      |    |         |
+ 6|   fich                     |   48800 |         |      |    |         |
+ 7|   Deborah Abel             |   50400 |         |      |    |         |
+ 8|V  8.HEATER-T2              |   47525 |         | NoSho|    |         |
+ 9|D  RunGoodRob               |   46975 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 509 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b21.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 3
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

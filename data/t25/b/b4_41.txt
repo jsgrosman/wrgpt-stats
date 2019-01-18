@@ -1,0 +1,126 @@
+
+! Table b4, Hand 41, Day 35
+
+! Sir Barlow checks
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Deborah Abel             |  22900 |    400 |folded|    |        |
+ 2|   Nick Varacalli           |  29250 |      0 |folded|    |        |
+ 3|V  benmax                   |  28600 |      0 |<AWOL>|    |        |
+ 4|   Sir Barlow               |  43150 |   7800 |      |    |        |
+ 5|D  Dalai Pookah             |  39475 |      0 |folded|    |        |
+ 6|>  jasong            |  56450 |   7800 |      |    |        |
+ 7|   Rambo                    |  13400 |    400 |folded|    |        |
+ 8|   kimbo                    |  49825 |      0 |folded|    |        |
+ 9|   Ryan Thomas              |  43150 |    400 |folded|    |        |
+10|   silvexis                 |  70925 |    400 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 11/28/15 14:35:12! Dealing a new hand
+! 11/28/15 14:35:12! No ante
+! 11/28/15 14:35:12! jasong blinds $200
+! 11/28/15 14:35:12! Rambo blinds $400
+! 11/28/15 15:50:59! kimbo folds
+! 11/28/15 16:06:15! Ryan Thomas calls 
+! 11/28/15 16:06:15! silvexis calls 
+! 11/28/15 16:43:31! Deborah Abel calls 
+! 11/28/15 18:07:21! Nick Varacalli folds
+! 11/28/15 18:07:21! benmax is on vacation and folds
+! 11/28/15 18:53:06! Sir Barlow calls 
+! 11/28/15 18:53:06! Dalai Pookah is on vacation and folds
+! 11/28/15 19:13:57! jasong raises $2400 
+! 11/28/15 19:15:26! Rambo folds
+! 11/28/15 19:24:05! Ryan Thomas folds
+! 11/28/15 19:53:55! silvexis folds
+! 11/28/15 20:49:15! Dalai Pookah is back from vacation
+! 11/29/15 03:13:53! Deborah Abel folds
+! 11/29/15 04:56:22! Sir Barlow calls 
+
+! 11/29/15 04:56:22! Pot right ($7200), flopping/dealing/drawing cards
+! 11/29/15 04:56:22! 2 players
+! 11/29/15 04:56:22! Flopped cards: 4c 8s 6s
+! 11/29/15 05:02:26! jasong checks
+! 11/29/15 05:08:07! Sir Barlow checks
+
+! 11/29/15 05:08:07! Pot right ($7200), flopping/dealing/drawing cards
+! 11/29/15 05:08:07! 2 players
+! 11/29/15 05:08:07! Flopped card: 5c
+! 11/29/15 06:22:02! jasong checks
+! 11/29/15 06:27:42! Sir Barlow bets $5000 
+! 11/29/15 07:06:40! jasong calls 
+
+! 11/29/15 07:06:40! Pot right ($17200), flopping/dealing/drawing cards
+! 11/29/15 07:06:40! 2 players
+! 11/29/15 07:06:40! Flopped card: 4h
+! 11/29/15 07:07:04! jasong checks
+! 11/29/15 07:11:47! Sir Barlow checks
+! Hand over, current board is:  4c 8s 6s 5c 4h
+! Sir Barlow               has: 3d 2d
+! jasong            has: Ad Kd
+! Sir Barlow wins $17200 (net $9400) with Straight (6 5 4 3 2)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Deborah Abel             |  22900 |        |      |    |        |
+ 2|   Nick Varacalli           |  29250 |        |      |    |        |
+ 3|V  benmax                   |  28600 |        |<AWOL>|    |        |
+ 4|   Sir Barlow               |  60350 |        |      |    |        |
+ 5|   Dalai Pookah             |  39475 |        |      |    |        |
+ 6|D> jasong            |  56450 |        |      |    |        |
+ 7|   Rambo                    |  13400 |        |      |    |        |
+ 8|   kimbo                    |  49825 |        |      |    |        |
+ 9|   Ryan Thomas              |  43150 |        |      |    |        |
+10|   silvexis                 |  70925 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 608 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b4.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Any players who have not started in WRGPT after day 30 will
+have their stacks removed from the tourney.
+
+======
+
+Live Redraw Status as of 11/29/15 06:55:02 AM
+
+Total Empty Seats: 22
+Total Playing Seats: 608
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman25@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

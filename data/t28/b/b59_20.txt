@@ -1,0 +1,120 @@
+Subject: [b59.10293] Holdem Game Broadcast Message(*)
+
+! Table b59, Hand 20, Day 17
+
+! Uncle Check calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Billco                   |   64125 |       0 |folded|    |         |
+ 2|D  Daniel Levine            |   45950 |       0 |folded|    |         |
+ 3|   Clark Olson              |   47075 |     150 |folded|    |         |
+ 4|   Uncle Check              |   47425 |    3200 |      |    |         |
+ 5|>  Bob                      |   40025 |    3200 |      |    |         |
+ 6|   lawrence s               |   53100 |     300 |folded|    |         |
+ 7|   null                     |   45700 |       0 |folded|    |         |
+ 8|   Bobby the Worm           |   52525 |       0 |folded|    |         |
+ 9|   bluecandy                |   47150 |     300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/28/18 10:43:44! Dealing a new hand
+! 11/28/18 10:43:44! No ante
+! 11/28/18 10:43:44! Clark Olson blinds $150
+! 11/28/18 10:43:44! Uncle Check blinds $300
+! 11/28/18 10:57:59! Bob calls 
+! 11/28/18 10:57:59! lawrence s calls 
+! 11/28/18 11:04:25! null folds
+! 11/28/18 11:43:06! Bobby the Worm folds
+! 11/28/18 11:57:19! bluecandy calls 
+! 11/28/18 14:08:45! Billco folds
+! 11/28/18 14:27:28! Daniel Levine folds
+! 11/28/18 14:27:28! Clark Olson folds
+! 11/28/18 14:30:20! Uncle Check checks
+
+! 11/28/18 14:30:20! Pot right ($1350), flopping/dealing/drawing cards
+! 11/28/18 14:30:20! 4 players
+! 11/28/18 14:30:20! Flopped cards: 8c Kh 8h
+! 11/28/18 14:36:40! Uncle Check bets $300 
+! 11/28/18 14:36:40! Bob calls 
+! 11/28/18 14:46:23! lawrence s folds
+! 11/28/18 16:57:50! bluecandy folds
+
+! 11/28/18 16:57:50! Pot right ($1950), flopping/dealing/drawing cards
+! 11/28/18 16:57:50! 2 players
+! 11/28/18 16:57:50! Flopped card: Qh
+! 11/28/18 16:59:47! Uncle Check bets $1000 
+! 11/28/18 17:13:14! Bob calls 
+
+! 11/28/18 17:13:14! Pot right ($3950), flopping/dealing/drawing cards
+! 11/28/18 17:13:14! 2 players
+! 11/28/18 17:13:14! Flopped card: 4s
+! 11/28/18 17:17:58! Uncle Check checks
+! 11/28/18 17:38:49! Bob bets $1600 
+! 11/28/18 17:39:36! Uncle Check calls 
+! Hand over, current board is:  8c Kh 8h Qh 4s
+! Uncle Check              has: Kd 7d
+! Bob                      has: Qs Qd
+! Bob wins $7150 (net $3950) with Full House (Q Q Q 8 8)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Billco                   |   64125 |         |      |    |         |
+ 2|   Daniel Levine            |   45950 |         |      |    |         |
+ 3|D  Clark Olson              |   47075 |         |      |    |         |
+ 4|   Uncle Check              |   47425 |         |      |    |         |
+ 5|>  Bob                      |   47175 |         |      |    |         |
+ 6|   lawrence s               |   53100 |         |      |    |         |
+ 7|   null                     |   45700 |         |      |    |         |
+ 8|   Bobby the Worm           |   52525 |         |      |    |         |
+ 9|   bluecandy                |   47150 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 551 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b59.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 7
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

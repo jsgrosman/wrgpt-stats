@@ -1,0 +1,122 @@
+
+! Table c5, Hand 142, Day 84
+
+! swamperflaco calls 
+! Pot right ($67400), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 10h
+! Flopped card: 2c
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|   jasong            |  118900 |    1400 |folded|    |         |
+ 3|   Plain Ed                 |       0 |   29400 |all-in|    |         |
+ 4|   MrTiggerGolf             |  117550 |     200 |folded|    |         |
+ 5|   Pete Nerozzi             |   66775 |     200 |folded|    |         |
+ 6|   ArikK                    |  128275 |    5200 |folded|    |         |
+ 7|D  Richard Nixon            |   79475 |     200 |folded|    |         |
+ 8|>  swamperflaco             |   85100 |   29400 |      |    |         |
+ 9|   Deuce Seven Off Suit     |   41175 |    1400 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/13/18 06:50:58! Dealing a new hand
+! 01/13/18 06:50:58! Everyone antes $200
+! 01/13/18 06:50:58! swamperflaco blinds $600
+! 01/13/18 06:50:58! Deuce Seven Off Suit blinds $1200
+! 01/13/18 08:48:35! jasong calls 
+! 01/13/18 08:48:35! Plain Ed raises $3800 to $5000 total 
+! 01/13/18 08:48:35! MrTiggerGolf folds
+! 01/13/18 09:07:47! Pete Nerozzi folds
+! 01/13/18 14:08:24! ArikK calls 
+! 01/13/18 14:08:24! Richard Nixon folds
+! 01/13/18 18:27:07! swamperflaco calls 
+! 01/13/18 18:27:07! Deuce Seven Off Suit folds
+! 01/13/18 18:27:07! jasong folds
+
+! 01/13/18 18:27:07! Pot right ($19000), flopping/dealing/drawing cards
+! 01/13/18 18:27:07! 3 players
+! 01/13/18 18:27:07! Flopped cards: 10d Kc 5d
+! 01/14/18 00:45:28! swamperflaco bets $15000 
+! 01/14/18 06:53:50! Plain Ed raises $9200 to $24200 total and is all in
+! 01/14/18 07:06:46! ArikK folds
+! 01/14/18 08:54:10! swamperflaco calls 
+
+! 01/14/18 08:54:10! Pot right ($67400), flopping/dealing/drawing cards
+! 01/14/18 08:54:10! 2 players, 1 all in
+! 01/14/18 08:54:10! Flopped card: 10h
+! 01/14/18 08:54:10! Flopped card: 2c
+! Hand over, current board is:  10d Kc 5d 10h 2c
+! Plain Ed                 has: Qh Qc
+! swamperflaco             has: Kh Jc
+! swamperflaco wins $67400 (net $38000) with Two Pair (K K 10 10 J)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|   jasong            |  118900 |         |      |    |         |
+ 4|   MrTiggerGolf             |  117550 |         |      |    |         |
+ 5|   Pete Nerozzi             |   66775 |         |      |    |         |
+ 6|   ArikK                    |  128275 |         |      |    |         |
+ 7|   Richard Nixon            |   79475 |         |      |    |         |
+ 8|D> swamperflaco             |  152500 |         |      |    |         |
+ 9|   Deuce Seven Off Suit     |   41175 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Plain Ed is eliminated!
+! 294 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c5.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+The "c" round is going to continue.
+There was a bug in the live redraw that conflicted
+with the full redraw logic.  It broke the
+short handed table and started tables back up.
+So, "c" will continue.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Live Redraw Status as of 01/14/18 08:25:01 AM
+
+Total Empty Seats: 15
+Total Playing Seats: 295
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman27@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

@@ -1,0 +1,97 @@
+Message-Id: <201011181738.oAIHcseX001521@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [b20.10302] Holdem Game Broadcast Message(*)                          
+
+! Table b20, Hand 26, Day 18
+
+! Greg Folla folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Blacktav                 |  31850 |      0 |folded|    |        |
+ 2|   jasong            |  34925 |      0 |folded|    |        |
+ 3|   Andrew Nelson            |  35950 |      0 |folded|    |        |
+ 4|D  plankton                 |  78400 |      0 |folded|    |        |
+ 5|   GZK                      |  30500 |    200 |folded|    |        |
+ 6|V  Late Entry 2             |  29350 |    200 | NoSho|    |        |
+ 7|   Greg Folla               |  60100 |    200 |folded|    |        |
+ 8|   JackBlack                |  26025 |      0 |folded|    |        |
+ 9|>  wlu_lax6                 |  34000 |    950 |      |    |        |
+10|   Cyberchomp               |  28600 |    200 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 11/17/10 07:57:05! Dealing a new hand
+! 11/17/10 07:57:05! No ante
+! 11/17/10 07:57:05! GZK blinds $100
+! 11/17/10 07:57:05! Late Entry 2 blinds $200
+! 11/17/10 08:24:04! Greg Folla calls 
+! 11/17/10 08:24:04! JackBlack folds
+! 11/17/10 08:55:18! wlu_lax6 calls 
+! 11/17/10 10:17:35! Cyberchomp calls 
+! 11/17/10 10:19:09! Blacktav folds
+! 11/17/10 10:19:09! jasong folds
+! 11/17/10 10:19:09! Andrew Nelson folds
+! 11/17/10 10:19:09! plankton folds
+! 11/17/10 10:20:29! GZK calls 
+! 11/17/10 10:20:29! Late Entry 2 is on vacation and checks
+
+! 11/17/10 10:20:29! Pot right ($1000), flopping/dealing/drawing cards
+! 11/17/10 10:20:29! 5 players
+! 11/17/10 10:20:29! Flopped cards: 2s 9d 4h
+! 11/17/10 10:21:43! GZK checks
+! 11/17/10 10:21:43! Late Entry 2 is on vacation and checks
+! 11/18/10 04:33:13! Greg Folla checks
+! 11/18/10 04:47:30! wlu_lax6 bets $750 
+! 11/18/10 09:34:23! Cyberchomp folds
+! 11/18/10 09:37:10! GZK folds
+! 11/18/10 09:37:10! Late Entry 2 is on vacation and folds
+! 11/18/10 09:38:53! Greg Folla folds
+! Hand over, no showdown
+! Current board is:  2s 9d 4h ? ?
+! wlu_lax6 wins $1750 (net $800)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Blacktav                 |  31850 |        |      |    |        |
+ 2|   jasong            |  34925 |        |      |    |        |
+ 3|   Andrew Nelson            |  35950 |        |      |    |        |
+ 4|   plankton                 |  78400 |        |      |    |        |
+ 5|D  GZK                      |  30500 |        |      |    |        |
+ 6|V  Late Entry 2             |  29350 |        | NoSho|    |        |
+ 7|   Greg Folla               |  60100 |        |      |    |        |
+ 8|   JackBlack                |  26025 |        |      |    |        |
+ 9|>  wlu_lax6                 |  35750 |        |      |    |        |
+10|   Cyberchomp               |  28600 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 847 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b20.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Good luck.
+
+If you have problems send mail to floorman20@wrgpt.org.
+
+Live Redraw Status as of 11/18/10 09:25:01 AM
+
+Total Empty Seats: 23
+Total Playing Seats: 847
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org or follow "wrgpt" on Twitter.
+

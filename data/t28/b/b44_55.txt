@@ -1,0 +1,113 @@
+Subject: [b44.10890] Holdem Game Broadcast Message(*)
+
+! Table b44, Hand 55, Day 51
+
+! BillB calls 
+! Pot right ($36200), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: Qd
+! Flopped card: Kh
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  MarcJallday              |   51450 |      50 |folded|    |         |
+ 2|   ADB Jaeger               |   41550 |     250 |folded|    |         |
+ 3|   sgranen                  |   95200 |     450 |folded|    |         |
+ 4|   Mike D.                  |    5350 |      50 |folded|    |         |
+ 5|>  BillB                    |   58450 |   17625 |      |    |         |
+ 6|   SmBoatDrinks             |       0 |   17625 |all-in|    |         |
+ 7|   Monika                   |   58475 |      50 |folded|    |         |
+ 8|   Mark-Ed Cards            |   38150 |      50 |folded|    |         |
+ 9|   Pete Holmes              |   90775 |      50 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/01/19 11:41:12! Dealing a new hand
+! 01/01/19 11:41:12! Everyone antes $50
+! 01/01/19 11:41:12! ADB Jaeger blinds $200
+! 01/01/19 11:41:12! sgranen blinds $400
+! 01/01/19 11:56:34! Mike D. folds
+! 01/01/19 12:20:27! BillB calls 
+! 01/01/19 12:21:34! SmBoatDrinks raises $1000 to $1400 total 
+! 01/01/19 12:21:34! Monika folds
+! 01/01/19 12:50:59! Mark-Ed Cards folds
+! 01/01/19 12:50:59! Pete Holmes folds
+! 01/01/19 12:51:49! MarcJallday folds
+! 01/01/19 15:17:50! ADB Jaeger folds
+! 01/01/19 16:54:30! sgranen folds
+! 01/01/19 16:57:08! BillB calls 
+
+! 01/01/19 16:57:08! Pot right ($3850), flopping/dealing/drawing cards
+! 01/01/19 16:57:08! 2 players
+! 01/01/19 16:57:08! Flopped cards: 5d 9d 10c
+! 01/01/19 16:59:42! BillB bets $2400 
+! 01/01/19 17:58:17! SmBoatDrinks raises $13775 to $16175 total and is all in
+! 01/01/19 18:11:24! BillB calls 
+
+! 01/01/19 18:11:24! Pot right ($36200), flopping/dealing/drawing cards
+! 01/01/19 18:11:24! 2 players, 1 all in
+! 01/01/19 18:11:24! Flopped card: Qd
+! 01/01/19 18:11:24! Flopped card: Kh
+! Hand over, current board is:  5d 9d 10c Qd Kh
+! BillB                    has: 10s Jc
+! SmBoatDrinks             has: Jh Kd
+! BillB wins $18100 (net $475) with Straight (K Q J 10 9)
+! SmBoatDrinks wins $18100 (net $475) with Straight (K Q J 10 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   MarcJallday              |   51450 |         |      |    |         |
+ 2|D  ADB Jaeger               |   41550 |         |      |    |         |
+ 3|   sgranen                  |   95200 |         |      |    |         |
+ 4|   Mike D.                  |    5350 |         |      |    |         |
+ 5|>  BillB                    |   76550 |         |      |    |         |
+ 6|   SmBoatDrinks             |   18100 |         |      |    |         |
+ 7|   Monika                   |   58475 |         |      |    |         |
+ 8|   Mark-Ed Cards            |   38150 |         |      |    |         |
+ 9|   Pete Holmes              |   90775 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 407 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b44.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+We are now over 45 days into round "b". 
+As soon as any table gets to five or fewer 
+players all tables will finish the current 
+hand and a full redraw to round "c" will be done.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 25
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,103 @@
+Subject: [b22.10820] Holdem Game Broadcast Message(*)
+
+! Table b22, Hand 83, Day 47
+
+! micwso bets $1200 
+! JZK folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|V  Taki                     |   44850 |      50 |<AWOL>|    |         |
+ 2|D  Spike                    |   63550 |      50 |folded|    |         |
+ 3|   Ace Squared              |   47700 |     250 |folded|    |         |
+ 4|   JZK                      |  107575 |     450 |folded|    |         |
+ 5|   Clark Olson              |   61425 |      50 |folded|    |         |
+ 6|   Derek Noakes             |   48675 |      50 |folded|    |         |
+ 7|   starrman99               |   49275 |      50 |folded|    |         |
+ 8|   bignacho                 |   23175 |      50 |folded|    |         |
+ 9|>  micwso                   |   52950 |    1650 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/28/18 06:32:36! Dealing a new hand
+! 12/28/18 06:32:36! Everyone antes $50
+! 12/28/18 06:32:36! Ace Squared blinds $200
+! 12/28/18 06:32:36! JZK blinds $400
+! 12/28/18 06:48:31! Clark Olson folds
+! 12/28/18 06:48:31! Derek Noakes folds
+! 12/28/18 08:21:25! starrman99 folds
+! 12/28/18 08:21:25! bignacho folds
+! 12/28/18 10:05:16! micwso calls 
+! 12/28/18 10:05:16! Taki is on vacation and folds
+! 12/28/18 10:30:49! Spike folds
+! 12/28/18 10:30:49! Ace Squared folds
+! 12/28/18 10:33:30! JZK checks
+
+! 12/28/18 10:33:30! Pot right ($1450), flopping/dealing/drawing cards
+! 12/28/18 10:33:30! 2 players
+! 12/28/18 10:33:30! Flopped cards: Kd 6h 8h
+! 12/28/18 10:34:42! JZK checks
+! 12/28/18 10:39:33! micwso bets $1200 
+! 12/28/18 10:39:33! JZK folds
+! Hand over, no showdown
+! Current board is:  Kd 6h 8h ? ?
+! micwso wins $2650 (net $1000)
+! JZK                      reveals  10s 5h
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|V  Taki                     |   44850 |         |<AWOL>|    |         |
+ 2|   Spike                    |   63550 |         |      |    |         |
+ 3|D  Ace Squared              |   47700 |         |      |    |         |
+ 4|   JZK                      |  107575 |         |      |    |         |
+ 5|   Clark Olson              |   61425 |         |      |    |         |
+ 6|   Derek Noakes             |   48675 |         |      |    |         |
+ 7|   starrman99               |   49275 |         |      |    |         |
+ 8|   bignacho                 |   23175 |         |      |    |         |
+ 9|>  micwso                   |   55600 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 423 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b22.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+We are now over 45 days into round "b". 
+As soon as any table gets to five or fewer 
+players all tables will finish the current 
+hand and a full redraw to round "c" will be done.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

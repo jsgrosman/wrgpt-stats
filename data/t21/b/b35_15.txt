@@ -1,0 +1,103 @@
+Message-Id: <201112060032.pB60WdTm013883@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [b35.10178] Holdem Game Broadcast Message(*)                          
+
+! Table b35, Hand 15, Day 22
+
+! Chris Learmonth folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|V  Will Farley              |  29700 |      0 | NoSho|    |        |
+ 2|   Willy Eckerslyke         |  32550 |      0 |folded|    |        |
+ 3|   Chris Learmonth          |  27600 |   1800 |folded|    |        |
+ 4|   Robert Odell             |  42800 |      0 |folded|    |        |
+ 5|DV Joe Wood                 |  29550 |      0 | NoSho|    |        |
+ 6|>  StingRay                 |  26300 |   5800 |      |    |        |
+ 7|   Craig N. Boyle           |  28350 |    600 |folded|    |        |
+ 8|   berj kacherian           |  27950 |      0 |folded|    |        |
+ 9|   jasong            |  18200 |      0 |folded|    |        |
+10|   Kina Grannis             |  28800 |      0 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 12/04/11 05:53:40! Dealing a new hand
+! 12/04/11 05:53:40! No ante
+! 12/04/11 05:53:40! StingRay blinds $100
+! 12/04/11 05:53:40! Craig N. Boyle blinds $200
+! 12/04/11 19:57:58! berj kacherian folds
+! 12/04/11 19:57:58! jasong folds
+! 12/04/11 19:57:58! Kina Grannis folds
+! 12/04/11 19:57:58! Will Farley is on vacation and folds
+! 12/04/11 19:57:58! Willy Eckerslyke folds
+! 12/05/11 00:41:57! Chris Learmonth raises $400 
+! 12/05/11 00:41:57! Robert Odell folds
+! 12/05/11 00:41:57! Joe Wood is on vacation and folds
+! 12/05/11 04:15:21! StingRay calls 
+! 12/05/11 07:17:07! Craig N. Boyle calls 
+
+! 12/05/11 07:17:07! Pot right ($1800), flopping/dealing/drawing cards
+! 12/05/11 07:17:07! 3 players
+! 12/05/11 07:17:07! Flopped cards: 7s 5h 4s
+! 12/05/11 11:48:57! StingRay bets $1200 
+! 12/05/11 12:19:05! Craig N. Boyle folds
+! 12/05/11 14:39:28! Chris Learmonth calls 
+
+! 12/05/11 14:39:28! Pot right ($4200), flopping/dealing/drawing cards
+! 12/05/11 14:39:28! 2 players
+! 12/05/11 14:39:28! Flopped card: Qh
+! 12/05/11 16:21:09! StingRay bets $4000 
+! 12/05/11 16:32:38! Chris Learmonth folds
+! Hand over, no showdown
+! Current board is:  7s 5h 4s Qh ?
+! StingRay wins $8200 (net $2400)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|V  Will Farley              |  29700 |        | NoSho|    |        |
+ 2|   Willy Eckerslyke         |  32550 |        |      |    |        |
+ 3|   Chris Learmonth          |  27600 |        |      |    |        |
+ 4|   Robert Odell             |  42800 |        |      |    |        |
+ 5|V  Joe Wood                 |  29550 |        | NoSho|    |        |
+ 6|D> StingRay                 |  34500 |        |      |    |        |
+ 7|   Craig N. Boyle           |  28350 |        |      |    |        |
+ 8|   berj kacherian           |  27950 |        |      |    |        |
+ 9|   jasong            |  18200 |        |      |    |        |
+10|   Kina Grannis             |  28800 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 795 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b35.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+If you are still NoSho you will need to reply BACK to the dealer.
+Any stacks that have not returned after day 30 will be removed from the tourney.
+Any player on vacation for 45 days will be removed from the tourney unless they have
+told the floorman in advance of the 45th day.
+
+Good luck.
+
+Having problems? Send email to floorman21@wrgpt.org.
+
+Live Redraw Status as of 12/05/11 04:25:01 PM
+
+Total Empty Seats: 25
+Total Playing Seats: 795
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+

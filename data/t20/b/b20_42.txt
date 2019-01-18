@@ -1,0 +1,91 @@
+Message-Id: <201012062142.oB6Lg4AS010223@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [b20.10497] Holdem Game Broadcast Message(*)                          
+
+! Table b20, Hand 42, Day 36
+
+! jasong folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|>  Blacktav                 |  54800 |    800 |      |    |        |
+ 2|   jasong            |  53600 |    400 |folded|    |        |
+ 3|   Andrew Nelson            |  25500 |      0 |folded|    |        |
+ 4|   plankton                 |  89775 |      0 |folded|    |        |
+ 6|V  Late Entry 2             |  28650 |      0 | NoSho|    |        |
+ 7|   Greg Folla               |  56900 |      0 |folded|    |        |
+ 8|   JackBlack                |  49650 |      0 |folded|    |        |
+10|D  Cyberchomp               |  31375 |      0 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 12/06/10 10:46:03! Dealing a new hand
+! 12/06/10 10:46:03! No ante
+! 12/06/10 10:46:03! Blacktav blinds $200
+! 12/06/10 10:46:03! jasong blinds $400
+! 12/06/10 12:32:18! Andrew Nelson folds
+! 12/06/10 12:32:18! plankton folds
+! 12/06/10 12:32:18! Late Entry 2 is on vacation and folds
+! 12/06/10 12:32:18! Greg Folla folds
+! 12/06/10 12:32:18! JackBlack folds
+! 12/06/10 13:04:38! Cyberchomp folds
+! 12/06/10 13:12:26! Blacktav calls 
+! 12/06/10 13:12:26! jasong checks
+
+! 12/06/10 13:12:26! Pot right ($800), flopping/dealing/drawing cards
+! 12/06/10 13:12:26! 2 players
+! 12/06/10 13:12:26! Flopped cards: Kh 7s 2h
+! 12/06/10 13:13:20! Blacktav checks
+! 12/06/10 13:17:45! jasong checks
+
+! 12/06/10 13:17:45! Pot right ($800), flopping/dealing/drawing cards
+! 12/06/10 13:17:45! 2 players
+! 12/06/10 13:17:45! Flopped card: 5c
+! 12/06/10 13:36:15! Blacktav bets $400 
+! 12/06/10 13:42:04! jasong folds
+! Hand over, no showdown
+! Current board is:  Kh 7s 2h 5c ?
+! Blacktav wins $1200 (net $400)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|D> Blacktav                 |  56000 |        |      |    |        |
+ 2|   jasong            |  53600 |        |      |    |        |
+ 3|   Andrew Nelson            |  25500 |        |      |    |        |
+ 4|   plankton                 |  89775 |        |      |    |        |
+ 6|V  Late Entry 2             |  28650 |        | NoSho|    |        |
+ 7|   Greg Folla               |  56900 |        |      |    |        |
+ 8|   JackBlack                |  49650 |        |      |    |        |
+10|   Cyberchomp               |  31375 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 759 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b20.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Good luck.
+
+If you have problems send mail to floorman20@wrgpt.org.
+
+Live Redraw Status as of 12/06/10 01:25:01 PM
+
+Total Empty Seats: 21
+Total Playing Seats: 759
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org or follow "wrgpt" on Twitter.
+

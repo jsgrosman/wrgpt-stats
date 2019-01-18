@@ -1,0 +1,115 @@
+Subject: [b12.10383] Holdem Game Broadcast Message(*)
+
+! Table b12, Hand 28, Day 18
+
+! TheTsunami checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   TheTsunami               |   28600 |   33950 |      |    |         |
+ 2|D  Rich Guidoboni           |   76775 |       0 |folded|    |         |
+ 3|   Bart Tichelman           |   39125 |     150 |folded|    |         |
+ 5|   Jascha                   |   35150 |     300 |folded|    |         |
+ 6|   ThinkingPokerAndrew      |   48425 |       0 |folded|    |         |
+ 8|   JohnnyMac                |  122725 |       0 |folded|    |         |
+ 9|>  Clarence Beeks           |   78750 |   33950 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/29/18 09:32:46! Dealing a new hand
+! 11/29/18 09:32:46! No ante
+! 11/29/18 09:32:46! Bart Tichelman blinds $150
+! 11/29/18 09:32:46! Jascha blinds $300
+! 11/29/18 09:34:14! ThinkingPokerAndrew folds
+! 11/29/18 10:42:34! JohnnyMac folds
+! 11/29/18 11:12:57! Clarence Beeks calls 
+! 11/29/18 11:12:57! TheTsunami raises $1050 to $1350 total 
+! 11/29/18 11:12:57! Rich Guidoboni folds
+! 11/29/18 11:12:57! Bart Tichelman folds
+! 11/29/18 11:14:01! Jascha folds
+! 11/29/18 11:52:12! Clarence Beeks calls 
+
+! 11/29/18 11:52:12! Pot right ($3150), flopping/dealing/drawing cards
+! 11/29/18 11:52:12! 2 players
+! 11/29/18 11:52:12! Flopped cards: 10c 8c 7d
+! 11/29/18 12:45:48! Clarence Beeks checks
+! 11/29/18 13:00:38! TheTsunami bets $3150 
+! 11/29/18 13:02:05! Clarence Beeks calls 
+
+! 11/29/18 13:02:05! Pot right ($9450), flopping/dealing/drawing cards
+! 11/29/18 13:02:05! 2 players
+! 11/29/18 13:02:05! Flopped card: Qd
+! 11/29/18 13:27:23! Clarence Beeks checks
+! 11/29/18 13:27:23! TheTsunami bets $9450 
+! 11/29/18 13:30:26! Clarence Beeks raises $20000 to $29450 total 
+! 11/29/18 13:36:23! TheTsunami calls 
+
+! 11/29/18 13:36:23! Pot right ($68350), flopping/dealing/drawing cards
+! 11/29/18 13:36:23! 2 players
+! 11/29/18 13:36:23! Flopped card: Ad
+! 11/29/18 13:39:13! Clarence Beeks checks
+! 11/29/18 13:40:29! TheTsunami checks
+! Hand over, current board is:  10c 8c 7d Qd Ad
+! TheTsunami               has: 10d 4d
+! Clarence Beeks           has: Qs 10s
+! TheTsunami wins $68350 (net $34400) with Diamond Flush (A Q 10 7 4)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   TheTsunami               |   96950 |         |      |    |         |
+ 2|   Rich Guidoboni           |   76775 |         |      |    |         |
+ 3|D  Bart Tichelman           |   39125 |         |      |    |         |
+ 5|   Jascha                   |   35150 |         |      |    |         |
+ 6|   ThinkingPokerAndrew      |   48425 |         |      |    |         |
+ 8|   JohnnyMac                |  122725 |         |      |    |         |
+ 9|>  Clarence Beeks           |   78750 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 547 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b12.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 10
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

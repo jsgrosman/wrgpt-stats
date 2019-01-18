@@ -1,0 +1,107 @@
+Message-Id: <201312152116.rBFLGwUU022266@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [b3.10406] Holdem Game Broadcast Message(*)                          
+
+! Table b3, Hand 28, Day 35
+
+! shaerinck folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Jim Sokoloff             |  28075 |      0 |folded|    |        |
+ 2|V  Gillian Groves           |  53850 |      0 |24 dec|    |        |
+ 4|D  shaerinck                |  41400 |   2400 |folded|    |        |
+ 5|   Cindy                    |  57675 |    200 |folded|    |        |
+ 6|   jsw                      |  83875 |    400 |folded|    |        |
+ 7|   Johnny Ice               |  61500 |      0 |folded|    |        |
+ 8|   Jose Aguas               |  42400 |      0 |folded|    |        |
+ 9|>  Zipper                   |  24250 |   5400 |      |    |        |
+10|   jasong            |  70225 |      0 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 12/13/13 14:47:52! Dealing a new hand
+! 12/13/13 14:47:52! No ante
+! 12/13/13 14:47:52! Cindy blinds $200
+! 12/13/13 14:47:52! jsw blinds $400
+! 12/13/13 14:49:49! Johnny Ice folds
+! 12/13/13 16:40:00! Jose Aguas folds
+! 12/14/13 01:57:42! Zipper calls 
+! 12/14/13 01:57:42! jasong folds
+! 12/14/13 01:57:42! Jim Sokoloff folds
+! 12/14/13 01:57:42! Gillian Groves is on vacation and folds
+! 12/14/13 01:57:42! shaerinck calls 
+! 12/14/13 01:57:42! Cindy folds
+! 12/14/13 09:14:04! jsw checks
+
+! 12/14/13 09:14:04! Pot right ($1400), flopping/dealing/drawing cards
+! 12/14/13 09:14:04! 3 players
+! 12/14/13 09:14:04! Flopped cards: 7h Jd 6c
+! 12/14/13 12:51:04! jsw checks
+! 12/14/13 14:20:21! Zipper checks
+! 12/14/13 15:19:55! shaerinck bets $1000 
+! 12/14/13 16:12:40! jsw folds
+! 12/15/13 01:47:54! Zipper raises $1000 
+! 12/15/13 03:21:19! shaerinck calls 
+
+! 12/15/13 03:21:19! Pot right ($5400), flopping/dealing/drawing cards
+! 12/15/13 03:21:19! 2 players
+! 12/15/13 03:21:19! Flopped card: As
+! 12/15/13 11:27:06! Zipper bets $3000 
+! 12/15/13 13:16:57! shaerinck folds
+! Hand over, no showdown
+! Current board is:  7h Jd 6c As ?
+! Zipper wins $8400 (net $3000)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Jim Sokoloff             |  28075 |        |      |    |        |
+ 2|V  Gillian Groves           |  53850 |        |24 dec|    |        |
+ 4|   shaerinck                |  41400 |        |      |    |        |
+ 5|D  Cindy                    |  57675 |        |      |    |        |
+ 6|   jsw                      |  83875 |        |      |    |        |
+ 7|   Johnny Ice               |  61500 |        |      |    |        |
+ 8|   Jose Aguas               |  42400 |        |      |    |        |
+ 9|>  Zipper                   |  32650 |        |      |    |        |
+10|   jasong            |  70225 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 753 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b3.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+Here is a link to the railbird mailing list:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman23@wrgpt.org.
+
+Live Redraw Status as of 12/15/13 12:55:01 PM
+
+Total Empty Seats: 17
+Total Playing Seats: 753
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

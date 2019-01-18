@@ -1,0 +1,114 @@
+Subject: [b27.11354] Holdem Game Broadcast Message(*)
+
+! Table b27, Hand 123, Day 52
+
+! DKatx512 checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  the cake is a pie        |  142325 |   12825 |      |    |         |
+ 2|V  Scipio                   |   44025 |     450 |<Gone>|    |         |
+ 3|   Swamper bfj              |  122925 |    4825 |folded|    |         |
+ 5|   Fryday                   |   34700 |      50 |folded|    |         |
+ 6|   db222                    |  103000 |      50 |folded|    |         |
+ 7|   Quick                    |   83000 |      50 |folded|    |         |
+ 8|   docdanger                |   71975 |      50 |folded|    |         |
+ 9|D  DKatx512                 |   25925 |   12825 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/02/19 14:56:24! Dealing a new hand
+! 01/02/19 14:56:24! Everyone antes $50
+! 01/02/19 14:56:24! the cake is a pie blinds $200
+! 01/02/19 14:56:24! Scipio blinds $400
+! 01/02/19 15:00:40! Swamper bfj raises $1000 to $1400 total 
+! 01/02/19 15:05:23! Fryday folds
+! 01/02/19 15:57:17! db222 folds
+! 01/02/19 15:57:17! Quick folds
+! 01/02/19 15:57:17! docdanger folds
+! 01/02/19 16:54:32! DKatx512 calls 
+! 01/02/19 17:02:20! the cake is a pie calls 
+! 01/02/19 17:02:20! Scipio is on vacation and folds
+
+! 01/02/19 17:02:20! Pot right ($5000), flopping/dealing/drawing cards
+! 01/02/19 17:02:20! 3 players
+! 01/02/19 17:02:20! Flopped cards: 9d Js 2s
+! 01/02/19 17:03:02! the cake is a pie checks
+! 01/02/19 17:08:25! Swamper bfj checks
+! 01/02/19 17:39:46! DKatx512 bets $3375 
+! 01/02/19 17:56:27! the cake is a pie calls 
+! 01/02/19 17:57:15! Swamper bfj calls 
+
+! 01/02/19 17:57:15! Pot right ($15125), flopping/dealing/drawing cards
+! 01/02/19 17:57:15! 3 players
+! 01/02/19 17:57:15! Flopped card: 2c
+! 01/02/19 18:12:53! the cake is a pie bets $8000 
+! 01/02/19 19:15:24! Swamper bfj folds
+! 01/02/19 20:12:56! DKatx512 calls 
+
+! 01/02/19 20:12:56! Pot right ($31125), flopping/dealing/drawing cards
+! 01/02/19 20:12:56! 2 players
+! 01/02/19 20:12:56! Flopped card: 4d
+! 01/02/19 20:13:55! the cake is a pie checks
+! 01/02/19 21:33:35! DKatx512 checks
+! Hand over, current board is:  9d Js 2s 2c 4d
+! the cake is a pie        has: 10s Jc
+! DKatx512                 has: 9c 6c
+! the cake is a pie wins $31125 (net $18300) with Two Pair (J J 2 2 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D> the cake is a pie        |  173450 |         |      |    |         |
+ 2|V  Scipio                   |   44025 |         |<Gone>|    |         |
+ 3|   Swamper bfj              |  122925 |         |      |    |         |
+ 5|   Fryday                   |   34700 |         |      |    |         |
+ 6|   db222                    |  103000 |         |      |    |         |
+ 7|   Quick                    |   83000 |         |      |    |         |
+ 8|   docdanger                |   71975 |         |      |    |         |
+ 9|   DKatx512                 |   25925 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 404 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b27.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+We are now over 45 days into round "b". 
+As soon as any table gets to five or fewer 
+players all tables will finish the current 
+hand and a full redraw to round "c" will be done.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 28
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

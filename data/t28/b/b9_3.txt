@@ -1,0 +1,117 @@
+Subject: [b9.10048] Holdem Game Broadcast Message(*)
+
+! Table b9, Hand 3, Day 3
+
+! drjeys calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   drjeys                   |   46800 |    3200 |      |    |         |
+ 2|   BrownTrout               |   50950 |       0 |folded|    |         |
+ 3|D  J. Michael Robertson     |   49775 |       0 |folded|    |         |
+ 4|   Stray Taoist             |   49775 |      75 |folded|    |         |
+ 5|   Ed Fernandez             |   49850 |     150 |folded|    |         |
+ 7|>  Michael Rankin           |   46000 |    3200 |      |    |         |
+ 8|   danthefan                |  100225 |       0 |folded|    |         |
+ 9|   indiansquib              |   50000 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/13/18 18:14:39! Dealing a new hand
+! 11/13/18 18:14:39! No ante
+! 11/13/18 18:14:39! Stray Taoist blinds $75
+! 11/13/18 18:14:39! Ed Fernandez blinds $150
+! 11/13/18 18:34:16! Michael Rankin calls 
+! 11/13/18 18:34:16! danthefan folds
+! 11/13/18 19:45:59! indiansquib folds
+! 11/13/18 20:57:07! drjeys calls 
+! 11/14/18 08:36:19! BrownTrout folds
+! 11/14/18 08:36:19! J. Michael Robertson folds
+! 11/14/18 08:36:19! Stray Taoist folds
+! 11/14/18 08:36:19! Ed Fernandez checks
+
+! 11/14/18 08:36:19! Pot right ($525), flopping/dealing/drawing cards
+! 11/14/18 08:36:19! 3 players
+! 11/14/18 08:36:19! Flopped cards: 10c 6d Qd
+! 11/14/18 08:36:19! Ed Fernandez checks
+! 11/14/18 08:46:22! Michael Rankin bets $150 
+! 11/14/18 09:27:06! drjeys calls 
+! 11/14/18 09:27:06! Ed Fernandez folds
+
+! 11/14/18 09:27:06! Pot right ($825), flopping/dealing/drawing cards
+! 11/14/18 09:27:06! 2 players
+! 11/14/18 09:27:06! Flopped card: 10h
+! 11/14/18 09:28:23! Michael Rankin bets $300 
+! 11/14/18 09:28:51! drjeys raises $1000 to $1300 total 
+! 11/14/18 09:31:49! Michael Rankin calls 
+
+! 11/14/18 09:31:49! Pot right ($3425), flopping/dealing/drawing cards
+! 11/14/18 09:31:49! 2 players
+! 11/14/18 09:31:49! Flopped card: Kc
+! 11/14/18 09:47:31! Michael Rankin bets $1600 
+! 11/14/18 09:49:28! drjeys calls 
+! Hand over, current board is:  10c 6d Qd 10h Kc
+! drjeys                   has: Js Qc
+! Michael Rankin           has: As Ac
+! Michael Rankin wins $6625 (net $3425) with Two Pair (A A 10 10 K)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   drjeys                   |   46800 |         |      |    |         |
+ 2|   BrownTrout               |   50950 |         |      |    |         |
+ 3|   J. Michael Robertson     |   49775 |         |      |    |         |
+ 4|D  Stray Taoist             |   49775 |         |      |    |         |
+ 5|   Ed Fernandez             |   49850 |         |      |    |         |
+ 7|>  Michael Rankin           |   52625 |         |      |    |         |
+ 8|   danthefan                |  100225 |         |      |    |         |
+ 9|   indiansquib              |   50000 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 585 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b9.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 7
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,118 @@
+Message-Id: <201111221538.pAMFceXr011903@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [b35.10074] Holdem Game Broadcast Message(*)                          
+
+! Table b35, Hand 5, Day 9
+
+! Chris Learmonth folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|V  Will Farley              |  30000 |      0 | NoSho|    |        |
+ 2|   Willy Eckerslyke         |  30450 |    100 |folded|    |        |
+ 3|   Chris Learmonth          |  29900 |   1400 |folded|    |        |
+ 4|   Robert Odell             |  29850 |    350 |folded|    |        |
+ 5|DV Joe Wood                 |  29850 |      0 | NoSho|    |        |
+ 6|   StingRay                 |  26850 |     50 |folded|    |        |
+ 7|>  Craig N. Boyle           |  27600 |   2400 |      |    |        |
+ 8|   berj kacherian           |  30000 |      0 |folded|    |        |
+ 9|   jasong            |  31200 |      0 |folded|    |        |
+10|   Kina Grannis             |  30000 |      0 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 11/21/11 05:06:53! Dealing a new hand
+! 11/21/11 05:06:53! No ante
+! 11/21/11 05:06:53! StingRay blinds $50
+! 11/21/11 05:06:53! Craig N. Boyle blinds $100
+! 11/21/11 14:04:01! berj kacherian folds
+! 11/21/11 14:04:01! jasong folds
+_____________________________________________________________________________
+
+! Happy Thanksgiving! #InYourArms
+! On Mon, Nov 21, 2011 at 8:06 AM, <dealer@wrgpt.org> wrote:
+! (dealer suppressed lines starting with '>' or ':')
+! -- Kina Grannis --
+_____________________________________________________________________________
+
+! 11/21/11 14:04:01! Kina Grannis folds
+! 11/21/11 14:04:01! Will Farley is on vacation and folds
+! 11/22/11 00:50:17! Willy Eckerslyke calls 
+! 11/22/11 01:08:56! Chris Learmonth raises $250 
+! 11/22/11 06:12:16! Robert Odell calls 
+! 11/22/11 06:12:16! Joe Wood is on vacation and folds
+! 11/22/11 06:12:16! StingRay folds
+! 11/22/11 06:47:53! Craig N. Boyle calls 
+! 11/22/11 06:47:53! Willy Eckerslyke folds
+
+! 11/22/11 06:47:53! Pot right ($1200), flopping/dealing/drawing cards
+! 11/22/11 06:47:53! 3 players
+! 11/22/11 06:47:53! Flopped cards: 10c 6c 7h
+! 11/22/11 06:48:35! Craig N. Boyle bets $250 
+! 11/22/11 07:29:29! Chris Learmonth calls 
+! 11/22/11 07:29:29! Robert Odell folds
+
+! 11/22/11 07:29:29! Pot right ($1700), flopping/dealing/drawing cards
+! 11/22/11 07:29:29! 2 players
+! 11/22/11 07:29:29! Flopped card: Jh
+! 11/22/11 07:30:34! Craig N. Boyle checks
+! 11/22/11 07:35:07! Chris Learmonth bets $800 
+! 11/22/11 07:35:53! Craig N. Boyle calls 
+
+! 11/22/11 07:35:53! Pot right ($3300), flopping/dealing/drawing cards
+! 11/22/11 07:35:53! 2 players
+! 11/22/11 07:35:53! Flopped card: 5s
+! 11/22/11 07:36:51! Craig N. Boyle bets $1000 
+! 11/22/11 07:38:39! Chris Learmonth folds
+! Hand over, no showdown
+! Current board is:  10c 6c 7h Jh 5s
+! Craig N. Boyle wins $4300 (net $1900)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|V  Will Farley              |  30000 |        | NoSho|    |        |
+ 2|   Willy Eckerslyke         |  30450 |        |      |    |        |
+ 3|   Chris Learmonth          |  29900 |        |      |    |        |
+ 4|   Robert Odell             |  29850 |        |      |    |        |
+ 5|V  Joe Wood                 |  29850 |        | NoSho|    |        |
+ 6|D  StingRay                 |  26850 |        |      |    |        |
+ 7|>  Craig N. Boyle           |  31900 |        |      |    |        |
+ 8|   berj kacherian           |  30000 |        |      |    |        |
+ 9|   jasong            |  31200 |        |      |    |        |
+10|   Kina Grannis             |  30000 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 842 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b35.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+This is the real tourney.  The practice round is over.
+Please RECHECK your cards to see you have from the "B" round.
+Also, your ID will NOT start with a "p" in the real tourney.
+
+Good luck.
+
+Having problems? Send email to floorman21@wrgpt.org.
+
+Live Redraw Status as of 11/22/11 07:25:01 AM
+
+Total Empty Seats: 8
+Total Playing Seats: 842
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+

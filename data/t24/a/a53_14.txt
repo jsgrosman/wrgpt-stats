@@ -1,0 +1,120 @@
+
+! Table a53, Hand 14, Day 11
+
+! OaktownDad folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   eliuk35                  |  24450 |   3800 |folded|    |        |
+ 2|   Ross                     |  98950 |     50 |folded|    |        |
+ 3|   TennisGeek               |  44900 |   1050 |folded|    |        |
+ 4|D> dgr                      | 100000 |  22650 |      |    |        |
+ 5|   Jerry Connolly           |  22000 |    250 |folded|    |        |
+ 6|V  Chris Goedde             |  28600 |    450 |<Gone>|    |        |
+ 7|   bigjimmf1                |  17150 |     50 |folded|    |        |
+ 8|V  RaysHell                 |  28950 |     50 | NoSho|    |        |
+ 9|V  jasong            |  32500 |     50 |<AWOL>|    |        |
+10|   OaktownDad               |  44550 |  11050 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 11/05/14 10:38:15! Dealing a new hand
+! 11/05/14 10:38:15! Everyone antes $50
+! 11/05/14 10:38:15! Jerry Connolly blinds $200
+! 11/05/14 10:38:15! Chris Goedde blinds $400
+! 11/05/14 11:26:42! bigjimmf1 folds
+! 11/05/14 11:26:42! RaysHell is on vacation and folds
+! 11/05/14 11:26:42! jasong is on vacation and folds
+! 11/05/14 11:26:42! OaktownDad raises $600 
+! 11/05/14 11:40:50! eliuk35 calls 
+! 11/05/14 11:40:50! Ross folds
+! 11/05/14 13:20:15! TennisGeek calls 
+! 11/05/14 14:06:44! dgr calls 
+! 11/05/14 14:06:44! Jerry Connolly folds
+! 11/05/14 14:06:44! Chris Goedde is on vacation and folds
+
+! 11/05/14 14:06:44! Pot right ($5100), flopping/dealing/drawing cards
+! 11/05/14 14:06:44! 4 players
+! 11/05/14 14:06:44! Flopped cards: 5c 6s 10s
+! 11/05/14 14:37:26! OaktownDad bets $2750 
+! 11/06/14 06:59:43! eliuk35 calls 
+! 11/06/14 07:33:46! TennisGeek folds
+! 11/06/14 07:54:28! dgr raises $7250 
+! 11/06/14 07:58:01! OaktownDad calls 
+! 11/06/14 11:59:01! eliuk35 folds
+
+! 11/06/14 11:59:01! Pot right ($27850), flopping/dealing/drawing cards
+! 11/06/14 11:59:01! 2 players
+! 11/06/14 11:59:01! Flopped card: 4d
+! 11/06/14 12:38:24! OaktownDad checks
+! 11/06/14 14:09:52! dgr bets $11600 
+! 11/06/14 14:33:05! OaktownDad folds
+! Hand over, no showdown
+! Current board is:  5c 6s 10s 4d ?
+! dgr wins $39450 (net $16800)
+! Antes and blinds go up
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   eliuk35                  |  24450 |        |      |    |        |
+ 2|   Ross                     |  98950 |        |      |    |        |
+ 3|   TennisGeek               |  44900 |        |      |    |        |
+ 4|>  dgr                      | 139450 |        |      |    |        |
+ 5|D  Jerry Connolly           |  22000 |        |      |    |        |
+ 6|V  Chris Goedde             |  28600 |        |<Gone>|    |        |
+ 7|   bigjimmf1                |  17150 |        |      |    |        |
+ 8|V  RaysHell                 |  28950 |        | NoSho|    |        |
+ 9|V  jasong            |  32500 |        |<AWOL>|    |        |
+10|   OaktownDad               |  44550 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 500 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/a/a53.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+This is the PRACTICE ROUND.  This DOES NOT COUNT.
+Try using the in advance action and the advanced actions mentioned
+in the manual while it is the practice round.
+
+The practice round may suddenly start and/or restart if problems
+are found that need a restart to test or correct.
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+Here is a link to the railbird mailing list:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman24@wrgpt.org.
+
+Live Redraw Status as of 11/06/14 02:25:01 PM
+
+Total Empty Seats: 30
+Total Playing Seats: 500
+Live redraw in progress:
+Seats Needed: 30
+Seats Waiting: 0
+Moving Players Waiting: 0
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

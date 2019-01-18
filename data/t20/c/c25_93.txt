@@ -1,0 +1,81 @@
+Message-Id: <201101251927.p0PJReBx030196@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [c25.10366] Holdem Game Broadcast Message(*)                          
+
+! Table c25, Hand 93, Day 86
+
+! AW Coody folds
+! b monie folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Nikadai                  |  11525 |    200 |folded|    |        |
+ 2|   mjoseff                  | 124075 |    200 |folded|    |        |
+ 3|   Eddie Brown              | 197725 |    200 |folded|    |        |
+ 4|D  jasong            |  52350 |    200 |folded|    |        |
+ 6|   AW Coody                 |  93950 |    800 |folded|    |        |
+ 7|   b monie                  |  16300 |   1400 |folded|    |        |
+ 8|>  JAvery - VP              |   3650 |   6400 |      |    |        |
+10|   Its Just AA              | 126125 |    200 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 01/24/11 15:13:42! Dealing a new hand
+! 01/24/11 15:13:42! Everyone antes $200
+! 01/24/11 15:13:42! AW Coody blinds $600
+! 01/24/11 15:13:42! b monie blinds $1200
+! 01/25/11 08:27:26! JAvery - VP raises $5000 
+! 01/25/11 08:27:26! Its Just AA folds
+! 01/25/11 08:27:26! Nikadai folds
+! 01/25/11 08:43:18! mjoseff folds
+! 01/25/11 08:43:18! Eddie Brown folds
+! 01/25/11 08:43:18! jasong folds
+! 01/25/11 11:27:39! AW Coody folds
+! 01/25/11 11:27:39! b monie folds
+! Hand over, no showdown
+! Current board is:  ? ? ? ? ?
+! JAvery - VP wins $9600 (net $3200)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Nikadai                  |  11525 |        |      |    |        |
+ 2|   mjoseff                  | 124075 |        |      |    |        |
+ 3|   Eddie Brown              | 197725 |        |      |    |        |
+ 4|   jasong            |  52350 |        |      |    |        |
+ 6|D  AW Coody                 |  93950 |        |      |    |        |
+ 7|   b monie                  |  16300 |        |      |    |        |
+ 8|>  JAvery - VP              |  13250 |        |      |    |        |
+10|   Its Just AA              | 126125 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 504 players left in the tournament
+! Table waiting for live reshuffle
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c25.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+If you have any problems send mail to floorman20@wrgpt.org.
+
+Live Redraw Status as of 01/25/11 11:25:01 AM
+
+Total Empty Seats: 36
+Total Playing Seats: 504
+Live redraw in progress:
+Seats Needed: 30
+Seats Waiting: 0
+Moving Players Waiting: 10
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org or follow "wrgpt" on Twitter.
+

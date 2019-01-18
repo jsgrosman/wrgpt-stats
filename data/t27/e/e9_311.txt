@@ -1,0 +1,127 @@
+
+! Table e9, Hand 311, Day 158
+
+! Ro-me-ro folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Jillian McKillican       |  554200 |    2000 |folded|    |         |
+ 2|   Stephen Mack             |  821400 |    2000 |folded|    |         |
+ 3|D  Andy Pierce              |  252875 |    2000 |folded|    |         |
+ 4|>  Bwana                    | 2020850 |   87000 |      |    |         |
+ 6|   Ro-me-ro                 |  747150 |   42000 |folded|    |         |
+ 7|   Bob R                    |  654550 |    2000 |folded|    |         |
+ 8|   Ed Baker                 |  309300 |    2000 |folded|    |         |
+ 9|   jasong            |  725900 |    2000 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/28/18 14:25:47! Dealing a new hand
+! 03/28/18 14:25:47! Everyone antes $2000
+! 03/28/18 14:25:47! Bwana blinds $10000
+! 03/28/18 14:25:47! Ro-me-ro blinds $20000
+! 03/28/18 14:27:15! Bob R folds
+_____________________________________________________________________________
+
+! There should be an advance action: fold 8x-
+! I could go to Punta Cana for a week and not time out.
+! On Wed, Mar 28, 2018 at 5:27 PM, <dealer@wrgpt.org> wrote:
+! (dealer suppressed lines starting with '>' or ':')
+! -- Ed Baker --
+_____________________________________________________________________________
+
+! 03/28/18 17:07:31! Ed Baker folds
+! 03/28/18 17:07:31! jasong folds
+! 03/28/18 17:07:53! Jillian McKillican folds
+! 03/28/18 17:09:45! Stephen Mack folds
+! 03/28/18 17:09:45! Andy Pierce folds
+! 03/28/18 17:09:45! Bwana calls 
+! 03/28/18 17:22:25! Ro-me-ro checks
+
+! 03/28/18 17:22:25! Pot right ($56000), flopping/dealing/drawing cards
+! 03/28/18 17:22:25! 2 players
+! 03/28/18 17:22:25! Flopped cards: 9c 6d 3c
+! 03/28/18 23:01:03! Bwana checks
+! 03/29/18 01:03:08! Ro-me-ro checks
+
+! 03/29/18 01:03:08! Pot right ($56000), flopping/dealing/drawing cards
+! 03/29/18 01:03:08! 2 players
+! 03/29/18 01:03:08! Flopped card: 7h
+! 03/29/18 01:10:19! Bwana bets $20000 
+! 03/29/18 01:11:25! Ro-me-ro calls 
+
+! 03/29/18 01:11:25! Pot right ($96000), flopping/dealing/drawing cards
+! 03/29/18 01:11:25! 2 players
+! 03/29/18 01:11:25! Flopped card: Jh
+! 03/29/18 01:14:57! Bwana bets $45000 
+! 03/29/18 01:17:04! Ro-me-ro folds
+! Hand over, no showdown
+! Current board is:  9c 6d 3c 7h Jh
+! Bwana wins $141000 (net $54000)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Jillian McKillican       |  554200 |         |      |    |         |
+ 2|   Stephen Mack             |  821400 |         |      |    |         |
+ 3|   Andy Pierce              |  252875 |         |      |    |         |
+ 4|D> Bwana                    | 2161850 |         |      |    |         |
+ 6|   Ro-me-ro                 |  747150 |         |      |    |         |
+ 7|   Bob R                    |  654550 |         |      |    |         |
+ 8|   Ed Baker                 |  309300 |         |      |    |         |
+ 9|   jasong            |  725900 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 42 players left in the tournament, 3 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/e/e9.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+However, if there were prizes they would pay the top 63 entrants.
+The standings are now showing theoretical prizes if WRGPT were a
+10k event.
+
+======
+
+Live Redraw Status as of 03/29/18 12:55:02 AM
+
+Total Empty Seats: 13
+Total Playing Seats: 42
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman27@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

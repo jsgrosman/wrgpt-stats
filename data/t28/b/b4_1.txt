@@ -1,0 +1,130 @@
+Subject: [b4.10027] Holdem Game Broadcast Message(*)
+
+! Table b4, Hand 1, Day 1
+
+! ebock folds
+! feodor folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  Todd Brabbin             |   49400 |     600 |folded|    |         |
+ 2|   CharlieM                 |   49925 |      75 |folded|    |         |
+ 3|>  Sir Barlow               |   34900 |   15100 |      |    |         |
+ 4|   Paul Stine               |   50000 |       0 |folded|    |         |
+ 5|   ebock                    |   44900 |    5100 |folded|    |         |
+ 6|   John Pieza               |   50000 |       0 |folded|    |         |
+ 7|   TheTwizz                 |   50000 |       0 |folded|    |         |
+ 8|   Dan Duncan               |   50000 |       0 |folded|    |         |
+ 9|   feodor                   |   44900 |    5100 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/12/18 00:14:34! CharlieM is back from vacation
+! 11/12/18 00:15:14! Todd Brabbin is back from vacation
+! 11/12/18 00:20:29! Sir Barlow is back from vacation
+! 11/12/18 04:37:57! ebock is back from vacation
+! 11/12/18 04:40:36! feodor is back from vacation
+! 11/12/18 06:06:00! Dan Duncan is back from vacation
+! 11/12/18 06:22:07! Paul Stine is back from vacation
+! 11/12/18 07:24:45! John Pieza is back from vacation
+! 11/12/18 08:09:28! TheTwizz is back from vacation
+! 11/12/18 08:09:29! Dealing a new hand
+! 11/12/18 08:09:29! No ante
+! 11/12/18 08:09:29! CharlieM blinds $75
+! 11/12/18 08:09:29! Sir Barlow blinds $150
+! 11/12/18 08:20:47! Paul Stine folds
+! 11/12/18 08:33:26! ebock raises $450 to $600 total 
+! 11/12/18 09:09:43! John Pieza folds
+! 11/12/18 09:09:43! TheTwizz folds
+! 11/12/18 10:08:56! Dan Duncan folds
+! 11/12/18 10:40:35! feodor calls 
+! 11/12/18 11:16:26! Todd Brabbin calls 
+! 11/12/18 11:53:49! CharlieM folds
+! 11/12/18 11:58:49! Sir Barlow calls 
+
+! 11/12/18 11:58:49! Pot right ($2475), flopping/dealing/drawing cards
+! 11/12/18 11:58:49! 4 players
+! 11/12/18 11:58:49! Flopped cards: Kd 8c Js
+! 11/12/18 11:59:48! Sir Barlow bets $1500 
+! 11/12/18 12:16:19! ebock calls 
+! 11/12/18 12:28:02! feodor calls 
+! 11/12/18 13:39:34! Todd Brabbin folds
+
+! 11/12/18 13:39:34! Pot right ($6975), flopping/dealing/drawing cards
+! 11/12/18 13:39:34! 3 players
+! 11/12/18 13:39:34! Flopped card: 8h
+! 11/12/18 13:48:03! Sir Barlow bets $3000 
+! 11/12/18 13:50:16! ebock calls 
+! 11/12/18 18:33:38! feodor calls 
+
+! 11/12/18 18:33:38! Pot right ($15975), flopping/dealing/drawing cards
+! 11/12/18 18:33:38! 3 players
+! 11/12/18 18:33:38! Flopped card: 4d
+! 11/12/18 18:43:06! Sir Barlow bets $10000 
+! 11/12/18 19:09:10! ebock folds
+! 11/12/18 19:09:10! feodor folds
+! Hand over, no showdown
+! Current board is:  Kd 8c Js 8h 4d
+! Sir Barlow wins $25975 (net $10875)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Todd Brabbin             |   49400 |         |      |    |         |
+ 2|D  CharlieM                 |   49925 |         |      |    |         |
+ 3|>  Sir Barlow               |   60875 |         |      |    |         |
+ 4|   Paul Stine               |   50000 |         |      |    |         |
+ 5|   ebock                    |   44900 |         |      |    |         |
+ 6|   John Pieza               |   50000 |         |      |    |         |
+ 7|   TheTwizz                 |   50000 |         |      |    |         |
+ 8|   Dan Duncan               |   50000 |         |      |    |         |
+ 9|   feodor                   |   44900 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 591 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b4.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 1
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,111 @@
+Subject: [b17.10499] Holdem Game Broadcast Message(*)
+
+! Table b17, Hand 34, Day 25
+
+! shinsook folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   John Bernstein           |   43100 |       0 |folded|    |         |
+ 2|>  Sandy                    |   42650 |    4800 |      |    |         |
+ 3|   Mike DellaBarca          |   47175 |       0 |folded|    |         |
+ 4|   Baldy                    |   83600 |       0 |folded|    |         |
+ 5|   shinsook                 |  106425 |    1800 |folded|    |         |
+ 6|   Kahomono                 |   53150 |       0 |folded|    |         |
+ 7|D  Toronado13               |   62200 |     800 |folded|    |         |
+ 8|   Mark Lemon               |   50925 |     150 |folded|    |         |
+ 9|   crush_me                 |   13125 |     300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/06/18 09:46:36! Dealing a new hand
+! 12/06/18 09:46:36! No ante
+! 12/06/18 09:46:36! Mark Lemon blinds $150
+! 12/06/18 09:46:36! crush_me blinds $300
+! 12/06/18 10:57:28! John Bernstein folds
+! 12/06/18 10:57:28! Sandy raises $500 to $800 total 
+! 12/06/18 10:57:28! Mike DellaBarca folds
+! 12/06/18 10:57:28! Baldy folds
+! 12/06/18 11:22:06! shinsook calls 
+! 12/06/18 11:58:25! Kahomono folds
+! 12/06/18 13:49:54! Toronado13 calls 
+! 12/06/18 14:07:54! Mark Lemon folds
+! 12/06/18 14:07:54! crush_me folds
+
+! 12/06/18 14:07:54! Pot right ($2850), flopping/dealing/drawing cards
+! 12/06/18 14:07:54! 3 players
+! 12/06/18 14:07:54! Flopped cards: 8d 6s 3d
+! 12/06/18 16:34:24! Sandy bets $1000 
+! 12/06/18 16:56:28! shinsook calls 
+! 12/06/18 17:23:00! Toronado13 folds
+
+! 12/06/18 17:23:00! Pot right ($4850), flopping/dealing/drawing cards
+! 12/06/18 17:23:00! 2 players
+! 12/06/18 17:23:00! Flopped card: Kc
+! 12/06/18 17:28:19! Sandy bets $3000 
+! 12/06/18 17:31:25! shinsook folds
+! Hand over, no showdown
+! Current board is:  8d 6s 3d Kc ?
+! Sandy wins $7850 (net $3050)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   John Bernstein           |   43100 |         |      |    |         |
+ 2|>  Sandy                    |   50500 |         |      |    |         |
+ 3|   Mike DellaBarca          |   47175 |         |      |    |         |
+ 4|   Baldy                    |   83600 |         |      |    |         |
+ 5|   shinsook                 |  106425 |         |      |    |         |
+ 6|   Kahomono                 |   53150 |         |      |    |         |
+ 7|   Toronado13               |   62200 |         |      |    |         |
+ 8|D  Mark Lemon               |   50925 |         |      |    |         |
+ 9|   crush_me                 |   13125 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 514 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b17.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

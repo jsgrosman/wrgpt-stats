@@ -1,0 +1,129 @@
+Message-Id: <201401011959.s01JxZIl028076@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [b3.10637] Holdem Game Broadcast Message(*)                          
+
+! Table b3, Hand 46, Day 52
+
+! Gillian Groves calls 
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Jim Sokoloff             |  37475 |     50 |folded|    |        |
+ 2|   Jeremy Miller            |  62600 |    450 |folded|    |        |
+ 3|D  Gillian Groves           |  27650 |  25850 |      |    |        |
+ 4|   shaerinck                |  39225 |    450 |folded|    |        |
+ 5|>  Cindy                    |  29150 |  25850 |      |    |        |
+ 6|   jsw                      |  79575 |    450 |folded|    |        |
+ 7|   Johnny Ice               |  73900 |     50 |folded|    |        |
+ 8|   Jose Aguas               |  37550 |     50 |folded|    |        |
+ 9|   Zipper                   |  40850 |   1950 |folded|    |        |
+10|   jasong            |  43825 |     50 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 12/30/13 05:32:18! Dealing a new hand
+! 12/30/13 05:32:18! Everyone antes $50
+! 12/30/13 05:32:18! shaerinck blinds $200
+! 12/30/13 05:32:18! Cindy blinds $400
+! 12/30/13 06:51:44! jsw calls 
+! 12/30/13 06:51:44! Johnny Ice folds
+! 12/30/13 07:46:51! Jose Aguas folds
+! 12/30/13 10:59:22! Zipper calls 
+! 12/30/13 10:59:22! jasong folds
+! 12/30/13 10:59:22! Jim Sokoloff folds
+! 12/30/13 11:07:23! Jeremy Miller calls 
+! 12/30/13 11:24:22! Gillian Groves calls 
+! 12/30/13 11:27:52! shaerinck calls 
+! 12/30/13 12:11:02! Cindy checks
+
+! 12/30/13 12:11:02! Pot right ($2900), flopping/dealing/drawing cards
+! 12/30/13 12:11:02! 6 players
+! 12/30/13 12:11:02! Flopped cards: 10h 2d As
+! 12/30/13 12:34:15! shaerinck checks
+! 12/30/13 12:46:27! Cindy checks
+! 12/30/13 13:38:13! jsw checks
+! 12/30/13 13:45:01! Zipper checks
+! 12/30/13 13:52:40! Jeremy Miller checks
+! 12/30/13 16:08:06! Gillian Groves bets $1500 
+! 12/30/13 16:16:20! shaerinck folds
+! 12/30/13 16:54:56! Cindy calls 
+! 12/31/13 05:54:49! jsw folds
+! 12/31/13 10:49:23! Zipper calls 
+! 12/31/13 10:49:23! Jeremy Miller folds
+
+! 12/31/13 10:49:23! Pot right ($7400), flopping/dealing/drawing cards
+! 12/31/13 10:49:23! 3 players
+! 12/31/13 10:49:23! Flopped card: 4h
+! 12/31/13 11:31:26! Cindy checks
+! 12/31/13 13:21:27! Zipper checks
+! 12/31/13 17:15:08! Gillian Groves bets $5500 
+! 12/31/13 23:31:59! Cindy calls 
+! 01/01/14 04:11:00! Zipper folds
+
+! 01/01/14 04:11:00! Pot right ($18400), flopping/dealing/drawing cards
+! 01/01/14 04:11:00! 2 players
+! 01/01/14 04:11:00! Flopped card: Qh
+! 01/01/14 11:40:16! Cindy bets $18400 
+! 01/01/14 11:59:35! Gillian Groves calls 
+! Hand over, current board is:  10h 2d As 4h Qh
+! Gillian Groves           has: Ad 6d
+! Cindy                    has: Qs 10d
+! Cindy wins $55200 (net $29350) with Two Pair (Q Q 10 10 A)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Jim Sokoloff             |  37475 |        |      |    |        |
+ 2|   Jeremy Miller            |  62600 |        |      |    |        |
+ 3|   Gillian Groves           |  27650 |        |      |    |        |
+ 4|D  shaerinck                |  39225 |        |      |    |        |
+ 5|>  Cindy                    |  84350 |        |      |    |        |
+ 6|   jsw                      |  79575 |        |      |    |        |
+ 7|   Johnny Ice               |  73900 |        |      |    |        |
+ 8|   Jose Aguas               |  37550 |        |      |    |        |
+ 9|   Zipper                   |  40850 |        |      |    |        |
+10|   jasong            |  43825 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 655 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b3.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Now there will be no more live redraws for the "b" round.
+We will play until a table gets below six players at which point
+all tables will finish their current hand and a full redraw will
+be made.
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+Here is a link to the railbird mailing list:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman23@wrgpt.org.
+
+Live Redraw Status as of 01/01/14 11:55:01 AM
+
+Total Empty Seats: 55
+Total Playing Seats: 655
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

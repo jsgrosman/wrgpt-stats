@@ -1,0 +1,115 @@
+Subject: [b24.10627] Holdem Game Broadcast Message(*)
+
+! Table b24, Hand 48, Day 44
+
+! Buggilla calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Rugratbbc                |   32775 |      50 |folded|    |         |
+ 2|   Loboc                    |   77275 |      50 |folded|    |         |
+ 3|D  StewieG                  |   92200 |      50 |folded|    |         |
+ 4|   Wally F                  |   87925 |     250 |folded|    |         |
+ 5|   Der Olf                  |   41850 |    3250 |folded|    |         |
+ 6|V  Darse Billings           |   71275 |      50 |folded|    |         |
+ 7|   Mugsy                    |   42775 |      50 |folded|    |         |
+ 8|>  Buggilla                 |    4800 |   21725 |      |    |         |
+ 9|   BigBlind                 |       0 |   21725 |all-in|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/24/18 14:19:06! Dealing a new hand
+! 12/24/18 14:19:06! Everyone antes $50
+! 12/24/18 14:19:06! Wally F blinds $200
+! 12/24/18 14:19:06! Der Olf blinds $400
+! 12/24/18 14:19:06! Darse Billings is on vacation and folds
+! 12/24/18 14:19:06! Mugsy is on vacation and folds
+! 12/24/18 14:23:00! Buggilla raises $800 to $1200 total 
+! 12/24/18 15:23:10! Der Olf is back from vacation
+! 12/24/18 15:35:21! BigBlind calls 
+! 12/24/18 17:58:23! Rugratbbc folds
+! 12/24/18 17:58:23! Loboc folds
+! 12/24/18 17:58:23! StewieG folds
+! 12/24/18 17:58:23! Wally F folds
+! 12/24/18 19:20:10! Der Olf calls 
+
+! 12/24/18 19:20:10! Pot right ($4250), flopping/dealing/drawing cards
+! 12/24/18 19:20:10! 3 players
+! 12/24/18 19:20:10! Flopped cards: Js 10s Kc
+! 12/24/18 19:22:26! Der Olf bets $2000 
+! 12/24/18 19:23:23! Buggilla calls 
+! 12/24/18 19:36:22! BigBlind calls 
+
+! 12/24/18 19:36:22! Pot right ($10250), flopping/dealing/drawing cards
+! 12/24/18 19:36:22! 3 players
+! 12/24/18 19:36:22! Flopped card: 4d
+! 12/24/18 19:40:58! Der Olf checks
+! 12/24/18 19:42:52! Buggilla checks
+! 12/24/18 19:44:06! BigBlind checks
+
+! 12/24/18 19:44:06! Pot right ($10250), flopping/dealing/drawing cards
+! 12/24/18 19:44:06! 3 players
+! 12/24/18 19:44:06! Flopped card: 9h
+! 12/24/18 19:45:26! Der Olf checks
+! 12/24/18 19:46:21! Buggilla bets $5000 
+! 12/24/18 19:52:05! BigBlind raises $13475 to $18475 total and is all in
+! 12/24/18 20:13:06! Der Olf folds
+! 12/24/18 23:15:57! Mugsy is back from vacation
+! 12/25/18 05:34:37! Buggilla calls 
+! Hand over, current board is:  Js 10s Kc 4d 9h
+! Buggilla                 has: Qc 10c
+! BigBlind                 has: As Qs
+! BigBlind wins $47200 (net $25475) with Straight (A K Q J 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Rugratbbc                |   32775 |         |      |    |         |
+ 2|   Loboc                    |   77275 |         |      |    |         |
+ 3|   StewieG                  |   92200 |         |      |    |         |
+ 4|D  Wally F                  |   87925 |         |      |    |         |
+ 5|   Der Olf                  |   41850 |         |      |    |         |
+ 6|V  Darse Billings           |   71275 |         |folded|    |         |
+ 7|   Mugsy                    |   42775 |         |      |    |         |
+ 8|>  Buggilla                 |    4800 |         |      |    |         |
+ 9|   BigBlind                 |   47200 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 440 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b24.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 12
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

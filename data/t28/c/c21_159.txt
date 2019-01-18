@@ -1,0 +1,118 @@
+Subject: [c21.10160] Holdem Game Broadcast Message(*)
+
+! Table c21, Hand 159, Day 65
+
+! Donald Neilson calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  Andy Pierce              |   69425 |   12350 |      |    |         |
+ 2|   sgranen                  |   82625 |   12350 |      |    |         |
+ 3|   TheOldThug               |   84675 |     100 |folded|    |         |
+ 4|D  Ace Squared              |   47150 |     100 |folded|    |         |
+ 5|   dgr                      |   99550 |     600 |folded|    |         |
+ 6|   Polar85                  |   55900 |     600 |folded|    |         |
+ 7|   Patti                    |   42425 |     100 |folded|    |         |
+ 8|   Donald Neilson           |  125300 |   12350 |      |    |         |
+ 9|   JRX                      |   51925 |       0 |New   |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/15/19 04:36:56! Dealing a new hand
+! 01/15/19 04:36:56! Everyone antes $100
+! 01/15/19 04:36:56! dgr blinds $250
+! 01/15/19 04:36:56! Polar85 blinds $500
+! 01/15/19 07:00:27! Patti folds
+! 01/15/19 07:14:04! Donald Neilson calls 
+! 01/15/19 07:24:31! TheOldThug is back from vacation
+! 01/15/19 08:45:56! Andy Pierce calls 
+! 01/15/19 08:55:47! sgranen calls 
+! 01/15/19 08:55:47! TheOldThug folds
+! 01/15/19 09:11:36! Ace Squared folds
+! 01/15/19 09:55:03! New player added to the table: JRX
+! 01/15/19 12:33:58! dgr calls 
+! 01/15/19 12:33:58! Polar85 checks
+
+! 01/15/19 12:33:58! Pot right ($3300), flopping/dealing/drawing cards
+! 01/15/19 12:33:58! 5 players
+! 01/15/19 12:33:58! Flopped cards: Kc 7s 8h
+! 01/15/19 14:18:33! dgr checks
+! 01/15/19 14:18:33! Polar85 checks
+! 01/15/19 14:23:05! Donald Neilson bets $2000 
+! 01/15/19 16:22:12! Andy Pierce calls 
+! 01/15/19 16:26:32! sgranen calls 
+! 01/15/19 16:26:32! dgr folds
+! 01/15/19 16:26:32! Polar85 folds
+
+! 01/15/19 16:26:32! Pot right ($9300), flopping/dealing/drawing cards
+! 01/15/19 16:26:32! 3 players
+! 01/15/19 16:26:32! Flopped card: 4d
+! 01/15/19 16:32:59! Donald Neilson bets $4750 
+! 01/15/19 16:40:27! Andy Pierce calls 
+! 01/15/19 16:42:49! sgranen calls 
+
+! 01/15/19 16:42:49! Pot right ($23550), flopping/dealing/drawing cards
+! 01/15/19 16:42:49! 3 players
+! 01/15/19 16:42:49! Flopped card: 9c
+! 01/15/19 16:52:43! Donald Neilson checks
+! 01/15/19 22:50:10! Andy Pierce bets $5000 
+! 01/15/19 22:51:10! sgranen calls 
+! 01/15/19 22:54:30! Donald Neilson calls 
+! Hand over, current board is:  Kc 7s 8h 4d 9c
+! Andy Pierce              has: 9s 10d
+! sgranen                  has: Kd Qc
+! Donald Neilson           has: 8d 7d
+! Donald Neilson wins $38550 (net $26200) with Two Pair (8 8 7 7 K)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  Andy Pierce              |   69425 |         |      |    |         |
+ 2|   sgranen                  |   82625 |         |      |    |         |
+ 3|   TheOldThug               |   84675 |         |      |    |         |
+ 4|   Ace Squared              |   47150 |         |      |    |         |
+ 5|D  dgr                      |   99550 |         |      |    |         |
+ 6|   Polar85                  |   55900 |         |      |    |         |
+ 7|   Patti                    |   42425 |         |      |    |         |
+ 8|   Donald Neilson           |  163850 |         |      |    |         |
+ 9|   JRX                      |   51925 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 369 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c21.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 4
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

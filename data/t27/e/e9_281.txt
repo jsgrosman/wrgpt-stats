@@ -1,0 +1,114 @@
+
+! Table e9, Hand 281, Day 145
+
+! Andy Pierce folds
+! Bob R calls 
+! Pot right ($348400), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped cards: 2d Ad 10h
+! Flopped card: Ac
+! Flopped card: 5d
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Andy Pierce              | 1301775 |   13000 |folded|    |         |
+ 2|   Taki                     |  163600 |    1000 |folded|    |         |
+ 3|D> Bob R                    |   75150 |  153200 |      |    |         |
+ 4|   Emoryiowa                |       0 |  153200 |all-in|    |         |
+ 5|   Vegasgun                 |   58900 |   13000 |folded|    |         |
+ 6|   jasong            |  474450 |   13000 |folded|    |         |
+ 7|   Handsome Al              |   57000 |    1000 |folded|    |         |
+ 8|   BillB                    |  144550 |    1000 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/16/18 04:33:06! Dealing a new hand
+! 03/16/18 04:33:06! Everyone antes $1000
+! 03/16/18 04:33:06! Emoryiowa blinds $6000
+! 03/16/18 04:33:06! Vegasgun blinds $12000
+! 03/16/18 05:53:53! jasong calls 
+! 03/16/18 06:07:35! Handsome Al folds
+! 03/16/18 06:07:35! BillB folds
+! 03/16/18 08:29:16! Andy Pierce calls 
+! 03/16/18 11:43:10! Taki folds
+! 03/16/18 11:43:10! Bob R calls 
+! 03/16/18 12:54:45! Emoryiowa raises $140200 to $152200 total and is all in
+! 03/16/18 12:58:42! Vegasgun folds
+! 03/16/18 13:15:18! jasong folds
+! 03/16/18 17:29:18! Andy Pierce folds
+! 03/16/18 17:29:18! Bob R calls 
+
+! 03/16/18 17:29:18! Pot right ($348400), flopping/dealing/drawing cards
+! 03/16/18 17:29:18! 2 players, 1 all in
+! 03/16/18 17:29:18! Flopped cards: 2d Ad 10h
+! 03/16/18 17:29:18! Flopped card: Ac
+! 03/16/18 17:29:18! Flopped card: 5d
+! Hand over, current board is:  2d Ad 10h Ac 5d
+! Bob R                    has: 10s 10c
+! Emoryiowa                has: 9h 9c
+! Bob R wins $348400 (net $195200) with Full House (10 10 10 A A)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Andy Pierce              | 1301775 |         |      |    |         |
+ 2|   Taki                     |  163600 |         |      |    |         |
+ 3|D> Bob R                    |  423550 |         |      |    |         |
+ 5|   Vegasgun                 |   58900 |         |      |    |         |
+ 6|   jasong            |  474450 |         |      |    |         |
+ 7|   Handsome Al              |   57000 |         |      |    |         |
+ 8|   BillB                    |  144550 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Emoryiowa is eliminated!
+! 69 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/e/e9.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+The server is switching to PDT (DST) on March 11.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Live Redraw Status as of 03/16/18 05:25:01 PM
+
+Total Empty Seats: 12
+Total Playing Seats: 70
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman27@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

@@ -1,0 +1,109 @@
+
+! Table c23, Hand 170, Day 82
+
+! Ryan600 folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   jasong            |  76275 |    200 |folded|    |        |
+ 2|   MojoJojo                 | 148475 |    200 |folded|    |        |
+ 3|   the cake is a pie        | 127225 |    200 |folded|    |        |
+ 4|   Walter Hunt              |  14050 |    200 |folded|    |        |
+ 5|D  Ryan600                  | 117325 |   9100 |folded|    |        |
+ 6|   Murtan                   |  23800 |    800 |folded|    |        |
+ 7|>  888                      |  61050 |  21600 |      |    |        |
+ 8|   Bob                      |  60150 |    200 |folded|    |        |
+ 9|V  GestaltyDog              |  27000 |    200 |Jan 11|    |        |
+10|   Ed Fernandez             |  11825 |    200 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 01/14/16 16:16:28! Dealing a new hand
+! 01/14/16 16:16:28! Everyone antes $200
+! 01/14/16 16:16:28! Murtan blinds $600
+! 01/14/16 16:16:28! 888 blinds $1200
+! 01/14/16 16:17:02! Bob folds
+! 01/14/16 16:17:02! GestaltyDog is on vacation and folds
+! 01/14/16 17:08:15! Ed Fernandez folds
+! 01/14/16 17:15:14! jasong folds
+! 01/14/16 17:15:14! MojoJojo folds
+! 01/14/16 17:15:14! the cake is a pie folds
+! 01/14/16 17:16:37! Walter Hunt folds
+! 01/14/16 17:24:38! Ryan600 raises $3500 
+! 01/14/16 22:54:03! Murtan folds
+! 01/15/16 03:59:30! 888 raises $4200 
+! 01/15/16 06:53:31! Ryan600 calls 
+
+! 01/15/16 06:53:31! Pot right ($20400), flopping/dealing/drawing cards
+! 01/15/16 06:53:31! 2 players
+! 01/15/16 06:53:31! Flopped cards: Qd 6s 5c
+! 01/15/16 07:17:03! 888 bets $12500 
+! 01/15/16 07:18:32! Ryan600 folds
+! Hand over, no showdown
+! Current board is:  Qd 6s 5c ? ?
+! 888 wins $32900 (net $11300)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   jasong            |  76275 |        |      |    |        |
+ 2|   MojoJojo                 | 148475 |        |      |    |        |
+ 3|   the cake is a pie        | 127225 |        |      |    |        |
+ 4|   Walter Hunt              |  14050 |        |      |    |        |
+ 5|   Ryan600                  | 117325 |        |      |    |        |
+ 6|D  Murtan                   |  23800 |        |      |    |        |
+ 7|>  888                      |  93950 |        |      |    |        |
+ 8|   Bob                      |  60150 |        |      |    |        |
+ 9|V  GestaltyDog              |  27000 |        |Jan 11|    |        |
+10|   Ed Fernandez             |  11825 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 307 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c23.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+======
+
+Live Redraw Status as of 01/15/16 06:55:03 AM
+
+Total Empty Seats: 14
+Total Playing Seats: 306
+Live redraw in progress:
+Seats Needed: 8
+Seats Waiting: 0
+Moving Players Waiting: 8
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman25@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

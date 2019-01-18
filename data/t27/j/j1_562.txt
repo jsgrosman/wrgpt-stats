@@ -1,0 +1,113 @@
+X-BeenThere: railbird@lists.wrgpt.org
+X-Mailman-Version: 2.1.16
+Precedence: list
+Reply-To: dealer@wrgpt.org
+List-Id: WRGPT Rail <railbird.lists.wrgpt.org>
+List-Unsubscribe: <http://lists.wrgpt.org/options/railbird>,
+ <mailto:railbird-request@lists.wrgpt.org?subject=unsubscribe>
+List-Archive: <http://lists.wrgpt.org/pipermail/railbird/>
+List-Help: <mailto:railbird-request@lists.wrgpt.org?subject=help>
+List-Subscribe: <http://lists.wrgpt.org/listinfo/railbird>,
+ <mailto:railbird-request@lists.wrgpt.org?subject=subscribe>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+Errors-To: railbird-bounces@lists.wrgpt.org
+Sender: "Railbird" <railbird-bounces@lists.wrgpt.org>
+
+! Table j1, Hand 562, Day 195
+
+! Lets Go Red Sox folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|D> Lets Go Red Sox          |14055350 | 1730000 |folded|    |         |
+ 4|   StingRay                 |       0 |11418325 |all-in|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 05/05/18 12:23:49! Dealing a new hand
+! 05/05/18 12:23:49! Everyone antes $5000
+! 05/05/18 12:23:49! Lets Go Red Sox blinds $50000
+! 05/05/18 12:23:49! StingRay blinds $100000
+! 05/05/18 12:24:31! Lets Go Red Sox calls 
+! 05/05/18 12:25:01! StingRay raises $350000 to $450000 total 
+! 05/05/18 12:25:33! Lets Go Red Sox calls 
+
+! 05/05/18 12:25:33! Pot right ($910000), flopping/dealing/drawing cards
+! 05/05/18 12:25:33! 2 players
+! 05/05/18 12:25:33! Flopped cards: 9d 6h 8s
+! 05/05/18 12:26:00! StingRay checks
+! 05/05/18 12:26:43! Lets Go Red Sox bets $475000 
+! 05/05/18 12:27:29! StingRay calls 
+
+! 05/05/18 12:27:29! Pot right ($1860000), flopping/dealing/drawing cards
+! 05/05/18 12:27:29! 2 players
+! 05/05/18 12:27:29! Flopped card: 7d
+! 05/05/18 12:28:09! StingRay checks
+! 05/05/18 12:28:38! Lets Go Red Sox bets $800000 
+! 05/05/18 12:28:59! StingRay raises $9688325 to $10488325 total and is all in
+! 05/05/18 12:29:15! Lets Go Red Sox folds
+! Hand over, no showdown
+! Current board is:  9d 6h 8s 7d ?
+! StingRay wins $13148325 (net $1730000)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|>  Lets Go Red Sox          |14055350 |         |      |    |         |
+ 4|D  StingRay                 |13148325 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/j/j1.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+However, if there were prizes they would pay the top 63 entrants.
+The standings are now showing theoretical prizes if WRGPT were a
+10k event.
+
+======
+
+Live Redraw Status as of 05/05/18 12:25:01 PM
+
+Total Empty Seats: 8
+Total Playing Seats: 2
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman27@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

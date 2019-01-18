@@ -1,0 +1,108 @@
+
+! Table c23, Hand 145, Day 64
+
+! Bob bets $3300 
+! Ed Fernandez folds
+! jasong folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Ryan600                  | 122800 |    100 |folded|    |        |
+ 2|   Murtan                   |  33100 |    100 |folded|    |        |
+ 3|>  Bob                      |  86775 |   4200 |      |    |        |
+ 4|D  GestaltyDog              |  37300 |    100 |folded|    |        |
+ 5|   Ed Fernandez             |  40300 |    900 |folded|    |        |
+ 6|   jasong            |  25825 |    900 |folded|    |        |
+ 7|   MojoJojo                 | 206275 |    100 |folded|    |        |
+ 9|   the cake is a pie        |  18000 |    100 |folded|    |        |
+10|V  Walter Hunt              |  19650 |    100 |  0104|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 12/28/15 11:59:41! Dealing a new hand
+! 12/28/15 11:59:41! Everyone antes $100
+! 12/28/15 11:59:41! Ed Fernandez blinds $400
+! 12/28/15 11:59:41! jasong blinds $800
+! 12/28/15 12:01:30! MojoJojo folds
+! 12/28/15 12:01:30! the cake is a pie folds
+! 12/28/15 12:01:30! Walter Hunt is on vacation and folds
+! 12/28/15 13:46:10! Ryan600 folds
+! 12/28/15 13:46:10! Murtan folds
+! 12/28/15 15:21:39! Bob calls 
+! 12/28/15 15:21:39! GestaltyDog folds
+! 12/28/15 15:21:39! Ed Fernandez calls 
+! 12/28/15 15:21:39! jasong checks
+
+! 12/28/15 15:21:39! Pot right ($3300), flopping/dealing/drawing cards
+! 12/28/15 15:21:39! 3 players
+! 12/28/15 15:21:39! Flopped cards: Qh Qc 3s
+! 12/28/15 15:33:47! Ed Fernandez checks
+! 12/28/15 15:33:47! jasong checks
+! 12/28/15 15:39:34! Bob bets $3300 
+! 12/28/15 15:39:34! Ed Fernandez folds
+! 12/28/15 15:39:34! jasong folds
+! Hand over, no showdown
+! Current board is:  Qh Qc 3s ? ?
+! Bob wins $6600 (net $2400)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Ryan600                  | 122800 |        |      |    |        |
+ 2|   Murtan                   |  33100 |        |      |    |        |
+ 3|>  Bob                      |  93375 |        |      |    |        |
+ 4|   GestaltyDog              |  37300 |        |      |    |        |
+ 5|D  Ed Fernandez             |  40300 |        |      |    |        |
+ 6|   jasong            |  25825 |        |      |    |        |
+ 7|   MojoJojo                 | 206275 |        |      |    |        |
+ 9|   the cake is a pie        |  18000 |        |      |    |        |
+10|V  Walter Hunt              |  19650 |        |  0104|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 430 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c23.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the "c" round.
+
+======
+
+Live Redraw Status as of 12/28/15 03:25:02 PM
+
+Total Empty Seats: 27
+Total Playing Seats: 430
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman25@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

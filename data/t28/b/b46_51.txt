@@ -1,0 +1,121 @@
+Subject: [b46.10775] Holdem Game Broadcast Message(*)
+
+! Table b46, Hand 51, Day 35
+
+! Scoobs calls - side pot
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   skatesave                |   13525 |      25 |folded|    |         |
+ 2|   tx4allTheFish            |   23425 |      25 |folded|    |         |
+ 3|   Donald Neilson           |   56050 |      25 |folded|    |         |
+ 4|   scjansen                 |   61875 |      25 |folded|    |         |
+ 5|>  Scoobs                   |       0 |   61100 |all-in|  2 |    4300 |
+ 6|D  Svante Wester            |   81625 |     925 |folded|    |         |
+ 7|   SaucySlingo              |   55875 |     175 |folded|    |         |
+ 8|   Bob Brewster             |       0 |   58950 |all-in|  3 |  178050 |
+ 9|   Dr. Flush                |       0 |   61425 |all-in|  1 |     325 |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/16/18 08:52:19! Dealing a new hand
+! 12/16/18 08:52:19! Everyone antes $25
+! 12/16/18 08:52:19! SaucySlingo blinds $150
+! 12/16/18 08:52:19! Bob Brewster blinds $300
+! 12/16/18 08:58:52! Dr. Flush calls 
+! 12/16/18 09:35:33! skatesave folds
+! 12/16/18 09:35:33! tx4allTheFish folds
+! 12/16/18 09:43:53! Donald Neilson folds
+! 12/16/18 09:43:53! scjansen folds
+! 12/16/18 09:43:53! Scoobs raises $600 to $900 total 
+! 12/16/18 09:50:04! Svante Wester calls 
+! 12/16/18 09:56:00! SaucySlingo folds
+! 12/16/18 10:39:40! Bob Brewster calls 
+! 12/16/18 10:39:40! Dr. Flush calls 
+
+! 12/16/18 10:39:40! Pot right ($3975), flopping/dealing/drawing cards
+! 12/16/18 10:39:40! 4 players
+! 12/16/18 10:39:40! Flopped cards: 8c 4d As
+! 12/16/18 10:49:15! Bob Brewster checks
+! 12/16/18 10:59:08! Dr. Flush checks
+! 12/16/18 11:13:16! Scoobs bets $2000 
+! 12/16/18 11:14:08! Svante Wester folds
+! 12/16/18 11:17:58! Bob Brewster calls 
+! 12/16/18 11:19:27! Dr. Flush calls 
+
+! 12/16/18 11:19:27! Pot right ($9975), flopping/dealing/drawing cards
+! 12/16/18 11:19:27! 3 players
+! 12/16/18 11:19:27! Flopped card: 5h
+! 12/16/18 11:29:42! Bob Brewster checks
+! 12/16/18 11:31:23! Dr. Flush checks
+! 12/16/18 11:37:44! Scoobs bets $7000 
+! 12/16/18 11:49:09! Bob Brewster raises $8000 to $15000 total 
+! 12/16/18 12:00:39! Dr. Flush calls 
+! 12/16/18 12:16:07! Scoobs calls 
+
+! 12/16/18 12:16:07! Pot right ($54975), flopping/dealing/drawing cards
+! 12/16/18 12:16:07! 3 players
+! 12/16/18 12:16:07! Flopped card: Js
+! 12/16/18 12:23:34! Bob Brewster bets $41025 and is all in
+! 12/16/18 12:32:44! Dr. Flush raises $2475 to $43500 total and is all in
+! 12/16/18 12:34:28! Scoobs calls - side pot
+! Hand over, current board is:  8c 4d As 5h Js
+! Scoobs                   has: Ac Kc
+! Bob Brewster             has: 2s 3h
+! Dr. Flush                has: 8h 8d
+! Pot 1: uncalled $325 returned to Dr. Flush
+! Pot 2: Dr. Flush wins $4300 with Three of a Kind (8 8 8 A J)
+! Pot 3: Bob Brewster wins $178050 with Straight (5 4 3 2 A)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   skatesave                |   13525 |         |      |    |         |
+ 2|   tx4allTheFish            |   23425 |         |      |    |         |
+ 3|   Donald Neilson           |   56050 |         |      |    |         |
+ 4|   scjansen                 |   61875 |         |      |    |         |
+ 6|   Svante Wester            |   81625 |         |      |    |         |
+ 7|D  SaucySlingo              |   55875 |         |      |    |         |
+ 8|   Bob Brewster             |  178050 |         |      |    |         |
+ 9|   Dr. Flush                |    4625 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Scoobs is eliminated!
+! 469 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b46.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 16
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

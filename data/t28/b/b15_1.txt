@@ -1,0 +1,132 @@
+Subject: [b15.10027] Holdem Game Broadcast Message(*)
+
+! Table b15, Hand 1, Day 2
+
+! Clayaiken calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  Russ Fox                 |   49650 |     350 |folded|    |         |
+ 2|   Bob the Butcher          |   49925 |      75 |folded|    |         |
+ 3|   Rapidj                   |   48850 |    1150 |folded|    |         |
+ 4|   Brent Moore              |   50000 |       0 |folded|    |         |
+ 5|   Clayaiken                |   36850 |   13150 |      |    |         |
+ 6|   Oaktowndad               |   50000 |       0 |folded|    |         |
+ 7|   Mike Litoris             |   50000 |       0 |folded|    |         |
+ 8|   Fee Weasel               |   50000 |       0 |folded|    |         |
+ 9|>  Klod                     |   36850 |   13150 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/12/18 00:30:13! Rapidj is back from vacation
+! 11/12/18 03:01:12! Fee Weasel is back from vacation
+! 11/12/18 05:40:49! Bob the Butcher is back from vacation
+! 11/12/18 07:02:37! Russ Fox is back from vacation
+! 11/12/18 07:08:52! Klod is back from vacation
+! 11/12/18 07:56:35! Oaktowndad is back from vacation
+! 11/12/18 08:17:53! Clayaiken is back from vacation
+! 11/12/18 08:31:49! Mike Litoris is back from vacation
+! 11/12/18 12:26:22! Brent Moore is back from vacation
+! 11/12/18 12:26:23! Dealing a new hand
+! 11/12/18 12:26:23! No ante
+! 11/12/18 12:26:23! Bob the Butcher blinds $75
+! 11/12/18 12:26:23! Rapidj blinds $150
+! 11/12/18 12:33:32! Brent Moore folds
+! 11/12/18 12:43:52! Clayaiken raises $200 to $350 total 
+! 11/12/18 13:07:48! Oaktowndad folds
+! 11/12/18 16:09:32! Mike Litoris folds
+! 11/12/18 16:09:32! Fee Weasel folds
+! 11/12/18 16:09:32! Klod calls 
+! 11/13/18 07:20:38! Russ Fox calls 
+! 11/13/18 07:20:38! Bob the Butcher folds
+! 11/13/18 07:22:34! Rapidj calls 
+
+! 11/13/18 07:22:34! Pot right ($1475), flopping/dealing/drawing cards
+! 11/13/18 07:22:34! 4 players
+! 11/13/18 07:22:34! Flopped cards: 8d Jd 5d
+! 11/13/18 07:23:05! Rapidj checks
+! 11/13/18 07:24:12! Clayaiken bets $800 
+! 11/13/18 07:25:51! Klod calls 
+! 11/13/18 07:48:30! Russ Fox folds
+! 11/13/18 08:10:44! Rapidj calls 
+
+! 11/13/18 08:10:44! Pot right ($3875), flopping/dealing/drawing cards
+! 11/13/18 08:10:44! 3 players
+! 11/13/18 08:10:44! Flopped card: 9s
+! 11/13/18 08:11:38! Rapidj checks
+! 11/13/18 08:42:58! Clayaiken bets $2000 
+! 11/13/18 10:16:51! Klod calls 
+! 11/13/18 10:16:51! Rapidj folds
+
+! 11/13/18 10:16:51! Pot right ($7875), flopping/dealing/drawing cards
+! 11/13/18 10:16:51! 2 players
+! 11/13/18 10:16:51! Flopped card: 7d
+! 11/13/18 10:52:36! Clayaiken bets $3900 
+! 11/13/18 11:02:23! Klod raises $6100 to $10000 total 
+! 11/13/18 11:17:33! Clayaiken calls 
+! Hand over, current board is:  8d Jd 5d 9s 7d
+! Clayaiken                has: Js Kd
+! Klod                     has: 10h Ad
+! Klod wins $27875 (net $14725) with Diamond Flush (A J 8 7 5)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Russ Fox                 |   49650 |         |      |    |         |
+ 2|D  Bob the Butcher          |   49925 |         |      |    |         |
+ 3|   Rapidj                   |   48850 |         |      |    |         |
+ 4|   Brent Moore              |   50000 |         |      |    |         |
+ 5|   Clayaiken                |   36850 |         |      |    |         |
+ 6|   Oaktowndad               |   50000 |         |      |    |         |
+ 7|   Mike Litoris             |   50000 |         |      |    |         |
+ 8|   Fee Weasel               |   50000 |         |      |    |         |
+ 9|>  Klod                     |   64725 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 589 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b15.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 3
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,116 @@
+Message-Id: <201201021041.q02AfwFn028266@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [b35.10431] Holdem Game Broadcast Message(*)                          
+
+! Table b35, Hand 37, Day 50
+
+! Kina Grannis calls - side pot
+! Pot right ($57625), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped card: 8c
+! Flopped card: Qh
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   NS                       |  26100 |     50 |folded|    |        |
+ 2|   Craig N. Boyle           |  31000 |     50 |folded|    |        |
+ 3|D  berj kacherian           |  26900 |     50 |folded|    |        |
+ 4|   jasong            |  15950 |    450 |folded|    |        |
+ 5|>  Kina Grannis             |      0 |  22625 |all-in|  2 |  46850 |
+ 6|   Willy Eckerslyke         |  31050 |     50 |folded|    |        |
+ 7|   Chris Learmonth          |  22850 |    450 |folded|    |        |
+ 8|   Robert Odell             |  54025 |    450 |folded|    |        |
+ 9|   StingRay                 |      0 |  33400 |all-in|  1 |  10775 |
+10|   Caryl Aronson            |  41950 |     50 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 12/31/11 09:57:52! Dealing a new hand
+! 12/31/11 09:57:52! Everyone antes $50
+! 12/31/11 09:57:52! jasong blinds $200
+! 12/31/11 09:57:52! Kina Grannis blinds $400
+! 12/31/11 10:37:31! Willy Eckerslyke folds
+_____________________________________________________________________________
+
+! Happy new year from Edinburgh
+! -- Chris Learmonth --
+_____________________________________________________________________________
+
+! 12/31/11 17:56:30! Chris Learmonth calls 
+! 12/31/11 17:56:30! Robert Odell calls 
+! 12/31/11 17:56:30! StingRay calls 
+! 12/31/11 17:56:30! Caryl Aronson folds
+! 12/31/11 17:56:30! NS folds
+! 12/31/11 17:56:30! Craig N. Boyle folds
+! 01/01/12 11:58:10! berj kacherian folds
+! 01/01/12 11:58:10! jasong calls 
+! 01/01/12 13:22:48! Kina Grannis raises $2500 
+! 01/01/12 13:55:23! Chris Learmonth folds
+! 01/01/12 14:27:32! Robert Odell folds
+! 01/01/12 18:17:04! StingRay calls 
+! 01/01/12 20:31:17! jasong folds
+
+! 01/01/12 20:31:17! Pot right ($7500), flopping/dealing/drawing cards
+! 01/01/12 20:31:17! 2 players
+! 01/01/12 20:31:17! Flopped cards: 5s 10s 9d
+! 01/02/12 02:41:25! Kina Grannis bets $7500 
+! 01/02/12 02:41:25! StingRay raises $22950 and is all in
+! 01/02/12 02:41:58! Kina Grannis calls - side pot
+
+! 01/02/12 02:41:58! Pot right ($57625), flopping/dealing/drawing cards
+! 01/02/12 02:41:58! 2 players, 2 all in
+! 01/02/12 02:41:58! Flopped card: 8c
+! 01/02/12 02:41:58! Flopped card: Qh
+! Hand over, current board is:  5s 10s 9d 8c Qh
+! Kina Grannis             has: Jh Jd
+! StingRay                 has: Kh 10h
+! Pot 1: uncalled $10775 returned to StingRay
+! Pot 2: Kina Grannis wins $46850 with Straight (Q J 10 9 8)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   NS                       |  26100 |        |      |    |        |
+ 2|   Craig N. Boyle           |  31000 |        |      |    |        |
+ 3|   berj kacherian           |  26900 |        |      |    |        |
+ 4|D  jasong            |  15950 |        |      |    |        |
+ 5|>  Kina Grannis             |  46850 |        |      |    |        |
+ 6|   Willy Eckerslyke         |  31050 |        |      |    |        |
+ 7|   Chris Learmonth          |  22850 |        |      |    |        |
+ 8|   Robert Odell             |  54025 |        |      |    |        |
+ 9|   StingRay                 |  10775 |        |      |    |        |
+10|   Caryl Aronson            |  41950 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 643 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b35.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+There will be no more live redraws for the "b" round.
+When a table gets below six players all tables will finish
+the current hand and a full redraw will occur.
+
+Having problems? Send email to floorman21@wrgpt.org.
+
+Live Redraw Status as of 01/02/12 02:25:01 AM
+
+Total Empty Seats: 27
+Total Playing Seats: 643
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+

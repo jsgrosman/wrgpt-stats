@@ -1,0 +1,91 @@
+Message-Id: <201202212124.q1LLOT7o013517@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [d15.10008] Holdem Game Broadcast Message(*)                          
+
+! Table d15, Hand 119, Day 100
+
+! Michael Proteau folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|D  rxshep                   |   9600 |    300 |folded|    |        |
+ 2|   Joshua Koppelman         |  72000 |   1300 |folded|    |        |
+ 3|>  JRX                      |  42850 |  10300 |      |    |        |
+ 4|   BigServerGuy             |  30975 |    300 |folded|    |        |
+ 5|   Chris Mecklin            |  37200 |    300 |folded|    |        |
+ 6|   BoneMPN                  |  45900 |    300 |folded|    |        |
+ 7|   jasong            |   2000 |    300 |folded|    |        |
+ 8|   Swamper_phxgators        |  18800 |    300 |folded|    |        |
+ 9|   Witty Nickname           | 137625 |    300 |folded|    |        |
+10|   Michael Proteau          | 106525 |   2300 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 02/20/12 13:56:21! Dealing a new hand
+! 02/20/12 13:56:21! Everyone antes $300
+! 02/20/12 13:56:21! Joshua Koppelman blinds $1000
+! 02/20/12 13:56:21! JRX blinds $2000
+! 02/21/12 00:02:50! BigServerGuy folds
+! 02/21/12 00:02:50! Chris Mecklin folds
+! 02/21/12 08:18:37! BoneMPN folds
+! 02/21/12 08:18:37! jasong folds
+! 02/21/12 08:18:37! Swamper_phxgators folds
+! 02/21/12 08:19:26! Witty Nickname folds
+! 02/21/12 08:25:18! Michael Proteau calls 
+! 02/21/12 12:24:26! rxshep folds
+! 02/21/12 12:24:26! Joshua Koppelman folds
+! 02/21/12 12:50:22! JRX checks
+
+! 02/21/12 12:50:22! Pot right ($8000), flopping/dealing/drawing cards
+! 02/21/12 12:50:22! 2 players
+! 02/21/12 12:50:22! Flopped cards: 2d Kh 8c
+! 02/21/12 12:51:08! JRX bets $8000 
+! 02/21/12 13:24:28! Michael Proteau folds
+! Hand over, no showdown
+! Current board is:  2d Kh 8c ? ?
+! JRX wins $16000 (net $5700)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   rxshep                   |   9600 |        |      |    |        |
+ 2|D  Joshua Koppelman         |  72000 |        |      |    |        |
+ 3|>  JRX                      |  58850 |        |      |    |        |
+ 4|   BigServerGuy             |  30975 |        |      |    |        |
+ 5|   Chris Mecklin            |  37200 |        |      |    |        |
+ 6|   BoneMPN                  |  45900 |        |      |    |        |
+ 7|   jasong            |   2000 |        |      |    |        |
+ 8|   Swamper_phxgators        |  18800 |        |      |    |        |
+ 9|   Witty Nickname           | 137625 |        |      |    |        |
+10|   Michael Proteau          | 106525 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 349 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d15.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+
+Having problems? Send email to floorman21@wrgpt.org.
+
+Live Redraw Status as of 02/21/12 12:55:02 PM
+
+Total Empty Seats: 1
+Total Playing Seats: 349
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+

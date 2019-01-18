@@ -1,0 +1,122 @@
+Subject: [b9.10190] Holdem Game Broadcast Message(*)
+
+! Table b9, Hand 16, Day 13
+
+! indiansquib calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   drjeys                   |   51975 |      75 |folded|    |         |
+ 2|>  BrownTrout               |   48775 |    1950 |      |    |         |
+ 3|   J. Michael Robertson     |   50000 |       0 |folded|    |         |
+ 4|   Stray Taoist             |   51200 |       0 |folded|    |         |
+ 5|   Ed Fernandez             |   48950 |       0 |folded|    |         |
+ 6|   Jeff Goff                |   50000 |       0 |New   |    |         |
+ 7|   Michael Rankin           |   50425 |     450 |folded|    |         |
+ 8|   danthefan                |  100575 |       0 |folded|    |         |
+ 9|D  indiansquib              |   43675 |    1950 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/23/18 08:31:49! Dealing a new hand
+! 11/23/18 08:31:49! No ante
+! 11/23/18 08:31:49! drjeys blinds $75
+! 11/23/18 08:31:49! BrownTrout blinds $150
+! 11/23/18 08:43:55! J. Michael Robertson folds
+! 11/23/18 08:55:04! New player added to the table: Jeff Goff
+! 11/23/18 11:53:20! Stray Taoist folds
+! 11/23/18 11:53:20! Ed Fernandez folds
+! 11/23/18 17:00:26! Michael Rankin calls 
+! 11/23/18 17:00:26! danthefan folds
+! 11/23/18 18:18:56! indiansquib raises $150 to $300 total 
+! 11/23/18 18:18:56! drjeys folds
+! 11/23/18 19:33:12! BrownTrout calls 
+! 11/23/18 19:35:45! Michael Rankin calls 
+
+! 11/23/18 19:35:45! Pot right ($975), flopping/dealing/drawing cards
+! 11/23/18 19:35:45! 3 players
+! 11/23/18 19:35:45! Flopped cards: 8d 7c 8s
+! 11/23/18 21:34:15! BrownTrout checks
+! 11/23/18 23:08:04! Michael Rankin checks
+! 11/24/18 04:10:58! indiansquib bets $150 
+! 11/24/18 10:38:26! BrownTrout calls 
+! 11/24/18 15:07:24! Michael Rankin calls 
+
+! 11/24/18 15:07:24! Pot right ($1425), flopping/dealing/drawing cards
+! 11/24/18 15:07:24! 3 players
+! 11/24/18 15:07:24! Flopped card: 4h
+! 11/24/18 16:30:12! BrownTrout bets $500 
+! 11/24/18 18:46:13! Michael Rankin folds
+! 11/24/18 19:02:20! indiansquib calls 
+
+! 11/24/18 19:02:20! Pot right ($2425), flopping/dealing/drawing cards
+! 11/24/18 19:02:20! 2 players
+! 11/24/18 19:02:20! Flopped card: Js
+! 11/24/18 20:25:28! BrownTrout bets $1000 
+! 11/24/18 20:34:12! indiansquib calls 
+! Hand over, current board is:  8d 7c 8s 4h Js
+! BrownTrout               has: Qd 10c
+! indiansquib              has: Qs Qh
+! indiansquib wins $4425 (net $2475) with Two Pair (Q Q 8 8 J)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  drjeys                   |   51975 |         |      |    |         |
+ 2|>  BrownTrout               |   48775 |         |      |    |         |
+ 3|   J. Michael Robertson     |   50000 |         |      |    |         |
+ 4|   Stray Taoist             |   51200 |         |      |    |         |
+ 5|   Ed Fernandez             |   48950 |         |      |    |         |
+ 6|   Jeff Goff                |   50000 |         |      |    |         |
+ 7|   Michael Rankin           |   50425 |         |      |    |         |
+ 8|   danthefan                |  100575 |         |      |    |         |
+ 9|   indiansquib              |   48100 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 564 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b9.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 3
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

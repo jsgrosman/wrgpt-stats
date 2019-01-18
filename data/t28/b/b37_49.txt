@@ -1,0 +1,111 @@
+Subject: [b37.10591] Holdem Game Broadcast Message(*)
+
+! Table b37, Hand 49, Day 37
+
+! ShortStack checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Tom Abraham              |  121675 |      25 |folded|    |         |
+ 2|   Charlie Tuna             |   48100 |      25 |folded|    |         |
+ 3|   MichaelJ                 |   41050 |      25 |folded|    |         |
+ 4|D  Tom Bayz                 |   56600 |      25 |folded|    |         |
+ 5|>  SaucyJim                 |   32875 |    4525 |      |    |         |
+ 6|   ShortStack               |   46375 |    4525 |      |    |         |
+ 7|   Ben Buchwald             |  108750 |      25 |folded|    |         |
+ 8|   Rkal                     |   98625 |      25 |folded|    |         |
+ 9|   Mother Speaks            |   52200 |      25 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/17/18 12:36:57! Dealing a new hand
+! 12/17/18 12:36:57! Everyone antes $25
+! 12/17/18 12:36:57! SaucyJim blinds $150
+! 12/17/18 12:36:57! ShortStack blinds $300
+! 12/17/18 13:50:17! Ben Buchwald folds
+! 12/17/18 13:50:17! Rkal folds
+! 12/17/18 13:50:17! Mother Speaks folds
+! 12/17/18 13:50:17! Tom Abraham folds
+! 12/17/18 14:41:08! Charlie Tuna folds
+! 12/17/18 14:59:13! MichaelJ folds
+! 12/17/18 22:46:24! Tom Bayz folds
+! 12/18/18 07:34:20! SaucyJim calls 
+! 12/18/18 07:37:02! ShortStack raises $600 to $900 total 
+! 12/18/18 07:44:29! SaucyJim calls 
+
+! 12/18/18 07:44:29! Pot right ($2025), flopping/dealing/drawing cards
+! 12/18/18 07:44:29! 2 players
+! 12/18/18 07:44:29! Flopped cards: 9h 7d 6c
+! 12/18/18 07:45:30! SaucyJim checks
+! 12/18/18 08:38:47! ShortStack bets $1200 
+! 12/18/18 10:58:19! SaucyJim calls 
+
+! 12/18/18 10:58:19! Pot right ($4425), flopping/dealing/drawing cards
+! 12/18/18 10:58:19! 2 players
+! 12/18/18 10:58:19! Flopped card: 7s
+! 12/18/18 11:01:21! SaucyJim checks
+! 12/18/18 11:02:51! ShortStack bets $2400 
+! 12/18/18 11:04:32! SaucyJim calls 
+
+! 12/18/18 11:04:32! Pot right ($9225), flopping/dealing/drawing cards
+! 12/18/18 11:04:32! 2 players
+! 12/18/18 11:04:32! Flopped card: Kd
+! 12/18/18 11:51:21! SaucyJim checks
+! 12/18/18 11:59:57! ShortStack checks
+! Hand over, current board is:  9h 7d 6c 7s Kd
+! SaucyJim                 has: 10h 6h
+! ShortStack               has: 9s Qh
+! ShortStack wins $9225 (net $4700) with Two Pair (9 9 7 7 K)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Tom Abraham              |  121675 |         |      |    |         |
+ 2|   Charlie Tuna             |   48100 |         |      |    |         |
+ 3|   MichaelJ                 |   41050 |         |      |    |         |
+ 4|   Tom Bayz                 |   56600 |         |      |    |         |
+ 5|D> SaucyJim                 |   32875 |         |      |    |         |
+ 6|   ShortStack               |   55600 |         |      |    |         |
+ 7|   Ben Buchwald             |  108750 |         |      |    |         |
+ 8|   Rkal                     |   98625 |         |      |    |         |
+ 9|   Mother Speaks            |   52200 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 460 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b37.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 7
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

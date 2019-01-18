@@ -1,0 +1,101 @@
+Message-Id: <201001132133.o0DLXTbw009354@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [c18.10061] Holdem Game Broadcast Message(*)                          
+
+! Table c18, Hand 54, Day 59
+
+! J Spencer folds
+! JB folds
+! Senor Sheep folds
+! jcommand folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Levi                     |  23150 |     50 |folded|    |        |
+ 2|>  Widowmaker               |  65350 |   1750 |      |    |        |
+ 3|   UKPOKER                  |  25000 |     50 |folded|    |        |
+ 4|   J Spencer                |  18050 |    950 |folded|    |        |
+ 5|   Vike                     |  23000 |     50 |folded|    |        |
+ 6|D  JB                       |  59400 |    950 |folded|    |        |
+ 7|   jasong            |  30750 |    250 |folded|    |        |
+ 8|   Senor Sheep              |  28900 |    950 |folded|    |        |
+ 9|   Brian K                  |  54800 |     50 |folded|    |        |
+10|   jcommand                 |  25775 |    950 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 01/12/10 19:32:50! Dealing a new hand
+! 01/12/10 19:32:50! Everyone antes $50
+! 01/12/10 19:32:50! jasong blinds $200
+! 01/12/10 19:32:50! Senor Sheep blinds $400
+! 01/13/10 02:21:05! Brian K folds
+! 01/13/10 07:32:17! jcommand calls 
+! 01/13/10 07:32:17! Levi folds
+! 01/13/10 07:36:23! Widowmaker raises $500 
+! 01/13/10 07:36:23! UKPOKER folds
+! 01/13/10 09:13:34! J Spencer calls 
+! 01/13/10 09:13:34! Vike folds
+! 01/13/10 10:05:10! JB calls 
+! 01/13/10 10:05:10! jasong folds
+! 01/13/10 10:17:45! Senor Sheep calls 
+! 01/13/10 10:20:23! jcommand calls 
+
+! 01/13/10 10:20:23! Pot right ($5200), flopping/dealing/drawing cards
+! 01/13/10 10:20:23! 5 players
+! 01/13/10 10:20:23! Flopped cards: 5h Jc Qd
+! 01/13/10 10:46:32! Senor Sheep checks
+! 01/13/10 10:46:32! jcommand checks
+! 01/13/10 11:02:59! Widowmaker bets $800 
+! 01/13/10 13:33:28! J Spencer folds
+! 01/13/10 13:33:28! JB folds
+! 01/13/10 13:33:28! Senor Sheep folds
+! 01/13/10 13:33:28! jcommand folds
+! Hand over, no showdown
+! Current board is:  5h Jc Qd ? ?
+! Widowmaker wins $6000 (net $4250)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Levi                     |  23150 |        |      |    |        |
+ 2|>  Widowmaker               |  71350 |        |      |    |        |
+ 3|   UKPOKER                  |  25000 |        |      |    |        |
+ 4|   J Spencer                |  18050 |        |      |    |        |
+ 5|   Vike                     |  23000 |        |      |    |        |
+ 6|   JB                       |  59400 |        |      |    |        |
+ 7|D  jasong            |  30750 |        |      |    |        |
+ 8|   Senor Sheep              |  28900 |        |      |    |        |
+ 9|   Brian K                  |  54800 |        |      |    |        |
+10|   jcommand                 |  25775 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 787 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c18.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Good luck in the second round.
+
+Try to send your action in before it is your turn so keep
+play moving quickly.
+
+Live Redraw Status as of 01/13/10 01:25:02 PM
+
+Total Empty Seats: 26
+Total Playing Seats: 787
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org or follow "wrgpt" on Twitter.
+

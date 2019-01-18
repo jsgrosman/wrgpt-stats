@@ -1,0 +1,97 @@
+Message-Id: <200912291754.nBTHsnu4027911@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [b50.10302] Holdem Game Broadcast Message(*)                          
+
+! Table b50, Hand 29, Day 44
+
+! Kold Call bets $750 
+! Mar Anderson is on vacation and folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|V  Mar Anderson             |  31900 |    450 |28 Dec|    |        |
+ 2|   Argus                    |  27250 |     50 |folded|    |        |
+ 3|   Jack Walsh               |  27900 |     50 |folded|    |        |
+ 4|   GP                       |  24850 |     50 |folded|    |        |
+ 5|V  Annika                   |  26300 |     50 |<AWOL>|    |        |
+ 6|>  Kold Call                |  34550 |   1200 |      |    |        |
+ 7|   Super Rock               |  28950 |     50 |folded|    |        |
+ 8|V  Brett Holz               |  31000 |     50 |<AWOL>|    |        |
+ 9|D  Woody Myers              |  32800 |     50 |folded|    |        |
+10|   jasong            |  32250 |    250 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 12/28/09 16:17:17! Dealing a new hand
+! 12/28/09 16:17:17! Everyone antes $50
+! 12/28/09 16:17:17! jasong blinds $200
+! 12/28/09 16:17:17! Mar Anderson blinds $400
+! 12/28/09 18:16:39! Argus folds
+! 12/28/09 18:16:39! Jack Walsh folds
+! 12/28/09 18:16:39! GP folds
+! 12/28/09 18:16:39! Annika is on vacation and folds
+! 12/28/09 18:16:39! Kold Call calls 
+! 12/28/09 21:52:18! Super Rock folds
+! 12/28/09 21:52:18! Brett Holz is on vacation and folds
+! 12/29/09 07:37:58! Woody Myers folds
+! 12/29/09 07:37:58! jasong folds
+! 12/29/09 07:37:58! Mar Anderson is on vacation and checks
+
+! 12/29/09 07:37:58! Pot right ($1500), flopping/dealing/drawing cards
+! 12/29/09 07:37:58! 2 players
+! 12/29/09 07:37:58! Flopped cards: Ad 9h 7h
+! 12/29/09 07:37:58! Mar Anderson is on vacation and checks
+! 12/29/09 09:54:08! Kold Call checks
+
+! 12/29/09 09:54:08! Pot right ($1500), flopping/dealing/drawing cards
+! 12/29/09 09:54:08! 2 players
+! 12/29/09 09:54:08! Flopped card: 6s
+! 12/29/09 09:54:08! Mar Anderson is on vacation and checks
+! 12/29/09 09:54:47! Kold Call bets $750 
+! 12/29/09 09:54:47! Mar Anderson is on vacation and folds
+! Hand over, no showdown
+! Current board is:  Ad 9h 7h 6s ?
+! Kold Call wins $2250 (net $1050)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|V  Mar Anderson             |  31900 |        |28 Dec|    |        |
+ 2|   Argus                    |  27250 |        |      |    |        |
+ 3|   Jack Walsh               |  27900 |        |      |    |        |
+ 4|   GP                       |  24850 |        |      |    |        |
+ 5|V  Annika                   |  26300 |        |<AWOL>|    |        |
+ 6|>  Kold Call                |  36800 |        |      |    |        |
+ 7|   Super Rock               |  28950 |        |      |    |        |
+ 8|V  Brett Holz               |  31000 |        |<AWOL>|    |        |
+ 9|   Woody Myers              |  32800 |        |      |    |        |
+10|D  jasong            |  32250 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 843 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b50.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Reminder: December 24 through January 3 are WRGPT19 Holidays.
+
+Live Redraw Status as of 12/29/09 09:25:02 AM
+
+Total Empty Seats: 47
+Total Playing Seats: 843
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org or follow "wrgpt" on Twitter.
+

@@ -1,0 +1,96 @@
+Message-Id: <201011081706.oA8H6ijL009813@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [b20.10134] Holdem Game Broadcast Message(*)                          
+
+! Table b20, Hand 11, Day 8
+
+! JackBlack folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|>  Andrew Nelson            |  30400 |   4000 |      |    |        |
+ 2|D  plankton                 |  52075 |      0 |folded|    |        |
+ 4|V  Late Entry 2             |  29700 |     50 | NoSho|    |        |
+ 5|   JackBlack                |  22275 |   1500 |folded|    |        |
+ 6|   wlu_lax6                 |  33500 |    500 |folded|    |        |
+ 7|V  Cyberchomp               |  29850 |      0 |NOV 10|    |        |
+ 8|   jasong            |  36225 |      0 |folded|    |        |
+ 9|   dBeau                    |  29925 |      0 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 11/08/10 07:01:05! Dealing a new hand
+! 11/08/10 07:01:05! No ante
+! 11/08/10 07:01:05! Late Entry 2 blinds $50
+! 11/08/10 07:01:05! JackBlack blinds $100
+! 11/08/10 07:16:21! wlu_lax6 calls 
+! 11/08/10 07:16:21! Cyberchomp is on vacation and folds
+! 11/08/10 07:38:06! jasong folds
+! 11/08/10 07:49:04! dBeau folds
+! 11/08/10 07:50:07! Andrew Nelson calls 
+! 11/08/10 07:50:07! plankton folds
+! 11/08/10 07:50:07! Late Entry 2 is on vacation and folds
+! 11/08/10 07:51:15! JackBlack raises $400 
+! 11/08/10 07:54:55! wlu_lax6 calls 
+! 11/08/10 08:08:57! Andrew Nelson calls 
+
+! 11/08/10 08:08:57! Pot right ($1550), flopping/dealing/drawing cards
+! 11/08/10 08:08:57! 3 players
+! 11/08/10 08:08:57! Flopped cards: 10h Qs 6s
+! 11/08/10 08:11:18! JackBlack bets $1000 
+! 11/08/10 08:12:42! wlu_lax6 folds
+! 11/08/10 08:14:13! Andrew Nelson raises $2500 
+! 11/08/10 09:06:44! JackBlack folds
+! Hand over, no showdown
+! Current board is:  10h Qs 6s ? ?
+! Andrew Nelson wins $6050 (net $2050)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|>  Andrew Nelson            |  36450 |        |      |    |        |
+ 2|   plankton                 |  52075 |        |      |    |        |
+ 4|DV Late Entry 2             |  29700 |        | NoSho|    |        |
+ 5|   JackBlack                |  22275 |        |      |    |        |
+ 6|   wlu_lax6                 |  33500 |        |      |    |        |
+ 7|V  Cyberchomp               |  29850 |        |NOV 10|    |        |
+ 8|   jasong            |  36225 |        |      |    |        |
+ 9|   dBeau                    |  29925 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 878 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b20.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to WRGPT20.
+This is the real tourney.
+Good luck.
+
+Changes to email or hours of play made in the practice round to NOT carry over
+to the real tourney.  You will need to set them again if you set them for
+the practice round.
+
+If you have problems send mail to floorman20@wrgpt.org.
+
+
+Live Redraw Status as of 11/08/10 08:55:01 AM
+
+Total Empty Seats: 22
+Total Playing Seats: 878
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org or follow "wrgpt" on Twitter.
+

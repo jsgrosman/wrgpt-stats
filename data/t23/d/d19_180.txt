@@ -1,0 +1,109 @@
+Message-Id: <201403111855.s2BIt4Yg003359@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [d19.10257] Holdem Game Broadcast Message(*)                          
+
+! Table d19, Hand 180, Day 121
+
+! Luigi Barone folds
+! Indiansquib folds
+! smak folds
+! Pot right ($83550), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped cards: 9c Qc Qs
+! Flopped card: 10c
+! Flopped card: 7s
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Shawn Pope               | 185950 |    400 |folded|    |        |
+ 2|   jasong            |      0 |  38175 |all-in|    |        |
+ 3|   bluecandy                | 131400 |    400 |folded|    |        |
+ 4|>  Berglar                  |  25475 |  38175 |      |    |        |
+ 5|   Joe Nadeau               | 376750 |    400 |folded|    |        |
+ 7|D  Luigi Barone             |  38500 |    400 |folded|    |        |
+ 9|   Indiansquib              | 219225 |   2000 |folded|    |        |
+10|   smak                     |  34300 |   3600 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 03/11/14 05:59:48! Dealing a new hand
+! 03/11/14 05:59:48! Everyone antes $400
+! 03/11/14 05:59:48! Indiansquib blinds $1600
+! 03/11/14 05:59:48! smak blinds $3200
+! 03/11/14 07:46:23! Shawn Pope folds
+! 03/11/14 07:46:23! jasong raises $34575 and is all in
+! 03/11/14 07:51:36! bluecandy folds
+! 03/11/14 08:20:09! Berglar calls 
+! 03/11/14 09:15:36! Joe Nadeau folds
+! 03/11/14 11:55:03! Luigi Barone folds
+! 03/11/14 11:55:03! Indiansquib folds
+! 03/11/14 11:55:03! smak folds
+
+! 03/11/14 11:55:03! Pot right ($83550), flopping/dealing/drawing cards
+! 03/11/14 11:55:03! 2 players, 1 all in
+! 03/11/14 11:55:03! Flopped cards: 9c Qc Qs
+! 03/11/14 11:55:03! Flopped card: 10c
+! 03/11/14 11:55:03! Flopped card: 7s
+! Hand over, current board is:  9c Qc Qs 10c 7s
+! jasong            has: 8h 8d
+! Berglar                  has: Ad Kd
+! jasong wins $83550 (net $45375) with Two Pair (Q Q 8 8 10)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Shawn Pope               | 185950 |        |      |    |        |
+ 2|   jasong            |  83550 |        |      |    |        |
+ 3|   bluecandy                | 131400 |        |      |    |        |
+ 4|>  Berglar                  |  25475 |        |      |    |        |
+ 5|   Joe Nadeau               | 376750 |        |      |    |        |
+ 7|   Luigi Barone             |  38500 |        |      |    |        |
+ 9|D  Indiansquib              | 219225 |        |      |    |        |
+10|   smak                     |  34300 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 220 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d19.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+NOTE:
+
+Daylight savings time is now in effect in the server's time zone.
+Please adjust your START time if necessary.
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+Here is a link to the railbird mailing list:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman23@wrgpt.org.
+
+Live Redraw Status as of 03/11/14 11:55:01 AM
+
+Total Empty Seats: 10
+Total Playing Seats: 220
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

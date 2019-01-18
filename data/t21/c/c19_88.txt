@@ -1,0 +1,123 @@
+Message-Id: <201202032012.q13KCl8R015687@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [c19.10170] Holdem Game Broadcast Message(*)                          
+
+! Table c19, Hand 88, Day 82
+
+! PrestoET raises $53750 and is all in
+! Pot right ($90650), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped card: Jc
+! Flopped card: 2d
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Dalai Pookah             |      0 |  16850 |all-in|  2 |  36900 |
+ 2|   swamper wlu_lax6         | 172850 |    100 |folded|    |        |
+ 3|D> PrestoET                 |      0 |  70600 |all-in|  1 |  53750 |
+ 4|   Paul McMullin            |  44650 |    500 |folded|    |        |
+ 5|   lameO                    |  51750 |   2100 |folded|    |        |
+ 6|   jasong            |   3550 |    100 |folded|    |        |
+ 7|   TacoChuck                |  88825 |    100 |folded|    |        |
+ 8|   Anshu                    |  69350 |    100 |folded|    |        |
+ 9|   bozo                     |  21300 |    100 |folded|    |        |
+10|   Linzk425                 |  26150 |    100 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 02/03/12 00:15:08! Dealing a new hand
+! 02/03/12 00:15:08! Everyone antes $100
+! 02/03/12 00:15:08! Paul McMullin blinds $400
+! 02/03/12 00:15:08! lameO blinds $800
+! 02/03/12 04:09:31! jasong folds
+! 02/03/12 06:01:08! TacoChuck folds
+! 02/03/12 06:01:08! Anshu folds
+! 02/03/12 06:46:29! bozo folds
+! 02/03/12 06:46:29! Linzk425 folds
+! 02/03/12 07:44:26! Dalai Pookah raises $1200 
+! 02/03/12 07:55:57! swamper wlu_lax6 folds
+! 02/03/12 07:58:23! PrestoET calls 
+! 02/03/12 07:58:23! Paul McMullin folds
+! 02/03/12 09:42:04! lameO calls 
+
+! 02/03/12 09:42:04! Pot right ($7400), flopping/dealing/drawing cards
+! 02/03/12 09:42:04! 3 players
+! 02/03/12 09:42:04! Flopped cards: 9c Js 5h
+! 02/03/12 09:42:52! lameO checks
+! 02/03/12 09:52:47! Dalai Pookah checks
+! 02/03/12 10:23:28! PrestoET bets $5000 
+! 02/03/12 11:38:23! lameO folds
+! 02/03/12 11:54:19! Dalai Pookah raises $9750 and is all in
+! 02/03/12 12:12:46! PrestoET raises $53750 and is all in
+
+! 02/03/12 12:12:46! Pot right ($90650), flopping/dealing/drawing cards
+! 02/03/12 12:12:46! 2 players, 2 all in
+! 02/03/12 12:12:46! Flopped card: Jc
+! 02/03/12 12:12:46! Flopped card: 2d
+! Hand over, current board is:  9c Js 5h Jc 2d
+! Dalai Pookah             has: Jh Jd
+! PrestoET                 has: 8d 10c
+! Pot 1: uncalled $53750 returned to PrestoET
+! Pot 2: Dalai Pookah wins $36900 with Four of a Kind (J J J J 9)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Dalai Pookah             |  36900 |        |      |    |        |
+ 2|   swamper wlu_lax6         | 172850 |        |      |    |        |
+ 3|>  PrestoET                 |  53750 |        |      |    |        |
+ 4|D  Paul McMullin            |  44650 |        |      |    |        |
+ 5|   lameO                    |  51750 |        |      |    |        |
+ 6|   jasong            |   3550 |        |      |    |        |
+ 7|   TacoChuck                |  88825 |        |      |    |        |
+ 8|   Anshu                    |  69350 |        |      |    |        |
+ 9|   bozo                     |  21300 |        |      |    |        |
+10|   Linzk425                 |  26150 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 454 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c19.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+The dealer had problems starting the afternoon of 1/30.
+It may take a day or two for everything to normalize.
+
+MANY tables had HANDS MISDEALT and a new hand RESTARTED
+with the same HAND NUMBER.  This is obviously not right.
+However, play the NEW cards sent and consider the first
+cards sent a misdeal.
+
+A status command "WHAT" is being sent to all players
+so that confusion is helped.
+
+If you are still not sure please send a WHAT command to 
+make sure you are acting on the correct hand with the 
+correct cards.
+
+Timeouts will be no longer disabled.  Please play quickly
+as a courtesy to the other players at your table.
+
+Having problems? Send email to floorman21@wrgpt.org.
+
+Live Redraw Status as of 02/03/12 11:55:01 AM
+
+Total Empty Seats: 16
+Total Playing Seats: 454
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+

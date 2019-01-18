@@ -1,0 +1,129 @@
+Subject: [b17.10558] Holdem Game Broadcast Message(*)
+
+! Table b17, Hand 38, Day 30
+
+! John Bernstein calls - side pot
+! Pot right ($103675), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped card: Qd
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  John Bernstein           |       0 |   46950 |all-in|  2 |   99700 |
+ 2|D  Sandy                    |   55250 |       0 |folded|    |         |
+ 3|   Mike DellaBarca          |   42225 |    4650 |folded|    |         |
+ 4|   Baldy                    |   82750 |     850 |folded|    |         |
+ 5|   shinsook                 |  103325 |       0 |folded|    |         |
+ 6|   Kahomono                 |   49750 |       0 |folded|    |         |
+ 7|   Toronado13               |   61300 |     300 |folded|    |         |
+ 8|   Mark Lemon               |       0 |   50925 |all-in|  1 |    3975 |
+ 9|   crush_me                 |   11925 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/09/18 05:36:02! Dealing a new hand
+! 12/09/18 05:36:02! No ante
+! 12/09/18 05:36:02! Mike DellaBarca blinds $150
+! 12/09/18 05:36:02! Baldy blinds $300
+! 12/09/18 09:28:11! shinsook folds
+! 12/09/18 09:28:11! Kahomono folds
+! 12/09/18 09:47:46! Toronado13 calls 
+! 12/09/18 10:02:18! Mark Lemon raises $550 to $850 total 
+! 12/09/18 10:24:44! crush_me folds
+! 12/09/18 10:24:44! John Bernstein calls 
+! 12/09/18 10:24:44! Sandy folds
+! 12/10/18 05:31:56! Mike DellaBarca calls 
+! 12/10/18 06:57:41! Baldy calls 
+! 12/10/18 07:56:29! Toronado13 folds
+
+! 12/10/18 07:56:29! Pot right ($3700), flopping/dealing/drawing cards
+! 12/10/18 07:56:29! 4 players
+! 12/10/18 07:56:29! Flopped cards: Jh Qh Ad
+! 12/10/18 10:27:33! Mike DellaBarca checks
+! 12/10/18 10:29:43! Baldy checks
+! 12/10/18 10:34:25! Mark Lemon bets $3800 
+! 12/10/18 10:56:58! John Bernstein calls 
+! 12/10/18 11:58:27! Mike DellaBarca calls 
+! 12/10/18 12:31:54! Baldy folds
+
+! 12/10/18 12:31:54! Pot right ($15100), flopping/dealing/drawing cards
+! 12/10/18 12:31:54! 3 players
+! 12/10/18 12:31:54! Flopped card: 7d
+! 12/10/18 15:28:00! Mike DellaBarca checks
+! 12/10/18 16:33:20! Mark Lemon bets $15000 
+! 12/10/18 16:37:12! John Bernstein raises $15000 to $30000 total 
+! 12/11/18 04:36:00! Mike DellaBarca folds
+! 12/11/18 05:07:25! Mark Lemon raises $16275 to $46275 total and is all in
+! 12/11/18 06:46:59! John Bernstein calls - side pot
+
+! 12/11/18 06:46:59! Pot right ($103675), flopping/dealing/drawing cards
+! 12/11/18 06:46:59! 2 players, 2 all in
+! 12/11/18 06:46:59! Flopped card: Qd
+! Hand over, current board is:  Jh Qh Ad 7d Qd
+! John Bernstein           has: Ks 10d
+! Mark Lemon               has: Js Ac
+! Pot 1: uncalled $3975 returned to Mark Lemon
+! Pot 2: John Bernstein wins $99700 with Straight (A K Q J 10)
+! Antes and blinds go up
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  John Bernstein           |   99700 |         |      |    |         |
+ 2|   Sandy                    |   55250 |         |      |    |         |
+ 3|D  Mike DellaBarca          |   42225 |         |      |    |         |
+ 4|   Baldy                    |   82750 |         |      |    |         |
+ 5|   shinsook                 |  103325 |         |      |    |         |
+ 6|   Kahomono                 |   49750 |         |      |    |         |
+ 7|   Toronado13               |   61300 |         |      |    |         |
+ 8|   Mark Lemon               |    3975 |         |      |    |         |
+ 9|   crush_me                 |   11925 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 499 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b17.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 5
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

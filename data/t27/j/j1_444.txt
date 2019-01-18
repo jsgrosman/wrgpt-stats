@@ -1,0 +1,100 @@
+
+! Table j1, Hand 444, Day 191
+
+! StingRay folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  Stephen Mack             | 3330100 |    5000 |folded|    |         |
+ 2|   Lets Go Red Sox          | 4213775 |   55000 |folded|    |         |
+ 4|   StingRay                 | 7640000 |  225000 |folded|    |         |
+ 6|   Dman                     | 3347050 |    5000 |folded|    |         |
+ 8|   jasong            | 6751350 |    5000 |folded|    |         |
+10|>  Quiet Lion               | 1271400 |  355000 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 05/01/18 08:29:55! Dealing a new hand
+! 05/01/18 08:29:55! Everyone antes $5000
+! 05/01/18 08:29:55! Lets Go Red Sox blinds $50000
+! 05/01/18 08:29:55! StingRay blinds $100000
+! 05/01/18 08:50:23! Dman folds
+! 05/01/18 08:50:23! jasong folds
+! 05/01/18 08:51:24! Quiet Lion raises $120000 to $220000 total 
+! 05/01/18 08:51:24! Stephen Mack folds
+! 05/01/18 09:06:47! Lets Go Red Sox folds
+! 05/01/18 09:08:39! StingRay calls 
+
+! 05/01/18 09:08:39! Pot right ($520000), flopping/dealing/drawing cards
+! 05/01/18 09:08:39! 2 players
+! 05/01/18 09:08:39! Flopped cards: 5h 5d 5c
+! 05/01/18 09:23:09! StingRay checks
+! 05/01/18 09:31:16! Quiet Lion bets $130000 
+! 05/01/18 09:32:27! StingRay folds
+! Hand over, no showdown
+! Current board is:  5h 5d 5c ? ?
+! Quiet Lion wins $650000 (net $295000)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Stephen Mack             | 3330100 |         |      |    |         |
+ 2|D  Lets Go Red Sox          | 4213775 |         |      |    |         |
+ 4|   StingRay                 | 7640000 |         |      |    |         |
+ 6|   Dman                     | 3347050 |         |      |    |         |
+ 8|   jasong            | 6751350 |         |      |    |         |
+10|>  Quiet Lion               | 1921400 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/j/j1.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+However, if there were prizes they would pay the top 63 entrants.
+The standings are now showing theoretical prizes if WRGPT were a
+10k event.
+
+======
+
+Live Redraw Status as of 05/01/18 09:25:02 AM
+
+Total Empty Seats: 4
+Total Playing Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman27@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

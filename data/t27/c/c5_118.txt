@@ -1,0 +1,134 @@
+
+! Table c5, Hand 118, Day 68
+
+! Plain Ed folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  jasong            |       0 |   91200 |all-in|    |         |
+ 2|>  Plain Ed                 |   23700 |   12600 |folded|    |         |
+ 3|   MrTiggerGolf             |   70250 |    2600 |folded|    |         |
+ 4|   ArikK                    |   42175 |     100 |folded|    |         |
+ 5|   Richard Nixon            |   76425 |     100 |folded|    |         |
+ 6|   swamperflaco             |   27200 |     100 |folded|    |         |
+ 7|   Deuce Seven Off Suit     |   92650 |    2600 |folded|    |         |
+ 8|   jhaden                   |   59500 |     100 |folded|    |         |
+ 9|   Jason Feng               |    9575 |    2600 |folded|    |         |
+10|   Joker                    |  113400 |     100 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/28/17 13:55:04! Dealing a new hand
+! 12/28/17 13:55:04! Everyone antes $100
+! 12/28/17 13:55:04! Plain Ed blinds $250
+! 12/28/17 13:55:04! MrTiggerGolf blinds $500
+! 12/28/17 14:05:17! ArikK folds
+! 12/28/17 14:35:13! Richard Nixon folds
+! 12/28/17 14:35:13! swamperflaco is on vacation and folds
+! 12/28/17 14:35:48! Deuce Seven Off Suit calls 
+! 12/28/17 15:25:12! jhaden folds
+! 12/28/17 15:25:12! Jason Feng calls 
+! 12/28/17 15:25:12! Joker folds
+! 12/28/17 15:35:10! jasong raises $2000 to $2500 total 
+! 12/28/17 16:13:21! Plain Ed calls 
+! 12/28/17 16:41:12! swamperflaco is back from vacation
+! 12/28/17 18:10:10! MrTiggerGolf calls 
+! 12/28/17 19:42:00! Deuce Seven Off Suit calls 
+! 12/28/17 19:42:00! Jason Feng calls 
+
+! 12/28/17 19:42:00! Pot right ($13500), flopping/dealing/drawing cards
+! 12/28/17 19:42:00! 5 players
+! 12/28/17 19:42:00! Flopped cards: 6d Ah 6c
+! 12/28/17 20:05:08! Plain Ed checks
+! 12/28/17 20:31:41! MrTiggerGolf checks
+! 12/28/17 22:32:28! Deuce Seven Off Suit checks
+! 12/28/17 22:32:28! Jason Feng checks
+! 12/29/17 04:58:23! jasong bets $10000 
+! 12/29/17 06:46:35! Plain Ed calls 
+! 12/29/17 06:50:18! MrTiggerGolf folds
+! 12/29/17 06:52:00! Deuce Seven Off Suit folds
+! 12/29/17 06:52:00! Jason Feng folds
+
+! 12/29/17 06:52:00! Pot right ($33500), flopping/dealing/drawing cards
+! 12/29/17 06:52:00! 2 players
+! 12/29/17 06:52:00! Flopped card: 8d
+! 12/29/17 07:40:24! Plain Ed checks
+! 12/29/17 08:09:30! jasong checks
+
+! 12/29/17 08:09:30! Pot right ($33500), flopping/dealing/drawing cards
+! 12/29/17 08:09:30! 2 players
+! 12/29/17 08:09:30! Flopped card: 5h
+! 12/29/17 09:09:13! Plain Ed checks
+! 12/29/17 09:50:58! jasong bets $78600 and is all in
+! 12/29/17 09:53:36! Plain Ed folds
+! Hand over, no showdown
+! Current board is:  6d Ah 6c 8d 5h
+! jasong wins $112100 (net $20900)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   jasong            |  112100 |         |      |    |         |
+ 2|D> Plain Ed                 |   23700 |         |      |    |         |
+ 3|   MrTiggerGolf             |   70250 |         |      |    |         |
+ 4|   ArikK                    |   42175 |         |      |    |         |
+ 5|   Richard Nixon            |   76425 |         |      |    |         |
+ 6|   swamperflaco             |   27200 |         |      |    |         |
+ 7|   Deuce Seven Off Suit     |   92650 |         |      |    |         |
+ 8|   jhaden                   |   59500 |         |      |    |         |
+ 9|   Jason Feng               |    9575 |         |      |    |         |
+10|   Joker                    |  113400 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 367 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c5.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+Welcome to the "c" round.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Live Redraw Status as of 12/29/17 09:25:02 AM
+
+Total Empty Seats: 11
+Total Playing Seats: 367
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman27@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

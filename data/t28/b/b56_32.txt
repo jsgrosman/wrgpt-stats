@@ -1,0 +1,118 @@
+Subject: [b56.10408] Holdem Game Broadcast Message(*)
+
+! Table b56, Hand 32, Day 27
+
+! bozo calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  Mellon                   |   33200 |    2300 |      |    |         |
+ 2|   dann                     |   44025 |       0 |folded|    |         |
+ 3|   Andy Pierce              |   45450 |       0 |folded|    |         |
+ 4|   ThatGuyThere             |   34400 |       0 |folded|    |         |
+ 5|DV ADB Jupe                 |   49625 |       0 |<AWOL>|    |         |
+ 6|   asypta                   |   28450 |     150 |folded|    |         |
+ 7|   bozo                     |  100350 |    2300 |      |    |         |
+ 8|   Spike                    |   46975 |       0 |folded|    |         |
+ 9|   Doc McClenny             |   62775 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/07/18 13:38:32! Dealing a new hand
+! 12/07/18 13:38:32! No ante
+! 12/07/18 13:38:32! asypta blinds $150
+! 12/07/18 13:38:32! bozo blinds $300
+! 12/07/18 14:35:21! Spike folds
+! 12/07/18 14:35:21! Doc McClenny folds
+! 12/07/18 16:14:33! Mellon calls 
+! 12/07/18 18:55:46! dann folds
+! 12/07/18 23:51:56! Andy Pierce folds
+! 12/07/18 23:51:56! ThatGuyThere folds
+! 12/07/18 23:51:56! ADB Jupe is on vacation and folds
+! 12/07/18 23:51:56! asypta folds
+! 12/08/18 00:53:34! bozo checks
+
+! 12/08/18 00:53:34! Pot right ($750), flopping/dealing/drawing cards
+! 12/08/18 00:53:34! 2 players
+! 12/08/18 00:53:34! Flopped cards: 10c 6d Ah
+! 12/08/18 01:35:13! bozo checks
+! 12/08/18 05:09:10! Mellon checks
+
+! 12/08/18 05:09:10! Pot right ($750), flopping/dealing/drawing cards
+! 12/08/18 05:09:10! 2 players
+! 12/08/18 05:09:10! Flopped card: Ks
+! 12/08/18 05:30:41! bozo bets $500 
+! 12/08/18 06:55:21! Mellon calls 
+
+! 12/08/18 06:55:21! Pot right ($1750), flopping/dealing/drawing cards
+! 12/08/18 06:55:21! 2 players
+! 12/08/18 06:55:21! Flopped card: Jd
+! 12/08/18 15:05:26! bozo checks
+! 12/08/18 16:06:19! Mellon bets $1500 
+! 12/08/18 16:42:36! bozo calls 
+! Hand over, current board is:  10c 6d Ah Ks Jd
+! Mellon                   has: As 10d
+! bozo                     has: 4s Kd
+! Mellon wins $4750 (net $2450) with Two Pair (A A 10 10 K)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  Mellon                   |   37950 |         |      |    |         |
+ 2|   dann                     |   44025 |         |      |    |         |
+ 3|   Andy Pierce              |   45450 |         |      |    |         |
+ 4|   ThatGuyThere             |   34400 |         |      |    |         |
+ 5|V  ADB Jupe                 |   49625 |         |<AWOL>|    |         |
+ 6|D  asypta                   |   28450 |         |      |    |         |
+ 7|   bozo                     |  100350 |         |      |    |         |
+ 8|   Spike                    |   46975 |         |      |    |         |
+ 9|   Doc McClenny             |   62775 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 514 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b56.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 11
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

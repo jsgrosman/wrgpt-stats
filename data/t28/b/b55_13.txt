@@ -1,0 +1,95 @@
+Subject: [b55.10142] Holdem Game Broadcast Message(*)
+
+! Table b55, Hand 13, Day 16
+
+! tekbot folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   BillDaBear               |   73200 |       0 |folded|    |         |
+ 2|>  C666                     |   51025 |     900 |      |    |         |
+ 4|D  ChipRider                |   48225 |       0 |folded|    |         |
+ 5|V  Scipio                   |   49325 |     150 | NoSho|    |         |
+ 6|   tekbot                   |   49925 |     300 |folded|    |         |
+ 7|   Dr. Evil                 |   58600 |       0 |folded|    |         |
+ 8|V  LenFuego                 |   48375 |       0 |<AWOL>|    |         |
+ 9|   Tom Abraham              |   69975 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/26/18 19:07:27! Dealing a new hand
+! 11/26/18 19:07:27! No ante
+! 11/26/18 19:07:27! Scipio blinds $150
+! 11/26/18 19:07:27! tekbot blinds $300
+! 11/26/18 20:30:13! Dr. Evil folds
+! 11/26/18 20:30:13! LenFuego is on vacation and folds
+! 11/26/18 20:30:13! Tom Abraham folds
+! 11/26/18 20:59:28! BillDaBear folds
+! 11/26/18 21:50:15! C666 raises $600 to $900 total 
+! 11/27/18 05:40:36! ChipRider folds
+! 11/27/18 05:40:36! Scipio is on vacation and folds
+! 11/27/18 08:59:24! tekbot folds
+! Hand over, no showdown
+! Current board is:  ? ? ? ? ?
+! C666 wins $1350 (net $450)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   BillDaBear               |   73200 |         |      |    |         |
+ 2|>  C666                     |   52375 |         |      |    |         |
+ 4|   ChipRider                |   48225 |         |      |    |         |
+ 5|DV Scipio                   |   49325 |         | NoSho|    |         |
+ 6|   tekbot                   |   49925 |         |      |    |         |
+ 7|   Dr. Evil                 |   58600 |         |      |    |         |
+ 8|V  LenFuego                 |   48375 |         |<AWOL>|    |         |
+ 9|   Tom Abraham              |   69975 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 553 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b55.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 5
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

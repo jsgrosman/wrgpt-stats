@@ -1,0 +1,106 @@
+Message-Id: <201403281331.s2SDVD7H007560@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [e7.10007] Holdem Game Broadcast Message(*)                          
+
+! Table e7, Hand 226, Day 138
+
+! Matt Kosovsky folds
+! VierKoff folds
+! altidude6202 folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|D> altidude6202             | 395425 |   8600 |folded|    |        |
+ 2|   jasong            | 108700 |   2600 |folded|    |        |
+ 3|   dave radke               |      0 | 107725 |all-in|    |        |
+ 4|   Joe Nadeau               | 269100 |    600 |folded|    |        |
+ 5|   Matt Kosovsky            | 114400 |   8600 |folded|    |        |
+ 6|   Spike                    | 245425 |    600 |folded|    |        |
+ 7|   Fredrik Westerlund       | 262700 |    600 |folded|    |        |
+ 8|   VierKoff                 | 227000 |   8600 |folded|    |        |
+ 9|   Mad Chad                 | 170800 |    600 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 03/27/14 07:55:51! Dealing a new hand
+! 03/27/14 07:55:51! Everyone antes $600
+! 03/27/14 07:55:51! jasong blinds $2000
+! 03/27/14 07:55:51! dave radke blinds $4000
+! 03/27/14 08:41:09! Joe Nadeau folds
+! 03/27/14 09:03:02! Matt Kosovsky raises $4000 
+! 03/27/14 09:03:02! Spike folds
+! 03/27/14 11:03:07! Fredrik Westerlund folds
+! 03/27/14 11:03:07! VierKoff calls 
+! 03/27/14 11:03:07! Mad Chad folds
+! 03/27/14 11:24:28! altidude6202 calls 
+! 03/27/14 11:24:28! jasong folds
+! 03/27/14 16:45:07! dave radke calls 
+
+! 03/27/14 16:45:07! Pot right ($39400), flopping/dealing/drawing cards
+! 03/27/14 16:45:07! 4 players
+! 03/27/14 16:45:07! Flopped cards: 10c 7c Ac
+! 03/27/14 17:32:40! dave radke bets $99125 and is all in
+! 03/28/14 06:31:12! Matt Kosovsky folds
+! 03/28/14 06:31:12! VierKoff folds
+! 03/28/14 06:31:12! altidude6202 folds
+! Hand over, no showdown
+! Current board is:  10c 7c Ac ? ?
+! dave radke wins $138525 (net $30800)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|>  altidude6202             | 395425 |        |      |    |        |
+ 2|D  jasong            | 108700 |        |      |    |        |
+ 3|   dave radke               | 138525 |        |      |    |        |
+ 4|   Joe Nadeau               | 269100 |        |      |    |        |
+ 5|   Matt Kosovsky            | 114400 |        |      |    |        |
+ 6|   Spike                    | 245425 |        |      |    |        |
+ 7|   Fredrik Westerlund       | 262700 |        |      |    |        |
+ 8|   VierKoff                 | 227000 |        |      |    |        |
+ 9|   Mad Chad                 | 170800 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 121 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/e/e7.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Round "d" is ending.  As soon as the current hands finish on
+all tables there will be a complete redraw.
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+Here is a link to the railbird mailing list:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman23@wrgpt.org.
+
+Live Redraw Status as of 03/28/14 06:25:01 AM
+
+Total Empty Seats: 10
+Total Playing Seats: 121
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

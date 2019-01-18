@@ -1,0 +1,106 @@
+Subject: [c15.10200] Holdem Game Broadcast Message(*)
+
+! Table c15, Hand 164, Day 66
+
+! Chris Danek calls 
+! Pot right ($27700), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 4d
+! Flopped card: 3d
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   David McVay              |   38550 |     600 |folded|    |         |
+ 2|   Alvin Chipmunk           |   44350 |     100 |folded|    |         |
+ 3|   WhyImHere                |   71000 |     100 |folded|    |         |
+ 4|   T4                       |       0 |   13250 |all-in|    |         |
+ 5|   Wally F                  |  104375 |     100 |folded|    |         |
+ 6|   Morgan                   |   36650 |     100 |folded|    |         |
+ 7|   asypta                   |  127950 |     100 |folded|    |         |
+ 8|D  MarinaMan                |   26850 |     100 |folded|    |         |
+ 9|>  Chris Danek              |   69650 |   13250 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/16/19 05:04:31! Dealing a new hand
+! 01/16/19 05:04:31! Everyone antes $100
+! 01/16/19 05:04:31! Chris Danek blinds $250
+! 01/16/19 05:04:31! David McVay blinds $500
+! 01/16/19 05:46:59! Alvin Chipmunk folds
+! 01/16/19 05:46:59! WhyImHere folds
+! 01/16/19 07:03:38! T4 raises $1000 to $1500 total 
+! 01/16/19 07:03:38! Wally F folds
+! 01/16/19 07:03:38! Morgan folds
+! 01/16/19 07:55:21! asypta folds
+! 01/16/19 07:55:21! MarinaMan folds
+! 01/16/19 09:12:10! Chris Danek calls 
+! 01/16/19 09:12:10! David McVay folds
+
+! 01/16/19 09:12:10! Pot right ($4400), flopping/dealing/drawing cards
+! 01/16/19 09:12:10! 2 players
+! 01/16/19 09:12:10! Flopped cards: 6c 6h 8s
+! 01/16/19 09:13:49! Chris Danek checks
+! 01/16/19 12:45:54! T4 bets $11650 and is all in
+! 01/16/19 13:02:09! Chris Danek calls 
+
+! 01/16/19 13:02:09! Pot right ($27700), flopping/dealing/drawing cards
+! 01/16/19 13:02:09! 2 players, 1 all in
+! 01/16/19 13:02:09! Flopped card: 4d
+! 01/16/19 13:02:09! Flopped card: 3d
+! Hand over, current board is:  6c 6h 8s 4d 3d
+! T4                       has: Qs Ad
+! Chris Danek              has: 6s 5h
+! Chris Danek wins $27700 (net $14450) with Three of a Kind (6 6 6 8 5)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   David McVay              |   38550 |         |      |    |         |
+ 2|   Alvin Chipmunk           |   44350 |         |      |    |         |
+ 3|   WhyImHere                |   71000 |         |      |    |         |
+ 5|   Wally F                  |  104375 |         |      |    |         |
+ 6|   Morgan                   |   36650 |         |      |    |         |
+ 7|   asypta                   |  127950 |         |      |    |         |
+ 8|   MarinaMan                |   26850 |         |      |    |         |
+ 9|D> Chris Danek              |   97350 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! T4 is eliminated!
+! 367 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c15.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 5
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,114 @@
+Subject: [b6.10344] Holdem Game Broadcast Message(*)
+
+! Table b6, Hand 21, Day 36
+
+! 888 checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Romeo Alexander          |   45100 |    1075 |folded|    |         |
+ 2|   HotSoup                  |   48950 |      25 |folded|    |         |
+ 3|D  888                      |   59700 |    2675 |      |    |         |
+ 4|   Mark Ballinger           |   40975 |     175 |folded|    |         |
+ 5|   Felix Leiter             |   54900 |     325 |folded|    |         |
+ 6|>  AveCat                   |   54100 |    2675 |      |    |         |
+ 7|V  Moccasin Johnny Return   |   52200 |      25 |<AWOL>|    |         |
+ 8|   jpchiefs                 |   36800 |      25 |folded|    |         |
+ 9|   Dwayne Martins           |   49950 |     325 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/16/18 10:49:02! Dealing a new hand
+! 12/16/18 10:49:02! Everyone antes $25
+! 12/16/18 10:49:02! Mark Ballinger blinds $150
+! 12/16/18 10:49:02! Felix Leiter blinds $300
+! 12/16/18 10:52:29! AveCat calls 
+! 12/16/18 10:52:29! Moccasin Johnny Return is on vacation and folds
+! 12/16/18 12:32:41! jpchiefs folds
+! 12/17/18 06:47:46! Dwayne Martins calls 
+! 12/17/18 08:01:11! Romeo Alexander calls 
+! 12/17/18 11:04:15! HotSoup folds
+! 12/17/18 13:21:08! 888 raises $750 to $1050 total 
+! 12/17/18 13:21:08! Mark Ballinger folds
+! 12/17/18 13:30:12! Felix Leiter folds
+! 12/17/18 13:41:55! AveCat calls 
+! 12/17/18 13:45:49! Dwayne Martins folds
+! 12/17/18 14:12:04! Romeo Alexander calls 
+
+! 12/17/18 14:12:04! Pot right ($4125), flopping/dealing/drawing cards
+! 12/17/18 14:12:04! 3 players
+! 12/17/18 14:12:04! Flopped cards: Kc Qh 5s
+! 12/17/18 14:35:34! AveCat checks
+! 12/17/18 14:56:23! Romeo Alexander checks
+! 12/17/18 15:04:45! 888 bets $1600 
+! 12/17/18 15:05:27! AveCat calls 
+! 12/17/18 15:34:29! Romeo Alexander folds
+
+! 12/17/18 15:34:29! Pot right ($7325), flopping/dealing/drawing cards
+! 12/17/18 15:34:29! 2 players
+! 12/17/18 15:34:29! Flopped card: Ks
+! 12/17/18 15:43:57! AveCat checks
+! 12/17/18 17:45:47! 888 checks
+
+! 12/17/18 17:45:47! Pot right ($7325), flopping/dealing/drawing cards
+! 12/17/18 17:45:47! 2 players
+! 12/17/18 17:45:47! Flopped card: Qs
+! 12/17/18 18:32:51! AveCat checks
+! 12/17/18 18:42:48! 888 checks
+! Hand over, current board is:  Kc Qh 5s Ks Qs
+! 888                      has: 10c 9c
+! AveCat                   has: 6d 5d
+! 888 wins $7325 (net $4650) with Two Pair (K K Q Q 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Romeo Alexander          |   45100 |         |      |    |         |
+ 2|   HotSoup                  |   48950 |         |      |    |         |
+ 3|   888                      |   67025 |         |      |    |         |
+ 4|D  Mark Ballinger           |   40975 |         |      |    |         |
+ 5|   Felix Leiter             |   54900 |         |      |    |         |
+ 6|>  AveCat                   |   54100 |         |      |    |         |
+ 7|V  Moccasin Johnny Return   |   52200 |         |<AWOL>|    |         |
+ 8|   jpchiefs                 |   36800 |         |      |    |         |
+ 9|   Dwayne Martins           |   49950 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 464 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b6.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 4
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

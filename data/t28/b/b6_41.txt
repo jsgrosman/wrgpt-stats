@@ -1,0 +1,113 @@
+Subject: [b6.10588] Holdem Game Broadcast Message(*)
+
+! Table b6, Hand 41, Day 52
+
+! jpchiefs calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Romeo Alexander          |   36075 |    3250 |folded|    |         |
+ 3|   888                      |  158750 |      50 |folded|    |         |
+ 4|   Mark Ballinger           |   41725 |      50 |folded|    |         |
+ 5|   Felix Leiter             |   55850 |      50 |folded|    |         |
+ 6|   AveCat                   |   61075 |      50 |folded|    |         |
+ 7|D> Moccasin Johnny Return   |   48300 |   15250 |      |    |         |
+ 8|   jpchiefs                 |   14275 |   15250 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/31/18 09:50:24! Dealing a new hand
+! 12/31/18 09:50:24! Everyone antes $50
+! 12/31/18 09:50:24! jpchiefs blinds $200
+! 12/31/18 09:50:24! Romeo Alexander blinds $400
+! 12/31/18 13:51:02! 888 folds
+! 12/31/18 13:51:02! Mark Ballinger folds
+! 12/31/18 13:51:02! Felix Leiter folds
+! 12/31/18 14:06:54! AveCat folds
+! 12/31/18 21:10:00! Moccasin Johnny Return raises $600 to $1000 total 
+! 01/01/19 06:36:00! jpchiefs calls 
+! 01/01/19 08:18:08! Romeo Alexander calls 
+
+! 01/01/19 08:18:08! Pot right ($3350), flopping/dealing/drawing cards
+! 01/01/19 08:18:08! 3 players
+! 01/01/19 08:18:08! Flopped cards: 8s 3d 2d
+! 01/01/19 09:48:52! jpchiefs checks
+! 01/01/19 18:58:57! Romeo Alexander bets $2200 
+! 01/01/19 19:32:12! Moccasin Johnny Return calls 
+! 01/01/19 19:36:49! jpchiefs calls 
+
+! 01/01/19 19:36:49! Pot right ($9950), flopping/dealing/drawing cards
+! 01/01/19 19:36:49! 3 players
+! 01/01/19 19:36:49! Flopped card: 9s
+! 01/01/19 19:37:43! jpchiefs checks
+! 01/01/19 20:24:18! Romeo Alexander checks
+! 01/02/19 02:37:48! Moccasin Johnny Return bets $5000 
+! 01/02/19 05:26:47! jpchiefs calls 
+! 01/02/19 07:05:58! Romeo Alexander folds
+
+! 01/02/19 07:05:58! Pot right ($19950), flopping/dealing/drawing cards
+! 01/02/19 07:05:58! 2 players
+! 01/02/19 07:05:58! Flopped card: 10h
+! 01/02/19 07:15:58! jpchiefs checks
+! 01/02/19 07:27:27! Moccasin Johnny Return bets $7000 
+! 01/02/19 07:37:14! jpchiefs calls 
+! Hand over, current board is:  8s 3d 2d 9s 10h
+! Moccasin Johnny Return   has: Kd 9d
+! jpchiefs                 has: Qs Qd
+! jpchiefs wins $33950 (net $18700) with One Pair (Q Q 10 9 8)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Romeo Alexander          |   36075 |         |      |    |         |
+ 3|   888                      |  158750 |         |      |    |         |
+ 4|   Mark Ballinger           |   41725 |         |      |    |         |
+ 5|   Felix Leiter             |   55850 |         |      |    |         |
+ 6|   AveCat                   |   61075 |         |      |    |         |
+ 7|>  Moccasin Johnny Return   |   48300 |         |      |    |         |
+ 8|D  jpchiefs                 |   48225 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 406 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b6.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+We are now over 45 days into round "b". 
+As soon as any table gets to five or fewer 
+players all tables will finish the current 
+hand and a full redraw to round "c" will be done.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 26
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

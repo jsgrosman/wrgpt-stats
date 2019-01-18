@@ -1,0 +1,117 @@
+Subject: [b11.10165] Holdem Game Broadcast Message(*)
+
+! Table b11, Hand 13, Day 13
+
+! DotMatrix bets $500 
+! RichNYC folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   bad                      |   45525 |       0 |folded|    |         |
+ 2|   MNoelH                   |   46525 |       0 |folded|    |         |
+ 3|   RichNYC                  |   48325 |     400 |folded|    |         |
+ 4|D  ddppmm                   |   41225 |       0 |folded|    |         |
+ 5|>  DotMatrix                |   64300 |     900 |      |    |         |
+ 6|   put_it_good              |   45525 |     150 |folded|    |         |
+ 7|   Bommerman                |   54900 |       0 |folded|    |         |
+ 8|V  Three Pair               |   49775 |       0 | NoSho|    |         |
+ 9|   Chris Goedde             |   52450 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/23/18 09:15:39! Dealing a new hand
+! 11/23/18 09:15:39! No ante
+! 11/23/18 09:15:39! DotMatrix blinds $75
+! 11/23/18 09:15:39! put_it_good blinds $150
+! 11/23/18 12:29:37! Bommerman folds
+! 11/23/18 12:29:37! Three Pair is on vacation and folds
+! 11/23/18 12:29:37! Chris Goedde folds
+! 11/23/18 12:29:37! bad folds
+! 11/23/18 16:31:02! MNoelH folds
+! 11/23/18 16:35:14! RichNYC raises $250 to $400 total 
+! 11/23/18 16:35:14! ddppmm folds
+! 11/23/18 16:56:59! DotMatrix calls 
+! 11/23/18 22:04:14! put_it_good folds
+
+! 11/23/18 22:04:14! Pot right ($950), flopping/dealing/drawing cards
+! 11/23/18 22:04:14! 2 players
+! 11/23/18 22:04:14! Flopped cards: 7d 6d 5h
+! 11/23/18 22:26:03! DotMatrix checks
+! 11/24/18 06:26:51! RichNYC checks
+
+! 11/24/18 06:26:51! Pot right ($950), flopping/dealing/drawing cards
+! 11/24/18 06:26:51! 2 players
+! 11/24/18 06:26:51! Flopped card: 10s
+! 11/24/18 06:43:55! DotMatrix checks
+! 11/24/18 07:34:06! RichNYC checks
+
+! 11/24/18 07:34:06! Pot right ($950), flopping/dealing/drawing cards
+! 11/24/18 07:34:06! 2 players
+! 11/24/18 07:34:06! Flopped card: 10h
+! 11/24/18 08:41:55! DotMatrix bets $500 
+! 11/24/18 08:41:55! RichNYC folds
+! Hand over, no showdown
+! Current board is:  7d 6d 5h 10s 10h
+! DotMatrix wins $1450 (net $550)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   bad                      |   45525 |         |      |    |         |
+ 2|   MNoelH                   |   46525 |         |      |    |         |
+ 3|   RichNYC                  |   48325 |         |      |    |         |
+ 4|   ddppmm                   |   41225 |         |      |    |         |
+ 5|D> DotMatrix                |   65750 |         |      |    |         |
+ 6|   put_it_good              |   45525 |         |      |    |         |
+ 7|   Bommerman                |   54900 |         |      |    |         |
+ 8|V  Three Pair               |   49775 |         | NoSho|    |         |
+ 9|   Chris Goedde             |   52450 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 565 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b11.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 2
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

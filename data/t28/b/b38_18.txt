@@ -1,0 +1,122 @@
+Subject: [b38.10245] Holdem Game Broadcast Message(*)
+
+! Table b38, Hand 18, Day 18
+
+! SCM calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   SCM                      |   44700 |   14800 |      |    |         |
+ 2|   SunnyGirl                |   51750 |     300 |folded|    |         |
+ 3|   JoseRijo                 |   35925 |       0 |folded|    |         |
+ 4|   underdog                 |   51325 |     300 |folded|    |         |
+ 5|   JK                       |   57450 |       0 |folded|    |         |
+ 6|   Krushinski               |   46700 |       0 |folded|    |         |
+ 7|   Jeff Palmucci            |   48700 |       0 |folded|    |         |
+ 8|>  Crunch                   |   37525 |   14800 |      |    |         |
+ 9|D  T4                       |   45725 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/28/18 17:24:19! Dealing a new hand
+! 11/28/18 17:24:19! No ante
+! 11/28/18 17:24:19! SCM blinds $150
+! 11/28/18 17:24:19! SunnyGirl blinds $300
+! 11/28/18 17:40:26! JoseRijo folds
+! 11/28/18 18:18:47! underdog calls 
+! 11/28/18 18:18:47! JK folds
+! 11/28/18 18:48:01! Krushinski folds
+! 11/28/18 18:57:11! Jeff Palmucci folds
+! 11/28/18 19:58:52! Crunch calls 
+! 11/28/18 19:58:52! T4 folds
+! 11/28/18 19:58:52! SCM calls 
+! 11/28/18 20:32:06! SunnyGirl checks
+
+! 11/28/18 20:32:06! Pot right ($1200), flopping/dealing/drawing cards
+! 11/28/18 20:32:06! 4 players
+! 11/28/18 20:32:06! Flopped cards: 10d Qc Ks
+! 11/28/18 20:53:38! SCM bets $900 
+! 11/28/18 21:23:41! SunnyGirl folds
+! 11/28/18 21:23:41! underdog folds
+! 11/29/18 09:37:25! Crunch raises $1100 to $2000 total 
+! 11/29/18 10:43:45! SCM calls 
+
+! 11/29/18 10:43:45! Pot right ($5200), flopping/dealing/drawing cards
+! 11/29/18 10:43:45! 2 players
+! 11/29/18 10:43:45! Flopped card: 2h
+! 11/29/18 10:44:43! SCM bets $5000 
+! 11/29/18 10:56:35! Crunch calls 
+
+! 11/29/18 10:56:35! Pot right ($15200), flopping/dealing/drawing cards
+! 11/29/18 10:56:35! 2 players
+! 11/29/18 10:56:35! Flopped card: Jh
+! 11/29/18 11:40:29! SCM checks
+! 11/29/18 11:46:22! Crunch bets $7500 
+! 11/29/18 12:08:44! SCM calls 
+! Hand over, current board is:  10d Qc Ks 2h Jh
+! SCM                      has: 9s Kh
+! Crunch                   has: Js 9c
+! SCM wins $15100 (net $300) with Straight (K Q J 10 9)
+! Crunch wins $15100 (net $300) with Straight (K Q J 10 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  SCM                      |   59800 |         |      |    |         |
+ 2|   SunnyGirl                |   51750 |         |      |    |         |
+ 3|   JoseRijo                 |   35925 |         |      |    |         |
+ 4|   underdog                 |   51325 |         |      |    |         |
+ 5|   JK                       |   57450 |         |      |    |         |
+ 6|   Krushinski               |   46700 |         |      |    |         |
+ 7|   Jeff Palmucci            |   48700 |         |      |    |         |
+ 8|>  Crunch                   |   52625 |         |      |    |         |
+ 9|   T4                       |   45725 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 548 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b38.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

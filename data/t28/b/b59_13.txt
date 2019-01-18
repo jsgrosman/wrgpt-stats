@@ -1,0 +1,123 @@
+Subject: [b59.10195] Holdem Game Broadcast Message(*)
+
+! Table b59, Hand 13, Day 13
+
+! null calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  Billco                   |   49575 |    6450 |      |    |         |
+ 2|   Daniel Levine            |   48050 |       0 |folded|    |         |
+ 3|   Clark Olson              |   47525 |       0 |folded|    |         |
+ 4|D  Uncle Check              |   55350 |       0 |folded|    |         |
+ 5|   Bob                      |   53525 |      75 |folded|    |         |
+ 6|   lawrence s               |   49100 |     150 |folded|    |         |
+ 7|   null                     |   47125 |    6450 |      |    |         |
+ 8|   Bobby the Worm           |   38300 |       0 |folded|    |         |
+ 9|   bluecandy                |   48100 |     450 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/22/18 10:47:46! Dealing a new hand
+! 11/22/18 10:47:46! No ante
+! 11/22/18 10:47:46! Bob blinds $75
+! 11/22/18 10:47:46! lawrence s blinds $150
+! 11/22/18 11:15:12! null calls 
+! 11/22/18 13:59:19! Bobby the Worm folds
+! 11/23/18 07:22:42! bluecandy calls 
+! 11/23/18 07:44:02! Billco raises $300 to $450 total 
+! 11/23/18 08:04:34! Daniel Levine folds
+! 11/23/18 08:04:34! Clark Olson folds
+! 11/23/18 08:04:34! Uncle Check folds
+! 11/23/18 08:04:34! Bob folds
+! 11/23/18 08:04:34! lawrence s folds
+! 11/23/18 08:08:38! null calls 
+! 11/23/18 09:59:56! bluecandy calls 
+
+! 11/23/18 09:59:56! Pot right ($1575), flopping/dealing/drawing cards
+! 11/23/18 09:59:56! 3 players
+! 11/23/18 09:59:56! Flopped cards: 2s Kd 8c
+! 11/23/18 11:54:31! null bets $900 
+! 11/23/18 15:56:02! bluecandy folds
+! 11/23/18 16:21:55! Billco raises $1100 to $2000 total 
+! 11/23/18 23:05:32! null calls 
+
+! 11/23/18 23:05:32! Pot right ($5575), flopping/dealing/drawing cards
+! 11/23/18 23:05:32! 2 players
+! 11/23/18 23:05:32! Flopped card: 9c
+! 11/23/18 23:41:25! null checks
+! 11/24/18 00:09:20! Billco bets $3000 
+! 11/24/18 00:30:02! null calls 
+
+! 11/24/18 00:30:02! Pot right ($11575), flopping/dealing/drawing cards
+! 11/24/18 00:30:02! 2 players
+! 11/24/18 00:30:02! Flopped card: 7d
+! 11/24/18 00:30:54! null checks
+! 11/24/18 00:32:55! Billco bets $1000 
+! 11/24/18 00:38:32! null calls 
+! Hand over, current board is:  2s Kd 8c 9c 7d
+! Billco                   has: Ks 8s
+! null                     has: Kh Ac
+! Billco wins $13575 (net $7125) with Two Pair (K K 8 8 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  Billco                   |   63150 |         |      |    |         |
+ 2|   Daniel Levine            |   48050 |         |      |    |         |
+ 3|   Clark Olson              |   47525 |         |      |    |         |
+ 4|   Uncle Check              |   55350 |         |      |    |         |
+ 5|D  Bob                      |   53525 |         |      |    |         |
+ 6|   lawrence s               |   49100 |         |      |    |         |
+ 7|   null                     |   47125 |         |      |    |         |
+ 8|   Bobby the Worm           |   38300 |         |      |    |         |
+ 9|   bluecandy                |   48100 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 565 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b59.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 2
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,115 @@
+Message-Id: <201211141813.qAEIDoVN005784@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [b16.10320] Holdem Game Broadcast Message(*)                          
+
+! Table b16, Hand 22, Day 24
+
+! jasong calls 
+! Pot right ($61300), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped cards: 2h 4h 7s
+! Flopped card: 5c
+! Flopped card: 10c
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|V  amz                      |  29200 |      0 |<AWOL>|    |        |
+ 2|D> jasong            |   2350 |  30200 |      |    |        |
+ 3|   ABoyles                  |  34250 |    100 |folded|    |        |
+ 4|   CKRAIZ                   |      0 |  30200 |all-in|    |        |
+ 5|   Dragonrpc                |  18000 |      0 |folded|    |        |
+ 6|V  Roger Strom              |  29275 |      0 |back 1|    |        |
+ 7|   D-Man                    |  25950 |    200 |folded|    |        |
+ 8|   Swamper JPops            |  31650 |    200 |folded|    |        |
+ 9|   Eric Moore               |  41425 |    200 |folded|    |        |
+10|   Mad Chad                 |  26600 |    200 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 11/14/12 04:05:12! Dealing a new hand
+! 11/14/12 04:05:12! No ante
+! 11/14/12 04:05:12! ABoyles blinds $100
+! 11/14/12 04:05:12! CKRAIZ blinds $200
+! 11/14/12 07:08:29! Dragonrpc folds
+! 11/14/12 07:08:29! Roger Strom is on vacation and folds
+! 11/14/12 07:10:07! D-Man calls 
+! 11/14/12 07:22:53! Swamper JPops calls 
+! 11/14/12 07:29:04! Eric Moore calls 
+! 11/14/12 07:32:25! Mad Chad calls 
+! 11/14/12 07:32:25! amz is on vacation and folds
+! 11/14/12 07:32:25! jasong raises $1000 
+! 11/14/12 08:32:00! ABoyles folds
+! 11/14/12 08:32:00! CKRAIZ raises $29000 and is all in
+! 11/14/12 10:09:29! D-Man folds
+! 11/14/12 10:09:29! Swamper JPops folds
+! 11/14/12 10:09:29! Eric Moore folds
+! 11/14/12 10:09:29! Mad Chad folds
+! 11/14/12 10:13:48! jasong calls 
+
+! 11/14/12 10:13:48! Pot right ($61300), flopping/dealing/drawing cards
+! 11/14/12 10:13:48! 2 players, 1 all in
+! 11/14/12 10:13:48! Flopped cards: 2h 4h 7s
+! 11/14/12 10:13:48! Flopped card: 5c
+! 11/14/12 10:13:48! Flopped card: 10c
+! Hand over, current board is:  2h 4h 7s 5c 10c
+! jasong            has: Qd Qc
+! CKRAIZ                   has: Kh Kc
+! CKRAIZ wins $61300 (net $31100) with One Pair (K K 10 7 5)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|V  amz                      |  29200 |        |<AWOL>|    |        |
+ 2|>  jasong            |   2350 |        |      |    |        |
+ 3|D  ABoyles                  |  34250 |        |      |    |        |
+ 4|   CKRAIZ                   |  61300 |        |      |    |        |
+ 5|   Dragonrpc                |  18000 |        |      |    |        |
+ 6|V  Roger Strom              |  29275 |        |back 1|    |        |
+ 7|   D-Man                    |  25950 |        |      |    |        |
+ 8|   Swamper JPops            |  31650 |        |      |    |        |
+ 9|   Eric Moore               |  41425 |        |      |    |        |
+10|   Mad Chad                 |  26600 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 758 players left in the tournament, 2 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b16.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+If you have not shown up to play in WRGPT22 by the end of day 30 your
+stack will be removed.  So, if you are waiting to come back you should
+do so now then go on vacation if you do not yet wish to play.  
+
+Here is a link to the railbird mailing list:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman22@wrgpt.org.
+
+Live Redraw Status as of 11/14/12 09:55:01 AM
+
+Total Empty Seats: 31
+Total Playing Seats: 759
+Live redraw in progress:
+Seats Needed: 25
+Seats Waiting: 0
+Moving Players Waiting: 0
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+And Tumbler: http://wrgptfloorman.tumblr.com
+

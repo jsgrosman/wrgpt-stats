@@ -1,0 +1,127 @@
+Subject: [b58.10158] Holdem Game Broadcast Message(*)
+
+! Table b58, Hand 11, Day 15
+
+! OldKingKohl calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   OldKingKohl              |   44975 |    2350 |      |    |         |
+ 2|DV poohbear                 |   49700 |       0 | NoSho|    |         |
+ 3|   Fred Garvin              |   44125 |      75 |folded|    |         |
+ 4|   BaconPancakes            |   80550 |     150 |folded|    |         |
+ 5|   Tooner                   |   48600 |       0 |folded|    |         |
+ 6|>  Zonko                    |   50450 |    2350 |      |    |         |
+ 7|   Stanley Chow             |   46350 |       0 |folded|    |         |
+ 8|   HeyBuster                |   46600 |    2350 |      |    |         |
+ 9|   mrbert                   |   30625 |     750 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/25/18 15:07:26! Dealing a new hand
+! 11/25/18 15:07:26! No ante
+! 11/25/18 15:07:26! Fred Garvin blinds $75
+! 11/25/18 15:07:26! BaconPancakes blinds $150
+! 11/25/18 17:07:37! Tooner folds
+! 11/25/18 17:08:41! Zonko calls 
+! 11/25/18 17:08:41! Stanley Chow folds
+! 11/25/18 17:08:41! HeyBuster calls 
+! 11/25/18 17:19:44! mrbert calls 
+! 11/25/18 17:40:33! OldKingKohl raises $300 to $450 total 
+! 11/25/18 17:40:33! poohbear is on vacation and folds
+! 11/26/18 04:31:12! Fred Garvin folds
+! 11/26/18 06:40:14! BaconPancakes folds
+! 11/26/18 06:40:14! Zonko calls 
+! 11/26/18 06:40:14! HeyBuster calls 
+! 11/26/18 06:46:39! mrbert calls 
+
+! 11/26/18 06:46:39! Pot right ($2025), flopping/dealing/drawing cards
+! 11/26/18 06:46:39! 4 players
+! 11/26/18 06:46:39! Flopped cards: 4s 2c 9c
+! 11/26/18 07:34:12! Zonko bets $300 
+! 11/26/18 07:34:12! HeyBuster calls 
+! 11/26/18 08:12:19! mrbert calls 
+! 11/26/18 08:18:48! OldKingKohl calls 
+
+! 11/26/18 08:18:48! Pot right ($3225), flopping/dealing/drawing cards
+! 11/26/18 08:18:48! 4 players
+! 11/26/18 08:18:48! Flopped card: Jc
+! 11/26/18 08:44:31! Zonko bets $600 
+! 11/26/18 08:44:31! HeyBuster calls 
+! 11/26/18 10:03:36! mrbert folds
+! 11/26/18 11:49:47! OldKingKohl calls 
+
+! 11/26/18 11:49:47! Pot right ($5025), flopping/dealing/drawing cards
+! 11/26/18 11:49:47! 3 players
+! 11/26/18 11:49:47! Flopped card: Kc
+! 11/26/18 11:52:10! Zonko bets $1000 
+! 11/26/18 11:52:10! HeyBuster calls 
+! 11/26/18 12:01:35! OldKingKohl calls 
+! Hand over, current board is:  4s 2c 9c Jc Kc
+! OldKingKohl              has: Js Kh
+! Zonko                    has: Kd 8d
+! HeyBuster                has: 2s 2d
+! HeyBuster wins $8025 (net $5675) with Three of a Kind (2 2 2 K J)
+! Antes and blinds go up
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   OldKingKohl              |   44975 |         |      |    |         |
+ 2|V  poohbear                 |   49700 |         | NoSho|    |         |
+ 3|D  Fred Garvin              |   44125 |         |      |    |         |
+ 4|   BaconPancakes            |   80550 |         |      |    |         |
+ 5|   Tooner                   |   48600 |         |      |    |         |
+ 6|>  Zonko                    |   50450 |         |      |    |         |
+ 7|   Stanley Chow             |   46350 |         |      |    |         |
+ 8|   HeyBuster                |   54625 |         |      |    |         |
+ 9|   mrbert                   |   30625 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 556 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b58.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 11
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

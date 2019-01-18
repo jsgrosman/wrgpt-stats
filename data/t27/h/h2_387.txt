@@ -1,0 +1,135 @@
+
+! Table h2, Hand 387, Day 177
+
+! Quiet Lion folds
+! Pot right ($4718350), flopping/dealing/drawing cards
+! 3 players, 3 all in
+! Flopped card: 4c
+! Flopped card: 9c
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  Quiet Lion               |  616000 |  423000 |folded|    |         |
+ 2|   NS                       |       0 | 1027700 |all-in|  3 | 3741100 |
+ 3|V  kaplaba                  |  347700 |    3000 |<AWOL>|    |         |
+ 4|   All Hail Me              |       0 | 1506250 |all-in|  2 |  957100 |
+ 5|   jasong            |       0 | 1526400 |all-in|  1 |   20150 |
+ 7|   Longines                 |  700550 |    3000 |folded|    |         |
+ 8|D  Big Bobby Dollar         |  419000 |    3000 |folded|    |         |
+ 9|   StingRay                 | 4942900 |  113000 |folded|    |         |
+10|   Stephen Mack             | 2718250 |  113000 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 04/17/18 08:24:39! Dealing a new hand
+! 04/17/18 08:24:39! Everyone antes $3000
+! 04/17/18 08:24:39! StingRay blinds $25000
+! 04/17/18 08:24:39! Stephen Mack blinds $50000
+! 04/17/18 08:25:42! Quiet Lion raises $60000 to $110000 total 
+! 04/17/18 09:33:58! NS calls 
+! 04/17/18 09:33:58! kaplaba is on vacation and folds
+! 04/17/18 10:19:54! All Hail Me calls 
+! 04/17/18 10:19:54! jasong calls 
+! 04/17/18 10:19:54! Longines folds
+! 04/17/18 10:20:37! Big Bobby Dollar folds
+! 04/17/18 10:28:54! StingRay calls 
+_____________________________________________________________________________
+
+! Family pot!
+! -- Stephen Mack --
+_____________________________________________________________________________
+
+! 04/17/18 10:30:00! Stephen Mack calls 
+
+! 04/17/18 10:30:00! Pot right ($687000), flopping/dealing/drawing cards
+! 04/17/18 10:30:00! 6 players
+! 04/17/18 10:30:00! Flopped cards: Jc Ah 5h
+! 04/17/18 10:30:57! StingRay checks
+! 04/17/18 10:30:57! Stephen Mack checks
+! 04/17/18 10:35:52! Quiet Lion bets $310000 
+! 04/17/18 11:09:22! NS raises $604700 to $914700 total and is all in
+! 04/17/18 11:11:52! All Hail Me raises $478550 to $1393250 total and is all in
+! 04/17/18 11:11:52! jasong raises $20150 to $1413400 total and is all in
+! 04/17/18 11:11:52! StingRay folds
+! 04/17/18 11:11:52! Stephen Mack folds
+! 04/17/18 11:18:26! Quiet Lion folds
+
+! 04/17/18 11:18:26! Pot right ($4718350), flopping/dealing/drawing cards
+! 04/17/18 11:18:26! 3 players, 3 all in
+! 04/17/18 11:18:26! Flopped card: 4c
+! 04/17/18 11:18:26! Flopped card: 9c
+! Hand over, current board is:  Jc Ah 5h 4c 9c
+! NS                       has: As Qc
+! All Hail Me              has: Jh 10h
+! jasong            has: 5s 5d
+! Pot 1: uncalled $20150 returned to jasong
+! Pot 2: jasong wins $957100 with Three of a Kind (5 5 5 A J)
+! Pot 3: jasong wins $3741100 with Three of a Kind (5 5 5 A J)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  Quiet Lion               |  616000 |         |      |    |         |
+ 3|V  kaplaba                  |  347700 |         |<AWOL>|    |         |
+ 5|   jasong            | 4718350 |         |      |    |         |
+ 7|   Longines                 |  700550 |         |      |    |         |
+ 8|   Big Bobby Dollar         |  419000 |         |      |    |         |
+ 9|D  StingRay                 | 4942900 |         |      |    |         |
+10|   Stephen Mack             | 2718250 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! NS is eliminated!
+! All Hail Me is eliminated!
+! 17 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/h/h2.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+However, if there were prizes they would pay the top 63 entrants.
+The standings are now showing theoretical prizes if WRGPT were a
+10k event.
+
+======
+
+Live Redraw Status as of 04/17/18 10:55:02 AM
+
+Total Empty Seats: 1
+Total Playing Seats: 19
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman27@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

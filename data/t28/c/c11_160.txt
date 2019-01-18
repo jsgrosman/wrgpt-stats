@@ -1,0 +1,114 @@
+Subject: [c11.10133] Holdem Game Broadcast Message(*)
+
+! Table c11, Hand 160, Day 63
+
+! UConn2004 checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Keith Troell             |  120725 |     100 |folded|    |         |
+ 2|   Jim Sokoloff             |   96850 |     100 |folded|    |         |
+ 3|   UConn2004                |   59675 |    1800 |      |    |         |
+ 4|D  Julie Greenberg          |  150475 |     600 |folded|    |         |
+ 5|   Ira Agins                |   30825 |     350 |folded|    |         |
+ 6|>  Ben Irving               |   52125 |    1800 |      |    |         |
+ 7|   Mike Sager               |  117350 |     100 |folded|    |         |
+ 8|   jockamo                  |   95850 |     100 |folded|    |         |
+ 9|   Chaos                    |   54650 |     100 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/12/19 04:03:52! Dealing a new hand
+! 01/12/19 04:03:52! Everyone antes $100
+! 01/12/19 04:03:52! Ira Agins blinds $250
+! 01/12/19 04:03:52! Ben Irving blinds $500
+! 01/12/19 05:24:35! UConn2004 is back from vacation
+! 01/12/19 07:01:42! Mike Sager folds
+! 01/12/19 07:08:10! jockamo folds
+! 01/12/19 09:28:47! Chaos folds
+! 01/12/19 09:28:47! Keith Troell folds
+! 01/12/19 09:28:47! Jim Sokoloff folds
+! 01/12/19 09:59:30! UConn2004 calls 
+! 01/12/19 10:14:04! Julie Greenberg calls 
+! 01/12/19 10:14:04! Ira Agins folds
+! 01/12/19 10:32:28! Ben Irving checks
+
+! 01/12/19 10:32:28! Pot right ($2650), flopping/dealing/drawing cards
+! 01/12/19 10:32:28! 3 players
+! 01/12/19 10:32:28! Flopped cards: Kh 2c 7h
+! 01/12/19 10:35:34! Ben Irving checks
+! 01/12/19 15:56:52! UConn2004 checks
+! 01/12/19 15:56:52! Julie Greenberg checks
+
+! 01/12/19 15:56:52! Pot right ($2650), flopping/dealing/drawing cards
+! 01/12/19 15:56:52! 3 players
+! 01/12/19 15:56:52! Flopped card: 10s
+! 01/12/19 16:44:38! Ben Irving bets $1200 
+! 01/12/19 17:01:05! UConn2004 calls 
+! 01/12/19 17:01:05! Julie Greenberg folds
+
+! 01/12/19 17:01:05! Pot right ($5050), flopping/dealing/drawing cards
+! 01/12/19 17:01:05! 2 players
+! 01/12/19 17:01:05! Flopped card: 2d
+! 01/12/19 17:54:36! Ben Irving checks
+! 01/13/19 07:57:12! UConn2004 checks
+! Hand over, current board is:  Kh 2c 7h 10s 2d
+! UConn2004                has: Qd Jc
+! Ben Irving               has: Jh 5d
+! UConn2004 wins $5050 (net $3250) with One Pair (2 2 K Q J)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Keith Troell             |  120725 |         |      |    |         |
+ 2|   Jim Sokoloff             |   96850 |         |      |    |         |
+ 3|   UConn2004                |   64725 |         |      |    |         |
+ 4|   Julie Greenberg          |  150475 |         |      |    |         |
+ 5|D  Ira Agins                |   30825 |         |      |    |         |
+ 6|>  Ben Irving               |   52125 |         |      |    |         |
+ 7|   Mike Sager               |  117350 |         |      |    |         |
+ 8|   jockamo                  |   95850 |         |      |    |         |
+ 9|   Chaos                    |   54650 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 376 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c11.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+The "c" round has started.  Good luck to all
+the remaining players.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 5
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

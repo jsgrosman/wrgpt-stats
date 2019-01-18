@@ -1,0 +1,112 @@
+Message-Id: <201101282015.p0SKFLjX013812@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [c25.10414] Holdem Game Broadcast Message(*)                          
+
+! Table c25, Hand 98, Day 89
+
+! Its Just AA folds
+! Pot right ($168500), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped card: 8s
+! Flopped card: 5d
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Julian Longo             |  22025 |    200 |folded|    |        |
+ 2|   David                    |  84550 |    200 |folded|    |        |
+ 3|   JAvery - VP              |      0 |   5300 |all-in|  4 |  22400 |
+ 4|>  Its Just AA              | 114975 |   5300 |folded|    |        |
+ 5|D  Nikadai                  |  20000 |    200 |folded|    |        |
+ 6|   mjoseff                  |      0 | 151400 |all-in|  1 | 146100 |
+ 7|   Eddie Brown              | 191625 |   5300 |folded|    |        |
+ 8|   jasong            |  39350 |    200 |folded|    |        |
+ 9|   AW Coody                 |  88150 |    200 |folded|    |        |
+10|   b monie                  |  15300 |    200 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 01/27/11 10:33:17! Dealing a new hand
+! 01/27/11 10:33:17! Everyone antes $200
+! 01/27/11 10:33:17! mjoseff blinds $600
+! 01/27/11 10:33:17! Eddie Brown blinds $1200
+! 01/27/11 10:34:47! jasong folds
+! 01/27/11 10:38:11! AW Coody folds
+! 01/27/11 10:39:47! b monie folds
+! 01/27/11 10:44:40! Julian Longo folds
+! 01/27/11 17:39:06! David folds
+! 01/28/11 08:06:55! JAvery - VP raises $3900 and is all in
+! 01/28/11 09:10:03! Its Just AA calls 
+! 01/28/11 10:32:51! Nikadai folds
+! 01/28/11 10:55:12! mjoseff calls 
+! 01/28/11 11:03:41! Eddie Brown calls 
+
+! 01/28/11 11:03:41! Pot right ($22400), flopping/dealing/drawing cards
+! 01/28/11 11:03:41! 4 players, 1 all in
+! 01/28/11 11:03:41! Flopped cards: 10d 9h Qh
+! 01/28/11 11:14:45! mjoseff bets $146100 and is all in
+_____________________________________________________________________________
+
+! Really?
+! On Jan 27, 2011 12:33 PM, <dealer@wrgpt.org> wrote:
+! (dealer suppressed lines starting with '>' or ':')
+! http://hands.wrgpt.org/c/c25.html
+! -- Eddie Brown --
+_____________________________________________________________________________
+
+! 01/28/11 11:34:13! Eddie Brown folds
+! 01/28/11 12:15:21! Its Just AA folds
+
+! 01/28/11 12:15:21! Pot right ($168500), flopping/dealing/drawing cards
+! 01/28/11 12:15:21! 2 players, 2 all in
+! 01/28/11 12:15:21! Flopped card: 8s
+! 01/28/11 12:15:21! Flopped card: 5d
+! Hand over, current board is:  10d 9h Qh 8s 5d
+! JAvery - VP              has: 9s Kc
+! mjoseff                  has: Ks Jh
+! Pot 1: uncalled $146100 returned to mjoseff
+! Pot 4: mjoseff wins $22400 with Straight (K Q J 10 9)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Julian Longo             |  22025 |        |      |    |        |
+ 2|   David                    |  84550 |        |      |    |        |
+ 4|>  Its Just AA              | 114975 |        |      |    |        |
+ 5|   Nikadai                  |  20000 |        |      |    |        |
+ 6|D  mjoseff                  | 168500 |        |      |    |        |
+ 7|   Eddie Brown              | 191625 |        |      |    |        |
+ 8|   jasong            |  39350 |        |      |    |        |
+ 9|   AW Coody                 |  88150 |        |      |    |        |
+10|   b monie                  |  15300 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! JAvery - VP is eliminated!
+! jasong went on vacation until <Gone>
+! 483 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c25.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Having problems? Send email to floorman20@wrgpt.org.
+
+Live Redraw Status as of 01/28/11 11:55:01 AM
+
+Total Empty Seats: 25
+Total Playing Seats: 485
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org or follow "wrgpt" on Twitter.
+

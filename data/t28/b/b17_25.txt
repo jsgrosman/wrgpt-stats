@@ -1,0 +1,102 @@
+Subject: [b17.10391] Holdem Game Broadcast Message(*)
+
+! Table b17, Hand 25, Day 21
+
+! crush_me folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   John Bernstein           |   41800 |       0 |folded|    |         |
+ 2|   Sandy                    |   49200 |       0 |folded|    |         |
+ 3|   Mike DellaBarca          |   44475 |       0 |folded|    |         |
+ 4|>  Baldy                    |   81200 |    2250 |      |    |         |
+ 5|   shinsook                 |  107975 |       0 |folded|    |         |
+ 6|D  Kahomono                 |   50950 |       0 |folded|    |         |
+ 8|   Mark Lemon               |   52725 |     150 |folded|    |         |
+ 9|   crush_me                 |   18225 |    1050 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/01/18 09:38:16! Dealing a new hand
+! 12/01/18 09:38:16! No ante
+! 12/01/18 09:38:16! Mark Lemon blinds $150
+! 12/01/18 09:38:16! crush_me blinds $300
+! 12/01/18 19:09:28! John Bernstein folds
+! 12/01/18 19:09:28! Sandy folds
+! 12/01/18 19:09:28! Mike DellaBarca folds
+! 12/01/18 19:24:41! Baldy raises $750 to $1050 total 
+! 12/01/18 19:24:41! shinsook folds
+! 12/01/18 19:24:41! Kahomono folds
+! 12/01/18 19:29:17! Mark Lemon folds
+! 12/02/18 04:40:37! crush_me calls 
+
+! 12/02/18 04:40:37! Pot right ($2250), flopping/dealing/drawing cards
+! 12/02/18 04:40:37! 2 players
+! 12/02/18 04:40:37! Flopped cards: 4s Qh 10h
+! 12/02/18 04:41:07! crush_me checks
+! 12/02/18 08:25:42! Baldy bets $1200 
+! 12/02/18 08:48:54! crush_me folds
+! Hand over, no showdown
+! Current board is:  4s Qh 10h ? ?
+! Baldy wins $3450 (net $1200)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   John Bernstein           |   41800 |         |      |    |         |
+ 2|   Sandy                    |   49200 |         |      |    |         |
+ 3|   Mike DellaBarca          |   44475 |         |      |    |         |
+ 4|>  Baldy                    |   84650 |         |      |    |         |
+ 5|   shinsook                 |  107975 |         |      |    |         |
+ 6|   Kahomono                 |   50950 |         |      |    |         |
+ 8|D  Mark Lemon               |   52725 |         |      |    |         |
+ 9|   crush_me                 |   18225 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 531 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b17.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

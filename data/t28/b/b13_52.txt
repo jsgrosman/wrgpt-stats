@@ -1,0 +1,107 @@
+Subject: [b13.10586] Holdem Game Broadcast Message(*)
+
+! Table b13, Hand 52, Day 35
+
+! tristero checks
+! Morgan checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   JoeBou                   |   47475 |      25 |folded|    |         |
+ 2|   DaveKal                  |   83650 |     925 |folded|    |         |
+ 3|V  JAY ENGLANDER            |   43275 |      25 |<AWOL>|    |         |
+ 4|   DrXenonBloom             |   39600 |      25 |folded|    |         |
+ 5|   Morgan                   |   25150 |    1925 |      |    |         |
+ 7|D  Theodore Chipmunk        |  121875 |      25 |folded|    |         |
+ 8|   cezz                     |   66875 |     175 |folded|    |         |
+ 9|>  tristero                 |  107850 |    1925 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/15/18 18:33:37! Dealing a new hand
+! 12/15/18 18:33:37! Everyone antes $25
+! 12/15/18 18:33:37! cezz blinds $150
+! 12/15/18 18:33:37! tristero blinds $300
+! 12/16/18 02:29:54! JoeBou folds
+! 12/16/18 03:06:01! DaveKal raises $600 to $900 total 
+! 12/16/18 03:06:01! JAY ENGLANDER is on vacation and folds
+! 12/16/18 05:32:37! DrXenonBloom folds
+! 12/16/18 05:40:57! Morgan calls 
+! 12/16/18 05:40:57! Theodore Chipmunk folds
+! 12/16/18 05:40:57! cezz folds
+! 12/16/18 06:37:04! tristero calls 
+
+! 12/16/18 06:37:04! Pot right ($3050), flopping/dealing/drawing cards
+! 12/16/18 06:37:04! 3 players
+! 12/16/18 06:37:04! Flopped cards: 7d 3h Jc
+! 12/16/18 06:38:16! tristero bets $1000 
+! 12/16/18 06:46:37! DaveKal folds
+! 12/16/18 08:31:23! Morgan calls 
+
+! 12/16/18 08:31:23! Pot right ($5050), flopping/dealing/drawing cards
+! 12/16/18 08:31:23! 2 players
+! 12/16/18 08:31:23! Flopped card: Jd
+! 12/16/18 08:55:19! tristero checks
+! 12/16/18 08:55:19! Morgan checks
+
+! 12/16/18 08:55:19! Pot right ($5050), flopping/dealing/drawing cards
+! 12/16/18 08:55:19! 2 players
+! 12/16/18 08:55:19! Flopped card: Kh
+! 12/16/18 08:57:20! tristero checks
+! 12/16/18 08:57:20! Morgan checks
+! Hand over, current board is:  7d 3h Jc Jd Kh
+! Morgan                   has: 5h 4h
+! tristero                 has: 10c 8c
+! tristero wins $5050 (net $3125) with One Pair (J J K 10 8)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   JoeBou                   |   47475 |         |      |    |         |
+ 2|   DaveKal                  |   83650 |         |      |    |         |
+ 3|V  JAY ENGLANDER            |   43275 |         |<AWOL>|    |         |
+ 4|   DrXenonBloom             |   39600 |         |      |    |         |
+ 5|   Morgan                   |   25150 |         |      |    |         |
+ 7|   Theodore Chipmunk        |  121875 |         |      |    |         |
+ 8|D  cezz                     |   66875 |         |      |    |         |
+ 9|>  tristero                 |  112900 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 470 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b13.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 16
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

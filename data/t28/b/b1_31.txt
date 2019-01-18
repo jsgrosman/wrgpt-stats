@@ -1,0 +1,107 @@
+Subject: [b1.10299] Holdem Game Broadcast Message(*)
+
+! Table b1, Hand 31, Day 16
+
+! Nick Name folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Nick Name                |   48975 |    2150 |folded|    |         |
+ 2|   EricL                    |   53000 |       0 |folded|    |         |
+ 3|   Thomas Gabrysch          |   47950 |       0 |folded|    |         |
+ 4|D  Bacon                    |   51500 |       0 |folded|    |         |
+ 5|   Duncan                   |   40250 |     150 |folded|    |         |
+ 6|>  mulligan                 |   43800 |    4400 |      |    |         |
+ 7|   stannius                 |   52175 |       0 |folded|    |         |
+ 8|   Kevin Mackey             |   53050 |       0 |folded|    |         |
+ 9|V  Endrju                   |   52600 |       0 |Dec 1s|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/26/18 13:35:15! Dealing a new hand
+! 11/26/18 13:35:15! No ante
+! 11/26/18 13:35:15! Duncan blinds $150
+! 11/26/18 13:35:15! mulligan blinds $300
+! 11/26/18 13:36:19! stannius folds
+! 11/26/18 14:56:31! Kevin Mackey folds
+! 11/26/18 14:56:31! Endrju is on vacation and folds
+! 11/27/18 03:41:10! Nick Name raises $600 to $900 total 
+! 11/27/18 03:46:03! EricL folds
+! 11/27/18 03:59:30! Thomas Gabrysch folds
+! 11/27/18 03:59:30! Bacon folds
+! 11/27/18 03:59:30! Duncan folds
+! 11/27/18 05:37:02! mulligan calls 
+
+! 11/27/18 05:37:02! Pot right ($1950), flopping/dealing/drawing cards
+! 11/27/18 05:37:02! 2 players
+! 11/27/18 05:37:02! Flopped cards: Jh 9c Ah
+! 11/27/18 05:38:08! mulligan checks
+! 11/27/18 05:59:13! Nick Name bets $1250 
+! 11/27/18 06:36:17! mulligan raises $2250 to $3500 total 
+! 11/27/18 08:02:01! Nick Name folds
+! Hand over, no showdown
+! Current board is:  Jh 9c Ah ? ?
+! mulligan wins $6700 (net $2300)
+! mulligan                 reveals  7h 7c
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Nick Name                |   48975 |         |      |    |         |
+ 2|   EricL                    |   53000 |         |      |    |         |
+ 3|   Thomas Gabrysch          |   47950 |         |      |    |         |
+ 4|   Bacon                    |   51500 |         |      |    |         |
+ 5|D  Duncan                   |   40250 |         |      |    |         |
+ 6|>  mulligan                 |   50500 |         |      |    |         |
+ 7|   stannius                 |   52175 |         |      |    |         |
+ 8|   Kevin Mackey             |   53050 |         |      |    |         |
+ 9|V  Endrju                   |   52600 |         |Dec 1s|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 553 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b1.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 5
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

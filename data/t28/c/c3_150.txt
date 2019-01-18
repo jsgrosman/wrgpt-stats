@@ -1,0 +1,109 @@
+Subject: [c3.10029] Holdem Game Broadcast Message(*)
+
+! Table c3, Hand 150, Day 58
+
+! gilette folds
+! Pot right ($168675), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped cards: 9s 3h 2s
+! Flopped card: Ad
+! Flopped card: 6s
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Brian Crowley            |       0 |   59875 |all-in|  2 |  129200 |
+ 2|   danthefan                |   80825 |     100 |folded|    |         |
+ 3|D> gilette                  |   22900 |    7600 |folded|    |         |
+ 4|   Fredrik Westerlund       |   68950 |     350 |folded|    |         |
+ 5|   smak                     |   40750 |     600 |folded|    |         |
+ 6|   Chris Goedde             |  154675 |     100 |folded|    |         |
+ 7|   MichaelJ                 |   41525 |     600 |folded|    |         |
+ 8|V  JAY ENGLANDER            |   39700 |     100 |<AWOL>|    |         |
+ 9|   yawetag                  |       0 |   99350 |all-in|  1 |   39475 |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/07/19 16:57:01! Dealing a new hand
+! 01/07/19 16:57:01! Everyone antes $100
+! 01/07/19 16:57:01! Fredrik Westerlund blinds $250
+! 01/07/19 16:57:01! smak blinds $500
+! 01/07/19 16:57:28! Chris Goedde folds
+! 01/07/19 19:51:12! MichaelJ calls 
+! 01/07/19 19:51:12! JAY ENGLANDER is on vacation and folds
+! 01/08/19 04:14:14! yawetag raises $1500 to $2000 total 
+! 01/08/19 04:14:14! Brian Crowley calls 
+! 01/08/19 04:14:14! danthefan folds
+! 01/08/19 07:03:58! gilette raises $5500 to $7500 total 
+! 01/08/19 07:03:58! Fredrik Westerlund folds
+! 01/08/19 11:35:24! smak folds
+! 01/08/19 11:42:15! MichaelJ folds
+! 01/08/19 11:44:18! yawetag raises $91750 to $99250 total and is all in
+! 01/08/19 11:44:18! Brian Crowley calls - side pot
+! 01/08/19 12:29:16! gilette folds
+
+! 01/08/19 12:29:16! Pot right ($168675), flopping/dealing/drawing cards
+! 01/08/19 12:29:16! 2 players, 2 all in
+! 01/08/19 12:29:16! Flopped cards: 9s 3h 2s
+! 01/08/19 12:29:16! Flopped card: Ad
+! 01/08/19 12:29:16! Flopped card: 6s
+! Hand over, current board is:  9s 3h 2s Ad 6s
+! Brian Crowley            has: Jh Ac
+! yawetag                  has: Ks Kh
+! Pot 1: uncalled $39475 returned to yawetag
+! Pot 2: Brian Crowley wins $129200 with One Pair (A A J 9 6)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Brian Crowley            |  129200 |         |      |    |         |
+ 2|   danthefan                |   80825 |         |      |    |         |
+ 3|>  gilette                  |   22900 |         |      |    |         |
+ 4|D  Fredrik Westerlund       |   68950 |         |      |    |         |
+ 5|   smak                     |   40750 |         |      |    |         |
+ 6|   Chris Goedde             |  154675 |         |      |    |         |
+ 7|   MichaelJ                 |   41525 |         |      |    |         |
+ 8|V  JAY ENGLANDER            |   39700 |         |<AWOL>|    |         |
+ 9|   yawetag                  |   39475 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 394 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c3.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+The "c" round has started.  Good luck to all
+the remaining players.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 3
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

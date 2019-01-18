@@ -1,0 +1,103 @@
+Message-Id: <201012131920.oBDJKFpS026583@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [b20.10583] Holdem Game Broadcast Message(*)                          
+
+! Table b20, Hand 50, Day 43
+
+! Blacktav folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Ross Porter              |  21700 |     50 |folded|    |        |
+ 2|   Cyberchomp               |  31725 |     50 |folded|    |        |
+ 3|D  Swamp Duff               |  46350 |    900 |folded|    |        |
+ 4|   Blacktav                 |  50400 |    900 |folded|    |        |
+ 5|   jasong            |  73950 |    450 |folded|    |        |
+ 6|   Andrew Nelson            |  22350 |     50 |folded|    |        |
+ 7|   plankton                 |  71925 |     50 |folded|    |        |
+ 9|   Greg Folla               |  53750 |     50 |folded|    |        |
+10|>  JackBlack                |  47350 |   2900 |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 12/13/10 06:37:16! Dealing a new hand
+! 12/13/10 06:37:16! Everyone antes $50
+! 12/13/10 06:37:16! Blacktav blinds $200
+! 12/13/10 06:37:16! jasong blinds $400
+! 12/13/10 06:37:16! Andrew Nelson is on vacation and folds
+! 12/13/10 06:49:47! plankton folds
+! 12/13/10 06:49:47! Greg Folla folds
+! 12/13/10 06:59:11! Andrew Nelson is back from vacation
+! 12/13/10 08:32:07! JackBlack calls 
+! 12/13/10 10:09:39! Ross Porter folds
+! 12/13/10 10:09:39! Cyberchomp folds
+! 12/13/10 10:20:09! Swamp Duff calls 
+! 12/13/10 10:20:09! Blacktav raises $450 
+! 12/13/10 10:28:43! jasong folds
+! 12/13/10 10:28:43! JackBlack calls 
+! 12/13/10 10:30:24! Swamp Duff calls 
+
+! 12/13/10 10:30:24! Pot right ($3400), flopping/dealing/drawing cards
+! 12/13/10 10:30:24! 3 players
+! 12/13/10 10:30:24! Flopped cards: 10h 6d 7s
+! 12/13/10 10:31:11! Blacktav checks
+! 12/13/10 10:33:43! JackBlack checks
+! 12/13/10 10:34:09! Swamp Duff checks
+
+! 12/13/10 10:34:09! Pot right ($3400), flopping/dealing/drawing cards
+! 12/13/10 10:34:09! 3 players
+! 12/13/10 10:34:09! Flopped card: 8d
+! 12/13/10 10:42:58! Blacktav checks
+! 12/13/10 10:53:45! JackBlack bets $2000 
+! 12/13/10 10:54:04! Swamp Duff folds
+! 12/13/10 11:20:14! Blacktav folds
+! Hand over, no showdown
+! Current board is:  10h 6d 7s 8d ?
+! JackBlack wins $5400 (net $2500)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Ross Porter              |  21700 |        |      |    |        |
+ 2|   Cyberchomp               |  31725 |        |      |    |        |
+ 3|   Swamp Duff               |  46350 |        |      |    |        |
+ 4|D  Blacktav                 |  50400 |        |      |    |        |
+ 5|   jasong            |  73950 |        |      |    |        |
+ 6|   Andrew Nelson            |  22350 |        |      |    |        |
+ 7|   plankton                 |  71925 |        |      |    |        |
+ 9|   Greg Folla               |  53750 |        |      |    |        |
+10|>  JackBlack                |  52750 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 701 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b20.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Players who have not shown up to WRGPT20 yet are being removed.
+
+If you are absent for 45 days without letting the floorman know
+you will also be removed.
+
+If you have any problems send mail to floorman20@wrgpt.org.
+
+Live Redraw Status as of 12/13/10 10:55:01 AM
+
+Total Empty Seats: 17
+Total Playing Seats: 703
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org or follow "wrgpt" on Twitter.
+

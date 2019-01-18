@@ -1,0 +1,110 @@
+Subject: [b11.10534] Holdem Game Broadcast Message(*)
+
+! Table b11, Hand 46, Day 34
+
+! ddppmm calls 
+! Pot right ($74125), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 2s
+! Flopped card: 10c
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  bad                      |   47700 |    1125 |folded|    |         |
+ 2|   MNoelH                   |       0 |   36275 |all-in|    |         |
+ 3|   RichNYC                  |   44600 |     325 |folded|    |         |
+ 4|>  ddppmm                   |   48650 |   36275 |      |    |         |
+ 5|   DotMatrix                |   52375 |      25 |folded|    |         |
+ 6|   put_it_good              |   43725 |      25 |folded|    |         |
+ 7|   Bobby the Worm           |   55850 |      25 |folded|    |         |
+ 8|   ADB Jupe                 |   48950 |      25 |folded|    |         |
+ 9|   Chris Goedde             |   91425 |      25 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/14/18 19:02:17! Dealing a new hand
+! 12/14/18 19:02:17! Everyone antes $25
+! 12/14/18 19:02:17! MNoelH blinds $150
+! 12/14/18 19:02:17! RichNYC blinds $300
+! 12/14/18 20:18:32! ddppmm raises $800 to $1100 total 
+! 12/14/18 20:18:32! DotMatrix folds
+! 12/14/18 21:11:42! put_it_good folds
+! 12/14/18 22:03:20! Bobby the Worm folds
+! 12/15/18 04:56:04! ADB Jupe folds
+! 12/15/18 04:56:04! Chris Goedde folds
+! 12/15/18 05:04:53! bad calls 
+! 12/15/18 06:08:24! MNoelH calls 
+! 12/15/18 06:08:24! RichNYC folds
+
+! 12/15/18 06:08:24! Pot right ($3825), flopping/dealing/drawing cards
+! 12/15/18 06:08:24! 3 players
+! 12/15/18 06:08:24! Flopped cards: 6d 2d 9h
+! 12/15/18 06:37:35! MNoelH bets $2000 
+! 12/15/18 08:12:17! ddppmm raises $2000 to $4000 total 
+! 12/15/18 08:46:03! bad folds
+! 12/15/18 09:05:53! MNoelH raises $4000 to $8000 total 
+! 12/15/18 09:27:53! ddppmm raises $16000 to $24000 total 
+! 12/15/18 12:10:58! MNoelH raises $11150 to $35150 total and is all in
+! 12/15/18 12:19:52! ddppmm calls 
+
+! 12/15/18 12:19:52! Pot right ($74125), flopping/dealing/drawing cards
+! 12/15/18 12:19:52! 2 players, 1 all in
+! 12/15/18 12:19:52! Flopped card: 2s
+! 12/15/18 12:19:52! Flopped card: 10c
+! Hand over, current board is:  6d 2d 9h 2s 10c
+! MNoelH                   has: 9d 9c
+! ddppmm                   has: Ks Kh
+! MNoelH wins $74125 (net $37850) with Full House (9 9 9 2 2)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   bad                      |   47700 |         |      |    |         |
+ 2|D  MNoelH                   |   74125 |         |      |    |         |
+ 3|   RichNYC                  |   44600 |         |      |    |         |
+ 4|>  ddppmm                   |   48650 |         |      |    |         |
+ 5|   DotMatrix                |   52375 |         |      |    |         |
+ 6|   put_it_good              |   43725 |         |      |    |         |
+ 7|   Bobby the Worm           |   55850 |         |      |    |         |
+ 8|   ADB Jupe                 |   48950 |         |      |    |         |
+ 9|   Chris Goedde             |   91425 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 471 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b11.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 15
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,105 @@
+Subject: [b27.11311] Holdem Game Broadcast Message(*)
+
+! Table b27, Hand 119, Day 51
+
+! db222 folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   the cake is a pie        |  155700 |      50 |folded|    |         |
+ 2|V  Scipio                   |   44625 |      50 |<Gone>|    |         |
+ 3|   Swamper bfj              |  124400 |      50 |folded|    |         |
+ 5|D  Fryday                   |   37550 |      50 |folded|    |         |
+ 6|   db222                    |  102200 |    2250 |folded|    |         |
+ 7|   Quick                    |   84850 |     450 |folded|    |         |
+ 8|>  docdanger                |   64975 |    5250 |      |    |         |
+ 9|   DKatx512                 |   36500 |      50 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/01/19 13:06:33! Dealing a new hand
+! 01/01/19 13:06:33! Everyone antes $50
+! 01/01/19 13:06:33! db222 blinds $200
+! 01/01/19 13:06:33! Quick blinds $400
+! 01/01/19 13:43:27! docdanger raises $600 to $1000 total 
+! 01/01/19 13:43:27! DKatx512 folds
+! 01/01/19 14:38:38! the cake is a pie folds
+! 01/01/19 14:38:38! Scipio is on vacation and folds
+! 01/01/19 14:38:38! Swamper bfj folds
+! 01/01/19 14:38:38! Fryday folds
+! 01/01/19 15:10:19! db222 calls 
+! 01/01/19 15:10:19! Quick folds
+
+! 01/01/19 15:10:19! Pot right ($2800), flopping/dealing/drawing cards
+! 01/01/19 15:10:19! 2 players
+! 01/01/19 15:10:19! Flopped cards: Ac Kh Jh
+! 01/01/19 15:10:48! db222 checks
+! 01/01/19 15:40:52! docdanger bets $1200 
+! 01/01/19 16:26:27! db222 calls 
+
+! 01/01/19 16:26:27! Pot right ($5200), flopping/dealing/drawing cards
+! 01/01/19 16:26:27! 2 players
+! 01/01/19 16:26:27! Flopped card: 8h
+! 01/01/19 16:27:28! db222 checks
+! 01/01/19 16:34:21! docdanger bets $3000 
+! 01/01/19 17:08:29! db222 folds
+! Hand over, no showdown
+! Current board is:  Ac Kh Jh 8h ?
+! docdanger wins $8200 (net $2950)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   the cake is a pie        |  155700 |         |      |    |         |
+ 2|V  Scipio                   |   44625 |         |<Gone>|    |         |
+ 3|   Swamper bfj              |  124400 |         |      |    |         |
+ 5|   Fryday                   |   37550 |         |      |    |         |
+ 6|D  db222                    |  102200 |         |      |    |         |
+ 7|   Quick                    |   84850 |         |      |    |         |
+ 8|>  docdanger                |   73175 |         |      |    |         |
+ 9|   DKatx512                 |   36500 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 407 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b27.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+We are now over 45 days into round "b". 
+As soon as any table gets to five or fewer 
+players all tables will finish the current 
+hand and a full redraw to round "c" will be done.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 25
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

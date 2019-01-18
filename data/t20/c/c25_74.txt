@@ -1,0 +1,107 @@
+Message-Id: <201101061842.p06IgRFx021887@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [c25.10182] Holdem Game Broadcast Message(*)                          
+
+! Table c25, Hand 74, Day 67
+
+! mjoseff calls 
+! Pot right ($74150), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 6d
+! Flopped card: 8h
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Nikadai                  |  70975 |     50 |folded|    |        |
+ 2|>  mjoseff                  |  29175 |  31500 |      |    |        |
+ 4|   Eddie Brown              |  55100 |   5250 |folded|    |        |
+ 5|V  Stanley Chow             |  29350 |     50 |<AWOL>|    |        |
+ 6|D  Deborah Abel             |      0 |  31500 |all-in|    |        |
+ 7|   jasong            |  71500 |   5250 |folded|    |        |
+ 8|   jennyfar                 |  81950 |    450 |folded|    |        |
+ 9|   AW Coody                 | 108900 |     50 |folded|    |        |
+10|   b monie                  |  29750 |     50 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 01/05/11 19:24:31! Dealing a new hand
+! 01/05/11 19:24:31! Everyone antes $50
+! 01/05/11 19:24:31! jasong blinds $200
+! 01/05/11 19:24:31! jennyfar blinds $400
+! 01/06/11 05:18:24! Nikadai is back from vacation
+! 01/06/11 07:10:18! AW Coody folds
+! 01/06/11 07:10:18! b monie folds
+! 01/06/11 07:10:18! Nikadai folds
+! 01/06/11 07:10:45! mjoseff raises $800 
+! 01/06/11 07:14:17! Eddie Brown calls 
+! 01/06/11 07:14:17! Stanley Chow is on vacation and folds
+! 01/06/11 07:38:00! Deborah Abel raises $4000 
+! 01/06/11 07:43:57! jasong calls 
+! 01/06/11 08:11:50! jennyfar folds
+! 01/06/11 08:27:39! mjoseff calls 
+! 01/06/11 08:34:08! Eddie Brown calls 
+
+! 01/06/11 08:34:08! Pot right ($21650), flopping/dealing/drawing cards
+! 01/06/11 08:34:08! 4 players
+! 01/06/11 08:34:08! Flopped cards: 9d Jc 9c
+! 01/06/11 08:39:56! jasong checks
+! 01/06/11 09:32:28! mjoseff checks
+! 01/06/11 09:33:42! Eddie Brown checks
+! 01/06/11 09:41:19! Deborah Abel bets $5000 
+! 01/06/11 10:28:38! jasong folds
+! 01/06/11 10:34:38! mjoseff raises $15000 
+! 01/06/11 10:34:38! Eddie Brown folds
+! 01/06/11 10:39:50! Deborah Abel raises $6250 and is all in
+! 01/06/11 10:42:26! mjoseff calls 
+
+! 01/06/11 10:42:26! Pot right ($74150), flopping/dealing/drawing cards
+! 01/06/11 10:42:26! 2 players, 1 all in
+! 01/06/11 10:42:26! Flopped card: 6d
+! 01/06/11 10:42:26! Flopped card: 8h
+! Hand over, current board is:  9d Jc 9c 6d 8h
+! mjoseff                  has: 9h Qc
+! Deborah Abel             has: As Jd
+! mjoseff wins $74150 (net $42650) with Three of a Kind (9 9 9 Q J)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Nikadai                  |  70975 |        |      |    |        |
+ 2|>  mjoseff                  | 103325 |        |      |    |        |
+ 4|   Eddie Brown              |  55100 |        |      |    |        |
+ 5|V  Stanley Chow             |  29350 |        |<AWOL>|    |        |
+ 7|D  jasong            |  71500 |        |      |    |        |
+ 8|   jennyfar                 |  81950 |        |      |    |        |
+ 9|   AW Coody                 | 108900 |        |      |    |        |
+10|   b monie                  |  29750 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! Nikadai went on vacation until 13 jan
+! Deborah Abel is eliminated!
+! 598 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c25.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+If you have any problems send mail to floorman20@wrgpt.org.
+
+Live Redraw Status as of 01/06/11 10:25:01 AM
+
+Total Empty Seats: 25
+Total Playing Seats: 599
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org or follow "wrgpt" on Twitter.
+

@@ -1,0 +1,106 @@
+Subject: [b11.10092] Holdem Game Broadcast Message(*)
+
+! Table b11, Hand 7, Day 8
+
+! bad folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   bad                      |   49550 |     450 |folded|    |         |
+ 2|V  MNoelH                   |   47225 |       0 |<AWOL>|    |         |
+ 3|   RichNYC                  |   49775 |       0 |folded|    |         |
+ 4|   ddppmm                   |   41900 |       0 |folded|    |         |
+ 5|   DotMatrix                |   67450 |       0 |folded|    |         |
+ 6|   put_it_good              |   45675 |       0 |folded|    |         |
+ 7|D> Bommerman                |   48325 |    1450 |      |    |         |
+ 8|V  Three Pair               |   49775 |      75 | NoSho|    |         |
+ 9|   Chris Goedde             |   48200 |     150 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/19/18 12:45:03! Dealing a new hand
+! 11/19/18 12:45:03! No ante
+! 11/19/18 12:45:03! Three Pair blinds $75
+! 11/19/18 12:45:03! Chris Goedde blinds $150
+! 11/19/18 13:11:00! bad calls 
+! 11/19/18 13:11:00! MNoelH is on vacation and folds
+! 11/19/18 13:11:00! RichNYC folds
+! 11/19/18 13:11:00! ddppmm folds
+! 11/19/18 13:11:00! DotMatrix folds
+! 11/19/18 13:11:00! put_it_good folds
+! 11/19/18 13:14:56! Bommerman raises $300 to $450 total 
+! 11/19/18 13:14:56! Three Pair is on vacation and folds
+! 11/19/18 13:32:39! Chris Goedde folds
+! 11/19/18 13:33:14! bad calls 
+
+! 11/19/18 13:33:14! Pot right ($1125), flopping/dealing/drawing cards
+! 11/19/18 13:33:14! 2 players
+! 11/19/18 13:33:14! Flopped cards: Jc Js 7d
+! 11/19/18 13:33:39! bad checks
+! 11/19/18 14:38:27! Bommerman bets $1000 
+! 11/19/18 14:40:19! bad folds
+! Hand over, no showdown
+! Current board is:  Jc Js 7d ? ?
+! Bommerman wins $2125 (net $675)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   bad                      |   49550 |         |      |    |         |
+ 2|V  MNoelH                   |   47225 |         |<AWOL>|    |         |
+ 3|   RichNYC                  |   49775 |         |      |    |         |
+ 4|   ddppmm                   |   41900 |         |      |    |         |
+ 5|   DotMatrix                |   67450 |         |      |    |         |
+ 6|   put_it_good              |   45675 |         |      |    |         |
+ 7|>  Bommerman                |   50450 |         |      |    |         |
+ 8|DV Three Pair               |   49775 |         | NoSho|    |         |
+ 9|   Chris Goedde             |   48200 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 573 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b11.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 3
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

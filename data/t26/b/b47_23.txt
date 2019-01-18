@@ -1,0 +1,122 @@
+
+! Table b47, Hand 23, Day 15
+
+! Selah folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  Rainbow Trout            |   40025 |    9375 |      |    |         |
+ 2|V  Tammy                    |   49475 |       0 |<AWOL>|    |         |
+ 3|D  Stray Taoist             |   35550 |       0 |folded|    |         |
+ 4|   Selah                    |   49625 |    2850 |folded|    |         |
+ 5|   Baldgriff                |   44525 |     150 |folded|    |         |
+ 6|   Grasshopp3r              |   55175 |       0 |folded|    |         |
+ 7|   J. Michael Robertson     |   53850 |       0 |folded|    |         |
+ 8|   asypta                   |   49650 |     675 |folded|    |         |
+ 9|   Mybanjo                  |   49550 |       0 |folded|    |         |
+10|   jasong            |   59525 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 10/30/16 11:16:25! Dealing a new hand
+! 10/30/16 11:16:25! No ante
+! 10/30/16 11:16:25! Selah blinds $75
+! 10/30/16 11:16:25! Baldgriff blinds $150
+! 10/30/16 11:17:57! Grasshopp3r folds
+! 10/30/16 11:35:09! J. Michael Robertson folds
+! 10/30/16 11:55:21! asypta calls 
+! 10/30/16 12:09:23! Mybanjo folds
+! 10/30/16 12:09:23! jasong folds
+! 10/30/16 12:16:15! Rainbow Trout raises $525 
+! 10/30/16 12:16:15! Tammy is on vacation and folds
+! 10/30/16 12:16:15! Stray Taoist folds
+! 10/30/16 14:23:42! Selah calls 
+! 10/30/16 14:33:22! Baldgriff folds
+! 10/30/16 14:55:43! asypta calls 
+
+! 10/30/16 14:55:43! Pot right ($2175), flopping/dealing/drawing cards
+! 10/30/16 14:55:43! 3 players
+! 10/30/16 14:55:43! Flopped cards: 8d Qh 3d
+! 10/31/16 11:03:47! Selah checks
+! 10/31/16 11:03:47! asypta checks
+! 10/31/16 11:15:19! Rainbow Trout bets $2175 
+! 10/31/16 11:18:03! Selah calls 
+! 10/31/16 11:18:03! asypta folds
+
+! 10/31/16 11:18:03! Pot right ($6525), flopping/dealing/drawing cards
+! 10/31/16 11:18:03! 2 players
+! 10/31/16 11:18:03! Flopped card: 9h
+! 10/31/16 11:34:25! Selah checks
+! 10/31/16 11:56:24! Rainbow Trout bets $6525 
+! 10/31/16 12:36:52! Selah folds
+! Hand over, no showdown
+! Current board is:  8d Qh 3d 9h ?
+! Rainbow Trout wins $13050 (net $3675)
+! Antes and blinds go up
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  Rainbow Trout            |   53075 |         |      |    |         |
+ 2|V  Tammy                    |   49475 |         |<AWOL>|    |         |
+ 3|   Stray Taoist             |   35550 |         |      |    |         |
+ 4|D  Selah                    |   49625 |         |      |    |         |
+ 5|   Baldgriff                |   44525 |         |      |    |         |
+ 6|   Grasshopp3r              |   55175 |         |      |    |         |
+ 7|   J. Michael Robertson     |   53850 |         |      |    |         |
+ 8|   asypta                   |   49650 |         |      |    |         |
+ 9|   Mybanjo                  |   49550 |         |      |    |         |
+10|   jasong            |   59525 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 564 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b47.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+This is the REAL WRGPT26.  Good luck.
+
+Timeout rules have changed this year.  Timeouts will never be 
+more than 24 hours after the last action.  This means you will 
+timeout on holidays and weekends if you do not play.
+
+======
+
+Live Redraw Status as of 10/31/16 12:25:01 PM
+
+Total Empty Seats: 5
+Total Playing Seats: 564
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman26@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

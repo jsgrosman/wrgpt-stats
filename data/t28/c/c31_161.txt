@@ -1,0 +1,114 @@
+Subject: [c31.10196] Holdem Game Broadcast Message(*)
+
+! Table c31, Hand 161, Day 66
+
+! TomnyO calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Brian Huss               |   77175 |     100 |folded|    |         |
+ 2|   Quiet Lion               |   18300 |     100 |folded|    |         |
+ 3|   Isaac Newton             |   48850 |     100 |folded|    |         |
+ 4|   mulligan                 |  117375 |    2000 |folded|    |         |
+ 5|D  SaucySlingo              |   58300 |     600 |folded|    |         |
+ 6|>  feodor                   |   93400 |    6000 |      |    |         |
+ 7|   TomnyO                   |   56875 |    6000 |      |    |         |
+ 8|   TennisGeek               |   41075 |     100 |folded|    |         |
+ 9|   SCSI                     |   81875 |     100 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/15/19 16:56:33! Dealing a new hand
+! 01/15/19 16:56:33! Everyone antes $100
+! 01/15/19 16:56:33! feodor blinds $250
+! 01/15/19 16:56:33! TomnyO blinds $500
+! 01/16/19 07:02:36! TennisGeek folds
+! 01/16/19 07:18:39! SCSI folds
+! 01/16/19 07:20:55! Brian Huss folds
+! 01/16/19 07:20:55! Quiet Lion folds
+! 01/16/19 07:20:55! Isaac Newton folds
+! 01/16/19 07:46:11! mulligan calls 
+! 01/16/19 07:46:11! SaucySlingo calls 
+! 01/16/19 08:09:47! feodor calls 
+! 01/16/19 08:37:28! TomnyO checks
+
+! 01/16/19 08:37:28! Pot right ($2900), flopping/dealing/drawing cards
+! 01/16/19 08:37:28! 4 players
+! 01/16/19 08:37:28! Flopped cards: 2c 10s 2d
+! 01/16/19 08:46:18! feodor checks
+! 01/16/19 09:17:07! TomnyO checks
+! 01/16/19 10:49:27! mulligan bets $1400 
+! 01/16/19 11:06:10! SaucySlingo folds
+! 01/16/19 11:06:10! feodor calls 
+! 01/16/19 11:06:10! TomnyO calls 
+
+! 01/16/19 11:06:10! Pot right ($7100), flopping/dealing/drawing cards
+! 01/16/19 11:06:10! 3 players
+! 01/16/19 11:06:10! Flopped card: Qc
+! 01/16/19 11:15:31! feodor checks
+! 01/16/19 11:22:13! TomnyO bets $2000 
+! 01/16/19 13:30:27! mulligan folds
+! 01/16/19 13:59:28! feodor calls 
+
+! 01/16/19 13:59:28! Pot right ($11100), flopping/dealing/drawing cards
+! 01/16/19 13:59:28! 2 players
+! 01/16/19 13:59:28! Flopped card: 5s
+! 01/16/19 14:00:19! feodor bets $2000 
+! 01/16/19 14:11:41! TomnyO calls 
+! Hand over, current board is:  2c 10s 2d Qc 5s
+! feodor                   has: Qs Kc
+! TomnyO                   has: 2h 9c
+! TomnyO wins $15100 (net $9100) with Three of a Kind (2 2 2 Q 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Brian Huss               |   77175 |         |      |    |         |
+ 2|   Quiet Lion               |   18300 |         |      |    |         |
+ 3|   Isaac Newton             |   48850 |         |      |    |         |
+ 4|   mulligan                 |  117375 |         |      |    |         |
+ 5|   SaucySlingo              |   58300 |         |      |    |         |
+ 6|D> feodor                   |   93400 |         |      |    |         |
+ 7|   TomnyO                   |   71975 |         |      |    |         |
+ 8|   TennisGeek               |   41075 |         |      |    |         |
+ 9|   SCSI                     |   81875 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 365 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c31.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

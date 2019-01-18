@@ -1,0 +1,128 @@
+
+! Table c5, Hand 128, Day 74
+
+! jhaden calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Joker                    |   76350 |     200 |folded|    |         |
+ 2|   jasong            |  108700 |     200 |folded|    |         |
+ 3|D  Plain Ed                 |   19800 |     200 |folded|    |         |
+ 4|>  MrTiggerGolf             |   61450 |    4400 |      |    |         |
+ 5|   Pete Nerozzi             |   75875 |    1400 |folded|    |         |
+ 6|V  ArikK                    |   43525 |     200 | 8 Jan|    |         |
+ 7|   Richard Nixon            |   71375 |     200 |folded|    |         |
+ 8|   swamperflaco             |  102300 |     200 |folded|    |         |
+ 9|   Deuce Seven Off Suit     |   88375 |     200 |folded|    |         |
+10|   jhaden                   |   45300 |    4400 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/04/18 08:01:10! Dealing a new hand
+! 01/04/18 08:01:10! Everyone antes $200
+! 01/04/18 08:01:10! MrTiggerGolf blinds $600
+! 01/04/18 08:01:10! Pete Nerozzi blinds $1200
+! 01/04/18 08:01:10! ArikK is on vacation and folds
+! 01/04/18 08:10:22! Richard Nixon folds
+! 01/04/18 08:13:45! swamperflaco folds
+! 01/04/18 09:54:39! Deuce Seven Off Suit folds
+! 01/04/18 09:55:25! jhaden calls 
+! 01/04/18 09:55:25! Joker folds
+! 01/04/18 09:55:25! jasong folds
+! 01/04/18 13:57:01! Plain Ed folds
+! 01/04/18 14:00:48! MrTiggerGolf calls 
+! 01/04/18 14:20:18! Pete Nerozzi checks
+
+! 01/04/18 14:20:18! Pot right ($5600), flopping/dealing/drawing cards
+! 01/04/18 14:20:18! 3 players
+! 01/04/18 14:20:18! Flopped cards: 8c Qh Jh
+! 01/04/18 14:26:08! MrTiggerGolf checks
+! 01/04/18 14:33:00! Pete Nerozzi checks
+! 01/04/18 14:51:58! jhaden checks
+
+! 01/04/18 14:51:58! Pot right ($5600), flopping/dealing/drawing cards
+! 01/04/18 14:51:58! 3 players
+! 01/04/18 14:51:58! Flopped card: 2d
+! 01/04/18 15:01:57! MrTiggerGolf checks
+! 01/04/18 15:20:39! Pete Nerozzi checks
+! 01/04/18 16:58:35! jhaden checks
+
+! 01/04/18 16:58:35! Pot right ($5600), flopping/dealing/drawing cards
+! 01/04/18 16:58:35! 3 players
+! 01/04/18 16:58:35! Flopped card: Ks
+! 01/04/18 17:07:04! MrTiggerGolf bets $3000 
+! 01/04/18 17:11:23! Pete Nerozzi folds
+! 01/04/18 17:44:28! jhaden calls 
+! Hand over, current board is:  8c Qh Jh 2d Ks
+! MrTiggerGolf             has: Kh 7c
+! jhaden                   has: 3s Ac
+! MrTiggerGolf wins $11600 (net $7200) with One Pair (K K Q J 8)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Joker                    |   76350 |         |      |    |         |
+ 2|   jasong            |  108700 |         |      |    |         |
+ 3|   Plain Ed                 |   19800 |         |      |    |         |
+ 4|D> MrTiggerGolf             |   73050 |         |      |    |         |
+ 5|   Pete Nerozzi             |   75875 |         |      |    |         |
+ 6|V  ArikK                    |   43525 |         | 8 Jan|    |         |
+ 7|   Richard Nixon            |   71375 |         |      |    |         |
+ 8|   swamperflaco             |  102300 |         |      |    |         |
+ 9|   Deuce Seven Off Suit     |   88375 |         |      |    |         |
+10|   jhaden                   |   45300 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Plain Ed timed out during this hand
+! 337 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c5.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+Welcome to the "c" round.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Live Redraw Status as of 01/04/18 05:25:01 PM
+
+Total Empty Seats: 13
+Total Playing Seats: 337
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman27@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

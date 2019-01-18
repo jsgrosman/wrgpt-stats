@@ -1,0 +1,131 @@
+
+! Table a53, Hand 3, Day 8
+
+! ruskba calls 
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|V  jasong            |  30000 |      0 | NoSho|    |        |
+ 2|   Zipper                   |  28250 |    800 |folded|    |        |
+ 3|D  ADB Foldem               |  29800 |      0 |folded|    |        |
+ 4|   Motown                   |  27000 |   1800 |folded|    |        |
+ 5|   MTpotts                  |  31700 |    400 |folded|    |        |
+ 6|   OutOnBail                |  30750 |    400 |folded|    |        |
+ 7|V  Jammy Dodger             |  30000 |      0 |<AWOL>|    |        |
+ 8|>  ArikK                    |  23300 |   5800 |      |    |        |
+ 9|   The Cleaner              |  29200 |    800 |folded|    |        |
+10|   ruskba                   |  24200 |   5800 |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 10/09/15 10:11:05! Dealing a new hand
+! 10/09/15 10:11:05! No ante
+! 10/09/15 10:11:05! Motown blinds $200
+! 10/09/15 10:11:05! MTpotts blinds $400
+! 10/09/15 10:23:46! OutOnBail calls 
+! 10/09/15 10:23:46! Jammy Dodger is on vacation and folds
+! 10/09/15 13:33:19! ArikK raises $400 
+! 10/09/15 13:40:25! The Cleaner calls 
+! 10/09/15 13:45:40! ruskba calls 
+! 10/09/15 13:45:40! jasong is on vacation and folds
+! 10/09/15 14:09:23! Zipper calls 
+! 10/09/15 14:09:23! ADB Foldem folds
+! 10/09/15 14:18:19! Motown calls 
+! 10/09/15 14:25:11! MTpotts folds
+! 10/09/15 18:29:02! OutOnBail folds
+
+! 10/09/15 18:29:02! Pot right ($4800), flopping/dealing/drawing cards
+! 10/09/15 18:29:02! 5 players
+! 10/09/15 18:29:02! Flopped cards: 4c 8h 4h
+! 10/09/15 21:52:42! Motown checks
+! 10/12/15 07:33:31! ArikK bets $1000 
+! 10/12/15 07:33:31! The Cleaner folds
+! 10/12/15 07:43:37! ruskba calls 
+! 10/12/15 08:33:44! Zipper folds
+! 10/12/15 09:38:42! Motown calls 
+
+! 10/12/15 09:38:42! Pot right ($7800), flopping/dealing/drawing cards
+! 10/12/15 09:38:42! 3 players
+! 10/12/15 09:38:42! Flopped card: 10d
+! 10/12/15 09:46:04! Motown checks
+! 10/12/15 10:32:35! ArikK bets $2000 
+! 10/12/15 10:34:31! ruskba calls 
+! 10/12/15 14:38:02! Motown folds
+
+! 10/12/15 14:38:02! Pot right ($11800), flopping/dealing/drawing cards
+! 10/12/15 14:38:02! 2 players
+! 10/12/15 14:38:02! Flopped card: 6s
+! 10/12/15 14:49:59! ArikK bets $2000 
+! 10/12/15 14:51:11! ruskba calls 
+! Hand over, current board is:  4c 8h 4h 10d 6s
+! ArikK                    has: 9d 9c
+! ruskba                   has: 9h 8d
+! ArikK wins $15800 (net $10000) with Two Pair (9 9 4 4 10)
+! Antes and blinds go up
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|V  jasong            |  30000 |        | NoSho|    |        |
+ 2|   Zipper                   |  28250 |        |      |    |        |
+ 3|   ADB Foldem               |  29800 |        |      |    |        |
+ 4|D  Motown                   |  27000 |        |      |    |        |
+ 5|   MTpotts                  |  31700 |        |      |    |        |
+ 6|   OutOnBail                |  30750 |        |      |    |        |
+ 7|V  Jammy Dodger             |  30000 |        |<AWOL>|    |        |
+ 8|>  ArikK                    |  39100 |        |      |    |        |
+ 9|   The Cleaner              |  29200 |        |      |    |        |
+10|   ruskba                   |  24200 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! Motown timed out during this hand
+! 543 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/a/a53.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+This is the PRACTICE Round.  It will last about two weeks
+and could stop or restart suddenly to fix issues if found.
+
+Good luck.
+======
+
+Live Redraw Status as of 10/12/15 02:25:03 PM
+
+Total Empty Seats: 36
+Total Playing Seats: 543
+Live redraw in progress:
+Seats Needed: 19
+Seats Waiting: 0
+Moving Players Waiting: 0
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+Here is a link to the railbird mailing list:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman25@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

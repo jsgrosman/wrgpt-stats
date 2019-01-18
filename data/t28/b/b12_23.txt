@@ -1,0 +1,113 @@
+Subject: [b12.10318] Holdem Game Broadcast Message(*)
+
+! Table b12, Hand 23, Day 16
+
+! JohnnyMac checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   TheTsunami               |  128350 |       0 |folded|    |         |
+ 2|   Rich Guidoboni           |   61625 |     300 |folded|    |         |
+ 3|   Bart Tichelman           |   39575 |       0 |folded|    |         |
+ 5|D  Jascha                   |   37250 |       0 |folded|    |         |
+ 6|>  ThinkingPokerAndrew      |   46625 |     750 |      |    |         |
+ 8|   JohnnyMac                |  124675 |     750 |      |    |         |
+ 9|   Clarence Beeks           |   58000 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/27/18 08:58:18! Dealing a new hand
+! 11/27/18 08:58:18! No ante
+! 11/27/18 08:58:18! ThinkingPokerAndrew blinds $150
+! 11/27/18 08:58:18! JohnnyMac blinds $300
+! 11/27/18 09:04:30! Clarence Beeks folds
+! 11/27/18 09:04:30! TheTsunami folds
+! 11/27/18 09:07:12! Rich Guidoboni calls 
+! 11/27/18 11:23:43! Bart Tichelman folds
+! 11/27/18 11:23:43! Jascha folds
+! 11/27/18 11:29:49! ThinkingPokerAndrew calls 
+! 11/27/18 11:29:49! JohnnyMac checks
+
+! 11/27/18 11:29:49! Pot right ($900), flopping/dealing/drawing cards
+! 11/27/18 11:29:49! 3 players
+! 11/27/18 11:29:49! Flopped cards: 8h Kc Qs
+! 11/27/18 11:36:36! ThinkingPokerAndrew checks
+! 11/27/18 11:37:17! JohnnyMac checks
+! 11/27/18 12:14:31! Rich Guidoboni checks
+
+! 11/27/18 12:14:31! Pot right ($900), flopping/dealing/drawing cards
+! 11/27/18 12:14:31! 3 players
+! 11/27/18 12:14:31! Flopped card: 4s
+! 11/27/18 12:31:34! ThinkingPokerAndrew bets $450 
+! 11/27/18 13:07:50! JohnnyMac calls 
+! 11/27/18 13:07:50! Rich Guidoboni folds
+
+! 11/27/18 13:07:50! Pot right ($1800), flopping/dealing/drawing cards
+! 11/27/18 13:07:50! 2 players
+! 11/27/18 13:07:50! Flopped card: Js
+! 11/27/18 13:32:55! ThinkingPokerAndrew checks
+! 11/27/18 13:33:29! JohnnyMac checks
+! Hand over, current board is:  8h Kc Qs 4s Js
+! ThinkingPokerAndrew      has: Jd 9c
+! JohnnyMac                has: 4h 3c
+! ThinkingPokerAndrew wins $1800 (net $1050) with One Pair (J J K Q 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   TheTsunami               |  128350 |         |      |    |         |
+ 2|   Rich Guidoboni           |   61625 |         |      |    |         |
+ 3|   Bart Tichelman           |   39575 |         |      |    |         |
+ 5|   Jascha                   |   37250 |         |      |    |         |
+ 6|D> ThinkingPokerAndrew      |   48425 |         |      |    |         |
+ 8|   JohnnyMac                |  124675 |         |      |    |         |
+ 9|   Clarence Beeks           |   58000 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 553 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b12.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 5
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

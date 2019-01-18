@@ -1,0 +1,106 @@
+Subject: [b35.10420] Holdem Game Broadcast Message(*)
+
+! Table b35, Hand 29, Day 20
+
+! sltLonghorn folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 3|   badseed                  |   53350 |     800 |folded|    |         |
+ 4|>  Deets                    |   25000 |    6000 |      |    |         |
+ 5|   bigjimmf1                |  107600 |       0 |folded|    |         |
+ 6|   COC                      |   49925 |       0 |New   |    |         |
+ 7|V  Bluffmaster              |   34575 |       0 |_srira|    |         |
+ 8|   sltLonghorn              |  290075 |    2000 |folded|    |         |
+ 9|D  Pedro                    |   38475 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/30/18 13:40:15! Dealing a new hand
+! 11/30/18 13:40:15! No ante
+! 11/30/18 13:40:15! badseed blinds $150
+! 11/30/18 13:40:15! Deets blinds $300
+! 11/30/18 13:43:10! bigjimmf1 folds
+! 11/30/18 13:43:10! Bluffmaster is on vacation and folds
+! 11/30/18 13:47:46! sltLonghorn raises $500 to $800 total 
+! 11/30/18 13:47:46! Pedro folds
+! 11/30/18 13:52:03! badseed calls 
+! 11/30/18 13:52:40! Deets calls 
+
+! 11/30/18 13:52:40! Pot right ($2400), flopping/dealing/drawing cards
+! 11/30/18 13:52:40! 3 players
+! 11/30/18 13:52:40! Flopped cards: 9s Qc 8c
+! 11/30/18 14:21:08! badseed checks
+! 11/30/18 15:25:16! New player added to the table: COC
+! 11/30/18 16:05:31! Deets bets $1200 
+! 11/30/18 16:12:21! sltLonghorn calls 
+! 12/01/18 04:56:45! badseed folds
+
+! 12/01/18 04:56:45! Pot right ($4800), flopping/dealing/drawing cards
+! 12/01/18 04:56:45! 2 players
+! 12/01/18 04:56:45! Flopped card: 4d
+! 12/01/18 05:36:17! Deets bets $4000 
+! 12/01/18 05:39:08! sltLonghorn folds
+! Hand over, no showdown
+! Current board is:  9s Qc 8c 4d ?
+! Deets wins $8800 (net $2800)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 3|D  badseed                  |   53350 |         |      |    |         |
+ 4|>  Deets                    |   33800 |         |      |    |         |
+ 5|   bigjimmf1                |  107600 |         |      |    |         |
+ 6|   COC                      |   49925 |         |      |    |         |
+ 7|V  Bluffmaster              |   34575 |         |_srira|    |         |
+ 8|   sltLonghorn              |  290075 |         |      |    |         |
+ 9|   Pedro                    |   38475 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 534 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b35.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

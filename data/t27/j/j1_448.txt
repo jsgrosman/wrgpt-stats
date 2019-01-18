@@ -1,0 +1,113 @@
+X-BeenThere: railbird@lists.wrgpt.org
+X-Mailman-Version: 2.1.16
+Precedence: list
+Reply-To: dealer@wrgpt.org
+List-Id: WRGPT Rail <railbird.lists.wrgpt.org>
+List-Unsubscribe: <http://lists.wrgpt.org/options/railbird>,
+ <mailto:railbird-request@lists.wrgpt.org?subject=unsubscribe>
+List-Archive: <http://lists.wrgpt.org/pipermail/railbird/>
+List-Help: <mailto:railbird-request@lists.wrgpt.org?subject=help>
+List-Subscribe: <http://lists.wrgpt.org/listinfo/railbird>,
+ <mailto:railbird-request@lists.wrgpt.org?subject=subscribe>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+Errors-To: railbird-bounces@lists.wrgpt.org
+Sender: "Railbird" <railbird-bounces@lists.wrgpt.org>
+
+! Table j1, Hand 448, Day 191
+
+! Stephen Mack folds
+! Lets Go Red Sox folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Stephen Mack             | 2990100 |  225000 |folded|    |         |
+ 2|>  Lets Go Red Sox          | 7187550 |  580000 |folded|    |         |
+ 4|   StingRay                 |14459625 |    5000 |folded|    |         |
+10|D  Quiet Lion               |       0 | 1756400 |all-in|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 05/01/18 18:16:58! Dealing a new hand
+! 05/01/18 18:16:58! Everyone antes $5000
+! 05/01/18 18:16:58! Stephen Mack blinds $50000
+! 05/01/18 18:16:58! Lets Go Red Sox blinds $100000
+! 05/01/18 18:19:27! StingRay folds
+! 05/01/18 18:21:52! Quiet Lion raises $120000 to $220000 total 
+! 05/01/18 18:42:17! Stephen Mack calls 
+! 05/01/18 18:49:33! Lets Go Red Sox calls 
+
+! 05/01/18 18:49:33! Pot right ($680000), flopping/dealing/drawing cards
+! 05/01/18 18:49:33! 3 players
+! 05/01/18 18:49:33! Flopped cards: 8s 3s Jc
+! 05/01/18 18:55:57! Stephen Mack checks
+! 05/01/18 18:56:58! Lets Go Red Sox bets $355000 
+! 05/01/18 18:59:59! Quiet Lion raises $1176400 to $1531400 total and is all in
+! 05/01/18 19:32:56! Stephen Mack folds
+! 05/01/18 19:32:56! Lets Go Red Sox folds
+! Hand over, no showdown
+! Current board is:  8s 3s Jc ? ?
+! Quiet Lion wins $2566400 (net $810000)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  Stephen Mack             | 2990100 |         |      |    |         |
+ 2|>  Lets Go Red Sox          | 7187550 |         |      |    |         |
+ 4|   StingRay                 |14459625 |         |      |    |         |
+10|   Quiet Lion               | 2566400 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/j/j1.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+However, if there were prizes they would pay the top 63 entrants.
+The standings are now showing theoretical prizes if WRGPT were a
+10k event.
+
+======
+
+Live Redraw Status as of 05/01/18 07:25:01 PM
+
+Total Empty Seats: 6
+Total Playing Seats: 4
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman27@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

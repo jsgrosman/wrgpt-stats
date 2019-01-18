@@ -1,0 +1,119 @@
+
+! Table c5, Hand 138, Day 81
+
+! ArikK folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Joker                    |   52025 |     200 |folded|    |         |
+ 2|   jasong            |  123900 |     200 |folded|    |         |
+ 3|D  Plain Ed                 |   30000 |     200 |folded|    |         |
+ 4|   MrTiggerGolf             |   68050 |     800 |folded|    |         |
+ 5|   Pete Nerozzi             |   64775 |    4900 |folded|    |         |
+ 6|   ArikK                    |   77250 |    4900 |folded|    |         |
+ 7|>  Richard Nixon            |   52775 |   17500 |      |    |         |
+ 8|   swamperflaco             |  116300 |     200 |folded|    |         |
+ 9|   Deuce Seven Off Suit     |   43175 |     200 |folded|    |         |
+10|   jhaden                   |   47100 |     200 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/11/18 11:29:36! Dealing a new hand
+! 01/11/18 11:29:36! Everyone antes $200
+! 01/11/18 11:29:36! MrTiggerGolf blinds $600
+! 01/11/18 11:29:36! Pete Nerozzi blinds $1200
+! 01/11/18 12:42:31! ArikK calls 
+! 01/11/18 13:03:55! Richard Nixon raises $3500 to $4700 total 
+! 01/11/18 14:34:44! swamperflaco folds
+! 01/11/18 14:42:44! Deuce Seven Off Suit folds
+! 01/11/18 16:06:37! jhaden folds
+! 01/11/18 16:44:26! Joker folds
+! 01/11/18 16:44:26! jasong folds
+! 01/11/18 16:44:26! Plain Ed folds
+! 01/11/18 17:20:22! MrTiggerGolf folds
+! 01/11/18 17:31:49! Pete Nerozzi calls 
+! 01/11/18 17:57:59! ArikK calls 
+
+! 01/11/18 17:57:59! Pot right ($16700), flopping/dealing/drawing cards
+! 01/11/18 17:57:59! 3 players
+! 01/11/18 17:57:59! Flopped cards: Jc 4s 8d
+! 01/11/18 18:06:47! Pete Nerozzi checks
+! 01/11/18 18:23:07! ArikK checks
+! 01/11/18 18:24:11! Richard Nixon bets $12600 
+! 01/11/18 18:25:02! Pete Nerozzi folds
+! 01/11/18 18:30:53! ArikK folds
+! Hand over, no showdown
+! Current board is:  Jc 4s 8d ? ?
+! Richard Nixon wins $29300 (net $11800)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Joker                    |   52025 |         |      |    |         |
+ 2|   jasong            |  123900 |         |      |    |         |
+ 3|   Plain Ed                 |   30000 |         |      |    |         |
+ 4|D  MrTiggerGolf             |   68050 |         |      |    |         |
+ 5|   Pete Nerozzi             |   64775 |         |      |    |         |
+ 6|   ArikK                    |   77250 |         |      |    |         |
+ 7|>  Richard Nixon            |   82075 |         |      |    |         |
+ 8|   swamperflaco             |  116300 |         |      |    |         |
+ 9|   Deuce Seven Off Suit     |   43175 |         |      |    |         |
+10|   jhaden                   |   47100 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 310 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c5.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+The "c" round is going to continue.
+There was a bug in the live redraw that conflicted
+with the full redraw logic.  It broke the
+short handed table and started tables back up.
+So, "c" will continue.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Live Redraw Status as of 01/11/18 06:25:01 PM
+
+Total Empty Seats: 0
+Total Playing Seats: 310
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman27@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

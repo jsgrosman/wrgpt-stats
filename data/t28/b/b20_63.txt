@@ -1,0 +1,116 @@
+Subject: [b20.10758] Holdem Game Broadcast Message(*)
+
+! Table b20, Hand 63, Day 44
+
+! Andrew Nelson checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|V  null                     |  102250 |     175 |<AWOL>|    |         |
+ 2|>  Neechieguy               |   43825 |    5825 |      |    |         |
+ 3|   Frank Irwin              |   71900 |      25 |folded|    |         |
+ 4|   J. Michael Hammond       |   51550 |    1325 |folded|    |         |
+ 5|   D-man                    |  110250 |      25 |folded|    |         |
+ 6|   Mike B                   |   41050 |      25 |folded|    |         |
+ 7|   paulpud                  |   22075 |    1325 |folded|    |         |
+ 8|   Andrew Nelson            |   25975 |    5825 |      |    |         |
+ 9|D  Mrstcao                  |   66500 |      25 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/23/18 19:57:08! Dealing a new hand
+! 12/23/18 19:57:08! Everyone antes $25
+! 12/23/18 19:57:08! null blinds $150
+! 12/23/18 19:57:08! Neechieguy blinds $300
+! 12/23/18 20:00:05! Frank Irwin folds
+! 12/24/18 03:43:50! J. Michael Hammond calls 
+! 12/24/18 03:43:50! D-man folds
+! 12/24/18 03:43:50! Mike B folds
+! 12/24/18 05:28:16! paulpud calls 
+! 12/24/18 06:31:11! Andrew Nelson raises $1000 to $1300 total 
+! 12/24/18 10:08:27! Mrstcao folds
+! 12/24/18 10:08:27! null is on vacation and folds
+! 12/24/18 12:16:25! Neechieguy calls 
+! 12/24/18 12:32:52! J. Michael Hammond calls 
+! 12/24/18 12:40:37! paulpud calls 
+
+! 12/24/18 12:40:37! Pot right ($5575), flopping/dealing/drawing cards
+! 12/24/18 12:40:37! 4 players
+! 12/24/18 12:40:37! Flopped cards: 4d Ac Qd
+! 12/24/18 14:32:29! Neechieguy checks
+! 12/24/18 14:52:50! J. Michael Hammond checks
+! 12/24/18 15:27:46! paulpud checks
+! 12/24/18 20:50:01! Andrew Nelson checks
+
+! 12/24/18 20:50:01! Pot right ($5575), flopping/dealing/drawing cards
+! 12/24/18 20:50:01! 4 players
+! 12/24/18 20:50:01! Flopped card: As
+! 12/25/18 00:38:30! Neechieguy bets $1400 
+! 12/25/18 03:39:37! J. Michael Hammond folds
+! 12/25/18 06:41:18! paulpud folds
+! 12/25/18 06:52:03! Andrew Nelson raises $3100 to $4500 total 
+! 12/25/18 07:54:33! Neechieguy calls 
+
+! 12/25/18 07:54:33! Pot right ($14575), flopping/dealing/drawing cards
+! 12/25/18 07:54:33! 2 players
+! 12/25/18 07:54:33! Flopped card: 4s
+! 12/25/18 09:00:34! Neechieguy checks
+! 12/25/18 12:35:55! Andrew Nelson checks
+! Hand over, current board is:  4d Ac Qd As 4s
+! Neechieguy               has: Qh 8h
+! Andrew Nelson            has: 5h 5d
+! Neechieguy wins $14575 (net $8750) with Two Pair (A A Q Q 8)
+! Antes and blinds go up
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|DV null                     |  102250 |         |<AWOL>|    |         |
+ 2|>  Neechieguy               |   58400 |         |      |    |         |
+ 3|   Frank Irwin              |   71900 |         |      |    |         |
+ 4|   J. Michael Hammond       |   51550 |         |      |    |         |
+ 5|   D-man                    |  110250 |         |      |    |         |
+ 6|   Mike B                   |   41050 |         |      |    |         |
+ 7|   paulpud                  |   22075 |         |      |    |         |
+ 8|   Andrew Nelson            |   25975 |         |      |    |         |
+ 9|   Mrstcao                  |   66500 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 440 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b20.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 12
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

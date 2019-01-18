@@ -1,0 +1,115 @@
+Subject: [c15.10135] Holdem Game Broadcast Message(*)
+
+! Table c15, Hand 158, Day 62
+
+! T4 bets $5000 
+! asypta calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   underdog                 |   30600 |     100 |folded|    |         |
+ 2|D  Alvin Chipmunk           |   46450 |     100 |folded|    |         |
+ 3|   WhyImHere                |   65700 |     600 |folded|    |         |
+ 4|>  T4                       |   11050 |    8000 |      |    |         |
+ 5|   Wally F                  |  105725 |     100 |folded|    |         |
+ 6|   Morgan                   |   45050 |     100 |folded|    |         |
+ 7|   asypta                   |   68000 |    8000 |      |    |         |
+ 8|   MarinaMan                |   29200 |     100 |folded|    |         |
+ 9|   Chris Danek              |   88850 |     100 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/11/19 11:44:54! Dealing a new hand
+! 01/11/19 11:44:54! Everyone antes $100
+! 01/11/19 11:44:54! WhyImHere blinds $250
+! 01/11/19 11:44:54! T4 blinds $500
+! 01/11/19 11:46:23! Wally F folds
+! 01/11/19 12:03:05! Morgan folds
+! 01/11/19 12:04:16! asypta calls 
+! 01/11/19 12:04:16! MarinaMan folds
+! 01/11/19 12:04:16! Chris Danek folds
+! 01/11/19 12:04:16! underdog folds
+! 01/11/19 12:04:16! Alvin Chipmunk folds
+! 01/11/19 12:25:27! WhyImHere calls 
+! 01/11/19 16:21:30! T4 checks
+
+! 01/11/19 16:21:30! Pot right ($2400), flopping/dealing/drawing cards
+! 01/11/19 16:21:30! 3 players
+! 01/11/19 16:21:30! Flopped cards: Jd Qs 5h
+! 01/11/19 16:27:57! WhyImHere checks
+! 01/11/19 16:29:26! T4 checks
+! 01/11/19 17:07:29! asypta bets $2400 
+! 01/11/19 18:15:29! WhyImHere folds
+! 01/11/19 19:35:45! T4 calls 
+
+! 01/11/19 19:35:45! Pot right ($7200), flopping/dealing/drawing cards
+! 01/11/19 19:35:45! 2 players
+! 01/11/19 19:35:45! Flopped card: 2c
+! 01/11/19 19:36:36! T4 checks
+! 01/11/19 19:58:46! asypta checks
+
+! 01/11/19 19:58:46! Pot right ($7200), flopping/dealing/drawing cards
+! 01/11/19 19:58:46! 2 players
+! 01/11/19 19:58:46! Flopped card: 4s
+! 01/12/19 05:27:52! T4 bets $5000 
+! 01/12/19 05:27:52! asypta calls 
+! Hand over, current board is:  Jd Qs 5h 2c 4s
+! T4                       has: Ks 10d
+! asypta                   has: 8s Jc
+! asypta wins $17200 (net $9200) with One Pair (J J Q 8 5)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   underdog                 |   30600 |         |      |    |         |
+ 2|   Alvin Chipmunk           |   46450 |         |      |    |         |
+ 3|D  WhyImHere                |   65700 |         |      |    |         |
+ 4|>  T4                       |   11050 |         |      |    |         |
+ 5|   Wally F                  |  105725 |         |      |    |         |
+ 6|   Morgan                   |   45050 |         |      |    |         |
+ 7|   asypta                   |   85200 |         |      |    |         |
+ 8|   MarinaMan                |   29200 |         |      |    |         |
+ 9|   Chris Danek              |   88850 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 379 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c15.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+The "c" round has started.  Good luck to all
+the remaining players.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 2
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

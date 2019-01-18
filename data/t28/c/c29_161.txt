@@ -1,0 +1,97 @@
+Subject: [c29.10179] Holdem Game Broadcast Message(*)
+
+! Table c29, Hand 161, Day 67
+
+! sendlo folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   ChipRider                |   57950 |     100 |folded|    |         |
+ 2|   tarigojaergihioahdged    |  128550 |     100 |folded|    |         |
+ 3|   Pete Holmes              |   41400 |     100 |folded|    |         |
+ 4|   Pooper                   |   40675 |     100 |folded|    |         |
+ 5|D> I_Bluff_Rivers           |   68925 |    4700 |      |    |         |
+ 6|   sendlo                   |   32700 |    1950 |folded|    |         |
+ 7|   Stefan Dios              |  109550 |     600 |folded|    |         |
+ 8|   TomasL                   |   87000 |     100 |folded|    |         |
+ 9|   BillB                    |   94650 |     100 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/16/19 18:46:29! Dealing a new hand
+! 01/16/19 18:46:29! Everyone antes $100
+! 01/16/19 18:46:29! sendlo blinds $250
+! 01/16/19 18:46:29! Stefan Dios blinds $500
+! 01/16/19 21:04:23! TomasL folds
+! 01/16/19 21:24:57! BillB folds
+! 01/17/19 04:39:05! ChipRider folds
+! 01/17/19 04:49:53! tarigojaergihioahdged folds
+! 01/17/19 06:04:46! Pete Holmes folds
+! 01/17/19 06:04:46! Pooper folds
+! 01/17/19 06:07:07! I_Bluff_Rivers raises $1350 to $1850 total 
+! 01/17/19 11:59:55! sendlo calls 
+! 01/17/19 11:59:55! Stefan Dios folds
+
+! 01/17/19 11:59:55! Pot right ($5100), flopping/dealing/drawing cards
+! 01/17/19 11:59:55! 2 players
+! 01/17/19 11:59:55! Flopped cards: 3s As Ks
+! 01/17/19 12:01:48! sendlo checks
+! 01/17/19 13:12:14! I_Bluff_Rivers bets $2750 
+! 01/17/19 17:14:03! sendlo folds
+! Hand over, no showdown
+! Current board is:  3s As Ks ? ?
+! I_Bluff_Rivers wins $7850 (net $3150)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   ChipRider                |   57950 |         |      |    |         |
+ 2|   tarigojaergihioahdged    |  128550 |         |      |    |         |
+ 3|   Pete Holmes              |   41400 |         |      |    |         |
+ 4|   Pooper                   |   40675 |         |      |    |         |
+ 5|>  I_Bluff_Rivers           |   76775 |         |      |    |         |
+ 6|D  sendlo                   |   32700 |         |      |    |         |
+ 7|   Stefan Dios              |  109550 |         |      |    |         |
+ 8|   TomasL                   |   87000 |         |      |    |         |
+ 9|   BillB                    |   94650 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! sendlo timed out during this hand
+! 358 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c29.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 7
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

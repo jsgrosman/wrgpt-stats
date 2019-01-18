@@ -1,0 +1,124 @@
+Subject: [b55.10096] Holdem Game Broadcast Message(*)
+
+! Table b55, Hand 8, Day 11
+
+! BillDaBear bets $6250 
+! Tom Abraham folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  BillDaBear               |   39125 |   10875 |      |    |         |
+ 2|   C666                     |   52150 |     500 |folded|    |         |
+ 3|   ADB DaVoice              |   23200 |    1500 |folded|    |         |
+ 4|   ChipRider                |   48825 |       0 |folded|    |         |
+ 5|V  Scipio                   |   49775 |       0 | NoSho|    |         |
+ 6|   tekbot                   |   49775 |       0 |folded|    |         |
+ 7|   Dr. Evil                 |   59750 |       0 |folded|    |         |
+ 8|D  LenFuego                 |   48150 |       0 |folded|    |         |
+ 9|   Tom Abraham              |   61750 |    4625 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/20/18 19:41:27! Dealing a new hand
+! 11/20/18 19:41:27! No ante
+! 11/20/18 19:41:27! Tom Abraham blinds $75
+! 11/20/18 19:41:27! BillDaBear blinds $150
+! 11/20/18 21:41:03! C666 raises $350 to $500 total 
+! 11/21/18 08:47:59! ADB DaVoice calls 
+! 11/21/18 08:47:59! ChipRider folds
+! 11/21/18 08:47:59! Scipio is on vacation and folds
+! 11/21/18 09:44:31! tekbot folds
+! 11/21/18 09:44:31! Dr. Evil folds
+! 11/21/18 11:01:21! LenFuego folds
+! 11/21/18 11:31:45! Tom Abraham calls 
+! 11/21/18 11:31:45! BillDaBear calls 
+
+! 11/21/18 11:31:45! Pot right ($2000), flopping/dealing/drawing cards
+! 11/21/18 11:31:45! 4 players
+! 11/21/18 11:31:45! Flopped cards: 6c 5s 9s
+! 11/21/18 11:32:39! Tom Abraham checks
+! 11/21/18 11:40:54! BillDaBear bets $1000 
+! 11/21/18 15:16:13! C666 folds
+! 11/21/18 15:16:13! ADB DaVoice calls 
+! 11/21/18 17:49:43! Tom Abraham calls 
+
+! 11/21/18 17:49:43! Pot right ($5000), flopping/dealing/drawing cards
+! 11/21/18 17:49:43! 3 players
+! 11/21/18 17:49:43! Flopped card: Qd
+! 11/21/18 17:50:20! Tom Abraham checks
+! 11/21/18 17:51:53! BillDaBear bets $3125 
+! 11/22/18 04:05:49! ADB DaVoice folds
+! 11/22/18 05:24:08! Tom Abraham calls 
+
+! 11/22/18 05:24:08! Pot right ($11250), flopping/dealing/drawing cards
+! 11/22/18 05:24:08! 2 players
+! 11/22/18 05:24:08! Flopped card: 2d
+! 11/22/18 05:26:28! Tom Abraham checks
+! 11/22/18 07:28:12! BillDaBear bets $6250 
+! 11/22/18 07:28:12! Tom Abraham folds
+! Hand over, no showdown
+! Current board is:  6c 5s 9s Qd 2d
+! BillDaBear wins $17500 (net $6625)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  BillDaBear               |   56625 |         |      |    |         |
+ 2|   C666                     |   52150 |         |      |    |         |
+ 3|   ADB DaVoice              |   23200 |         |      |    |         |
+ 4|   ChipRider                |   48825 |         |      |    |         |
+ 5|V  Scipio                   |   49775 |         | NoSho|    |         |
+ 6|   tekbot                   |   49775 |         |      |    |         |
+ 7|   Dr. Evil                 |   59750 |         |      |    |         |
+ 8|   LenFuego                 |   48150 |         |      |    |         |
+ 9|D  Tom Abraham              |   61750 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! ChipRider went on vacation until November 24
+! 568 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b55.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,114 @@
+Subject: [b17.10957] Holdem Game Broadcast Message(*)
+
+! Table b17, Hand 68, Day 52
+
+! shinsook calls 
+! Pot right ($232550), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: Ac
+! Flopped card: 5d
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   tekbot                   |       0 |  110600 |all-in|    |         |
+ 2|   Sandy                    |   30575 |      50 |folded|    |         |
+ 3|   Mike DellaBarca          |   46025 |      50 |folded|    |         |
+ 4|   Baldy                    |   73825 |    1650 |folded|    |         |
+ 5|D> shinsook                 |  162975 |  110600 |      |    |         |
+ 6|   Kahomono                 |   75350 |    1650 |folded|    |         |
+ 8|   ThatGuyThere             |   59700 |    7900 |folded|    |         |
+ 9|   BillDaBear               |   57425 |      50 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/01/19 12:38:58! Dealing a new hand
+! 01/01/19 12:38:58! Everyone antes $50
+! 01/01/19 12:38:58! Kahomono blinds $200
+! 01/01/19 12:38:58! ThatGuyThere blinds $400
+! 01/01/19 12:41:14! BillDaBear folds
+! 01/01/19 12:46:14! tekbot raises $1200 to $1600 total 
+! 01/01/19 13:30:03! Sandy folds
+! 01/01/19 13:39:08! Mike DellaBarca folds
+! 01/01/19 13:59:17! Baldy calls 
+! 01/01/19 15:22:08! shinsook calls 
+! 01/01/19 15:22:08! Kahomono calls 
+! 01/01/19 16:23:31! ThatGuyThere calls 
+
+! 01/01/19 16:23:31! Pot right ($8400), flopping/dealing/drawing cards
+! 01/01/19 16:23:31! 5 players
+! 01/01/19 16:23:31! Flopped cards: 3c 9h 8s
+! 01/01/19 16:23:31! Kahomono checks
+! 01/01/19 16:24:40! ThatGuyThere bets $6250 
+! 01/01/19 16:49:23! tekbot raises $10000 to $16250 total 
+! 01/01/19 16:57:44! Baldy folds
+! 01/01/19 19:38:04! shinsook raises $58750 to $75000 total 
+! 01/01/19 23:29:40! Kahomono folds
+! 01/02/19 00:26:41! ThatGuyThere folds
+! 01/02/19 10:32:23! tekbot raises $33950 to $108950 total and is all in
+! 01/02/19 10:57:27! shinsook calls 
+
+! 01/02/19 10:57:27! Pot right ($232550), flopping/dealing/drawing cards
+! 01/02/19 10:57:27! 2 players, 1 all in
+! 01/02/19 10:57:27! Flopped card: Ac
+! 01/02/19 10:57:27! Flopped card: 5d
+! Hand over, current board is:  3c 9h 8s Ac 5d
+! tekbot                   has: 10s 10c
+! shinsook                 has: Jh Jc
+! shinsook wins $232550 (net $121950) with One Pair (J J A 9 8)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|   Sandy                    |   30575 |         |      |    |         |
+ 3|   Mike DellaBarca          |   46025 |         |      |    |         |
+ 4|   Baldy                    |   73825 |         |      |    |         |
+ 5|>  shinsook                 |  395525 |         |      |    |         |
+ 6|D  Kahomono                 |   75350 |         |      |    |         |
+ 8|   ThatGuyThere             |   59700 |         |      |    |         |
+ 9|   BillDaBear               |   57425 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! tekbot is eliminated!
+! 405 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b17.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+We are now over 45 days into round "b". 
+As soon as any table gets to five or fewer 
+players all tables will finish the current 
+hand and a full redraw to round "c" will be done.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 26
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

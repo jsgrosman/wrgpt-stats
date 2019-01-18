@@ -1,0 +1,110 @@
+Message-Id: <201404021104.s32B42ix022483@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [e7.10044] Holdem Game Broadcast Message(*)                          
+
+! Table e7, Hand 230, Day 143
+
+! Spike calls 
+! Pot right ($454600), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 6s
+! Flopped card: 5c
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   altidude6202             | 438125 |   1000 |folded|    |        |
+ 2|   jasong            | 105500 |   1000 |folded|    |        |
+ 3|   dave radke               | 150725 |   1000 |folded|    |        |
+ 4|   Joe Nadeau               | 275900 |   1000 |folded|    |        |
+ 5|D  Matt Kosovsky            | 104200 |   1000 |folded|    |        |
+ 6|>  Spike                    |  16425 | 220800 |      |    |        |
+ 7|   Fredrik Westerlund       | 219000 |   7000 |folded|    |        |
+ 8|   VierKoff                 |      0 | 220800 |all-in|    |        |
+ 9|   Mad Chad                 | 167600 |   1000 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 04/01/14 06:34:33! Dealing a new hand
+! 04/01/14 06:34:33! Everyone antes $1000
+! 04/01/14 06:34:33! Spike blinds $3000
+! 04/01/14 06:34:33! Fredrik Westerlund blinds $6000
+! 04/01/14 07:15:14! VierKoff raises $24000 
+! 04/01/14 07:15:14! Mad Chad folds
+! 04/01/14 07:15:14! altidude6202 folds
+! 04/01/14 07:27:30! jasong folds
+! 04/01/14 15:50:11! dave radke folds
+! 04/01/14 16:02:24! Joe Nadeau folds
+! 04/01/14 16:44:06! Matt Kosovsky folds
+! 04/01/14 16:56:15! Spike calls 
+! 04/01/14 21:27:02! Fredrik Westerlund folds
+
+! 04/01/14 21:27:02! Pot right ($75000), flopping/dealing/drawing cards
+! 04/01/14 21:27:02! 2 players
+! 04/01/14 21:27:02! Flopped cards: Ac 3s 10s
+! 04/01/14 21:53:29! Spike bets $30000 
+! 04/01/14 22:19:11! VierKoff raises $159800 and is all in
+! 04/02/14 04:04:01! Spike calls 
+
+! 04/02/14 04:04:01! Pot right ($454600), flopping/dealing/drawing cards
+! 04/02/14 04:04:01! 2 players, 1 all in
+! 04/02/14 04:04:01! Flopped card: 6s
+! 04/02/14 04:04:01! Flopped card: 5c
+! Hand over, current board is:  Ac 3s 10s 6s 5c
+! Spike                    has: Ah Kd
+! VierKoff                 has: Jh Jc
+! Spike wins $454600 (net $233800) with One Pair (A A K 10 6)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   altidude6202             | 438125 |        |      |    |        |
+ 2|   jasong            | 105500 |        |      |    |        |
+ 3|   dave radke               | 150725 |        |      |    |        |
+ 4|   Joe Nadeau               | 275900 |        |      |    |        |
+ 5|   Matt Kosovsky            | 104200 |        |      |    |        |
+ 6|D> Spike                    | 471025 |        |      |    |        |
+ 7|   Fredrik Westerlund       | 219000 |        |      |    |        |
+ 9|   Mad Chad                 | 167600 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! VierKoff is eliminated!
+! 103 players left in the tournament, 2 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/e/e7.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+Here is a link to the railbird mailing list:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman23@wrgpt.org.
+
+Live Redraw Status as of 04/02/14 03:55:01 AM
+
+Total Empty Seats: 27
+Total Playing Seats: 104
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

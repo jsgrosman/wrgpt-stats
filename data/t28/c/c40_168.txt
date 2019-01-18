@@ -1,0 +1,109 @@
+Subject: [c40.10212] Holdem Game Broadcast Message(*)
+
+! Table c40, Hand 168, Day 64
+
+! Thomas Sims raises $20900 to $55750 total and is all in
+! Pot right ($98250), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped card: 7s
+! Flopped card: 7d
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   SJL                      |   48075 |     100 |folded|    |         |
+ 2|   GKinz54                  |  124425 |     100 |folded|    |         |
+ 3|   Mrstcao                  |  191125 |     100 |folded|    |         |
+ 4|   null                     |       0 |   38000 |all-in|  2 |   77350 |
+ 5|>  Thomas Sims              |       0 |   58900 |all-in|  1 |   20900 |
+ 6|D  acadonnelly              |   37575 |     100 |folded|    |         |
+ 7|   Bob Brewster             |  195300 |     350 |folded|    |         |
+ 8|   dave                     |   52300 |     600 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/14/19 00:42:37! Dealing a new hand
+! 01/14/19 00:42:37! Everyone antes $100
+! 01/14/19 00:42:37! Bob Brewster blinds $250
+! 01/14/19 00:42:37! dave blinds $500
+! 01/14/19 03:48:51! SJL folds
+! 01/14/19 05:32:06! GKinz54 folds
+! 01/14/19 05:39:06! Mrstcao folds
+! 01/14/19 05:39:06! null calls 
+! 01/14/19 05:39:06! Thomas Sims raises $2550 to $3050 total 
+! 01/14/19 05:39:06! acadonnelly folds
+! 01/14/19 05:53:10! Bob Brewster folds
+! 01/14/19 07:07:12! dave folds
+! 01/14/19 07:11:56! null calls 
+
+! 01/14/19 07:11:56! Pot right ($7650), flopping/dealing/drawing cards
+! 01/14/19 07:11:56! 2 players
+! 01/14/19 07:11:56! Flopped cards: Js Qd Jd
+! 01/14/19 07:16:47! null checks
+! 01/14/19 08:34:04! Thomas Sims bets $7650 
+! 01/14/19 08:41:29! null raises $27200 to $34850 total and is all in
+! 01/14/19 12:50:23! Thomas Sims raises $20900 to $55750 total and is all in
+
+! 01/14/19 12:50:23! Pot right ($98250), flopping/dealing/drawing cards
+! 01/14/19 12:50:23! 2 players, 2 all in
+! 01/14/19 12:50:23! Flopped card: 7s
+! 01/14/19 12:50:23! Flopped card: 7d
+! Hand over, current board is:  Js Qd Jd 7s 7d
+! null                     has: Ks Qh
+! Thomas Sims              has: Ad 10d
+! Pot 1: uncalled $20900 returned to Thomas Sims
+! Pot 2: Thomas Sims wins $77350 with Diamond Flush (A Q J 10 7)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   SJL                      |   48075 |         |      |    |         |
+ 2|   GKinz54                  |  124425 |         |      |    |         |
+ 3|   Mrstcao                  |  191125 |         |      |    |         |
+ 5|>  Thomas Sims              |   98250 |         |      |    |         |
+ 6|   acadonnelly              |   37575 |         |      |    |         |
+ 7|D  Bob Brewster             |  195300 |         |      |    |         |
+ 8|   dave                     |   52300 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! null is eliminated!
+! 372 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c40.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+The "c" round has started.  Good luck to all
+the remaining players.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

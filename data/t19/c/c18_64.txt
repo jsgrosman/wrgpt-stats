@@ -1,0 +1,107 @@
+Message-Id: <201001281529.o0SFTVn3025820@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [c18.10181] Holdem Game Broadcast Message(*)                          
+
+! Table c18, Hand 64, Day 74
+
+! jasong calls - side pot
+! Pot right ($44400), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 3c
+! Flopped card: Qs
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|D  jasong            |      0 |  20600 |all-in|  2 |  44000 |
+ 2|   MichaelJ                 |  23525 |    500 |folded|    |        |
+ 3|   Senor Sheep              |  51050 |    900 |folded|    |        |
+ 4|   Brian K                  |  50550 |    100 |folded|    |        |
+ 5|   ssbn610g                 |  28675 |    100 |folded|    |        |
+ 6|   jcommand                 |  51725 |    100 |folded|    |        |
+ 7|   Levi                     |  16900 |    100 |folded|    |        |
+ 8|>  Widowmaker               |  81350 |  21000 |      |  1 |    400 |
+ 9|   Vike                     |  21750 |    100 |folded|    |        |
+10|   JB                       |  60050 |    900 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 01/27/10 08:25:09! Dealing a new hand
+! 01/27/10 08:25:09! Everyone antes $100
+! 01/27/10 08:25:09! MichaelJ blinds $400
+! 01/27/10 08:25:09! Senor Sheep blinds $800
+! 01/27/10 08:26:48! Brian K folds
+! 01/27/10 08:44:44! ssbn610g folds
+! 01/27/10 08:46:04! jcommand folds
+! 01/27/10 14:39:41! Levi folds
+! 01/27/10 15:52:52! Widowmaker calls 
+! 01/27/10 15:52:52! Vike folds
+! 01/27/10 16:02:50! JB calls 
+! 01/27/10 17:59:20! jasong raises $4600 
+! 01/27/10 17:59:20! MichaelJ folds
+! 01/28/10 06:39:12! Senor Sheep folds
+! 01/28/10 07:19:15! Widowmaker calls 
+! 01/28/10 07:19:15! JB folds
+
+! 01/28/10 07:19:15! Pot right ($13800), flopping/dealing/drawing cards
+! 01/28/10 07:19:15! 2 players
+! 01/28/10 07:19:15! Flopped cards: 9d Js 5d
+! 01/28/10 07:22:01! Widowmaker bets $15500 
+! 01/28/10 07:29:31! jasong calls - side pot
+
+! 01/28/10 07:29:31! Pot right ($44400), flopping/dealing/drawing cards
+! 01/28/10 07:29:31! 2 players, 1 all in
+! 01/28/10 07:29:31! Flopped card: 3c
+! 01/28/10 07:29:31! Flopped card: Qs
+! Hand over, current board is:  9d Js 5d 3c Qs
+! jasong            has: Ad 7d
+! Widowmaker               has: 10h Kc
+! Pot 1: uncalled $400 returned to Widowmaker
+! Pot 2: Widowmaker wins $44000 with Straight (K Q J 10 9)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 2|D  MichaelJ                 |  23525 |        |      |    |        |
+ 3|   Senor Sheep              |  51050 |        |      |    |        |
+ 4|   Brian K                  |  50550 |        |      |    |        |
+ 5|   ssbn610g                 |  28675 |        |      |    |        |
+ 6|   jcommand                 |  51725 |        |      |    |        |
+ 7|   Levi                     |  16900 |        |      |    |        |
+ 8|>  Widowmaker               | 125750 |        |      |    |        |
+ 9|   Vike                     |  21750 |        |      |    |        |
+10|   JB                       |  60050 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! jasong is eliminated!
+! 700 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c18.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Try to send your action in before it is your turn so keep
+play moving quickly.
+
+Your play is not limited to your office hours.  You can play
+all hours of the day and weekends.  Some of your tablemates
+would appreciate your speedy play.  Thanks.
+
+Live Redraw Status as of 01/28/10 07:25:01 AM
+
+Total Empty Seats: 29
+Total Playing Seats: 701
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org or follow "wrgpt" on Twitter.
+

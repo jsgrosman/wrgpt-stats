@@ -1,0 +1,81 @@
+Message-Id: <201012311648.oBVGmT8d024469@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [c25.10077] Holdem Game Broadcast Message(*)                          
+
+! Table c25, Hand 63, Day 61
+
+! Alan Gopin folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|V  Stanley Chow             |  31100 |     50 |<AWOL>|    |        |
+ 2|   Deborah Abel             |  33600 |     50 |folded|    |        |
+ 3|   jasong            |  75650 |     50 |folded|    |        |
+ 5|   Alan Gopin               |  36100 |   1450 |folded|    |        |
+ 7|D  jennyfar                 |  75900 |     50 |folded|    |        |
+ 9|   b monie                  |  17300 |    250 |folded|    |        |
+10|>  mjoseff                  |  72575 |   4800 |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 12/30/10 18:55:55! Dealing a new hand
+! 12/30/10 18:55:55! Everyone antes $50
+! 12/30/10 18:55:55! b monie blinds $200
+! 12/30/10 18:55:55! mjoseff blinds $400
+! 12/30/10 18:55:55! Stanley Chow is on vacation and folds
+! 12/30/10 19:02:15! Deborah Abel folds
+! 12/30/10 19:50:59! jasong folds
+! 12/31/10 03:37:30! Alan Gopin raises $1000 
+! 12/31/10 06:31:37! jennyfar folds
+! 12/31/10 08:12:20! b monie folds
+! 12/31/10 08:34:36! mjoseff calls 
+
+! 12/31/10 08:34:36! Pot right ($3350), flopping/dealing/drawing cards
+! 12/31/10 08:34:36! 2 players
+! 12/31/10 08:34:36! Flopped cards: Kd 4d 4s
+! 12/31/10 08:35:16! mjoseff bets $3350 
+! 12/31/10 08:48:28! Alan Gopin folds
+! Hand over, no showdown
+! Current board is:  Kd 4d 4s ? ?
+! mjoseff wins $6700 (net $1900)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|V  Stanley Chow             |  31100 |        |<AWOL>|    |        |
+ 2|   Deborah Abel             |  33600 |        |      |    |        |
+ 3|   jasong            |  75650 |        |      |    |        |
+ 5|   Alan Gopin               |  36100 |        |      |    |        |
+ 7|   jennyfar                 |  75900 |        |      |    |        |
+ 9|D  b monie                  |  17300 |        |      |    |        |
+10|>  mjoseff                  |  79275 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 623 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c25.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+If you have any problems send mail to floorman20@wrgpt.org.
+
+Live Redraw Status as of 12/31/10 08:25:01 AM
+
+Total Empty Seats: 28
+Total Playing Seats: 623
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org or follow "wrgpt" on Twitter.
+

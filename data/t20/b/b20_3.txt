@@ -1,0 +1,109 @@
+Message-Id: <201011031616.oA3GG6cb016166@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [b20.10043] Holdem Game Broadcast Message(*)                          
+
+! Table b20, Hand 3, Day 3
+
+! JackBlack folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Andrew Nelson            |  29700 |      0 |folded|    |        |
+ 2|   plankton                 |  30425 |      0 |folded|    |        |
+ 3|D  Kimbo                    |  29850 |      0 |folded|    |        |
+ 4|V  Late Entry 2             |  29850 |     50 | NoSho|    |        |
+ 5|   JackBlack                |  27950 |   2050 |folded|    |        |
+ 6|>  wlu_lax6                 |  26200 |   5850 |      |    |        |
+ 7|V  Cyberchomp               |  30000 |      0 | NOV 4|    |        |
+ 8|   jasong            |  30000 |      0 |folded|    |        |
+ 9|   dBeau                    |  27975 |    100 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 11/02/10 16:40:33! Dealing a new hand
+! 11/02/10 16:40:33! No ante
+! 11/02/10 16:40:33! Late Entry 2 blinds $50
+! 11/02/10 16:40:33! JackBlack blinds $100
+! 11/02/10 17:07:53! wlu_lax6 calls 
+! 11/02/10 17:07:53! Cyberchomp is on vacation and folds
+! 11/02/10 17:07:53! jasong folds
+! 11/02/10 17:49:35! dBeau calls 
+! 11/03/10 07:01:01! Andrew Nelson folds
+! 11/03/10 07:01:01! plankton folds
+! 11/03/10 07:53:07! Kimbo folds
+! 11/03/10 07:53:07! Late Entry 2 is on vacation and folds
+! 11/03/10 07:54:45! JackBlack checks
+
+! 11/03/10 07:54:45! Pot right ($350), flopping/dealing/drawing cards
+! 11/03/10 07:54:45! 3 players
+! 11/03/10 07:54:45! Flopped cards: 3c 7d Ac
+! 11/03/10 07:56:19! JackBlack bets $200 
+! 11/03/10 08:00:57! wlu_lax6 calls 
+! 11/03/10 08:57:03! dBeau folds
+
+! 11/03/10 08:57:03! Pot right ($750), flopping/dealing/drawing cards
+! 11/03/10 08:57:03! 2 players
+! 11/03/10 08:57:03! Flopped card: Jc
+! 11/03/10 09:02:42! JackBlack bets $550 
+! 11/03/10 09:05:42! wlu_lax6 calls 
+
+! 11/03/10 09:05:42! Pot right ($1850), flopping/dealing/drawing cards
+! 11/03/10 09:05:42! 2 players
+! 11/03/10 09:05:42! Flopped card: 10d
+! 11/03/10 09:08:11! JackBlack bets $1200 
+! 11/03/10 09:11:12! wlu_lax6 raises $3800 
+! 11/03/10 09:16:05! JackBlack folds
+! Hand over, no showdown
+! Current board is:  3c 7d Ac Jc 10d
+! wlu_lax6 wins $8050 (net $2200)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Andrew Nelson            |  29700 |        |      |    |        |
+ 2|   plankton                 |  30425 |        |      |    |        |
+ 3|   Kimbo                    |  29850 |        |      |    |        |
+ 4|DV Late Entry 2             |  29850 |        | NoSho|    |        |
+ 5|   JackBlack                |  27950 |        |      |    |        |
+ 6|>  wlu_lax6                 |  34250 |        |      |    |        |
+ 7|V  Cyberchomp               |  30000 |        | NOV 4|    |        |
+ 8|   jasong            |  30000 |        |      |    |        |
+ 9|   dBeau                    |  27975 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 891 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b20.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to WRGPT20.
+This is the real tourney.
+Good luck.
+
+Changes to email or hours of play made in the practice round to NOT carry over
+to the real tourney.  You will need to set them again if you set them for
+the practice round.
+
+If you have problems send mail to floorman20@wrgpt.org.
+
+
+Live Redraw Status as of 11/03/10 08:55:01 AM
+
+Total Empty Seats: 9
+Total Playing Seats: 891
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org or follow "wrgpt" on Twitter.
+

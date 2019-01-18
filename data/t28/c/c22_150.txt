@@ -1,0 +1,115 @@
+Subject: [c22.10037] Holdem Game Broadcast Message(*)
+
+! Table c22, Hand 150, Day 58
+
+! Eric Brassell checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Redbird                  |   62925 |     100 |folded|    |         |
+ 2|   BBLWOG                   |  105725 |     100 |folded|    |         |
+ 3|D  Eric Brassell            |   70000 |     600 |      |    |         |
+ 4|   Richard Van Horn         |   14950 |     350 |folded|    |         |
+ 5|>  Quick                    |   78450 |     600 |      |    |         |
+ 6|   indiansquib              |   56100 |     100 |folded|    |         |
+ 7|   Sir Barlow               |   67925 |     600 |      |    |         |
+ 8|   BrownTrout               |   68275 |     100 |folded|    |         |
+ 9|   bigjimmf1                |  188150 |     100 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/07/19 15:54:57! Dealing a new hand
+! 01/07/19 15:54:57! Everyone antes $100
+! 01/07/19 15:54:57! Richard Van Horn blinds $250
+! 01/07/19 15:54:57! Quick blinds $500
+! 01/07/19 16:39:28! indiansquib folds
+! 01/07/19 16:54:03! Sir Barlow calls 
+! 01/07/19 16:54:03! BrownTrout folds
+! 01/07/19 19:11:44! bigjimmf1 folds
+! 01/07/19 19:46:26! Redbird folds
+! 01/07/19 19:46:26! BBLWOG folds
+! 01/07/19 19:47:50! Eric Brassell calls 
+! 01/07/19 19:47:50! Richard Van Horn folds
+! 01/07/19 20:37:30! Quick checks
+
+! 01/07/19 20:37:30! Pot right ($2650), flopping/dealing/drawing cards
+! 01/07/19 20:37:30! 3 players
+! 01/07/19 20:37:30! Flopped cards: 6c 3d 9d
+! 01/07/19 20:38:03! Quick checks
+! 01/07/19 20:55:20! Sir Barlow checks
+! 01/07/19 20:57:35! Eric Brassell checks
+
+! 01/07/19 20:57:35! Pot right ($2650), flopping/dealing/drawing cards
+! 01/07/19 20:57:35! 3 players
+! 01/07/19 20:57:35! Flopped card: 8s
+! 01/07/19 21:43:19! Quick checks
+! 01/08/19 01:07:19! Sir Barlow checks
+! 01/08/19 03:36:50! Eric Brassell checks
+
+! 01/08/19 03:36:50! Pot right ($2650), flopping/dealing/drawing cards
+! 01/08/19 03:36:50! 3 players
+! 01/08/19 03:36:50! Flopped card: 4h
+! 01/08/19 08:05:15! Quick checks
+! 01/08/19 08:06:44! Sir Barlow checks
+! 01/08/19 09:00:16! Eric Brassell checks
+! Hand over, current board is:  6c 3d 9d 8s 4h
+! Eric Brassell            has: Jh 10c
+! Quick                    has: Kc 7c
+! Sir Barlow               has: Js 2s
+! Quick wins $2650 (net $2050) with No Pair (K 9 8 7 6)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Redbird                  |   62925 |         |      |    |         |
+ 2|   BBLWOG                   |  105725 |         |      |    |         |
+ 3|   Eric Brassell            |   70000 |         |      |    |         |
+ 4|D  Richard Van Horn         |   14950 |         |      |    |         |
+ 5|>  Quick                    |   81100 |         |      |    |         |
+ 6|   indiansquib              |   56100 |         |      |    |         |
+ 7|   Sir Barlow               |   67925 |         |      |    |         |
+ 8|   BrownTrout               |   68275 |         |      |    |         |
+ 9|   bigjimmf1                |  188150 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 394 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c22.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+The "c" round has started.  Good luck to all
+the remaining players.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 3
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

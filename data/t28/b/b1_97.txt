@@ -1,0 +1,116 @@
+Subject: [b1.10981] Holdem Game Broadcast Message(*)
+
+! Table b1, Hand 97, Day 54
+
+! mulligan checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  Nick Name                |   47900 |      50 |folded|    |         |
+ 2|>  EricL                    |  101950 |    3500 |      |    |         |
+ 3|   Thomas Gabrysch          |   34575 |     450 |folded|    |         |
+ 4|   breyercalvert            |  104625 |      50 |folded|    |         |
+ 5|   BaconPancakes            |   52275 |      50 |folded|    |         |
+ 6|   mulligan                 |  109475 |    3500 |      |    |         |
+ 7|   stannius                 |   56225 |      50 |folded|    |         |
+ 8|   Kevin Mackey             |   58200 |      50 |folded|    |         |
+ 9|   Endrju                   |   65200 |    1250 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/03/19 15:34:06! Dealing a new hand
+! 01/03/19 15:34:06! Everyone antes $50
+! 01/03/19 15:34:06! EricL blinds $200
+! 01/03/19 15:34:06! Thomas Gabrysch blinds $400
+! 01/03/19 16:16:32! breyercalvert folds
+! 01/03/19 16:44:54! BaconPancakes folds
+! 01/03/19 17:42:03! mulligan raises $800 to $1200 total 
+! 01/03/19 17:42:03! stannius folds
+! 01/03/19 17:42:03! Kevin Mackey folds
+! 01/03/19 17:42:51! Endrju calls 
+! 01/03/19 20:08:34! Nick Name folds
+! 01/03/19 20:12:07! EricL calls 
+! 01/03/19 20:12:07! Thomas Gabrysch folds
+
+! 01/03/19 20:12:07! Pot right ($4450), flopping/dealing/drawing cards
+! 01/03/19 20:12:07! 3 players
+! 01/03/19 20:12:07! Flopped cards: Ac 7d Js
+! 01/03/19 20:34:06! EricL checks
+! 01/04/19 05:08:23! mulligan checks
+! 01/04/19 05:41:51! Endrju checks
+
+! 01/04/19 05:41:51! Pot right ($4450), flopping/dealing/drawing cards
+! 01/04/19 05:41:51! 3 players
+! 01/04/19 05:41:51! Flopped card: 2c
+! 01/04/19 08:02:24! EricL checks
+! 01/04/19 08:02:28! mulligan bets $2250 
+! 01/04/19 08:03:08! Endrju folds
+! 01/04/19 10:27:48! EricL calls 
+
+! 01/04/19 10:27:48! Pot right ($8950), flopping/dealing/drawing cards
+! 01/04/19 10:27:48! 2 players
+! 01/04/19 10:27:48! Flopped card: Qs
+! 01/04/19 10:28:20! EricL checks
+! 01/04/19 10:39:57! mulligan checks
+! Hand over, current board is:  Ac 7d Js 2c Qs
+! EricL                    has: 4s 4d
+! mulligan                 has: 6d 2d
+! EricL wins $8950 (net $5450) with One Pair (4 4 A Q J)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Nick Name                |   47900 |         |      |    |         |
+ 2|D> EricL                    |  110900 |         |      |    |         |
+ 3|   Thomas Gabrysch          |   34575 |         |      |    |         |
+ 4|   breyercalvert            |  104625 |         |      |    |         |
+ 5|   BaconPancakes            |   52275 |         |      |    |         |
+ 6|   mulligan                 |  109475 |         |      |    |         |
+ 7|   stannius                 |   56225 |         |      |    |         |
+ 8|   Kevin Mackey             |   58200 |         |      |    |         |
+ 9|   Endrju                   |   65200 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 400 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b1.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+We are now over 45 days into round "b". 
+As soon as any table gets to five or fewer 
+players all tables will finish the current 
+hand and a full redraw to round "c" will be done.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 32
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

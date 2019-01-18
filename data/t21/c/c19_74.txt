@@ -1,0 +1,118 @@
+Message-Id: <201201201712.q0KHCPZZ024521@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [c19.10019] Holdem Game Broadcast Message(*)                          
+
+! Table c19, Hand 74, Day 68
+
+! Jenner N. Broody folds
+! mash001 folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|D  Ro-me-ro                 |  68500 |   1050 |folded|    |        |
+ 2|   Anshu                    |  77550 |   1050 |folded|    |        |
+ 3|>  Neechieguy               |  23000 |   7300 |      |  1 |  15075 |
+ 4|V  Kullmannasaurus          |      0 |     25 |RESIGN| 10 |    250 |
+ 5|   Jenner N. Broody         |   6500 |   2850 |folded|    |        |
+ 6|   Linzk425                 |  29450 |     50 |folded|    |        |
+ 7|   swamper wlu_lax6         | 100450 |     50 |folded|    |        |
+ 8|   Paul McMullin            |  39350 |     50 |folded|    |        |
+ 9|   jasong            |  15250 |     50 |folded|    |        |
+10|   mash001                  |  20700 |   2850 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 01/17/12 11:56:59! Dealing a new hand
+! 01/17/12 11:56:59! Kullmannasaurus antes $25 and is all in
+! 01/17/12 11:56:59! Everyone else antes $50
+! 01/17/12 11:56:59! Anshu blinds $200
+! 01/17/12 11:56:59! Neechieguy blinds $400
+! 01/17/12 15:47:36! Jenner N. Broody calls 
+! 01/18/12 00:32:06! Linzk425 folds
+! 01/18/12 00:32:06! swamper wlu_lax6 folds
+! 01/18/12 00:32:06! Paul McMullin folds
+! 01/18/12 00:32:06! jasong folds
+! 01/18/12 05:09:58! mash001 calls 
+! 01/18/12 05:09:58! Ro-me-ro raises $600 
+! 01/18/12 13:49:24! Anshu calls 
+! 01/18/12 18:52:23! Neechieguy calls 
+! 01/19/12 09:35:37! Jenner N. Broody calls 
+! 01/19/12 10:51:44! mash001 calls 
+
+! 01/19/12 10:51:44! Pot right ($5475), flopping/dealing/drawing cards
+! 01/19/12 10:51:44! 6 players, 1 all in
+! 01/19/12 10:51:44! Flopped cards: Kc 6c 9c
+! 01/19/12 14:36:42! Anshu checks
+! 01/19/12 15:03:14! Neechieguy checks
+! 01/19/12 15:37:02! Jenner N. Broody checks
+! 01/19/12 16:06:31! mash001 checks
+! 01/19/12 16:23:19! Ro-me-ro checks
+
+! 01/19/12 16:23:19! Pot right ($5475), flopping/dealing/drawing cards
+! 01/19/12 16:23:19! 6 players, 1 all in
+! 01/19/12 16:23:19! Flopped card: Qd
+! 01/19/12 16:46:59! Anshu checks
+! 01/19/12 17:15:31! Neechieguy bets $1800 
+! 01/19/12 17:41:29! Jenner N. Broody calls 
+! 01/19/12 18:20:34! mash001 calls 
+! 01/20/12 00:38:06! Ro-me-ro folds
+! 01/20/12 00:38:06! Anshu folds
+
+! 01/20/12 00:38:06! Pot right ($10875), flopping/dealing/drawing cards
+! 01/20/12 00:38:06! 4 players, 1 all in
+! 01/20/12 00:38:06! Flopped card: 4c
+! 01/20/12 06:00:44! Neechieguy bets $4450 
+! 01/20/12 09:12:24! Jenner N. Broody folds
+! 01/20/12 09:12:24! mash001 folds
+! Hand over, current board is:  Kc 6c 9c Qd 4c
+! Neechieguy               has: 4h Ac
+! Pot 1: uncalled $15075 returned to Neechieguy
+! Pot 10: Neechieguy wins $250 with Club Flush (A K 9 6 4)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Ro-me-ro                 |  68500 |        |      |    |        |
+ 2|D  Anshu                    |  77550 |        |      |    |        |
+ 3|>  Neechieguy               |  38325 |        |      |    |        |
+ 5|   Jenner N. Broody         |   6500 |        |      |    |        |
+ 6|   Linzk425                 |  29450 |        |      |    |        |
+ 7|   swamper wlu_lax6         | 100450 |        |      |    |        |
+ 8|   Paul McMullin            |  39350 |        |      |    |        |
+ 9|   jasong            |  15250 |        |      |    |        |
+10|   mash001                  |  20700 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! Kullmannasaurus is eliminated!
+! 536 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c19.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+There will be no more live redraws for the "b" round.
+When a table gets BELOW six players all tables will finish
+the current hand and a full redraw will occur.
+
+Having problems? Send email to floorman21@wrgpt.org.
+
+Live Redraw Status as of 01/20/12 08:55:01 AM
+
+Total Empty Seats: 20
+Total Playing Seats: 537
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+

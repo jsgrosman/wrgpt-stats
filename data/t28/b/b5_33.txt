@@ -1,0 +1,110 @@
+Subject: [b5.10387] Holdem Game Broadcast Message(*)
+
+! Table b5, Hand 33, Day 32
+
+! Xaralambous calls - side pot
+! Pot right ($66475), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped card: Jd
+! Flopped card: 5s
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Steb                     |   53550 |      25 |folded|    |         |
+ 2|   threeputzzz              |       0 |   35800 |all-in|  1 |    6050 |
+ 3|   Dalamo                   |   49300 |     325 |folded|    |         |
+ 4|   CPROG                    |   98575 |      25 |folded|    |         |
+ 5|>  Xaralambous              |       0 |   29750 |all-in|  2 |   60425 |
+ 6|D  James Bond               |   52400 |      25 |folded|    |         |
+ 7|   DocOber                  |   41675 |     175 |folded|    |         |
+ 8|   Chris Danek              |   82800 |     325 |folded|    |         |
+ 9|   siona                    |   50500 |      25 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/13/18 07:33:06! Dealing a new hand
+! 12/13/18 07:33:06! Everyone antes $25
+! 12/13/18 07:33:06! DocOber blinds $150
+! 12/13/18 07:33:06! Chris Danek blinds $300
+! 12/13/18 09:12:14! siona folds
+! 12/13/18 09:12:14! Steb folds
+! 12/13/18 09:53:07! threeputzzz calls 
+! 12/13/18 10:31:11! Dalamo calls 
+! 12/13/18 10:31:11! CPROG folds
+! 12/13/18 10:32:28! Xaralambous raises $1200 to $1500 total 
+! 12/13/18 10:32:28! James Bond folds
+! 12/13/18 10:40:38! DocOber folds
+! 12/13/18 11:53:48! Chris Danek folds
+! 12/13/18 11:55:48! threeputzzz calls 
+! 12/13/18 11:55:48! Dalamo folds
+
+! 12/13/18 11:55:48! Pot right ($3975), flopping/dealing/drawing cards
+! 12/13/18 11:55:48! 2 players
+! 12/13/18 11:55:48! Flopped cards: Qc 3c 4h
+! 12/13/18 11:56:51! threeputzzz checks
+! 12/13/18 12:19:52! Xaralambous bets $12000 
+! 12/13/18 12:20:40! threeputzzz raises $22275 to $34275 total and is all in
+! 12/13/18 12:25:45! Xaralambous calls - side pot
+
+! 12/13/18 12:25:45! Pot right ($66475), flopping/dealing/drawing cards
+! 12/13/18 12:25:45! 2 players, 2 all in
+! 12/13/18 12:25:45! Flopped card: Jd
+! 12/13/18 12:25:45! Flopped card: 5s
+! Hand over, current board is:  Qc 3c 4h Jd 5s
+! threeputzzz              has: 2s 2h
+! Xaralambous              has: As Ah
+! Pot 1: uncalled $6050 returned to threeputzzz
+! Pot 2: Xaralambous wins $60425 with One Pair (A A Q J 5)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Steb                     |   53550 |         |      |    |         |
+ 2|   threeputzzz              |    6050 |         |      |    |         |
+ 3|   Dalamo                   |   49300 |         |      |    |         |
+ 4|   CPROG                    |   98575 |         |      |    |         |
+ 5|>  Xaralambous              |   60425 |         |      |    |         |
+ 6|   James Bond               |   52400 |         |      |    |         |
+ 7|D  DocOber                  |   41675 |         |      |    |         |
+ 8|   Chris Danek              |   82800 |         |      |    |         |
+ 9|   siona                    |   50500 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 481 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b5.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 5
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

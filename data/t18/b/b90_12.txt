@@ -1,0 +1,111 @@
+Message-Id: <200811211342.mALDgW9C003321@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+Reply-To: dealer@wrgpt.org
+From: dealer@wrgpt.org
+Subject: [b90.10164] Holdem Game Broadcast Message(*)          
+
+! Table b90, Hand 12, Day 19
+
+! calemb10 folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Poker Ken                |  30200 |      0 |folded|    |        |
+ 2|>  DroogieDroog             |  17150 |   2400 |      |    |        |
+ 3|   Warren Usui              |  19850 |      0 |folded|    |        |
+ 4|   Shyam Markus             |  15050 |      0 |folded|    |        |
+ 5|   fich                     |  19900 |      0 |folded|    |        |
+ 6|   couchtater               |  18700 |      0 |folded|    |        |
+ 7|D  Smeagol                  |  17900 |    200 |folded|    |        |
+ 8|   jasong            |  32700 |    100 |folded|    |        |
+ 9|   calemb10                 |  18900 |    700 |folded|    |        |
+10|   Ray Powers               |  26250 |      0 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 11/19/08 13:37:33! Dealing a new hand
+! 11/19/08 13:37:33! No ante
+! 11/19/08 13:37:33! jasong blinds $100
+! 11/19/08 13:37:33! calemb10 blinds $200
+! 11/19/08 13:50:17! Ray Powers folds
+! 11/19/08 13:50:17! Poker Ken folds
+! 11/19/08 14:46:44! DroogieDroog calls 
+! 11/19/08 14:46:44! Warren Usui is on vacation and folds
+! 11/19/08 19:40:29! Warren Usui is back from vacation
+! 11/20/08 03:21:58! Shyam Markus folds
+! 11/20/08 03:21:58! fich folds
+! 11/20/08 08:30:12! couchtater folds
+! 11/20/08 08:30:12! Smeagol calls 
+! 11/20/08 08:30:12! jasong folds
+! 11/20/08 08:31:21! calemb10 checks
+
+! 11/20/08 08:31:21! Pot right ($700), flopping/dealing/drawing cards
+! 11/20/08 08:31:21! 3 players
+! 11/20/08 08:31:21! Flopped cards: 3d Kh 8c
+! 11/20/08 08:33:43! calemb10 checks
+! 11/20/08 10:03:05! DroogieDroog checks
+! 11/20/08 10:28:59! Smeagol checks
+
+! 11/20/08 10:28:59! Pot right ($700), flopping/dealing/drawing cards
+! 11/20/08 10:28:59! 3 players
+! 11/20/08 10:28:59! Flopped card: 9c
+! 11/20/08 10:45:18! calemb10 bets $500 
+! 11/20/08 12:58:57! DroogieDroog calls 
+_____________________________________________________________________________
+
+! good luck you two
+! -- Smeagol --
+_____________________________________________________________________________
+
+! 11/20/08 13:57:17! Smeagol folds
+
+! 11/20/08 13:57:17! Pot right ($1700), flopping/dealing/drawing cards
+! 11/20/08 13:57:17! 2 players
+! 11/20/08 13:57:17! Flopped card: 2s
+! 11/20/08 14:01:28! calemb10 checks
+! 11/20/08 14:14:25! DroogieDroog bets $1700 
+! 11/21/08 05:42:31! calemb10 folds
+! Hand over, no showdown
+! Current board is:  3d Kh 8c 9c 2s
+! DroogieDroog wins $3400 (net $1000)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Poker Ken                |  30200 |        |      |    |        |
+ 2|>  DroogieDroog             |  20550 |        |      |    |        |
+ 3|   Warren Usui              |  19850 |        |      |    |        |
+ 4|   Shyam Markus             |  15050 |        |      |    |        |
+ 5|   fich                     |  19900 |        |      |    |        |
+ 6|   couchtater               |  18700 |        |      |    |        |
+ 7|   Smeagol                  |  17900 |        |      |    |        |
+ 8|D  jasong            |  32700 |        |      |    |        |
+ 9|   calemb10                 |  18900 |        |      |    |        |
+10|   Ray Powers               |  26250 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 1001 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b90.html
+
+TOURNEY INFORMATION
+
+
+NOTICE:
+
+If you are on vacation for 45 days you will be 
+removed from the tourney.  Exceptions will be made 
+only in the case of telling the floorman why you
+have a good reason to be gone for 45 days before
+the 45 days have elapsed.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org
+

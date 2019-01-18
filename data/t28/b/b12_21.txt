@@ -1,0 +1,117 @@
+Subject: [b12.10295] Holdem Game Broadcast Message(*)
+
+! Table b12, Hand 21, Day 15
+
+! TheTsunami calls 
+! Pot right ($94000), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: Kh
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  TheTsunami               |   38850 |   46850 |      |    |         |
+ 2|   Rich Guidoboni           |   61925 |       0 |folded|    |         |
+ 3|D  Bart Tichelman           |   39575 |       0 |folded|    |         |
+ 5|   Jascha                   |   37400 |     300 |folded|    |         |
+ 6|   ThinkingPokerAndrew      |   47675 |       0 |folded|    |         |
+ 7|   Douglas T.               |       0 |   46850 |all-in|    |         |
+ 8|   JohnnyMac                |  125425 |       0 |folded|    |         |
+ 9|   Clarence Beeks           |   53050 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/26/18 08:17:15! Dealing a new hand
+! 11/26/18 08:17:15! No ante
+! 11/26/18 08:17:15! Jascha blinds $300
+! 11/26/18 08:19:15! ThinkingPokerAndrew folds
+! 11/26/18 08:23:08! Douglas T. raises $450 to $750 total 
+! 11/26/18 08:23:08! JohnnyMac folds
+! 11/26/18 09:15:13! Clarence Beeks folds
+! 11/26/18 09:15:13! TheTsunami raises $1800 to $2550 total 
+! 11/26/18 09:15:13! Rich Guidoboni folds
+! 11/26/18 09:34:03! Bart Tichelman folds
+! 11/26/18 12:54:22! Jascha folds
+! 11/26/18 13:03:56! Douglas T. calls 
+
+! 11/26/18 13:03:56! Pot right ($5400), flopping/dealing/drawing cards
+! 11/26/18 13:03:56! 2 players
+! 11/26/18 13:03:56! Flopped cards: Js 8s 4c
+! 11/26/18 13:07:44! Douglas T. bets $2200 
+! 11/26/18 13:51:57! TheTsunami calls 
+
+! 11/26/18 13:51:57! Pot right ($9800), flopping/dealing/drawing cards
+! 11/26/18 13:51:57! 2 players
+! 11/26/18 13:51:57! Flopped card: 9d
+! 11/26/18 13:58:42! Douglas T. bets $5000 
+! 11/26/18 13:58:42! TheTsunami raises $19800 to $24800 total 
+! 11/26/18 14:00:23! Douglas T. raises $17300 to $42100 total and is all in
+! 11/26/18 15:22:37! TheTsunami calls 
+
+! 11/26/18 15:22:37! Pot right ($94000), flopping/dealing/drawing cards
+! 11/26/18 15:22:37! 2 players, 1 all in
+! 11/26/18 15:22:37! Flopped card: Kh
+! Hand over, current board is:  Js 8s 4c 9d Kh
+! TheTsunami               has: 8h Kc
+! Douglas T.               has: Ac Jc
+! TheTsunami wins $94000 (net $47150) with Two Pair (K K 8 8 J)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  TheTsunami               |  132850 |         |      |    |         |
+ 2|   Rich Guidoboni           |   61925 |         |      |    |         |
+ 3|D  Bart Tichelman           |   39575 |         |      |    |         |
+ 5|   Jascha                   |   37400 |         |      |    |         |
+ 6|   ThinkingPokerAndrew      |   47675 |         |      |    |         |
+ 8|   JohnnyMac                |  125425 |         |      |    |         |
+ 9|   Clarence Beeks           |   53050 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Douglas T. is eliminated!
+! 555 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b12.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 11
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

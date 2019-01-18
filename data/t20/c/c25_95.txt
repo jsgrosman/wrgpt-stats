@@ -1,0 +1,93 @@
+Message-Id: <201101252242.p0PMgrRS026481@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [c25.10379] Holdem Game Broadcast Message(*)                          
+
+! Table c25, Hand 95, Day 86
+
+! jasong folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Julian Longo             |  22625 |    200 |folded|    |        |
+ 2|DV David                    |  85150 |    200 |<AWOL>|    |        |
+ 3|   JAvery - VP              |    925 |    800 |folded|    |        |
+ 4|   Its Just AA              | 124525 |   1400 |folded|    |        |
+ 5|   Nikadai                  |  25050 |    200 |folded|    |        |
+ 6|>  mjoseff                  |  99475 |  24400 |      |    |        |
+ 7|   Eddie Brown              | 197325 |    200 |folded|    |        |
+ 8|   jasong            |  39950 |  12200 |folded|    |        |
+ 9|   AW Coody                 |  93550 |    200 |folded|    |        |
+10|   b monie                  |  15900 |    200 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 01/25/11 13:47:12! Dealing a new hand
+! 01/25/11 13:47:12! Everyone antes $200
+! 01/25/11 13:47:12! JAvery - VP blinds $600
+! 01/25/11 13:47:12! Its Just AA blinds $1200
+! 01/25/11 13:49:45! Nikadai folds
+! 01/25/11 13:52:58! mjoseff raises $4600 
+! 01/25/11 13:52:58! Eddie Brown folds
+! 01/25/11 14:11:13! jasong raises $6200 
+! 01/25/11 14:20:00! AW Coody folds
+! 01/25/11 14:20:00! b monie folds
+! 01/25/11 14:20:00! Julian Longo folds
+! 01/25/11 14:20:00! David is on vacation and folds
+! 01/25/11 14:23:02! JAvery - VP folds
+! 01/25/11 14:23:02! Its Just AA folds
+! 01/25/11 14:23:24! mjoseff calls 
+
+! 01/25/11 14:23:24! Pot right ($27800), flopping/dealing/drawing cards
+! 01/25/11 14:23:24! 2 players
+! 01/25/11 14:23:24! Flopped cards: 2h Qh 3s
+! 01/25/11 14:26:21! mjoseff bets $12200 
+! 01/25/11 14:42:52! jasong folds
+! Hand over, no showdown
+! Current board is:  2h Qh 3s ? ?
+! mjoseff wins $40000 (net $15600)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Julian Longo             |  22625 |        |      |    |        |
+ 2|V  David                    |  85150 |        |<AWOL>|    |        |
+ 3|D  JAvery - VP              |    925 |        |      |    |        |
+ 4|   Its Just AA              | 124525 |        |      |    |        |
+ 5|   Nikadai                  |  25050 |        |      |    |        |
+ 6|>  mjoseff                  | 139475 |        |      |    |        |
+ 7|   Eddie Brown              | 197325 |        |      |    |        |
+ 8|   jasong            |  39950 |        |      |    |        |
+ 9|   AW Coody                 |  93550 |        |      |    |        |
+10|   b monie                  |  15900 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 512 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c25.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+If you have any problems send mail to floorman20@wrgpt.org.
+
+Live Redraw Status as of 01/25/11 02:25:08 PM
+
+Total Empty Seats: 26
+Total Playing Seats: 504
+Live redraw in progress:
+Seats Needed: 12
+Seats Waiting: 0
+Moving Players Waiting: 12
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org or follow "wrgpt" on Twitter.
+

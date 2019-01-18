@@ -1,0 +1,109 @@
+Message-Id: <201101101844.p0AIiXwd011280@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [c25.10224] Holdem Game Broadcast Message(*)                          
+
+! Table c25, Hand 79, Day 71
+
+! KluelessKid calls 
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|DV Nikadai                  |  70125 |     50 |13 jan|    |        |
+ 2|   mjoseff                  | 104275 |    250 |folded|    |        |
+ 3|   Eddie Brown              |  53250 |    450 |folded|    |        |
+ 4|V  Stanley Chow             |  29100 |     50 |<AWOL>|    |        |
+ 5|   jasong            |  69750 |   1550 |folded|    |        |
+ 6|   jennyfar                 |  81500 |     50 |folded|    |        |
+ 7|   AW Coody                 | 111850 |    450 |folded|    |        |
+ 8|>  b monie                  |  15600 |  12550 |      |    |        |
+ 9|   JAvery - VP              |  14750 |     50 |folded|    |        |
+10|   KluelessKid              |  17200 |  12550 |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 01/07/11 15:55:02! Dealing a new hand
+! 01/07/11 15:55:02! Everyone antes $50
+! 01/07/11 15:55:02! mjoseff blinds $200
+! 01/07/11 15:55:02! Eddie Brown blinds $400
+! 01/07/11 15:55:02! Stanley Chow is on vacation and folds
+! 01/07/11 16:51:29! KluelessKid is back from vacation
+! 01/07/11 17:25:18! jasong calls 
+! 01/07/11 17:25:18! jennyfar folds
+! 01/07/11 18:35:58! AW Coody calls 
+! 01/07/11 19:28:57! b monie raises $1100 
+! 01/10/11 05:55:59! JAvery - VP folds
+! 01/10/11 08:15:52! KluelessKid calls 
+! 01/10/11 08:15:52! Nikadai is on vacation and folds
+! 01/10/11 08:15:52! mjoseff folds
+! 01/10/11 08:15:52! Eddie Brown folds
+! 01/10/11 09:15:49! jasong calls 
+! 01/10/11 09:15:49! AW Coody folds
+
+! 01/10/11 09:15:49! Pot right ($6000), flopping/dealing/drawing cards
+! 01/10/11 09:15:49! 3 players
+! 01/10/11 09:15:49! Flopped cards: 7d Qh Js
+! 01/10/11 09:18:20! jasong checks
+! 01/10/11 09:36:05! b monie checks
+! 01/10/11 10:16:00! KluelessKid checks
+
+! 01/10/11 10:16:00! Pot right ($6000), flopping/dealing/drawing cards
+! 01/10/11 10:16:00! 3 players
+! 01/10/11 10:16:00! Flopped card: 3s
+! 01/10/11 10:19:49! jasong checks
+! 01/10/11 10:25:34! b monie bets $3000 
+! 01/10/11 10:41:53! KluelessKid calls 
+! 01/10/11 10:41:53! jasong folds
+
+! 01/10/11 10:41:53! Pot right ($12000), flopping/dealing/drawing cards
+! 01/10/11 10:41:53! 2 players
+! 01/10/11 10:41:53! Flopped card: 6c
+! 01/10/11 10:42:44! b monie bets $8000 
+! 01/10/11 10:44:33! KluelessKid calls 
+! Hand over, current board is:  7d Qh Js 3s 6c
+! b monie                  has: 10h 9h
+! KluelessKid              has: 9s 9c
+! KluelessKid wins $28000 (net $15450) with One Pair (9 9 Q J 7)
+! Antes and blinds go up
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|V  Nikadai                  |  70125 |        |13 jan|    |        |
+ 2|D  mjoseff                  | 104275 |        |      |    |        |
+ 3|   Eddie Brown              |  53250 |        |      |    |        |
+ 4|V  Stanley Chow             |  29100 |        |<AWOL>|    |        |
+ 5|   jasong            |  69750 |        |      |    |        |
+ 6|   jennyfar                 |  81500 |        |      |    |        |
+ 7|   AW Coody                 | 111850 |        |      |    |        |
+ 8|>  b monie                  |  15600 |        |      |    |        |
+ 9|   JAvery - VP              |  14750 |        |      |    |        |
+10|   KluelessKid              |  45200 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 575 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c25.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+If you have any problems send mail to floorman20@wrgpt.org.
+
+Live Redraw Status as of 01/10/11 10:25:01 AM
+
+Total Empty Seats: 22
+Total Playing Seats: 575
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org or follow "wrgpt" on Twitter.
+

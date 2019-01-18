@@ -1,0 +1,106 @@
+Subject: [c38.10067] Holdem Game Broadcast Message(*)
+
+! Table c38, Hand 153, Day 59
+
+! Jeff Goff checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|V  DKatx512                 |   25950 |     100 |<AWOL>|    |         |
+ 2|   dchizzle41               |  206650 |     100 |folded|    |         |
+ 3|   ADBBingo                 |   50300 |     100 |folded|    |         |
+ 4|   Jeff Goff                |   27450 |    7650 |      |    |         |
+ 5|D  Richard Rognlie          |  115025 |     100 |folded|    |         |
+ 7|>  Big Bobby Dollar         |  170275 |    7650 |      |    |         |
+ 8|   Mybanjo                  |   39475 |     600 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/09/19 07:59:40! Dealing a new hand
+! 01/09/19 07:59:40! Everyone antes $100
+! 01/09/19 07:59:40! Big Bobby Dollar blinds $250
+! 01/09/19 07:59:40! Mybanjo blinds $500
+! 01/09/19 07:59:40! DKatx512 is on vacation and folds
+! 01/09/19 08:36:39! dchizzle41 folds
+! 01/09/19 08:36:39! ADBBingo folds
+! 01/09/19 08:56:35! Jeff Goff raises $750 to $1250 total 
+! 01/09/19 08:56:35! Richard Rognlie folds
+! 01/09/19 08:58:33! Big Bobby Dollar calls 
+! 01/09/19 09:37:10! Mybanjo folds
+
+! 01/09/19 09:37:10! Pot right ($3700), flopping/dealing/drawing cards
+! 01/09/19 09:37:10! 2 players
+! 01/09/19 09:37:10! Flopped cards: 3s 9h 6c
+! 01/09/19 09:46:25! Big Bobby Dollar bets $1300 
+! 01/09/19 09:47:23! Jeff Goff calls 
+
+! 01/09/19 09:47:23! Pot right ($6300), flopping/dealing/drawing cards
+! 01/09/19 09:47:23! 2 players
+! 01/09/19 09:47:23! Flopped card: Qc
+! 01/09/19 09:48:53! Big Bobby Dollar bets $2000 
+! 01/09/19 09:51:13! Jeff Goff raises $3000 to $5000 total 
+! 01/09/19 09:57:51! Big Bobby Dollar calls 
+
+! 01/09/19 09:57:51! Pot right ($16300), flopping/dealing/drawing cards
+! 01/09/19 09:57:51! 2 players
+! 01/09/19 09:57:51! Flopped card: 2s
+! 01/09/19 09:58:19! Big Bobby Dollar checks
+! 01/09/19 10:26:37! Jeff Goff checks
+! Hand over, current board is:  3s 9h 6c Qc 2s
+! Jeff Goff                has: Qd Kc
+! Big Bobby Dollar         has: Js 9c
+! Jeff Goff wins $16300 (net $8650) with One Pair (Q Q K 9 6)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|V  DKatx512                 |   25950 |         |<AWOL>|    |         |
+ 2|   dchizzle41               |  206650 |         |      |    |         |
+ 3|   ADBBingo                 |   50300 |         |      |    |         |
+ 4|   Jeff Goff                |   43750 |         |      |    |         |
+ 5|   Richard Rognlie          |  115025 |         |      |    |         |
+ 7|D> Big Bobby Dollar         |  170275 |         |      |    |         |
+ 8|   Mybanjo                  |   39475 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 391 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c38.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+The "c" round has started.  Good luck to all
+the remaining players.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

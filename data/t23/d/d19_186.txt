@@ -1,0 +1,120 @@
+Message-Id: <201403150227.s2F2RwLs017924@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [d19.10317] Holdem Game Broadcast Message(*)                          
+
+! Table d19, Hand 186, Day 124
+
+! Shawn Pope calls 
+! Pot right ($173850), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: Js
+! Flopped card: 8h
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Blofeld                  |  68300 |    400 |folded|    |        |
+ 2|D  Berglar                  |  67350 |    400 |folded|    |        |
+ 3|   Joe Nadeau               | 376850 |   2000 |folded|    |        |
+ 4|   Luigi Barone             |  32900 |   3600 |folded|    |        |
+ 5|   Indiansquib              | 224825 |    400 |folded|    |        |
+ 6|>  Shawn Pope               | 177025 |  70725 |      |    |        |
+ 7|   jasong            |  76350 |    400 |folded|    |        |
+ 8|   tyslothrop               | 149325 |  24800 |folded|    |        |
+ 9|   bluecandy                |      0 |  70725 |all-in|    |        |
+10|   Chaos                    | 101500 |    400 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 03/13/14 21:30:59! Dealing a new hand
+! 03/13/14 21:30:59! Everyone antes $400
+! 03/13/14 21:30:59! Joe Nadeau blinds $1600
+! 03/13/14 21:30:59! Luigi Barone blinds $3200
+! 03/14/14 05:19:52! Indiansquib folds
+! 03/14/14 06:06:49! Shawn Pope raises $6800 
+! 03/14/14 06:06:49! jasong folds
+! 03/14/14 09:28:32! tyslothrop raises $14400 
+! 03/14/14 10:01:55! bluecandy calls 
+! 03/14/14 10:01:55! Chaos folds
+! 03/14/14 10:01:55! Blofeld folds
+! 03/14/14 10:01:55! Berglar folds
+! 03/14/14 10:01:55! Joe Nadeau folds
+! 03/14/14 13:13:02! Luigi Barone folds
+! 03/14/14 13:30:11! Shawn Pope calls 
+
+! 03/14/14 13:30:11! Pot right ($82000), flopping/dealing/drawing cards
+! 03/14/14 13:30:11! 3 players
+! 03/14/14 13:30:11! Flopped cards: 4d As 3s
+! 03/14/14 13:42:25! Shawn Pope bets $20000 
+! 03/14/14 17:23:52! tyslothrop folds
+! 03/14/14 18:00:32! bluecandy raises $25925 and is all in
+! 03/14/14 19:27:57! Shawn Pope calls 
+
+! 03/14/14 19:27:57! Pot right ($173850), flopping/dealing/drawing cards
+! 03/14/14 19:27:57! 2 players, 1 all in
+! 03/14/14 19:27:57! Flopped card: Js
+! 03/14/14 19:27:57! Flopped card: 8h
+! Hand over, current board is:  4d As 3s Js 8h
+! Shawn Pope               has: 6s 6h
+! bluecandy                has: Ad Jd
+! bluecandy wins $173850 (net $103125) with Two Pair (A A J J 8)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Blofeld                  |  68300 |        |      |    |        |
+ 2|   Berglar                  |  67350 |        |      |    |        |
+ 3|D  Joe Nadeau               | 376850 |        |      |    |        |
+ 4|   Luigi Barone             |  32900 |        |      |    |        |
+ 5|   Indiansquib              | 224825 |        |      |    |        |
+ 6|>  Shawn Pope               | 177025 |        |      |    |        |
+ 7|   jasong            |  76350 |        |      |    |        |
+ 8|   tyslothrop               | 149325 |        |      |    |        |
+ 9|   bluecandy                | 173850 |        |      |    |        |
+10|   Chaos                    | 101500 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 190 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d19.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+NOTE:
+
+Daylight savings time is now in effect in the server's time zone.
+Please adjust your START time if necessary.
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+Here is a link to the railbird mailing list:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman23@wrgpt.org.
+
+Live Redraw Status as of 03/14/14 07:25:01 PM
+
+Total Empty Seats: 10
+Total Playing Seats: 190
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

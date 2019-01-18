@@ -1,0 +1,130 @@
+Message-Id: <201312061541.rB6FfjW8004000@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [b3.10308] Holdem Game Broadcast Message(*)                          
+
+! Table b3, Hand 21, Day 26
+
+! Jose Aguas folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Cindy                    |  57150 |      0 |folded|    |        |
+ 2|   jsw                      |  53600 |      0 |folded|    |        |
+ 3|D  Fryday                   |  19675 |    550 |folded|    |        |
+ 4|   Jose Aguas               |  31825 |   4800 |folded|    |        |
+ 5|   beowulf                  |  14300 |    550 |folded|    |        |
+ 6|   jasong            |  71750 |      0 |folded|    |        |
+ 7|   Jim Sokoloff             |  29600 |      0 |folded|    |        |
+ 8|   Gillian Groves           |  54450 |      0 |folded|    |        |
+ 9|>  Oldbear                  |  11950 |   9800 |      |    |        |
+10|   shaerinck                |  38750 |    550 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 12/05/13 09:05:52! Dealing a new hand
+! 12/05/13 09:05:52! No ante
+! 12/05/13 09:05:52! Jose Aguas blinds $100
+! 12/05/13 09:05:52! beowulf blinds $200
+! 12/05/13 09:49:00! jasong folds
+! 12/05/13 09:49:00! Jim Sokoloff is on vacation and folds
+! 12/05/13 12:59:53! Gillian Groves folds
+! 12/05/13 14:15:47! Oldbear calls 
+! 12/05/13 14:15:47! shaerinck calls 
+! 12/05/13 14:15:47! Cindy folds
+! 12/05/13 14:15:47! jsw folds
+! 12/05/13 15:09:49! Fryday raises $350 
+! 12/05/13 15:22:21! Jose Aguas calls 
+! 12/05/13 17:35:47! Jim Sokoloff is back from vacation
+! 12/06/13 02:23:23! beowulf calls 
+! 12/06/13 04:17:03! Oldbear calls 
+! 12/06/13 04:36:40! shaerinck calls 
+
+! 12/06/13 04:36:40! Pot right ($2750), flopping/dealing/drawing cards
+! 12/06/13 04:36:40! 5 players
+! 12/06/13 04:36:40! Flopped cards: 3c Kd As
+! 12/06/13 05:50:56! Jose Aguas checks
+! 12/06/13 05:50:56! beowulf checks
+! 12/06/13 06:29:09! Oldbear bets $750 
+! 12/06/13 06:30:22! shaerinck folds
+! 12/06/13 06:30:22! Fryday folds
+! 12/06/13 06:35:24! Jose Aguas calls 
+! 12/06/13 06:35:24! beowulf folds
+
+! 12/06/13 06:35:24! Pot right ($4250), flopping/dealing/drawing cards
+! 12/06/13 06:35:24! 2 players
+! 12/06/13 06:35:24! Flopped card: 9d
+! 12/06/13 06:35:54! Jose Aguas checks
+! 12/06/13 06:37:39! Oldbear bets $1500 
+! 12/06/13 06:38:53! Jose Aguas calls 
+
+! 12/06/13 06:38:53! Pot right ($7250), flopping/dealing/drawing cards
+! 12/06/13 06:38:53! 2 players
+! 12/06/13 06:38:53! Flopped card: 5h
+! 12/06/13 06:39:48! Jose Aguas bets $2000 
+! 12/06/13 07:21:55! Oldbear raises $5000 
+! 12/06/13 07:41:44! Jose Aguas folds
+! Hand over, no showdown
+! Current board is:  3c Kd As 9d 5h
+! Oldbear wins $16250 (net $6450)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Cindy                    |  57150 |        |      |    |        |
+ 2|   jsw                      |  53600 |        |      |    |        |
+ 3|   Fryday                   |  19675 |        |      |    |        |
+ 4|D  Jose Aguas               |  31825 |        |      |    |        |
+ 5|   beowulf                  |  14300 |        |      |    |        |
+ 6|   jasong            |  71750 |        |      |    |        |
+ 7|   Jim Sokoloff             |  29600 |        |      |    |        |
+ 8|   Gillian Groves           |  54450 |        |      |    |        |
+ 9|>  Oldbear                  |  28200 |        |      |    |        |
+10|   shaerinck                |  38750 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 849 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b3.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+REMEMBER: You only get FOUR hours to act this year in your office day.
+REMEMBER: Your office day is TEN hours rather than nine as last year.
+
+Check out the START command from the manual if you are having problems
+acting in time.  Maybe it needs adjustment.
+
+http://www.wrgpt.org/manual.html
+
+Here is a link to the railbird mailing list:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman23@wrgpt.org.
+
+Live Redraw Status as of 12/06/13 07:25:01 AM
+
+Total Empty Seats: 20
+Total Playing Seats: 850
+Live redraw in progress:
+Seats Needed: 10
+Seats Waiting: 3
+Moving Players Waiting: 0
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

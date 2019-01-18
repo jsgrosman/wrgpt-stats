@@ -1,0 +1,114 @@
+
+! Table c30, Hand 152, Day 88
+
+! tom porter folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   jasong            |   43650 |     300 |folded|    |         |
+ 2|   slugbot                  |   39900 |     300 |folded|    |         |
+ 3|   Spike                    |  176600 |     300 |folded|    |         |
+ 4|   tom porter               |   87025 |    2300 |folded|    |         |
+ 5|D  Morgan                   |   15300 |     300 |folded|    |         |
+ 6|   Fuhzee                   |   58250 |    1300 |folded|    |         |
+ 8|>  SmBoatDrinks             |  298850 |    6300 |      |    |         |
+ 9|   shinsook                 |  120075 |     300 |folded|    |         |
+10|   asypta                   |   91075 |     300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/11/17 18:05:25! Dealing a new hand
+! 01/11/17 18:05:25! Everyone antes $300
+! 01/11/17 18:05:25! Fuhzee blinds $1000
+! 01/11/17 18:05:25! SmBoatDrinks blinds $2000
+! 01/11/17 18:18:49! shinsook folds
+! 01/11/17 18:18:49! asypta folds
+! 01/12/17 04:26:29! jasong folds
+! 01/12/17 04:26:29! slugbot folds
+! 01/12/17 04:26:29! Spike folds
+! 01/12/17 05:12:41! tom porter calls 
+! 01/12/17 07:58:33! Morgan folds
+! 01/12/17 07:58:33! Fuhzee folds
+! 01/12/17 09:18:46! SmBoatDrinks checks
+
+! 01/12/17 09:18:46! Pot right ($7700), flopping/dealing/drawing cards
+! 01/12/17 09:18:46! 2 players
+! 01/12/17 09:18:46! Flopped cards: 3c Qc 2s
+! 01/12/17 11:33:32! SmBoatDrinks checks
+! 01/12/17 12:57:25! tom porter checks
+
+! 01/12/17 12:57:25! Pot right ($7700), flopping/dealing/drawing cards
+! 01/12/17 12:57:25! 2 players
+! 01/12/17 12:57:25! Flopped card: 6s
+! 01/12/17 14:28:27! SmBoatDrinks bets $4000 
+! 01/12/17 14:58:28! tom porter folds
+! Hand over, no showdown
+! Current board is:  3c Qc 2s 6s ?
+! SmBoatDrinks wins $11700 (net $5400)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   jasong            |   43650 |         |      |    |         |
+ 2|   slugbot                  |   39900 |         |      |    |         |
+ 3|   Spike                    |  176600 |         |      |    |         |
+ 4|   tom porter               |   87025 |         |      |    |         |
+ 5|   Morgan                   |   15300 |         |      |    |         |
+ 6|D  Fuhzee                   |   58250 |         |      |    |         |
+ 8|>  SmBoatDrinks             |  310550 |         |      |    |         |
+ 9|   shinsook                 |  120075 |         |      |    |         |
+10|   asypta                   |   91075 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 268 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c30.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+We have reached 30 days in round "c" so there
+will be no more live redraws this round.  When
+any table gets to 5 or fewer players all tables
+will finish the current hand then a full redraw
+will be done.
+
+======
+
+Live Redraw Status as of 01/12/17 02:55:02 PM
+
+Total Empty Seats: 32
+Total Playing Seats: 268
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman26@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

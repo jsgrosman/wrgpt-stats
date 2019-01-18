@@ -1,0 +1,126 @@
+Subject: [b6.10046] Holdem Game Broadcast Message(*)
+
+! Table b6, Hand 2, Day 5
+
+! Dwayne Martins checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|V  Romeo Alexander          |   50000 |       0 | NoSho|    |         |
+ 2|D  HotSoup                  |   49650 |       0 |folded|    |         |
+ 3|>  888                      |   53900 |     150 |      |    |         |
+ 4|   Mark Ballinger           |   49850 |     150 |      |    |         |
+ 5|   Felix Leiter             |   50000 |       0 |folded|    |         |
+ 6|   AveCat                   |   50000 |       0 |folded|    |         |
+ 7|   Moccasin Johnny Return   |   46300 |       0 |folded|    |         |
+ 8|   jpchiefs                 |   49850 |     150 |      |    |         |
+ 9|   Dwayne Martins           |   49850 |     150 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/14/18 10:09:17! Dealing a new hand
+! 11/14/18 10:09:17! No ante
+! 11/14/18 10:09:17! 888 blinds $75
+! 11/14/18 10:09:17! Mark Ballinger blinds $150
+! 11/14/18 11:28:06! Felix Leiter folds
+! 11/14/18 11:32:24! AveCat folds
+! 11/14/18 11:32:24! Moccasin Johnny Return folds
+! 11/14/18 12:11:04! jpchiefs calls 
+! 11/14/18 13:17:39! Dwayne Martins calls 
+! 11/14/18 13:17:39! Romeo Alexander is on vacation and folds
+! 11/14/18 14:36:02! HotSoup folds
+! 11/14/18 16:50:49! 888 calls 
+! 11/14/18 18:09:47! Mark Ballinger checks
+
+! 11/14/18 18:09:47! Pot right ($600), flopping/dealing/drawing cards
+! 11/14/18 18:09:47! 4 players
+! 11/14/18 18:09:47! Flopped cards: 2h 8d 4c
+! 11/14/18 18:13:38! 888 checks
+! 11/14/18 18:28:25! Mark Ballinger checks
+! 11/14/18 18:34:01! jpchiefs checks
+! 11/14/18 19:29:24! Dwayne Martins checks
+
+! 11/14/18 19:29:24! Pot right ($600), flopping/dealing/drawing cards
+! 11/14/18 19:29:24! 4 players
+! 11/14/18 19:29:24! Flopped card: Qs
+! 11/14/18 21:22:59! 888 checks
+! 11/15/18 05:39:54! Mark Ballinger checks
+! 11/15/18 06:08:03! jpchiefs checks
+! 11/15/18 08:33:23! Dwayne Martins checks
+
+! 11/15/18 08:33:23! Pot right ($600), flopping/dealing/drawing cards
+! 11/15/18 08:33:23! 4 players
+! 11/15/18 08:33:23! Flopped card: Kh
+! 11/15/18 12:35:03! 888 checks
+! 11/15/18 16:40:31! Mark Ballinger checks
+! 11/15/18 17:17:08! jpchiefs checks
+! 11/16/18 09:02:02! Dwayne Martins checks
+! Hand over, current board is:  2h 8d 4c Qs Kh
+! 888                      has: Js Kc
+! Mark Ballinger           has: 4h 9c
+! jpchiefs                 has: As 5h
+! Dwayne Martins           has: Jh 5c
+! 888 wins $600 (net $450) with One Pair (K K Q J 8)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|V  Romeo Alexander          |   50000 |         | NoSho|    |         |
+ 2|   HotSoup                  |   49650 |         |      |    |         |
+ 3|D> 888                      |   54500 |         |      |    |         |
+ 4|   Mark Ballinger           |   49850 |         |      |    |         |
+ 5|   Felix Leiter             |   50000 |         |      |    |         |
+ 6|   AveCat                   |   50000 |         |      |    |         |
+ 7|   Moccasin Johnny Return   |   46300 |         |      |    |         |
+ 8|   jpchiefs                 |   49850 |         |      |    |         |
+ 9|   Dwayne Martins           |   49850 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Dwayne Martins timed out during this hand
+! 578 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b6.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

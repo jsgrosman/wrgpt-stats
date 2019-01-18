@@ -1,0 +1,114 @@
+Subject: [c40.10119] Holdem Game Broadcast Message(*)
+
+! Table c40, Hand 160, Day 61
+
+! Bob Brewster calls 
+! Pot right ($117350), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 7d
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   SJL                      |   50175 |     100 |folded|    |         |
+ 2|   GKinz54                  |  133675 |     100 |folded|    |         |
+ 3|   Mrstcao                  |  200825 |     100 |folded|    |         |
+ 4|V  null                     |   33250 |     100 |<AWOL>|    |         |
+ 5|D  Thomas Sims              |   47000 |    3600 |folded|    |         |
+ 6|   acadonnelly              |   40625 |     350 |folded|    |         |
+ 7|>  Bob Brewster             |   70950 |   56500 |      |    |         |
+ 8|   Frank Irwin              |       0 |   56500 |all-in|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/10/19 13:28:21! Dealing a new hand
+! 01/10/19 13:28:21! Everyone antes $100
+! 01/10/19 13:28:21! acadonnelly blinds $250
+! 01/10/19 13:28:21! Bob Brewster blinds $500
+! 01/10/19 13:32:08! Frank Irwin raises $1000 to $1500 total 
+! 01/10/19 13:33:30! SJL folds
+! 01/10/19 13:34:08! GKinz54 folds
+! 01/10/19 13:38:10! Mrstcao folds
+! 01/10/19 13:38:10! null is on vacation and folds
+! 01/10/19 15:27:13! Thomas Sims calls 
+! 01/10/19 15:31:55! acadonnelly folds
+! 01/10/19 21:58:14! Bob Brewster raises $2000 to $3500 total 
+! 01/11/19 03:36:53! Frank Irwin calls 
+! 01/11/19 07:29:09! Thomas Sims calls 
+
+! 01/11/19 07:29:09! Pot right ($11550), flopping/dealing/drawing cards
+! 01/11/19 07:29:09! 3 players
+! 01/11/19 07:29:09! Flopped cards: 6h Jd Qd
+! 01/11/19 07:37:13! Bob Brewster bets $5000 
+! 01/11/19 07:38:54! Frank Irwin raises $10000 to $15000 total 
+! 01/11/19 08:33:24! Thomas Sims folds
+! 01/11/19 08:35:24! Bob Brewster calls 
+
+! 01/11/19 08:35:24! Pot right ($41550), flopping/dealing/drawing cards
+! 01/11/19 08:35:24! 2 players
+! 01/11/19 08:35:24! Flopped card: 4h
+! 01/11/19 08:39:52! Bob Brewster checks
+! 01/11/19 08:40:50! Frank Irwin bets $37900 and is all in
+! 01/11/19 09:05:53! Bob Brewster calls 
+
+! 01/11/19 09:05:53! Pot right ($117350), flopping/dealing/drawing cards
+! 01/11/19 09:05:53! 2 players, 1 all in
+! 01/11/19 09:05:53! Flopped card: 7d
+! Hand over, current board is:  6h Jd Qd 4h 7d
+! Bob Brewster             has: Ah Ac
+! Frank Irwin              has: Qs Kh
+! Bob Brewster wins $117350 (net $60850) with One Pair (A A Q J 7)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   SJL                      |   50175 |         |      |    |         |
+ 2|   GKinz54                  |  133675 |         |      |    |         |
+ 3|   Mrstcao                  |  200825 |         |      |    |         |
+ 4|V  null                     |   33250 |         |<AWOL>|    |         |
+ 5|   Thomas Sims              |   47000 |         |      |    |         |
+ 6|D  acadonnelly              |   40625 |         |      |    |         |
+ 7|>  Bob Brewster             |  188300 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Frank Irwin is eliminated!
+! 382 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c40.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+The "c" round has started.  Good luck to all
+the remaining players.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

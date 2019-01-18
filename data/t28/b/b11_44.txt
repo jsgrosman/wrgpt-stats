@@ -1,0 +1,110 @@
+Subject: [b11.10512] Holdem Game Broadcast Message(*)
+
+! Table b11, Hand 44, Day 33
+
+! put_it_good calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  bad                      |   40825 |    3925 |      |    |         |
+ 2|   MNoelH                   |   36600 |      25 |folded|    |         |
+ 3|   RichNYC                  |   44950 |      25 |folded|    |         |
+ 4|   ddppmm                   |   84950 |      25 |folded|    |         |
+ 5|   DotMatrix                |   52425 |      25 |folded|    |         |
+ 6|   put_it_good              |   43775 |    3925 |      |    |         |
+ 7|   Bobby the Worm           |   55900 |      25 |folded|    |         |
+ 8|D  ADB Jupe                 |   49000 |      25 |folded|    |         |
+ 9|   Chris Goedde             |   90800 |     175 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/13/18 16:15:18! Dealing a new hand
+! 12/13/18 16:15:18! Everyone antes $25
+! 12/13/18 16:15:18! Chris Goedde blinds $150
+! 12/13/18 16:15:18! bad blinds $300
+! 12/13/18 21:53:25! MNoelH folds
+! 12/14/18 06:41:36! RichNYC folds
+! 12/14/18 06:41:36! ddppmm folds
+! 12/14/18 06:41:36! DotMatrix folds
+! 12/14/18 07:06:10! put_it_good raises $400 to $700 total 
+! 12/14/18 07:06:10! Bobby the Worm folds
+! 12/14/18 07:06:43! ADB Jupe folds
+! 12/14/18 07:06:43! Chris Goedde folds
+! 12/14/18 07:24:53! bad calls 
+
+! 12/14/18 07:24:53! Pot right ($1775), flopping/dealing/drawing cards
+! 12/14/18 07:24:53! 2 players
+! 12/14/18 07:24:53! Flopped cards: 8s 4s 2d
+! 12/14/18 07:26:06! bad bets $400 
+! 12/14/18 07:26:54! put_it_good raises $400 to $800 total 
+! 12/14/18 07:31:41! bad calls 
+
+! 12/14/18 07:31:41! Pot right ($3375), flopping/dealing/drawing cards
+! 12/14/18 07:31:41! 2 players
+! 12/14/18 07:31:41! Flopped card: Qd
+! 12/14/18 07:32:10! bad bets $400 
+! 12/14/18 08:31:28! put_it_good raises $1000 to $1400 total 
+! 12/14/18 08:58:43! bad calls 
+
+! 12/14/18 08:58:43! Pot right ($6175), flopping/dealing/drawing cards
+! 12/14/18 08:58:43! 2 players
+! 12/14/18 08:58:43! Flopped card: 5s
+! 12/14/18 08:59:10! bad bets $1000 
+! 12/14/18 11:36:46! put_it_good calls 
+! Hand over, current board is:  8s 4s 2d Qd 5s
+! bad                      has: Ks Js
+! put_it_good              has: 6s 5d
+! bad wins $8175 (net $4250) with Spade Flush (K J 8 5 4)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  bad                      |   49000 |         |      |    |         |
+ 2|   MNoelH                   |   36600 |         |      |    |         |
+ 3|   RichNYC                  |   44950 |         |      |    |         |
+ 4|   ddppmm                   |   84950 |         |      |    |         |
+ 5|   DotMatrix                |   52425 |         |      |    |         |
+ 6|   put_it_good              |   43775 |         |      |    |         |
+ 7|   Bobby the Worm           |   55900 |         |      |    |         |
+ 8|   ADB Jupe                 |   49000 |         |      |    |         |
+ 9|D  Chris Goedde             |   90800 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 475 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b11.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 10
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

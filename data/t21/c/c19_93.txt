@@ -1,0 +1,95 @@
+Message-Id: <201202091530.q19FUMkX017729@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [c19.10218] Holdem Game Broadcast Message(*)                          
+
+! Table c19, Hand 93, Day 88
+
+! lameO folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|D  Anshu                    |  62650 |    200 |folded|    |        |
+ 2|   bozo                     |  26200 |    800 |folded|    |        |
+ 3|   Linzk425                 |  24050 |   1400 |folded|    |        |
+ 4|   Dalai Pookah             |  27800 |    200 |folded|    |        |
+ 5|   swamper wlu_lax6         | 220700 |   6400 |folded|    |        |
+ 6|   PrestoET                 |  56450 |    200 |folded|    |        |
+ 7|   Tooner                   |  72475 |    200 |folded|    |        |
+ 8|>  lameO                    |  44250 |   6400 |folded|    |        |
+ 9|   jasong            |   1250 |    200 |folded|    |        |
+10|   TacoChuck                |      0 |  89925 |all-in|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 02/08/12 06:55:03! Dealing a new hand
+! 02/08/12 06:55:03! Everyone antes $200
+! 02/08/12 06:55:03! bozo blinds $600
+! 02/08/12 06:55:03! Linzk425 blinds $1200
+! 02/08/12 07:28:50! Dalai Pookah folds
+! 02/08/12 07:58:12! swamper wlu_lax6 calls 
+! 02/08/12 07:58:12! PrestoET folds
+! 02/08/12 07:58:12! Tooner folds
+! 02/08/12 09:55:16! lameO raises $2500 
+! 02/08/12 09:55:16! jasong folds
+! 02/08/12 10:17:05! TacoChuck raises $2500 
+! 02/08/12 14:57:54! Anshu folds
+! 02/08/12 15:54:12! bozo folds
+! 02/08/12 22:06:07! Linzk425 folds
+! 02/09/12 03:27:18! swamper wlu_lax6 calls 
+! 02/09/12 05:50:47! lameO calls 
+
+! 02/09/12 05:50:47! Pot right ($22400), flopping/dealing/drawing cards
+! 02/09/12 05:50:47! 3 players
+! 02/09/12 05:50:47! Flopped cards: Kd Jh 2s
+! 02/09/12 05:57:49! swamper wlu_lax6 checks
+! 02/09/12 06:21:12! lameO checks
+! 02/09/12 06:59:14! TacoChuck bets $83525 and is all in
+! 02/09/12 07:27:13! swamper wlu_lax6 folds
+! 02/09/12 07:30:21! lameO folds
+! Hand over, no showdown
+! Current board is:  Kd Jh 2s ? ?
+! TacoChuck wins $105925 (net $16000)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Anshu                    |  62650 |        |      |    |        |
+ 2|D  bozo                     |  26200 |        |      |    |        |
+ 3|   Linzk425                 |  24050 |        |      |    |        |
+ 4|   Dalai Pookah             |  27800 |        |      |    |        |
+ 5|   swamper wlu_lax6         | 220700 |        |      |    |        |
+ 6|   PrestoET                 |  56450 |        |      |    |        |
+ 7|   Tooner                   |  72475 |        |      |    |        |
+ 8|>  lameO                    |  44250 |        |      |    |        |
+ 9|   jasong            |   1250 |        |      |    |        |
+10|   TacoChuck                | 105925 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 420 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c19.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Having problems? Send email to floorman21@wrgpt.org.
+
+Live Redraw Status as of 02/09/12 07:25:01 AM
+
+Total Empty Seats: 20
+Total Playing Seats: 420
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+

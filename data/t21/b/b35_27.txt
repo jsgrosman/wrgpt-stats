@@ -1,0 +1,109 @@
+Message-Id: <201112191731.pBJHVGPS001228@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [b35.10312] Holdem Game Broadcast Message(*)                          
+
+! Table b35, Hand 27, Day 36
+
+! Caryl Aronson folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   NS                       |  22950 |      0 |folded|    |        |
+ 2|   Craig N. Boyle           |  29350 |      0 |folded|    |        |
+ 3|D  berj kacherian           |  29450 |      0 |folded|    |        |
+ 4|   jasong            |  16900 |    200 |folded|    |        |
+ 5|>  Kina Grannis             |  23325 |  11075 |      |    |        |
+ 6|   Willy Eckerslyke         |  30150 |      0 |folded|    |        |
+ 7|   Chris Learmonth          |  25800 |   1000 |folded|    |        |
+ 8|   Robert Odell             |  29525 |  11075 |      |    |        |
+ 9|   StingRay                 |  41800 |      0 |folded|    |        |
+10|   Caryl Aronson            |  30450 |   4400 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 12/18/11 13:42:43! Dealing a new hand
+! 12/18/11 13:42:43! No ante
+! 12/18/11 13:42:43! jasong blinds $200
+! 12/18/11 13:42:43! Kina Grannis blinds $400
+! 12/18/11 14:12:54! Willy Eckerslyke folds
+! 12/18/11 14:49:11! Chris Learmonth raises $600 
+! 12/18/11 15:04:14! Robert Odell calls 
+! 12/18/11 18:05:34! StingRay folds
+! 12/19/11 07:09:31! Caryl Aronson calls 
+! 12/19/11 07:09:31! NS folds
+! 12/19/11 07:09:31! Craig N. Boyle folds
+! 12/19/11 07:09:31! berj kacherian folds
+! 12/19/11 07:54:51! jasong folds
+! 12/19/11 08:26:25! Kina Grannis calls 
+
+! 12/19/11 08:26:25! Pot right ($4200), flopping/dealing/drawing cards
+! 12/19/11 08:26:25! 4 players
+! 12/19/11 08:26:25! Flopped cards: 6c 5h Jc
+! 12/19/11 08:27:16! Kina Grannis bets $1000 
+! 12/19/11 08:48:50! Chris Learmonth folds
+! 12/19/11 08:54:00! Robert Odell calls 
+! 12/19/11 08:55:15! Caryl Aronson calls 
+
+! 12/19/11 08:55:15! Pot right ($7200), flopping/dealing/drawing cards
+! 12/19/11 08:55:15! 3 players
+! 12/19/11 08:55:15! Flopped card: 3c
+! 12/19/11 08:57:05! Kina Grannis bets $2400 
+! 12/19/11 08:59:00! Robert Odell calls 
+! 12/19/11 09:01:59! Caryl Aronson calls 
+
+! 12/19/11 09:01:59! Pot right ($14400), flopping/dealing/drawing cards
+! 12/19/11 09:01:59! 3 players
+! 12/19/11 09:01:59! Flopped card: 3d
+! 12/19/11 09:21:50! Kina Grannis bets $6675 
+! 12/19/11 09:22:43! Robert Odell calls 
+! 12/19/11 09:31:15! Caryl Aronson folds
+! Hand over, current board is:  6c 5h Jc 3c 3d
+! Kina Grannis             has: 7d 8c
+! Robert Odell             has: Kh Jh
+! Robert Odell wins $27750 (net $16675) with Two Pair (J J 3 3 K)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   NS                       |  22950 |        |      |    |        |
+ 2|   Craig N. Boyle           |  29350 |        |      |    |        |
+ 3|   berj kacherian           |  29450 |        |      |    |        |
+ 4|D  jasong            |  16900 |        |      |    |        |
+ 5|>  Kina Grannis             |  23325 |        |      |    |        |
+ 6|   Willy Eckerslyke         |  30150 |        |      |    |        |
+ 7|   Chris Learmonth          |  25800 |        |      |    |        |
+ 8|   Robert Odell             |  57275 |        |      |    |        |
+ 9|   StingRay                 |  41800 |        |      |    |        |
+10|   Caryl Aronson            |  30450 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 705 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b35.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Good luck.
+
+Having problems? Send email to floorman21@wrgpt.org.
+
+Live Redraw Status as of 12/19/11 09:25:01 AM
+
+Total Empty Seats: 26
+Total Playing Seats: 704
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+

@@ -1,0 +1,107 @@
+Subject: [c11.10197] Holdem Game Broadcast Message(*)
+
+! Table c11, Hand 166, Day 66
+
+! jockamo folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  Keith Troell             |  119375 |     100 |folded|    |         |
+ 2|   Jim Sokoloff             |   95000 |     350 |folded|    |         |
+ 3|   UConn2004                |   63575 |    2300 |folded|    |         |
+ 4|   Julie Greenberg          |  148175 |     100 |folded|    |         |
+ 5|   Ira Agins                |   30225 |     100 |folded|    |         |
+ 6|   Ben Irving               |   53175 |     100 |folded|    |         |
+ 7|   Mike Sager               |  118600 |     100 |folded|    |         |
+ 8|   jockamo                  |   96300 |    8300 |folded|    |         |
+ 9|>  Chaos                    |   27400 |   20300 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/16/19 06:12:06! Dealing a new hand
+! 01/16/19 06:12:06! Everyone antes $100
+! 01/16/19 06:12:06! Jim Sokoloff blinds $250
+! 01/16/19 06:12:06! UConn2004 blinds $500
+! 01/16/19 06:59:39! Julie Greenberg folds
+! 01/16/19 07:02:44! Ira Agins folds
+! 01/16/19 07:23:29! Ben Irving folds
+! 01/16/19 07:23:29! Mike Sager folds
+! 01/16/19 07:50:40! jockamo calls 
+! 01/16/19 10:30:29! Chaos raises $1700 to $2200 total 
+! 01/16/19 10:30:29! Keith Troell folds
+! 01/16/19 10:30:29! Jim Sokoloff folds
+! 01/16/19 10:52:15! UConn2004 calls 
+! 01/16/19 11:04:40! jockamo calls 
+
+! 01/16/19 11:04:40! Pot right ($7750), flopping/dealing/drawing cards
+! 01/16/19 11:04:40! 3 players
+! 01/16/19 11:04:40! Flopped cards: 5d 6c 5c
+! 01/16/19 15:05:02! UConn2004 checks
+! 01/16/19 15:09:22! jockamo checks
+! 01/16/19 15:30:06! Chaos bets $6000 
+! 01/16/19 15:30:06! UConn2004 folds
+! 01/16/19 15:40:15! jockamo calls 
+
+! 01/16/19 15:40:15! Pot right ($19750), flopping/dealing/drawing cards
+! 01/16/19 15:40:15! 2 players
+! 01/16/19 15:40:15! Flopped card: 3d
+! 01/16/19 15:41:09! jockamo checks
+! 01/16/19 17:15:54! Chaos bets $12000 
+! 01/16/19 19:03:46! jockamo folds
+! Hand over, no showdown
+! Current board is:  5d 6c 5c 3d ?
+! Chaos wins $31750 (net $11450)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Keith Troell             |  119375 |         |      |    |         |
+ 2|D  Jim Sokoloff             |   95000 |         |      |    |         |
+ 3|   UConn2004                |   63575 |         |      |    |         |
+ 4|   Julie Greenberg          |  148175 |         |      |    |         |
+ 5|   Ira Agins                |   30225 |         |      |    |         |
+ 6|   Ben Irving               |   53175 |         |      |    |         |
+ 7|   Mike Sager               |  118600 |         |      |    |         |
+ 8|   jockamo                  |   96300 |         |      |    |         |
+ 9|>  Chaos                    |   59150 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! UConn2004 timed out during this hand
+! 364 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c11.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

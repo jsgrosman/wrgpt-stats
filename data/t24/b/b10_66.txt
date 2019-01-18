@@ -1,0 +1,129 @@
+
+! Table b10, Hand 66, Day 54
+
+! Ralph MPN calls - side pot
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Ralph MPN                |      0 |  24050 |all-in|  2 |  55900 |
+ 2|   Nate Meyvis              |  62000 |    850 |folded|    |        |
+ 3|D  Kicksave                 |  87600 |     50 |folded|    |        |
+ 4|   The Sound of Inevitabi   |  43675 |    850 |folded|    |        |
+ 5|   Swamper Brian            |  18025 |   5850 |folded|    |        |
+ 6|   WayneFenster             |  43275 |     50 |folded|    |        |
+ 7|   Kasey                    |  23625 |     50 |folded|    |        |
+ 8|   jasong            |  17900 |     50 |folded|    |        |
+ 9|>  Diputsur                 |  28425 |  24850 |      |  1 |    800 |
+10|   Amar Patel               |  22225 |     50 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 01/02/15 09:57:18! Dealing a new hand
+! 01/02/15 09:57:18! Everyone antes $50
+! 01/02/15 09:57:18! The Sound of Inevitabi blinds $200
+! 01/02/15 09:57:18! Swamper Brian blinds $400
+! 01/02/15 12:40:22! WayneFenster folds
+! 01/02/15 12:40:22! Kasey folds
+! 01/02/15 13:50:58! jasong folds
+! 01/02/15 14:33:50! Diputsur raises $400 
+! 01/02/15 14:33:50! Amar Patel folds
+! 01/02/15 14:52:20! Ralph MPN calls 
+! 01/02/15 14:52:55! Nate Meyvis calls 
+! 01/02/15 14:52:55! Kicksave folds
+! 01/02/15 14:54:43! The Sound of Inevitabi calls 
+! 01/02/15 14:55:17! Swamper Brian calls 
+
+! 01/02/15 14:55:17! Pot right ($4500), flopping/dealing/drawing cards
+! 01/02/15 14:55:17! 5 players
+! 01/02/15 14:55:17! Flopped cards: 7s 8h Jc
+! 01/02/15 15:04:47! The Sound of Inevitabi checks
+! 01/02/15 15:30:39! Swamper Brian bets $5000 
+! 01/02/15 15:33:17! Diputsur calls 
+! 01/02/15 15:41:52! Ralph MPN calls 
+! 01/02/15 17:36:44! Nate Meyvis folds
+! 01/02/15 17:36:44! The Sound of Inevitabi folds
+
+! 01/02/15 17:36:44! Pot right ($19500), flopping/dealing/drawing cards
+! 01/02/15 17:36:44! 3 players
+! 01/02/15 17:36:44! Flopped card: Kh
+! 01/02/15 17:58:30! Swamper Brian checks
+! 01/02/15 18:20:51! Diputsur bets $10000 
+! 01/02/15 20:30:05! Ralph MPN calls 
+! 01/02/15 21:27:21! Swamper Brian folds
+
+! 01/02/15 21:27:21! Pot right ($39500), flopping/dealing/drawing cards
+! 01/02/15 21:27:21! 2 players
+! 01/02/15 21:27:21! Flopped card: 6s
+! 01/02/15 21:47:03! Diputsur bets $9000 
+! 01/02/15 23:08:58! Ralph MPN calls - side pot
+! Hand over, current board is:  7s 8h Jc Kh 6s
+! Ralph MPN                has: Js Ad
+! Diputsur                 has: 8s 7c
+! Pot 1: uncalled $800 returned to Diputsur
+! Pot 2: Diputsur wins $55900 with Two Pair (8 8 7 7 K)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 2|   Nate Meyvis              |  62000 |        |      |    |        |
+ 3|   Kicksave                 |  87600 |        |      |    |        |
+ 4|D  The Sound of Inevitabi   |  43675 |        |      |    |        |
+ 5|   Swamper Brian            |  18025 |        |      |    |        |
+ 6|   WayneFenster             |  43275 |        |      |    |        |
+ 7|   Kasey                    |  23625 |        |      |    |        |
+ 8|   jasong            |  17900 |        |      |    |        |
+ 9|>  Diputsur                 |  85125 |        |      |    |        |
+10|   Amar Patel               |  22225 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! Ralph MPN is eliminated!
+! 509 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b10.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+There will be no more live redraws in round "b".  The tables
+will play until there are five or fewer on one table then all 
+other tables will complete their current hand and a full 
+redraw will be done.
+
+Good luck.
+
+======
+
+Live Redraw Status as of 01/02/15 10:55:01 PM
+
+Total Empty Seats: 40
+Total Playing Seats: 510
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+Here is a link to the railbird mailing list:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman24@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

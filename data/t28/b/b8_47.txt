@@ -1,0 +1,121 @@
+Subject: [b8.10590] Holdem Game Broadcast Message(*)
+
+! Table b8, Hand 47, Day 30
+
+! fxdp calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  Josh Goldshlag           |   38375 |    7625 |      |    |         |
+ 2|D  fxdp                     |   62300 |    7625 |      |    |         |
+ 3|   Indi                     |   60150 |     175 |folded|    |         |
+ 4|   Charles Moore            |   22625 |     325 |folded|    |         |
+ 5|   Julie Greenberg          |   47100 |      25 |folded|    |         |
+ 6|   Oldsharkbait             |   75375 |     625 |folded|    |         |
+ 7|   AlbinoSmurf              |   69100 |      25 |folded|    |         |
+ 8|   dubldown                 |   38750 |      25 |folded|    |         |
+ 9|   Cody Jones               |   70425 |      25 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/10/18 21:17:56! Dealing a new hand
+! 12/10/18 21:17:56! Everyone antes $25
+! 12/10/18 21:17:56! Indi blinds $150
+! 12/10/18 21:17:56! Charles Moore blinds $300
+! 12/11/18 02:38:54! Julie Greenberg folds
+! 12/11/18 05:39:58! Oldsharkbait raises $300 to $600 total 
+! 12/11/18 05:39:58! AlbinoSmurf folds
+! 12/11/18 05:42:48! dubldown folds
+! 12/11/18 06:08:26! Cody Jones folds
+! 12/11/18 06:10:00! Josh Goldshlag calls 
+! 12/11/18 07:14:11! fxdp calls 
+! 12/11/18 07:14:11! Indi folds
+! 12/11/18 08:00:01! Charles Moore folds
+
+! 12/11/18 08:00:01! Pot right ($2475), flopping/dealing/drawing cards
+! 12/11/18 08:00:01! 3 players
+! 12/11/18 08:00:01! Flopped cards: Kc Qc Jc
+! 12/11/18 12:33:23! Oldsharkbait checks
+! 12/11/18 12:35:42! Josh Goldshlag checks
+! 12/11/18 12:57:21! fxdp checks
+
+! 12/11/18 12:57:21! Pot right ($2475), flopping/dealing/drawing cards
+! 12/11/18 12:57:21! 3 players
+! 12/11/18 12:57:21! Flopped card: 10d
+! 12/11/18 12:57:21! Oldsharkbait checks
+! 12/11/18 13:27:15! Josh Goldshlag bets $2000 
+! 12/11/18 13:33:12! fxdp calls 
+! 12/11/18 13:33:12! Oldsharkbait folds
+
+! 12/11/18 13:33:12! Pot right ($6475), flopping/dealing/drawing cards
+! 12/11/18 13:33:12! 2 players
+! 12/11/18 13:33:12! Flopped card: 7d
+! 12/11/18 13:44:15! Josh Goldshlag bets $5000 
+! 12/11/18 13:51:22! fxdp calls 
+! Hand over, current board is:  Kc Qc Jc 10d 7d
+! Josh Goldshlag           has: 8h Ad
+! fxdp                     has: Jh Ac
+! Josh Goldshlag wins $8250 (net $625) with Straight (A K Q J 10)
+! fxdp wins $8225 (net $600) with Straight (A K Q J 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  Josh Goldshlag           |   46625 |         |      |    |         |
+ 2|   fxdp                     |   70525 |         |      |    |         |
+ 3|D  Indi                     |   60150 |         |      |    |         |
+ 4|   Charles Moore            |   22625 |         |      |    |         |
+ 5|   Julie Greenberg          |   47100 |         |      |    |         |
+ 6|   Oldsharkbait             |   75375 |         |      |    |         |
+ 7|   AlbinoSmurf              |   69100 |         |      |    |         |
+ 8|   dubldown                 |   38750 |         |      |    |         |
+ 9|   Cody Jones               |   70425 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 496 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b8.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

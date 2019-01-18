@@ -1,0 +1,124 @@
+Subject: [b55.10202] Holdem Game Broadcast Message(*)
+
+! Table b55, Hand 19, Day 22
+
+! ChipRider calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  BillDaBear               |   74650 |     300 |folded|    |         |
+ 2|>  C666                     |   41925 |   10150 |      |    |         |
+ 3|   Patti                    |   53975 |     300 |folded|    |         |
+ 4|   ChipRider                |   35225 |   10150 |      |    |         |
+ 5|V  Scipio                   |   49325 |       0 |<Gone>|    |         |
+ 6|   tekbot                   |   48575 |     300 |folded|    |         |
+ 7|   Dr. Evil                 |   58450 |       0 |folded|    |         |
+ 8|   LenFuego                 |   47625 |     300 |folded|    |         |
+ 9|   Tom Abraham              |   72725 |     300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/01/18 18:04:25! Dealing a new hand
+! 12/01/18 18:04:25! No ante
+! 12/01/18 18:04:25! C666 blinds $150
+! 12/01/18 18:04:25! Patti blinds $300
+! 12/01/18 20:10:59! ChipRider calls 
+! 12/01/18 20:10:59! Scipio is on vacation and folds
+! 12/01/18 23:41:17! tekbot calls 
+! 12/01/18 23:41:17! Dr. Evil folds
+! 12/02/18 09:59:00! LenFuego calls 
+! 12/02/18 10:49:10! Tom Abraham calls 
+! 12/02/18 11:13:43! BillDaBear calls 
+! 12/02/18 17:17:17! C666 calls 
+! 12/02/18 23:30:40! Patti checks
+
+! 12/02/18 23:30:40! Pot right ($2100), flopping/dealing/drawing cards
+! 12/02/18 23:30:40! 7 players
+! 12/02/18 23:30:40! Flopped cards: 3d 4h Kd
+! 12/03/18 01:36:13! C666 bets $850 
+! 12/03/18 01:36:13! Patti folds
+! 12/03/18 05:31:54! ChipRider calls 
+! 12/03/18 08:35:44! tekbot folds
+! 12/03/18 14:02:02! LenFuego folds
+! 12/03/18 14:02:02! Tom Abraham folds
+! 12/03/18 14:02:02! BillDaBear folds
+
+! 12/03/18 14:02:02! Pot right ($3800), flopping/dealing/drawing cards
+! 12/03/18 14:02:02! 2 players
+! 12/03/18 14:02:02! Flopped card: Ks
+! 12/03/18 18:04:46! C666 checks
+! 12/03/18 18:39:53! ChipRider bets $2000 
+! 12/03/18 19:20:29! C666 calls 
+
+! 12/03/18 19:20:29! Pot right ($7800), flopping/dealing/drawing cards
+! 12/03/18 19:20:29! 2 players
+! 12/03/18 19:20:29! Flopped card: 7d
+! 12/03/18 19:21:30! C666 bets $7000 
+! 12/03/18 19:28:56! ChipRider calls 
+! Hand over, current board is:  3d 4h Kd Ks 7d
+! C666                     has: 6d 5d
+! ChipRider                has: Kh 5h
+! C666 wins $21800 (net $11650) with Diamond Flush (K 7 6 5 3)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   BillDaBear               |   74650 |         |      |    |         |
+ 2|D> C666                     |   63725 |         |      |    |         |
+ 3|   Patti                    |   53975 |         |      |    |         |
+ 4|   ChipRider                |   35225 |         |      |    |         |
+ 5|V  Scipio                   |   49325 |         |<Gone>|    |         |
+ 6|   tekbot                   |   48575 |         |      |    |         |
+ 7|   Dr. Evil                 |   58450 |         |      |    |         |
+ 8|   LenFuego                 |   47625 |         |      |    |         |
+ 9|   Tom Abraham              |   72725 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! LenFuego timed out during this hand
+! 526 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b55.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 5
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

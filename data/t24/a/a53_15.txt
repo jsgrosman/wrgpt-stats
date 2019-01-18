@@ -1,0 +1,128 @@
+
+! Table a53, Hand 15, Day 12
+
+! dgr calls 
+! Pot right ($37100), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 8c
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   eliuk35                  |  23550 |    900 |folded|    |        |
+ 2|   Ross                     |  98850 |    100 |folded|    |        |
+ 3|   TennisGeek               |  44800 |    100 |folded|    |        |
+ 4|>  dgr                      | 122300 |  17150 |      |    |        |
+ 5|D  Jerry Connolly           |  21100 |    900 |folded|    |        |
+ 6|V  Chris Goedde             |  28100 |    500 |<Gone>|    |        |
+ 7|   bigjimmf1                |      0 |  17150 |all-in|    |        |
+ 8|V  RaysHell                 |  28850 |    100 | NoSho|    |        |
+ 9|V  jasong            |  32400 |    100 |<AWOL>|    |        |
+10|   OaktownDad               |  44450 |    100 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 11/06/14 14:33:09! Dealing a new hand
+! 11/06/14 14:33:09! Everyone antes $100
+! 11/06/14 14:33:09! Chris Goedde blinds $400
+! 11/06/14 14:33:09! bigjimmf1 blinds $800
+! 11/06/14 14:33:09! RaysHell is on vacation and folds
+! 11/06/14 14:33:09! jasong is on vacation and folds
+! 11/06/14 15:16:32! OaktownDad folds
+! 11/06/14 16:53:25! eliuk35 calls 
+! 11/06/14 16:53:25! Ross folds
+! 11/07/14 09:00:18! TennisGeek folds
+! 11/07/14 09:21:37! dgr calls 
+! 11/07/14 09:24:00! Jerry Connolly calls 
+! 11/07/14 09:24:00! Chris Goedde is on vacation and folds
+! 11/07/14 09:24:46! bigjimmf1 checks
+
+! 11/07/14 09:24:46! Pot right ($4600), flopping/dealing/drawing cards
+! 11/07/14 09:24:46! 4 players
+! 11/07/14 09:24:46! Flopped cards: Kh 10h 8d
+! 11/07/14 09:25:44! bigjimmf1 checks
+! 11/07/14 09:25:44! eliuk35 checks
+! 11/07/14 09:57:39! dgr bets $2300 
+! 11/07/14 10:01:22! Jerry Connolly folds
+! 11/07/14 10:20:26! bigjimmf1 calls 
+! 11/07/14 11:03:21! eliuk35 folds
+
+! 11/07/14 11:03:21! Pot right ($9200), flopping/dealing/drawing cards
+! 11/07/14 11:03:21! 2 players
+! 11/07/14 11:03:21! Flopped card: Kc
+! 11/07/14 11:12:07! bigjimmf1 checks
+! 11/07/14 11:26:18! dgr bets $10000 
+! 11/07/14 13:06:16! bigjimmf1 raises $3950 and is all in
+! 11/07/14 13:13:49! dgr calls 
+
+! 11/07/14 13:13:49! Pot right ($37100), flopping/dealing/drawing cards
+! 11/07/14 13:13:49! 2 players, 1 all in
+! 11/07/14 13:13:49! Flopped card: 8c
+! Hand over, current board is:  Kh 10h 8d Kc 8c
+! dgr                      has: 4h 3h
+! bigjimmf1                has: Js Qd
+! bigjimmf1 wins $37100 (net $19950) with Two Pair (K K 8 8 Q)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   eliuk35                  |  23550 |        |      |    |        |
+ 2|   Ross                     |  98850 |        |      |    |        |
+ 3|   TennisGeek               |  44800 |        |      |    |        |
+ 4|>  dgr                      | 122300 |        |      |    |        |
+ 5|   Jerry Connolly           |  21100 |        |      |    |        |
+ 6|DV Chris Goedde             |  28100 |        |<Gone>|    |        |
+ 7|   bigjimmf1                |  37100 |        |      |    |        |
+ 8|V  RaysHell                 |  28850 |        | NoSho|    |        |
+ 9|V  jasong            |  32400 |        |<AWOL>|    |        |
+10|   OaktownDad               |  44450 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 486 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/a/a53.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+This is the PRACTICE ROUND.  This DOES NOT COUNT.
+Try using the in advance action and the advanced actions mentioned
+in the manual while it is the practice round.
+
+The practice round may suddenly start and/or restart if problems
+are found that need a restart to test or correct.
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+Here is a link to the railbird mailing list:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman24@wrgpt.org.
+
+Live Redraw Status as of 11/07/14 12:55:01 PM
+
+Total Empty Seats: 24
+Total Playing Seats: 486
+Live redraw in progress:
+Seats Needed: 10
+Seats Waiting: 1
+Moving Players Waiting: 0
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

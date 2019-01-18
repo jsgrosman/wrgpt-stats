@@ -1,0 +1,106 @@
+Subject: [b2.10956] Holdem Game Broadcast Message(*)
+
+! Table b2, Hand 74, Day 53
+
+! poohbear bets $400 
+! Mr. Rhinelander folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|   Poker Dog                |  254625 |      50 |folded|    |         |
+ 3|   Mr. Rhinelander          |   56625 |    1950 |folded|    |         |
+ 4|D> poohbear                 |   44625 |    2350 |      |    |         |
+ 5|   smak                     |   38700 |     250 |folded|    |         |
+ 6|   Scooter                  |   44425 |     450 |folded|    |         |
+ 7|   rtroll                   |  102225 |      50 |folded|    |         |
+ 8|   jpawloski                |   84575 |      50 |folded|    |         |
+ 9|   Kevmath                  |   74825 |      50 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/02/19 20:20:05! Dealing a new hand
+! 01/02/19 20:20:05! Everyone antes $50
+! 01/02/19 20:20:05! smak blinds $200
+! 01/02/19 20:20:05! Scooter blinds $400
+! 01/02/19 21:07:39! rtroll folds
+! 01/02/19 21:07:39! jpawloski folds
+! 01/02/19 21:07:39! Kevmath folds
+! 01/02/19 21:07:39! Poker Dog folds
+! 01/03/19 05:12:39! Mr. Rhinelander raises $400 to $800 total 
+! 01/03/19 05:17:53! poohbear raises $1100 to $1900 total 
+! 01/03/19 11:36:25! smak folds
+! 01/03/19 11:51:24! Scooter folds
+! 01/03/19 11:52:35! Mr. Rhinelander calls 
+
+! 01/03/19 11:52:35! Pot right ($4800), flopping/dealing/drawing cards
+! 01/03/19 11:52:35! 2 players
+! 01/03/19 11:52:35! Flopped cards: 8d 4h 6c
+! 01/03/19 11:53:34! Mr. Rhinelander checks
+! 01/03/19 11:55:38! poohbear checks
+
+! 01/03/19 11:55:38! Pot right ($4800), flopping/dealing/drawing cards
+! 01/03/19 11:55:38! 2 players
+! 01/03/19 11:55:38! Flopped card: 6d
+! 01/03/19 11:55:38! Mr. Rhinelander checks
+! 01/03/19 11:59:30! poohbear bets $400 
+! 01/03/19 11:59:30! Mr. Rhinelander folds
+! Hand over, no showdown
+! Current board is:  8d 4h 6c 6d ?
+! poohbear wins $5200 (net $2850)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|   Poker Dog                |  254625 |         |      |    |         |
+ 3|   Mr. Rhinelander          |   56625 |         |      |    |         |
+ 4|>  poohbear                 |   49825 |         |      |    |         |
+ 5|D  smak                     |   38700 |         |      |    |         |
+ 6|   Scooter                  |   44425 |         |      |    |         |
+ 7|   rtroll                   |  102225 |         |      |    |         |
+ 8|   jpawloski                |   84575 |         |      |    |         |
+ 9|   Kevmath                  |   74825 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 403 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b2.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+We are now over 45 days into round "b". 
+As soon as any table gets to five or fewer 
+players all tables will finish the current 
+hand and a full redraw to round "c" will be done.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 29
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

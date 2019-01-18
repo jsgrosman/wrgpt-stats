@@ -1,0 +1,109 @@
+
+! Table b4, Hand 54, Day 43
+
+! Deborah Abel folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Deborah Abel             |  13300 |    400 |folded|    |        |
+ 2|   Nick Varacalli           |  24850 |      0 |folded|    |        |
+ 3|V  benmax                   |  28000 |      0 |<AWOL>|    |        |
+ 4|>  Sir Barlow               | 119375 |   2400 |      |    |        |
+ 5|   Dalai Pookah             |  66075 |      0 |folded|    |        |
+ 6|   jasong            |  55850 |      0 |folded|    |        |
+ 7|   Rambo                    |  22800 |    400 |folded|    |        |
+ 9|D  Ryan Thomas              |  40350 |      0 |folded|    |        |
+10|   silvexis                 |  40125 |    400 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 12/06/15 14:39:37! Dealing a new hand
+! 12/06/15 14:39:37! No ante
+! 12/06/15 14:39:37! silvexis blinds $200
+! 12/06/15 14:39:37! Deborah Abel blinds $400
+! 12/06/15 21:32:18! Nick Varacalli folds
+! 12/06/15 21:32:18! benmax is on vacation and folds
+! 12/07/15 00:20:33! Sir Barlow calls 
+! 12/07/15 00:20:33! Dalai Pookah folds
+! 12/07/15 04:37:55! jasong folds
+! 12/07/15 05:19:41! Rambo calls 
+! 12/07/15 06:57:32! Ryan Thomas folds
+! 12/07/15 06:57:32! silvexis calls 
+! 12/07/15 06:57:32! Deborah Abel checks
+
+! 12/07/15 06:57:32! Pot right ($1600), flopping/dealing/drawing cards
+! 12/07/15 06:57:32! 4 players
+! 12/07/15 06:57:32! Flopped cards: 10s 6h 5c
+! 12/07/15 07:34:09! silvexis checks
+! 12/07/15 07:36:35! Deborah Abel checks
+! 12/07/15 07:43:59! Sir Barlow bets $2000 
+! 12/07/15 08:50:47! Rambo folds
+! 12/07/15 08:50:47! silvexis folds
+! 12/07/15 08:52:03! Deborah Abel folds
+! Hand over, no showdown
+! Current board is:  10s 6h 5c ? ?
+! Sir Barlow wins $3600 (net $1200)
+! Antes and blinds go up
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Deborah Abel             |  13300 |        |      |    |        |
+ 2|   Nick Varacalli           |  24850 |        |      |    |        |
+ 3|V  benmax                   |  28000 |        |<AWOL>|    |        |
+ 4|>  Sir Barlow               | 122975 |        |      |    |        |
+ 5|   Dalai Pookah             |  66075 |        |      |    |        |
+ 6|   jasong            |  55850 |        |      |    |        |
+ 7|   Rambo                    |  22800 |        |      |    |        |
+ 9|   Ryan Thomas              |  40350 |        |      |    |        |
+10|D  silvexis                 |  40125 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 557 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b4.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+The "b" round will be allowed to end after day 45.
+No more live redraws will begin after day 45 which is December 9, 2015.
+
+======
+
+Live Redraw Status as of 12/07/15 08:25:01 AM
+
+Total Empty Seats: 13
+Total Playing Seats: 557
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman25@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

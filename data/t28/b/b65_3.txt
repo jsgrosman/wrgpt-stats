@@ -1,0 +1,114 @@
+Subject: [b65.10041] Holdem Game Broadcast Message(*)
+
+! Table b65, Hand 3, Day 2
+
+! Rugratbbc checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Inca                     |   50000 |       0 |folded|    |         |
+ 2|   Peter Gozinya            |   49400 |       0 |folded|    |         |
+ 3|D  ThinkingPokerAndrew      |   50525 |       0 |folded|    |         |
+ 4|>  Josh Goldshlag           |   48800 |    1050 |      |    |         |
+ 5|   Rugratbbc                |   48950 |    1050 |      |    |         |
+ 6|   JoeBou                   |   50000 |       0 |folded|    |         |
+ 7|   paulpud                  |   50000 |       0 |folded|    |         |
+ 8|   Blind Owl                |   50225 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/13/18 07:47:43! Dealing a new hand
+! 11/13/18 07:47:43! No ante
+! 11/13/18 07:47:43! Josh Goldshlag blinds $75
+! 11/13/18 07:47:43! Rugratbbc blinds $150
+! 11/13/18 07:51:31! JoeBou folds
+! 11/13/18 09:11:45! paulpud folds
+! 11/13/18 12:17:09! Blind Owl folds
+! 11/13/18 12:37:02! Inca folds
+! 11/13/18 12:37:02! Peter Gozinya folds
+! 11/13/18 12:43:14! ThinkingPokerAndrew folds
+! 11/13/18 12:44:07! Josh Goldshlag calls 
+! 11/13/18 16:45:02! Rugratbbc checks
+
+! 11/13/18 16:45:02! Pot right ($300), flopping/dealing/drawing cards
+! 11/13/18 16:45:02! 2 players
+! 11/13/18 16:45:02! Flopped cards: 3c Kd 2d
+! 11/13/18 17:09:46! Josh Goldshlag bets $300 
+! 11/13/18 17:21:56! Rugratbbc calls 
+
+! 11/13/18 17:21:56! Pot right ($900), flopping/dealing/drawing cards
+! 11/13/18 17:21:56! 2 players
+! 11/13/18 17:21:56! Flopped card: Qd
+! 11/13/18 17:50:38! Josh Goldshlag bets $600 
+! 11/13/18 17:51:35! Rugratbbc calls 
+
+! 11/13/18 17:51:35! Pot right ($2100), flopping/dealing/drawing cards
+! 11/13/18 17:51:35! 2 players
+! 11/13/18 17:51:35! Flopped card: 10s
+! 11/13/18 17:55:41! Josh Goldshlag checks
+! 11/13/18 17:56:24! Rugratbbc checks
+! Hand over, current board is:  3c Kd 2d Qd 10s
+! Josh Goldshlag           has: 3d 10c
+! Rugratbbc                has: Ad Qc
+! Josh Goldshlag wins $2100 (net $1050) with Two Pair (10 10 3 3 K)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Inca                     |   50000 |         |      |    |         |
+ 2|   Peter Gozinya            |   49400 |         |      |    |         |
+ 3|   ThinkingPokerAndrew      |   50525 |         |      |    |         |
+ 4|D> Josh Goldshlag           |   50900 |         |      |    |         |
+ 5|   Rugratbbc                |   48950 |         |      |    |         |
+ 6|   JoeBou                   |   50000 |         |      |    |         |
+ 7|   paulpud                  |   50000 |         |      |    |         |
+ 8|   Blind Owl                |   50225 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 589 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b65.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 3
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

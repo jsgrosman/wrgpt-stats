@@ -1,0 +1,128 @@
+Subject: [b45.10211] Holdem Game Broadcast Message(*)
+
+! Table b45, Hand 15, Day 18
+
+! Jay Koby calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  Jay Koby                 |    5575 |   50125 |      |    |         |
+ 2|   mark gray                |   52100 |    1050 |folded|    |         |
+ 3|   Legendnmyhd              |   45900 |       0 |folded|    |         |
+ 4|   UnicornHorseshoe         |       0 |   50125 |all-in|    |         |
+ 5|   The Llama                |   53850 |       0 |folded|    |         |
+ 6|D  Greg P.                  |   43425 |       0 |folded|    |         |
+ 7|   Chippy McChiperson       |   42425 |     150 |folded|    |         |
+ 8|   Chaos                    |   49750 |    1050 |folded|    |         |
+ 9|   Jake                     |   54475 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/28/18 14:51:18! Dealing a new hand
+! 11/28/18 14:51:18! No ante
+! 11/28/18 14:51:18! Chippy McChiperson blinds $150
+! 11/28/18 14:51:18! Chaos blinds $300
+! 11/28/18 15:03:30! Jake folds
+! 11/28/18 15:03:30! Jay Koby calls 
+! 11/28/18 22:46:24! mark gray calls 
+! 11/28/18 22:46:24! Legendnmyhd folds
+! 11/28/18 23:30:10! UnicornHorseshoe calls 
+! 11/28/18 23:30:10! The Llama folds
+! 11/28/18 23:30:10! Greg P. folds
+! 11/28/18 23:30:10! Chippy McChiperson folds
+! 11/29/18 05:32:22! Chaos checks
+
+! 11/29/18 05:32:22! Pot right ($1350), flopping/dealing/drawing cards
+! 11/29/18 05:32:22! 4 players
+! 11/29/18 05:32:22! Flopped cards: 8c 7c Jd
+! 11/29/18 05:37:29! Chaos checks
+! 11/29/18 08:28:18! Jay Koby checks
+! 11/29/18 08:59:29! mark gray checks
+! 11/29/18 10:13:03! UnicornHorseshoe bets $750 
+! 11/29/18 11:07:56! Chaos calls 
+! 11/29/18 11:07:56! Jay Koby calls 
+! 11/29/18 11:16:35! mark gray calls 
+
+! 11/29/18 11:16:35! Pot right ($4350), flopping/dealing/drawing cards
+! 11/29/18 11:16:35! 4 players
+! 11/29/18 11:16:35! Flopped card: 8s
+! 11/29/18 11:38:37! Chaos checks
+! 11/29/18 11:38:37! Jay Koby checks
+! 11/29/18 12:01:49! mark gray checks
+! 11/29/18 12:04:02! UnicornHorseshoe bets $3650 
+! 11/29/18 12:13:21! Chaos folds
+! 11/29/18 12:13:21! Jay Koby calls 
+! 11/29/18 12:57:49! mark gray folds
+
+! 11/29/18 12:57:49! Pot right ($11650), flopping/dealing/drawing cards
+! 11/29/18 12:57:49! 2 players
+! 11/29/18 12:57:49! Flopped card: 10s
+! 11/29/18 12:58:46! Jay Koby bets $5000 
+! 11/29/18 13:32:39! UnicornHorseshoe raises $40425 to $45425 total and is all in
+! 11/29/18 13:37:40! Jay Koby calls 
+! Hand over, current board is:  8c 7c Jd 8s 10s
+! Jay Koby                 has: 10c 9c
+! UnicornHorseshoe         has: 5h 3h
+! Jay Koby wins $102500 (net $52375) with Straight (J 10 9 8 7)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  Jay Koby                 |  108075 |         |      |    |         |
+ 2|   mark gray                |   52100 |         |      |    |         |
+ 3|   Legendnmyhd              |   45900 |         |      |    |         |
+ 5|   The Llama                |   53850 |         |      |    |         |
+ 6|   Greg P.                  |   43425 |         |      |    |         |
+ 7|D  Chippy McChiperson       |   42425 |         |      |    |         |
+ 8|   Chaos                    |   49750 |         |      |    |         |
+ 9|   Jake                     |   54475 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! UnicornHorseshoe is eliminated!
+! 547 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b45.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 10
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

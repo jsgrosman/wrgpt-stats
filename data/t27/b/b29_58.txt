@@ -1,0 +1,132 @@
+
+! Table b29, Hand 58, Day 42
+
+! Deryl Garland folds
+! Bernie folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   asypta                   |   76625 |     175 |folded|    |         |
+ 2|   Bernie                   |  127800 |    7325 |folded|    |         |
+ 3|   fich                     |   51450 |      25 |folded|    |         |
+ 4|   John Senger              |   19050 |      25 |folded|    |         |
+ 5|   jasong            |   99300 |    2325 |folded|    |         |
+ 6|>  CPROG                    |   43300 |   23225 |      |    |         |
+ 7|   Ben Buchwald             |   33850 |    2325 |folded|    |         |
+ 8|   Deryl Garland            |   86875 |    7325 |folded|    |         |
+ 9|   Paul Ant                 |  115600 |      25 |folded|    |         |
+10|D  Courtney Brennan         |   48525 |      25 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/03/17 11:46:12! Dealing a new hand
+! 12/03/17 11:46:12! Everyone antes $25
+! 12/03/17 11:46:12! asypta blinds $150
+! 12/03/17 11:46:12! Bernie blinds $300
+! 12/03/17 11:48:38! fich folds
+! 12/03/17 12:11:54! John Senger folds
+! 12/03/17 14:05:34! jasong raises $1000 
+! 12/03/17 14:14:06! CPROG calls 
+! 12/03/17 14:15:26! Ben Buchwald calls 
+! 12/03/17 14:17:08! Deryl Garland calls 
+! 12/03/17 15:05:22! Paul Ant folds
+! 12/03/17 15:05:22! Courtney Brennan folds
+! 12/03/17 15:19:17! asypta folds
+! 12/03/17 15:19:17! Bernie calls 
+
+! 12/03/17 15:19:17! Pot right ($6900), flopping/dealing/drawing cards
+! 12/03/17 15:19:17! 5 players
+! 12/03/17 15:19:17! Flopped cards: Ad 10c 6h
+! 12/03/17 15:53:56! Bernie bets $1000 
+! 12/03/17 16:30:41! jasong calls 
+! 12/03/17 16:36:07! CPROG calls 
+! 12/03/17 18:33:23! Ben Buchwald calls 
+! 12/03/17 18:33:23! Deryl Garland calls 
+
+! 12/03/17 18:33:23! Pot right ($11900), flopping/dealing/drawing cards
+! 12/03/17 18:33:23! 5 players
+! 12/03/17 18:33:23! Flopped card: 7h
+! 12/03/17 18:44:29! Bernie bets $5000 
+! 12/03/17 19:11:30! jasong folds
+! 12/03/17 19:11:30! CPROG calls 
+! 12/03/17 19:21:22! Ben Buchwald folds
+! 12/03/17 19:21:22! Deryl Garland calls 
+
+! 12/03/17 19:21:22! Pot right ($26900), flopping/dealing/drawing cards
+! 12/03/17 19:21:22! 3 players
+! 12/03/17 19:21:22! Flopped card: 9h
+! 12/03/17 19:56:58! Bernie checks
+! 12/03/17 19:57:59! CPROG bets $15900 
+! 12/03/17 20:31:34! Deryl Garland folds
+! 12/03/17 20:31:34! Bernie folds
+! Hand over, no showdown
+! Current board is:  Ad 10c 6h 7h 9h
+! CPROG wins $42800 (net $19575)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  asypta                   |   76625 |         |      |    |         |
+ 2|   Bernie                   |  127800 |         |      |    |         |
+ 3|   fich                     |   51450 |         |      |    |         |
+ 4|   John Senger              |   19050 |         |      |    |         |
+ 5|   jasong            |   99300 |         |      |    |         |
+ 6|>  CPROG                    |   86100 |         |      |    |         |
+ 7|   Ben Buchwald             |   33850 |         |      |    |         |
+ 8|   Deryl Garland            |   86875 |         |      |    |         |
+ 9|   Paul Ant                 |  115600 |         |      |    |         |
+10|   Courtney Brennan         |   48525 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 464 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b29.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+The entire round 'b' will be redrawn shortly after day 45.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Live Redraw Status as of 12/03/17 08:25:02 PM
+
+Total Empty Seats: 16
+Total Playing Seats: 464
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman27@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

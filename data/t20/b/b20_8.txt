@@ -1,0 +1,99 @@
+Message-Id: <201011051759.oA5HxU7F027819@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [b20.10096] Holdem Game Broadcast Message(*)                          
+
+! Table b20, Hand 8, Day 5
+
+! dBeau bets $200 
+! Andrew Nelson folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Andrew Nelson            |  29600 |    100 |folded|    |        |
+ 2|   plankton                 |  54825 |      0 |folded|    |        |
+ 4|V  Late Entry 2             |  29850 |      0 | NoSho|    |        |
+ 5|   JackBlack                |  26525 |      0 |folded|    |        |
+ 6|   wlu_lax6                 |  33200 |      0 |folded|    |        |
+ 7|V  Cyberchomp               |  29850 |      0 | NOV 4|    |        |
+ 8|D  jasong            |  36225 |      0 |folded|    |        |
+ 9|>  dBeau                    |  29525 |    300 |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 11/05/10 08:40:04! Dealing a new hand
+! 11/05/10 08:40:04! No ante
+! 11/05/10 08:40:04! dBeau blinds $50
+! 11/05/10 08:40:04! Andrew Nelson blinds $100
+! 11/05/10 09:45:28! plankton folds
+! 11/05/10 09:45:28! Late Entry 2 is on vacation and folds
+! 11/05/10 09:46:08! JackBlack folds
+! 11/05/10 09:46:08! wlu_lax6 folds
+! 11/05/10 09:46:08! Cyberchomp is on vacation and folds
+! 11/05/10 09:46:08! jasong folds
+! 11/05/10 10:41:26! dBeau calls 
+! 11/05/10 10:41:26! Andrew Nelson checks
+
+! 11/05/10 10:41:26! Pot right ($200), flopping/dealing/drawing cards
+! 11/05/10 10:41:26! 2 players
+! 11/05/10 10:41:26! Flopped cards: 4s 7h 8s
+! 11/05/10 10:57:22! dBeau checks
+! 11/05/10 10:57:22! Andrew Nelson checks
+
+! 11/05/10 10:57:22! Pot right ($200), flopping/dealing/drawing cards
+! 11/05/10 10:57:22! 2 players
+! 11/05/10 10:57:22! Flopped card: 8h
+! 11/05/10 10:59:30! dBeau bets $200 
+! 11/05/10 10:59:30! Andrew Nelson folds
+! Hand over, no showdown
+! Current board is:  4s 7h 8s 8h ?
+! dBeau wins $400 (net $100)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Andrew Nelson            |  29600 |        |      |    |        |
+ 2|   plankton                 |  54825 |        |      |    |        |
+ 4|V  Late Entry 2             |  29850 |        | NoSho|    |        |
+ 5|   JackBlack                |  26525 |        |      |    |        |
+ 6|   wlu_lax6                 |  33200 |        |      |    |        |
+ 7|V  Cyberchomp               |  29850 |        | NOV 4|    |        |
+ 8|   jasong            |  36225 |        |      |    |        |
+ 9|D> dBeau                    |  29925 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 884 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b20.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to WRGPT20.
+This is the real tourney.
+Good luck.
+
+Changes to email or hours of play made in the practice round to NOT carry over
+to the real tourney.  You will need to set them again if you set them for
+the practice round.
+
+If you have problems send mail to floorman20@wrgpt.org.
+
+
+Live Redraw Status as of 11/05/10 10:55:01 AM
+
+Total Empty Seats: 17
+Total Playing Seats: 883
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org or follow "wrgpt" on Twitter.
+

@@ -1,0 +1,121 @@
+
+! Table e9, Hand 292, Day 150
+
+! Andy Pierce calls 
+! Pot right ($606700), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 5s
+! Flopped card: 3h
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  Andy Pierce              | 1006425 |  294350 |      |    |         |
+ 2|   Bwana                    |  678550 |    1000 |folded|    |         |
+ 3|   Taki                     |  134600 |    1000 |folded|    |         |
+ 4|   Bob R                    |  513550 |    1000 |folded|    |         |
+ 5|   Ed Baker                 |  246500 |    1000 |folded|    |         |
+ 6|   jasong            |  681900 |    1000 |folded|    |         |
+ 7|D  Jillian McKillican       |       0 |  294350 |all-in|    |         |
+ 8|   Stephen Mack             |  955300 |   13000 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/20/18 13:34:44! Dealing a new hand
+! 03/20/18 13:34:44! Everyone antes $1000
+! 03/20/18 13:34:44! Stephen Mack blinds $6000
+! 03/20/18 13:34:44! Andy Pierce blinds $12000
+! 03/20/18 15:54:20! Bwana folds
+! 03/20/18 16:40:35! Taki folds
+! 03/20/18 16:40:35! Bob R folds
+! 03/20/18 16:40:35! Ed Baker folds
+! 03/20/18 16:40:35! jasong folds
+! 03/20/18 16:57:41! Jillian McKillican calls 
+! 03/20/18 17:03:29! Stephen Mack calls 
+! 03/20/18 21:21:57! Andy Pierce checks
+
+! 03/20/18 21:21:57! Pot right ($44000), flopping/dealing/drawing cards
+! 03/20/18 21:21:57! 3 players
+! 03/20/18 21:21:57! Flopped cards: Js 10s 2c
+! 03/20/18 22:12:22! Stephen Mack checks
+! 03/20/18 23:51:40! Andy Pierce checks
+! 03/21/18 02:04:50! Jillian McKillican bets $44000 
+! 03/21/18 02:12:26! Stephen Mack folds
+! 03/21/18 03:02:15! Andy Pierce raises $100000 to $144000 total 
+! 03/21/18 03:05:00! Jillian McKillican raises $137350 to $281350 total and is all in
+! 03/21/18 03:22:27! Andy Pierce calls 
+
+! 03/21/18 03:22:27! Pot right ($606700), flopping/dealing/drawing cards
+! 03/21/18 03:22:27! 2 players, 1 all in
+! 03/21/18 03:22:27! Flopped card: 5s
+! 03/21/18 03:22:27! Flopped card: 3h
+! Hand over, current board is:  Js 10s 2c 5s 3h
+! Andy Pierce              has: Qh Ad
+! Jillian McKillican       has: 10d 9d
+! Jillian McKillican wins $606700 (net $312350) with One Pair (10 10 J 9 5)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  Andy Pierce              | 1006425 |         |      |    |         |
+ 2|   Bwana                    |  678550 |         |      |    |         |
+ 3|   Taki                     |  134600 |         |      |    |         |
+ 4|   Bob R                    |  513550 |         |      |    |         |
+ 5|   Ed Baker                 |  246500 |         |      |    |         |
+ 6|   jasong            |  681900 |         |      |    |         |
+ 7|   Jillian McKillican       |  606700 |         |      |    |         |
+ 8|D  Stephen Mack             |  955300 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 55 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/e/e9.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+However, if there were prizes they would pay the top 63 entrants.
+The standings are now showing theoretical prizes if WRGPT were a
+10k event.
+
+======
+
+Live Redraw Status as of 03/21/18 02:55:01 AM
+
+Total Empty Seats: 8
+Total Playing Seats: 56
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman27@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

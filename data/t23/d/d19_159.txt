@@ -1,0 +1,121 @@
+Message-Id: <201402231804.s1NI4TJn015474@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [d19.10038] Holdem Game Broadcast Message(*)                          
+
+! Table d19, Hand 159, Day 105
+
+! bluecandy calls - side pot
+! Pot right ($107450), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 10c
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Berglar                  |  88050 |    300 |folded|    |        |
+ 2|   BigMutch                 |  52850 |    300 |folded|    |        |
+ 3|D> tired                    |  51050 |  47300 |      |  1 |   2550 |
+ 4|   Luigi Barone             |  45600 |   1300 |folded|    |        |
+ 5|   Tennisgirl               |  24075 |  12300 |folded|    |        |
+ 6|   Indiansquib              | 135200 |    300 |folded|    |        |
+ 7|   smak                     |  87600 |    300 |folded|    |        |
+ 8|   Shawn Pope               |  77150 |    300 |folded|    |        |
+ 9|   jasong            |  53075 |    300 |folded|    |        |
+10|   bluecandy                |      0 |  44750 |all-in|  2 | 104900 |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 02/21/14 13:06:13! Dealing a new hand
+! 02/21/14 13:06:13! Everyone antes $300
+! 02/21/14 13:06:13! Luigi Barone blinds $1000
+! 02/21/14 13:06:13! Tennisgirl blinds $2000
+! 02/21/14 13:37:38! Indiansquib folds
+! 02/21/14 13:37:38! smak folds
+! 02/21/14 14:53:37! Shawn Pope folds
+! 02/21/14 17:31:52! jasong folds
+! 02/21/14 17:47:11! bluecandy calls 
+! 02/21/14 17:47:11! Berglar folds
+! 02/21/14 17:47:11! BigMutch folds
+! 02/22/14 04:22:51! tired raises $2200 
+! 02/22/14 04:43:43! Luigi Barone folds
+! 02/22/14 08:29:48! Tennisgirl calls 
+! 02/22/14 09:51:22! bluecandy raises $7800 
+! 02/22/14 10:31:49! tired calls 
+! 02/22/14 17:37:14! Tennisgirl calls 
+
+! 02/22/14 17:37:14! Pot right ($40000), flopping/dealing/drawing cards
+! 02/22/14 17:37:14! 3 players
+! 02/22/14 17:37:14! Flopped cards: 2d 9c Qd
+! 02/22/14 17:58:04! Tennisgirl checks
+! 02/22/14 19:23:29! bluecandy bets $20000 
+! 02/23/14 04:18:26! tired calls 
+! 02/23/14 09:34:48! Tennisgirl folds
+
+! 02/23/14 09:34:48! Pot right ($80000), flopping/dealing/drawing cards
+! 02/23/14 09:34:48! 2 players
+! 02/23/14 09:34:48! Flopped card: 3h
+! 02/23/14 09:36:51! bluecandy checks
+! 02/23/14 09:56:23! tired bets $15000 
+! 02/23/14 10:04:28! bluecandy calls - side pot
+
+! 02/23/14 10:04:28! Pot right ($107450), flopping/dealing/drawing cards
+! 02/23/14 10:04:28! 2 players, 1 all in
+! 02/23/14 10:04:28! Flopped card: 10c
+! Hand over, current board is:  2d 9c Qd 3h 10c
+! tired                    has: Jd 10d
+! bluecandy                has: Js Jc
+! Pot 1: uncalled $2550 returned to tired
+! Pot 2: bluecandy wins $104900 with One Pair (J J Q 10 9)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Berglar                  |  88050 |        |      |    |        |
+ 2|   BigMutch                 |  52850 |        |      |    |        |
+ 3|>  tired                    |  53600 |        |      |    |        |
+ 4|D  Luigi Barone             |  45600 |        |      |    |        |
+ 5|   Tennisgirl               |  24075 |        |      |    |        |
+ 6|   Indiansquib              | 135200 |        |      |    |        |
+ 7|   smak                     |  87600 |        |      |    |        |
+ 8|   Shawn Pope               |  77150 |        |      |    |        |
+ 9|   jasong            |  53075 |        |      |    |        |
+10|   bluecandy                | 104900 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 325 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d19.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+Here is a link to the railbird mailing list:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman23@wrgpt.org.
+
+Live Redraw Status as of 02/23/14 09:55:01 AM
+
+Total Empty Seats: 9
+Total Playing Seats: 325
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

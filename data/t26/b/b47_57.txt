@@ -1,0 +1,124 @@
+
+! Table b47, Hand 57, Day 38
+
+! Rainbow Trout folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   MacBond21                |   38600 |      25 |folded|    |         |
+ 2|   Baldgriff                |   61225 |      25 |folded|    |         |
+ 3|   Grasshopp3r              |   72625 |     325 |folded|    |         |
+ 5|   asypta                   |   76300 |     325 |folded|    |         |
+ 6|D  Mybanjo                  |   98250 |      25 |folded|    |         |
+ 7|   jasong            |   49675 |     175 |folded|    |         |
+ 8|   Rainbow Trout            |   89875 |     325 |folded|    |         |
+ 9|>  Rathkopf                 |  107725 |     925 |      |    |         |
+10|V  Tammy                    |   47775 |      25 |<AWOL>|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/22/16 18:57:50! Dealing a new hand
+! 11/22/16 18:57:50! Everyone antes $25
+! 11/22/16 18:57:50! jasong blinds $150
+! 11/22/16 18:57:50! Rainbow Trout blinds $300
+! 11/23/16 11:37:28! Rathkopf calls 
+! 11/23/16 11:37:28! Tammy is on vacation and folds
+! 11/23/16 11:37:28! MacBond21 folds
+! 11/23/16 11:37:28! Baldgriff folds
+! 11/23/16 11:37:28! Grasshopp3r calls 
+! 11/23/16 11:37:58! asypta calls 
+! 11/23/16 11:37:58! Mybanjo folds
+! 11/23/16 11:37:58! jasong folds
+! 11/23/16 11:37:58! Rainbow Trout checks
+
+! 11/23/16 11:37:58! Pot right ($1575), flopping/dealing/drawing cards
+! 11/23/16 11:37:58! 4 players
+! 11/23/16 11:37:58! Flopped cards: Ah 8h 4h
+! 11/23/16 12:02:32! Rainbow Trout checks
+! 11/23/16 12:14:14! Rathkopf checks
+! 11/23/16 12:17:15! Grasshopp3r checks
+! 11/23/16 12:17:15! asypta checks
+
+! 11/23/16 12:17:15! Pot right ($1575), flopping/dealing/drawing cards
+! 11/23/16 12:17:15! 4 players
+! 11/23/16 12:17:15! Flopped card: 5c
+! 11/23/16 13:04:49! Rainbow Trout checks
+! 11/23/16 17:05:02! Rathkopf checks
+! 11/23/16 18:15:58! Grasshopp3r checks
+! 11/23/16 18:19:39! asypta checks
+
+! 11/23/16 18:19:39! Pot right ($1575), flopping/dealing/drawing cards
+! 11/23/16 18:19:39! 4 players
+! 11/23/16 18:19:39! Flopped card: 6d
+! 11/23/16 18:35:12! Rainbow Trout checks
+! 11/23/16 18:37:32! Rathkopf bets $600 
+! 11/23/16 19:12:49! Grasshopp3r folds
+! 11/23/16 19:34:04! asypta folds
+! 11/23/16 19:43:17! Rainbow Trout folds
+! Hand over, no showdown
+! Current board is:  Ah 8h 4h 5c 6d
+! Rathkopf wins $2175 (net $1250)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   MacBond21                |   38600 |         |      |    |         |
+ 2|   Baldgriff                |   61225 |         |      |    |         |
+ 3|   Grasshopp3r              |   72625 |         |      |    |         |
+ 5|   asypta                   |   76300 |         |      |    |         |
+ 6|   Mybanjo                  |   98250 |         |      |    |         |
+ 7|D  jasong            |   49675 |         |      |    |         |
+ 8|   Rainbow Trout            |   89875 |         |      |    |         |
+ 9|>  Rathkopf                 |  109900 |         |      |    |         |
+10|V  Tammy                    |   47775 |         |<AWOL>|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 468 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b47.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Now that we are more than 30 days into the tourney
+all players that have not yet come to their table are being 
+removed over the next few days.
+
+======
+
+Live Redraw Status as of 11/23/16 07:25:01 PM
+
+Total Empty Seats: 12
+Total Playing Seats: 468
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman26@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

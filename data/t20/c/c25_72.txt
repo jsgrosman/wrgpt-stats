@@ -1,0 +1,105 @@
+Message-Id: <201101041943.p04Jh4cR032142@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [c25.10151] Holdem Game Broadcast Message(*)                          
+
+! Table c25, Hand 72, Day 65
+
+! jasong calls 
+! Pot right ($35300), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped cards: 7s Kh 7d
+! Flopped card: 2s
+! Flopped card: Ah
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Nikadai                  |  72575 |     50 |folded|    |        |
+ 2|   mjoseff                  |  60725 |     50 |folded|    |        |
+ 3|   Willard                  |      0 |  17150 |all-in|    |        |
+ 4|D  Eddie Brown              |  60400 |     50 |folded|    |        |
+ 5|V  Stanley Chow             |  29450 |    250 |<AWOL>|    |        |
+ 6|   Deborah Abel             |  31750 |    450 |folded|    |        |
+ 7|>  jasong            |  94900 |  17150 |      |    |        |
+ 8|   jennyfar                 |  82450 |     50 |folded|    |        |
+ 9|   AW Coody                 |  53450 |     50 |folded|    |        |
+10|   b monie                  |  29850 |     50 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 01/03/11 14:29:15! Dealing a new hand
+! 01/03/11 14:29:15! Everyone antes $50
+! 01/03/11 14:29:15! Stanley Chow blinds $200
+! 01/03/11 14:29:15! Deborah Abel blinds $400
+! 01/03/11 16:01:40! jasong raises $2000 
+! 01/03/11 16:04:40! jennyfar folds
+! 01/03/11 19:03:01! AW Coody folds
+! 01/03/11 19:03:01! b monie folds
+! 01/03/11 19:03:01! Nikadai folds
+! 01/03/11 20:29:41! mjoseff folds
+! 01/04/11 04:24:19! Willard raises $14700 and is all in
+! 01/04/11 11:19:23! Eddie Brown folds
+! 01/04/11 11:19:23! Stanley Chow is on vacation and folds
+! 01/04/11 11:19:23! Deborah Abel folds
+! 01/04/11 11:43:04! jasong calls 
+
+! 01/04/11 11:43:04! Pot right ($35300), flopping/dealing/drawing cards
+! 01/04/11 11:43:04! 2 players, 1 all in
+! 01/04/11 11:43:04! Flopped cards: 7s Kh 7d
+! 01/04/11 11:43:04! Flopped card: 2s
+! 01/04/11 11:43:04! Flopped card: Ah
+! Hand over, current board is:  7s Kh 7d 2s Ah
+! Willard                  has: Qc 10c
+! jasong            has: As Js
+! jasong wins $35300 (net $18150) with Two Pair (A A 7 7 K)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Nikadai                  |  72575 |        |      |    |        |
+ 2|   mjoseff                  |  60725 |        |      |    |        |
+ 4|   Eddie Brown              |  60400 |        |      |    |        |
+ 5|DV Stanley Chow             |  29450 |        |<AWOL>|    |        |
+ 6|   Deborah Abel             |  31750 |        |      |    |        |
+ 7|>  jasong            | 130200 |        |      |    |        |
+ 8|   jennyfar                 |  82450 |        |      |    |        |
+ 9|   AW Coody                 |  53450 |        |      |    |        |
+10|   b monie                  |  29850 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! Willard is eliminated!
+! 611 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c25.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+The WRGPT server went down around midnight late Monday, early Tuesday.
+Timeouts have been disabled until the mail catches up and all tables have
+a chance to act.  They will be re-enabled at the end of the day at the
+latest.
+
+If you have any problems related to this event send mail to floorman20@wrgpt.org.
+
+Live Redraw Status as of 01/04/11 11:25:01 AM
+
+Total Empty Seats: 21
+Total Playing Seats: 612
+Live redraw in progress:
+Seats Needed: 9
+Seats Waiting: 1
+Moving Players Waiting: 0
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org or follow "wrgpt" on Twitter.
+

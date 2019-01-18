@@ -1,0 +1,112 @@
+Message-Id: <201202161617.q1GGH4Al019865@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [c19.10274] Holdem Game Broadcast Message(*)                          
+
+! Table c19, Hand 99, Day 95
+
+! Linzk425 calls - side pot
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   swamper wlu_lax6         | 223900 |    200 |folded|    |        |
+ 2|   BigServerGuy             |  31475 |    200 |folded|    |        |
+ 3|   Tooner                   | 131925 |    200 |folded|    |        |
+ 4|D  lameO                    |      0 |  40850 |all-in|  1 |  18400 |
+ 5|   jasong            |   2500 |    800 |folded|    |        |
+ 6|   TacoChuck                | 103525 |   1400 |folded|    |        |
+ 7|   Anshu                    |  59050 |    200 |folded|    |        |
+ 8|   bozo                     |  30000 |    200 |folded|    |        |
+ 9|>  Linzk425                 |      0 |  22450 |all-in|  2 |  48300 |
+10|   Dalai Pookah             |  25175 |    200 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 02/13/12 08:55:15! Dealing a new hand
+! 02/13/12 08:55:15! Everyone antes $200
+! 02/13/12 08:55:15! jasong blinds $600
+! 02/13/12 08:55:15! TacoChuck blinds $1200
+! 02/13/12 15:44:54! Anshu folds
+! 02/13/12 15:44:54! bozo folds
+! 02/14/12 00:50:05! Linzk425 calls 
+! 02/14/12 00:50:05! Dalai Pookah folds
+! 02/14/12 00:50:05! swamper wlu_lax6 folds
+! 02/14/12 00:50:05! BigServerGuy folds
+! 02/14/12 00:50:05! Tooner folds
+! 02/14/12 06:37:43! lameO calls 
+! 02/14/12 06:37:43! jasong folds
+! 02/14/12 06:48:25! TacoChuck checks
+
+! 02/14/12 06:48:25! Pot right ($6200), flopping/dealing/drawing cards
+! 02/14/12 06:48:25! 3 players
+! 02/14/12 06:48:25! Flopped cards: 3h 9c 9h
+! 02/14/12 06:49:53! TacoChuck checks
+! 02/14/12 10:23:55! Linzk425 checks
+! 02/14/12 10:35:55! lameO checks
+
+! 02/14/12 10:35:55! Pot right ($6200), flopping/dealing/drawing cards
+! 02/14/12 10:35:55! 3 players
+! 02/14/12 10:35:55! Flopped card: 2c
+! 02/14/12 11:16:39! TacoChuck checks
+! 02/15/12 02:23:10! Linzk425 checks
+! 02/15/12 06:21:41! lameO checks
+
+! 02/15/12 06:21:41! Pot right ($6200), flopping/dealing/drawing cards
+! 02/15/12 06:21:41! 3 players
+! 02/15/12 06:21:41! Flopped card: 4h
+! 02/15/12 08:46:23! TacoChuck checks
+! 02/16/12 00:17:42! Linzk425 bets $6200 
+! 02/16/12 05:46:36! lameO raises $33250 and is all in
+! 02/16/12 06:05:18! TacoChuck folds
+! 02/16/12 08:17:04! Linzk425 calls - side pot
+! Hand over, current board is:  3h 9c 9h 2c 4h
+! lameO                    has: 3s 3c
+! Linzk425                 has: 8s 8h
+! Pot 1: uncalled $18400 returned to lameO
+! Pot 2: lameO wins $48300 with Full House (3 3 3 9 9)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   swamper wlu_lax6         | 223900 |        |      |    |        |
+ 2|   BigServerGuy             |  31475 |        |      |    |        |
+ 3|   Tooner                   | 131925 |        |      |    |        |
+ 4|   lameO                    |  66700 |        |      |    |        |
+ 5|D  jasong            |   2500 |        |      |    |        |
+ 6|   TacoChuck                | 103525 |        |      |    |        |
+ 7|   Anshu                    |  59050 |        |      |    |        |
+ 8|   bozo                     |  30000 |        |      |    |        |
+10|   Dalai Pookah             |  25175 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! Linzk425 is eliminated!
+! 360 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c19.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+No more live redraws for the "c" round.  The round will
+end when a table gets to less than six players.
+
+Having problems? Send email to floorman21@wrgpt.org.
+
+Live Redraw Status as of 02/16/12 07:55:01 AM
+
+Total Empty Seats: 18
+Total Playing Seats: 362
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+

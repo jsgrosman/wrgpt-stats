@@ -1,0 +1,82 @@
+Message-Id: <201202222215.q1MMF5qi025865@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [d15.10025] Holdem Game Broadcast Message(*)                          
+
+! Table d15, Hand 121, Day 101
+
+! Chris Mecklin folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   rxshep                   |   9000 |    300 |folded|    |        |
+ 2|   Joshua Koppelman         |  69400 |    300 |folded|    |        |
+ 3|D  JRX                      |  56250 |    300 |folded|    |        |
+ 4|   BigServerGuy             |  40075 |   1300 |folded|    |        |
+ 5|>  Chris Mecklin            |  34600 |   2300 |folded|    |        |
+ 6|   BoneMPN                  |  45300 |    300 |folded|    |        |
+ 8|   Swamper_phxgators        |      0 |  18500 |all-in|    |        |
+ 9|   Witty Nickname           | 135025 |    300 |folded|    |        |
+10|   Michael Proteau          | 105925 |    300 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 02/22/12 08:48:31! Dealing a new hand
+! 02/22/12 08:48:31! Everyone antes $300
+! 02/22/12 08:48:31! BigServerGuy blinds $1000
+! 02/22/12 08:48:31! Chris Mecklin blinds $2000
+! 02/22/12 10:50:19! BoneMPN folds
+! 02/22/12 10:51:23! Swamper_phxgators raises $16200 and is all in
+! 02/22/12 11:01:01! Witty Nickname folds
+! 02/22/12 11:01:01! Michael Proteau folds
+! 02/22/12 12:05:49! rxshep folds
+! 02/22/12 12:10:13! Joshua Koppelman folds
+! 02/22/12 12:50:36! JRX folds
+! 02/22/12 12:50:36! BigServerGuy folds
+! 02/22/12 14:15:03! Chris Mecklin folds
+! Hand over, no showdown
+! Current board is:  ? ? ? ? ?
+! Swamper_phxgators wins $23900 (net $5400)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   rxshep                   |   9000 |        |      |    |        |
+ 2|   Joshua Koppelman         |  69400 |        |      |    |        |
+ 3|   JRX                      |  56250 |        |      |    |        |
+ 4|D  BigServerGuy             |  40075 |        |      |    |        |
+ 5|>  Chris Mecklin            |  34600 |        |      |    |        |
+ 6|   BoneMPN                  |  45300 |        |      |    |        |
+ 8|   Swamper_phxgators        |  23900 |        |      |    |        |
+ 9|   Witty Nickname           | 135025 |        |      |    |        |
+10|   Michael Proteau          | 105925 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 341 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d15.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+
+Having problems? Send email to floorman21@wrgpt.org.
+
+Live Redraw Status as of 02/22/12 01:55:01 PM
+
+Total Empty Seats: 9
+Total Playing Seats: 341
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+

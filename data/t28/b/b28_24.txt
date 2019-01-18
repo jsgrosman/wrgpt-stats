@@ -1,0 +1,130 @@
+Subject: [b28.10345] Holdem Game Broadcast Message(*)
+
+! Table b28, Hand 24, Day 23
+
+! CardRunner raises $625 to $19725 total and is all in
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Dan Driscoll             |   58625 |     300 |folded|    |         |
+ 2|>  CardRunner               |       0 |   47375 |all-in|  1 |     625 |
+ 3|   Bobby Luckbox            |   66850 |       0 |folded|    |         |
+ 4|   Ira Agins                |   50150 |       0 |folded|    |         |
+ 5|   funjon                   |       0 |   46750 |all-in|  2 |   95900 |
+ 6|D  DazedAndConfused         |   47925 |    1650 |folded|    |         |
+ 7|   Matt Matros              |   45950 |     150 |folded|    |         |
+ 8|   Mark Horn                |   44850 |     300 |folded|    |         |
+ 9|   rbmoore                  |   39125 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/03/18 11:16:05! Dealing a new hand
+! 12/03/18 11:16:05! No ante
+! 12/03/18 11:16:05! Matt Matros blinds $150
+! 12/03/18 11:16:05! Mark Horn blinds $300
+! 12/03/18 11:19:08! rbmoore folds
+! 12/03/18 12:12:01! Dan Driscoll calls 
+! 12/03/18 13:10:46! CardRunner calls 
+! 12/03/18 13:10:46! Bobby Luckbox folds
+! 12/03/18 13:10:46! Ira Agins folds
+! 12/03/18 13:14:30! funjon raises $1350 to $1650 total 
+! 12/03/18 14:43:35! DazedAndConfused calls 
+! 12/03/18 14:43:35! Matt Matros folds
+! 12/03/18 19:24:20! Mark Horn folds
+! 12/03/18 19:38:53! Dan Driscoll folds
+! 12/04/18 03:39:37! CardRunner calls 
+
+! 12/04/18 03:39:37! Pot right ($5700), flopping/dealing/drawing cards
+! 12/04/18 03:39:37! 3 players
+! 12/04/18 03:39:37! Flopped cards: 6c Qd 9s
+! 12/04/18 03:40:55! CardRunner checks
+! 12/04/18 03:41:10! funjon bets $6000 
+! 12/04/18 03:44:07! DazedAndConfused folds
+! 12/04/18 03:46:42! CardRunner calls 
+
+! 12/04/18 03:46:42! Pot right ($17700), flopping/dealing/drawing cards
+! 12/04/18 03:46:42! 2 players
+! 12/04/18 03:46:42! Flopped card: 5s
+! 12/04/18 03:47:27! CardRunner checks
+! 12/04/18 03:47:46! funjon bets $20000 
+! 12/04/18 03:48:35! CardRunner calls 
+
+! 12/04/18 03:48:35! Pot right ($57700), flopping/dealing/drawing cards
+! 12/04/18 03:48:35! 2 players
+! 12/04/18 03:48:35! Flopped card: 9h
+! 12/04/18 03:49:11! CardRunner checks
+_____________________________________________________________________________
+
+! If you have me, you have me. surviving to new years is overrated.
+! -- funjon --
+_____________________________________________________________________________
+
+! 12/04/18 03:49:11! funjon bets $19100 and is all in
+! 12/04/18 03:50:07! CardRunner raises $625 to $19725 total and is all in
+! Hand over, current board is:  6c Qd 9s 5s 9h
+! CardRunner               has: As 9d
+! funjon                   has: Ah Qh
+! Pot 1: uncalled $625 returned to CardRunner
+! Pot 2: CardRunner wins $95900 with Three of a Kind (9 9 9 A Q)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Dan Driscoll             |   58625 |         |      |    |         |
+ 2|>  CardRunner               |   96525 |         |      |    |         |
+ 3|   Bobby Luckbox            |   66850 |         |      |    |         |
+ 4|   Ira Agins                |   50150 |         |      |    |         |
+ 6|   DazedAndConfused         |   47925 |         |      |    |         |
+ 7|D  Matt Matros              |   45950 |         |      |    |         |
+ 8|   Mark Horn                |   44850 |         |      |    |         |
+ 9|   rbmoore                  |   39125 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! funjon is eliminated!
+! 525 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b28.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 5
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,111 @@
+Subject: [b1.10050] Holdem Game Broadcast Message(*)
+
+! Table b1, Hand 4, Day 2
+
+! stannius folds
+! Endrju folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Nick Name                |   49550 |       0 |folded|    |         |
+ 2|>  EricL                    |   44275 |    5200 |      |    |         |
+ 3|   Thomas Gabrysch          |   50900 |       0 |folded|    |         |
+ 4|D  Bacon                    |   49475 |       0 |folded|    |         |
+ 5|   Duncan                   |   50300 |      75 |folded|    |         |
+ 6|   mulligan                 |   49850 |     150 |folded|    |         |
+ 7|   stannius                 |   48800 |    1200 |folded|    |         |
+ 8|   Kevin Mackey             |   50000 |       0 |folded|    |         |
+ 9|   Endrju                   |   49025 |    1200 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/13/18 08:14:59! Dealing a new hand
+! 11/13/18 08:14:59! No ante
+! 11/13/18 08:14:59! Duncan blinds $75
+! 11/13/18 08:14:59! mulligan blinds $150
+! 11/13/18 08:17:44! stannius raises $350 to $500 total 
+! 11/13/18 08:18:36! Kevin Mackey folds
+! 11/13/18 08:19:20! Endrju calls 
+! 11/13/18 12:21:02! Nick Name folds
+! 11/13/18 12:29:33! EricL raises $700 to $1200 total 
+! 11/13/18 12:29:33! Thomas Gabrysch folds
+! 11/13/18 12:29:33! Bacon folds
+! 11/13/18 12:29:33! Duncan folds
+! 11/13/18 12:49:51! mulligan folds
+! 11/13/18 12:53:07! stannius calls 
+! 11/13/18 12:55:10! Endrju calls 
+
+! 11/13/18 12:55:10! Pot right ($3825), flopping/dealing/drawing cards
+! 11/13/18 12:55:10! 3 players
+! 11/13/18 12:55:10! Flopped cards: Ad 7d 4s
+! 11/13/18 12:56:48! stannius checks
+! 11/13/18 12:57:52! Endrju checks
+! 11/13/18 13:25:13! EricL bets $4000 
+! 11/13/18 13:32:35! stannius folds
+! 11/13/18 13:32:35! Endrju folds
+! Hand over, no showdown
+! Current board is:  Ad 7d 4s ? ?
+! EricL wins $7825 (net $2625)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Nick Name                |   49550 |         |      |    |         |
+ 2|>  EricL                    |   52100 |         |      |    |         |
+ 3|   Thomas Gabrysch          |   50900 |         |      |    |         |
+ 4|   Bacon                    |   49475 |         |      |    |         |
+ 5|D  Duncan                   |   50300 |         |      |    |         |
+ 6|   mulligan                 |   49850 |         |      |    |         |
+ 7|   stannius                 |   48800 |         |      |    |         |
+ 8|   Kevin Mackey             |   50000 |         |      |    |         |
+ 9|   Endrju                   |   49025 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Nick Name timed out during this hand
+! 589 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b1.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 3
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

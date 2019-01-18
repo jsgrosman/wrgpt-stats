@@ -1,0 +1,116 @@
+Subject: [c8.10192] Holdem Game Broadcast Message(*)
+
+! Table c8, Hand 165, Day 67
+
+! Josh Goldshlag checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|V  Options Dee              |   45225 |     350 |<AWOL>|    |         |
+ 2|>  Ed Baker                 |   38500 |    7600 |      |    |         |
+ 3|V  grendel                  |   44175 |     100 |<AWOL>|    |         |
+ 4|   Loudlion                 |  136025 |     600 |folded|    |         |
+ 5|   Mugsy                    |   48275 |     100 |folded|    |         |
+ 6|   Stephen Mack             |   93675 |     600 |folded|    |         |
+ 7|   Stephen Opal             |   46600 |     600 |folded|    |         |
+ 8|   Josh Goldshlag           |  169150 |    7600 |      |    |         |
+ 9|D  BigElmo                  |   75750 |     100 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/16/19 04:27:19! Dealing a new hand
+! 01/16/19 04:27:19! Everyone antes $100
+! 01/16/19 04:27:19! Options Dee blinds $250
+! 01/16/19 04:27:19! Ed Baker blinds $500
+! 01/16/19 04:27:19! grendel is on vacation and folds
+! 01/16/19 04:31:30! Loudlion calls 
+! 01/16/19 05:19:18! Mugsy folds
+! 01/16/19 07:17:22! Stephen Mack calls 
+! 01/16/19 07:30:38! Stephen Opal calls 
+! 01/16/19 08:16:46! Josh Goldshlag calls 
+! 01/16/19 08:39:54! BigElmo folds
+! 01/16/19 08:39:54! Options Dee is on vacation and folds
+! 01/16/19 08:39:54! Ed Baker checks
+
+! 01/16/19 08:39:54! Pot right ($3650), flopping/dealing/drawing cards
+! 01/16/19 08:39:54! 5 players
+! 01/16/19 08:39:54! Flopped cards: 2h 5d 2c
+! 01/16/19 08:39:54! Ed Baker checks
+! 01/16/19 10:33:21! Loudlion checks
+! 01/16/19 11:09:26! Stephen Mack checks
+! 01/16/19 11:09:26! Stephen Opal checks
+! 01/16/19 11:12:44! Josh Goldshlag bets $2000 
+! 01/16/19 11:31:16! Ed Baker calls 
+! 01/16/19 12:49:50! Loudlion folds
+! 01/16/19 12:56:07! Stephen Mack folds
+! 01/16/19 13:28:28! Stephen Opal folds
+
+! 01/16/19 13:28:28! Pot right ($7650), flopping/dealing/drawing cards
+! 01/16/19 13:28:28! 2 players
+! 01/16/19 13:28:28! Flopped card: 3h
+! 01/16/19 16:57:50! Ed Baker checks
+! 01/16/19 20:01:18! Josh Goldshlag bets $5000 
+! 01/17/19 05:21:14! Ed Baker calls 
+
+! 01/17/19 05:21:14! Pot right ($17650), flopping/dealing/drawing cards
+! 01/17/19 05:21:14! 2 players
+! 01/17/19 05:21:14! Flopped card: Ks
+! 01/17/19 05:24:34! Ed Baker checks
+! 01/17/19 05:46:55! Josh Goldshlag checks
+! Hand over, current board is:  2h 5d 2c 3h Ks
+! Ed Baker                 has: Qs 5s
+! Josh Goldshlag           has: 3s Ac
+! Ed Baker wins $17650 (net $10050) with Two Pair (5 5 2 2 K)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|DV Options Dee              |   45225 |         |<AWOL>|    |         |
+ 2|>  Ed Baker                 |   56150 |         |      |    |         |
+ 3|V  grendel                  |   44175 |         |<AWOL>|    |         |
+ 4|   Loudlion                 |  136025 |         |      |    |         |
+ 5|   Mugsy                    |   48275 |         |      |    |         |
+ 6|   Stephen Mack             |   93675 |         |      |    |         |
+ 7|   Stephen Opal             |   46600 |         |      |    |         |
+ 8|   Josh Goldshlag           |  169150 |         |      |    |         |
+ 9|   BigElmo                  |   75750 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 364 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c8.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 10
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

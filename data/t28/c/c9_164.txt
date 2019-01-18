@@ -1,0 +1,103 @@
+Subject: [c9.10183] Holdem Game Broadcast Message(*)
+
+! Table c9, Hand 164, Day 66
+
+! ddppmm folds
+! Nathan Zuercher folds
+! Pot right ($73200), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped cards: Ks 7s 2s
+! Flopped card: 6c
+! Flopped card: 9c
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   ddppmm                   |   37050 |     600 |folded|    |         |
+ 2|   Nathan Zuercher          |   66525 |     600 |folded|    |         |
+ 3|   Rkal                     |  106900 |     100 |folded|    |         |
+ 4|V  Taki                     |   40450 |     100 |   Too|    |         |
+ 5|   Steb                     |   52275 |     100 |folded|    |         |
+ 6|   CAB                      |       0 |   35625 |all-in|    |         |
+ 7|   tristero                 |  138675 |     100 |folded|    |         |
+ 8|D> Stubey                   |   31650 |   35625 |      |    |         |
+ 9|   Klod                     |  118425 |     350 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/16/19 05:57:00! Dealing a new hand
+! 01/16/19 05:57:00! Everyone antes $100
+! 01/16/19 05:57:00! Klod blinds $250
+! 01/16/19 05:57:00! ddppmm blinds $500
+! 01/16/19 07:07:56! Nathan Zuercher calls 
+! 01/16/19 07:14:45! Rkal folds
+! 01/16/19 07:14:45! Taki is on vacation and folds
+! 01/16/19 07:40:23! Steb folds
+! 01/16/19 07:40:23! CAB raises $35025 to $35525 total and is all in
+! 01/16/19 07:40:23! tristero folds
+! 01/16/19 08:43:28! Stubey calls 
+! 01/16/19 08:44:36! Klod folds
+! 01/16/19 10:45:06! ddppmm folds
+! 01/16/19 10:45:06! Nathan Zuercher folds
+
+! 01/16/19 10:45:06! Pot right ($73200), flopping/dealing/drawing cards
+! 01/16/19 10:45:06! 2 players, 1 all in
+! 01/16/19 10:45:06! Flopped cards: Ks 7s 2s
+! 01/16/19 10:45:06! Flopped card: 6c
+! 01/16/19 10:45:06! Flopped card: 9c
+! Hand over, current board is:  Ks 7s 2s 6c 9c
+! CAB                      has: 8s Ad
+! Stubey                   has: As 4c
+! CAB wins $73200 (net $37575) with No Pair (A K 9 8 7)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   ddppmm                   |   37050 |         |      |    |         |
+ 2|   Nathan Zuercher          |   66525 |         |      |    |         |
+ 3|   Rkal                     |  106900 |         |      |    |         |
+ 4|V  Taki                     |   40450 |         |   Too|    |         |
+ 5|   Steb                     |   52275 |         |      |    |         |
+ 6|   CAB                      |   73200 |         |      |    |         |
+ 7|   tristero                 |  138675 |         |      |    |         |
+ 8|>  Stubey                   |   31650 |         |      |    |         |
+ 9|D  Klod                     |  118425 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 368 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c9.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 5
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

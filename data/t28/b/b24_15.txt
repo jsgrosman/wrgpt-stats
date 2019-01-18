@@ -1,0 +1,127 @@
+Subject: [b24.10201] Holdem Game Broadcast Message(*)
+
+! Table b24, Hand 15, Day 15
+
+! Buggilla calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Rugratbbc                |   47675 |       0 |folded|    |         |
+ 2|   Loboc                    |   48975 |       0 |folded|    |         |
+ 3|   StewieG                  |   99975 |       0 |folded|    |         |
+ 4|   Wally F                  |   97125 |       0 |folded|    |         |
+ 5|   Der Olf                  |   54125 |     450 |folded|    |         |
+ 6|D> Darse Billings           |   38375 |   11450 |      |    |         |
+ 7|   Mugsy                    |   49675 |     450 |folded|    |         |
+ 8|   Buggilla                 |   31625 |   11450 |      |    |         |
+ 9|   BigBlind                 |    6725 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/25/18 11:33:42! Dealing a new hand
+! 11/25/18 11:33:42! No ante
+! 11/25/18 11:33:42! Mugsy blinds $75
+! 11/25/18 11:33:42! Buggilla blinds $150
+! 11/25/18 20:39:44! BigBlind folds
+! 11/25/18 20:39:44! Rugratbbc folds
+! 11/25/18 20:39:44! Loboc folds
+! 11/25/18 20:39:44! StewieG folds
+! 11/25/18 20:39:44! Wally F folds
+! 11/25/18 21:02:43! Der Olf calls 
+! 11/25/18 21:02:43! Darse Billings calls 
+! 11/26/18 00:09:53! Mugsy raises $300 to $450 total 
+! 11/26/18 04:07:23! Buggilla calls 
+! 11/26/18 05:03:42! Der Olf calls 
+! 11/26/18 05:03:42! Darse Billings calls 
+
+! 11/26/18 05:03:42! Pot right ($1800), flopping/dealing/drawing cards
+! 11/26/18 05:03:42! 4 players
+! 11/26/18 05:03:42! Flopped cards: 8d Ad 6s
+! 11/26/18 05:15:47! Mugsy checks
+! 11/26/18 05:18:05! Buggilla checks
+! 11/26/18 06:36:57! Der Olf checks
+! 11/26/18 08:13:02! Darse Billings bets $1400 
+! 11/26/18 08:18:35! Mugsy folds
+! 11/26/18 08:24:40! Buggilla calls 
+! 11/26/18 10:57:47! Der Olf folds
+
+! 11/26/18 10:57:47! Pot right ($4600), flopping/dealing/drawing cards
+! 11/26/18 10:57:47! 2 players
+! 11/26/18 10:57:47! Flopped card: 8h
+! 11/26/18 11:47:12! Buggilla checks
+! 11/26/18 14:23:20! Darse Billings bets $3600 
+! 11/26/18 14:29:29! Buggilla calls 
+
+! 11/26/18 14:29:29! Pot right ($11800), flopping/dealing/drawing cards
+! 11/26/18 14:29:29! 2 players
+! 11/26/18 14:29:29! Flopped card: 7h
+! 11/26/18 14:30:26! Buggilla checks
+! 11/26/18 14:42:11! Darse Billings bets $6000 
+! 11/26/18 14:45:13! Buggilla calls 
+! Hand over, current board is:  8d Ad 6s 8h 7h
+! Darse Billings           has: 8c 4c
+! Buggilla                 has: As 10s
+! Darse Billings wins $23800 (net $12350) with Three of a Kind (8 8 8 A 7)
+! Antes and blinds go up
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Rugratbbc                |   47675 |         |      |    |         |
+ 2|   Loboc                    |   48975 |         |      |    |         |
+ 3|   StewieG                  |   99975 |         |      |    |         |
+ 4|   Wally F                  |   97125 |         |      |    |         |
+ 5|   Der Olf                  |   54125 |         |      |    |         |
+ 6|>  Darse Billings           |   62175 |         |      |    |         |
+ 7|D  Mugsy                    |   49675 |         |      |    |         |
+ 8|   Buggilla                 |   31625 |         |      |    |         |
+ 9|   BigBlind                 |    6725 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 556 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b24.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 11
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

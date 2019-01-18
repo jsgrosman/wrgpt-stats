@@ -1,0 +1,120 @@
+Subject: [b17.10488] Holdem Game Broadcast Message(*)
+
+! Table b17, Hand 33, Day 25
+
+! crush_me folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   John Bernstein           |   43100 |       0 |folded|    |         |
+ 2|   Sandy                    |   47450 |       0 |folded|    |         |
+ 3|   Mike DellaBarca          |   47175 |       0 |folded|    |         |
+ 4|   Baldy                    |   83600 |       0 |folded|    |         |
+ 5|   shinsook                 |  108225 |       0 |folded|    |         |
+ 6|D  Kahomono                 |   53150 |       0 |folded|    |         |
+ 7|>  Toronado13               |   39800 |   17000 |      |    |         |
+ 8|   Mark Lemon               |   51075 |     800 |folded|    |         |
+ 9|   crush_me                 |   13425 |    5400 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/05/18 17:42:50! Dealing a new hand
+! 12/05/18 17:42:50! No ante
+! 12/05/18 17:42:50! Toronado13 blinds $150
+! 12/05/18 17:42:50! Mark Lemon blinds $300
+! 12/05/18 21:07:04! crush_me raises $500 to $800 total 
+! 12/05/18 21:19:05! John Bernstein folds
+! 12/05/18 21:19:05! Sandy folds
+! 12/05/18 21:19:05! Mike DellaBarca folds
+! 12/05/18 21:19:05! Baldy folds
+! 12/05/18 22:12:47! shinsook folds
+! 12/05/18 23:52:18! Kahomono folds
+! 12/06/18 06:20:20! Toronado13 calls 
+! 12/06/18 06:28:11! Mark Lemon calls 
+
+! 12/06/18 06:28:11! Pot right ($2400), flopping/dealing/drawing cards
+! 12/06/18 06:28:11! 3 players
+! 12/06/18 06:28:11! Flopped cards: 5d Js 6h
+! 12/06/18 07:22:38! Toronado13 checks
+! 12/06/18 07:28:29! Mark Lemon checks
+! 12/06/18 08:36:31! crush_me bets $1200 
+! 12/06/18 08:37:07! Toronado13 calls 
+! 12/06/18 08:52:12! Mark Lemon folds
+
+! 12/06/18 08:52:12! Pot right ($4800), flopping/dealing/drawing cards
+! 12/06/18 08:52:12! 2 players
+! 12/06/18 08:52:12! Flopped card: Kc
+! 12/06/18 09:36:44! Toronado13 checks
+! 12/06/18 09:43:57! crush_me bets $3400 
+! 12/06/18 09:44:31! Toronado13 calls 
+
+! 12/06/18 09:44:31! Pot right ($11600), flopping/dealing/drawing cards
+! 12/06/18 09:44:31! 2 players
+! 12/06/18 09:44:31! Flopped card: 8c
+! 12/06/18 09:45:31! Toronado13 bets $11600 
+! 12/06/18 09:46:34! crush_me folds
+! Hand over, no showdown
+! Current board is:  5d Js 6h Kc 8c
+! Toronado13 wins $23200 (net $6200)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   John Bernstein           |   43100 |         |      |    |         |
+ 2|   Sandy                    |   47450 |         |      |    |         |
+ 3|   Mike DellaBarca          |   47175 |         |      |    |         |
+ 4|   Baldy                    |   83600 |         |      |    |         |
+ 5|   shinsook                 |  108225 |         |      |    |         |
+ 6|   Kahomono                 |   53150 |         |      |    |         |
+ 7|D> Toronado13               |   63000 |         |      |    |         |
+ 8|   Mark Lemon               |   51075 |         |      |    |         |
+ 9|   crush_me                 |   13425 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 517 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b17.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 5
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

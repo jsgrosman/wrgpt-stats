@@ -1,0 +1,127 @@
+Subject: [b34.10181] Holdem Game Broadcast Message(*)
+
+! Table b34, Hand 14, Day 15
+
+! James Scharf calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   ADB Schmengie            |   48025 |       0 |folded|    |         |
+ 2|   Feedtheherd              |   46725 |       0 |folded|    |         |
+ 3|   Stephen Opal             |   55475 |     150 |folded|    |         |
+ 4|   Mybanjo                  |   44850 |       0 |folded|    |         |
+ 5|D> BamaAlum97               |   50025 |    1150 |      |    |         |
+ 6|   James Scharf             |   47275 |    1150 |      |    |         |
+ 7|V  AlphaBet                 |   50750 |     150 |<AWOL>|    |         |
+ 8|   Steven Bazyl             |   53800 |       0 |folded|    |         |
+ 9|   UConn2004                |   50475 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/24/18 14:30:38! Dealing a new hand
+! 11/24/18 14:30:38! No ante
+! 11/24/18 14:30:38! James Scharf blinds $75
+! 11/24/18 14:30:38! AlphaBet blinds $150
+! 11/24/18 14:30:38! Steven Bazyl is on vacation and folds
+! 11/24/18 18:19:12! UConn2004 folds
+! 11/24/18 18:19:12! ADB Schmengie folds
+! 11/24/18 18:46:59! Feedtheherd folds
+! 11/24/18 20:27:45! Stephen Opal calls 
+! 11/24/18 20:27:45! Mybanjo folds
+! 11/24/18 23:01:16! BamaAlum97 calls 
+! 11/25/18 06:13:12! James Scharf calls 
+! 11/25/18 06:13:12! AlphaBet is on vacation and checks
+
+! 11/25/18 06:13:12! Pot right ($600), flopping/dealing/drawing cards
+! 11/25/18 06:13:12! 4 players
+! 11/25/18 06:13:12! Flopped cards: 9d 3c 5c
+! 11/25/18 06:34:12! James Scharf checks
+! 11/25/18 06:34:12! AlphaBet is on vacation and checks
+! 11/25/18 07:10:08! Stephen Opal checks
+! 11/25/18 08:39:01! BamaAlum97 checks
+
+! 11/25/18 08:39:01! Pot right ($600), flopping/dealing/drawing cards
+! 11/25/18 08:39:01! 4 players
+! 11/25/18 08:39:01! Flopped card: Qh
+! 11/25/18 12:37:41! James Scharf checks
+! 11/25/18 12:37:41! AlphaBet is on vacation and checks
+! 11/25/18 13:23:22! Stephen Opal checks
+! 11/25/18 14:17:01! Steven Bazyl is back from vacation
+! 11/25/18 15:18:18! BamaAlum97 checks
+
+! 11/25/18 15:18:18! Pot right ($600), flopping/dealing/drawing cards
+! 11/25/18 15:18:18! 4 players
+! 11/25/18 15:18:18! Flopped card: As
+! 11/25/18 19:16:38! James Scharf bets $350 
+! 11/25/18 19:16:38! AlphaBet is on vacation and folds
+! 11/25/18 19:16:38! Stephen Opal folds
+! 11/25/18 21:09:51! BamaAlum97 raises $650 to $1000 total 
+! 11/26/18 03:46:43! James Scharf calls 
+! Hand over, current board is:  9d 3c 5c Qh As
+! BamaAlum97               has: Ah 10h
+! James Scharf             has: 10d Ac
+! BamaAlum97 wins $1300 (net $150) with One Pair (A A Q 10 9)
+! James Scharf wins $1300 (net $150) with One Pair (A A Q 10 9)
+! Antes and blinds go up
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   ADB Schmengie            |   48025 |         |      |    |         |
+ 2|   Feedtheherd              |   46725 |         |      |    |         |
+ 3|   Stephen Opal             |   55475 |         |      |    |         |
+ 4|   Mybanjo                  |   44850 |         |      |    |         |
+ 5|>  BamaAlum97               |   51325 |         |      |    |         |
+ 6|D  James Scharf             |   48575 |         |      |    |         |
+ 7|V  AlphaBet                 |   50750 |         |<AWOL>|    |         |
+ 8|   Steven Bazyl             |   53800 |         |      |    |         |
+ 9|   UConn2004                |   50475 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 561 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b34.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

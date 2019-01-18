@@ -1,0 +1,125 @@
+Subject: [b7.10074] Holdem Game Broadcast Message(*)
+
+! Table b7, Hand 6, Day 6
+
+! Glenn All-in raises $2800 to $42575 total and is all in
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   JPP                      |   49850 |       0 |folded|    |         |
+ 2|   threepair                |   48700 |       0 |folded|    |         |
+ 3|   Ryan Thomas              |       0 |   49775 |all-in|  2 |  100125 |
+ 4|>  Glenn All-in             |       0 |   52575 |all-in|  1 |    2800 |
+ 5|   MTpotts                  |   49850 |       0 |folded|    |         |
+ 6|D  TheOldThug               |   50450 |       0 |folded|    |         |
+ 7|   Boiling Frog             |   49175 |      75 |folded|    |         |
+ 8|   FredLS                   |   49050 |     500 |folded|    |         |
+ 9|V  srushe                   |   50000 |       0 | NoSho|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/16/18 11:24:55! Dealing a new hand
+! 11/16/18 11:24:55! No ante
+! 11/16/18 11:24:55! Boiling Frog blinds $75
+! 11/16/18 11:24:55! FredLS blinds $150
+! 11/16/18 11:24:55! srushe is on vacation and folds
+! 11/16/18 11:52:34! JPP folds
+! 11/16/18 12:42:06! threepair folds
+! 11/16/18 12:46:16! Ryan Thomas raises $350 to $500 total 
+! 11/16/18 12:52:38! Glenn All-in calls 
+! 11/16/18 13:54:16! MTpotts folds
+! 11/16/18 17:55:03! TheOldThug folds
+! 11/17/18 10:34:34! Boiling Frog folds
+! 11/17/18 11:10:49! FredLS calls 
+
+! 11/17/18 11:10:49! Pot right ($1575), flopping/dealing/drawing cards
+! 11/17/18 11:10:49! 3 players
+! 11/17/18 11:10:49! Flopped cards: 6c 9d 3d
+! 11/17/18 11:13:27! FredLS checks
+! 11/17/18 11:15:28! Ryan Thomas bets $1250 
+! 11/17/18 12:39:55! Glenn All-in raises $3250 to $4500 total 
+! 11/17/18 12:39:55! FredLS folds
+! 11/17/18 12:43:39! Ryan Thomas calls 
+
+! 11/17/18 12:43:39! Pot right ($10575), flopping/dealing/drawing cards
+! 11/17/18 12:43:39! 2 players
+! 11/17/18 12:43:39! Flopped card: 7s
+! 11/17/18 12:44:17! Ryan Thomas checks
+! 11/17/18 12:52:26! Glenn All-in bets $5000 
+! 11/17/18 12:54:00! Ryan Thomas calls 
+
+! 11/17/18 12:54:00! Pot right ($20575), flopping/dealing/drawing cards
+! 11/17/18 12:54:00! 2 players
+! 11/17/18 12:54:00! Flopped card: 8d
+! 11/17/18 12:54:41! Ryan Thomas checks
+! 11/17/18 18:27:48! Glenn All-in bets $5000 
+! 11/17/18 18:38:35! Ryan Thomas raises $34775 to $39775 total and is all in
+! 11/17/18 18:48:23! Glenn All-in raises $2800 to $42575 total and is all in
+! Hand over, current board is:  6c 9d 3d 7s 8d
+! Ryan Thomas              has: Ad Kd
+! Glenn All-in             has: 10d 10c
+! Pot 1: uncalled $2800 returned to Glenn All-in
+! Pot 2: Ryan Thomas wins $100125 with Diamond Flush (A K 9 8 3)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   JPP                      |   49850 |         |      |    |         |
+ 2|   threepair                |   48700 |         |      |    |         |
+ 3|   Ryan Thomas              |  100125 |         |      |    |         |
+ 4|>  Glenn All-in             |    2800 |         |      |    |         |
+ 5|   MTpotts                  |   49850 |         |      |    |         |
+ 6|   TheOldThug               |   50450 |         |      |    |         |
+ 7|D  Boiling Frog             |   49175 |         |      |    |         |
+ 8|   FredLS                   |   49050 |         |      |    |         |
+ 9|V  srushe                   |   50000 |         | NoSho|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! threepair went on vacation until 18 nov
+! 575 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b7.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

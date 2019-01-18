@@ -1,0 +1,107 @@
+Message-Id: <201011231856.oANIuiT7024240@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [b20.10385] Holdem Game Broadcast Message(*)                          
+
+! Table b20, Hand 33, Day 23
+
+! GZK calls 
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|D  Blacktav                 |  28600 |   1150 |folded|    |        |
+ 2|   jasong            |  35725 |    100 |folded|    |        |
+ 3|>  Andrew Nelson            |  26300 |  10650 |      |    |        |
+ 4|   plankton                 |  79075 |      0 |folded|    |        |
+ 5|   GZK                      |  19125 |  10650 |      |    |        |
+ 6|V  Late Entry 2             |  29250 |      0 | NoSho|    |        |
+ 7|   Greg Folla               |  58500 |      0 |folded|    |        |
+ 8|   JackBlack                |  25300 |      0 |folded|    |        |
+ 9|   wlu_lax6                 |  35450 |      0 |folded|    |        |
+10|   Cyberchomp               |  31575 |      0 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 11/23/10 05:13:52! Dealing a new hand
+! 11/23/10 05:13:52! No ante
+! 11/23/10 05:13:52! jasong blinds $100
+! 11/23/10 05:13:52! Andrew Nelson blinds $200
+! 11/23/10 05:20:53! plankton folds
+! 11/23/10 06:31:12! GZK calls 
+! 11/23/10 06:31:12! Late Entry 2 is on vacation and folds
+! 11/23/10 06:31:12! Greg Folla folds
+! 11/23/10 06:31:12! JackBlack folds
+! 11/23/10 06:31:12! wlu_lax6 folds
+! 11/23/10 09:53:24! Cyberchomp folds
+! 11/23/10 09:53:24! Blacktav raises $300 
+! 11/23/10 09:53:24! jasong folds
+! 11/23/10 10:02:07! Andrew Nelson calls 
+! 11/23/10 10:03:09! GZK calls 
+
+! 11/23/10 10:03:09! Pot right ($1600), flopping/dealing/drawing cards
+! 11/23/10 10:03:09! 3 players
+! 11/23/10 10:03:09! Flopped cards: 3d 8c 9h
+! 11/23/10 10:05:55! Andrew Nelson bets $650 
+! 11/23/10 10:31:37! GZK calls 
+! 11/23/10 10:42:30! Blacktav calls 
+
+! 11/23/10 10:42:30! Pot right ($3550), flopping/dealing/drawing cards
+! 11/23/10 10:42:30! 3 players
+! 11/23/10 10:42:30! Flopped card: 10s
+! 11/23/10 10:47:46! Andrew Nelson bets $2500 
+! 11/23/10 10:50:08! GZK calls 
+! 11/23/10 10:52:04! Blacktav folds
+
+! 11/23/10 10:52:04! Pot right ($8550), flopping/dealing/drawing cards
+! 11/23/10 10:52:04! 2 players
+! 11/23/10 10:52:04! Flopped card: 7s
+! 11/23/10 10:53:53! Andrew Nelson bets $7000 
+! 11/23/10 10:56:44! GZK calls 
+! Hand over, current board is:  3d 8c 9h 10s 7s
+! Andrew Nelson            has: As 2s
+! GZK                      has: 10c 9c
+! GZK wins $22550 (net $11900) with Two Pair (10 10 9 9 8)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Blacktav                 |  28600 |        |      |    |        |
+ 2|D  jasong            |  35725 |        |      |    |        |
+ 3|>  Andrew Nelson            |  26300 |        |      |    |        |
+ 4|   plankton                 |  79075 |        |      |    |        |
+ 5|   GZK                      |  41675 |        |      |    |        |
+ 6|V  Late Entry 2             |  29250 |        | NoSho|    |        |
+ 7|   Greg Folla               |  58500 |        |      |    |        |
+ 8|   JackBlack                |  25300 |        |      |    |        |
+ 9|   wlu_lax6                 |  35450 |        |      |    |        |
+10|   Cyberchomp               |  31575 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 827 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b20.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Good luck.
+
+If you have problems send mail to floorman20@wrgpt.org.
+
+Live Redraw Status as of 11/23/10 10:55:01 AM
+
+Total Empty Seats: 13
+Total Playing Seats: 827
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org or follow "wrgpt" on Twitter.
+

@@ -1,0 +1,119 @@
+Subject: [b15.10435] Holdem Game Broadcast Message(*)
+
+! Table b15, Hand 28, Day 28
+
+! Klod checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  Russ Fox                 |   47625 |       0 |folded|    |         |
+ 2|   zzzrbt                   |   46125 |     300 |folded|    |         |
+ 3|>  Mark Dudley              |  104675 |    1600 |      |    |         |
+ 4|   Brent Moore              |   70800 |       0 |folded|    |         |
+ 5|   Chris Aporta             |   56175 |       0 |folded|    |         |
+ 6|   Oaktowndad               |   88500 |       0 |folded|    |         |
+ 7|   Mike Litoris             |   60900 |       0 |folded|    |         |
+ 8|   Fee Weasel               |   41150 |       0 |folded|    |         |
+ 9|   Klod                     |  102975 |    1600 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/07/18 17:57:16! Dealing a new hand
+! 12/07/18 17:57:16! No ante
+! 12/07/18 17:57:16! zzzrbt blinds $150
+! 12/07/18 17:57:16! Mark Dudley blinds $300
+! 12/07/18 18:31:08! Brent Moore folds
+! 12/07/18 18:34:16! Chris Aporta folds
+! 12/07/18 20:23:16! Oaktowndad folds
+! 12/07/18 23:18:14! Mike Litoris folds
+! 12/07/18 23:18:14! Fee Weasel folds
+! 12/08/18 04:54:09! Klod calls 
+! 12/08/18 11:10:45! Russ Fox folds
+! 12/08/18 12:34:13! zzzrbt calls 
+! 12/08/18 16:20:43! Mark Dudley checks
+
+! 12/08/18 16:20:43! Pot right ($900), flopping/dealing/drawing cards
+! 12/08/18 16:20:43! 3 players
+! 12/08/18 16:20:43! Flopped cards: Kc Ad 2h
+! 12/08/18 17:19:21! zzzrbt checks
+! 12/08/18 17:19:21! Mark Dudley bets $500 
+! 12/08/18 18:03:21! Klod calls 
+! 12/08/18 19:13:56! zzzrbt folds
+
+! 12/08/18 19:13:56! Pot right ($1900), flopping/dealing/drawing cards
+! 12/08/18 19:13:56! 2 players
+! 12/08/18 19:13:56! Flopped card: 9d
+! 12/08/18 19:37:02! Mark Dudley bets $800 
+! 12/08/18 19:39:37! Klod calls 
+
+! 12/08/18 19:39:37! Pot right ($3500), flopping/dealing/drawing cards
+! 12/08/18 19:39:37! 2 players
+! 12/08/18 19:39:37! Flopped card: Ah
+! 12/08/18 19:41:18! Mark Dudley checks
+! 12/09/18 06:41:02! Klod checks
+! Hand over, current board is:  Kc Ad 2h 9d Ah
+! Mark Dudley              has: 5s Ac
+! Klod                     has: Kh 8d
+! Mark Dudley wins $3500 (net $1900) with Three of a Kind (A A A K 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Russ Fox                 |   47625 |         |      |    |         |
+ 2|D  zzzrbt                   |   46125 |         |      |    |         |
+ 3|>  Mark Dudley              |  108175 |         |      |    |         |
+ 4|   Brent Moore              |   70800 |         |      |    |         |
+ 5|   Chris Aporta             |   56175 |         |      |    |         |
+ 6|   Oaktowndad               |   88500 |         |      |    |         |
+ 7|   Mike Litoris             |   60900 |         |      |    |         |
+ 8|   Fee Weasel               |   41150 |         |      |    |         |
+ 9|   Klod                     |  102975 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 511 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b15.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 2
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

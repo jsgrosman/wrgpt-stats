@@ -1,0 +1,95 @@
+
+! Table i2, Hand 406, Day 180
+
+! Lets Go Red Sox folds
+! jasong folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Quiet Lion               |  960200 |    3000 |folded|    |         |
+ 2|   Stephen Mack             | 2402250 |    3000 |folded|    |         |
+ 3|   Doctor Worm              | 3409275 |    3000 |folded|    |         |
+ 4|D> Bwana                    | 1700375 |  128000 |      |    |         |
+ 5|   Lets Go Red Sox          | 2637275 |   28000 |folded|    |         |
+ 6|   jasong            | 4464350 |   53000 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 04/20/18 16:57:37! Dealing a new hand
+! 04/20/18 16:57:37! Everyone antes $3000
+! 04/20/18 16:57:37! Lets Go Red Sox blinds $25000
+! 04/20/18 16:57:37! jasong blinds $50000
+! 04/20/18 16:58:08! Quiet Lion folds
+! 04/20/18 17:03:24! Stephen Mack folds
+! 04/20/18 17:03:24! Doctor Worm folds
+! 04/20/18 17:48:38! Bwana raises $75000 to $125000 total 
+! 04/20/18 17:50:34! Lets Go Red Sox folds
+! 04/20/18 17:50:34! jasong folds
+! Hand over, no showdown
+! Current board is:  ? ? ? ? ?
+! Bwana wins $218000 (net $90000)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Quiet Lion               |  960200 |         |      |    |         |
+ 2|   Stephen Mack             | 2402250 |         |      |    |         |
+ 3|   Doctor Worm              | 3409275 |         |      |    |         |
+ 4|>  Bwana                    | 1918375 |         |      |    |         |
+ 5|D  Lets Go Red Sox          | 2637275 |         |      |    |         |
+ 6|   jasong            | 4464350 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 12 players left in the tournament, 2 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/i/i2.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+However, if there were prizes they would pay the top 63 entrants.
+The standings are now showing theoretical prizes if WRGPT were a
+10k event.
+
+======
+
+Live Redraw Status as of 04/20/18 05:25:01 PM
+
+Total Empty Seats: 0
+Total Playing Seats: 12
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman27@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

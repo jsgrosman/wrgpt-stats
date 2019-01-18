@@ -1,0 +1,91 @@
+Message-Id: <200912300613.nBU6DMuO025869@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [b50.10311] Holdem Game Broadcast Message(*)                          
+
+! Table b50, Hand 30, Day 44
+
+! Mar Anderson folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Mar Anderson             |  30650 |   1250 |folded|    |        |
+ 2|   Argus                    |  26800 |    450 |folded|    |        |
+ 3|   Jack Walsh               |  27850 |     50 |folded|    |        |
+ 4|   GP                       |  24800 |     50 |folded|    |        |
+ 5|V  Annika                   |  26250 |     50 |<AWOL>|    |        |
+ 6|   Kold Call                |  36750 |     50 |folded|    |        |
+ 7|   Super Rock               |  28900 |     50 |folded|    |        |
+ 8|V  Brett Holz               |  30950 |     50 |<AWOL>|    |        |
+ 9|>  Woody Myers              |  30550 |   2250 |      |    |        |
+10|D  jasong            |  32200 |     50 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 12/29/09 09:54:55! Dealing a new hand
+! 12/29/09 09:54:55! Everyone antes $50
+! 12/29/09 09:54:55! Mar Anderson blinds $200
+! 12/29/09 09:54:55! Argus blinds $400
+! 12/29/09 10:23:40! Mar Anderson is back from vacation
+! 12/29/09 10:28:35! Jack Walsh folds
+! 12/29/09 10:28:35! GP folds
+! 12/29/09 10:28:35! Annika is on vacation and folds
+! 12/29/09 10:28:35! Kold Call folds
+! 12/29/09 12:49:49! Super Rock folds
+! 12/29/09 12:49:49! Brett Holz is on vacation and folds
+! 12/29/09 12:59:00! Woody Myers raises $800 
+! 12/29/09 12:59:00! jasong folds
+! 12/29/09 13:01:53! Mar Anderson calls 
+! 12/29/09 13:01:53! Argus folds
+
+! 12/29/09 13:01:53! Pot right ($3300), flopping/dealing/drawing cards
+! 12/29/09 13:01:53! 2 players
+! 12/29/09 13:01:53! Flopped cards: 3c 2c Jc
+! 12/29/09 13:04:12! Mar Anderson checks
+! 12/29/09 13:52:10! Woody Myers bets $1000 
+! 12/29/09 22:13:21! Mar Anderson folds
+! Hand over, no showdown
+! Current board is:  3c 2c Jc ? ?
+! Woody Myers wins $4300 (net $2050)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|D  Mar Anderson             |  30650 |        |      |    |        |
+ 2|   Argus                    |  26800 |        |      |    |        |
+ 3|   Jack Walsh               |  27850 |        |      |    |        |
+ 4|   GP                       |  24800 |        |      |    |        |
+ 5|V  Annika                   |  26250 |        |<AWOL>|    |        |
+ 6|   Kold Call                |  36750 |        |      |    |        |
+ 7|   Super Rock               |  28900 |        |      |    |        |
+ 8|V  Brett Holz               |  30950 |        |<AWOL>|    |        |
+ 9|>  Woody Myers              |  34850 |        |      |    |        |
+10|   jasong            |  32200 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 838 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b50.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Reminder: December 24 through January 3 are WRGPT19 Holidays.
+
+Live Redraw Status as of 12/29/09 09:55:01 PM
+
+Total Empty Seats: 52
+Total Playing Seats: 838
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org or follow "wrgpt" on Twitter.
+

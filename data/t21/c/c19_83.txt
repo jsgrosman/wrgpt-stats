@@ -1,0 +1,114 @@
+Message-Id: <201201310343.q0V3hvWU026050@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [c19.10128] Holdem Game Broadcast Message(*)                          
+
+! Table c19, Hand 83, Day 78
+
+! Anshu folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   mash001                  |      0 |  15900 |all-in|  2 |  22600 |
+ 2|D  TacoChuck                |  89325 |    900 |folded|    |        |
+ 3|>  Anshu                    |  69850 |   4600 |folded|    |        |
+ 4|   Jenner N. Broody         |      0 |   4600 |all-in|  3 |  19800 |
+ 5|   Linzk425                 |  27850 |    100 |folded|    |        |
+ 6|   swamper wlu_lax6         | 170750 |    100 |folded|    |        |
+ 7|   PrestoET                 |  35950 |    100 |folded|    |        |
+ 8|   Paul McMullin            |  46750 |    100 |folded|    |        |
+ 9|   lameO                    |      0 |  28550 |all-in|  1 |  12650 |
+10|   jasong            |  13250 |    100 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 01/29/12 13:41:51! Dealing a new hand
+! 01/29/12 13:41:51! Everyone antes $100
+! 01/29/12 13:41:51! Anshu blinds $400
+! 01/29/12 13:41:51! Jenner N. Broody blinds $800
+! 01/30/12 00:22:46! Linzk425 folds
+! 01/30/12 00:22:46! swamper wlu_lax6 folds
+! 01/30/12 00:22:46! PrestoET folds
+! 01/30/12 00:22:46! Paul McMullin folds
+! 01/30/12 07:39:06! lameO calls 
+! 01/30/12 07:39:06! jasong folds
+! 01/30/12 07:57:20! mash001 calls 
+! 01/30/12 08:47:49! TacoChuck calls 
+! 01/30/12 08:47:49! Anshu calls 
+! 01/30/12 08:47:49! Jenner N. Broody raises $3700 and is all in
+! 01/30/12 10:01:17! lameO calls 
+! 01/30/12 10:41:37! mash001 calls 
+! 01/30/12 10:41:37! TacoChuck folds
+! 01/30/12 15:00:23! Anshu calls 
+
+! 01/30/12 15:00:23! Pot right ($19800), flopping/dealing/drawing cards
+! 01/30/12 15:00:23! 4 players, 1 all in
+! 01/30/12 15:00:23! Flopped cards: 6d 3d Kc
+! 01/30/12 15:06:50! Anshu checks
+! 01/30/12 16:38:24! lameO checks
+! 01/30/12 16:38:24! mash001 checks
+
+! 01/30/12 16:38:24! Pot right ($19800), flopping/dealing/drawing cards
+! 01/30/12 16:38:24! 4 players, 1 all in
+! 01/30/12 16:38:24! Flopped card: 3c
+! 01/30/12 17:01:11! Anshu checks
+! 01/30/12 17:06:29! lameO checks
+! 01/30/12 18:50:27! mash001 checks
+
+! 01/30/12 18:50:27! Pot right ($19800), flopping/dealing/drawing cards
+! 01/30/12 18:50:27! 4 players, 1 all in
+! 01/30/12 18:50:27! Flopped card: Ah
+! 01/30/12 19:17:52! Anshu checks
+! 01/30/12 19:28:15! lameO bets $23950 and is all in
+! 01/30/12 19:34:34! mash001 calls - side pot
+! 01/30/12 19:42:17! Anshu folds
+! Hand over, current board is:  6d 3d Kc 3c Ah
+! mash001                  has: As 10c
+! Jenner N. Broody         has: 8s 8h
+! lameO                    has: 5h 3h
+! Pot 1: uncalled $12650 returned to lameO
+! Pot 2: lameO wins $22600 with Three of a Kind (3 3 3 A K)
+! Pot 3: lameO wins $19800 with Three of a Kind (3 3 3 A K)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 2|   TacoChuck                |  89325 |        |      |    |        |
+ 3|D> Anshu                    |  69850 |        |      |    |        |
+ 5|   Linzk425                 |  27850 |        |      |    |        |
+ 6|   swamper wlu_lax6         | 170750 |        |      |    |        |
+ 7|   PrestoET                 |  35950 |        |      |    |        |
+ 8|   Paul McMullin            |  46750 |        |      |    |        |
+ 9|   lameO                    |  55050 |        |      |    |        |
+10|   jasong            |  13250 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! mash001 is eliminated!
+! Jenner N. Broody is eliminated!
+! 480 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c19.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Having problems? Send email to floorman21@wrgpt.org.
+
+Live Redraw Status as of 01/30/12 07:25:01 PM
+
+Total Empty Seats: 18
+Total Playing Seats: 482
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+

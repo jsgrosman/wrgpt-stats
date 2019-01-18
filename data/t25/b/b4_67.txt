@@ -1,0 +1,123 @@
+
+! Table b4, Hand 67, Day 51
+
+! Ryan Thomas calls - side pot
+! Pot right ($111700), flopping/dealing/drawing cards
+! 3 players, 3 all in
+! Flopped card: 7c
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   jasong            |      0 |  72475 |all-in|  1 |  37875 |
+ 2|   rtroll                   |  39200 |     50 |folded|    |        |
+ 3|   Rambo                    |  16100 |     50 |folded|    |        |
+ 4|>  Ryan Thomas              |      0 |  34600 |all-in|  2 |  73600 |
+ 6|   Deborah Abel             |   6750 |     50 |folded|    |        |
+ 7|   Nick Varacalli           |  23000 |     50 |folded|    |        |
+ 8|DV benmax                   |      0 |     25 |RESIGN|  9 |    225 |
+ 9|   Sir Barlow               | 165650 |   3950 |folded|    |        |
+10|   Dalai Pookah             |  65550 |    450 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 12/14/15 16:29:24! Dealing a new hand
+! 12/14/15 16:29:24! benmax antes $25 and is all in
+! 12/14/15 16:29:24! Everyone else antes $50
+! 12/14/15 16:29:24! Sir Barlow blinds $200
+! 12/14/15 16:29:24! Dalai Pookah blinds $400
+! 12/14/15 16:37:52! jasong raises $1000 
+! 12/14/15 17:45:55! rtroll folds
+! 12/14/15 18:42:33! Rambo folds
+! 12/14/15 18:50:19! Ryan Thomas calls 
+! 12/14/15 18:50:19! Deborah Abel folds
+! 12/14/15 18:50:19! Nick Varacalli folds
+! 12/14/15 19:12:36! Sir Barlow calls 
+! 12/14/15 20:54:56! Dalai Pookah folds
+
+! 12/14/15 20:54:56! Pot right ($5025), flopping/dealing/drawing cards
+! 12/14/15 20:54:56! 4 players, 1 all in
+! 12/14/15 20:54:56! Flopped cards: 4d 6d Jc
+! 12/14/15 21:00:24! Sir Barlow bets $2500 
+! 12/14/15 21:08:32! jasong raises $10025 
+! 12/14/15 21:15:26! Ryan Thomas calls 
+! 12/15/15 06:23:59! Sir Barlow folds
+
+! 12/15/15 06:23:59! Pot right ($32575), flopping/dealing/drawing cards
+! 12/15/15 06:23:59! 3 players, 1 all in
+! 12/15/15 06:23:59! Flopped card: Ad
+! 12/15/15 06:39:44! jasong checks
+! 12/15/15 06:49:22! Ryan Thomas bets $10000 
+! 12/15/15 07:04:32! jasong raises $48500 and is all in
+! 12/15/15 07:06:43! Ryan Thomas calls - side pot
+
+! 12/15/15 07:06:43! Pot right ($111700), flopping/dealing/drawing cards
+! 12/15/15 07:06:43! 3 players, 3 all in
+! 12/15/15 07:06:43! Flopped card: 7c
+! Hand over, current board is:  4d 6d Jc Ad 7c
+! jasong            has: Kd Kc
+! Ryan Thomas              has: As Jh
+! Pot 1: uncalled $37875 returned to jasong
+! Pot 2: Ryan Thomas wins $73600 with Two Pair (A A J J 7)
+! Pot 9: Ryan Thomas wins $225 with Two Pair (A A J J 7)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   jasong            |  37875 |        |      |    |        |
+ 2|   rtroll                   |  39200 |        |      |    |        |
+ 3|   Rambo                    |  16100 |        |      |    |        |
+ 4|>  Ryan Thomas              |  73825 |        |      |    |        |
+ 6|   Deborah Abel             |   6750 |        |      |    |        |
+ 7|   Nick Varacalli           |  23000 |        |      |    |        |
+ 9|D  Sir Barlow               | 165650 |        |      |    |        |
+10|   Dalai Pookah             |  65550 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! benmax is eliminated!
+! 507 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b4.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+There will be no more live redraws for round "b".
+
+======
+
+Live Redraw Status as of 12/15/15 06:55:03 AM
+
+Total Empty Seats: 32
+Total Playing Seats: 508
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman25@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

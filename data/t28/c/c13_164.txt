@@ -1,0 +1,111 @@
+Subject: [c13.10167] Holdem Game Broadcast Message(*)
+
+! Table c13, Hand 164, Day 64
+
+! Charlie Tuna folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  AveCat                   |  116950 |   18000 |      |    |         |
+ 2|   Charlie Tuna             |   14700 |    3000 |folded|    |         |
+ 3|   David Weiss              |  121475 |     100 |folded|    |         |
+ 4|V  UberHank                 |   39025 |     100 |<AWOL>|    |         |
+ 5|   Larry W                  |   40025 |     100 |folded|    |         |
+ 6|   TheTwizz                 |    9000 |     100 |folded|    |         |
+ 7|   Spidurman                |  126300 |     100 |folded|    |         |
+ 8|D  Deets                    |   53550 |     100 |folded|    |         |
+ 9|   bert_ofcl                |   29025 |     350 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/14/19 09:11:21! Dealing a new hand
+! 01/14/19 09:11:21! Everyone antes $100
+! 01/14/19 09:11:21! bert_ofcl blinds $250
+! 01/14/19 09:11:21! AveCat blinds $500
+! 01/14/19 13:20:42! Charlie Tuna raises $1000 to $1500 total 
+! 01/14/19 13:20:42! David Weiss folds
+! 01/14/19 13:20:42! UberHank is on vacation and folds
+! 01/14/19 13:20:42! Larry W folds
+! 01/14/19 13:20:42! TheTwizz folds
+! 01/14/19 13:20:42! Spidurman folds
+! 01/14/19 13:20:42! Deets folds
+! 01/14/19 13:20:42! bert_ofcl folds
+! 01/14/19 13:31:34! AveCat calls 
+
+! 01/14/19 13:31:34! Pot right ($4150), flopping/dealing/drawing cards
+! 01/14/19 13:31:34! 2 players
+! 01/14/19 13:31:34! Flopped cards: 9d Jh 5c
+! 01/14/19 14:36:09! AveCat checks
+! 01/14/19 14:41:51! Charlie Tuna bets $1400 
+! 01/14/19 15:11:21! AveCat calls 
+
+! 01/14/19 15:11:21! Pot right ($6950), flopping/dealing/drawing cards
+! 01/14/19 15:11:21! 2 players
+! 01/14/19 15:11:21! Flopped card: 6d
+! 01/14/19 15:11:46! AveCat checks
+! 01/14/19 15:24:55! Charlie Tuna checks
+
+! 01/14/19 15:24:55! Pot right ($6950), flopping/dealing/drawing cards
+! 01/14/19 15:24:55! 2 players
+! 01/14/19 15:24:55! Flopped card: Kc
+! 01/14/19 15:25:32! AveCat bets $15000 
+! 01/14/19 15:26:35! Charlie Tuna folds
+! Hand over, no showdown
+! Current board is:  9d Jh 5c 6d Kc
+! AveCat wins $21950 (net $3950)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  AveCat                   |  138900 |         |      |    |         |
+ 2|   Charlie Tuna             |   14700 |         |      |    |         |
+ 3|   David Weiss              |  121475 |         |      |    |         |
+ 4|V  UberHank                 |   39025 |         |<AWOL>|    |         |
+ 5|   Larry W                  |   40025 |         |      |    |         |
+ 6|   TheTwizz                 |    9000 |         |      |    |         |
+ 7|   Spidurman                |  126300 |         |      |    |         |
+ 8|   Deets                    |   53550 |         |      |    |         |
+ 9|D  bert_ofcl                |   29025 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 372 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c13.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+The "c" round has started.  Good luck to all
+the remaining players.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,117 @@
+Subject: [b1.10438] Holdem Game Broadcast Message(*)
+
+! Table b1, Hand 46, Day 22
+
+! Nick Name checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  Nick Name                |   45525 |    4700 |      |    |         |
+ 2|   EricL                    |   52700 |     150 |folded|    |         |
+ 3|   Thomas Gabrysch          |   46950 |     300 |folded|    |         |
+ 4|   Bacon                    |   43550 |       0 |folded|    |         |
+ 6|   mulligan                 |  103550 |       0 |folded|    |         |
+ 7|   stannius                 |   46625 |       0 |folded|    |         |
+ 8|   Kevin Mackey             |   51475 |     675 |folded|    |         |
+ 9|>  Endrju                   |   49100 |    4700 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/03/18 06:48:55! Dealing a new hand
+! 12/03/18 06:48:55! No ante
+! 12/03/18 06:48:55! EricL blinds $150
+! 12/03/18 06:48:55! Thomas Gabrysch blinds $300
+! 12/03/18 07:01:19! Bacon folds
+! 12/03/18 07:22:05! mulligan folds
+! 12/03/18 07:22:05! stannius folds
+! 12/03/18 09:22:15! Kevin Mackey raises $375 to $675 total 
+! 12/03/18 09:24:13! Endrju raises $1200 to $1875 total 
+! 12/03/18 09:49:58! Nick Name raises $1325 to $3200 total 
+! 12/03/18 09:50:49! EricL folds
+! 12/03/18 10:05:22! Thomas Gabrysch folds
+! 12/03/18 10:27:01! Kevin Mackey folds
+! 12/03/18 10:28:17! Endrju calls 
+
+! 12/03/18 10:28:17! Pot right ($7525), flopping/dealing/drawing cards
+! 12/03/18 10:28:17! 2 players
+! 12/03/18 10:28:17! Flopped cards: 3d Qc 2h
+! 12/03/18 10:28:52! Endrju checks
+! 12/03/18 11:26:25! Nick Name bets $1500 
+! 12/03/18 11:52:19! Endrju calls 
+
+! 12/03/18 11:52:19! Pot right ($10525), flopping/dealing/drawing cards
+! 12/03/18 11:52:19! 2 players
+! 12/03/18 11:52:19! Flopped card: Ks
+! 12/03/18 11:53:06! Endrju checks
+! 12/03/18 12:26:11! Nick Name checks
+
+! 12/03/18 12:26:11! Pot right ($10525), flopping/dealing/drawing cards
+! 12/03/18 12:26:11! 2 players
+! 12/03/18 12:26:11! Flopped card: 7h
+! 12/03/18 12:27:06! Endrju checks
+! 12/03/18 12:34:17! Nick Name checks
+! Hand over, current board is:  3d Qc 2h Ks 7h
+! Nick Name                has: Js Jc
+! Endrju                   has: 8s 8h
+! Nick Name wins $10525 (net $5825) with One Pair (J J K Q 7)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Nick Name                |   56050 |         |      |    |         |
+ 2|D  EricL                    |   52700 |         |      |    |         |
+ 3|   Thomas Gabrysch          |   46950 |         |      |    |         |
+ 4|   Bacon                    |   43550 |         |      |    |         |
+ 6|   mulligan                 |  103550 |         |      |    |         |
+ 7|   stannius                 |   46625 |         |      |    |         |
+ 8|   Kevin Mackey             |   51475 |         |      |    |         |
+ 9|>  Endrju                   |   49100 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 527 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b1.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 4
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

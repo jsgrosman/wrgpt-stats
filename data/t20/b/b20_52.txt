@@ -1,0 +1,93 @@
+Message-Id: <201012151740.oBFHelos032623@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [b20.10605] Holdem Game Broadcast Message(*)                          
+
+! Table b20, Hand 52, Day 45
+
+! plankton folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Ross Porter              |  21600 |     50 |folded|    |        |
+ 2|   Cyberchomp               |  31625 |     50 |folded|    |        |
+ 3|   Swamp Duff               |  45850 |    450 |folded|    |        |
+ 4|>  Blacktav                 |  48250 |   2100 |      |    |        |
+ 5|D  jasong            |  73650 |     50 |folded|    |        |
+ 6|   Andrew Nelson            |  23100 |    250 |folded|    |        |
+ 7|   plankton                 |  70975 |    900 |folded|    |        |
+ 9|   Greg Folla               |  53250 |     50 |folded|    |        |
+10|   JackBlack                |  52650 |     50 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 12/14/10 04:22:51! Dealing a new hand
+! 12/14/10 04:22:51! Everyone antes $50
+! 12/14/10 04:22:51! Andrew Nelson blinds $200
+! 12/14/10 04:22:51! plankton blinds $400
+! 12/14/10 04:38:42! Greg Folla folds
+! 12/14/10 04:38:42! JackBlack folds
+! 12/14/10 09:10:04! Ross Porter folds
+! 12/14/10 12:02:48! Cyberchomp folds
+! 12/14/10 12:09:22! Swamp Duff calls 
+! 12/14/10 12:18:30! Blacktav raises $450 
+! 12/14/10 12:18:30! jasong folds
+! 12/14/10 15:45:17! Andrew Nelson folds
+! 12/15/10 09:28:47! plankton calls 
+! 12/15/10 09:29:26! Swamp Duff folds
+
+! 12/15/10 09:29:26! Pot right ($2750), flopping/dealing/drawing cards
+! 12/15/10 09:29:26! 2 players
+! 12/15/10 09:29:26! Flopped cards: 3h 9c 8d
+! 12/15/10 09:30:36! plankton checks
+! 12/15/10 09:38:55! Blacktav bets $1200 
+! 12/15/10 09:40:46! plankton folds
+! Hand over, no showdown
+! Current board is:  3h 9c 8d ? ?
+! Blacktav wins $3950 (net $1850)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Ross Porter              |  21600 |        |      |    |        |
+ 2|   Cyberchomp               |  31625 |        |      |    |        |
+ 3|   Swamp Duff               |  45850 |        |      |    |        |
+ 4|>  Blacktav                 |  52200 |        |      |    |        |
+ 5|   jasong            |  73650 |        |      |    |        |
+ 6|D  Andrew Nelson            |  23100 |        |      |    |        |
+ 7|   plankton                 |  70975 |        |      |    |        |
+ 9|   Greg Folla               |  53250 |        |      |    |        |
+10|   JackBlack                |  52650 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 687 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b20.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Players who have not shown up to WRGPT20 yet are being removed.
+
+If you are absent for 45 days without letting the floorman know
+you will also be removed.
+
+If you have any problems send mail to floorman20@wrgpt.org.
+
+Live Redraw Status as of 12/15/10 09:25:01 AM
+
+Total Empty Seats: 33
+Total Playing Seats: 687
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org or follow "wrgpt" on Twitter.
+

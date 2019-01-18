@@ -1,0 +1,107 @@
+Subject: [b38.10148] Holdem Game Broadcast Message(*)
+
+! Table b38, Hand 11, Day 12
+
+! T4 folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   SCM                      |   59800 |       0 |folded|    |         |
+ 2|D  SunnyGirl                |   48950 |       0 |folded|    |         |
+ 3|   JoseRijo                 |   46325 |      75 |folded|    |         |
+ 4|   underdog                 |   52025 |     150 |folded|    |         |
+ 5|>  JK                       |   42075 |    2050 |      |    |         |
+ 6|   Krushinski               |   48800 |       0 |folded|    |         |
+ 7|   Jeff Palmucci            |   49450 |       0 |folded|    |         |
+ 8|   Crunch                   |   52775 |       0 |folded|    |         |
+ 9|   T4                       |   46475 |    1050 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/22/18 19:40:55! Dealing a new hand
+! 11/22/18 19:40:55! No ante
+! 11/22/18 19:40:55! JoseRijo blinds $75
+! 11/22/18 19:40:55! underdog blinds $150
+! 11/22/18 20:33:56! JK calls 
+! 11/22/18 20:44:50! Krushinski folds
+! 11/23/18 04:01:02! Jeff Palmucci folds
+! 11/23/18 04:01:02! Crunch folds
+! 11/23/18 06:04:15! T4 raises $250 to $400 total 
+! 11/23/18 06:04:15! SCM folds
+! 11/23/18 07:06:48! SunnyGirl folds
+! 11/23/18 07:18:21! JoseRijo folds
+! 11/23/18 07:18:21! underdog folds
+! 11/23/18 07:26:48! JK calls 
+
+! 11/23/18 07:26:48! Pot right ($1025), flopping/dealing/drawing cards
+! 11/23/18 07:26:48! 2 players
+! 11/23/18 07:26:48! Flopped cards: 9d 9s 8c
+! 11/23/18 07:31:50! JK checks
+! 11/23/18 07:39:50! T4 bets $650 
+! 11/23/18 08:44:06! JK raises $1000 to $1650 total 
+! 11/23/18 08:47:47! T4 folds
+! Hand over, no showdown
+! Current board is:  9d 9s 8c ? ?
+! JK wins $3325 (net $1275)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   SCM                      |   59800 |         |      |    |         |
+ 2|   SunnyGirl                |   48950 |         |      |    |         |
+ 3|D  JoseRijo                 |   46325 |         |      |    |         |
+ 4|   underdog                 |   52025 |         |      |    |         |
+ 5|>  JK                       |   45400 |         |      |    |         |
+ 6|   Krushinski               |   48800 |         |      |    |         |
+ 7|   Jeff Palmucci            |   49450 |         |      |    |         |
+ 8|   Crunch                   |   52775 |         |      |    |         |
+ 9|   T4                       |   46475 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 567 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b38.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 11
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

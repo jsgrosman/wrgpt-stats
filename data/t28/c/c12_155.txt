@@ -1,0 +1,114 @@
+Subject: [c12.10100] Holdem Game Broadcast Message(*)
+
+! Table c12, Hand 155, Day 60
+
+! Statistical Tie calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|V  DangerDan                |    4875 |     600 |<AWOL>|    |         |
+ 2|   Don Overton              |  164475 |     100 |folded|    |         |
+ 3|   Kyle Stein               |   19925 |     600 |folded|    |         |
+ 4|   Deryl Garland            |  159100 |     100 |folded|    |         |
+ 5|   JPP                      |   61400 |     100 |folded|    |         |
+ 6|   Statistical Tie          |   89525 |   13350 |      |    |         |
+ 7|   Mike DellaBarca          |   42075 |     100 |folded|    |         |
+ 8|D> Chevy                    |   78525 |   13350 |      |    |         |
+ 9|   JoseRijo                 |   37425 |     350 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/10/19 08:56:00! Dealing a new hand
+! 01/10/19 08:56:00! Everyone antes $100
+! 01/10/19 08:56:00! JoseRijo blinds $250
+! 01/10/19 08:56:00! DangerDan blinds $500
+! 01/10/19 08:58:00! Don Overton folds
+! 01/10/19 08:59:12! Kyle Stein calls 
+! 01/10/19 09:33:38! Deryl Garland folds
+! 01/10/19 09:52:33! JPP folds
+! 01/10/19 09:56:06! Statistical Tie raises $2250 to $2750 total 
+! 01/10/19 09:56:06! Mike DellaBarca folds
+! 01/10/19 10:07:08! Chevy calls 
+! 01/10/19 10:10:35! JoseRijo folds
+! 01/10/19 10:10:35! DangerDan is on vacation and folds
+! 01/10/19 10:16:14! Kyle Stein folds
+
+! 01/10/19 10:16:14! Pot right ($7650), flopping/dealing/drawing cards
+! 01/10/19 10:16:14! 2 players
+! 01/10/19 10:16:14! Flopped cards: 7d As 10d
+! 01/10/19 10:26:49! Statistical Tie bets $4500 
+! 01/10/19 10:30:15! Chevy calls 
+
+! 01/10/19 10:30:15! Pot right ($16650), flopping/dealing/drawing cards
+! 01/10/19 10:30:15! 2 players
+! 01/10/19 10:30:15! Flopped card: 2d
+! 01/10/19 10:32:49! Statistical Tie checks
+! 01/10/19 10:35:54! Chevy bets $3000 
+! 01/10/19 10:44:57! Statistical Tie calls 
+
+! 01/10/19 10:44:57! Pot right ($22650), flopping/dealing/drawing cards
+! 01/10/19 10:44:57! 2 players
+! 01/10/19 10:44:57! Flopped card: 4h
+! 01/10/19 10:46:05! Statistical Tie checks
+! 01/10/19 10:48:23! Chevy bets $3000 
+! 01/10/19 10:51:31! Statistical Tie calls 
+! Hand over, current board is:  7d As 10d 2d 4h
+! Statistical Tie          has: 5s 5h
+! Chevy                    has: Qs Kh
+! Statistical Tie wins $28650 (net $15300) with One Pair (5 5 A 10 7)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|V  DangerDan                |    4875 |         |<AWOL>|    |         |
+ 2|   Don Overton              |  164475 |         |      |    |         |
+ 3|   Kyle Stein               |   19925 |         |      |    |         |
+ 4|   Deryl Garland            |  159100 |         |      |    |         |
+ 5|   JPP                      |   61400 |         |      |    |         |
+ 6|   Statistical Tie          |  118175 |         |      |    |         |
+ 7|   Mike DellaBarca          |   42075 |         |      |    |         |
+ 8|>  Chevy                    |   78525 |         |      |    |         |
+ 9|D  JoseRijo                 |   37425 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 390 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c12.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+The "c" round has started.  Good luck to all
+the remaining players.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 11
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

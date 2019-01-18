@@ -1,0 +1,133 @@
+Subject: [b55.10045] Holdem Game Broadcast Message(*)
+
+% I can't beat a 7. Is top 2 any good?
+! -- ADB DaVoice --
+_____________________________________________________________________________
+
+! Table b55, Hand 3, Day 5
+
+! ADB DaVoice checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   BillDaBear               |   50000 |       0 |folded|    |         |
+ 2|   C666                     |   51075 |       0 |folded|    |         |
+ 3|D  ADB DaVoice              |   34625 |   14225 |      |    |         |
+ 4|   ChipRider                |   49325 |      75 |folded|    |         |
+ 5|V  Scipio                   |   49850 |     150 | NoSho|    |         |
+ 6|   tekbot                   |   50000 |       0 |folded|    |         |
+ 7|   Dr. Evil                 |   50000 |       0 |folded|    |         |
+ 8|   LenFuego                 |   48375 |    1625 |folded|    |         |
+ 9|>  Tom Abraham              |   36450 |   14225 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/15/18 16:40:34! Dealing a new hand
+! 11/15/18 16:40:34! No ante
+! 11/15/18 16:40:34! ChipRider blinds $75
+! 11/15/18 16:40:34! Scipio blinds $150
+! 11/15/18 16:46:29! tekbot folds
+! 11/15/18 20:32:13! Dr. Evil folds
+! 11/16/18 01:36:57! LenFuego raises $200 to $350 total 
+! 11/16/18 03:07:13! Tom Abraham calls 
+! 11/16/18 03:07:13! BillDaBear folds
+! 11/16/18 05:35:00! C666 folds
+! 11/16/18 05:35:00! ADB DaVoice raises $1275 to $1625 total 
+! 11/16/18 08:50:52! ChipRider folds
+! 11/16/18 08:50:52! Scipio is on vacation and folds
+! 11/16/18 10:31:41! LenFuego calls 
+! 11/16/18 11:30:59! Tom Abraham calls 
+
+! 11/16/18 11:30:59! Pot right ($5100), flopping/dealing/drawing cards
+! 11/16/18 11:30:59! 3 players
+! 11/16/18 11:30:59! Flopped cards: 7h 7c 6h
+! 11/16/18 11:45:31! LenFuego checks
+! 11/16/18 14:16:41! Tom Abraham checks
+! 11/16/18 14:16:41! ADB DaVoice bets $2500 
+! 11/16/18 15:41:19! LenFuego folds
+! 11/16/18 15:41:19! Tom Abraham calls 
+
+! 11/16/18 15:41:19! Pot right ($10100), flopping/dealing/drawing cards
+! 11/16/18 15:41:19! 2 players
+! 11/16/18 15:41:19! Flopped card: Jh
+! 11/16/18 17:14:29! Tom Abraham checks
+! 11/16/18 17:14:29! ADB DaVoice bets $10100 
+! 11/16/18 17:15:09! Tom Abraham calls 
+
+! 11/16/18 17:15:09! Pot right ($30300), flopping/dealing/drawing cards
+! 11/16/18 17:15:09! 2 players
+! 11/16/18 17:15:09! Flopped card: As
+! 11/16/18 17:15:49! Tom Abraham checks
+_____________________________________________________________________________
+
+! I can't beat a 7. Is top 2 any good?
+! -- ADB DaVoice --
+_____________________________________________________________________________
+
+! 11/16/18 17:18:25! ADB DaVoice checks
+! Hand over, current board is:  7h 7c 6h Jh As
+! ADB DaVoice              has: Js Ah
+! Tom Abraham              has: 8h 7d
+! Tom Abraham wins $30300 (net $16075) with Three of a Kind (7 7 7 A J)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   BillDaBear               |   50000 |         |      |    |         |
+ 2|   C666                     |   51075 |         |      |    |         |
+ 3|   ADB DaVoice              |   34625 |         |      |    |         |
+ 4|D  ChipRider                |   49325 |         |      |    |         |
+ 5|V  Scipio                   |   49850 |         | NoSho|    |         |
+ 6|   tekbot                   |   50000 |         |      |    |         |
+ 7|   Dr. Evil                 |   50000 |         |      |    |         |
+ 8|   LenFuego                 |   48375 |         |      |    |         |
+ 9|>  Tom Abraham              |   66750 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 577 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b55.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 7
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

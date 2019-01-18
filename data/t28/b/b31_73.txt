@@ -1,0 +1,112 @@
+Subject: [b31.11103] Holdem Game Broadcast Message(*)
+
+! Table b31, Hand 73, Day 52
+
+! Kyle Stein calls 
+! Pot right ($123500), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: Kh
+! Flopped card: Qc
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|   A. Donk                  |   21550 |      50 |folded|    |         |
+ 3|   eliuk35                  |       0 |   61100 |all-in|    |         |
+ 4|   GunsNRoses               |  109325 |      50 |folded|    |         |
+ 5|D  Pete McEvoy              |   42400 |      50 |folded|    |         |
+ 6|   SCSI                     |   68275 |     250 |folded|    |         |
+ 7|   Poker Coach              |  161600 |     450 |folded|    |         |
+ 8|   Loudlion                 |  142275 |     450 |folded|    |         |
+ 9|>  Kyle Stein               |   46900 |   61100 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/01/19 13:38:41! Dealing a new hand
+! 01/01/19 13:38:41! Everyone antes $50
+! 01/01/19 13:38:41! SCSI blinds $200
+! 01/01/19 13:38:41! Poker Coach blinds $400
+! 01/01/19 14:51:11! Loudlion calls 
+! 01/01/19 14:52:28! Kyle Stein raises $1000 to $1400 total 
+! 01/01/19 15:14:12! A. Donk folds
+! 01/01/19 18:20:25! eliuk35 raises $2200 to $3600 total 
+! 01/01/19 18:20:25! GunsNRoses folds
+! 01/02/19 00:07:44! Pete McEvoy folds
+! 01/02/19 00:07:44! SCSI folds
+! 01/02/19 00:07:44! Poker Coach folds
+! 01/02/19 04:05:13! Loudlion folds
+! 01/02/19 04:05:13! Kyle Stein calls 
+
+! 01/02/19 04:05:13! Pot right ($8600), flopping/dealing/drawing cards
+! 01/02/19 04:05:13! 2 players
+! 01/02/19 04:05:13! Flopped cards: 7d 10s 9c
+! 01/02/19 04:42:30! Kyle Stein checks
+! 01/02/19 05:59:34! eliuk35 bets $6000 
+! 01/02/19 06:01:32! Kyle Stein raises $10000 to $16000 total 
+! 01/02/19 06:05:40! eliuk35 raises $41450 to $57450 total and is all in
+! 01/02/19 06:07:34! Kyle Stein calls 
+
+! 01/02/19 06:07:34! Pot right ($123500), flopping/dealing/drawing cards
+! 01/02/19 06:07:34! 2 players, 1 all in
+! 01/02/19 06:07:34! Flopped card: Kh
+! 01/02/19 06:07:34! Flopped card: Qc
+! Hand over, current board is:  7d 10s 9c Kh Qc
+! eliuk35                  has: Ks Kd
+! Kyle Stein               has: 9s 7s
+! eliuk35 wins $123500 (net $62400) with Three of a Kind (K K K Q 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|   A. Donk                  |   21550 |         |      |    |         |
+ 3|   eliuk35                  |  123500 |         |      |    |         |
+ 4|   GunsNRoses               |  109325 |         |      |    |         |
+ 5|   Pete McEvoy              |   42400 |         |      |    |         |
+ 6|D  SCSI                     |   68275 |         |      |    |         |
+ 7|   Poker Coach              |  161600 |         |      |    |         |
+ 8|   Loudlion                 |  142275 |         |      |    |         |
+ 9|>  Kyle Stein               |   46900 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 407 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b31.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+We are now over 45 days into round "b". 
+As soon as any table gets to five or fewer 
+players all tables will finish the current 
+hand and a full redraw to round "c" will be done.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 25
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

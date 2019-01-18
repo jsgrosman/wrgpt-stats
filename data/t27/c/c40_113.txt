@@ -1,0 +1,126 @@
+
+! Table c40, Hand 113, Day 63
+
+! Murtan folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   bluecandy                |   57700 |     100 |folded|    |         |
+ 2|   Mark Lemon               |   59400 |     100 |folded|    |         |
+ 3|   Murtan                   |   78775 |   16600 |folded|    |         |
+ 4|D  janie                    |   81450 |     100 |folded|    |         |
+ 5|   Ian Rapley               |  150150 |     350 |folded|    |         |
+ 6|   rktsci                   |   51375 |     600 |folded|    |         |
+ 7|>  Stephen Wong             |   31475 |   36600 |      |    |         |
+ 8|   Joker                    |  114250 |     100 |folded|    |         |
+ 9|   jasong            |   91700 |     100 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/23/17 09:42:13! Dealing a new hand
+! 12/23/17 09:42:13! Everyone antes $100
+! 12/23/17 09:42:13! Ian Rapley blinds $250
+! 12/23/17 09:42:13! rktsci blinds $500
+! 12/23/17 13:09:04! Stephen Wong raises $1000 to $1500 total 
+! 12/23/17 13:09:04! Joker folds
+! 12/23/17 13:09:04! jasong folds
+! 12/23/17 13:09:04! bluecandy folds
+! 12/23/17 13:09:04! Mark Lemon folds
+! 12/23/17 13:38:06! Murtan calls 
+! 12/23/17 13:38:06! janie folds
+! 12/23/17 13:38:06! Ian Rapley folds
+! 12/23/17 16:34:43! rktsci folds
+
+! 12/23/17 16:34:43! Pot right ($4650), flopping/dealing/drawing cards
+! 12/23/17 16:34:43! 2 players
+! 12/23/17 16:34:43! Flopped cards: 5s 9s 3s
+! 12/23/17 18:04:18! Stephen Wong bets $5000 
+! 12/24/17 04:06:40! Murtan calls 
+
+! 12/24/17 04:06:40! Pot right ($14650), flopping/dealing/drawing cards
+! 12/24/17 04:06:40! 2 players
+! 12/24/17 04:06:40! Flopped card: 8h
+! 12/24/17 08:48:52! Stephen Wong bets $10000 
+! 12/24/17 08:56:25! Murtan calls 
+
+! 12/24/17 08:56:25! Pot right ($34650), flopping/dealing/drawing cards
+! 12/24/17 08:56:25! 2 players
+! 12/24/17 08:56:25! Flopped card: 2h
+! 12/24/17 09:29:54! Stephen Wong bets $20000 
+! 12/24/17 13:14:09! Murtan folds
+! Hand over, no showdown
+! Current board is:  5s 9s 3s 8h 2h
+! Stephen Wong wins $54650 (net $18050)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   bluecandy                |   57700 |         |      |    |         |
+ 2|   Mark Lemon               |   59400 |         |      |    |         |
+ 3|   Murtan                   |   78775 |         |      |    |         |
+ 4|   janie                    |   81450 |         |      |    |         |
+ 5|D  Ian Rapley               |  150150 |         |      |    |         |
+ 6|   rktsci                   |   51375 |         |      |    |         |
+ 7|>  Stephen Wong             |   86125 |         |      |    |         |
+ 8|   Joker                    |  114250 |         |      |    |         |
+ 9|   jasong            |   91700 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 393 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c40.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+The raise line has changed.  Please note
+the difference as it now shows the total
+amount bet THIS round to help people adjust their
+sizing for later action.
+
+The entire round 'b' will be redrawn as soon as 
+all tables complete their current hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Live Redraw Status as of 12/24/17 12:55:01 PM
+
+Total Empty Seats: 12
+Total Playing Seats: 393
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman27@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

@@ -1,0 +1,114 @@
+Subject: [b17.10175] Holdem Game Broadcast Message(*)
+
+! Table b17, Hand 11, Day 12
+
+! shinsook folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   John Bernstein           |   43200 |       0 |folded|    |         |
+ 2|D  Sandy                    |   47175 |       0 |folded|    |         |
+ 3|   Mike DellaBarca          |   43275 |      75 |folded|    |         |
+ 4|   Baldy                    |   87700 |     450 |folded|    |         |
+ 5|   shinsook                 |   42025 |     450 |folded|    |         |
+ 6|   Kahomono                 |   57925 |       0 |folded|    |         |
+ 7|>  Wit                      |   36775 |    1650 |      |    |         |
+ 8|   Mark Lemon               |   50725 |       0 |folded|    |         |
+ 9|   crush_me                 |   38575 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/21/18 17:45:19! Dealing a new hand
+! 11/21/18 17:45:19! No ante
+! 11/21/18 17:45:19! Mike DellaBarca blinds $75
+! 11/21/18 17:45:19! Baldy blinds $150
+! 11/21/18 23:26:21! shinsook raises $300 to $450 total 
+! 11/22/18 00:13:27! Kahomono folds
+! 11/22/18 03:37:51! Wit calls 
+! 11/22/18 03:37:51! Mark Lemon folds
+! 11/22/18 03:37:51! crush_me folds
+! 11/22/18 03:37:51! John Bernstein folds
+! 11/22/18 06:24:59! Sandy folds
+! 11/22/18 06:24:59! Mike DellaBarca folds
+! 11/22/18 10:08:28! Baldy calls 
+
+! 11/22/18 10:08:28! Pot right ($1425), flopping/dealing/drawing cards
+! 11/22/18 10:08:28! 3 players
+! 11/22/18 10:08:28! Flopped cards: 4s 3s Jh
+! 11/22/18 10:19:39! Baldy checks
+! 11/22/18 13:37:32! shinsook checks
+! 11/22/18 13:52:28! Wit checks
+
+! 11/22/18 13:52:28! Pot right ($1425), flopping/dealing/drawing cards
+! 11/22/18 13:52:28! 3 players
+! 11/22/18 13:52:28! Flopped card: 5s
+! 11/22/18 14:02:10! Baldy checks
+! 11/22/18 14:02:10! shinsook checks
+! 11/22/18 16:08:35! Wit bets $1200 
+! 11/22/18 17:11:17! Baldy folds
+! 11/23/18 08:17:08! shinsook folds
+! Hand over, no showdown
+! Current board is:  4s 3s Jh 5s ?
+! Wit wins $2625 (net $975)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   John Bernstein           |   43200 |         |      |    |         |
+ 2|   Sandy                    |   47175 |         |      |    |         |
+ 3|D  Mike DellaBarca          |   43275 |         |      |    |         |
+ 4|   Baldy                    |   87700 |         |      |    |         |
+ 5|   shinsook                 |   42025 |         |      |    |         |
+ 6|   Kahomono                 |   57925 |         |      |    |         |
+ 7|>  Wit                      |   39400 |         |      |    |         |
+ 8|   Mark Lemon               |   50725 |         |      |    |         |
+ 9|   crush_me                 |   38575 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 567 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b17.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 11
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

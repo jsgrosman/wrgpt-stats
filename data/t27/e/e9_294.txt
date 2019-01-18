@@ -1,0 +1,100 @@
+
+! Table e9, Hand 294, Day 150
+
+! Taki folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  Andy Pierce              |  998425 |    1000 |folded|    |         |
+ 2|   Bwana                    |  684550 |    7000 |folded|    |         |
+ 3|   Taki                     |  120600 |   13000 |folded|    |         |
+ 4|   Bob R                    |  511550 |    1000 |folded|    |         |
+ 5|   Ed Baker                 |  244500 |    1000 |folded|    |         |
+ 6|>  jasong            |  637900 |   43000 |      |    |         |
+ 7|   Jillian McKillican       |  604700 |    1000 |folded|    |         |
+ 8|   Stephen Mack             |  953300 |    1000 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/21/18 09:23:33! Dealing a new hand
+! 03/21/18 09:23:33! Everyone antes $1000
+! 03/21/18 09:23:33! Bwana blinds $6000
+! 03/21/18 09:23:33! Taki blinds $12000
+! 03/21/18 10:39:38! Bob R folds
+! 03/21/18 10:39:38! Ed Baker folds
+! 03/21/18 10:45:18! jasong raises $30000 to $42000 total 
+! 03/21/18 10:45:18! Jillian McKillican folds
+! 03/21/18 10:45:18! Stephen Mack folds
+! 03/21/18 10:53:14! Andy Pierce folds
+! 03/21/18 10:53:14! Bwana folds
+! 03/21/18 13:58:20! Taki folds
+! Hand over, no showdown
+! Current board is:  ? ? ? ? ?
+! jasong wins $68000 (net $25000)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Andy Pierce              |  998425 |         |      |    |         |
+ 2|D  Bwana                    |  684550 |         |      |    |         |
+ 3|   Taki                     |  120600 |         |      |    |         |
+ 4|   Bob R                    |  511550 |         |      |    |         |
+ 5|   Ed Baker                 |  244500 |         |      |    |         |
+ 6|>  jasong            |  705900 |         |      |    |         |
+ 7|   Jillian McKillican       |  604700 |         |      |    |         |
+ 8|   Stephen Mack             |  953300 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 51 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/e/e9.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+However, if there were prizes they would pay the top 63 entrants.
+The standings are now showing theoretical prizes if WRGPT were a
+10k event.
+
+======
+
+Live Redraw Status as of 03/21/18 01:55:01 PM
+
+Total Empty Seats: 13
+Total Playing Seats: 51
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman27@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

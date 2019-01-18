@@ -1,0 +1,121 @@
+Subject: [b21.10657] Holdem Game Broadcast Message(*)
+
+! Table b21, Hand 54, Day 18
+
+! RunGoodRob calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  Isaac Newton             |   31600 |    7950 |      |    |         |
+ 2|   Eric Brassell            |   56075 |     300 |folded|    |         |
+ 3|   Sllimbob                 |   22975 |     750 |folded|    |         |
+ 4|   Ken Anderson             |   71600 |       0 |folded|    |         |
+ 5|   Chris Sims               |   69100 |       0 |folded|    |         |
+ 6|   fich                     |   35125 |       0 |folded|    |         |
+ 7|   Deborah Abel             |   51100 |       0 |folded|    |         |
+ 8|V  8.HEATER-T2              |   48875 |       0 | NoSho|    |         |
+ 9|D  RunGoodRob               |   46600 |    7950 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/28/18 14:16:19! Dealing a new hand
+! 11/28/18 14:16:19! No ante
+! 11/28/18 14:16:19! Isaac Newton blinds $150
+! 11/28/18 14:16:19! Eric Brassell blinds $300
+! 11/28/18 14:22:31! Sllimbob calls 
+! 11/28/18 14:22:36! Ken Anderson folds
+! 11/28/18 17:19:53! Chris Sims folds
+! 11/28/18 17:19:53! fich folds
+! 11/28/18 17:19:53! Deborah Abel folds
+! 11/28/18 17:19:53! 8.HEATER-T2 is on vacation and folds
+! 11/28/18 17:51:41! RunGoodRob raises $450 to $750 total 
+! 11/28/18 17:51:41! Isaac Newton calls 
+! 11/28/18 17:51:41! Eric Brassell folds
+! 11/28/18 18:09:37! Sllimbob calls 
+
+! 11/28/18 18:09:37! Pot right ($2550), flopping/dealing/drawing cards
+! 11/28/18 18:09:37! 3 players
+! 11/28/18 18:09:37! Flopped cards: 6c 7s Jd
+! 11/28/18 18:14:44! Isaac Newton checks
+! 11/28/18 18:16:11! Sllimbob checks
+! 11/28/18 18:42:19! RunGoodRob bets $1550 
+! 11/28/18 21:42:10! Isaac Newton calls 
+! 11/28/18 21:42:10! Sllimbob folds
+
+! 11/28/18 21:42:10! Pot right ($5650), flopping/dealing/drawing cards
+! 11/28/18 21:42:10! 2 players
+! 11/28/18 21:42:10! Flopped card: 4s
+! 11/28/18 21:42:57! Isaac Newton checks
+! 11/29/18 03:33:15! RunGoodRob checks
+
+! 11/29/18 03:33:15! Pot right ($5650), flopping/dealing/drawing cards
+! 11/29/18 03:33:15! 2 players
+! 11/29/18 03:33:15! Flopped card: Jc
+! 11/29/18 05:30:08! Isaac Newton bets $5650 
+! 11/29/18 07:05:17! RunGoodRob calls 
+! Hand over, current board is:  6c 7s Jd 4s Jc
+! Isaac Newton             has: As Ac
+! RunGoodRob               has: 9c 7c
+! Isaac Newton wins $16950 (net $9000) with Two Pair (A A J J 7)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D> Isaac Newton             |   48550 |         |      |    |         |
+ 2|   Eric Brassell            |   56075 |         |      |    |         |
+ 3|   Sllimbob                 |   22975 |         |      |    |         |
+ 4|   Ken Anderson             |   71600 |         |      |    |         |
+ 5|   Chris Sims               |   69100 |         |      |    |         |
+ 6|   fich                     |   35125 |         |      |    |         |
+ 7|   Deborah Abel             |   51100 |         |      |    |         |
+ 8|V  8.HEATER-T2              |   48875 |         | NoSho|    |         |
+ 9|   RunGoodRob               |   46600 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 550 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b21.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

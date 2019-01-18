@@ -1,0 +1,105 @@
+
+! Table c23, Hand 174, Day 86
+
+! the cake is a pie folds
+! Ryan600 folds
+! Murtan folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   jasong            |  68475 |   2300 |folded|    |        |
+ 2|   MojoJojo                 | 129875 |    300 |folded|    |        |
+ 3|   the cake is a pie        | 119425 |   2300 |folded|    |        |
+ 4|   Walter Hunt              |  13050 |    300 |folded|    |        |
+ 5|   Ryan600                  | 104575 |  12050 |folded|    |        |
+ 6|>  Murtan                   |  38450 |  12050 |folded|    |        |
+ 7|   888                      |      0 |  92650 |all-in|    |        |
+ 8|   Bob                      |  70750 |    300 |folded|    |        |
+ 9|D  GestaltyDog              |  23800 |    300 |folded|    |        |
+10|   Ed Fernandez             |   7825 |   1300 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 01/18/16 22:20:37! Dealing a new hand
+! 01/18/16 22:20:37! Everyone antes $300
+! 01/18/16 22:20:37! Ed Fernandez blinds $1000
+! 01/18/16 22:20:37! jasong blinds $2000
+! 01/18/16 22:30:27! GestaltyDog is back from vacation
+! 01/19/16 05:12:06! MojoJojo folds
+! 01/19/16 07:43:59! the cake is a pie calls 
+! 01/19/16 09:15:05! Walter Hunt folds
+! 01/19/16 09:49:04! Ryan600 raises $9750 
+! 01/19/16 09:51:08! Murtan calls 
+! 01/19/16 09:52:07! 888 raises $80600 and is all in
+! 01/19/16 10:37:54! Bob folds
+! 01/19/16 10:37:54! GestaltyDog folds
+! 01/19/16 10:37:54! Ed Fernandez folds
+! 01/19/16 10:44:13! jasong folds
+! 01/19/16 12:01:16! the cake is a pie folds
+! 01/19/16 12:01:16! Ryan600 folds
+! 01/19/16 12:01:16! Murtan folds
+! Hand over, no showdown
+! Current board is:  ? ? ? ? ?
+! 888 wins $123850 (net $31200)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   jasong            |  68475 |        |      |    |        |
+ 2|   MojoJojo                 | 129875 |        |      |    |        |
+ 3|   the cake is a pie        | 119425 |        |      |    |        |
+ 4|   Walter Hunt              |  13050 |        |      |    |        |
+ 5|   Ryan600                  | 104575 |        |      |    |        |
+ 6|>  Murtan                   |  38450 |        |      |    |        |
+ 7|   888                      | 123850 |        |      |    |        |
+ 8|   Bob                      |  70750 |        |      |    |        |
+ 9|   GestaltyDog              |  23800 |        |      |    |        |
+10|D  Ed Fernandez             |   7825 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 285 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c23.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+======
+
+Live Redraw Status as of 01/19/16 11:55:02 AM
+
+Total Empty Seats: 25
+Total Playing Seats: 285
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman25@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

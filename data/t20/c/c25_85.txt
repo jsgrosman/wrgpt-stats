@@ -1,0 +1,91 @@
+Message-Id: <201101141340.p0EDedTc018366@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [c25.10271] Holdem Game Broadcast Message(*)                          
+
+! Table c25, Hand 85, Day 75
+
+! JAvery - VP folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Nikadai                  |  69525 |    100 |folded|    |        |
+ 2|   mjoseff                  | 107475 |    100 |folded|    |        |
+ 3|   Eddie Brown              |  49850 |    100 |folded|    |        |
+ 4|V  Stanley Chow             |  27300 |    100 |<AWOL>|    |        |
+ 5|   jasong            |  70150 |    100 |folded|    |        |
+ 6|   jennyfar                 |  79700 |    100 |folded|    |        |
+ 7|D> AW Coody                 | 102150 |   7200 |      |    |        |
+ 8|   b monie                  |  22000 |    500 |folded|    |        |
+ 9|   JAvery - VP              |  12050 |   2200 |folded|    |        |
+10|   KluelessKid              |  44600 |    100 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 01/12/11 17:16:38! Dealing a new hand
+! 01/12/11 17:16:38! Everyone antes $100
+! 01/12/11 17:16:38! b monie blinds $400
+! 01/12/11 17:16:38! JAvery - VP blinds $800
+! 01/12/11 19:24:31! Nikadai is back from vacation
+! 01/13/11 07:12:27! KluelessKid folds
+! 01/13/11 07:12:27! Nikadai folds
+! 01/13/11 07:12:27! mjoseff folds
+! 01/13/11 07:12:27! Eddie Brown folds
+! 01/13/11 07:12:27! Stanley Chow is on vacation and folds
+! 01/13/11 07:12:27! jasong folds
+! 01/13/11 07:12:27! jennyfar folds
+! 01/13/11 10:27:28! AW Coody raises $1300 
+! 01/13/11 10:34:26! b monie folds
+! 01/13/11 12:08:32! JAvery - VP calls 
+
+! 01/13/11 12:08:32! Pot right ($5600), flopping/dealing/drawing cards
+! 01/13/11 12:08:32! 2 players
+! 01/13/11 12:08:32! Flopped cards: 7s 9h 3c
+! 01/13/11 12:33:21! JAvery - VP checks
+! 01/13/11 14:49:29! AW Coody bets $5000 
+! 01/14/11 05:40:38! JAvery - VP folds
+! Hand over, no showdown
+! Current board is:  7s 9h 3c ? ?
+! AW Coody wins $10600 (net $3400)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Nikadai                  |  69525 |        |      |    |        |
+ 2|   mjoseff                  | 107475 |        |      |    |        |
+ 3|   Eddie Brown              |  49850 |        |      |    |        |
+ 4|V  Stanley Chow             |  27300 |        |<AWOL>|    |        |
+ 5|   jasong            |  70150 |        |      |    |        |
+ 6|   jennyfar                 |  79700 |        |      |    |        |
+ 7|>  AW Coody                 | 112750 |        |      |    |        |
+ 8|D  b monie                  |  22000 |        |      |    |        |
+ 9|   JAvery - VP              |  12050 |        |      |    |        |
+10|   KluelessKid              |  44600 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 559 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c25.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+If you have any problems send mail to floorman20@wrgpt.org.
+
+Live Redraw Status as of 01/14/11 05:25:01 AM
+
+Total Empty Seats: 11
+Total Playing Seats: 559
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org or follow "wrgpt" on Twitter.
+

@@ -1,0 +1,110 @@
+
+! Table d6, Hand 233, Day 128
+
+! DGold calls 
+! Pot right ($104200), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped cards: 3s 4s Jh
+! Flopped card: Qh
+! Flopped card: 5d
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  DGold                    |  202400 |   47600 |      |    |         |
+ 2|D  dr54321                  |  125550 |    1000 |folded|    |         |
+ 3|   jasong            |  168075 |    4000 |folded|    |         |
+ 4|   Ronnie L snyder          |       0 |   47600 |all-in|    |         |
+ 5|   ArikK                    |  406275 |    1000 |folded|    |         |
+ 6|   piojos                   |  193750 |    1000 |folded|    |         |
+ 8|   Lets Go Red Sox          |  283775 |    1000 |folded|    |         |
+ 9|   Joe Nadeau               |   74700 |    1000 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/27/18 13:49:37! Dealing a new hand
+! 02/27/18 13:49:37! Everyone antes $1000
+! 02/27/18 13:49:37! jasong blinds $3000
+! 02/27/18 13:49:37! Ronnie L snyder blinds $6000
+! 02/27/18 14:11:20! ArikK folds
+! 02/27/18 14:15:37! piojos folds
+! 02/27/18 14:15:37! Lets Go Red Sox folds
+! 02/27/18 14:16:45! Joe Nadeau folds
+! 02/27/18 16:31:27! DGold raises $6000 to $12000 total 
+! 02/27/18 16:31:27! dr54321 folds
+! 02/27/18 16:31:27! jasong folds
+! 02/27/18 17:21:25! Ronnie L snyder raises $34600 to $46600 total and is all in
+! 02/27/18 17:23:00! DGold calls 
+
+! 02/27/18 17:23:00! Pot right ($104200), flopping/dealing/drawing cards
+! 02/27/18 17:23:00! 2 players, 1 all in
+! 02/27/18 17:23:00! Flopped cards: 3s 4s Jh
+! 02/27/18 17:23:00! Flopped card: Qh
+! 02/27/18 17:23:00! Flopped card: 5d
+! Hand over, current board is:  3s 4s Jh Qh 5d
+! DGold                    has: 10s 8h
+! Ronnie L snyder          has: Ah Qd
+! Ronnie L snyder wins $104200 (net $56600) with One Pair (Q Q A J 5)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  DGold                    |  202400 |         |      |    |         |
+ 2|   dr54321                  |  125550 |         |      |    |         |
+ 3|D  jasong            |  168075 |         |      |    |         |
+ 4|   Ronnie L snyder          |  104200 |         |      |    |         |
+ 5|   ArikK                    |  406275 |         |      |    |         |
+ 6|   piojos                   |  193750 |         |      |    |         |
+ 8|   Lets Go Red Sox          |  283775 |         |      |    |         |
+ 9|   Joe Nadeau               |   74700 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 108 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d6.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Live Redraw Status as of 02/27/18 04:55:01 PM
+
+Total Empty Seats: 12
+Total Playing Seats: 108
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman27@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

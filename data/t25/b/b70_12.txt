@@ -1,0 +1,116 @@
+
+! Table b70, Hand 12, Day 12
+
+! Norton folds
+! Sarah D folds
+! patricko folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   patricko                 |  30850 |   1100 |folded|    |        |
+ 2|D  LenFuego                 |  25250 |      0 |folded|    |        |
+ 3|>  Wrongfellow              |  27750 |   4900 |      |    |        |
+ 4|   Thomas Gabrysch          |  29750 |    100 |folded|    |        |
+ 5|   Norton                   |  27600 |   1100 |folded|    |        |
+ 6|   Derrick Martins          |  35000 |      0 |folded|    |        |
+ 7|   Handsome Al              |  31500 |      0 |folded|    |        |
+ 8|   Ben Irving               |  24900 |    100 |folded|    |        |
+ 9|   Sarah D                  |  31000 |   1100 |folded|    |        |
+10|   jasong            |  28000 |      0 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 11/05/15 15:37:47! Dealing a new hand
+! 11/05/15 15:37:47! No ante
+! 11/05/15 15:37:47! Wrongfellow blinds $50
+! 11/05/15 15:37:47! Thomas Gabrysch blinds $100
+! 11/05/15 16:47:18! Norton calls 
+! 11/05/15 16:47:18! Derrick Martins folds
+! 11/05/15 16:47:18! Handsome Al folds
+! 11/05/15 17:12:58! Ben Irving calls 
+! 11/05/15 17:30:20! Sarah D raises $200 
+! 11/05/15 17:30:20! jasong folds
+! 11/05/15 17:30:20! patricko calls 
+! 11/05/15 18:02:11! LenFuego folds
+! 11/05/15 18:26:44! Wrongfellow raises $800 
+! 11/05/15 21:26:32! Thomas Gabrysch folds
+! 11/06/15 01:59:57! Norton calls 
+! 11/06/15 01:59:57! Ben Irving folds
+! 11/06/15 08:47:57! Sarah D calls 
+! 11/06/15 08:51:37! patricko calls 
+
+! 11/06/15 08:51:37! Pot right ($4600), flopping/dealing/drawing cards
+! 11/06/15 08:51:37! 4 players
+! 11/06/15 08:51:37! Flopped cards: 8d 3s 7d
+! 11/06/15 08:57:11! Wrongfellow bets $3800 
+! 11/06/15 13:00:02! Norton folds
+! 11/06/15 13:00:02! Sarah D folds
+! 11/06/15 13:00:02! patricko folds
+! Hand over, no showdown
+! Current board is:  8d 3s 7d ? ?
+! Wrongfellow wins $8400 (net $3500)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   patricko                 |  30850 |        |      |    |        |
+ 2|   LenFuego                 |  25250 |        |      |    |        |
+ 3|D> Wrongfellow              |  36150 |        |      |    |        |
+ 4|   Thomas Gabrysch          |  29750 |        |      |    |        |
+ 5|   Norton                   |  27600 |        |      |    |        |
+ 6|   Derrick Martins          |  35000 |        |      |    |        |
+ 7|   Handsome Al              |  31500 |        |      |    |        |
+ 8|   Ben Irving               |  24900 |        |      |    |        |
+ 9|   Sarah D                  |  31000 |        |      |    |        |
+10|   jasong            |  28000 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! Norton timed out during this hand
+! 753 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b70.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+This is the REAL WRGPT.  
+
+Good luck.
+======
+
+Live Redraw Status as of 11/06/15 12:55:01 PM
+
+Total Empty Seats: 7
+Total Playing Seats: 753
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman25@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

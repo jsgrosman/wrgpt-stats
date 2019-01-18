@@ -1,0 +1,121 @@
+Subject: [b25.10050] Holdem Game Broadcast Message(*)
+
+! Table b25, Hand 3, Day 3
+
+! gilette checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Crespie                  |   50050 |       0 |folded|    |         |
+ 2|   gilette                  |   50125 |    3350 |      |    |         |
+ 3|D  Lobocs                   |   49775 |       0 |folded|    |         |
+ 4|   khudwrx03                |   49625 |      75 |folded|    |         |
+ 5|   yawetag                  |   49550 |     450 |folded|    |         |
+ 6|>  Brian Huss               |   46650 |    3350 |      |    |         |
+ 7|   Plain Ed                 |   48500 |       0 |folded|    |         |
+ 8|   BBLWOG                   |   49550 |     450 |folded|    |         |
+ 9|   Mark Oosterveld          |   48500 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/13/18 19:07:39! Dealing a new hand
+! 11/13/18 19:07:39! No ante
+! 11/13/18 19:07:39! khudwrx03 blinds $75
+! 11/13/18 19:07:39! yawetag blinds $150
+! 11/13/18 19:08:46! Brian Huss raises $300 to $450 total 
+! 11/13/18 19:46:24! Plain Ed folds
+! 11/13/18 20:10:36! BBLWOG calls 
+! 11/13/18 20:10:36! Mark Oosterveld folds
+! 11/13/18 20:10:36! Crespie folds
+! 11/14/18 06:08:40! gilette calls 
+! 11/14/18 07:54:27! Lobocs folds
+! 11/14/18 07:54:27! khudwrx03 folds
+! 11/14/18 08:35:04! yawetag calls 
+
+! 11/14/18 08:35:04! Pot right ($1875), flopping/dealing/drawing cards
+! 11/14/18 08:35:04! 4 players
+! 11/14/18 08:35:04! Flopped cards: 7h 6h Qh
+! 11/14/18 08:37:29! yawetag checks
+! 11/14/18 08:46:39! Brian Huss bets $1100 
+! 11/14/18 08:50:45! BBLWOG folds
+! 11/14/18 09:39:19! gilette calls 
+! 11/14/18 09:39:19! yawetag folds
+
+! 11/14/18 09:39:19! Pot right ($4075), flopping/dealing/drawing cards
+! 11/14/18 09:39:19! 2 players
+! 11/14/18 09:39:19! Flopped card: 10h
+! 11/14/18 09:56:00! Brian Huss bets $1800 
+! 11/14/18 11:14:54! gilette calls 
+
+! 11/14/18 11:14:54! Pot right ($7675), flopping/dealing/drawing cards
+! 11/14/18 11:14:54! 2 players
+! 11/14/18 11:14:54! Flopped card: Qc
+! 11/14/18 11:41:42! Brian Huss checks
+! 11/14/18 12:00:14! gilette checks
+! Hand over, current board is:  7h 6h Qh 10h Qc
+! gilette                  has: Kh Qd
+! Brian Huss               has: 7c 6c
+! gilette wins $7675 (net $4325) with Heart Flush (K Q 10 7 6)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Crespie                  |   50050 |         |      |    |         |
+ 2|   gilette                  |   57800 |         |      |    |         |
+ 3|   Lobocs                   |   49775 |         |      |    |         |
+ 4|D  khudwrx03                |   49625 |         |      |    |         |
+ 5|   yawetag                  |   49550 |         |      |    |         |
+ 6|>  Brian Huss               |   46650 |         |      |    |         |
+ 7|   Plain Ed                 |   48500 |         |      |    |         |
+ 8|   BBLWOG                   |   49550 |         |      |    |         |
+ 9|   Mark Oosterveld          |   48500 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Mark Oosterveld went on vacation until nov 24
+! 585 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b25.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 7
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

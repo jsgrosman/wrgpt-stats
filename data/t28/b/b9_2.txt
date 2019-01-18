@@ -1,0 +1,121 @@
+Subject: [b9.10036] Holdem Game Broadcast Message(*)
+
+! Table b9, Hand 2, Day 2
+
+! danthefan calls and is all in
+! Pot right ($100225), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped card: Ah
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   drjeys                   |   50000 |       0 |folded|    |         |
+ 2|D  BrownTrout               |   50950 |       0 |folded|    |         |
+ 3|   J. Michael Robertson     |   49775 |      75 |folded|    |         |
+ 4|   Stray Taoist             |   49850 |     150 |folded|    |         |
+ 5|   Ed Fernandez             |   50000 |       0 |folded|    |         |
+ 6|   TedTab                   |       0 |   50000 |all-in|    |         |
+ 7|   Michael Rankin           |   49200 |       0 |folded|    |         |
+ 8|>  danthefan                |       0 |   50000 |all-in|    |         |
+ 9|   indiansquib              |   50000 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/13/18 10:26:09! Dealing a new hand
+! 11/13/18 10:26:09! No ante
+! 11/13/18 10:26:09! J. Michael Robertson blinds $75
+! 11/13/18 10:26:09! Stray Taoist blinds $150
+! 11/13/18 10:39:24! Ed Fernandez folds
+! 11/13/18 10:59:50! TedTab raises $375 to $525 total 
+! 11/13/18 12:26:54! Michael Rankin folds
+! 11/13/18 12:26:54! danthefan calls 
+! 11/13/18 12:26:54! indiansquib folds
+! 11/13/18 12:26:54! drjeys folds
+! 11/13/18 13:14:40! BrownTrout folds
+! 11/13/18 13:14:40! J. Michael Robertson folds
+! 11/13/18 13:38:52! Stray Taoist folds
+
+! 11/13/18 13:38:52! Pot right ($1275), flopping/dealing/drawing cards
+! 11/13/18 13:38:52! 2 players
+! 11/13/18 13:38:52! Flopped cards: 10h 7h 7s
+! 11/13/18 13:56:27! TedTab bets $1275 
+! 11/13/18 14:30:58! danthefan raises $2725 to $4000 total 
+! 11/13/18 14:35:48! TedTab calls 
+
+! 11/13/18 14:35:48! Pot right ($9275), flopping/dealing/drawing cards
+! 11/13/18 14:35:48! 2 players
+! 11/13/18 14:35:48! Flopped card: 10c
+! 11/13/18 16:30:25! TedTab checks
+! 11/13/18 16:40:12! danthefan bets $3500 
+! 11/13/18 17:59:11! TedTab raises $41975 to $45475 total and is all in
+! 11/13/18 18:14:38! danthefan calls and is all in
+
+! 11/13/18 18:14:38! Pot right ($100225), flopping/dealing/drawing cards
+! 11/13/18 18:14:38! 2 players, 2 all in
+! 11/13/18 18:14:38! Flopped card: Ah
+! Hand over, current board is:  10h 7h 7s 10c Ah
+! TedTab                   has: Ac 4c
+! danthefan                has: Ad 10d
+! danthefan wins $100225 (net $50225) with Full House (10 10 10 A A)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   drjeys                   |   50000 |         |      |    |         |
+ 2|   BrownTrout               |   50950 |         |      |    |         |
+ 3|D  J. Michael Robertson     |   49775 |         |      |    |         |
+ 4|   Stray Taoist             |   49850 |         |      |    |         |
+ 5|   Ed Fernandez             |   50000 |         |      |    |         |
+ 7|   Michael Rankin           |   49200 |         |      |    |         |
+ 8|>  danthefan                |  100225 |         |      |    |         |
+ 9|   indiansquib              |   50000 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! TedTab is eliminated!
+! 588 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b9.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 3
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

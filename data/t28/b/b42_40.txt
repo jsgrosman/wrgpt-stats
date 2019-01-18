@@ -1,0 +1,127 @@
+Subject: [b42.10566] Holdem Game Broadcast Message(*)
+
+! Table b42, Hand 40, Day 30
+
+! beowulf calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   WhyImHere                |   60075 |      25 |folded|    |         |
+ 2|>  judy proteau             |   26700 |   13425 |      |    |         |
+ 3|   SpiderTribe              |   71300 |    1125 |folded|    |         |
+ 4|D  GwynnInTheHall           |   60400 |      25 |folded|    |         |
+ 5|   beowulf                  |   15625 |   13425 |      |    |         |
+ 6|   DinoBravo                |   25700 |     325 |folded|    |         |
+ 7|   David Kuznick            |   67275 |      25 |folded|    |         |
+ 8|   Sue N                    |   46325 |    2725 |folded|    |         |
+ 9|   I_Bluff_Rivers           |   45475 |      25 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/10/18 15:38:15! Dealing a new hand
+! 12/10/18 15:38:15! Everyone antes $25
+! 12/10/18 15:38:15! beowulf blinds $150
+! 12/10/18 15:38:15! DinoBravo blinds $300
+! 12/10/18 16:22:17! David Kuznick folds
+! 12/10/18 16:22:17! Sue N calls 
+! 12/10/18 16:52:53! I_Bluff_Rivers folds
+! 12/10/18 16:52:53! WhyImHere folds
+! 12/10/18 17:08:54! judy proteau raises $300 to $600 total 
+! 12/10/18 17:15:37! SpiderTribe raises $500 to $1100 total 
+! 12/10/18 17:18:12! GwynnInTheHall folds
+! 12/11/18 00:11:19! beowulf calls 
+! 12/11/18 00:11:19! DinoBravo folds
+! 12/11/18 03:01:05! Sue N calls 
+! 12/11/18 03:08:47! judy proteau calls 
+
+! 12/11/18 03:08:47! Pot right ($4925), flopping/dealing/drawing cards
+! 12/11/18 03:08:47! 4 players
+! 12/11/18 03:08:47! Flopped cards: 9c 7c Kh
+! 12/11/18 03:10:59! beowulf checks
+! 12/11/18 03:15:46! Sue N bets $800 
+! 12/11/18 03:19:43! judy proteau raises $800 to $1600 total 
+! 12/11/18 03:41:50! SpiderTribe folds
+! 12/11/18 04:48:45! beowulf calls 
+! 12/11/18 09:15:52! Sue N calls 
+
+! 12/11/18 09:15:52! Pot right ($9725), flopping/dealing/drawing cards
+! 12/11/18 09:15:52! 3 players
+! 12/11/18 09:15:52! Flopped card: Jd
+! 12/11/18 09:25:51! beowulf checks
+! 12/11/18 10:39:44! Sue N checks
+! 12/11/18 11:05:55! judy proteau bets $3200 
+! 12/11/18 11:08:49! beowulf calls 
+! 12/11/18 11:44:17! Sue N folds
+
+! 12/11/18 11:44:17! Pot right ($16125), flopping/dealing/drawing cards
+! 12/11/18 11:44:17! 2 players
+! 12/11/18 11:44:17! Flopped card: Jh
+! 12/11/18 11:45:08! beowulf checks
+! 12/11/18 11:50:25! judy proteau bets $7500 
+! 12/11/18 11:58:05! beowulf calls 
+! Hand over, current board is:  9c 7c Kh Jd Jh
+! judy proteau             has: Js Kd
+! beowulf                  has: 8h 7h
+! judy proteau wins $31125 (net $17700) with Full House (J J J K K)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   WhyImHere                |   60075 |         |      |    |         |
+ 2|>  judy proteau             |   57825 |         |      |    |         |
+ 3|   SpiderTribe              |   71300 |         |      |    |         |
+ 4|   GwynnInTheHall           |   60400 |         |      |    |         |
+ 5|D  beowulf                  |   15625 |         |      |    |         |
+ 6|   DinoBravo                |   25700 |         |      |    |         |
+ 7|   David Kuznick            |   67275 |         |      |    |         |
+ 8|   Sue N                    |   46325 |         |      |    |         |
+ 9|   I_Bluff_Rivers           |   45475 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 496 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b42.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

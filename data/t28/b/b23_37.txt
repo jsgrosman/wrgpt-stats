@@ -1,0 +1,119 @@
+Subject: [b23.10390] Holdem Game Broadcast Message(*)
+
+! Table b23, Hand 37, Day 36
+
+! Roger Strom checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Ken Kubey                |   57675 |      25 |folded|    |         |
+ 2|D  Chkchk                   |   63875 |      25 |folded|    |         |
+ 3|   Eight of Spades          |   47775 |     175 |folded|    |         |
+ 4|>  TomasL                   |   59725 |    4925 |      |    |         |
+ 5|   What Beats What Again    |   37275 |      25 |folded|    |         |
+ 6|   ThunderRd                |   79650 |      25 |folded|    |         |
+ 7|   Roger Strom              |   49850 |    4925 |      |    |         |
+ 8|   David Weiss              |  102900 |     925 |folded|    |         |
+ 9|V  Bert Bell                |   47800 |      25 |<AWOL>|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/15/18 13:22:40! Dealing a new hand
+! 12/15/18 13:22:40! Everyone antes $25
+! 12/15/18 13:22:40! Eight of Spades blinds $150
+! 12/15/18 13:22:40! TomasL blinds $300
+! 12/15/18 16:44:35! What Beats What Again folds
+! 12/15/18 18:56:12! ThunderRd folds
+! 12/16/18 11:06:10! Roger Strom calls 
+! 12/16/18 11:06:10! David Weiss raises $600 to $900 total 
+! 12/16/18 11:06:10! Bert Bell is on vacation and folds
+! 12/16/18 11:06:10! Ken Kubey folds
+! 12/16/18 11:06:10! Chkchk folds
+_____________________________________________________________________________
+
+! I guess not.
+! On Sunday, December 16, 2018, <dealer@wrgpt.org> wrote:
+! (dealer suppressed lines starting with '>' or ':')
+! -- Eight of Spades --
+_____________________________________________________________________________
+
+! 12/16/18 12:39:44! Eight of Spades folds
+! 12/16/18 12:41:09! TomasL calls 
+! 12/16/18 22:27:43! Roger Strom calls 
+
+! 12/16/18 22:27:43! Pot right ($3075), flopping/dealing/drawing cards
+! 12/16/18 22:27:43! 3 players
+! 12/16/18 22:27:43! Flopped cards: Js 10c Ac
+! 12/16/18 22:33:21! TomasL checks
+! 12/16/18 22:34:19! Roger Strom bets $1000 
+! 12/17/18 02:55:34! David Weiss folds
+! 12/17/18 03:34:19! TomasL calls 
+
+! 12/17/18 03:34:19! Pot right ($5075), flopping/dealing/drawing cards
+! 12/17/18 03:34:19! 2 players
+! 12/17/18 03:34:19! Flopped card: 3c
+! 12/17/18 03:35:49! TomasL bets $3000 
+! 12/17/18 04:27:52! Roger Strom calls 
+
+! 12/17/18 04:27:52! Pot right ($11075), flopping/dealing/drawing cards
+! 12/17/18 04:27:52! 2 players
+! 12/17/18 04:27:52! Flopped card: Jh
+! 12/17/18 04:32:16! TomasL checks
+! 12/17/18 04:33:50! Roger Strom checks
+! Hand over, current board is:  Js 10c Ac 3c Jh
+! TomasL                   has: Qh Jd
+! Roger Strom              has: Kc 8c
+! Roger Strom wins $11075 (net $6150) with Club Flush (A K 10 8 3)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Ken Kubey                |   57675 |         |      |    |         |
+ 2|   Chkchk                   |   63875 |         |      |    |         |
+ 3|D  Eight of Spades          |   47775 |         |      |    |         |
+ 4|>  TomasL                   |   59725 |         |      |    |         |
+ 5|   What Beats What Again    |   37275 |         |      |    |         |
+ 6|   ThunderRd                |   79650 |         |      |    |         |
+ 7|   Roger Strom              |   60925 |         |      |    |         |
+ 8|   David Weiss              |  102900 |         |      |    |         |
+ 9|V  Bert Bell                |   47800 |         |<AWOL>|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 467 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b23.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 19
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

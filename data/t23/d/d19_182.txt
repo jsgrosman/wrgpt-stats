@@ -1,0 +1,117 @@
+Message-Id: <201403121641.s2CGf1WX014036@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [d19.10280] Holdem Game Broadcast Message(*)                          
+
+! Table d19, Hand 182, Day 122
+
+! Joe Nadeau folds
+! Pot right ($152100), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 2c
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|>  Shawn Pope               | 100050 |  82300 |      |  1 |  50000 |
+ 2|   jasong            |  79550 |   3600 |folded|    |        |
+ 3|   bluecandy                | 130600 |    400 |folded|    |        |
+ 4|   Berglar                  |  24675 |    400 |folded|    |        |
+ 5|   Joe Nadeau               | 344050 |  32300 |folded|    |        |
+ 7|   Luigi Barone             |  37700 |    400 |folded|    |        |
+ 9|   Indiansquib              | 226425 |    400 |folded|    |        |
+10|D  smak                     |      0 |  32300 |all-in|  2 | 102100 |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 03/11/14 16:59:21! Dealing a new hand
+! 03/11/14 16:59:21! Everyone antes $400
+! 03/11/14 16:59:21! Shawn Pope blinds $1600
+! 03/11/14 16:59:21! jasong blinds $3200
+! 03/11/14 17:11:41! bluecandy folds
+! 03/11/14 17:26:01! Berglar folds
+! 03/11/14 18:26:09! Joe Nadeau raises $5500 
+! 03/11/14 19:18:03! Luigi Barone folds
+! 03/11/14 19:41:39! Indiansquib folds
+! 03/11/14 19:42:37! smak raises $23200 and is all in
+! 03/12/14 06:29:22! Shawn Pope calls 
+! 03/12/14 06:29:22! jasong folds
+! 03/12/14 08:33:25! Joe Nadeau calls 
+
+! 03/12/14 08:33:25! Pot right ($102100), flopping/dealing/drawing cards
+! 03/12/14 08:33:25! 3 players, 1 all in
+! 03/12/14 08:33:25! Flopped cards: 3s Ad 7c
+! 03/12/14 08:54:10! Shawn Pope checks
+! 03/12/14 09:06:24! Joe Nadeau checks
+
+! 03/12/14 09:06:24! Pot right ($102100), flopping/dealing/drawing cards
+! 03/12/14 09:06:24! 3 players, 1 all in
+! 03/12/14 09:06:24! Flopped card: 10s
+! 03/12/14 09:39:57! Shawn Pope bets $50000 
+! 03/12/14 09:41:00! Joe Nadeau folds
+
+! 03/12/14 09:41:00! Pot right ($152100), flopping/dealing/drawing cards
+! 03/12/14 09:41:00! 2 players, 1 all in
+! 03/12/14 09:41:00! Flopped card: 2c
+! Hand over, current board is:  3s Ad 7c 10s 2c
+! Shawn Pope               has: 10h 10d
+! smak                     has: As Qc
+! Pot 1: uncalled $50000 returned to Shawn Pope
+! Pot 2: Shawn Pope wins $102100 with Three of a Kind (10 10 10 A 7)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|D> Shawn Pope               | 252150 |        |      |    |        |
+ 2|   jasong            |  79550 |        |      |    |        |
+ 3|   bluecandy                | 130600 |        |      |    |        |
+ 4|   Berglar                  |  24675 |        |      |    |        |
+ 5|   Joe Nadeau               | 344050 |        |      |    |        |
+ 7|   Luigi Barone             |  37700 |        |      |    |        |
+ 9|   Indiansquib              | 226425 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! smak is eliminated!
+! 212 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d19.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+NOTE:
+
+Daylight savings time is now in effect in the server's time zone.
+Please adjust your START time if necessary.
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+Here is a link to the railbird mailing list:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman23@wrgpt.org.
+
+Live Redraw Status as of 03/12/14 09:25:01 AM
+
+Total Empty Seats: 17
+Total Playing Seats: 213
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

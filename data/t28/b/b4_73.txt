@@ -1,0 +1,118 @@
+Subject: [b4.11115] Holdem Game Broadcast Message(*)
+
+! Table b4, Hand 73, Day 48
+
+! Todd Brabbin calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  Todd Brabbin             |   16900 |   29650 |      |    |         |
+ 2|>  CharlieM                 |   66450 |   29650 |      |    |         |
+ 3|   Sir Barlow               |   73625 |    1650 |folded|    |         |
+ 4|   Paul Stine               |   25175 |      50 |folded|    |         |
+ 5|   HeyBuster                |   93425 |    1650 |folded|    |         |
+ 6|   TwelveSeven              |   83775 |      50 |folded|    |         |
+ 7|   TheTwizz                 |   55000 |      50 |folded|    |         |
+ 8|   Dan Duncan               |   51700 |      50 |folded|    |         |
+ 9|   feodor                   |   69750 |    1650 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/28/18 13:36:18! Dealing a new hand
+! 12/28/18 13:36:18! Everyone antes $50
+! 12/28/18 13:36:18! CharlieM blinds $200
+! 12/28/18 13:36:18! Sir Barlow blinds $400
+! 12/28/18 14:20:35! Paul Stine folds
+! 12/28/18 14:20:35! HeyBuster calls 
+! 12/28/18 14:20:35! TwelveSeven folds
+! 12/28/18 14:20:35! TheTwizz folds
+! 12/28/18 14:58:36! Dan Duncan folds
+! 12/28/18 15:02:55! feodor raises $1200 to $1600 total 
+! 12/28/18 15:04:18! Todd Brabbin calls 
+! 12/28/18 17:30:17! CharlieM calls 
+! 12/28/18 18:05:20! Sir Barlow calls 
+! 12/28/18 18:05:20! HeyBuster calls 
+
+! 12/28/18 18:05:20! Pot right ($8450), flopping/dealing/drawing cards
+! 12/28/18 18:05:20! 5 players
+! 12/28/18 18:05:20! Flopped cards: Kc 5d 2h
+! 12/28/18 18:53:34! CharlieM bets $4000 
+! 12/28/18 18:56:31! Sir Barlow folds
+! 12/28/18 22:57:05! HeyBuster folds
+! 12/28/18 22:57:05! feodor folds
+! 12/28/18 22:57:58! Todd Brabbin calls 
+
+! 12/28/18 22:57:58! Pot right ($16450), flopping/dealing/drawing cards
+! 12/28/18 22:57:58! 2 players
+! 12/28/18 22:57:58! Flopped card: Ks
+! 12/29/18 00:04:34! CharlieM bets $8000 
+! 12/29/18 00:05:55! Todd Brabbin calls 
+
+! 12/29/18 00:05:55! Pot right ($32450), flopping/dealing/drawing cards
+! 12/29/18 00:05:55! 2 players
+! 12/29/18 00:05:55! Flopped card: 8d
+! 12/29/18 09:32:10! CharlieM bets $16000 
+! 12/29/18 11:26:41! Todd Brabbin calls 
+! Hand over, current board is:  Kc 5d 2h Ks 8d
+! Todd Brabbin             has: Kd Jd
+! CharlieM                 has: Kh 8h
+! CharlieM wins $64450 (net $34800) with Full House (K K K 8 8)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Todd Brabbin             |   16900 |         |      |    |         |
+ 2|D> CharlieM                 |  130900 |         |      |    |         |
+ 3|   Sir Barlow               |   73625 |         |      |    |         |
+ 4|   Paul Stine               |   25175 |         |      |    |         |
+ 5|   HeyBuster                |   93425 |         |      |    |         |
+ 6|   TwelveSeven              |   83775 |         |      |    |         |
+ 7|   TheTwizz                 |   55000 |         |      |    |         |
+ 8|   Dan Duncan               |   51700 |         |      |    |         |
+ 9|   feodor                   |   69750 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! HeyBuster timed out during this hand
+! 419 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b4.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+We are now over 45 days into round "b". 
+As soon as any table gets to five or fewer 
+players all tables will finish the current 
+hand and a full redraw to round "c" will be done.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 13
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

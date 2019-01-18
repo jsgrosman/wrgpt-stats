@@ -1,0 +1,124 @@
+Subject: [b51.10582] Holdem Game Broadcast Message(*)
+
+! Table b51, Hand 43, Day 26
+
+! Steve Zagieboylo calls 
+! Pot right ($86100), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 8d
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Quiet Lion               |   52050 |     300 |folded|    |         |
+ 2|   JRX                      |   53700 |       0 |folded|    |         |
+ 3|   Eric Moore               |   49075 |       0 |folded|    |         |
+ 4|   Uncle Check              |       0 |   42350 |all-in|    |         |
+ 5|   Dalai Pookah             |   52925 |       0 |folded|    |         |
+ 6|>  Steve Zagieboylo         |   78850 |   42350 |      |    |         |
+ 7|   Scooter                  |   36650 |       0 |folded|    |         |
+ 8|D  BigElmo                  |   45875 |       0 |folded|    |         |
+ 9|   PvtPyle                  |   50100 |    1100 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/06/18 14:53:31! Dealing a new hand
+! 12/06/18 14:53:31! No ante
+! 12/06/18 14:53:31! PvtPyle blinds $150
+! 12/06/18 14:53:31! Quiet Lion blinds $300
+! 12/07/18 06:58:51! JRX folds
+! 12/07/18 06:58:51! Eric Moore folds
+! 12/07/18 06:58:51! Uncle Check calls 
+! 12/07/18 06:58:51! Dalai Pookah folds
+! 12/07/18 07:32:41! Steve Zagieboylo raises $800 to $1100 total 
+! 12/07/18 07:32:41! Scooter folds
+! 12/07/18 07:52:30! BigElmo folds
+! 12/07/18 08:09:11! PvtPyle calls 
+! 12/07/18 08:30:23! Quiet Lion folds
+! 12/07/18 09:13:25! Uncle Check calls 
+
+! 12/07/18 09:13:25! Pot right ($3600), flopping/dealing/drawing cards
+! 12/07/18 09:13:25! 3 players
+! 12/07/18 09:13:25! Flopped cards: 9s 10s 10c
+! 12/07/18 09:41:56! PvtPyle checks
+! 12/07/18 10:28:48! Uncle Check checks
+! 12/07/18 10:34:45! Steve Zagieboylo bets $2800 
+! 12/07/18 10:46:28! PvtPyle folds
+! 12/07/18 10:59:52! Uncle Check calls 
+
+! 12/07/18 10:59:52! Pot right ($9200), flopping/dealing/drawing cards
+! 12/07/18 10:59:52! 2 players
+! 12/07/18 10:59:52! Flopped card: Js
+! 12/07/18 11:25:49! Uncle Check bets $5000 
+! 12/07/18 11:27:36! Steve Zagieboylo raises $18000 to $23000 total 
+! 12/07/18 11:54:50! Uncle Check raises $15450 to $38450 total and is all in
+! 12/07/18 11:55:54! Steve Zagieboylo calls 
+
+! 12/07/18 11:55:54! Pot right ($86100), flopping/dealing/drawing cards
+! 12/07/18 11:55:54! 2 players, 1 all in
+! 12/07/18 11:55:54! Flopped card: 8d
+! Hand over, current board is:  9s 10s 10c Js 8d
+! Uncle Check              has: Kh Qh
+! Steve Zagieboylo         has: 6s 4s
+! Steve Zagieboylo wins $86100 (net $43750) with Spade Flush (J 10 9 6 4)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Quiet Lion               |   52050 |         |      |    |         |
+ 2|   JRX                      |   53700 |         |      |    |         |
+ 3|   Eric Moore               |   49075 |         |      |    |         |
+ 5|   Dalai Pookah             |   52925 |         |      |    |         |
+ 6|>  Steve Zagieboylo         |  164950 |         |      |    |         |
+ 7|   Scooter                  |   36650 |         |      |    |         |
+ 8|   BigElmo                  |   45875 |         |      |    |         |
+ 9|D  PvtPyle                  |   50100 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Uncle Check is eliminated!
+! 513 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b51.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

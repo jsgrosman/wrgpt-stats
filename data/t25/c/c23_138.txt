@@ -1,0 +1,115 @@
+
+! Table c23, Hand 138, Day 58
+
+! Bob folds
+! jasong folds
+! the cake is a pie folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   jasong            |  32925 |   3200 |folded|    |        |
+ 2|D  mishkadeel               |  42550 |    100 |folded|    |        |
+ 4|   the cake is a pie        |  23900 |   3200 |folded|    |        |
+ 5|   Walter Hunt              |  21550 |    100 |folded|    |        |
+ 6|>  Ryan600                  | 135375 |   9725 |      |    |        |
+ 7|   Murtan                   |  35300 |    100 |folded|    |        |
+ 8|   Bob                      |  45350 |   3200 |folded|    |        |
+ 9|   GestaltyDog              |  28700 |    100 |folded|    |        |
+10|   Ed Fernandez             |  46600 |    100 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 12/21/15 09:56:11! Dealing a new hand
+! 12/21/15 09:56:11! Everyone antes $100
+! 12/21/15 09:56:11! the cake is a pie blinds $800
+! 12/21/15 10:04:42! Walter Hunt folds
+! 12/21/15 13:06:02! Ryan600 raises $2300 
+! 12/21/15 13:06:02! Murtan folds
+! 12/21/15 14:44:13! Bob calls 
+! 12/21/15 14:44:13! GestaltyDog folds
+! 12/21/15 14:44:13! Ed Fernandez folds
+! 12/21/15 17:54:18! jasong calls 
+! 12/21/15 17:54:18! mishkadeel folds
+! 12/21/15 18:20:15! the cake is a pie calls 
+
+! 12/21/15 18:20:15! Pot right ($13300), flopping/dealing/drawing cards
+! 12/21/15 18:20:15! 4 players
+! 12/21/15 18:20:15! Flopped cards: 6d 7d 6h
+! 12/21/15 18:20:42! the cake is a pie checks
+! 12/21/15 18:47:23! Ryan600 checks
+! 12/22/15 01:24:37! Bob checks
+! 12/22/15 01:24:37! jasong checks
+
+! 12/22/15 01:24:37! Pot right ($13300), flopping/dealing/drawing cards
+! 12/22/15 01:24:37! 4 players
+! 12/22/15 01:24:37! Flopped card: 3d
+! 12/22/15 07:44:24! the cake is a pie checks
+! 12/22/15 07:44:24! Ryan600 bets $6525 
+! 12/22/15 08:38:39! Bob folds
+! 12/22/15 08:38:39! jasong folds
+! 12/22/15 08:38:39! the cake is a pie folds
+! Hand over, no showdown
+! Current board is:  6d 7d 6h 3d ?
+! Ryan600 wins $19825 (net $10100)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   jasong            |  32925 |        |      |    |        |
+ 2|D  mishkadeel               |  42550 |        |      |    |        |
+ 4|   the cake is a pie        |  23900 |        |      |    |        |
+ 5|   Walter Hunt              |  21550 |        |      |    |        |
+ 6|>  Ryan600                  | 155200 |        |      |    |        |
+ 7|   Murtan                   |  35300 |        |      |    |        |
+ 8|   Bob                      |  45350 |        |      |    |        |
+ 9|   GestaltyDog              |  28700 |        |      |    |        |
+10|   Ed Fernandez             |  46600 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 473 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c23.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the "c" round.
+
+======
+
+Live Redraw Status as of 12/22/15 08:25:02 AM
+
+Total Empty Seats: 12
+Total Playing Seats: 473
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman25@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

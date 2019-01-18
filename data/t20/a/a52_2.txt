@@ -1,0 +1,101 @@
+Message-Id: <201010251811.o9PIBaIx022466@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [a52.10026] Holdem Game Broadcast Message(*)                          
+
+! Table a52, Hand 2, Day 4
+
+! Francisco Ortiz folds
+! Pot right ($73900), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped cards: Qs 9s 4h
+! Flopped card: 7s
+! Flopped card: Js
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 2|D  dunk                     |  29950 |      0 |folded|    |        |
+ 3|   RiverRay                 |      0 |  29900 |all-in|  2 |  73800 |
+ 4|>  Francisco Ortiz          |  16000 |  14000 |folded|    |        |
+ 5|   Oz                       |  29725 |      0 |folded|    |        |
+ 6|   Bone                     |  30000 |      0 |folded|    |        |
+ 7|V  John Salmon              |  30000 |      0 | NoSho|    |        |
+ 8|   Anthony Ungerman         |  90425 |      0 |folded|    |        |
+10|   NS                       |      0 |  30000 |all-in|  1 |    100 |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 10/24/10 13:15:03! Dealing a new hand
+! 10/24/10 13:15:03! No ante
+! 10/24/10 13:15:03! RiverRay blinds $100
+! 10/24/10 13:15:03! Francisco Ortiz blinds $200
+! 10/24/10 13:29:37! Oz folds
+! 10/24/10 13:30:39! Bone folds
+! 10/24/10 13:30:39! John Salmon is on vacation and folds
+! 10/24/10 13:30:39! Anthony Ungerman folds
+! 10/25/10 07:08:13! NS raises $1800 
+! 10/25/10 07:16:26! dunk folds
+! 10/25/10 10:46:04! RiverRay raises $2000 
+! 10/25/10 10:46:04! Francisco Ortiz raises $10000 
+! 10/25/10 10:49:36! NS raises $16000 and is all in
+! 10/25/10 11:09:57! RiverRay calls - side pot
+! 10/25/10 11:11:36! Francisco Ortiz folds
+
+! 10/25/10 11:11:36! Pot right ($73900), flopping/dealing/drawing cards
+! 10/25/10 11:11:36! 2 players, 2 all in
+! 10/25/10 11:11:36! Flopped cards: Qs 9s 4h
+! 10/25/10 11:11:36! Flopped card: 7s
+! 10/25/10 11:11:36! Flopped card: Js
+! Hand over, current board is:  Qs 9s 4h 7s Js
+! RiverRay                 has: Ad Kd
+! NS                       has: 8s Ah
+! Pot 1: uncalled $100 returned to NS
+! Pot 2: NS wins $73800 with Spade Flush (Q J 9 8 7)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 2|D  dunk                     |  29950 |        |      |    |        |
+ 4|>  Francisco Ortiz          |  16000 |        |      |    |        |
+ 5|   Oz                       |  29725 |        |      |    |        |
+ 6|   Bone                     |  30000 |        |      |    |        |
+ 7|V  John Salmon              |  30000 |        | NoSho|    |        |
+ 8|   Anthony Ungerman         |  90425 |        |      |    |        |
+10|   NS                       |  73900 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! RiverRay is eliminated!
+! 787 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/a/a52.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+This is the PRACTICE round and does not count.
+The PRACTICE round is for trying out advance actions.  
+See the FAQ and quick hints links.
+
+The PRACTICE round will end suddenly about 10/30/2010 in preparation for the real
+tourney unless there are issues.
+
+Changes to email or hours of play in the practice round to NOT carry over
+to the real tourney.
+
+Live Redraw Status as of 10/25/10 10:55:01 AM
+
+Total Empty Seats: 23
+Total Playing Seats: 789
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org or follow "wrgpt" on Twitter.
+

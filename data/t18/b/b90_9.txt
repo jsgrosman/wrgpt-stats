@@ -1,0 +1,119 @@
+Message-Id: <200811161832.mAGIWZBl029606@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+Reply-To: dealer@wrgpt.org
+From: dealer@wrgpt.org
+Subject: [b90.10123] Holdem Game Broadcast Message(*)          
+
+! Table b90, Hand 9, Day 14
+
+! couchtater checks
+! Smeagol checks
+! Ray Powers checks
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Poker Ken                |  21100 |      0 |folded|    |        |
+ 2|   DroogieDroog             |  19000 |      0 |folded|    |        |
+ 3|   Warren Usui              |  19850 |      0 |folded|    |        |
+ 4|D  Shyam Markus             |  17450 |      0 |folded|    |        |
+ 5|>  fich                     |  19900 |    400 |      |    |        |
+ 6|   couchtater               |  18750 |    400 |      |    |        |
+ 7|   Smeagol                  |  18700 |    400 |      |    |        |
+ 8|   jasong            |  33000 |      0 |folded|    |        |
+ 9|   calemb10                 |  19600 |      0 |folded|    |        |
+10|   Ray Powers               |  31050 |    400 |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 11/13/08 16:03:02! Dealing a new hand
+! 11/13/08 16:03:02! No ante
+! 11/13/08 16:03:02! fich blinds $50
+! 11/13/08 16:03:02! couchtater blinds $100
+! 11/13/08 16:06:18! Smeagol calls 
+! 11/13/08 17:39:27! jasong folds
+! 11/14/08 05:59:32! calemb10 folds
+! 11/14/08 09:01:03! Ray Powers raises $300 
+! 11/14/08 09:09:22! Poker Ken folds
+! 11/14/08 09:09:22! DroogieDroog folds
+_____________________________________________________________________________
+
+! Dealer! New Deck!
+! -- Warren Usui --
+_____________________________________________________________________________
+
+! 11/14/08 09:09:22! Warren Usui folds
+! 11/14/08 09:09:22! Shyam Markus folds
+! 11/14/08 12:53:14! fich calls 
+! 11/14/08 12:54:27! couchtater calls 
+! 11/14/08 14:26:27! Smeagol calls 
+
+! 11/14/08 14:26:27! Pot right ($1600), flopping/dealing/drawing cards
+! 11/14/08 14:26:27! 4 players
+! 11/14/08 14:26:27! Flopped cards: 6s Qd Js
+! 11/14/08 14:54:44! fich checks
+! 11/14/08 14:58:14! couchtater checks
+! 11/14/08 15:48:42! Smeagol checks
+! 11/14/08 16:26:27! Ray Powers checks
+
+! 11/14/08 16:26:27! Pot right ($1600), flopping/dealing/drawing cards
+! 11/14/08 16:26:27! 4 players
+! 11/14/08 16:26:27! Flopped card: 3h
+! 11/14/08 17:16:05! fich checks
+! 11/14/08 19:09:37! couchtater checks
+! 11/14/08 19:09:37! Smeagol checks
+! 11/14/08 21:28:11! Ray Powers checks
+
+! 11/14/08 21:28:11! Pot right ($1600), flopping/dealing/drawing cards
+! 11/14/08 21:28:11! 4 players
+! 11/14/08 21:28:11! Flopped card: 9d
+! 11/15/08 13:28:44! fich checks
+! 11/16/08 10:32:34! couchtater checks
+! 11/16/08 10:32:34! Smeagol checks
+! 11/16/08 10:32:34! Ray Powers checks
+! Hand over, current board is:  6s Qd Js 3h 9d
+! fich                     has: Ah 10h
+! couchtater               has: Ad 7d
+! Smeagol                  has: As 3s
+! Ray Powers               has: 5s 5d
+! Ray Powers wins $1600 (net $1200) with One Pair (5 5 Q J 9)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Poker Ken                |  21100 |        |      |    |        |
+ 2|   DroogieDroog             |  19000 |        |      |    |        |
+ 3|   Warren Usui              |  19850 |        |      |    |        |
+ 4|   Shyam Markus             |  17450 |        |      |    |        |
+ 5|D> fich                     |  19900 |        |      |    |        |
+ 6|   couchtater               |  18750 |        |      |    |        |
+ 7|   Smeagol                  |  18700 |        |      |    |        |
+ 8|   jasong            |  33000 |        |      |    |        |
+ 9|   calemb10                 |  19600 |        |      |    |        |
+10|   Ray Powers               |  32650 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 1030 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b90.html
+
+TOURNEY INFORMATION
+
+
+NOTICE:
+
+If you are on vacation for 45 days you will be 
+removed from the tourney.  Exceptions will be made 
+only in the case of telling the floorman why you
+have a good reason to be gone for 45 days before
+the 45 days have elapsed.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org
+

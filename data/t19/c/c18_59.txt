@@ -1,0 +1,94 @@
+Message-Id: <201001211722.o0LHMvr3007709@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [c18.10116] Holdem Game Broadcast Message(*)                          
+
+! Table c18, Hand 59, Day 67
+
+! jasong folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|D  Levi                     |  17300 |     50 |folded|    |        |
+ 2|>  Widowmaker               |  35200 |  34050 |      |    |        |
+ 3|   UKPOKER                  |  23950 |    450 |folded|    |        |
+ 4|V  Vike                     |  22750 |     50 |<Gone>|    |        |
+ 5|   JB                       |  58750 |     50 |folded|    |        |
+ 6|   jasong            |  22500 |   8050 |folded|    |        |
+ 7|   MichaelJ                 |  40975 |     50 |folded|    |        |
+ 8|   Senor Sheep              |  30800 |     50 |folded|    |        |
+ 9|   Brian K                  |  53950 |     50 |folded|    |        |
+10|   jcommand                 |  52125 |     50 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 01/20/10 09:55:03! Dealing a new hand
+! 01/20/10 09:55:03! Everyone antes $50
+! 01/20/10 09:55:03! Widowmaker blinds $200
+! 01/20/10 09:55:03! UKPOKER blinds $400
+! 01/20/10 09:55:03! Vike is on vacation and folds
+! 01/20/10 11:14:56! JB folds
+! 01/20/10 12:07:42! jasong raises $1600 
+! 01/20/10 12:10:54! MichaelJ folds
+! 01/20/10 12:10:54! Senor Sheep folds
+! 01/20/10 12:31:51! Brian K folds
+! 01/20/10 12:31:51! jcommand folds
+! 01/20/10 15:16:50! Levi folds
+! 01/20/10 15:16:50! Widowmaker calls 
+! 01/21/10 00:25:23! UKPOKER folds
+
+! 01/21/10 00:25:23! Pot right ($4900), flopping/dealing/drawing cards
+! 01/21/10 00:25:23! 2 players
+! 01/21/10 00:25:23! Flopped cards: 9h 4h 10s
+! 01/21/10 03:27:51! Widowmaker bets $2000 
+! 01/21/10 07:51:23! jasong raises $4000 
+! 01/21/10 08:29:14! Widowmaker raises $26000 
+! 01/21/10 09:22:56! jasong folds
+! Hand over, no showdown
+! Current board is:  9h 4h 10s ? ?
+! Widowmaker wins $42900 (net $8850)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Levi                     |  17300 |        |      |    |        |
+ 2|D> Widowmaker               |  78100 |        |      |    |        |
+ 3|   UKPOKER                  |  23950 |        |      |    |        |
+ 4|V  Vike                     |  22750 |        |<Gone>|    |        |
+ 5|   JB                       |  58750 |        |      |    |        |
+ 6|   jasong            |  22500 |        |      |    |        |
+ 7|   MichaelJ                 |  40975 |        |      |    |        |
+ 8|   Senor Sheep              |  30800 |        |      |    |        |
+ 9|   Brian K                  |  53950 |        |      |    |        |
+10|   jcommand                 |  52125 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 748 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c18.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Good luck in the second round.
+
+Try to send your action in before it is your turn so keep
+play moving quickly.
+
+Live Redraw Status as of 01/21/10 08:55:01 AM
+
+Total Empty Seats: 11
+Total Playing Seats: 748
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org or follow "wrgpt" on Twitter.
+

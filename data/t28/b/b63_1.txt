@@ -1,0 +1,133 @@
+Subject: [b63.10028] Holdem Game Broadcast Message(*)
+
+! Table b63, Hand 1, Day 3
+
+! Gunter Flagendorf folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  Gunter Flagendorf        |   32950 |   17050 |folded|    |         |
+ 2|   SJL                      |   49925 |      75 |folded|    |         |
+ 3|   SCSI                     |   49850 |     150 |folded|    |         |
+ 4|>  breyercalvert            |    5450 |   44550 |      |    |         |
+ 5|   PMedhurst                |   50000 |       0 |folded|    |         |
+ 6|   SJSJohnson               |   49550 |     450 |folded|    |         |
+ 7|   Jon Nightingale          |    5450 |   44550 |      |    |         |
+ 8|   reelbigbeagles           |   50000 |       0 |folded|    |         |
+ 9|   bigjimmf1                |   50000 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/12/18 03:49:14! SJL is back from vacation
+! 11/12/18 05:02:36! bigjimmf1 is back from vacation
+! 11/12/18 05:14:05! breyercalvert is back from vacation
+! 11/12/18 05:30:05! SCSI is back from vacation
+! 11/12/18 08:08:29! reelbigbeagles is back from vacation
+! 11/12/18 08:13:36! Jon Nightingale is back from vacation
+! 11/12/18 09:41:49! PMedhurst is back from vacation
+! 11/12/18 13:10:17! SJSJohnson is back from vacation
+! 11/13/18 00:06:16! Dealing a new hand
+! 11/13/18 00:06:16! No ante
+! 11/13/18 00:06:16! SJL blinds $75
+! 11/13/18 00:06:16! SCSI blinds $150
+! 11/13/18 04:34:14! breyercalvert raises $300 to $450 total 
+! 11/13/18 06:11:54! Gunter Flagendorf is back from vacation
+! 11/13/18 06:38:57! PMedhurst folds
+! 11/13/18 11:29:58! SJSJohnson calls 
+! 11/13/18 11:29:58! Jon Nightingale calls 
+! 11/13/18 12:27:20! reelbigbeagles folds
+! 11/13/18 12:27:20! bigjimmf1 folds
+! 11/13/18 12:29:59! Gunter Flagendorf raises $2050 to $2500 total 
+! 11/13/18 12:29:59! SJL folds
+! 11/13/18 12:29:59! SCSI folds
+! 11/13/18 12:58:58! breyercalvert raises $4550 to $7050 total 
+! 11/13/18 13:00:53! SJSJohnson folds
+! 11/13/18 13:46:06! Jon Nightingale calls 
+! 11/13/18 13:50:48! Gunter Flagendorf calls 
+
+! 11/13/18 13:50:48! Pot right ($21825), flopping/dealing/drawing cards
+! 11/13/18 13:50:48! 3 players
+! 11/13/18 13:50:48! Flopped cards: Jc 5c 6d
+! 11/13/18 13:51:44! breyercalvert bets $10000 
+! 11/13/18 16:04:42! Jon Nightingale calls 
+! 11/13/18 16:05:48! Gunter Flagendorf calls 
+
+! 11/13/18 16:05:48! Pot right ($51825), flopping/dealing/drawing cards
+! 11/13/18 16:05:48! 3 players
+! 11/13/18 16:05:48! Flopped card: 10h
+! 11/13/18 18:42:58! breyercalvert checks
+! 11/13/18 20:23:12! Jon Nightingale checks
+! 11/14/18 05:14:49! Gunter Flagendorf checks
+
+! 11/14/18 05:14:49! Pot right ($51825), flopping/dealing/drawing cards
+! 11/14/18 05:14:49! 3 players
+! 11/14/18 05:14:49! Flopped card: Qd
+! 11/14/18 05:16:02! breyercalvert bets $27500 
+! 11/14/18 08:07:15! Jon Nightingale calls 
+! 11/14/18 08:46:54! Gunter Flagendorf folds
+! Hand over, current board is:  Jc 5c 6d 10h Qd
+! breyercalvert            has: Ad Kc
+! Jon Nightingale          has: 9d 8d
+! breyercalvert wins $106825 (net $62275) with Straight (A K Q J 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Gunter Flagendorf        |   32950 |         |      |    |         |
+ 2|D  SJL                      |   49925 |         |      |    |         |
+ 3|   SCSI                     |   49850 |         |      |    |         |
+ 4|>  breyercalvert            |  112275 |         |      |    |         |
+ 5|   PMedhurst                |   50000 |         |      |    |         |
+ 6|   SJSJohnson               |   49550 |         |      |    |         |
+ 7|   Jon Nightingale          |    5450 |         |      |    |         |
+ 8|   reelbigbeagles           |   50000 |         |      |    |         |
+ 9|   bigjimmf1                |   50000 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 585 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b63.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 7
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

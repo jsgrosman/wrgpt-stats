@@ -1,0 +1,127 @@
+
+! Table f3, Hand 342, Day 164
+
+! jasong calls 
+! Pot right ($1232400), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 8d
+! Flopped card: 3s
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   rtroll                   |  466400 |   22000 |folded|    |         |
+ 2|   Jillian McKillican       |       0 |  478200 |all-in|    |         |
+ 3|   Stefan Dios              |  301925 |    2000 |folded|    |         |
+ 4|   Bwana                    | 2693850 |    2000 |folded|    |         |
+ 5|   SCSI                     |  409575 |  232000 |folded|    |         |
+ 6|   Dman                     |  442400 |    2000 |folded|    |         |
+ 7|>  jasong            |  173500 |  478200 |      |    |         |
+ 8|   Poker Dog                | 1149775 |    2000 |folded|    |         |
+ 9|D  NS                       |  455250 |    2000 |folded|    |         |
+10|   Bagock Esq               |  191575 |   12000 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 04/04/18 07:02:53! Dealing a new hand
+! 04/04/18 07:02:53! Everyone antes $2000
+! 04/04/18 07:02:53! Bagock Esq blinds $10000
+! 04/04/18 07:02:53! rtroll blinds $20000
+! 04/04/18 08:24:59! Jillian McKillican calls 
+! 04/04/18 08:24:59! Stefan Dios folds
+! 04/04/18 09:02:04! Bwana folds
+! 04/04/18 09:08:58! SCSI raises $60000 to $80000 total 
+! 04/04/18 09:08:58! Dman folds
+! 04/04/18 10:03:54! jasong calls 
+! 04/04/18 10:27:25! Poker Dog folds
+! 04/04/18 10:27:25! NS folds
+! 04/04/18 11:02:10! Bagock Esq folds
+! 04/04/18 13:06:36! rtroll folds
+! 04/04/18 13:06:36! Jillian McKillican calls 
+
+! 04/04/18 13:06:36! Pot right ($290000), flopping/dealing/drawing cards
+! 04/04/18 13:06:36! 3 players
+! 04/04/18 13:06:36! Flopped cards: Jd 7s Qc
+! 04/04/18 13:43:32! Jillian McKillican checks
+! 04/04/18 13:44:31! SCSI bets $150000 
+! 04/04/18 13:48:40! jasong raises $150000 to $300000 total 
+! 04/04/18 14:14:05! Jillian McKillican raises $96200 to $396200 total and is all in
+! 04/04/18 14:14:41! SCSI folds
+! 04/04/18 14:16:03! jasong calls 
+
+! 04/04/18 14:16:03! Pot right ($1232400), flopping/dealing/drawing cards
+! 04/04/18 14:16:03! 2 players, 1 all in
+! 04/04/18 14:16:03! Flopped card: 8d
+! 04/04/18 14:16:03! Flopped card: 3s
+! Hand over, current board is:  Jd 7s Qc 8d 3s
+! Jillian McKillican       has: 10s 10h
+! jasong            has: As Qs
+! jasong wins $1232400 (net $754200) with One Pair (Q Q A J 8)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   rtroll                   |  466400 |         |      |    |         |
+ 3|   Stefan Dios              |  301925 |         |      |    |         |
+ 4|   Bwana                    | 2693850 |         |      |    |         |
+ 5|   SCSI                     |  409575 |         |      |    |         |
+ 6|   Dman                     |  442400 |         |      |    |         |
+ 7|>  jasong            | 1405900 |         |      |    |         |
+ 8|   Poker Dog                | 1149775 |         |      |    |         |
+ 9|   NS                       |  455250 |         |      |    |         |
+10|D  Bagock Esq               |  191575 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Jillian McKillican is eliminated!
+! 34 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/f/f3.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+However, if there were prizes they would pay the top 63 entrants.
+The standings are now showing theoretical prizes if WRGPT were a
+10k event.
+
+======
+
+Live Redraw Status as of 04/04/18 01:55:01 PM
+
+Total Empty Seats: 4
+Total Playing Seats: 35
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman27@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

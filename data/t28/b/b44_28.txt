@@ -1,0 +1,127 @@
+Subject: [b44.10482] Holdem Game Broadcast Message(*)
+
+! Table b44, Hand 28, Day 25
+
+! SmBoatDrinks calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  Limpy                    |   24325 |    1800 |folded|    |         |
+ 2|   ADB Jaeger               |   52025 |     150 |folded|    |         |
+ 3|   sgranen                  |   46825 |     300 |folded|    |         |
+ 4|   Mike D.                  |   33050 |       0 |folded|    |         |
+ 5|   BillB                    |   70825 |     600 |folded|    |         |
+ 6|   SmBoatDrinks             |   37925 |    5800 |      |    |         |
+ 7|>  Monika                   |   41275 |    5800 |      |    |         |
+ 8|   Mark-Ed Cards            |   69975 |       0 |folded|    |         |
+ 9|   Pete Holmes              |   59325 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/05/18 15:42:57! Dealing a new hand
+! 12/05/18 15:42:57! No ante
+! 12/05/18 15:42:57! ADB Jaeger blinds $150
+! 12/05/18 15:42:57! sgranen blinds $300
+! 12/05/18 15:48:03! Mike D. folds
+! 12/05/18 16:33:01! BillB calls 
+! 12/05/18 18:02:44! SmBoatDrinks calls 
+! 12/05/18 21:23:59! Monika raises $300 to $600 total 
+! 12/05/18 21:23:59! Mark-Ed Cards folds
+! 12/05/18 21:25:50! Pete Holmes folds
+! 12/06/18 05:48:58! Limpy calls 
+! 12/06/18 05:48:58! ADB Jaeger folds
+! 12/06/18 07:24:23! sgranen folds
+! 12/06/18 07:50:20! BillB calls 
+! 12/06/18 08:32:30! SmBoatDrinks calls 
+
+! 12/06/18 08:32:30! Pot right ($2850), flopping/dealing/drawing cards
+! 12/06/18 08:32:30! 4 players
+! 12/06/18 08:32:30! Flopped cards: 7c 3h Jc
+! 12/06/18 09:37:15! BillB checks
+! 12/06/18 09:37:59! SmBoatDrinks checks
+! 12/06/18 11:50:05! Monika bets $400 
+! 12/06/18 12:59:54! Limpy raises $800 to $1200 total 
+! 12/06/18 13:04:44! BillB folds
+! 12/06/18 13:14:45! SmBoatDrinks calls 
+! 12/06/18 13:19:19! Monika calls 
+
+! 12/06/18 13:19:19! Pot right ($6450), flopping/dealing/drawing cards
+! 12/06/18 13:19:19! 3 players
+! 12/06/18 13:19:19! Flopped card: 6c
+! 12/06/18 13:39:37! SmBoatDrinks checks
+! 12/06/18 13:55:48! Monika bets $2000 
+! 12/06/18 14:51:33! Limpy folds
+! 12/06/18 14:57:53! SmBoatDrinks calls 
+
+! 12/06/18 14:57:53! Pot right ($10450), flopping/dealing/drawing cards
+! 12/06/18 14:57:53! 2 players
+! 12/06/18 14:57:53! Flopped card: 4s
+! 12/06/18 14:59:02! SmBoatDrinks checks
+! 12/06/18 17:04:20! Monika bets $2000 
+! 12/06/18 17:40:21! SmBoatDrinks calls 
+! Hand over, current board is:  7c 3h Jc 6c 4s
+! SmBoatDrinks             has: 7s 7h
+! Monika                   has: Ah Ad
+! SmBoatDrinks wins $14450 (net $8650) with Three of a Kind (7 7 7 J 6)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Limpy                    |   24325 |         |      |    |         |
+ 2|D  ADB Jaeger               |   52025 |         |      |    |         |
+ 3|   sgranen                  |   46825 |         |      |    |         |
+ 4|   Mike D.                  |   33050 |         |      |    |         |
+ 5|   BillB                    |   70825 |         |      |    |         |
+ 6|   SmBoatDrinks             |   52375 |         |      |    |         |
+ 7|>  Monika                   |   41275 |         |      |    |         |
+ 8|   Mark-Ed Cards            |   69975 |         |      |    |         |
+ 9|   Pete Holmes              |   59325 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 514 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b44.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

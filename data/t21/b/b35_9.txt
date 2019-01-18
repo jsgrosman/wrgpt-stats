@@ -1,0 +1,117 @@
+Message-Id: <201111300251.pAU2pdQS007671@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [b35.10125] Holdem Game Broadcast Message(*)                          
+
+! Table b35, Hand 9, Day 16
+
+! jasong calls 
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|V  Will Farley              |  29800 |    200 | NoSho|    |        |
+ 2|   Willy Eckerslyke         |  33050 |    200 |folded|    |        |
+ 3|   Chris Learmonth          |  29900 |      0 |folded|    |        |
+ 4|>  Robert Odell             |  15000 |  13950 |      |    |        |
+ 5|V  Joe Wood                 |  29850 |      0 | NoSho|    |        |
+ 6|   StingRay                 |  27200 |      0 |folded|    |        |
+ 7|   Craig N. Boyle           |  31150 |      0 |folded|    |        |
+ 8|   berj kacherian           |  27950 |   1000 |folded|    |        |
+ 9|D  jasong            |  17100 |  13950 |      |    |        |
+10|   Kina Grannis             |  29500 |    200 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 11/29/11 09:25:28! Dealing a new hand
+! 11/29/11 09:25:28! No ante
+! 11/29/11 09:25:28! Kina Grannis blinds $100
+! 11/29/11 09:25:28! Will Farley blinds $200
+! 11/29/11 10:27:15! Willy Eckerslyke calls 
+! 11/29/11 10:27:15! Chris Learmonth folds
+! 11/29/11 10:40:03! Robert Odell calls 
+! 11/29/11 10:40:03! Joe Wood is on vacation and folds
+! 11/29/11 10:40:03! StingRay folds
+! 11/29/11 10:40:03! Craig N. Boyle folds
+! 11/29/11 10:44:18! berj kacherian calls 
+! 11/29/11 10:44:51! jasong calls 
+! 11/29/11 11:29:06! Kina Grannis calls 
+! 11/29/11 11:29:06! Will Farley is on vacation and checks
+
+! 11/29/11 11:29:06! Pot right ($1200), flopping/dealing/drawing cards
+! 11/29/11 11:29:06! 6 players
+! 11/29/11 11:29:06! Flopped cards: 5c 9s 8s
+! 11/29/11 11:30:48! Kina Grannis checks
+! 11/29/11 11:30:48! Will Farley is on vacation and checks
+! 11/29/11 12:59:40! Willy Eckerslyke checks
+! 11/29/11 12:59:40! Robert Odell bets $800 
+! 11/29/11 13:43:24! berj kacherian calls 
+! 11/29/11 13:50:58! jasong raises $3600 
+! 11/29/11 14:50:11! Kina Grannis folds
+! 11/29/11 14:50:11! Will Farley is on vacation and folds
+! 11/29/11 14:50:11! Willy Eckerslyke folds
+! 11/29/11 14:53:46! Robert Odell calls 
+! 11/29/11 17:44:45! berj kacherian folds
+
+! 11/29/11 17:44:45! Pot right ($10800), flopping/dealing/drawing cards
+! 11/29/11 17:44:45! 2 players
+! 11/29/11 17:44:45! Flopped card: 5h
+! 11/29/11 18:02:00! Robert Odell bets $3200 
+! 11/29/11 18:43:32! jasong calls 
+
+! 11/29/11 18:43:32! Pot right ($17200), flopping/dealing/drawing cards
+! 11/29/11 18:43:32! 2 players
+! 11/29/11 18:43:32! Flopped card: Qh
+! 11/29/11 18:45:55! Robert Odell bets $6150 
+! 11/29/11 18:51:39! jasong calls 
+! Hand over, current board is:  5c 9s 8s 5h Qh
+! Robert Odell             has: Ks 5s
+! jasong            has: 9h 8c
+! Robert Odell wins $29500 (net $15550) with Three of a Kind (5 5 5 K Q)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|V  Will Farley              |  29800 |        | NoSho|    |        |
+ 2|   Willy Eckerslyke         |  33050 |        |      |    |        |
+ 3|   Chris Learmonth          |  29900 |        |      |    |        |
+ 4|>  Robert Odell             |  44500 |        |      |    |        |
+ 5|V  Joe Wood                 |  29850 |        | NoSho|    |        |
+ 6|   StingRay                 |  27200 |        |      |    |        |
+ 7|   Craig N. Boyle           |  31150 |        |      |    |        |
+ 8|   berj kacherian           |  27950 |        |      |    |        |
+ 9|   jasong            |  17100 |        |      |    |        |
+10|D  Kina Grannis             |  29500 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 820 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b35.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+This is the real tourney.  The practice round is over.
+Please RECHECK your cards to see you have from the "B" round.
+Also, your ID will NOT start with a "p" in the real tourney.
+
+Good luck.
+
+Having problems? Send email to floorman21@wrgpt.org.
+
+Live Redraw Status as of 11/29/11 06:25:01 PM
+
+Total Empty Seats: 29
+Total Playing Seats: 821
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+

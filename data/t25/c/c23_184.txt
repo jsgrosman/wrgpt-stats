@@ -1,0 +1,119 @@
+
+! Table c23, Hand 184, Day 93
+
+! the cake is a pie calls 
+! Pot right ($47000), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 7h
+! Flopped card: 10c
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   jasong            |  51475 |   1300 |folded|    |        |
+ 2|   MojoJojo                 |  81175 |   2300 |folded|    |        |
+ 3|>  the cake is a pie        | 146075 |  18100 |      |    |        |
+ 4|   Walter Hunt              |  40600 |    300 |folded|    |        |
+ 6|   Murtan                   |  81300 |   2300 |folded|    |        |
+ 7|   888                      | 104050 |   2300 |folded|    |        |
+ 8|   Bob                      | 148400 |   2300 |folded|    |        |
+ 9|D  GestaltyDog              |      0 |  18100 |all-in|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 01/25/16 15:02:37! Dealing a new hand
+! 01/25/16 15:02:37! Everyone antes $300
+! 01/25/16 15:02:37! jasong blinds $1000
+! 01/25/16 15:02:37! MojoJojo blinds $2000
+! 01/25/16 20:01:54! the cake is a pie calls 
+! 01/25/16 20:01:54! Walter Hunt folds
+! 01/25/16 22:35:11! Murtan calls 
+! 01/26/16 02:08:05! 888 calls 
+! 01/26/16 06:03:18! Bob calls 
+! 01/26/16 08:36:52! GestaltyDog calls 
+! 01/26/16 08:36:52! jasong folds
+! 01/26/16 08:37:40! MojoJojo checks
+
+! 01/26/16 08:37:40! Pot right ($15400), flopping/dealing/drawing cards
+! 01/26/16 08:37:40! 6 players
+! 01/26/16 08:37:40! Flopped cards: 9h 5c 3s
+! 01/26/16 08:38:04! MojoJojo checks
+! 01/26/16 08:51:57! the cake is a pie bets $10500 
+! 01/26/16 09:48:34! Murtan folds
+! 01/26/16 09:56:15! 888 folds
+! 01/26/16 09:56:15! Bob folds
+! 01/26/16 09:56:15! GestaltyDog raises $5300 and is all in
+! 01/26/16 09:56:15! MojoJojo folds
+! 01/26/16 09:57:02! the cake is a pie calls 
+
+! 01/26/16 09:57:02! Pot right ($47000), flopping/dealing/drawing cards
+! 01/26/16 09:57:02! 2 players, 1 all in
+! 01/26/16 09:57:02! Flopped card: 7h
+! 01/26/16 09:57:02! Flopped card: 10c
+! Hand over, current board is:  9h 5c 3s 7h 10c
+! the cake is a pie        has: 9s 8c
+! GestaltyDog              has: Kd 9d
+! GestaltyDog wins $47000 (net $28900) with One Pair (9 9 K 10 7)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|D  jasong            |  51475 |        |      |    |        |
+ 2|   MojoJojo                 |  81175 |        |      |    |        |
+ 3|>  the cake is a pie        | 146075 |        |      |    |        |
+ 4|   Walter Hunt              |  40600 |        |      |    |        |
+ 6|   Murtan                   |  81300 |        |      |    |        |
+ 7|   888                      | 104050 |        |      |    |        |
+ 8|   Bob                      | 148400 |        |      |    |        |
+ 9|   GestaltyDog              |  47000 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 241 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c23.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+There will be no further live redraws for the "c" round
+as we have been playing over 30 days.  When the first table
+gets to five or fewer players every table will finish the
+current hand and a full redraw will occur.
+
+======
+
+Live Redraw Status as of 01/26/16 09:55:01 AM
+
+Total Empty Seats: 39
+Total Playing Seats: 241
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman25@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

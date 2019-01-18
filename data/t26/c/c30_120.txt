@@ -1,0 +1,118 @@
+
+! Table c30, Hand 120, Day 63
+
+! slugbot calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  jasong            |   53350 |     100 |folded|    |         |
+ 2|>  delbaeth                 |   13175 |   10600 |      |    |         |
+ 3|   slugbot                  |   34900 |   10600 |      |    |         |
+ 4|   Morgan                   |   29550 |     100 |folded|    |         |
+ 5|   jfholmes                 |   82150 |     100 |folded|    |         |
+ 6|   Oldbear                  |   71200 |     100 |folded|    |         |
+ 7|   TomasL                   |   40025 |     100 |folded|    |         |
+ 8|   Brent Widmark            |   61700 |     100 |folded|    |         |
+ 9|   SmBoatDrinks             |  117200 |     100 |folded|    |         |
+10|   shinsook                 |   91775 |     100 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/17/16 18:03:33! Dealing a new hand
+! 12/17/16 18:03:33! Everyone antes $100
+! 12/17/16 18:03:33! delbaeth blinds $250
+! 12/17/16 18:03:33! slugbot blinds $500
+! 12/17/16 18:04:18! Morgan folds
+! 12/17/16 18:06:02! jfholmes folds
+! 12/17/16 19:59:32! Oldbear folds
+! 12/17/16 20:58:53! TomasL folds
+! 12/17/16 20:58:53! Brent Widmark folds
+! 12/17/16 21:16:21! SmBoatDrinks folds
+! 12/17/16 21:25:02! shinsook folds
+! 12/18/16 05:48:07! jasong folds
+! 12/18/16 09:15:02! delbaeth calls 
+! 12/18/16 13:07:22! slugbot checks
+
+! 12/18/16 13:07:22! Pot right ($2000), flopping/dealing/drawing cards
+! 12/18/16 13:07:22! 2 players
+! 12/18/16 13:07:22! Flopped cards: 7h 10c 2h
+! 12/18/16 13:54:35! delbaeth bets $1000 
+! 12/18/16 14:53:02! slugbot calls 
+
+! 12/18/16 14:53:02! Pot right ($4000), flopping/dealing/drawing cards
+! 12/18/16 14:53:02! 2 players
+! 12/18/16 14:53:02! Flopped card: Ah
+! 12/18/16 15:08:35! delbaeth bets $3000 
+! 12/18/16 15:14:09! slugbot calls 
+
+! 12/18/16 15:14:09! Pot right ($10000), flopping/dealing/drawing cards
+! 12/18/16 15:14:09! 2 players
+! 12/18/16 15:14:09! Flopped card: 6s
+! 12/18/16 15:18:10! delbaeth bets $6000 
+! 12/18/16 15:21:40! slugbot calls 
+! Hand over, current board is:  7h 10c 2h Ah 6s
+! delbaeth                 has: 7d Ac
+! slugbot                  has: Js 10s
+! delbaeth wins $22000 (net $11400) with Two Pair (A A 7 7 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   jasong            |   53350 |         |      |    |         |
+ 2|D> delbaeth                 |   35175 |         |      |    |         |
+ 3|   slugbot                  |   34900 |         |      |    |         |
+ 4|   Morgan                   |   29550 |         |      |    |         |
+ 5|   jfholmes                 |   82150 |         |      |    |         |
+ 6|   Oldbear                  |   71200 |         |      |    |         |
+ 7|   TomasL                   |   40025 |         |      |    |         |
+ 8|   Brent Widmark            |   61700 |         |      |    |         |
+ 9|   SmBoatDrinks             |  117200 |         |      |    |         |
+10|   shinsook                 |   91775 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 389 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c30.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+======
+
+Live Redraw Status as of 12/18/16 02:55:02 PM
+
+Total Empty Seats: 28
+Total Playing Seats: 389
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman26@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

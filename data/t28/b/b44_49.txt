@@ -1,0 +1,131 @@
+Subject: [b44.10793] Holdem Game Broadcast Message(*)
+
+! Table b44, Hand 49, Day 46
+
+! sgranen checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   MarcJallday              |   44850 |     450 |folded|    |         |
+ 2|>  ADB Jaeger               |   44175 |    3700 |      |    |         |
+ 3|   sgranen                  |   91825 |    3700 |      |    |         |
+ 4|D  Mike D.                  |    8450 |      50 |folded|    |         |
+ 5|   BillB                    |   77925 |     450 |folded|    |         |
+ 6|   SmBoatDrinks             |   18475 |     450 |folded|    |         |
+ 7|   Monika                   |   41025 |      50 |folded|    |         |
+ 8|   Mark-Ed Cards            |   46450 |     450 |folded|    |         |
+ 9|   Pete Holmes              |   92675 |     450 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/26/18 09:41:03! Dealing a new hand
+! 12/26/18 09:41:03! Everyone antes $50
+! 12/26/18 09:41:03! BillB blinds $200
+! 12/26/18 09:41:03! SmBoatDrinks blinds $400
+! 12/26/18 13:10:23! Monika folds
+! 12/26/18 13:10:23! Mark-Ed Cards calls 
+! 12/26/18 13:17:22! Pete Holmes calls 
+! 12/26/18 13:44:49! MarcJallday calls 
+! 12/26/18 13:52:26! ADB Jaeger calls 
+! 12/26/18 15:09:00! sgranen calls 
+! 12/26/18 15:09:00! Mike D. folds
+! 12/26/18 15:28:12! BillB calls 
+! 12/26/18 15:34:42! SmBoatDrinks checks
+
+! 12/26/18 15:34:42! Pot right ($3250), flopping/dealing/drawing cards
+! 12/26/18 15:34:42! 7 players
+! 12/26/18 15:34:42! Flopped cards: Qd 7c 6h
+! 12/26/18 15:35:37! BillB checks
+! 12/26/18 15:37:13! SmBoatDrinks checks
+! 12/26/18 15:54:13! Mark-Ed Cards checks
+! 12/26/18 15:57:02! Pete Holmes checks
+! 12/26/18 18:12:55! MarcJallday checks
+! 12/26/18 20:27:57! ADB Jaeger checks
+! 12/26/18 20:58:11! sgranen checks
+
+! 12/26/18 20:58:11! Pot right ($3250), flopping/dealing/drawing cards
+! 12/26/18 20:58:11! 7 players
+! 12/26/18 20:58:11! Flopped card: Ah
+! 12/26/18 21:24:57! BillB checks
+! 12/26/18 21:28:54! SmBoatDrinks checks
+! 12/26/18 21:28:54! Mark-Ed Cards checks
+! 12/27/18 01:44:18! Pete Holmes checks
+! 12/27/18 01:44:18! MarcJallday checks
+! 12/27/18 04:12:11! ADB Jaeger bets $3250 
+! 12/27/18 08:18:57! sgranen calls 
+! 12/27/18 08:18:57! BillB folds
+! 12/27/18 08:23:53! SmBoatDrinks folds
+! 12/27/18 08:23:53! Mark-Ed Cards folds
+! 12/27/18 08:26:43! Pete Holmes folds
+! 12/27/18 08:26:43! MarcJallday folds
+
+! 12/27/18 08:26:43! Pot right ($9750), flopping/dealing/drawing cards
+! 12/27/18 08:26:43! 2 players
+! 12/27/18 08:26:43! Flopped card: 7s
+! 12/27/18 08:51:27! ADB Jaeger checks
+! 12/27/18 08:54:26! sgranen checks
+! Hand over, current board is:  Qd 7c 6h Ah 7s
+! ADB Jaeger               has: Ad 10d
+! sgranen                  has: 9d Ac
+! ADB Jaeger wins $4875 (net $1175) with Two Pair (A A 7 7 Q)
+! sgranen wins $4875 (net $1175) with Two Pair (A A 7 7 Q)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   MarcJallday              |   44850 |         |      |    |         |
+ 2|>  ADB Jaeger               |   49050 |         |      |    |         |
+ 3|   sgranen                  |   96700 |         |      |    |         |
+ 4|   Mike D.                  |    8450 |         |      |    |         |
+ 5|D  BillB                    |   77925 |         |      |    |         |
+ 6|   SmBoatDrinks             |   18475 |         |      |    |         |
+ 7|   Monika                   |   41025 |         |      |    |         |
+ 8|   Mark-Ed Cards            |   46450 |         |      |    |         |
+ 9|   Pete Holmes              |   92675 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 428 players left in the tournament 
+! Table finished, waiting to redraw seats.
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b44.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+We are now over 45 days into round "b".  Any tables
+breaking at the end of day 45 will finish breaking but
+no new tables will be broken this round.  As soon as 
+any table gets to five or fewer players all tables will
+finish the current hand and a full redraw to round 
+"c" will be done.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 12
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

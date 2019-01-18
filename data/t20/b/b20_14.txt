@@ -1,0 +1,97 @@
+Message-Id: <201011091505.oA9F5gqW013916@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [b20.10171] Holdem Game Broadcast Message(*)                          
+
+! Table b20, Hand 14, Day 9
+
+! plankton folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Andrew Nelson            |  34550 |      0 |folded|    |        |
+ 2|   plankton                 |  51825 |    250 |folded|    |        |
+ 4|V  Late Entry 2             |  29700 |      0 | NoSho|    |        |
+ 5|   JackBlack                |  22725 |      0 |folded|    |        |
+ 6|D> wlu_lax6                 |  34550 |    500 |      |    |        |
+ 7|V  Cyberchomp               |  29700 |     50 |NOV 10|    |        |
+ 8|   jasong            |  36125 |    100 |folded|    |        |
+ 9|   dBeau                    |  29675 |    250 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 11/08/10 10:49:13! Dealing a new hand
+! 11/08/10 10:49:13! No ante
+! 11/08/10 10:49:13! Cyberchomp blinds $50
+! 11/08/10 10:49:13! jasong blinds $100
+! 11/08/10 11:10:10! dBeau calls 
+! 11/08/10 11:10:10! Andrew Nelson folds
+! 11/08/10 11:32:45! plankton calls 
+! 11/08/10 11:32:45! Late Entry 2 is on vacation and folds
+! 11/08/10 16:00:18! JackBlack folds
+! 11/08/10 17:37:07! wlu_lax6 raises $150 
+! 11/08/10 17:37:07! Cyberchomp is on vacation and folds
+! 11/08/10 19:41:19! jasong folds
+! 11/08/10 19:52:52! dBeau calls 
+! 11/08/10 20:05:27! plankton calls 
+
+! 11/08/10 20:05:27! Pot right ($900), flopping/dealing/drawing cards
+! 11/08/10 20:05:27! 3 players
+! 11/08/10 20:05:27! Flopped cards: 6d 10c 5h
+! 11/08/10 20:07:13! dBeau checks
+! 11/09/10 05:36:24! plankton checks
+! 11/09/10 05:38:28! wlu_lax6 bets $250 
+! 11/09/10 06:58:01! dBeau folds
+! 11/09/10 07:05:41! plankton folds
+! Hand over, no showdown
+! Current board is:  6d 10c 5h ? ?
+! wlu_lax6 wins $1150 (net $650)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Andrew Nelson            |  34550 |        |      |    |        |
+ 2|   plankton                 |  51825 |        |      |    |        |
+ 4|V  Late Entry 2             |  29700 |        | NoSho|    |        |
+ 5|   JackBlack                |  22725 |        |      |    |        |
+ 6|>  wlu_lax6                 |  35700 |        |      |    |        |
+ 7|DV Cyberchomp               |  29700 |        |NOV 10|    |        |
+ 8|   jasong            |  36125 |        |      |    |        |
+ 9|   dBeau                    |  29675 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 876 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b20.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to WRGPT20.
+This is the real tourney.
+Good luck.
+
+Changes to email or hours of play made in the practice round to NOT carry over
+to the real tourney.  You will need to set them again if you set them for
+the practice round.
+
+If you have problems send mail to floorman20@wrgpt.org.
+
+
+Live Redraw Status as of 11/09/10 06:55:01 AM
+
+Total Empty Seats: 24
+Total Playing Seats: 876
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org or follow "wrgpt" on Twitter.
+

@@ -1,0 +1,122 @@
+Subject: [b20.10239] Holdem Game Broadcast Message(*)
+
+! Table b20, Hand 21, Day 14
+
+! D-man calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Randy Hudson             |   51225 |       0 |folded|    |         |
+ 2|   Claudia M                |   50625 |       0 |folded|    |         |
+ 3|D  Frank Irwin              |   46650 |       0 |folded|    |         |
+ 4|>  J. Michael Hammond       |   40200 |    9750 |      |    |         |
+ 5|   D-man                    |   84200 |    9750 |      |    |         |
+ 6|   Mike B                   |   51600 |       0 |folded|    |         |
+ 7|   paulpud                  |   46325 |     150 |folded|    |         |
+ 8|   Andrew Nelson            |   48050 |       0 |folded|    |         |
+ 9|   Mrstcao                  |   60725 |     150 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/24/18 02:35:34! Dealing a new hand
+! 11/24/18 02:35:34! No ante
+! 11/24/18 02:35:34! J. Michael Hammond blinds $75
+! 11/24/18 02:35:34! D-man blinds $150
+! 11/24/18 04:02:04! Mike B folds
+! 11/24/18 07:49:26! paulpud calls 
+! 11/24/18 07:49:26! Andrew Nelson folds
+! 11/24/18 07:50:40! Mrstcao calls 
+! 11/24/18 07:50:40! Randy Hudson folds
+! 11/24/18 08:38:00! Claudia M folds
+! 11/24/18 08:38:00! Frank Irwin folds
+! 11/24/18 08:40:00! J. Michael Hammond calls 
+! 11/24/18 09:41:54! D-man checks
+
+! 11/24/18 09:41:54! Pot right ($600), flopping/dealing/drawing cards
+! 11/24/18 09:41:54! 4 players
+! 11/24/18 09:41:54! Flopped cards: 7s 4s 10c
+! 11/24/18 11:31:57! J. Michael Hammond checks
+! 11/24/18 11:44:54! D-man bets $600 
+! 11/24/18 12:22:54! paulpud folds
+! 11/24/18 14:40:24! Mrstcao folds
+! 11/24/18 14:45:04! J. Michael Hammond calls 
+
+! 11/24/18 14:45:04! Pot right ($1800), flopping/dealing/drawing cards
+! 11/24/18 14:45:04! 2 players
+! 11/24/18 14:45:04! Flopped card: 10s
+! 11/24/18 14:45:26! J. Michael Hammond checks
+! 11/24/18 15:56:07! D-man bets $1800 
+! 11/24/18 16:47:16! J. Michael Hammond raises $2200 to $4000 total 
+! 11/24/18 20:12:19! D-man calls 
+
+! 11/24/18 20:12:19! Pot right ($9800), flopping/dealing/drawing cards
+! 11/24/18 20:12:19! 2 players
+! 11/24/18 20:12:19! Flopped card: Kh
+! 11/25/18 02:21:29! J. Michael Hammond bets $5000 
+! 11/25/18 05:44:19! D-man calls 
+! Hand over, current board is:  7s 4s 10c 10s Kh
+! J. Michael Hammond       has: 6d 5d
+! D-man                    has: Ks 5s
+! D-man wins $19800 (net $10050) with Spade Flush (K 10 7 5 4)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Randy Hudson             |   51225 |         |      |    |         |
+ 2|   Claudia M                |   50625 |         |      |    |         |
+ 3|   Frank Irwin              |   46650 |         |      |    |         |
+ 4|D> J. Michael Hammond       |   40200 |         |      |    |         |
+ 5|   D-man                    |  104000 |         |      |    |         |
+ 6|   Mike B                   |   51600 |         |      |    |         |
+ 7|   paulpud                  |   46325 |         |      |    |         |
+ 8|   Andrew Nelson            |   48050 |         |      |    |         |
+ 9|   Mrstcao                  |   60725 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 563 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b20.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 4
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,114 @@
+Subject: [c2.10075] Holdem Game Broadcast Message(*)
+
+! Table c2, Hand 153, Day 63
+
+! Tom Bayz checks
+! kettledrum checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Hossein                  |  151850 |     100 |folded|    |         |
+ 2|   BillDaBear               |   50875 |     600 |folded|    |         |
+ 3|V  j831                     |   41700 |     100 |<AWOL>|    |         |
+ 4|   kettledrum               |   29500 |    6400 |      |    |         |
+ 5|   Bugsy                    |   75350 |     100 |folded|    |         |
+ 6|D  Zbigniew                 |   28425 |     100 |folded|    |         |
+ 7|>  Tom Bayz                 |   86325 |    6400 |      |    |         |
+ 8|   put_it_good              |   90475 |     600 |folded|    |         |
+ 9|   Billco                   |  168400 |     100 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/12/19 01:14:06! Dealing a new hand
+! 01/12/19 01:14:06! Everyone antes $100
+! 01/12/19 01:14:06! Tom Bayz blinds $250
+! 01/12/19 01:14:06! put_it_good blinds $500
+! 01/12/19 05:39:33! Billco folds
+! 01/12/19 12:30:44! Hossein folds
+! 01/12/19 12:42:19! BillDaBear calls 
+! 01/12/19 12:42:19! j831 is on vacation and folds
+! 01/12/19 13:01:21! kettledrum calls 
+! 01/12/19 13:01:21! Bugsy folds
+! 01/12/19 13:01:21! Zbigniew folds
+! 01/12/19 13:10:08! Tom Bayz calls 
+! 01/12/19 22:52:52! put_it_good checks
+
+! 01/12/19 22:52:52! Pot right ($2900), flopping/dealing/drawing cards
+! 01/12/19 22:52:52! 4 players
+! 01/12/19 22:52:52! Flopped cards: 2d 3s Ks
+! 01/13/19 03:56:34! Tom Bayz bets $1600 
+! 01/13/19 04:22:58! put_it_good folds
+! 01/13/19 09:44:45! BillDaBear folds
+! 01/13/19 09:48:53! kettledrum calls 
+
+! 01/13/19 09:48:53! Pot right ($6100), flopping/dealing/drawing cards
+! 01/13/19 09:48:53! 2 players
+! 01/13/19 09:48:53! Flopped card: 3d
+! 01/13/19 09:54:14! Tom Bayz bets $4200 
+! 01/13/19 10:08:16! kettledrum calls 
+
+! 01/13/19 10:08:16! Pot right ($14500), flopping/dealing/drawing cards
+! 01/13/19 10:08:16! 2 players
+! 01/13/19 10:08:16! Flopped card: 8d
+! 01/13/19 10:35:20! Tom Bayz checks
+! 01/13/19 10:35:20! kettledrum checks
+! Hand over, current board is:  2d 3s Ks 3d 8d
+! kettledrum               has: Js 10s
+! Tom Bayz                 has: Kh 10c
+! Tom Bayz wins $14500 (net $8100) with Two Pair (K K 3 3 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Hossein                  |  151850 |         |      |    |         |
+ 2|   BillDaBear               |   50875 |         |      |    |         |
+ 3|V  j831                     |   41700 |         |<AWOL>|    |         |
+ 4|   kettledrum               |   29500 |         |      |    |         |
+ 5|   Bugsy                    |   75350 |         |      |    |         |
+ 6|   Zbigniew                 |   28425 |         |      |    |         |
+ 7|D> Tom Bayz                 |  100825 |         |      |    |         |
+ 8|   put_it_good              |   90475 |         |      |    |         |
+ 9|   Billco                   |  168400 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 376 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c2.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+The "c" round has started.  Good luck to all
+the remaining players.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 5
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

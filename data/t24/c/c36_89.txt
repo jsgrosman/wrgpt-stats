@@ -1,0 +1,106 @@
+
+! Table c36, Hand 89, Day 70
+
+! Bob The Butcher folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   heyelander               |  68000 |    100 |folded|    |        |
+ 2|D  James Scharf             |  44050 |    100 |folded|    |        |
+ 3|   razhell                  |  26000 |    500 |folded|    |        |
+ 4|   Bob The Butcher          | 121100 |   2300 |folded|    |        |
+ 5|>  JonM                     |  48125 |   7800 |      |    |        |
+ 6|   Righteous Indignation    |  16350 |    100 |folded|    |        |
+ 7|   jasong            |  10950 |    100 |folded|    |        |
+ 8|   Chris Edwards            |  34400 |    100 |folded|    |        |
+ 9|   Chris Learmonth          |  16500 |   2300 |folded|    |        |
+10|   Al Hambra                |  52725 |    100 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 01/17/15 11:50:58! Dealing a new hand
+! 01/17/15 11:50:58! Everyone antes $100
+! 01/17/15 11:50:58! razhell blinds $400
+! 01/17/15 11:50:58! Bob The Butcher blinds $800
+! 01/17/15 13:56:27! JonM raises $1400 
+! 01/17/15 13:56:27! Righteous Indignation folds
+! 01/17/15 14:49:36! jasong folds
+! 01/18/15 09:21:34! Chris Edwards folds
+! 01/18/15 09:21:34! Chris Learmonth calls 
+! 01/18/15 09:21:34! Al Hambra folds
+! 01/18/15 13:22:24! heyelander folds
+! 01/18/15 13:22:24! James Scharf folds
+! 01/18/15 13:22:24! razhell folds
+! 01/18/15 13:31:36! Bob The Butcher calls 
+
+! 01/18/15 13:31:36! Pot right ($8000), flopping/dealing/drawing cards
+! 01/18/15 13:31:36! 3 players
+! 01/18/15 13:31:36! Flopped cards: 6d 5c 5s
+! 01/18/15 13:32:17! Bob The Butcher checks
+! 01/18/15 13:33:38! JonM bets $5500 
+! 01/18/15 13:43:16! Chris Learmonth folds
+! 01/18/15 13:50:53! Bob The Butcher folds
+! Hand over, no showdown
+! Current board is:  6d 5c 5s ? ?
+! JonM wins $13500 (net $5700)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   heyelander               |  68000 |        |      |    |        |
+ 2|   James Scharf             |  44050 |        |      |    |        |
+ 3|D  razhell                  |  26000 |        |      |    |        |
+ 4|   Bob The Butcher          | 121100 |        |      |    |        |
+ 5|>  JonM                     |  61625 |        |      |    |        |
+ 6|   Righteous Indignation    |  16350 |        |      |    |        |
+ 7|   jasong            |  10950 |        |      |    |        |
+ 8|   Chris Edwards            |  34400 |        |      |    |        |
+ 9|   Chris Learmonth          |  16500 |        |      |    |        |
+10|   Al Hambra                |  52725 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 437 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c36.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Good luck.
+
+======
+
+Live Redraw Status as of 01/18/15 01:25:01 PM
+
+Total Empty Seats: 13
+Total Playing Seats: 437
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+Here is a link to the railbird mailing list:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman24@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

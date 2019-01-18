@@ -1,0 +1,114 @@
+Subject: [c13.10142] Holdem Game Broadcast Message(*)
+
+! Table c13, Hand 162, Day 63
+
+! bert_ofcl checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   AveCat                   |  135050 |     100 |folded|    |         |
+ 2|   Charlie Tuna             |   17800 |     100 |folded|    |         |
+ 3|   David Weiss              |  121675 |    1600 |folded|    |         |
+ 4|V  UberHank                 |   39225 |     100 |<AWOL>|    |         |
+ 5|   Larry W                  |   40225 |     100 |folded|    |         |
+ 6|D  TheTwizz                 |    9200 |     100 |folded|    |         |
+ 7|>  Spidurman                |   96700 |   11200 |      |    |         |
+ 8|   Deets                    |   54000 |     600 |folded|    |         |
+ 9|   bert_ofcl                |   33025 |   11200 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/12/19 12:17:27! Dealing a new hand
+! 01/12/19 12:17:27! Everyone antes $100
+! 01/12/19 12:17:27! Spidurman blinds $250
+! 01/12/19 12:17:27! Deets blinds $500
+! 01/12/19 12:50:22! bert_ofcl raises $1000 to $1500 total 
+! 01/12/19 16:43:21! AveCat folds
+! 01/12/19 16:43:21! Charlie Tuna folds
+! 01/12/19 18:04:58! David Weiss calls 
+! 01/12/19 18:04:58! UberHank is on vacation and folds
+! 01/12/19 18:04:58! Larry W folds
+! 01/12/19 18:04:58! TheTwizz folds
+! 01/12/19 19:24:55! Spidurman calls 
+! 01/12/19 20:43:01! Deets folds
+
+! 01/12/19 20:43:01! Pot right ($5900), flopping/dealing/drawing cards
+! 01/12/19 20:43:01! 3 players
+! 01/12/19 20:43:01! Flopped cards: 3d 3h 9d
+! 01/12/19 21:40:06! Spidurman checks
+! 01/12/19 23:28:32! bert_ofcl bets $3100 
+! 01/13/19 03:51:56! David Weiss folds
+! 01/13/19 04:52:22! Spidurman calls 
+
+! 01/13/19 04:52:22! Pot right ($12100), flopping/dealing/drawing cards
+! 01/13/19 04:52:22! 2 players
+! 01/13/19 04:52:22! Flopped card: 10h
+! 01/13/19 04:52:44! Spidurman checks
+! 01/13/19 11:24:42! bert_ofcl bets $6500 
+! 01/13/19 12:42:48! Spidurman calls 
+
+! 01/13/19 12:42:48! Pot right ($25100), flopping/dealing/drawing cards
+! 01/13/19 12:42:48! 2 players
+! 01/13/19 12:42:48! Flopped card: 2s
+! 01/13/19 12:43:07! Spidurman checks
+! 01/13/19 12:43:47! bert_ofcl checks
+! Hand over, current board is:  3d 3h 9d 10h 2s
+! Spidurman                has: 9s 7s
+! bert_ofcl                has: Ks Qc
+! Spidurman wins $25100 (net $13900) with Two Pair (9 9 3 3 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   AveCat                   |  135050 |         |      |    |         |
+ 2|   Charlie Tuna             |   17800 |         |      |    |         |
+ 3|   David Weiss              |  121675 |         |      |    |         |
+ 4|V  UberHank                 |   39225 |         |<AWOL>|    |         |
+ 5|   Larry W                  |   40225 |         |      |    |         |
+ 6|   TheTwizz                 |    9200 |         |      |    |         |
+ 7|D> Spidurman                |  121800 |         |      |    |         |
+ 8|   Deets                    |   54000 |         |      |    |         |
+ 9|   bert_ofcl                |   33025 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 375 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c13.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+The "c" round has started.  Good luck to all
+the remaining players.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

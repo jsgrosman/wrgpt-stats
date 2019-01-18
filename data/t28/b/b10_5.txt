@@ -1,0 +1,122 @@
+Subject: [b10.10065] Holdem Game Broadcast Message(*)
+
+! Table b10, Hand 5, Day 3
+
+! Bwana bets $1100 and is all in
+! Deryl Garland calls 
+! Pot right ($149125), flopping/dealing/drawing cards
+! 3 players, 2 all in
+! Flopped card: Kh
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Sahu Habibi              |  105700 |       0 |folded|    |         |
+ 2|   BluffaloBill             |   49925 |       0 |folded|    |         |
+ 3|   Jillian McKillican       |       0 |   48900 |all-in|  3 |  146925 |
+ 5|>  Deryl Garland            |     150 |   50000 |      |  2 |    2200 |
+ 6|D  Cruella                  |   49775 |       0 |folded|    |         |
+ 7|   MacBond21                |   45625 |      75 |folded|    |         |
+ 8|   zipper                   |   49700 |     150 |folded|    |         |
+ 9|   Bwana                    |       0 |   50000 |all-in|  2 |    2200 |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/14/18 06:21:46! Dealing a new hand
+! 11/14/18 06:21:46! No ante
+! 11/14/18 06:21:46! MacBond21 blinds $75
+! 11/14/18 06:21:46! zipper blinds $150
+! 11/14/18 10:27:14! Bwana calls 
+! 11/14/18 10:27:14! Sahu Habibi folds
+! 11/14/18 10:27:14! BluffaloBill folds
+! 11/14/18 10:27:14! Jillian McKillican calls 
+! 11/14/18 10:32:31! Deryl Garland raises $675 to $825 total 
+! 11/14/18 10:32:31! Cruella folds
+! 11/14/18 10:35:54! MacBond21 folds
+! 11/14/18 11:01:08! zipper folds
+! 11/14/18 11:03:55! Bwana calls 
+! 11/14/18 11:05:50! Jillian McKillican calls 
+
+! 11/14/18 11:05:50! Pot right ($2700), flopping/dealing/drawing cards
+! 11/14/18 11:05:50! 3 players
+! 11/14/18 11:05:50! Flopped cards: Ac 8h Ah
+! 11/14/18 11:09:11! Bwana checks
+! 11/14/18 11:23:47! Jillian McKillican bets $48075 and is all in
+! 11/14/18 13:32:13! Deryl Garland calls 
+! 11/14/18 13:32:13! Bwana calls 
+
+! 11/14/18 13:32:13! Pot right ($146925), flopping/dealing/drawing cards
+! 11/14/18 13:32:13! 3 players, 1 all in
+! 11/14/18 13:32:13! Flopped card: 2d
+! 11/14/18 14:09:10! Bwana bets $1100 and is all in
+! 11/14/18 14:09:10! Deryl Garland calls 
+
+! 11/14/18 14:09:10! Pot right ($149125), flopping/dealing/drawing cards
+! 11/14/18 14:09:10! 3 players, 2 all in
+! 11/14/18 14:09:10! Flopped card: Kh
+! Hand over, current board is:  Ac 8h Ah 2d Kh
+! Jillian McKillican       has: 4h 4d
+! Deryl Garland            has: 8s 8c
+! Bwana                    has: Ad 9d
+! Pot 2: Deryl Garland wins $2200 with Full House (8 8 8 A A)
+! Pot 3: Deryl Garland wins $146925 with Full House (8 8 8 A A)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Sahu Habibi              |  105700 |         |      |    |         |
+ 2|   BluffaloBill             |   49925 |         |      |    |         |
+ 5|>  Deryl Garland            |  149275 |         |      |    |         |
+ 6|   Cruella                  |   49775 |         |      |    |         |
+ 7|D  MacBond21                |   45625 |         |      |    |         |
+ 8|   zipper                   |   49700 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Jillian McKillican is eliminated!
+! Bwana is eliminated!
+! 583 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b10.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 7
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

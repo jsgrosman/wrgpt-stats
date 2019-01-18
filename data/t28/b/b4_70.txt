@@ -1,0 +1,119 @@
+Subject: [b4.11085] Holdem Game Broadcast Message(*)
+
+! Table b4, Hand 70, Day 46
+
+! Todd Brabbin calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Todd Brabbin             |   25200 |    9950 |      |    |         |
+ 2|>  CharlieM                 |   97550 |    9950 |      |    |         |
+ 3|   Sir Barlow               |   75375 |     950 |folded|    |         |
+ 4|   Paul Stine               |   25325 |      50 |folded|    |         |
+ 5|   HeyBuster                |   95575 |    4950 |folded|    |         |
+ 6|   TwelveSeven              |   75875 |      50 |folded|    |         |
+ 7|D  TheTwizz                 |   55150 |      50 |folded|    |         |
+ 8|   Dan Duncan               |   51850 |     250 |folded|    |         |
+ 9|   feodor                   |   71700 |     450 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/27/18 08:23:15! Dealing a new hand
+! 12/27/18 08:23:15! Everyone antes $50
+! 12/27/18 08:23:15! Dan Duncan blinds $200
+! 12/27/18 08:23:15! feodor blinds $400
+! 12/27/18 10:00:53! Todd Brabbin raises $500 to $900 total 
+! 12/27/18 10:12:28! CharlieM calls 
+! 12/27/18 10:19:08! Sir Barlow calls 
+! 12/27/18 10:36:49! Paul Stine folds
+! 12/27/18 14:29:52! HeyBuster calls 
+! 12/27/18 14:29:52! TwelveSeven folds
+! 12/27/18 14:29:52! TheTwizz folds
+! 12/27/18 14:29:52! Dan Duncan folds
+! 12/27/18 14:29:52! feodor folds
+
+! 12/27/18 14:29:52! Pot right ($4650), flopping/dealing/drawing cards
+! 12/27/18 14:29:52! 4 players
+! 12/27/18 14:29:52! Flopped cards: 3c 6c 9s
+! 12/27/18 14:33:21! Todd Brabbin checks
+! 12/27/18 14:49:21! CharlieM bets $4000 
+! 12/27/18 14:55:28! Sir Barlow folds
+! 12/27/18 14:55:28! HeyBuster calls 
+! 12/27/18 14:56:39! Todd Brabbin calls 
+
+! 12/27/18 14:56:39! Pot right ($16650), flopping/dealing/drawing cards
+! 12/27/18 14:56:39! 3 players
+! 12/27/18 14:56:39! Flopped card: 2s
+! 12/27/18 16:32:31! Todd Brabbin checks
+! 12/27/18 16:54:48! CharlieM checks
+! 12/27/18 16:54:48! HeyBuster checks
+
+! 12/27/18 16:54:48! Pot right ($16650), flopping/dealing/drawing cards
+! 12/27/18 16:54:48! 3 players
+! 12/27/18 16:54:48! Flopped card: Jd
+! 12/27/18 17:06:12! Todd Brabbin checks
+! 12/27/18 18:17:35! CharlieM bets $5000 
+! 12/27/18 18:17:35! HeyBuster folds
+! 12/27/18 18:18:23! Todd Brabbin calls 
+! Hand over, current board is:  3c 6c 9s 2s Jd
+! Todd Brabbin             has: Js 10s
+! CharlieM                 has: Kd 9d
+! Todd Brabbin wins $26650 (net $16700) with One Pair (J J 10 9 6)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Todd Brabbin             |   51850 |         |      |    |         |
+ 2|>  CharlieM                 |   97550 |         |      |    |         |
+ 3|   Sir Barlow               |   75375 |         |      |    |         |
+ 4|   Paul Stine               |   25325 |         |      |    |         |
+ 5|   HeyBuster                |   95575 |         |      |    |         |
+ 6|   TwelveSeven              |   75875 |         |      |    |         |
+ 7|   TheTwizz                 |   55150 |         |      |    |         |
+ 8|D  Dan Duncan               |   51850 |         |      |    |         |
+ 9|   feodor                   |   71700 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 423 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b4.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+We are now over 45 days into round "b". 
+As soon as any table gets to five or fewer 
+players all tables will finish the current 
+hand and a full redraw to round "c" will be done.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

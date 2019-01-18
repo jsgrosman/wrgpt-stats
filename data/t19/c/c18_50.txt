@@ -1,0 +1,85 @@
+Message-Id: <201001082151.o08Lp1Lg020088@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [c18.10012] Holdem Game Broadcast Message(*)                          
+
+! Table c18, Hand 50, Day 54
+
+! Widowmaker folds
+! UKPOKER is on vacation and folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Levi                     |  23350 |     50 |folded|    |        |
+ 2|D  Widowmaker               |  65950 |     50 |folded|    |        |
+ 3|V  UKPOKER                  |  25200 |    250 |    12|    |        |
+ 4|>  J Spencer                |  18250 |    450 |      |    |        |
+ 5|   Vike                     |  23800 |     50 |folded|    |        |
+ 6|   JB                       |  59600 |     50 |folded|    |        |
+ 7|   jasong            |  31550 |     50 |folded|    |        |
+ 8|   Senor Sheep              |  30000 |     50 |folded|    |        |
+ 9|   Brian K                  |  55000 |     50 |folded|    |        |
+10|   jcommand                 |  26375 |     50 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 01/08/10 09:56:27! Dealing a new hand
+! 01/08/10 09:56:27! Everyone antes $50
+! 01/08/10 09:56:27! UKPOKER blinds $200
+! 01/08/10 09:56:27! J Spencer blinds $400
+! 01/08/10 10:37:14! Vike folds
+! 01/08/10 10:53:43! JB folds
+! 01/08/10 10:53:43! jasong folds
+! 01/08/10 10:53:43! Senor Sheep folds
+! 01/08/10 11:04:43! Brian K folds
+! 01/08/10 11:04:43! jcommand folds
+! 01/08/10 12:39:58! Levi folds
+! 01/08/10 13:51:01! Widowmaker folds
+! 01/08/10 13:51:01! UKPOKER is on vacation and folds
+! Hand over, no showdown
+! Current board is:  ? ? ? ? ?
+! J Spencer wins $1100 (net $650)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Levi                     |  23350 |        |      |    |        |
+ 2|   Widowmaker               |  65950 |        |      |    |        |
+ 3|DV UKPOKER                  |  25200 |        |    12|    |        |
+ 4|>  J Spencer                |  19350 |        |      |    |        |
+ 5|   Vike                     |  23800 |        |      |    |        |
+ 6|   JB                       |  59600 |        |      |    |        |
+ 7|   jasong            |  31550 |        |      |    |        |
+ 8|   Senor Sheep              |  30000 |        |      |    |        |
+ 9|   Brian K                  |  55000 |        |      |    |        |
+10|   jcommand                 |  26375 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 812 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c18.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+The first round is ending.  When you current hand completes there will be 
+delay while all other tables finish before the new round can be redrawn.
+Please act on your hands quickly as a courtesy to other players waiting.
+
+Live Redraw Status as of 01/08/10 01:25:01 PM
+
+Total Empty Seats: 1
+Total Playing Seats: 812
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org or follow "wrgpt" on Twitter.
+

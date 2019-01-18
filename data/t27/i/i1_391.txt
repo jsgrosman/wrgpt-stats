@@ -1,0 +1,129 @@
+X-BeenThere: railbird@lists.wrgpt.org
+X-Mailman-Version: 2.1.16
+Precedence: list
+Reply-To: dealer@wrgpt.org
+List-Id: WRGPT Rail <railbird.lists.wrgpt.org>
+List-Unsubscribe: <http://lists.wrgpt.org/options/railbird>,
+ <mailto:railbird-request@lists.wrgpt.org?subject=unsubscribe>
+List-Archive: <http://lists.wrgpt.org/pipermail/railbird/>
+List-Help: <mailto:railbird-request@lists.wrgpt.org?subject=help>
+List-Subscribe: <http://lists.wrgpt.org/listinfo/railbird>,
+ <mailto:railbird-request@lists.wrgpt.org?subject=subscribe>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+Errors-To: railbird-bounces@lists.wrgpt.org
+Sender: "Railbird" <railbird-bounces@lists.wrgpt.org>
+
+% raise $27203675
+! -- Poker Dog --
+_____________________________________________________________________________
+
+! Table i1, Hand 391, Day 179
+
+! Poker Dog folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  StingRay                 | 4930900 |    3000 |folded|    |         |
+ 2|   Longines                 |  663550 |   28000 |folded|    |         |
+ 3|   Dman                     | 1498400 |   53000 |folded|    |         |
+ 4|V  rtroll                   |  999800 |    3000 |    23|    |         |
+ 5|>  Poker Dog                | 1244800 |  153000 |folded|    |         |
+ 6|   LektorAJ                 |       0 | 1834500 |all-in|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 04/18/18 12:55:06! Dealing a new hand
+! 04/18/18 12:55:06! Everyone antes $3000
+! 04/18/18 12:55:06! Longines blinds $25000
+! 04/18/18 12:55:06! Dman blinds $50000
+! 04/18/18 12:55:06! rtroll is on vacation and folds
+! 04/18/18 13:34:01! Poker Dog raises $100000 to $150000 total 
+! 04/18/18 14:33:39! LektorAJ raises $1681500 to $1831500 total and is all in
+! 04/18/18 14:33:39! StingRay folds
+_____________________________________________________________________________
+
+! K2, 92, 32, 62 - gimme a break dealer :-/
+! On 18 April 2018 at 08:47, Grant Mason <grant@mason.sh> wrote:
+! (dealer suppressed lines starting with '>' or ':')
+! -- Longines --
+_____________________________________________________________________________
+
+! 04/18/18 14:33:39! Longines folds
+! 04/18/18 14:33:39! Dman folds
+_____________________________________________________________________________
+
+! raise $27203675
+! -- Poker Dog --
+_____________________________________________________________________________
+
+! 04/19/18 08:29:46! Poker Dog folds
+! Hand over, no showdown
+! Current board is:  ? ? ? ? ?
+! LektorAJ wins $2074500 (net $240000)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   StingRay                 | 4930900 |         |      |    |         |
+ 2|D  Longines                 |  663550 |         |      |    |         |
+ 3|   Dman                     | 1498400 |         |      |    |         |
+ 4|V  rtroll                   |  999800 |         |    23|    |         |
+ 5|>  Poker Dog                | 1244800 |         |      |    |         |
+ 6|   LektorAJ                 | 2074500 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 12 players left in the tournament, 2 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/i/i1.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+However, if there were prizes they would pay the top 63 entrants.
+The standings are now showing theoretical prizes if WRGPT were a
+10k event.
+
+======
+
+Live Redraw Status as of 04/19/18 08:25:01 AM
+
+Total Empty Seats: 0
+Total Playing Seats: 12
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman27@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

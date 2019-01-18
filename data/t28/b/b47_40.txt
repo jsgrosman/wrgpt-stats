@@ -1,0 +1,111 @@
+Subject: [b47.10453] Holdem Game Broadcast Message(*)
+
+! Table b47, Hand 40, Day 32
+
+! Schneb calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   DangerDan                |   58150 |      25 |folded|    |         |
+ 2|   Brian Crowley            |   58500 |      25 |folded|    |         |
+ 3|>  Spiraling Shape          |   25750 |   30975 |      |    |         |
+ 4|D  Josh Moore               |   69925 |      25 |folded|    |         |
+ 5|   Schneb                   |   31550 |   30975 |      |    |         |
+ 6|   sendlo                   |   59475 |     975 |folded|    |         |
+ 7|   Darstardly and Muttley   |   40100 |      25 |folded|    |         |
+ 8|   Tythejeweler             |    8150 |      25 |folded|    |         |
+ 9|   Don Overton              |   85250 |      25 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/13/18 08:29:06! Dealing a new hand
+! 12/13/18 08:29:06! Everyone antes $25
+! 12/13/18 08:29:06! Schneb blinds $150
+! 12/13/18 08:29:06! sendlo blinds $300
+! 12/13/18 14:38:05! Darstardly and Muttley folds
+! 12/13/18 14:38:05! Tythejeweler folds
+! 12/13/18 14:38:05! Don Overton folds
+! 12/13/18 14:38:05! DangerDan folds
+! 12/13/18 14:38:05! Brian Crowley folds
+! 12/13/18 15:14:05! Spiraling Shape raises $650 to $950 total 
+! 12/13/18 15:14:05! Josh Moore folds
+! 12/13/18 15:15:22! Schneb calls 
+! 12/13/18 15:31:50! sendlo calls 
+
+! 12/13/18 15:31:50! Pot right ($3075), flopping/dealing/drawing cards
+! 12/13/18 15:31:50! 3 players
+! 12/13/18 15:31:50! Flopped cards: 6h 6c 7s
+! 12/13/18 15:33:00! Schneb bets $1500 
+! 12/13/18 15:35:59! sendlo folds
+! 12/13/18 16:27:04! Spiraling Shape calls 
+
+! 12/13/18 16:27:04! Pot right ($6075), flopping/dealing/drawing cards
+! 12/13/18 16:27:04! 2 players
+! 12/13/18 16:27:04! Flopped card: 9h
+! 12/13/18 16:36:17! Schneb bets $2000 
+! 12/13/18 16:39:39! Spiraling Shape raises $3500 to $5500 total 
+! 12/13/18 16:40:41! Schneb calls 
+
+! 12/13/18 16:40:41! Pot right ($17075), flopping/dealing/drawing cards
+! 12/13/18 16:40:41! 2 players
+! 12/13/18 16:40:41! Flopped card: 3h
+! 12/13/18 16:41:30! Schneb bets $8000 
+! 12/13/18 16:50:12! Spiraling Shape raises $15000 to $23000 total 
+! 12/13/18 16:52:36! Schneb calls 
+! Hand over, current board is:  6h 6c 7s 9h 3h
+! Spiraling Shape          has: 6s 3c
+! Schneb                   has: Qh 7h
+! Spiraling Shape wins $63075 (net $32100) with Full House (6 6 6 3 3)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   DangerDan                |   58150 |         |      |    |         |
+ 2|   Brian Crowley            |   58500 |         |      |    |         |
+ 3|>  Spiraling Shape          |   88825 |         |      |    |         |
+ 4|   Josh Moore               |   69925 |         |      |    |         |
+ 5|D  Schneb                   |   31550 |         |      |    |         |
+ 6|   sendlo                   |   59475 |         |      |    |         |
+ 7|   Darstardly and Muttley   |   40100 |         |      |    |         |
+ 8|   Tythejeweler             |    8150 |         |      |    |         |
+ 9|   Don Overton              |   85250 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 480 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b47.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

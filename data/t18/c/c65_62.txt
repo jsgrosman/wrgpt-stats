@@ -1,0 +1,114 @@
+Message-Id: <200812311439.mBVEdQi8020261@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+Reply-To: dealer@wrgpt.org
+From: dealer@wrgpt.org
+Subject: [c65.10062] Holdem Game Broadcast Message(*)          
+
+! Table c65, Hand 62, Day 59
+
+! Alphabits folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   David Kuznick            |  17600 |     50 |folded|    |        |
+ 2|   paulshe                  |  23350 |     50 |folded|    |        |
+ 3|   Chuck Thompson           |  38950 |     50 |folded|    |        |
+ 4|   Kevin Mathers            |  35750 |     50 |folded|    |        |
+ 5|   Brian K                  |  32200 |    850 |folded|    |        |
+ 6|D  jasong            |  23750 |     50 |folded|    |        |
+ 7|   MikeB                    |  20650 |    250 |folded|    |        |
+ 8|>  Alphabits                |  53950 |    850 |folded|    |        |
+ 9|   Rob CutStyle             |  28350 |     50 |folded|    |        |
+10|   Toronado13               |      0 |  31800 |all-in|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 12/29/08 19:01:37! Dealing a new hand
+! 12/29/08 19:01:37! Everyone antes $50
+! 12/29/08 19:01:37! MikeB blinds $200
+! 12/29/08 19:01:37! Alphabits blinds $400
+! 12/29/08 21:09:33! Rob CutStyle folds
+! 12/29/08 21:09:33! Toronado13 calls 
+! 12/29/08 21:09:33! David Kuznick folds
+! 12/29/08 23:46:42! paulshe folds
+! 12/29/08 23:46:42! Chuck Thompson folds
+! 12/29/08 23:46:42! Kevin Mathers folds
+! 12/30/08 07:35:38! Brian K raises $400 
+! 12/30/08 07:35:38! jasong folds
+! 12/30/08 08:18:34! MikeB folds
+! 12/30/08 08:18:34! Alphabits calls 
+! 12/30/08 08:23:51! Toronado13 calls 
+
+! 12/30/08 08:23:51! Pot right ($3100), flopping/dealing/drawing cards
+! 12/30/08 08:23:51! 3 players
+! 12/30/08 08:23:51! Flopped cards: 10h Kc 5c
+! 12/30/08 11:10:38! Alphabits checks
+! 12/30/08 11:24:37! Toronado13 checks
+! 12/30/08 13:16:01! Brian K checks
+
+! 12/30/08 13:16:01! Pot right ($3100), flopping/dealing/drawing cards
+! 12/30/08 13:16:01! 3 players
+! 12/30/08 13:16:01! Flopped card: 9s
+! 12/30/08 14:03:33! Alphabits checks
+! 12/30/08 15:39:38! Toronado13 bets $30950 and is all in
+_____________________________________________________________________________
+
+! If you must...
+! =20
+! -- Brian K --
+_____________________________________________________________________________
+
+! 12/31/08 06:34:29! Brian K folds
+! 12/31/08 06:39:25! Alphabits folds
+! Hand over, no showdown
+! Current board is:  10h Kc 5c 9s ?
+! Toronado13 wins $34050 (net $2250)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   David Kuznick            |  17600 |        |      |    |        |
+ 2|   paulshe                  |  23350 |        |      |    |        |
+ 3|   Chuck Thompson           |  38950 |        |      |    |        |
+ 4|   Kevin Mathers            |  35750 |        |      |    |        |
+ 5|   Brian K                  |  32200 |        |      |    |        |
+ 6|   jasong            |  23750 |        |      |    |        |
+ 7|D  MikeB                    |  20650 |        |      |    |        |
+ 8|>  Alphabits                |  53950 |        |      |    |        |
+ 9|   Rob CutStyle             |  28350 |        |      |    |        |
+10|   Toronado13               |  34050 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 759 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c65.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+WRGPT18 is now on a holiday until January 5, 2009.  Play continues
+but no timeouts will happen until then.
+
+The last live redraw for the "c" round could begin
+as late as January 21, 2009.
+
+Live Redraw Status as of 12/31/08 06:25:01 AM
+
+Total Empty Seats: 28
+Total Playing Seats: 759
+Live redraw in progress:
+Seats Needed: 9
+Seats Waiting: 3
+Moving Players Waiting: 0
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org
+

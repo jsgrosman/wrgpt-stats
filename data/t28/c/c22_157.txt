@@ -1,0 +1,114 @@
+Subject: [c22.10139] Holdem Game Broadcast Message(*)
+
+! Table c22, Hand 157, Day 61
+
+! Sir Barlow folds
+! Pot right ($89275), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped card: 10c
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|   BBLWOG                   |  115375 |     350 |folded|    |         |
+ 3|   Eric Brassell            |   68300 |     600 |folded|    |         |
+ 4|   Richard Van Horn         |       0 |    7800 |all-in|  3 |   24650 |
+ 5|   Quick                    |   83450 |     100 |folded|    |         |
+ 6|   indiansquib              |   61150 |     100 |folded|    |         |
+ 7|>  Sir Barlow               |  117050 |   12800 |folded|    |         |
+ 8|   BrownTrout               |       0 |   67425 |all-in|  1 |   64625 |
+ 9|D  bigjimmf1                |  180550 |     100 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/10/19 18:18:29! Dealing a new hand
+! 01/10/19 18:18:29! Everyone antes $100
+! 01/10/19 18:18:29! BBLWOG blinds $250
+! 01/10/19 18:18:29! Eric Brassell blinds $500
+! 01/10/19 18:19:41! Richard Van Horn calls 
+! 01/10/19 18:23:54! Quick folds
+! 01/10/19 18:51:47! indiansquib folds
+! 01/10/19 19:08:07! Sir Barlow calls 
+! 01/10/19 20:27:24! BrownTrout raises $500 to $1000 total 
+! 01/11/19 05:26:08! bigjimmf1 folds
+! 01/11/19 05:26:08! BBLWOG folds
+! 01/11/19 05:41:01! Eric Brassell folds
+! 01/11/19 05:41:01! Richard Van Horn calls 
+! 01/11/19 06:19:29! Sir Barlow calls 
+
+! 01/11/19 06:19:29! Pot right ($4550), flopping/dealing/drawing cards
+! 01/11/19 06:19:29! 3 players
+! 01/11/19 06:19:29! Flopped cards: Ac Ad 3s
+! 01/11/19 07:47:47! Richard Van Horn bets $6700 and is all in
+! 01/11/19 07:48:27! Sir Barlow calls 
+! 01/11/19 09:04:56! BrownTrout calls 
+
+! 01/11/19 09:04:56! Pot right ($24650), flopping/dealing/drawing cards
+! 01/11/19 09:04:56! 3 players, 1 all in
+! 01/11/19 09:04:56! Flopped card: 10h
+! 01/11/19 09:14:52! Sir Barlow bets $5000 
+! 01/11/19 09:30:18! BrownTrout raises $54625 to $59625 total and is all in
+! 01/11/19 09:46:53! Sir Barlow folds
+
+! 01/11/19 09:46:53! Pot right ($89275), flopping/dealing/drawing cards
+! 01/11/19 09:46:53! 2 players, 2 all in
+! 01/11/19 09:46:53! Flopped card: 10c
+! Hand over, current board is:  Ac Ad 3s 10h 10c
+! Richard Van Horn         has: Qs Jh
+! BrownTrout               has: As Qc
+! Pot 1: uncalled $64625 returned to BrownTrout
+! Pot 3: BrownTrout wins $24650 with Full House (A A A 10 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|D  BBLWOG                   |  115375 |         |      |    |         |
+ 3|   Eric Brassell            |   68300 |         |      |    |         |
+ 5|   Quick                    |   83450 |         |      |    |         |
+ 6|   indiansquib              |   61150 |         |      |    |         |
+ 7|>  Sir Barlow               |  117050 |         |      |    |         |
+ 8|   BrownTrout               |   89275 |         |      |    |         |
+ 9|   bigjimmf1                |  180550 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Richard Van Horn is eliminated!
+! 381 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c22.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+The "c" round has started.  Good luck to all
+the remaining players.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 7
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

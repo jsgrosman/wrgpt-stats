@@ -1,0 +1,112 @@
+Subject: [b1.10520] Holdem Game Broadcast Message(*)
+
+! Table b1, Hand 54, Day 26
+
+! Kevin Mackey calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  Nick Name                |   54875 |     725 |folded|    |         |
+ 2|   EricL                    |   63150 |     150 |folded|    |         |
+ 3|>  Thomas Gabrysch          |   42175 |    3725 |      |    |         |
+ 6|   mulligan                 |  146200 |       0 |folded|    |         |
+ 7|   stannius                 |   45575 |       0 |folded|    |         |
+ 8|   Kevin Mackey             |   47300 |    3725 |      |    |         |
+ 9|   Endrju                   |   42400 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/06/18 13:01:12! Dealing a new hand
+! 12/06/18 13:01:12! No ante
+! 12/06/18 13:01:12! EricL blinds $150
+! 12/06/18 13:01:12! Thomas Gabrysch blinds $300
+! 12/06/18 13:03:17! mulligan folds
+! 12/06/18 13:03:17! stannius folds
+! 12/06/18 15:17:34! Kevin Mackey raises $425 to $725 total 
+! 12/06/18 23:01:01! Endrju folds
+! 12/07/18 04:39:57! Nick Name calls 
+! 12/07/18 04:39:57! EricL folds
+! 12/07/18 04:56:50! Thomas Gabrysch calls 
+
+! 12/07/18 04:56:50! Pot right ($2325), flopping/dealing/drawing cards
+! 12/07/18 04:56:50! 3 players
+! 12/07/18 04:56:50! Flopped cards: 3s 5c Ad
+! 12/07/18 04:57:31! Thomas Gabrysch bets $1000 
+! 12/07/18 05:52:21! Kevin Mackey calls 
+! 12/07/18 07:21:08! Nick Name folds
+
+! 12/07/18 07:21:08! Pot right ($4325), flopping/dealing/drawing cards
+! 12/07/18 07:21:08! 2 players
+! 12/07/18 07:21:08! Flopped card: 6h
+! 12/07/18 07:23:52! Thomas Gabrysch checks
+! 12/07/18 07:28:49! Kevin Mackey checks
+
+! 12/07/18 07:28:49! Pot right ($4325), flopping/dealing/drawing cards
+! 12/07/18 07:28:49! 2 players
+! 12/07/18 07:28:49! Flopped card: 3d
+! 12/07/18 07:34:14! Thomas Gabrysch bets $2000 
+! 12/07/18 07:35:18! Kevin Mackey calls 
+! Hand over, current board is:  3s 5c Ad 6h 3d
+! Thomas Gabrysch          has: 10s 10d
+! Kevin Mackey             has: 7d Ac
+! Kevin Mackey wins $8325 (net $4600) with Two Pair (A A 3 3 7)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Nick Name                |   54875 |         |      |    |         |
+ 2|D  EricL                    |   63150 |         |      |    |         |
+ 3|>  Thomas Gabrysch          |   42175 |         |      |    |         |
+ 6|   mulligan                 |  146200 |         |      |    |         |
+ 7|   stannius                 |   45575 |         |      |    |         |
+ 8|   Kevin Mackey             |   55625 |         |      |    |         |
+ 9|   Endrju                   |   42400 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 514 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b1.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

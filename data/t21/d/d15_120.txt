@@ -1,0 +1,111 @@
+Message-Id: <201202221648.q1MGm9Co001449@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [d15.10017] Holdem Game Broadcast Message(*)                          
+
+% Good luck all-in!  That JAM boosted your chance to stay alive.
+! -- JRX --
+_____________________________________________________________________________
+
+! Table d15, Hand 120, Day 101
+
+! JRX folds
+! Pot right ($41375), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped cards: 9s 2d 8h
+! Flopped card: 2h
+! Flopped card: 5h
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   rxshep                   |   9300 |    300 |folded|    |        |
+ 2|D  Joshua Koppelman         |  69700 |   2300 |folded|    |        |
+ 3|>  JRX                      |  56550 |   2300 |folded|    |        |
+ 4|   BigServerGuy             |      0 |  30975 |all-in|  1 |  29875 |
+ 5|   Chris Mecklin            |  36900 |    300 |folded|    |        |
+ 6|   BoneMPN                  |  45600 |    300 |folded|    |        |
+ 7|   jasong            |      0 |   2000 |all-in|  5 |  11500 |
+ 8|   Swamper_phxgators        |  18500 |    300 |folded|    |        |
+ 9|   Witty Nickname           | 135325 |   2300 |folded|    |        |
+10|   Michael Proteau          | 106225 |    300 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 02/21/12 13:24:50! Dealing a new hand
+! 02/21/12 13:24:50! Everyone antes $300
+! 02/21/12 13:24:50! JRX blinds $1000
+! 02/21/12 13:24:50! BigServerGuy blinds $2000
+! 02/21/12 18:07:03! Chris Mecklin folds
+! 02/21/12 18:07:03! BoneMPN folds
+! 02/21/12 18:07:03! jasong calls - side pot
+! 02/21/12 18:07:03! Swamper_phxgators folds
+! 02/21/12 20:26:29! Witty Nickname calls 
+! 02/22/12 05:28:59! Michael Proteau folds
+! 02/22/12 05:28:59! rxshep folds
+! 02/22/12 05:52:19! Joshua Koppelman calls 
+! 02/22/12 06:04:24! JRX calls 
+! 02/22/12 06:14:11! BigServerGuy raises $28675 and is all in
+! 02/22/12 07:33:03! Witty Nickname folds
+! 02/22/12 07:33:03! Joshua Koppelman folds
+_____________________________________________________________________________
+
+! Good luck all-in!  That JAM boosted your chance to stay alive.
+! -- JRX --
+_____________________________________________________________________________
+
+! 02/22/12 08:48:08! JRX folds
+
+! 02/22/12 08:48:08! Pot right ($41375), flopping/dealing/drawing cards
+! 02/22/12 08:48:08! 2 players, 2 all in
+! 02/22/12 08:48:08! Flopped cards: 9s 2d 8h
+! 02/22/12 08:48:08! Flopped card: 2h
+! 02/22/12 08:48:08! Flopped card: 5h
+! Hand over, current board is:  9s 2d 8h 2h 5h
+! BigServerGuy             has: Kh Ac
+! jasong            has: Qs Jh
+! Pot 1: uncalled $29875 returned to BigServerGuy
+! Pot 5: BigServerGuy wins $11500 with One Pair (2 2 A K 9)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   rxshep                   |   9300 |        |      |    |        |
+ 2|   Joshua Koppelman         |  69700 |        |      |    |        |
+ 3|D> JRX                      |  56550 |        |      |    |        |
+ 4|   BigServerGuy             |  41375 |        |      |    |        |
+ 5|   Chris Mecklin            |  36900 |        |      |    |        |
+ 6|   BoneMPN                  |  45600 |        |      |    |        |
+ 8|   Swamper_phxgators        |  18500 |        |      |    |        |
+ 9|   Witty Nickname           | 135325 |        |      |    |        |
+10|   Michael Proteau          | 106225 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! jasong is eliminated!
+! 343 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d15.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+
+Having problems? Send email to floorman21@wrgpt.org.
+
+Live Redraw Status as of 02/22/12 08:25:01 AM
+
+Total Empty Seats: 6
+Total Playing Seats: 344
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+

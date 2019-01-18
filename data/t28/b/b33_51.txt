@@ -1,0 +1,120 @@
+Subject: [b33.10685] Holdem Game Broadcast Message(*)
+
+% Anything but a spade ...
+% null
+! -- pokerpilot --
+_____________________________________________________________________________
+
+! Table b33, Hand 51, Day 40
+
+! pokerpilot folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Chevy                    |   56625 |      25 |folded|    |         |
+ 2|   Olof Siverbo             |  131000 |     800 |folded|    |         |
+ 3|   rktsci                   |   56325 |      25 |folded|    |         |
+ 4|   Couchtater               |   41300 |      25 |folded|    |         |
+ 5|>  GKinz54                  |   87025 |    9300 |      |    |         |
+ 6|D  pokerpilot               |   10900 |    6300 |folded|    |         |
+ 7|   Bob R                    |   64800 |     175 |folded|    |         |
+ 8|   PMedhurst                |   38525 |     325 |folded|    |         |
+ 9|   Desmontes                |   54675 |     800 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/20/18 14:12:02! Dealing a new hand
+! 12/20/18 14:12:02! Everyone antes $25
+! 12/20/18 14:12:02! Bob R blinds $150
+! 12/20/18 14:12:02! PMedhurst blinds $300
+! 12/20/18 14:58:08! Desmontes calls 
+! 12/20/18 15:24:19! Chevy folds
+! 12/20/18 22:46:35! Olof Siverbo raises $475 to $775 total 
+! 12/20/18 22:46:35! rktsci folds
+! 12/20/18 22:46:35! Couchtater folds
+! 12/21/18 04:33:08! GKinz54 calls 
+! 12/21/18 06:17:52! pokerpilot calls 
+! 12/21/18 06:17:52! Bob R folds
+! 12/21/18 06:44:53! PMedhurst folds
+! 12/21/18 08:00:29! Desmontes calls 
+
+! 12/21/18 08:00:29! Pot right ($3775), flopping/dealing/drawing cards
+! 12/21/18 08:00:29! 4 players
+! 12/21/18 08:00:29! Flopped cards: 4s 10s Qd
+! 12/21/18 09:19:04! Desmontes checks
+! 12/21/18 09:30:16! Olof Siverbo checks
+! 12/21/18 09:43:16! GKinz54 bets $2750 
+! 12/21/18 10:15:07! pokerpilot raises $2750 to $5500 total 
+! 12/21/18 10:45:50! Desmontes folds
+! 12/21/18 11:55:04! Olof Siverbo folds
+! 12/21/18 12:23:40! GKinz54 calls 
+
+! 12/21/18 12:23:40! Pot right ($14775), flopping/dealing/drawing cards
+! 12/21/18 12:23:40! 2 players
+! 12/21/18 12:23:40! Flopped card: 6s
+! 12/21/18 12:26:24! GKinz54 bets $3000 
+_____________________________________________________________________________
+
+! Anything but a spade ...
+! null
+! -- pokerpilot --
+_____________________________________________________________________________
+
+! 12/21/18 12:34:46! pokerpilot folds
+! Hand over, no showdown
+! Current board is:  4s 10s Qd 6s ?
+! GKinz54 wins $17775 (net $8475)
+! pokerpilot               reveals  Kh Ac
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Chevy                    |   56625 |         |      |    |         |
+ 2|   Olof Siverbo             |  131000 |         |      |    |         |
+ 3|   rktsci                   |   56325 |         |      |    |         |
+ 4|   Couchtater               |   41300 |         |      |    |         |
+ 5|>  GKinz54                  |  104800 |         |      |    |         |
+ 6|   pokerpilot               |   10900 |         |      |    |         |
+ 7|D  Bob R                    |   64800 |         |      |    |         |
+ 8|   PMedhurst                |   38525 |         |      |    |         |
+ 9|   Desmontes                |   54675 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 446 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b33.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 4
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

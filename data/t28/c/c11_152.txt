@@ -1,0 +1,109 @@
+Subject: [c11.10063] Holdem Game Broadcast Message(*)
+
+! Table c11, Hand 152, Day 59
+
+! Keith Troell raises $57375 to $115700 total and is all in
+! Pot right ($177175), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped cards: 2c 8d 5c
+! Flopped card: 6d
+! Flopped card: 3c
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  Keith Troell             |       0 |  115800 |all-in|  1 |   57375 |
+ 2|   Jim Sokoloff             |   98400 |     100 |folded|    |         |
+ 3|   UConn2004                |   43600 |     100 |folded|    |         |
+ 4|   Julie Greenberg          |  152875 |     100 |folded|    |         |
+ 5|D  Ira Agins                |   28775 |     100 |folded|    |         |
+ 6|   Ben Irving               |   51025 |     350 |folded|    |         |
+ 7|   Mike Sager               |  118400 |     600 |folded|    |         |
+ 8|   bignacho                 |   17375 |    1600 |folded|    |         |
+ 9|   Chaos                    |       0 |   58425 |all-in|  2 |  119800 |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/08/19 18:26:12! Dealing a new hand
+! 01/08/19 18:26:12! Everyone antes $100
+! 01/08/19 18:26:12! Ben Irving blinds $250
+! 01/08/19 18:26:12! Mike Sager blinds $500
+! 01/09/19 03:41:47! bignacho raises $1000 to $1500 total 
+! 01/09/19 07:55:07! Chaos raises $2900 to $4400 total 
+! 01/09/19 08:00:48! Keith Troell raises $4400 to $8800 total 
+! 01/09/19 08:00:48! Jim Sokoloff folds
+! 01/09/19 08:00:48! UConn2004 folds
+! 01/09/19 08:53:43! Julie Greenberg folds
+! 01/09/19 08:53:43! Ira Agins folds
+! 01/09/19 09:49:26! Ben Irving folds
+! 01/09/19 09:49:26! Mike Sager folds
+! 01/09/19 10:20:40! bignacho folds
+! 01/09/19 10:31:05! Chaos raises $49525 to $58325 total and is all in
+! 01/09/19 10:33:35! Keith Troell raises $57375 to $115700 total and is all in
+
+! 01/09/19 10:33:35! Pot right ($177175), flopping/dealing/drawing cards
+! 01/09/19 10:33:35! 2 players, 2 all in
+! 01/09/19 10:33:35! Flopped cards: 2c 8d 5c
+! 01/09/19 10:33:35! Flopped card: 6d
+! 01/09/19 10:33:35! Flopped card: 3c
+! Hand over, current board is:  2c 8d 5c 6d 3c
+! Keith Troell             has: As Ad
+! Chaos                    has: Ah Ac
+! Pot 1: uncalled $57375 returned to Keith Troell
+! Pot 2: Keith Troell wins $59900 with One Pair (A A 8 6 5)
+! Pot 2: Chaos wins $59900 with One Pair (A A 8 6 5)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  Keith Troell             |  117275 |         |      |    |         |
+ 2|   Jim Sokoloff             |   98400 |         |      |    |         |
+ 3|   UConn2004                |   43600 |         |      |    |         |
+ 4|   Julie Greenberg          |  152875 |         |      |    |         |
+ 5|   Ira Agins                |   28775 |         |      |    |         |
+ 6|D  Ben Irving               |   51025 |         |      |    |         |
+ 7|   Mike Sager               |  118400 |         |      |    |         |
+ 8|   bignacho                 |   17375 |         |      |    |         |
+ 9|   Chaos                    |   59900 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 391 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c11.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+The "c" round has started.  Good luck to all
+the remaining players.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

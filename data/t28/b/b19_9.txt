@@ -1,0 +1,123 @@
+Subject: [b19.10143] Holdem Game Broadcast Message(*)
+
+! Table b19, Hand 9, Day 10
+
+! Ninetensuited calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Michael Hunter           |   35875 |      75 |folded|    |         |
+ 2|   Vince Tafoya             |   52000 |    1500 |folded|    |         |
+ 3|   Alvin Chipmunk           |   34550 |       0 |folded|    |         |
+ 4|   Stubey                   |   49500 |       0 |folded|    |         |
+ 5|>  Daryl                    |   39275 |   10500 |      |    |         |
+ 6|   Bubba                    |   66950 |       0 |folded|    |         |
+ 7|   Ninetensuited            |   50375 |   10500 |      |    |         |
+ 8|   Fish Doctor              |   49775 |       0 |folded|    |         |
+ 9|D  Pooper                   |   49125 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/20/18 07:53:09! Dealing a new hand
+! 11/20/18 07:53:09! No ante
+! 11/20/18 07:53:09! Michael Hunter blinds $75
+! 11/20/18 07:53:09! Vince Tafoya blinds $150
+! 11/20/18 07:55:50! Alvin Chipmunk folds
+! 11/20/18 08:01:09! Stubey folds
+! 11/20/18 08:55:59! Daryl raises $150 to $300 total 
+! 11/20/18 08:55:59! Bubba folds
+! 11/20/18 08:56:56! Ninetensuited raises $1200 to $1500 total 
+! 11/20/18 08:56:56! Fish Doctor folds
+! 11/20/18 10:06:50! Pooper folds
+! 11/20/18 10:31:57! Michael Hunter folds
+! 11/20/18 10:35:40! Vince Tafoya calls 
+! 11/20/18 11:49:00! Daryl calls 
+
+! 11/20/18 11:49:00! Pot right ($4575), flopping/dealing/drawing cards
+! 11/20/18 11:49:00! 3 players
+! 11/20/18 11:49:00! Flopped cards: 8s 8c Js
+! 11/20/18 11:51:06! Vince Tafoya checks
+! 11/20/18 12:15:43! Daryl checks
+! 11/20/18 12:54:12! Ninetensuited checks
+
+! 11/20/18 12:54:12! Pot right ($4575), flopping/dealing/drawing cards
+! 11/20/18 12:54:12! 3 players
+! 11/20/18 12:54:12! Flopped card: 3s
+! 11/20/18 16:55:03! Vince Tafoya checks
+! 11/20/18 17:06:16! Daryl checks
+! 11/20/18 22:05:36! Ninetensuited bets $1900 
+! 11/21/18 02:58:33! Vince Tafoya folds
+! 11/21/18 05:06:32! Daryl raises $2100 to $4000 total 
+! 11/21/18 05:09:54! Ninetensuited calls 
+
+! 11/21/18 05:09:54! Pot right ($12575), flopping/dealing/drawing cards
+! 11/21/18 05:09:54! 2 players
+! 11/21/18 05:09:54! Flopped card: Qd
+! 11/21/18 05:41:00! Daryl bets $5000 
+! 11/21/18 05:43:45! Ninetensuited calls 
+! Hand over, current board is:  8s 8c Js 3s Qd
+! Daryl                    has: As 9s
+! Ninetensuited            has: Ad Qc
+! Daryl wins $22575 (net $12075) with Spade Flush (A J 9 8 3)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  Michael Hunter           |   35875 |         |      |    |         |
+ 2|   Vince Tafoya             |   52000 |         |      |    |         |
+ 3|   Alvin Chipmunk           |   34550 |         |      |    |         |
+ 4|   Stubey                   |   49500 |         |      |    |         |
+ 5|>  Daryl                    |   61850 |         |      |    |         |
+ 6|   Bubba                    |   66950 |         |      |    |         |
+ 7|   Ninetensuited            |   50375 |         |      |    |         |
+ 8|   Fish Doctor              |   49775 |         |      |    |         |
+ 9|   Pooper                   |   49125 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 571 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b19.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 5
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

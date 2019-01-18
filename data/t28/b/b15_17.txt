@@ -1,0 +1,120 @@
+Subject: [b15.10268] Holdem Game Broadcast Message(*)
+
+! Table b15, Hand 17, Day 16
+
+! Mike Litoris checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Russ Fox                 |   48225 |     300 |folded|    |         |
+ 2|   Bob the Butcher          |   38200 |       0 |folded|    |         |
+ 3|   Rapidj                   |   20525 |       0 |folded|    |         |
+ 4|   Brent Moore              |   73650 |       0 |folded|    |         |
+ 5|>  Clayaiken                |   31925 |    6450 |      |    |         |
+ 6|   Oaktowndad               |   51800 |       0 |folded|    |         |
+ 7|   Mike Litoris             |   41950 |    6450 |      |    |         |
+ 8|D  Fee Weasel               |   46875 |    2450 |folded|    |         |
+ 9|   Klod                     |   81050 |     150 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/27/18 09:26:55! Dealing a new hand
+! 11/27/18 09:26:55! No ante
+! 11/27/18 09:26:55! Klod blinds $150
+! 11/27/18 09:26:55! Russ Fox blinds $300
+! 11/27/18 09:33:43! Bob the Butcher folds
+! 11/27/18 09:58:05! Rapidj folds
+! 11/27/18 10:03:11! Brent Moore folds
+! 11/27/18 10:35:38! Clayaiken raises $750 to $1050 total 
+! 11/27/18 10:48:41! Oaktowndad folds
+! 11/27/18 13:47:52! Mike Litoris calls 
+! 11/27/18 16:30:40! Fee Weasel calls 
+! 11/27/18 16:30:40! Klod folds
+! 11/27/18 16:30:40! Russ Fox folds
+
+! 11/27/18 16:30:40! Pot right ($3600), flopping/dealing/drawing cards
+! 11/27/18 16:30:40! 3 players
+! 11/27/18 16:30:40! Flopped cards: Ks Qd Qs
+! 11/27/18 16:59:06! Clayaiken bets $1400 
+! 11/27/18 17:03:33! Mike Litoris calls 
+! 11/27/18 17:12:12! Fee Weasel calls 
+
+! 11/27/18 17:12:12! Pot right ($7800), flopping/dealing/drawing cards
+! 11/27/18 17:12:12! 3 players
+! 11/27/18 17:12:12! Flopped card: 9h
+! 11/27/18 17:35:11! Clayaiken checks
+! 11/27/18 18:44:11! Mike Litoris bets $4000 
+! 11/27/18 18:47:38! Fee Weasel folds
+! 11/27/18 21:19:11! Clayaiken calls 
+
+! 11/27/18 21:19:11! Pot right ($15800), flopping/dealing/drawing cards
+! 11/27/18 21:19:11! 2 players
+! 11/27/18 21:19:11! Flopped card: 5s
+! 11/27/18 21:23:16! Clayaiken checks
+! 11/27/18 23:00:25! Mike Litoris checks
+! Hand over, current board is:  Ks Qd Qs 9h 5s
+! Clayaiken                has: Kd Ac
+! Mike Litoris             has: 10d Kc
+! Clayaiken wins $15800 (net $9350) with Two Pair (K K Q Q A)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Russ Fox                 |   48225 |         |      |    |         |
+ 2|   Bob the Butcher          |   38200 |         |      |    |         |
+ 3|   Rapidj                   |   20525 |         |      |    |         |
+ 4|   Brent Moore              |   73650 |         |      |    |         |
+ 5|>  Clayaiken                |   47725 |         |      |    |         |
+ 6|   Oaktowndad               |   51800 |         |      |    |         |
+ 7|   Mike Litoris             |   41950 |         |      |    |         |
+ 8|   Fee Weasel               |   46875 |         |      |    |         |
+ 9|D  Klod                     |   81050 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 553 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b15.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 5
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

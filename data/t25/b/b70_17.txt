@@ -1,0 +1,124 @@
+
+! Table b70, Hand 17, Day 19
+
+! patricko calls 
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|>  patricko                 |  10150 |  20700 |      |    |        |
+ 2|   LenFuego                 |  24250 |      0 |folded|    |        |
+ 3|   Wrongfellow              |  34950 |   1000 |folded|    |        |
+ 4|   Thomas Gabrysch          |  29300 |    200 |folded|    |        |
+ 6|   Derrick Martins          |  37150 |      0 |folded|    |        |
+ 7|D  Handsome Al              |  29900 |    200 |folded|    |        |
+ 8|   Ben Irving               |      0 |  20700 |all-in|    |        |
+ 9|   Sarah D                  |  57100 |   1000 |folded|    |        |
+10|   jasong            |  33400 |      0 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 11/12/15 09:41:40! Dealing a new hand
+! 11/12/15 09:41:40! No ante
+! 11/12/15 09:41:40! Ben Irving blinds $100
+! 11/12/15 09:41:40! Sarah D blinds $200
+! 11/12/15 09:43:31! jasong folds
+! 11/12/15 09:50:21! patricko calls 
+! 11/12/15 09:59:10! LenFuego folds
+! 11/12/15 10:10:59! Wrongfellow calls 
+! 11/12/15 13:28:54! Thomas Gabrysch calls 
+! 11/12/15 13:28:54! Derrick Martins folds
+! 11/12/15 13:32:51! Handsome Al calls 
+! 11/12/15 14:32:01! Ben Irving calls 
+! 11/12/15 14:32:55! Sarah D raises $800 
+! 11/12/15 14:48:55! patricko calls 
+! 11/12/15 14:58:14! Wrongfellow calls 
+! 11/12/15 15:02:38! Thomas Gabrysch folds
+! 11/12/15 19:59:38! Handsome Al folds
+! 11/13/15 05:26:04! Ben Irving calls 
+
+! 11/13/15 05:26:04! Pot right ($4400), flopping/dealing/drawing cards
+! 11/13/15 05:26:04! 4 players
+! 11/13/15 05:26:04! Flopped cards: Jc 2s 10d
+! 11/13/15 05:32:21! Ben Irving bets $3000 
+! 11/13/15 09:19:38! Sarah D folds
+! 11/13/15 09:24:09! patricko calls 
+! 11/13/15 09:24:09! Wrongfellow folds
+
+! 11/13/15 09:24:09! Pot right ($10400), flopping/dealing/drawing cards
+! 11/13/15 09:24:09! 2 players
+! 11/13/15 09:24:09! Flopped card: 8h
+! 11/13/15 09:26:03! Ben Irving bets $4000 
+! 11/13/15 09:32:51! patricko calls 
+
+! 11/13/15 09:32:51! Pot right ($18400), flopping/dealing/drawing cards
+! 11/13/15 09:32:51! 2 players
+! 11/13/15 09:32:51! Flopped card: 5c
+! 11/13/15 09:34:13! Ben Irving bets $12700 and is all in
+! 11/13/15 09:45:52! patricko calls 
+! Hand over, current board is:  Jc 2s 10d 8h 5c
+! patricko                 has: Qs Jh
+! Ben Irving               has: 10s Ac
+! patricko wins $43800 (net $23100) with One Pair (J J Q 10 8)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|>  patricko                 |  53950 |        |      |    |        |
+ 2|   LenFuego                 |  24250 |        |      |    |        |
+ 3|   Wrongfellow              |  34950 |        |      |    |        |
+ 4|   Thomas Gabrysch          |  29300 |        |      |    |        |
+ 6|   Derrick Martins          |  37150 |        |      |    |        |
+ 7|D  Handsome Al              |  29900 |        |      |    |        |
+ 9|   Sarah D                  |  57100 |        |      |    |        |
+10|   jasong            |  33400 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! Ben Irving is eliminated!
+! 703 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b70.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Any players who have not started in WRGPT after day 30 will
+have their stacks removed from the tourney.
+
+======
+
+Live Redraw Status as of 11/13/15 09:25:01 AM
+
+Total Empty Seats: 26
+Total Playing Seats: 704
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman25@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

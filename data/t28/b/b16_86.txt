@@ -1,0 +1,115 @@
+Subject: [b16.11094] Holdem Game Broadcast Message(*)
+
+! Table b16, Hand 86, Day 53
+
+! Piojos calls 
+! Pot right ($114700), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 8c
+! Flopped card: Js
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Paul Ant                 |   72625 |      50 |folded|    |         |
+ 2|   John Senger              |   59350 |      50 |folded|    |         |
+ 3|   Michael Proteau          |       0 |   54075 |all-in|    |         |
+ 4|   Aardvark                 |   15475 |      50 |folded|    |         |
+ 5|D  Paul McMullin            |   18775 |      50 |folded|    |         |
+ 6|   Byfthalone               |   71450 |    5850 |folded|    |         |
+ 7|   Steve B                  |   28275 |     450 |folded|    |         |
+ 8|>  Piojos                   |   26225 |   54075 |      |    |         |
+ 9|   acadonnelly              |   43125 |      50 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/02/19 16:37:25! Dealing a new hand
+! 01/02/19 16:37:25! Everyone antes $50
+! 01/02/19 16:37:25! Byfthalone blinds $200
+! 01/02/19 16:37:25! Steve B blinds $400
+! 01/02/19 17:24:01! Piojos raises $450 to $850 total 
+! 01/02/19 17:24:01! acadonnelly folds
+! 01/02/19 23:11:57! Paul Ant folds
+! 01/03/19 04:14:52! John Senger folds
+! 01/03/19 05:39:00! Michael Proteau calls 
+! 01/03/19 05:39:00! Aardvark folds
+! 01/03/19 05:39:00! Paul McMullin folds
+! 01/03/19 05:41:26! Byfthalone raises $1475 to $2325 total 
+! 01/03/19 06:37:17! Steve B folds
+! 01/03/19 08:13:45! Piojos calls 
+! 01/03/19 09:10:38! Michael Proteau calls 
+
+! 01/03/19 09:10:38! Pot right ($7825), flopping/dealing/drawing cards
+! 01/03/19 09:10:38! 3 players
+! 01/03/19 09:10:38! Flopped cards: Ks 2s 5h
+! 01/03/19 09:19:40! Byfthalone bets $3475 
+! 01/03/19 10:01:43! Piojos calls 
+! 01/03/19 12:23:57! Michael Proteau raises $48225 to $51700 total and is all in
+! 01/03/19 13:17:05! Byfthalone folds
+! 01/03/19 13:24:38! Piojos calls 
+
+! 01/03/19 13:24:38! Pot right ($114700), flopping/dealing/drawing cards
+! 01/03/19 13:24:38! 2 players, 1 all in
+! 01/03/19 13:24:38! Flopped card: 8c
+! 01/03/19 13:24:38! Flopped card: Js
+! Hand over, current board is:  Ks 2s 5h 8c Js
+! Michael Proteau          has: 10s Kc
+! Piojos                   has: 5s 5c
+! Piojos wins $114700 (net $60625) with Three of a Kind (5 5 5 K J)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Paul Ant                 |   72625 |         |      |    |         |
+ 2|   John Senger              |   59350 |         |      |    |         |
+ 4|   Aardvark                 |   15475 |         |      |    |         |
+ 5|   Paul McMullin            |   18775 |         |      |    |         |
+ 6|D  Byfthalone               |   71450 |         |      |    |         |
+ 7|   Steve B                  |   28275 |         |      |    |         |
+ 8|>  Piojos                   |  140925 |         |      |    |         |
+ 9|   acadonnelly              |   43125 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Michael Proteau is eliminated!
+! 402 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b16.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+We are now over 45 days into round "b". 
+As soon as any table gets to five or fewer 
+players all tables will finish the current 
+hand and a full redraw to round "c" will be done.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 29
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

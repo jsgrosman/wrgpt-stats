@@ -1,0 +1,105 @@
+Message-Id: <201102021506.p12F6v4D029837@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [c25.10458] Holdem Game Broadcast Message(*)                          
+
+! Table c25, Hand 101, Day 94
+
+! Its Just AA raises $58925 and is all in
+! mjoseff folds
+! Pot right ($142625), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped card: Qd
+! Flopped card: Js
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Julian Longo             |  21425 |    200 |folded|    |        |
+ 2|   David                    |  80450 |    200 |folded|    |        |
+ 4|   Its Just AA              |      0 |  96075 |all-in|  1 |  58925 |
+ 5|   Nikadai                  |  19400 |    200 |folded|    |        |
+ 6|>  mjoseff                  | 218600 |   6400 |folded|    |        |
+ 7|   Eddie Brown              | 181225 |    200 |folded|    |        |
+ 8|D  jasong            |      0 |  37150 |all-in|  2 |  83700 |
+ 9|   AW Coody                 |  67250 |    800 |folded|    |        |
+10|   b monie                  |  13500 |   1400 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 01/31/11 14:33:29! Dealing a new hand
+! 01/31/11 14:33:29! Everyone antes $200
+! 01/31/11 14:33:29! AW Coody blinds $600
+! 01/31/11 14:33:29! b monie blinds $1200
+! 01/31/11 15:32:20! Julian Longo folds
+! 01/31/11 19:36:52! David folds
+! 01/31/11 20:03:45! Its Just AA calls 
+! 02/01/11 16:56:29! Nikadai folds
+! 02/01/11 16:56:29! mjoseff calls 
+! 02/01/11 16:56:29! Eddie Brown folds
+! 02/01/11 16:56:29! jasong calls 
+! 02/01/11 22:00:01! AW Coody folds
+! 02/02/11 00:39:34! b monie checks
+
+! 02/02/11 00:39:34! Pot right ($7200), flopping/dealing/drawing cards
+! 02/02/11 00:39:34! 4 players
+! 02/02/11 00:39:34! Flopped cards: Ah 6h 8d
+! 02/02/11 00:40:29! b monie checks
+! 02/02/11 05:06:27! Its Just AA bets $5000 
+! 02/02/11 05:59:51! mjoseff calls 
+! 02/02/11 06:20:19! jasong raises $30750 and is all in
+! 02/02/11 06:20:19! b monie folds
+! 02/02/11 07:06:56! Its Just AA raises $58925 and is all in
+! 02/02/11 07:06:56! mjoseff folds
+
+! 02/02/11 07:06:56! Pot right ($142625), flopping/dealing/drawing cards
+! 02/02/11 07:06:56! 2 players, 2 all in
+! 02/02/11 07:06:56! Flopped card: Qd
+! 02/02/11 07:06:56! Flopped card: Js
+! Hand over, current board is:  Ah 6h 8d Qd Js
+! Its Just AA              has: As 9c
+! jasong            has: Jh 9h
+! Pot 1: uncalled $58925 returned to Its Just AA
+! Pot 2: Its Just AA wins $83700 with One Pair (A A Q J 9)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Julian Longo             |  21425 |        |      |    |        |
+ 2|   David                    |  80450 |        |      |    |        |
+ 4|   Its Just AA              | 142625 |        |      |    |        |
+ 5|   Nikadai                  |  19400 |        |      |    |        |
+ 6|>  mjoseff                  | 218600 |        |      |    |        |
+ 7|   Eddie Brown              | 181225 |        |      |    |        |
+ 9|D  AW Coody                 |  67250 |        |      |    |        |
+10|   b monie                  |  13500 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! jasong is eliminated!
+! AW Coody timed out during this hand
+! 442 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c25.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Having problems? Send email to floorman20@wrgpt.org.
+
+Live Redraw Status as of 02/02/11 06:55:01 AM
+
+Total Empty Seats: 37
+Total Playing Seats: 443
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org or follow "wrgpt" on Twitter.
+

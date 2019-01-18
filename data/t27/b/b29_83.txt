@@ -1,0 +1,112 @@
+
+! Table b29, Hand 83, Day 56
+
+! Paul Ant folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  asypta                   |  110100 |    2450 |      |    |         |
+ 2|   Bernie                   |   88400 |      50 |folded|    |         |
+ 3|   fich                     |  162275 |      50 |folded|    |         |
+ 5|   jasong            |   94350 |      50 |folded|    |         |
+ 6|   CPROG                    |   58300 |     450 |folded|    |         |
+ 7|D  Ben Buchwald             |   60100 |      50 |folded|    |         |
+ 8|   Deryl Garland            |   52925 |     250 |folded|    |         |
+ 9|   Paul Ant                 |  114925 |     450 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/16/17 13:45:57! Dealing a new hand
+! 12/16/17 13:45:57! Everyone antes $50
+! 12/16/17 13:45:57! Deryl Garland blinds $200
+! 12/16/17 13:45:57! Paul Ant blinds $400
+! 12/16/17 13:47:26! asypta calls 
+! 12/16/17 13:50:46! Bernie folds
+! 12/16/17 15:08:11! fich folds
+! 12/16/17 15:46:39! jasong folds
+! 12/16/17 15:52:14! CPROG calls 
+! 12/16/17 21:54:05! Ben Buchwald folds
+! 12/16/17 21:54:05! Deryl Garland folds
+! 12/16/17 21:54:05! Paul Ant checks
+
+! 12/16/17 21:54:05! Pot right ($1800), flopping/dealing/drawing cards
+! 12/16/17 21:54:05! 3 players
+! 12/16/17 21:54:05! Flopped cards: Js Kh Ad
+! 12/17/17 00:06:59! Paul Ant checks
+! 12/17/17 00:09:07! asypta bets $2000 
+! 12/17/17 01:51:26! CPROG folds
+! 12/17/17 05:40:39! Paul Ant folds
+! Hand over, no showdown
+! Current board is:  Js Kh Ad ? ?
+! asypta wins $3800 (net $1350)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  asypta                   |  113900 |         |      |    |         |
+ 2|   Bernie                   |   88400 |         |      |    |         |
+ 3|   fich                     |  162275 |         |      |    |         |
+ 5|   jasong            |   94350 |         |      |    |         |
+ 6|   CPROG                    |   58300 |         |      |    |         |
+ 7|   Ben Buchwald             |   60100 |         |      |    |         |
+ 8|D  Deryl Garland            |   52925 |         |      |    |         |
+ 9|   Paul Ant                 |  114925 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 415 players left in the tournament, 2 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b29.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+There are changes coming to the raise line.  It will
+now include the total amount bet this round.  These
+will go live soon.
+
+The entire round 'b' will be redrawn as soon as any 
+table gets down to five or fewer players.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Live Redraw Status as of 12/17/17 05:25:01 AM
+
+Total Empty Seats: 65
+Total Playing Seats: 415
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman27@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

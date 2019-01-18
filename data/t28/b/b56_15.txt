@@ -1,0 +1,130 @@
+Subject: [b56.10214] Holdem Game Broadcast Message(*)
+
+! Table b56, Hand 15, Day 16
+
+! ADB Jupe checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Mellon                   |   47600 |     550 |      |    |         |
+ 2|   dann                     |   54825 |       0 |folded|    |         |
+ 3|   Andy Pierce              |   48700 |       0 |folded|    |         |
+ 4|   ThatGuyThere             |   40550 |       0 |folded|    |         |
+ 5|   ADB Jupe                 |   49375 |     550 |      |    |         |
+ 6|D  asypta                   |       0 |     550 |all-in|    |         |
+ 7|   bozo                     |  101200 |     150 |folded|    |         |
+ 8|>  Spike                    |   46425 |     550 |      |    |         |
+ 9|   Doc McClenny             |   58975 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/26/18 19:35:55! Dealing a new hand
+! 11/26/18 19:35:55! No ante
+! 11/26/18 19:35:55! bozo blinds $150
+! 11/26/18 19:35:55! Spike blinds $300
+! 11/27/18 02:51:31! Doc McClenny folds
+! 11/27/18 03:44:14! Mellon calls 
+! 11/27/18 05:11:03! dann folds
+! 11/27/18 05:30:03! Andy Pierce folds
+! 11/27/18 06:28:00! ThatGuyThere folds
+! 11/27/18 06:34:44! ADB Jupe calls 
+_____________________________________________________________________________
+
+! Not my year. Free money!
+! -- asypta --
+_____________________________________________________________________________
+
+! 11/27/18 06:34:44! asypta raises $250 to $550 total and is all in
+! 11/27/18 09:34:37! bozo folds
+! 11/27/18 09:57:57! Spike calls 
+! 11/27/18 09:59:00! Mellon calls 
+! 11/27/18 10:20:41! ADB Jupe calls 
+
+! 11/27/18 10:20:41! Pot right ($2350), flopping/dealing/drawing cards
+! 11/27/18 10:20:41! 4 players, 1 all in
+! 11/27/18 10:20:41! Flopped cards: Qd Kc Kh
+! 11/27/18 10:22:02! Spike checks
+! 11/27/18 10:24:59! Mellon checks
+! 11/27/18 10:41:13! ADB Jupe checks
+
+! 11/27/18 10:41:13! Pot right ($2350), flopping/dealing/drawing cards
+! 11/27/18 10:41:13! 4 players, 1 all in
+! 11/27/18 10:41:13! Flopped card: 10d
+! 11/27/18 10:49:30! Spike checks
+! 11/27/18 10:50:35! Mellon checks
+! 11/27/18 11:13:25! ADB Jupe checks
+
+! 11/27/18 11:13:25! Pot right ($2350), flopping/dealing/drawing cards
+! 11/27/18 11:13:25! 4 players, 1 all in
+! 11/27/18 11:13:25! Flopped card: 5c
+! 11/27/18 11:13:25! Spike checks
+! 11/27/18 11:18:15! Mellon checks
+! 11/27/18 11:49:28! ADB Jupe checks
+! Hand over, current board is:  Qd Kc Kh 10d 5c
+! Mellon                   has: Ah 6c
+! ADB Jupe                 has: Jh 10c
+! asypta                   has: Ks 9s
+! Spike                    has: 3h 2h
+! asypta wins $2350 (net $1800) with Three of a Kind (K K K Q 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Mellon                   |   47600 |         |      |    |         |
+ 2|   dann                     |   54825 |         |      |    |         |
+ 3|   Andy Pierce              |   48700 |         |      |    |         |
+ 4|   ThatGuyThere             |   40550 |         |      |    |         |
+ 5|   ADB Jupe                 |   49375 |         |      |    |         |
+ 6|   asypta                   |    2350 |         |      |    |         |
+ 7|D  bozo                     |  101200 |         |      |    |         |
+ 8|>  Spike                    |   46425 |         |      |    |         |
+ 9|   Doc McClenny             |   58975 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 553 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b56.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 5
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

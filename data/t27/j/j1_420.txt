@@ -1,0 +1,129 @@
+
+! Table j1, Hand 420, Day 183
+
+! Stephen Mack folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Stephen Mack             | 2348500 |  510000 |folded|    |         |
+ 2|D  Lets Go Red Sox          | 3198275 |  255000 |folded|    |         |
+ 3|   rtroll                   | 1514600 |   55000 |folded|    |         |
+ 4|>  StingRay                 | 5000000 | 1246000 |      |    |         |
+ 5|   LektorAJ                 | 1617500 |    5000 |folded|    |         |
+ 6|   Dman                     |  519600 |    5000 |folded|    |         |
+ 7|   Doctor Worm              | 2949275 |  255000 |folded|    |         |
+ 8|   jasong            | 5029350 |  255000 |folded|    |         |
+ 9|   Bwana                    | 1497375 |    5000 |folded|    |         |
+10|   Quiet Lion               |  933200 |    5000 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 04/23/18 12:33:24! Dealing a new hand
+! 04/23/18 12:33:24! Everyone antes $5000
+! 04/23/18 12:33:24! rtroll blinds $50000
+! 04/23/18 12:33:24! StingRay blinds $100000
+! 04/23/18 13:49:18! LektorAJ folds
+! 04/23/18 13:49:18! Dman folds
+! 04/23/18 14:01:55! Doctor Worm raises $150000 to $250000 total 
+! 04/23/18 14:02:47! jasong calls 
+! 04/23/18 14:02:47! Bwana folds
+! 04/23/18 14:06:03! Quiet Lion folds
+! 04/23/18 14:07:02! Stephen Mack calls 
+! 04/23/18 14:12:37! Lets Go Red Sox calls 
+! 04/23/18 14:49:21! rtroll folds
+! 04/23/18 16:16:26! StingRay calls 
+
+! 04/23/18 16:16:26! Pot right ($1350000), flopping/dealing/drawing cards
+! 04/23/18 16:16:26! 5 players
+! 04/23/18 16:16:26! Flopped cards: 8d 7s Qc
+! 04/23/18 16:17:24! StingRay checks
+_____________________________________________________________________________
+
+! Glad to see I scared everyone with that raise... :-)
+! -- Doctor Worm --
+_____________________________________________________________________________
+
+! 04/23/18 17:04:53! Doctor Worm checks
+! 04/23/18 17:04:53! jasong checks
+! 04/23/18 17:11:39! Stephen Mack bets $255000 
+! 04/23/18 17:27:22! Lets Go Red Sox folds
+! 04/23/18 17:48:44! StingRay calls 
+! 04/23/18 17:48:44! Doctor Worm folds
+! 04/23/18 17:48:44! jasong folds
+
+! 04/23/18 17:48:44! Pot right ($1860000), flopping/dealing/drawing cards
+! 04/23/18 17:48:44! 2 players
+! 04/23/18 17:48:44! Flopped card: 7d
+! 04/23/18 17:49:52! StingRay bets $736000 
+! 04/23/18 19:32:03! Stephen Mack folds
+! Hand over, no showdown
+! Current board is:  8d 7s Qc 7d ?
+! StingRay wins $2596000 (net $1350000)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Stephen Mack             | 2348500 |         |      |    |         |
+ 2|   Lets Go Red Sox          | 3198275 |         |      |    |         |
+ 3|D  rtroll                   | 1514600 |         |      |    |         |
+ 4|>  StingRay                 | 7596000 |         |      |    |         |
+ 5|   LektorAJ                 | 1617500 |         |      |    |         |
+ 6|   Dman                     |  519600 |         |      |    |         |
+ 7|   Doctor Worm              | 2949275 |         |      |    |         |
+ 8|   jasong            | 5029350 |         |      |    |         |
+ 9|   Bwana                    | 1497375 |         |      |    |         |
+10|   Quiet Lion               |  933200 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/j/j1.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+However, if there were prizes they would pay the top 63 entrants.
+The standings are now showing theoretical prizes if WRGPT were a
+10k event.
+
+======
+
+Live Redraw Status as of 04/23/18 07:25:02 PM
+
+Total Empty Seats: 0
+Total Playing Seats: 10
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman27@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

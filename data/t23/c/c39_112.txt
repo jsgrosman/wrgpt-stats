@@ -1,0 +1,119 @@
+Message-Id: <201402061303.s16D3t3e009264@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [c39.10251] Holdem Game Broadcast Message(*)                          
+
+! Table c39, Hand 112, Day 88
+
+! Jpchiefs58 calls and is all in
+! Pot right ($48150), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 9d
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|>  elfyhead                 |  59475 |  20475 |      |    |        |
+ 2|D  ThunderRd                |  52525 |    200 |folded|    |        |
+ 3|   ScoJo                    |  35250 |    800 |folded|    |        |
+ 4|   Jpchiefs58               |      0 |  20475 |all-in|    |        |
+ 5|   jasong            |  60575 |    200 |folded|    |        |
+ 6|   Kimbo                    |  46350 |    200 |folded|    |        |
+ 7|   Tooner                   |  92100 |   5200 |folded|    |        |
+ 8|   Diputsur                 |  72375 |    200 |folded|    |        |
+ 9|   ChimpyChoo               |  38825 |    200 |folded|    |        |
+10|   skatesave                |  48700 |    200 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 02/05/14 07:30:50! Dealing a new hand
+! 02/05/14 07:30:50! Everyone antes $200
+! 02/05/14 07:30:50! ScoJo blinds $600
+! 02/05/14 07:30:50! Jpchiefs58 blinds $1200
+! 02/05/14 07:56:46! jasong folds
+! 02/05/14 08:08:38! Kimbo folds
+! 02/05/14 08:12:33! Tooner raises $3800 
+! 02/05/14 08:13:59! Diputsur folds
+! 02/05/14 08:13:59! ChimpyChoo folds
+! 02/05/14 08:13:59! skatesave folds
+! 02/05/14 08:16:46! elfyhead calls 
+! 02/05/14 16:28:04! ThunderRd folds
+! 02/05/14 16:28:04! ScoJo folds
+! 02/05/14 16:33:56! Jpchiefs58 calls 
+
+! 02/05/14 16:33:56! Pot right ($17600), flopping/dealing/drawing cards
+! 02/05/14 16:33:56! 3 players
+! 02/05/14 16:33:56! Flopped cards: 8c 6d Qd
+! 02/05/14 16:34:50! Jpchiefs58 checks
+! 02/05/14 17:03:49! Tooner checks
+! 02/05/14 20:06:28! elfyhead bets $13200 
+! 02/05/14 20:17:36! Jpchiefs58 calls 
+! 02/05/14 20:33:10! Tooner folds
+
+! 02/05/14 20:33:10! Pot right ($44000), flopping/dealing/drawing cards
+! 02/05/14 20:33:10! 2 players
+! 02/05/14 20:33:10! Flopped card: 6s
+! 02/05/14 20:47:29! Jpchiefs58 checks
+! 02/05/14 20:58:04! elfyhead bets $2075 
+! 02/06/14 05:03:53! Jpchiefs58 calls and is all in
+
+! 02/06/14 05:03:53! Pot right ($48150), flopping/dealing/drawing cards
+! 02/06/14 05:03:53! 2 players, 1 all in
+! 02/06/14 05:03:53! Flopped card: 9d
+! Hand over, current board is:  8c 6d Qd 6s 9d
+! elfyhead                 has: Ad Jd
+! Jpchiefs58               has: As 8s
+! elfyhead wins $48150 (net $27675) with Diamond Flush (A Q J 9 6)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|>  elfyhead                 | 107625 |        |      |    |        |
+ 2|   ThunderRd                |  52525 |        |      |    |        |
+ 3|D  ScoJo                    |  35250 |        |      |    |        |
+ 5|   jasong            |  60575 |        |      |    |        |
+ 6|   Kimbo                    |  46350 |        |      |    |        |
+ 7|   Tooner                   |  92100 |        |      |    |        |
+ 8|   Diputsur                 |  72375 |        |      |    |        |
+ 9|   ChimpyChoo               |  38825 |        |      |    |        |
+10|   skatesave                |  48700 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! Jpchiefs58 is eliminated!
+! 424 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c39.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Remember to use advance actions to speed up the game.
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+Here is a link to the railbird mailing list:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman23@wrgpt.org.
+
+Live Redraw Status as of 02/06/14 04:55:01 AM
+
+Total Empty Seats: 25
+Total Playing Seats: 425
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

@@ -1,0 +1,113 @@
+Subject: [b20.10523] Holdem Game Broadcast Message(*)
+
+! Table b20, Hand 44, Day 31
+
+! null calls - side pot
+! Pot right ($115100), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped card: 7c
+! Flopped card: 3h
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  null                     |       0 |   49900 |all-in|  2 |  103775 |
+ 2|   Claudia M                |       0 |   61225 |all-in|  1 |   11325 |
+ 3|   Frank Irwin              |   45075 |      25 |folded|    |         |
+ 4|   J. Michael Hammond       |   33625 |      25 |folded|    |         |
+ 5|   D-man                    |   90200 |      25 |folded|    |         |
+ 6|   Mike B                   |   44350 |      25 |folded|    |         |
+ 7|   paulpud                  |   58150 |      25 |folded|    |         |
+ 8|D  Andrew Nelson            |   40525 |    2925 |folded|    |         |
+ 9|   Mrstcao                  |   70750 |     925 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/11/18 11:02:37! Dealing a new hand
+! 12/11/18 11:02:37! Everyone antes $25
+! 12/11/18 11:02:37! Mrstcao blinds $150
+! 12/11/18 11:02:37! null blinds $300
+! 12/11/18 11:51:09! Claudia M raises $600 to $900 total 
+! 12/11/18 11:51:09! Frank Irwin folds
+! 12/11/18 11:51:09! J. Michael Hammond folds
+! 12/11/18 11:51:09! D-man folds
+! 12/11/18 11:51:09! Mike B folds
+! 12/11/18 11:51:09! paulpud folds
+! 12/11/18 11:51:45! Andrew Nelson calls 
+! 12/11/18 12:27:26! Mrstcao calls 
+! 12/11/18 16:01:52! null calls 
+
+! 12/11/18 16:01:52! Pot right ($3825), flopping/dealing/drawing cards
+! 12/11/18 16:01:52! 4 players
+! 12/11/18 16:01:52! Flopped cards: 9c 6s 2s
+! 12/11/18 18:59:37! Mrstcao checks
+! 12/11/18 18:59:37! null checks
+! 12/11/18 19:02:58! Claudia M bets $2000 
+! 12/11/18 19:13:55! Andrew Nelson calls 
+! 12/12/18 05:18:39! Mrstcao folds
+! 12/12/18 06:07:26! null raises $4000 to $6000 total 
+! 12/12/18 06:11:10! Claudia M raises $54300 to $60300 total and is all in
+! 12/12/18 06:24:48! Andrew Nelson folds
+! 12/12/18 06:30:55! null calls - side pot
+
+! 12/12/18 06:30:55! Pot right ($115100), flopping/dealing/drawing cards
+! 12/12/18 06:30:55! 2 players, 2 all in
+! 12/12/18 06:30:55! Flopped card: 7c
+! 12/12/18 06:30:55! Flopped card: 3h
+! Hand over, current board is:  9c 6s 2s 7c 3h
+! null                     has: 6h 2h
+! Claudia M                has: Qh Qc
+! Pot 1: uncalled $11325 returned to Claudia M
+! Pot 2: null wins $103775 with Two Pair (6 6 2 2 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  null                     |  103775 |         |      |    |         |
+ 2|   Claudia M                |   11325 |         |      |    |         |
+ 3|   Frank Irwin              |   45075 |         |      |    |         |
+ 4|   J. Michael Hammond       |   33625 |         |      |    |         |
+ 5|   D-man                    |   90200 |         |      |    |         |
+ 6|   Mike B                   |   44350 |         |      |    |         |
+ 7|   paulpud                  |   58150 |         |      |    |         |
+ 8|   Andrew Nelson            |   40525 |         |      |    |         |
+ 9|D  Mrstcao                  |   70750 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 486 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b20.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 18
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

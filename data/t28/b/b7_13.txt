@@ -1,0 +1,122 @@
+Subject: [b7.10160] Holdem Game Broadcast Message(*)
+
+! Table b7, Hand 13, Day 11
+
+! FredLS calls 
+! Ryan Thomas folds
+! Pot right ($11725), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 7d
+! Flopped card: 5d
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   JPP                      |   41025 |       0 |folded|    |         |
+ 2|   threepair                |   45450 |       0 |folded|    |         |
+ 3|   Ryan Thomas              |   98225 |     750 |folded|    |         |
+ 4|D  Glenn All-in             |       0 |    5075 |all-in|    |         |
+ 5|   MTpotts                  |   49625 |      75 |folded|    |         |
+ 6|   TheOldThug               |   58450 |     750 |folded|    |         |
+ 7|   Boiling Frog             |   48875 |       0 |folded|    |         |
+ 8|>  FredLS                   |   46850 |    5075 |      |    |         |
+ 9|V  srushe                   |   49775 |       0 | NoSho|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/22/18 11:53:31! Dealing a new hand
+! 11/22/18 11:53:31! No ante
+! 11/22/18 11:53:31! MTpotts blinds $75
+! 11/22/18 11:53:31! TheOldThug blinds $150
+! 11/22/18 11:54:31! Boiling Frog folds
+! 11/22/18 12:13:10! FredLS calls 
+! 11/22/18 12:13:10! srushe is on vacation and folds
+! 11/22/18 12:35:27! JPP folds
+! 11/22/18 15:18:09! threepair folds
+! 11/22/18 15:29:02! Ryan Thomas raises $300 to $450 total 
+! 11/22/18 15:29:02! Glenn All-in raises $300 to $750 total 
+! 11/22/18 15:29:02! MTpotts folds
+! 11/22/18 16:17:33! TheOldThug calls 
+! 11/22/18 16:35:34! FredLS calls 
+! 11/22/18 16:50:30! Ryan Thomas calls 
+
+! 11/22/18 16:50:30! Pot right ($3075), flopping/dealing/drawing cards
+! 11/22/18 16:50:30! 4 players
+! 11/22/18 16:50:30! Flopped cards: 10s 4c 9h
+! 11/22/18 16:51:44! TheOldThug checks
+! 11/22/18 18:46:51! FredLS checks
+! 11/22/18 19:03:22! Ryan Thomas checks
+! 11/22/18 19:13:48! Glenn All-in bets $4325 and is all in
+! 11/22/18 21:55:05! TheOldThug folds
+! 11/22/18 22:06:11! FredLS calls 
+! 11/22/18 22:06:11! Ryan Thomas folds
+
+! 11/22/18 22:06:11! Pot right ($11725), flopping/dealing/drawing cards
+! 11/22/18 22:06:11! 2 players, 1 all in
+! 11/22/18 22:06:11! Flopped card: 7d
+! 11/22/18 22:06:11! Flopped card: 5d
+! Hand over, current board is:  10s 4c 9h 7d 5d
+! Glenn All-in             has: Ac 10c
+! FredLS                   has: 4h 4d
+! FredLS wins $11725 (net $6650) with Three of a Kind (4 4 4 10 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   JPP                      |   41025 |         |      |    |         |
+ 2|   threepair                |   45450 |         |      |    |         |
+ 3|   Ryan Thomas              |   98225 |         |      |    |         |
+ 5|D  MTpotts                  |   49625 |         |      |    |         |
+ 6|   TheOldThug               |   58450 |         |      |    |         |
+ 7|   Boiling Frog             |   48875 |         |      |    |         |
+ 8|>  FredLS                   |   58575 |         |      |    |         |
+ 9|V  srushe                   |   49775 |         | NoSho|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Glenn All-in is eliminated!
+! 565 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b7.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 10
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,93 @@
+Message-Id: <201101121943.p0CJhWtY031968@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [c25.10255] Holdem Game Broadcast Message(*)                          
+
+! Table c25, Hand 83, Day 73
+
+! AW Coody folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|V  Nikadai                  |  69725 |    100 |13 jan|    |        |
+ 2|>  mjoseff                  |  98475 |   6300 |      |    |        |
+ 3|   Eddie Brown              |  50050 |    100 |folded|    |        |
+ 4|V  Stanley Chow             |  27500 |    100 |<AWOL>|    |        |
+ 5|D  jasong            |  74150 |    100 |folded|    |        |
+ 6|   jennyfar                 |  79900 |    500 |folded|    |        |
+ 7|   AW Coody                 | 109850 |   1700 |folded|    |        |
+ 8|   b monie                  |  17400 |    100 |folded|    |        |
+ 9|   JAvery - VP              |  14350 |    100 |folded|    |        |
+10|   KluelessKid              |  44800 |    100 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 01/11/11 11:30:46! Dealing a new hand
+! 01/11/11 11:30:46! Everyone antes $100
+! 01/11/11 11:30:46! jennyfar blinds $400
+! 01/11/11 11:30:46! AW Coody blinds $800
+! 01/11/11 11:37:10! b monie folds
+! 01/11/11 11:44:08! JAvery - VP folds
+! 01/11/11 13:11:09! KluelessKid folds
+! 01/11/11 13:11:09! Nikadai is on vacation and folds
+! 01/11/11 13:14:33! mjoseff raises $800 
+! 01/11/11 13:15:42! Eddie Brown folds
+! 01/11/11 13:15:42! Stanley Chow is on vacation and folds
+! 01/11/11 13:15:42! jasong folds
+! 01/11/11 15:03:45! jennyfar folds
+! 01/11/11 16:24:37! AW Coody calls 
+
+! 01/11/11 16:24:37! Pot right ($4600), flopping/dealing/drawing cards
+! 01/11/11 16:24:37! 2 players
+! 01/11/11 16:24:37! Flopped cards: 5d 10h 8c
+! 01/11/11 17:20:26! AW Coody checks
+! 01/11/11 22:40:56! mjoseff bets $4600 
+! 01/12/11 11:43:32! AW Coody folds
+! Hand over, no showdown
+! Current board is:  5d 10h 8c ? ?
+! mjoseff wins $9200 (net $2900)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|V  Nikadai                  |  69725 |        |13 jan|    |        |
+ 2|>  mjoseff                  | 107675 |        |      |    |        |
+ 3|   Eddie Brown              |  50050 |        |      |    |        |
+ 4|V  Stanley Chow             |  27500 |        |<AWOL>|    |        |
+ 5|   jasong            |  74150 |        |      |    |        |
+ 6|D  jennyfar                 |  79900 |        |      |    |        |
+ 7|   AW Coody                 | 109850 |        |      |    |        |
+ 8|   b monie                  |  17400 |        |      |    |        |
+ 9|   JAvery - VP              |  14350 |        |      |    |        |
+10|   KluelessKid              |  44800 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 567 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c25.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+If you have any problems send mail to floorman20@wrgpt.org.
+
+Live Redraw Status as of 01/12/11 11:25:04 AM
+
+Total Empty Seats: 17
+Total Playing Seats: 562
+Live redraw in progress:
+Seats Needed: 2
+Seats Waiting: 0
+Moving Players Waiting: 2
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org or follow "wrgpt" on Twitter.
+

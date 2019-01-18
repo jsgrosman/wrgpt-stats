@@ -1,0 +1,132 @@
+Subject: [b47.10130] Holdem Game Broadcast Message(*)
+
+% Why do I feel like the underdog here? ;)
+% On Thu, Nov 22, 2018, 12:59 PM <dealer@wrgpt.org wrote:
+% (dealer suppressed lines starting with '>' or ':')
+! -- Don Overton --
+_____________________________________________________________________________
+
+! Table b47, Hand 12, Day 11
+
+! Don Overton calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   DangerDan                |   49700 |       0 |folded|    |         |
+ 2|   Brian Crowley            |   50225 |       0 |folded|    |         |
+ 3|D  Spiraling Shape          |   49550 |       0 |folded|    |         |
+ 4|   Josh Moore               |   53425 |      75 |folded|    |         |
+ 5|>  Schneb                   |   47450 |    1750 |      |    |         |
+ 6|V  sendlo                   |   47750 |       0 |23 nov|    |         |
+ 7|   Darstardly and Muttley   |   49275 |       0 |folded|    |         |
+ 8|   Tythejeweler             |   42425 |       0 |folded|    |         |
+ 9|   Don Overton              |  106550 |    1750 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/21/18 18:04:03! Dealing a new hand
+! 11/21/18 18:04:03! No ante
+! 11/21/18 18:04:03! Josh Moore blinds $75
+! 11/21/18 18:04:03! Schneb blinds $150
+! 11/21/18 18:04:03! sendlo is on vacation and folds
+! 11/21/18 18:34:56! Darstardly and Muttley folds
+! 11/22/18 06:34:25! Tythejeweler folds
+! 11/22/18 06:35:42! Don Overton raises $200 to $350 total 
+! 11/22/18 08:00:03! DangerDan folds
+! 11/22/18 08:00:03! Brian Crowley folds
+! 11/22/18 08:00:03! Spiraling Shape is on vacation and folds
+! 11/22/18 08:00:03! Josh Moore folds
+! 11/22/18 08:45:11! Schneb calls 
+
+! 11/22/18 08:45:11! Pot right ($775), flopping/dealing/drawing cards
+! 11/22/18 08:45:11! 2 players
+! 11/22/18 08:45:11! Flopped cards: 3s 7s 5d
+! 11/22/18 08:46:24! Schneb bets $400 
+! 11/22/18 09:30:23! Spiraling Shape is back from vacation
+! 11/22/18 10:17:30! Don Overton calls 
+
+! 11/22/18 10:17:30! Pot right ($1575), flopping/dealing/drawing cards
+! 11/22/18 10:17:30! 2 players
+! 11/22/18 10:17:30! Flopped card: 7h
+! 11/22/18 10:26:21! Schneb checks
+! 11/22/18 10:30:24! Don Overton checks
+
+! 11/22/18 10:30:24! Pot right ($1575), flopping/dealing/drawing cards
+! 11/22/18 10:30:24! 2 players
+! 11/22/18 10:30:24! Flopped card: Jh
+! 11/22/18 10:59:53! Schneb bets $1000 
+_____________________________________________________________________________
+
+! Why do I feel like the underdog here? ;)
+! On Thu, Nov 22, 2018, 12:59 PM <dealer@wrgpt.org wrote:
+! (dealer suppressed lines starting with '>' or ':')
+! -- Don Overton --
+_____________________________________________________________________________
+
+! 11/22/18 12:33:02! Don Overton calls 
+! Hand over, current board is:  3s 7s 5d 7h Jh
+! Schneb                   has: 4s 4c
+! Don Overton              has: 10h Ad
+! Schneb wins $3575 (net $1825) with Two Pair (7 7 4 4 J)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   DangerDan                |   49700 |         |      |    |         |
+ 2|   Brian Crowley            |   50225 |         |      |    |         |
+ 3|   Spiraling Shape          |   49550 |         |      |    |         |
+ 4|D  Josh Moore               |   53425 |         |      |    |         |
+ 5|>  Schneb                   |   51025 |         |      |    |         |
+ 6|V  sendlo                   |   47750 |         |23 nov|    |         |
+ 7|   Darstardly and Muttley   |   49275 |         |      |    |         |
+ 8|   Tythejeweler             |   42425 |         |      |    |         |
+ 9|   Don Overton              |  106550 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 566 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b47.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 10
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

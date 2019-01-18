@@ -1,0 +1,121 @@
+Subject: [b63.10167] Holdem Game Broadcast Message(*)
+
+! Table b63, Hand 12, Day 12
+
+! reelbigbeagles calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Gunter Flagendorf        |   30925 |       0 |folded|    |         |
+ 2|   SJL                      |   50225 |       0 |folded|    |         |
+ 3|D  SCSI                     |   43550 |       0 |folded|    |         |
+ 4|   breyercalvert            |  109475 |      75 |folded|    |         |
+ 5|   PMedhurst                |   50825 |     500 |folded|    |         |
+ 6|   SJSJohnson               |   49400 |       0 |folded|    |         |
+ 7|   Jon Nightingale          |   19900 |       0 |folded|    |         |
+ 8|   reelbigbeagles           |   35575 |   15075 |      |    |         |
+ 9|>  bigjimmf1                |   29400 |   15075 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/22/18 05:16:34! Dealing a new hand
+! 11/22/18 05:16:34! No ante
+! 11/22/18 05:16:34! breyercalvert blinds $75
+! 11/22/18 05:16:34! PMedhurst blinds $150
+! 11/22/18 13:22:14! SJSJohnson folds
+! 11/22/18 13:22:14! Jon Nightingale folds
+! 11/23/18 07:58:02! reelbigbeagles raises $350 to $500 total 
+! 11/23/18 08:20:22! bigjimmf1 calls 
+! 11/23/18 08:20:22! Gunter Flagendorf folds
+! 11/23/18 08:20:22! SJL folds
+! 11/23/18 08:21:45! SCSI folds
+! 11/23/18 08:21:45! breyercalvert folds
+! 11/23/18 08:33:03! PMedhurst calls 
+
+! 11/23/18 08:33:03! Pot right ($1575), flopping/dealing/drawing cards
+! 11/23/18 08:33:03! 3 players
+! 11/23/18 08:33:03! Flopped cards: 8s 4c 9s
+! 11/23/18 08:33:39! PMedhurst checks
+! 11/23/18 08:43:47! reelbigbeagles bets $675 
+! 11/23/18 10:50:09! bigjimmf1 calls 
+! 11/23/18 11:50:07! PMedhurst folds
+
+! 11/23/18 11:50:07! Pot right ($2925), flopping/dealing/drawing cards
+! 11/23/18 11:50:07! 2 players
+! 11/23/18 11:50:07! Flopped card: 3c
+! 11/23/18 12:55:50! reelbigbeagles bets $1225 
+! 11/23/18 13:25:22! bigjimmf1 raises $2675 to $3900 total 
+! 11/23/18 13:59:45! reelbigbeagles calls 
+
+! 11/23/18 13:59:45! Pot right ($10725), flopping/dealing/drawing cards
+! 11/23/18 13:59:45! 2 players
+! 11/23/18 13:59:45! Flopped card: 9h
+! 11/23/18 14:00:12! reelbigbeagles checks
+! 11/23/18 14:08:53! bigjimmf1 bets $10000 
+! 11/23/18 14:10:26! reelbigbeagles calls 
+! Hand over, current board is:  8s 4c 9s 3c 9h
+! reelbigbeagles           has: Ah 8h
+! bigjimmf1                has: 9d 8d
+! bigjimmf1 wins $30725 (net $15650) with Full House (9 9 9 8 8)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Gunter Flagendorf        |   30925 |         |      |    |         |
+ 2|   SJL                      |   50225 |         |      |    |         |
+ 3|   SCSI                     |   43550 |         |      |    |         |
+ 4|D  breyercalvert            |  109475 |         |      |    |         |
+ 5|   PMedhurst                |   50825 |         |      |    |         |
+ 6|   SJSJohnson               |   49400 |         |      |    |         |
+ 7|   Jon Nightingale          |   19900 |         |      |    |         |
+ 8|   reelbigbeagles           |   35575 |         |      |    |         |
+ 9|>  bigjimmf1                |   60125 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 565 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b63.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 2
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

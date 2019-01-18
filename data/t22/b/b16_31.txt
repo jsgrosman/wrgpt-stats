@@ -1,0 +1,113 @@
+Message-Id: <201211301839.qAUIdgpV023737@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [b16.10455] Holdem Game Broadcast Message(*)                          
+
+! Table b16, Hand 31, Day 40
+
+! Mad Chad checks
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   D-Man                    |  25150 |      0 |folded|    |        |
+ 2|   Swamper JPops            |  30750 |      0 |folded|    |        |
+ 3|   Eric Moore               |  40025 |      0 |folded|    |        |
+ 4|   Mad Chad                 |  40600 |    400 |      |    |        |
+ 5|DV amz                      |  28600 |      0 |<AWOL>|    |        |
+ 6|   jasong            |   6350 |    200 |folded|    |        |
+ 7|>  CKRAIZ                   |  80800 |    400 |      |    |        |
+ 8|   dann                     |  27450 |      0 |folded|    |        |
+ 9|   Dragonrpc                |  10800 |      0 |folded|    |        |
+10|   Roger Strom              |  35925 |      0 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 11/29/12 08:52:10! Dealing a new hand
+! 11/29/12 08:52:10! No ante
+! 11/29/12 08:52:10! jasong blinds $200
+! 11/29/12 08:52:10! CKRAIZ blinds $400
+! 11/29/12 09:04:01! dann folds
+! 11/29/12 09:54:03! Dragonrpc folds
+! 11/29/12 23:22:36! Roger Strom folds
+! 11/30/12 06:45:16! D-Man folds
+! 11/30/12 06:45:16! Swamper JPops folds
+! 11/30/12 06:45:16! Eric Moore folds
+! 11/30/12 08:52:17! Mad Chad calls 
+! 11/30/12 08:52:17! amz is on vacation and folds
+! 11/30/12 08:52:17! jasong folds
+! 11/30/12 09:16:20! CKRAIZ checks
+
+! 11/30/12 09:16:20! Pot right ($1000), flopping/dealing/drawing cards
+! 11/30/12 09:16:20! 2 players
+! 11/30/12 09:16:20! Flopped cards: 10s 2d Qd
+! 11/30/12 09:17:15! CKRAIZ checks
+! 11/30/12 09:21:12! Mad Chad checks
+
+! 11/30/12 09:21:12! Pot right ($1000), flopping/dealing/drawing cards
+! 11/30/12 09:21:12! 2 players
+! 11/30/12 09:21:12! Flopped card: 4c
+! 11/30/12 09:43:29! CKRAIZ checks
+! 11/30/12 10:31:34! Mad Chad checks
+
+! 11/30/12 10:31:34! Pot right ($1000), flopping/dealing/drawing cards
+! 11/30/12 10:31:34! 2 players
+! 11/30/12 10:31:34! Flopped card: Qh
+! 11/30/12 10:32:49! CKRAIZ checks
+! 11/30/12 10:39:41! Mad Chad checks
+! Hand over, current board is:  10s 2d Qd 4c Qh
+! Mad Chad                 has: 9h 8d
+! CKRAIZ                   has: 2h 5d
+! CKRAIZ wins $1000 (net $600) with Two Pair (Q Q 2 2 10)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   D-Man                    |  25150 |        |      |    |        |
+ 2|   Swamper JPops            |  30750 |        |      |    |        |
+ 3|   Eric Moore               |  40025 |        |      |    |        |
+ 4|   Mad Chad                 |  40600 |        |      |    |        |
+ 5|V  amz                      |  28600 |        |<AWOL>|    |        |
+ 6|D  jasong            |   6350 |        |      |    |        |
+ 7|>  CKRAIZ                   |  81800 |        |      |    |        |
+ 8|   dann                     |  27450 |        |      |    |        |
+ 9|   Dragonrpc                |  10800 |        |      |    |        |
+10|   Roger Strom              |  35925 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 659 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b16.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+All redraws have completed for the "b" round.  We will now
+do a full redraw as soon as any table gets below six players.
+
+Here is a link to the railbird mailing list:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman22@wrgpt.org.
+
+Live Redraw Status as of 11/30/12 10:25:01 AM
+
+Total Empty Seats: 21
+Total Playing Seats: 659
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+And Tumbler: http://wrgptfloorman.tumblr.com
+

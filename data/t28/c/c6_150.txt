@@ -1,0 +1,120 @@
+Subject: [c6.10026] Holdem Game Broadcast Message(*)
+
+! Table c6, Hand 150, Day 58
+
+! zzzrbt calls - side pot
+! Pot right ($134200), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped card: 10s
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   GwynnInTheHall           |   76675 |     100 |folded|    |         |
+ 2|   ADB Foldem               |       0 |   87275 |all-in|  1 |   42300 |
+ 3|D> zzzrbt                   |       0 |   44975 |all-in|  2 |   91900 |
+ 4|   Chris Sims               |   58725 |     350 |folded|    |         |
+ 5|   Home_Brew_Boy            |   29000 |     600 |folded|    |         |
+ 6|   Swamper bfj              |  115500 |     100 |folded|    |         |
+ 7|   Grizz                    |   50950 |     600 |folded|    |         |
+ 8|   rktsci                   |   57625 |     100 |folded|    |         |
+ 9|   Mike Litoris             |   69875 |     100 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/07/19 11:02:35! Dealing a new hand
+! 01/07/19 11:02:35! Everyone antes $100
+! 01/07/19 11:02:35! Chris Sims blinds $250
+! 01/07/19 11:02:35! Home_Brew_Boy blinds $500
+! 01/07/19 11:19:53! Swamper bfj folds
+! 01/07/19 12:34:57! Grizz calls 
+! 01/07/19 12:34:57! rktsci folds
+! 01/07/19 12:34:57! Mike Litoris folds
+! 01/07/19 12:34:57! GwynnInTheHall folds
+! 01/07/19 13:39:43! ADB Foldem calls 
+! 01/07/19 14:01:13! zzzrbt calls 
+! 01/07/19 14:01:13! Chris Sims folds
+! 01/07/19 14:08:46! Home_Brew_Boy checks
+
+! 01/07/19 14:08:46! Pot right ($3150), flopping/dealing/drawing cards
+! 01/07/19 14:08:46! 4 players
+! 01/07/19 14:08:46! Flopped cards: Ah 8c 2h
+! 01/07/19 14:10:24! Home_Brew_Boy checks
+! 01/07/19 14:14:44! Grizz checks
+! 01/07/19 14:33:05! ADB Foldem bets $1600 
+! 01/07/19 14:56:49! zzzrbt raises $2000 to $3600 total 
+! 01/07/19 14:57:49! Home_Brew_Boy folds
+! 01/07/19 18:58:28! Grizz folds
+! 01/07/19 20:04:27! ADB Foldem calls 
+
+! 01/07/19 20:04:27! Pot right ($10350), flopping/dealing/drawing cards
+! 01/07/19 20:04:27! 2 players
+! 01/07/19 20:04:27! Flopped card: 7s
+! 01/08/19 00:52:03! ADB Foldem checks
+! 01/08/19 04:57:46! zzzrbt bets $15000 
+! 01/08/19 09:11:36! ADB Foldem raises $68075 to $83075 total and is all in
+! 01/08/19 09:43:52! zzzrbt calls - side pot
+
+! 01/08/19 09:43:52! Pot right ($134200), flopping/dealing/drawing cards
+! 01/08/19 09:43:52! 2 players, 2 all in
+! 01/08/19 09:43:52! Flopped card: 10s
+! Hand over, current board is:  Ah 8c 2h 7s 10s
+! ADB Foldem               has: 2s 2c
+! zzzrbt                   has: 8h 8d
+! Pot 1: uncalled $42300 returned to ADB Foldem
+! Pot 2: zzzrbt wins $91900 with Three of a Kind (8 8 8 A 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   GwynnInTheHall           |   76675 |         |      |    |         |
+ 2|   ADB Foldem               |   42300 |         |      |    |         |
+ 3|>  zzzrbt                   |   91900 |         |      |    |         |
+ 4|D  Chris Sims               |   58725 |         |      |    |         |
+ 5|   Home_Brew_Boy            |   29000 |         |      |    |         |
+ 6|   Swamper bfj              |  115500 |         |      |    |         |
+ 7|   Grizz                    |   50950 |         |      |    |         |
+ 8|   rktsci                   |   57625 |         |      |    |         |
+ 9|   Mike Litoris             |   69875 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 394 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c6.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+The "c" round has started.  Good luck to all
+the remaining players.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 3
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

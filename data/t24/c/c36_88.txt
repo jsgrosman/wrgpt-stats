@@ -1,0 +1,117 @@
+
+! Table c36, Hand 88, Day 69
+
+! heyelander folds
+! Pot right ($26500), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 10c
+! Flopped card: 3h
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|D  heyelander               |  68100 |   2800 |folded|    |        |
+ 2|   James Scharf             |  44150 |    500 |folded|    |        |
+ 3|   razhell                  |      0 |   8600 |all-in|    |        |
+ 4|>  Bob The Butcher          | 123400 |   8600 |      |    |        |
+ 5|   JonM                     |  55925 |    100 |folded|    |        |
+ 6|   Righteous Indignation    |  16450 |    100 |folded|    |        |
+ 7|   jasong            |  11050 |   2800 |folded|    |        |
+ 8|   Chris Edwards            |  34500 |    100 |folded|    |        |
+ 9|   Chris Learmonth          |  18800 |   2800 |folded|    |        |
+10|   Al Hambra                |  52825 |    100 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 01/16/15 13:39:30! Dealing a new hand
+! 01/16/15 13:39:30! Everyone antes $100
+! 01/16/15 13:39:30! James Scharf blinds $400
+! 01/16/15 13:39:30! razhell blinds $800
+! 01/16/15 13:41:58! Bob The Butcher raises $1900 
+! 01/16/15 13:47:06! JonM folds
+! 01/16/15 13:49:51! Righteous Indignation folds
+! 01/16/15 14:06:06! jasong calls 
+! 01/16/15 14:06:06! Chris Edwards folds
+! 01/17/15 02:38:07! Chris Learmonth calls 
+! 01/17/15 02:38:07! Al Hambra folds
+! 01/17/15 02:52:13! heyelander calls 
+! 01/17/15 02:52:13! James Scharf folds
+! 01/17/15 04:26:52! razhell calls 
+
+! 01/17/15 04:26:52! Pot right ($14900), flopping/dealing/drawing cards
+! 01/17/15 04:26:52! 5 players
+! 01/17/15 04:26:52! Flopped cards: Jc 6s 3d
+! 01/17/15 04:30:30! razhell bets $5800 and is all in
+! 01/17/15 04:33:59! Bob The Butcher calls 
+! 01/17/15 07:22:27! jasong folds
+! 01/17/15 07:22:27! Chris Learmonth folds
+! 01/17/15 11:50:53! heyelander folds
+
+! 01/17/15 11:50:53! Pot right ($26500), flopping/dealing/drawing cards
+! 01/17/15 11:50:53! 2 players, 1 all in
+! 01/17/15 11:50:53! Flopped card: 10c
+! 01/17/15 11:50:53! Flopped card: 3h
+! Hand over, current board is:  Jc 6s 3d 10c 3h
+! razhell                  has: 9d 6d
+! Bob The Butcher          has: Ad Kd
+! razhell wins $26500 (net $17900) with Two Pair (6 6 3 3 J)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   heyelander               |  68100 |        |      |    |        |
+ 2|D  James Scharf             |  44150 |        |      |    |        |
+ 3|   razhell                  |  26500 |        |      |    |        |
+ 4|>  Bob The Butcher          | 123400 |        |      |    |        |
+ 5|   JonM                     |  55925 |        |      |    |        |
+ 6|   Righteous Indignation    |  16450 |        |      |    |        |
+ 7|   jasong            |  11050 |        |      |    |        |
+ 8|   Chris Edwards            |  34500 |        |      |    |        |
+ 9|   Chris Learmonth          |  18800 |        |      |    |        |
+10|   Al Hambra                |  52825 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 442 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c36.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Good luck.
+
+======
+
+Live Redraw Status as of 01/17/15 11:25:01 AM
+
+Total Empty Seats: 8
+Total Playing Seats: 442
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+Here is a link to the railbird mailing list:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman24@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

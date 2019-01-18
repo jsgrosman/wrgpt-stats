@@ -1,0 +1,122 @@
+
+! Table b29, Hand 31, Day 26
+
+! Cindy folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   jasong            |  107625 |     300 |folded|    |         |
+ 2|   Ben Buchwald             |   54525 |     900 |folded|    |         |
+ 3|   Deryl Garland            |   52250 |       0 |folded|    |         |
+ 4|   Paul Ant                 |  117875 |       0 |folded|    |         |
+ 5|   Cindy                    |   32475 |     900 |folded|    |         |
+ 6|>  Courtney Brennan         |   50500 |    3900 |      |    |         |
+ 7|   asypta                   |   72225 |     900 |folded|    |         |
+ 8|   Bernie                   |  123775 |     900 |folded|    |         |
+ 9|D  fich                     |   50825 |     900 |folded|    |         |
+10|   John Senger              |   37100 |     150 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/16/17 17:50:40! Dealing a new hand
+! 11/16/17 17:50:40! No ante
+! 11/16/17 17:50:40! John Senger blinds $150
+! 11/16/17 17:50:40! jasong blinds $300
+! 11/16/17 19:56:16! Bernie is back from vacation
+! 11/16/17 21:41:53! Ben Buchwald raises $600 
+! 11/16/17 21:41:53! Deryl Garland folds
+! 11/16/17 23:36:30! Paul Ant folds
+! 11/17/17 07:44:30! Cindy calls 
+! 11/17/17 07:56:30! Courtney Brennan calls 
+! 11/17/17 08:05:01! asypta calls 
+! 11/17/17 08:05:01! Bernie calls 
+! 11/17/17 08:45:25! fich calls 
+! 11/17/17 08:45:25! John Senger folds
+! 11/17/17 08:45:25! jasong folds
+
+! 11/17/17 08:45:25! Pot right ($5850), flopping/dealing/drawing cards
+! 11/17/17 08:45:25! 6 players
+! 11/17/17 08:45:25! Flopped cards: 8h 9c 5d
+! 11/17/17 08:46:35! Ben Buchwald checks
+! 11/17/17 09:50:37! Cindy checks
+! 11/17/17 11:16:41! Courtney Brennan bets $3000 
+! 11/17/17 12:04:05! asypta folds
+! 11/17/17 16:06:02! Bernie folds
+! 11/17/17 16:06:02! fich folds
+! 11/17/17 17:24:27! Ben Buchwald folds
+! 11/17/17 18:01:47! Cindy folds
+! Hand over, no showdown
+! Current board is:  8h 9c 5d ? ?
+! Courtney Brennan wins $8850 (net $4950)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   jasong            |  107625 |         |      |    |         |
+ 2|   Ben Buchwald             |   54525 |         |      |    |         |
+ 3|   Deryl Garland            |   52250 |         |      |    |         |
+ 4|   Paul Ant                 |  117875 |         |      |    |         |
+ 5|   Cindy                    |   32475 |         |      |    |         |
+ 6|>  Courtney Brennan         |   59350 |         |      |    |         |
+ 7|   asypta                   |   72225 |         |      |    |         |
+ 8|   Bernie                   |  123775 |         |      |    |         |
+ 9|   fich                     |   50825 |         |      |    |         |
+10|D  John Senger              |   37100 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Bernie timed out during this hand
+! 524 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b29.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+Players who do not come to the tables by day 30 will
+be removed.
+
+The entire round 'b' will be redrawn after day 45.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Live Redraw Status as of 11/17/17 05:55:02 PM
+
+Total Empty Seats: 16
+Total Playing Seats: 524
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman27@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

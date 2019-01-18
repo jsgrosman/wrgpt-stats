@@ -1,0 +1,120 @@
+Subject: [b12.10428] Holdem Game Broadcast Message(*)
+
+! Table b12, Hand 32, Day 21
+
+! Jascha checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  TheTsunami               |  138925 |   12300 |      |    |         |
+ 2|   Rich Guidoboni           |   75125 |       0 |folded|    |         |
+ 3|   DMW                      |    7525 |       0 |folded|    |         |
+ 4|   Spier                    |   54650 |       0 |folded|    |         |
+ 5|   Jascha                   |   22700 |   12300 |      |    |         |
+ 6|   ThinkingPokerAndrew      |   47975 |       0 |folded|    |         |
+ 7|D  EWalk                    |   45800 |       0 |folded|    |         |
+ 8|   JohnnyMac                |  113275 |    1200 |folded|    |         |
+ 9|   Clarence Beeks           |   76800 |     300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/01/18 11:03:35! Dealing a new hand
+! 12/01/18 11:03:35! No ante
+! 12/01/18 11:03:35! JohnnyMac blinds $150
+! 12/01/18 11:03:35! Clarence Beeks blinds $300
+! 12/01/18 13:23:38! TheTsunami calls 
+! 12/01/18 13:23:38! Rich Guidoboni folds
+! 12/01/18 13:23:38! DMW folds
+! 12/01/18 16:09:22! Spier folds
+! 12/01/18 16:09:22! Jascha calls 
+! 12/01/18 16:09:22! ThinkingPokerAndrew folds
+! 12/01/18 16:09:22! EWalk folds
+! 12/01/18 17:28:55! JohnnyMac calls 
+! 12/01/18 19:16:39! Clarence Beeks checks
+
+! 12/01/18 19:16:39! Pot right ($1200), flopping/dealing/drawing cards
+! 12/01/18 19:16:39! 4 players
+! 12/01/18 19:16:39! Flopped cards: 7h Qd 10d
+! 12/02/18 05:29:32! JohnnyMac bets $900 
+! 12/02/18 07:12:04! Clarence Beeks folds
+! 12/02/18 07:12:04! TheTsunami raises $2400 to $3300 total 
+! 12/02/18 07:59:15! Jascha calls 
+! 12/02/18 08:17:08! JohnnyMac folds
+
+! 12/02/18 08:17:08! Pot right ($8700), flopping/dealing/drawing cards
+! 12/02/18 08:17:08! 2 players
+! 12/02/18 08:17:08! Flopped card: 4s
+! 12/02/18 08:17:08! TheTsunami bets $8700 
+! 12/02/18 08:20:29! Jascha calls 
+
+! 12/02/18 08:20:29! Pot right ($26100), flopping/dealing/drawing cards
+! 12/02/18 08:20:29! 2 players
+! 12/02/18 08:20:29! Flopped card: Ks
+! 12/02/18 11:11:06! TheTsunami checks
+! 12/02/18 14:45:37! Jascha checks
+! Hand over, current board is:  7h Qd 10d 4s Ks
+! TheTsunami               has: As Kc
+! Jascha                   has: Jd 9d
+! Jascha wins $26100 (net $13800) with Straight (K Q J 10 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  TheTsunami               |  138925 |         |      |    |         |
+ 2|   Rich Guidoboni           |   75125 |         |      |    |         |
+ 3|   DMW                      |    7525 |         |      |    |         |
+ 4|   Spier                    |   54650 |         |      |    |         |
+ 5|   Jascha                   |   48800 |         |      |    |         |
+ 6|   ThinkingPokerAndrew      |   47975 |         |      |    |         |
+ 7|   EWalk                    |   45800 |         |      |    |         |
+ 8|D  JohnnyMac                |  113275 |         |      |    |         |
+ 9|   Clarence Beeks           |   76800 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 530 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b12.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 11
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

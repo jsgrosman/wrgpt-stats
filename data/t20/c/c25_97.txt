@@ -1,0 +1,91 @@
+Message-Id: <201101271833.p0RIXFGS032383@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [c25.10400] Holdem Game Broadcast Message(*)                          
+
+! Table c25, Hand 97, Day 88
+
+! Nikadai folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Julian Longo             |  22225 |    200 |folded|    |        |
+ 2|   David                    |  84750 |    200 |folded|    |        |
+ 3|   JAvery - VP              |   5300 |    200 |folded|    |        |
+ 4|D  Its Just AA              | 120275 |   3450 |folded|    |        |
+ 5|   Nikadai                  |  20200 |   3450 |folded|    |        |
+ 6|>  mjoseff                  | 127900 |  15200 |      |    |        |
+ 7|   Eddie Brown              | 196925 |    200 |folded|    |        |
+ 8|   jasong            |  39550 |    200 |folded|    |        |
+ 9|   AW Coody                 |  88350 |    200 |folded|    |        |
+10|   b monie                  |  15500 |    200 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 01/26/11 11:53:40! Dealing a new hand
+! 01/26/11 11:53:40! Everyone antes $200
+! 01/26/11 11:53:40! Nikadai blinds $600
+! 01/26/11 11:53:40! mjoseff blinds $1200
+! 01/26/11 11:55:34! Eddie Brown folds
+! 01/26/11 12:38:46! jasong folds
+! 01/26/11 12:38:46! AW Coody folds
+! 01/26/11 12:38:46! b monie folds
+! 01/26/11 12:38:46! Julian Longo folds
+! 01/26/11 18:57:34! David folds
+! 01/26/11 18:57:34! JAvery - VP folds
+! 01/26/11 19:02:09! Its Just AA raises $2050 
+! 01/26/11 19:04:16! Nikadai calls 
+! 01/26/11 19:58:28! mjoseff calls 
+
+! 01/26/11 19:58:28! Pot right ($11750), flopping/dealing/drawing cards
+! 01/26/11 19:58:28! 3 players
+! 01/26/11 19:58:28! Flopped cards: Qh Jd 2h
+! 01/26/11 20:47:07! Nikadai checks
+! 01/27/11 06:18:46! mjoseff bets $11750 
+! 01/27/11 09:08:52! Its Just AA folds
+! 01/27/11 10:33:15! Nikadai folds
+! Hand over, no showdown
+! Current board is:  Qh Jd 2h ? ?
+! mjoseff wins $23500 (net $8300)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Julian Longo             |  22225 |        |      |    |        |
+ 2|   David                    |  84750 |        |      |    |        |
+ 3|   JAvery - VP              |   5300 |        |      |    |        |
+ 4|   Its Just AA              | 120275 |        |      |    |        |
+ 5|D  Nikadai                  |  20200 |        |      |    |        |
+ 6|>  mjoseff                  | 151400 |        |      |    |        |
+ 7|   Eddie Brown              | 196925 |        |      |    |        |
+ 8|   jasong            |  39550 |        |      |    |        |
+ 9|   AW Coody                 |  88350 |        |      |    |        |
+10|   b monie                  |  15500 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 489 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c25.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+If you have any problems send mail to floorman20@wrgpt.org.
+
+Live Redraw Status as of 01/27/11 10:25:01 AM
+
+Total Empty Seats: 21
+Total Playing Seats: 489
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org or follow "wrgpt" on Twitter.
+

@@ -1,0 +1,96 @@
+Message-Id: <201202102038.q1AKcvbq024240@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [c19.10242] Holdem Game Broadcast Message(*)                          
+
+! Table c19, Hand 96, Day 89
+
+! Anshu folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|D  swamper wlu_lax6         | 218900 |    200 |folded|    |        |
+ 2|   BigServerGuy             |  31700 |    800 |folded|    |        |
+ 3|   Tooner                   | 134325 |   1400 |folded|    |        |
+ 4|   lameO                    |  43650 |    200 |folded|    |        |
+ 5|   jasong            |    650 |    200 |folded|    |        |
+ 6|   TacoChuck                | 105325 |    200 |folded|    |        |
+ 7|>  Anshu                    |  60850 |   1400 |folded|    |        |
+ 8|   bozo                     |      0 |  25800 |all-in|    |        |
+ 9|   Linzk425                 |  22850 |    200 |folded|    |        |
+10|   Dalai Pookah             |  25400 |    200 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 02/10/12 03:47:34! Anshu is back from vacation
+! 02/10/12 03:55:07! Dealing a new hand
+! 02/10/12 03:55:07! Everyone antes $200
+! 02/10/12 03:55:07! BigServerGuy blinds $600
+! 02/10/12 03:55:07! Tooner blinds $1200
+! 02/10/12 06:11:40! lameO folds
+! 02/10/12 07:00:17! jasong folds
+! 02/10/12 07:00:17! TacoChuck folds
+! 02/10/12 07:00:17! Anshu calls 
+! 02/10/12 07:35:26! bozo raises $24400 and is all in
+! 02/10/12 07:35:26! Linzk425 folds
+! 02/10/12 07:50:50! Dalai Pookah folds
+! 02/10/12 08:07:15! swamper wlu_lax6 folds
+! 02/10/12 08:07:15! BigServerGuy folds
+_____________________________________________________________________________
+
+! Tempted... jt suited may be good enough.
+! (dealer suppressed lines starting with '>' or ':')
+! -- Tooner --
+_____________________________________________________________________________
+
+! 02/10/12 08:52:17! Tooner folds
+! 02/10/12 12:38:57! Anshu folds
+! Hand over, no showdown
+! Current board is:  ? ? ? ? ?
+! bozo wins $30600 (net $4800)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   swamper wlu_lax6         | 218900 |        |      |    |        |
+ 2|D  BigServerGuy             |  31700 |        |      |    |        |
+ 3|   Tooner                   | 134325 |        |      |    |        |
+ 4|   lameO                    |  43650 |        |      |    |        |
+ 5|   jasong            |    650 |        |      |    |        |
+ 6|   TacoChuck                | 105325 |        |      |    |        |
+ 7|>  Anshu                    |  60850 |        |      |    |        |
+ 8|   bozo                     |  30600 |        |      |    |        |
+ 9|   Linzk425                 |  22850 |        |      |    |        |
+10|   Dalai Pookah             |  25400 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 421 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c19.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Having problems? Send email to floorman21@wrgpt.org.
+
+Live Redraw Status as of 02/10/12 12:25:01 PM
+
+Total Empty Seats: 36
+Total Playing Seats: 404
+Live redraw in progress:
+Seats Needed: 12
+Seats Waiting: 0
+Moving Players Waiting: 12
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+

@@ -1,0 +1,121 @@
+Subject: [b13.10157] Holdem Game Broadcast Message(*)
+
+! Table b13, Hand 13, Day 11
+
+! Morgan calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   JoeBou                   |   53600 |     150 |folded|    |         |
+ 2|   DaveKal                  |   49700 |       0 |folded|    |         |
+ 3|>  JAY ENGLANDER            |   39250 |    3100 |      |    |         |
+ 4|D  DrXenonBloom             |   49175 |       0 |folded|    |         |
+ 5|   Morgan                   |   45625 |    3100 |      |    |         |
+ 6|   Garnett21k               |   48000 |     150 |folded|    |         |
+ 7|   Theodore Chipmunk        |  103975 |       0 |folded|    |         |
+ 8|   cezz                     |   47300 |       0 |folded|    |         |
+ 9|V  tristero                 |   97675 |       0 |<AWOL>|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/21/18 18:09:21! Dealing a new hand
+! 11/21/18 18:09:21! No ante
+! 11/21/18 18:09:21! Morgan blinds $75
+! 11/21/18 18:09:21! Garnett21k blinds $150
+! 11/22/18 07:01:26! DrXenonBloom is back from vacation
+! 11/22/18 10:05:20! Theodore Chipmunk folds
+! 11/22/18 10:05:20! cezz folds
+! 11/22/18 10:05:20! tristero is on vacation and folds
+! 11/22/18 10:56:32! JoeBou calls 
+! 11/22/18 10:56:32! DaveKal folds
+! 11/22/18 11:11:22! JAY ENGLANDER calls 
+! 11/22/18 11:11:22! DrXenonBloom folds
+! 11/22/18 11:16:41! Morgan calls 
+! 11/22/18 11:28:00! Garnett21k checks
+
+! 11/22/18 11:28:00! Pot right ($600), flopping/dealing/drawing cards
+! 11/22/18 11:28:00! 4 players
+! 11/22/18 11:28:00! Flopped cards: Qs 3h Ah
+! 11/22/18 11:58:15! Morgan bets $300 
+! 11/22/18 12:30:51! Garnett21k folds
+! 11/22/18 12:30:51! JoeBou folds
+! 11/22/18 12:39:21! JAY ENGLANDER calls 
+
+! 11/22/18 12:39:21! Pot right ($1200), flopping/dealing/drawing cards
+! 11/22/18 12:39:21! 2 players
+! 11/22/18 12:39:21! Flopped card: 5d
+! 11/22/18 12:44:17! Morgan bets $650 
+! 11/22/18 12:45:45! JAY ENGLANDER calls 
+
+! 11/22/18 12:45:45! Pot right ($2500), flopping/dealing/drawing cards
+! 11/22/18 12:45:45! 2 players
+! 11/22/18 12:45:45! Flopped card: Ks
+! 11/22/18 12:48:18! Morgan bets $1000 
+! 11/22/18 12:48:57! JAY ENGLANDER raises $1000 to $2000 total 
+! 11/22/18 13:51:17! Morgan calls 
+! Hand over, current board is:  Qs 3h Ah 5d Ks
+! JAY ENGLANDER            has: Kd Qc
+! Morgan                   has: 6h Ac
+! JAY ENGLANDER wins $6500 (net $3400) with Two Pair (K K Q Q A)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   JoeBou                   |   53600 |         |      |    |         |
+ 2|   DaveKal                  |   49700 |         |      |    |         |
+ 3|>  JAY ENGLANDER            |   45750 |         |      |    |         |
+ 4|   DrXenonBloom             |   49175 |         |      |    |         |
+ 5|D  Morgan                   |   45625 |         |      |    |         |
+ 6|   Garnett21k               |   48000 |         |      |    |         |
+ 7|   Theodore Chipmunk        |  103975 |         |      |    |         |
+ 8|   cezz                     |   47300 |         |      |    |         |
+ 9|V  tristero                 |   97675 |         |<AWOL>|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 566 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b13.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 10
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

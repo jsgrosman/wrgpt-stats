@@ -1,0 +1,133 @@
+X-BeenThere: railbird@lists.wrgpt.org
+X-Mailman-Version: 2.1.16
+Precedence: list
+Reply-To: dealer@wrgpt.org
+List-Id: WRGPT Rail <railbird.lists.wrgpt.org>
+List-Unsubscribe: <http://lists.wrgpt.org/options/railbird>,
+ <mailto:railbird-request@lists.wrgpt.org?subject=unsubscribe>
+List-Archive: <http://lists.wrgpt.org/pipermail/railbird/>
+List-Help: <mailto:railbird-request@lists.wrgpt.org?subject=help>
+List-Subscribe: <http://lists.wrgpt.org/listinfo/railbird>,
+ <mailto:railbird-request@lists.wrgpt.org?subject=subscribe>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+Errors-To: railbird-bounces@lists.wrgpt.org
+Sender: "Railbird" <railbird-bounces@lists.wrgpt.org>
+
+% Well, I have the silly end. If I'm out to the 7 or a flush or a boat, go
+! -- Stephen Mack --
+_____________________________________________________________________________
+
+! Table j1, Hand 454, Day 192
+
+! Stephen Mack calls - side pot
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  Stephen Mack             |       0 | 2965100 |all-in|  2 | 6040200 |
+ 2|D  Lets Go Red Sox          |11467175 |    5000 |folded|    |         |
+ 4|   StingRay                 |       0 | 9985000 |all-in|  1 | 7019900 |
+10|   Quiet Lion               | 2676400 |  105000 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 05/02/18 12:36:35! Dealing a new hand
+! 05/02/18 12:36:35! Everyone antes $5000
+! 05/02/18 12:36:35! StingRay blinds $50000
+! 05/02/18 12:36:35! Quiet Lion blinds $100000
+! 05/02/18 12:40:06! Stephen Mack raises $200000 to $300000 total 
+! 05/02/18 14:51:52! Lets Go Red Sox folds
+! 05/02/18 15:02:59! StingRay calls 
+! 05/02/18 15:14:39! Quiet Lion folds
+
+! 05/02/18 15:14:39! Pot right ($720000), flopping/dealing/drawing cards
+! 05/02/18 15:14:39! 2 players
+! 05/02/18 15:14:39! Flopped cards: 3c 5c 6h
+! 05/02/18 15:30:30! StingRay checks
+! 05/02/18 15:46:19! Stephen Mack checks
+
+! 05/02/18 15:46:19! Pot right ($720000), flopping/dealing/drawing cards
+! 05/02/18 15:46:19! 2 players
+! 05/02/18 15:46:19! Flopped card: 3d
+! 05/02/18 15:48:40! StingRay checks
+! 05/02/18 15:49:45! Stephen Mack checks
+
+! 05/02/18 15:49:45! Pot right ($720000), flopping/dealing/drawing cards
+! 05/02/18 15:49:45! 2 players
+! 05/02/18 15:49:45! Flopped card: 4c
+! 05/02/18 15:50:46! StingRay bets $9680000 and is all in
+_____________________________________________________________________________
+
+! Well, I have the silly end. If I'm out to the 7 or a flush or a boat, go
+! -- Stephen Mack --
+_____________________________________________________________________________
+
+! 05/02/18 15:52:03! Stephen Mack calls - side pot
+! Hand over, current board is:  3c 5c 6h 3d 4c
+! Stephen Mack             has: As 2h
+! StingRay                 has: Jh 7d
+! Pot 1: uncalled $7019900 returned to StingRay
+! Pot 2: StingRay wins $6040200 with Straight (7 6 5 4 3)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|   Lets Go Red Sox          |11467175 |         |      |    |         |
+ 4|D  StingRay                 |13060100 |         |      |    |         |
+10|   Quiet Lion               | 2676400 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Stephen Mack is eliminated!
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/j/j1.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+However, if there were prizes they would pay the top 63 entrants.
+The standings are now showing theoretical prizes if WRGPT were a
+10k event.
+
+======
+
+Live Redraw Status as of 05/02/18 03:25:02 PM
+
+Total Empty Seats: 6
+Total Playing Seats: 4
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman27@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

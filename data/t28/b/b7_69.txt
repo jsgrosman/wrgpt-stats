@@ -1,0 +1,121 @@
+Subject: [b7.10832] Holdem Game Broadcast Message(*)
+
+! Table b7, Hand 69, Day 52
+
+! dann calls 
+! Pot right ($59050), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 2s
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   JPP                      |   44150 |     450 |folded|    |         |
+ 2|   Stanley Chow             |       0 |   28350 |all-in|    |         |
+ 3|   Ryan Thomas              |  101625 |     450 |folded|    |         |
+ 4|   Bryan Juliano            |   31775 |      50 |folded|    |         |
+ 5|   MTpotts                  |   37850 |     450 |folded|    |         |
+ 6|   TheOldThug               |   85075 |     450 |folded|    |         |
+ 7|D  Boiling Frog             |   51175 |      50 |folded|    |         |
+ 8|   FredLS                   |   47000 |     450 |folded|    |         |
+ 9|>  dann                     |   18275 |   28350 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/31/18 16:32:27! Dealing a new hand
+! 12/31/18 16:32:27! Everyone antes $50
+! 12/31/18 16:32:27! FredLS blinds $200
+! 12/31/18 16:32:27! dann blinds $400
+! 12/31/18 17:53:03! JPP calls 
+! 12/31/18 18:12:00! Stanley Chow calls 
+! 12/31/18 18:29:21! Ryan Thomas calls 
+! 12/31/18 21:14:12! Bryan Juliano folds
+! 12/31/18 23:15:37! MTpotts calls 
+! 01/01/19 05:12:37! TheOldThug calls 
+! 01/01/19 11:03:37! Boiling Frog folds
+! 01/01/19 11:03:37! FredLS calls 
+! 01/01/19 11:54:52! dann checks
+
+! 01/01/19 11:54:52! Pot right ($3250), flopping/dealing/drawing cards
+! 01/01/19 11:54:52! 7 players
+! 01/01/19 11:54:52! Flopped cards: 7h 9d As
+! 01/01/19 12:28:16! FredLS checks
+! 01/01/19 14:21:34! dann bets $2100 
+! 01/01/19 14:32:05! JPP folds
+! 01/01/19 14:32:05! Stanley Chow calls 
+! 01/01/19 14:46:51! Ryan Thomas folds
+! 01/01/19 15:05:11! MTpotts folds
+! 01/01/19 15:05:11! TheOldThug folds
+! 01/01/19 16:46:25! FredLS folds
+
+! 01/01/19 16:46:25! Pot right ($7450), flopping/dealing/drawing cards
+! 01/01/19 16:46:25! 2 players
+! 01/01/19 16:46:25! Flopped card: Ks
+! 01/01/19 16:48:21! dann bets $4000 
+! 01/01/19 18:58:17! Stanley Chow raises $21800 to $25800 total and is all in
+! 01/02/19 01:15:15! dann calls 
+
+! 01/02/19 01:15:15! Pot right ($59050), flopping/dealing/drawing cards
+! 01/02/19 01:15:15! 2 players, 1 all in
+! 01/02/19 01:15:15! Flopped card: 2s
+! Hand over, current board is:  7h 9d As Ks 2s
+! Stanley Chow             has: Ah 7d
+! dann                     has: Ac Jc
+! Stanley Chow wins $59050 (net $30700) with Two Pair (A A 7 7 K)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   JPP                      |   44150 |         |      |    |         |
+ 2|   Stanley Chow             |   59050 |         |      |    |         |
+ 3|   Ryan Thomas              |  101625 |         |      |    |         |
+ 4|   Bryan Juliano            |   31775 |         |      |    |         |
+ 5|   MTpotts                  |   37850 |         |      |    |         |
+ 6|   TheOldThug               |   85075 |         |      |    |         |
+ 7|   Boiling Frog             |   51175 |         |      |    |         |
+ 8|D  FredLS                   |   47000 |         |      |    |         |
+ 9|>  dann                     |   18275 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 407 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b7.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+We are now over 45 days into round "b". 
+As soon as any table gets to five or fewer 
+players all tables will finish the current 
+hand and a full redraw to round "c" will be done.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 25
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

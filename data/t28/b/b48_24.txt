@@ -1,0 +1,129 @@
+Subject: [b48.10306] Holdem Game Broadcast Message(*)
+
+! Table b48, Hand 24, Day 17
+
+! cedwards170 calls - side pot
+! Pot right ($42100), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 4c
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Nathan Zuercher          |   44875 |       0 |folded|    |         |
+ 2|   Walter Hunt              |   47225 |       0 |folded|    |         |
+ 3|   Polar85                  |   47100 |     300 |folded|    |         |
+ 4|   ADB Foldem               |   45875 |       0 |folded|    |         |
+ 5|   Camo                     |   45475 |       0 |folded|    |         |
+ 6|D> Troutboy Garrett         |   24925 |   25600 |      |  1 |    9700 |
+ 7|   cedwards170              |       0 |   15900 |all-in|  2 |   32400 |
+ 8|   Saurav Chakraborty       |   69000 |     300 |folded|    |         |
+ 9|   TracyB                   |  132475 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/27/18 14:42:00! Dealing a new hand
+! 11/27/18 14:42:00! No ante
+! 11/27/18 14:42:00! cedwards170 blinds $150
+! 11/27/18 14:42:00! Saurav Chakraborty blinds $300
+! 11/27/18 15:37:41! Troutboy Garrett is back from vacation
+! 11/27/18 15:43:09! TracyB folds
+! 11/27/18 15:43:09! Nathan Zuercher folds
+! 11/27/18 18:12:34! Walter Hunt folds
+! 11/27/18 18:12:34! Polar85 calls 
+! 11/27/18 18:12:34! ADB Foldem folds
+! 11/27/18 18:12:34! Camo folds
+! 11/27/18 18:14:03! Troutboy Garrett calls 
+! 11/27/18 18:14:44! cedwards170 calls 
+! 11/27/18 18:20:42! Saurav Chakraborty checks
+
+! 11/27/18 18:20:42! Pot right ($1200), flopping/dealing/drawing cards
+! 11/27/18 18:20:42! 4 players
+! 11/27/18 18:20:42! Flopped cards: Jc 7h 3h
+! 11/27/18 18:21:37! cedwards170 checks
+! 11/27/18 18:22:50! Saurav Chakraborty checks
+! 11/27/18 18:25:44! Polar85 checks
+! 11/27/18 22:04:20! Troutboy Garrett bets $700 
+! 11/28/18 04:51:31! cedwards170 raises $1400 to $2100 total 
+! 11/28/18 06:10:06! Saurav Chakraborty folds
+! 11/28/18 06:10:06! Polar85 folds
+! 11/28/18 10:03:06! Troutboy Garrett calls 
+
+! 11/28/18 10:03:06! Pot right ($5400), flopping/dealing/drawing cards
+! 11/28/18 10:03:06! 2 players
+! 11/28/18 10:03:06! Flopped card: 8s
+! 11/28/18 10:16:34! cedwards170 checks
+! 11/28/18 10:17:54! Troutboy Garrett bets $3200 
+! 11/28/18 10:22:32! cedwards170 raises $3200 to $6400 total 
+! 11/28/18 10:44:46! Troutboy Garrett raises $16800 to $23200 total 
+! 11/28/18 10:46:45! cedwards170 calls - side pot
+
+! 11/28/18 10:46:45! Pot right ($42100), flopping/dealing/drawing cards
+! 11/28/18 10:46:45! 2 players, 1 all in
+! 11/28/18 10:46:45! Flopped card: 4c
+! Hand over, current board is:  Jc 7h 3h 8s 4c
+! Troutboy Garrett         has: 9h 10c
+! cedwards170              has: As Ad
+! Pot 1: uncalled $9700 returned to Troutboy Garrett
+! Pot 2: Troutboy Garrett wins $32400 with Straight (J 10 9 8 7)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Nathan Zuercher          |   44875 |         |      |    |         |
+ 2|   Walter Hunt              |   47225 |         |      |    |         |
+ 3|   Polar85                  |   47100 |         |      |    |         |
+ 4|   ADB Foldem               |   45875 |         |      |    |         |
+ 5|   Camo                     |   45475 |         |      |    |         |
+ 6|D> Troutboy Garrett         |   67025 |         |      |    |         |
+ 8|   Saurav Chakraborty       |   69000 |         |      |    |         |
+ 9|   TracyB                   |  132475 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! cedwards170 is eliminated!
+! 551 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b48.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

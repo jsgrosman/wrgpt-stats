@@ -1,0 +1,128 @@
+
+! Table c30, Hand 124, Day 68
+
+! TomasL folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   jasong            |   43450 |     100 |folded|    |         |
+ 2|   delbaeth                 |   33125 |    1750 |folded|    |         |
+ 3|   slugbot                  |       0 |   34350 |all-in|    |         |
+ 4|   Morgan                   |   16400 |     100 |folded|    |         |
+ 5|D  jfholmes                 |   90600 |    1750 |folded|    |         |
+ 6|   Oldbear                  |   75400 |    1750 |folded|    |         |
+ 7|>  TomasL                   |   27075 |   12650 |folded|    |         |
+ 8|   Brent Widmark            |   61300 |     100 |folded|    |         |
+ 9|   SmBoatDrinks             |  113300 |     100 |folded|    |         |
+10|   shinsook                 |  101975 |    1750 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/21/16 11:14:47! Dealing a new hand
+! 12/21/16 11:14:47! Everyone antes $100
+! 12/21/16 11:14:47! Oldbear blinds $250
+! 12/21/16 11:14:47! TomasL blinds $500
+! 12/21/16 11:56:46! slugbot is back from vacation
+! 12/21/16 14:53:40! Brent Widmark folds
+! 12/21/16 15:39:50! SmBoatDrinks folds
+! 12/21/16 16:28:38! shinsook raises $1150 
+! 12/21/16 16:28:38! jasong folds
+! 12/21/16 16:51:28! delbaeth calls 
+! 12/21/16 19:45:41! slugbot calls 
+! 12/22/16 03:59:09! Morgan folds
+! 12/22/16 04:04:23! jfholmes calls 
+! 12/22/16 08:42:35! Oldbear calls 
+! 12/22/16 08:43:31! TomasL calls 
+
+! 12/22/16 08:43:31! Pot right ($10900), flopping/dealing/drawing cards
+! 12/22/16 08:43:31! 6 players
+! 12/22/16 08:43:31! Flopped cards: 5c Qs 6s
+! 12/22/16 08:48:24! Oldbear checks
+! 12/22/16 08:48:24! TomasL checks
+! 12/22/16 12:19:17! shinsook checks
+! 12/22/16 12:31:28! delbaeth checks
+! 12/22/16 12:54:08! slugbot checks
+! 12/22/16 12:58:26! jfholmes checks
+
+! 12/22/16 12:58:26! Pot right ($10900), flopping/dealing/drawing cards
+! 12/22/16 12:58:26! 6 players
+! 12/22/16 12:58:26! Flopped card: Ad
+! 12/22/16 18:13:44! Oldbear checks
+! 12/22/16 21:02:33! TomasL bets $10900 
+! 12/22/16 21:42:45! shinsook folds
+! 12/22/16 21:55:17! delbaeth folds
+! 12/23/16 06:09:13! slugbot calls 
+! 12/23/16 06:09:13! jfholmes folds
+! 12/23/16 09:06:15! Oldbear folds
+
+! 12/23/16 09:06:15! Pot right ($32700), flopping/dealing/drawing cards
+! 12/23/16 09:06:15! 2 players
+! 12/23/16 09:06:15! Flopped card: 8h
+! 12/23/16 10:37:51! TomasL checks
+! 12/23/16 10:42:42! slugbot bets $21700 and is all in
+! 12/23/16 10:46:53! TomasL folds
+! Hand over, no showdown
+! Current board is:  5c Qs 6s Ad 8h
+! slugbot wins $54400 (net $20050)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   jasong            |   43450 |         |      |    |         |
+ 2|   delbaeth                 |   33125 |         |      |    |         |
+ 3|   slugbot                  |   54400 |         |      |    |         |
+ 4|   Morgan                   |   16400 |         |      |    |         |
+ 5|   jfholmes                 |   90600 |         |      |    |         |
+ 6|D  Oldbear                  |   75400 |         |      |    |         |
+ 7|>  TomasL                   |   27075 |         |      |    |         |
+ 8|   Brent Widmark            |   61300 |         |      |    |         |
+ 9|   SmBoatDrinks             |  113300 |         |      |    |         |
+10|   shinsook                 |  101975 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 370 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c30.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+======
+
+Live Redraw Status as of 12/23/16 10:25:02 AM
+
+Total Empty Seats: 20
+Total Playing Seats: 370
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman26@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

@@ -1,0 +1,109 @@
+Subject: [b46.11030] Holdem Game Broadcast Message(*)
+
+! Table b46, Hand 70, Day 49
+
+! Donald Neilson calls 
+! Pot right ($45800), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 5s
+! Flopped card: Kh
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   skatesave                |   22875 |     450 |folded|    |         |
+ 2|   tx4allTheFish            |       0 |   22450 |all-in|    |         |
+ 3|>  Donald Neilson           |   35000 |   22450 |      |    |         |
+ 4|   scjansen                 |   62800 |      50 |folded|    |         |
+ 5|   Kevin Behrens            |   60000 |      50 |folded|    |         |
+ 6|   Svante Wester            |   86050 |      50 |folded|    |         |
+ 7|DV SaucySlingo              |   62650 |      50 |<AWOL>|    |         |
+ 8|   Bob Brewster             |  160075 |     250 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/30/18 05:16:35! Dealing a new hand
+! 12/30/18 05:16:35! Everyone antes $50
+! 12/30/18 05:16:35! Bob Brewster blinds $200
+! 12/30/18 05:16:35! skatesave blinds $400
+! 12/30/18 05:50:21! tx4allTheFish raises $750 to $1150 total 
+! 12/30/18 07:24:57! Donald Neilson calls 
+! 12/30/18 07:56:32! scjansen folds
+! 12/30/18 07:56:32! Kevin Behrens folds
+! 12/30/18 07:57:13! Svante Wester folds
+! 12/30/18 07:57:13! SaucySlingo is on vacation and folds
+! 12/30/18 10:56:38! Bob Brewster folds
+! 12/30/18 10:56:38! skatesave folds
+
+! 12/30/18 10:56:38! Pot right ($3300), flopping/dealing/drawing cards
+! 12/30/18 10:56:38! 2 players
+! 12/30/18 10:56:38! Flopped cards: 10s 10h 7d
+! 12/30/18 10:58:24! tx4allTheFish bets $2200 
+! 12/30/18 11:13:08! Donald Neilson raises $2200 to $4400 total 
+! 12/30/18 11:51:08! tx4allTheFish raises $16850 to $21250 total and is all in
+! 12/30/18 11:51:48! Donald Neilson calls 
+
+! 12/30/18 11:51:48! Pot right ($45800), flopping/dealing/drawing cards
+! 12/30/18 11:51:48! 2 players, 1 all in
+! 12/30/18 11:51:48! Flopped card: 5s
+! 12/30/18 11:51:48! Flopped card: Kh
+! Hand over, current board is:  10s 10h 7d 5s Kh
+! tx4allTheFish            has: 9h 9c
+! Donald Neilson           has: 7h 7c
+! Donald Neilson wins $45800 (net $23350) with Full House (7 7 7 10 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   skatesave                |   22875 |         |      |    |         |
+ 3|>  Donald Neilson           |   80800 |         |      |    |         |
+ 4|   scjansen                 |   62800 |         |      |    |         |
+ 5|   Kevin Behrens            |   60000 |         |      |    |         |
+ 6|   Svante Wester            |   86050 |         |      |    |         |
+ 7|V  SaucySlingo              |   62650 |         |<AWOL>|    |         |
+ 8|D  Bob Brewster             |  160075 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! tx4allTheFish is eliminated!
+! 415 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b46.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+We are now over 45 days into round "b". 
+As soon as any table gets to five or fewer 
+players all tables will finish the current 
+hand and a full redraw to round "c" will be done.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 16
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

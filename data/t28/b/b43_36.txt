@@ -1,0 +1,114 @@
+Subject: [b43.10521] Holdem Game Broadcast Message(*)
+
+! Table b43, Hand 36, Day 31
+
+! Joe Nadeau checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  dgr                      |   76925 |    2275 |folded|    |         |
+ 2|   DroogieDroog             |   60000 |     175 |folded|    |         |
+ 3|   LetsGoRedSox             |   70225 |     775 |folded|    |         |
+ 4|   melanocetidae            |   55725 |      25 |folded|    |         |
+ 5|V  siooma                   |   59275 |      25 |17 dec|    |         |
+ 6|>  SteedCarson              |   86625 |    4775 |      |    |         |
+ 7|   Joe Nadeau               |   49625 |    4775 |      |    |         |
+ 8|   reelbigbeagles           |   30400 |      25 |folded|    |         |
+ 9|   Mellon                   |   37700 |       0 |New   |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/12/18 07:13:25! Dealing a new hand
+! 12/12/18 07:13:25! Everyone antes $25
+! 12/12/18 07:13:25! DroogieDroog blinds $150
+! 12/12/18 07:13:25! LetsGoRedSox blinds $300
+! 12/12/18 07:14:19! melanocetidae folds
+! 12/12/18 07:14:19! siooma is on vacation and folds
+! 12/12/18 09:07:32! SteedCarson raises $450 to $750 total 
+! 12/12/18 09:10:54! Joe Nadeau calls 
+! 12/12/18 09:10:54! reelbigbeagles folds
+! 12/12/18 10:25:09! New player added to the table: Mellon
+! 12/12/18 11:27:43! dgr calls 
+! 12/12/18 11:27:43! DroogieDroog folds
+! 12/12/18 12:48:13! LetsGoRedSox calls 
+
+! 12/12/18 12:48:13! Pot right ($3350), flopping/dealing/drawing cards
+! 12/12/18 12:48:13! 4 players
+! 12/12/18 12:48:13! Flopped cards: 2s Ac Jc
+! 12/12/18 12:48:51! LetsGoRedSox checks
+! 12/12/18 14:03:21! SteedCarson checks
+! 12/12/18 14:05:10! Joe Nadeau bets $1500 
+! 12/12/18 16:07:12! dgr calls 
+! 12/12/18 20:16:08! LetsGoRedSox folds
+! 12/12/18 20:50:41! SteedCarson calls 
+
+! 12/12/18 20:50:41! Pot right ($7850), flopping/dealing/drawing cards
+! 12/12/18 20:50:41! 3 players
+! 12/12/18 20:50:41! Flopped card: 5h
+! 12/12/18 20:51:06! SteedCarson checks
+! 12/12/18 20:55:02! Joe Nadeau bets $2500 
+! 12/12/18 20:57:52! dgr folds
+! 12/12/18 21:20:00! SteedCarson calls 
+
+! 12/12/18 21:20:00! Pot right ($12850), flopping/dealing/drawing cards
+! 12/12/18 21:20:00! 2 players
+! 12/12/18 21:20:00! Flopped card: 7h
+! 12/12/18 21:20:42! SteedCarson checks
+! 12/12/18 21:32:27! Joe Nadeau checks
+! Hand over, current board is:  2s Ac Jc 5h 7h
+! SteedCarson              has: Ks Jd
+! Joe Nadeau               has: 5c 3c
+! SteedCarson wins $12850 (net $8075) with One Pair (J J A K 7)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   dgr                      |   76925 |         |      |    |         |
+ 2|D  DroogieDroog             |   60000 |         |      |    |         |
+ 3|   LetsGoRedSox             |   70225 |         |      |    |         |
+ 4|   melanocetidae            |   55725 |         |      |    |         |
+ 5|V  siooma                   |   59275 |         |17 dec|    |         |
+ 6|>  SteedCarson              |   99475 |         |      |    |         |
+ 7|   Joe Nadeau               |   49625 |         |      |    |         |
+ 8|   reelbigbeagles           |   30400 |         |      |    |         |
+ 9|   Mellon                   |   37700 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 482 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b43.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 4
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

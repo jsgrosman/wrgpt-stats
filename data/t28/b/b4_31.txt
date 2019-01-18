@@ -1,0 +1,121 @@
+Subject: [b4.10515] Holdem Game Broadcast Message(*)
+
+! Table b4, Hand 31, Day 22
+
+! Sir Barlow calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  Todd Brabbin             |   26575 |    8875 |      |    |         |
+ 2|   CharlieM                 |   99975 |       0 |folded|    |         |
+ 3|   Sir Barlow               |   41200 |    8875 |      |    |         |
+ 4|D  Paul Stine               |   43850 |       0 |folded|    |         |
+ 5|   ebock                    |   41000 |    1675 |folded|    |         |
+ 6|   TwelveSeven              |   46625 |     300 |folded|    |         |
+ 7|   TheTwizz                 |   51300 |       0 |folded|    |         |
+ 8|   Dan Duncan               |   70275 |       0 |folded|    |         |
+ 9|   feodor                   |   59200 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/02/18 19:35:49! Dealing a new hand
+! 12/02/18 19:35:49! No ante
+! 12/02/18 19:35:49! ebock blinds $150
+! 12/02/18 19:35:49! TwelveSeven blinds $300
+! 12/03/18 00:55:43! TheTwizz folds
+! 12/03/18 00:55:43! Dan Duncan folds
+! 12/03/18 00:55:43! feodor folds
+! 12/03/18 09:39:25! Todd Brabbin raises $375 to $675 total 
+! 12/03/18 09:56:45! CharlieM folds
+! 12/03/18 11:02:29! Sir Barlow calls 
+! 12/03/18 11:17:31! Paul Stine folds
+! 12/03/18 11:18:43! ebock calls 
+! 12/03/18 11:18:43! TwelveSeven folds
+
+! 12/03/18 11:18:43! Pot right ($2325), flopping/dealing/drawing cards
+! 12/03/18 11:18:43! 3 players
+! 12/03/18 11:18:43! Flopped cards: 10s 9h 7h
+! 12/03/18 11:19:30! ebock checks
+! 12/03/18 11:20:28! Todd Brabbin bets $1000 
+! 12/03/18 11:44:50! Sir Barlow calls 
+! 12/03/18 11:45:46! ebock calls 
+
+! 12/03/18 11:45:46! Pot right ($5325), flopping/dealing/drawing cards
+! 12/03/18 11:45:46! 3 players
+! 12/03/18 11:45:46! Flopped card: 2c
+! 12/03/18 11:46:24! ebock checks
+! 12/03/18 11:47:52! Todd Brabbin bets $2200 
+! 12/03/18 11:54:03! Sir Barlow calls 
+! 12/03/18 11:54:03! ebock folds
+
+! 12/03/18 11:54:03! Pot right ($9725), flopping/dealing/drawing cards
+! 12/03/18 11:54:03! 2 players
+! 12/03/18 11:54:03! Flopped card: Js
+! 12/03/18 11:55:52! Todd Brabbin bets $5000 
+! 12/03/18 11:58:27! Sir Barlow calls 
+! Hand over, current board is:  10s 9h 7h 2c Js
+! Todd Brabbin             has: 9s Jc
+! Sir Barlow               has: Ad 7d
+! Todd Brabbin wins $19725 (net $10850) with Two Pair (J J 9 9 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  Todd Brabbin             |   46300 |         |      |    |         |
+ 2|   CharlieM                 |   99975 |         |      |    |         |
+ 3|   Sir Barlow               |   41200 |         |      |    |         |
+ 4|   Paul Stine               |   43850 |         |      |    |         |
+ 5|D  ebock                    |   41000 |         |      |    |         |
+ 6|   TwelveSeven              |   46625 |         |      |    |         |
+ 7|   TheTwizz                 |   51300 |         |      |    |         |
+ 8|   Dan Duncan               |   70275 |         |      |    |         |
+ 9|   feodor                   |   59200 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 527 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b4.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 4
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

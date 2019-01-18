@@ -1,0 +1,100 @@
+Message-Id: <201011222204.oAMM4me1011309@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [b20.10361] Holdem Game Broadcast Message(*)                          
+
+! Table b20, Hand 31, Day 22
+
+! Blacktav folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Blacktav                 |  30150 |    700 |folded|    |        |
+ 2|   jasong            |  36025 |      0 |folded|    |        |
+ 3|>  Andrew Nelson            |  34600 |   1350 |      |    |        |
+ 4|   plankton                 |  79075 |      0 |folded|    |        |
+ 5|   GZK                      |  29775 |    200 |folded|    |        |
+ 6|V  Late Entry 2             |  29250 |      0 | NoSho|    |        |
+ 7|   Greg Folla               |  57900 |      0 |folded|    |        |
+ 8|   JackBlack                |  25300 |      0 |folded|    |        |
+ 9|D  wlu_lax6                 |  35450 |      0 |folded|    |        |
+10|   Cyberchomp               |  31575 |    100 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 11/22/10 08:05:44! Dealing a new hand
+! 11/22/10 08:05:44! No ante
+! 11/22/10 08:05:44! Cyberchomp blinds $100
+! 11/22/10 08:05:44! Blacktav blinds $200
+! 11/22/10 08:12:30! jasong folds
+! 11/22/10 08:24:15! Andrew Nelson calls 
+! 11/22/10 08:24:15! plankton folds
+! 11/22/10 08:42:24! GZK calls 
+! 11/22/10 08:42:24! Late Entry 2 is on vacation and folds
+! 11/22/10 09:04:49! Greg Folla folds
+! 11/22/10 09:04:49! JackBlack folds
+! 11/22/10 10:01:11! wlu_lax6 folds
+! 11/22/10 13:24:55! Cyberchomp folds
+! 11/22/10 13:24:55! Blacktav checks
+
+! 11/22/10 13:24:55! Pot right ($700), flopping/dealing/drawing cards
+! 11/22/10 13:24:55! 3 players
+! 11/22/10 13:24:55! Flopped cards: 10c As 4d
+! 11/22/10 13:38:27! Blacktav checks
+! 11/22/10 13:39:24! Andrew Nelson bets $500 
+! 11/22/10 13:57:25! GZK folds
+! 11/22/10 13:59:15! Blacktav calls 
+
+! 11/22/10 13:59:15! Pot right ($1700), flopping/dealing/drawing cards
+! 11/22/10 13:59:15! 2 players
+! 11/22/10 13:59:15! Flopped card: 5d
+! 11/22/10 14:00:16! Blacktav checks
+! 11/22/10 14:01:10! Andrew Nelson bets $650 
+! 11/22/10 14:04:47! Blacktav folds
+! Hand over, no showdown
+! Current board is:  10c As 4d 5d ?
+! Andrew Nelson wins $2350 (net $1000)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Blacktav                 |  30150 |        |      |    |        |
+ 2|   jasong            |  36025 |        |      |    |        |
+ 3|>  Andrew Nelson            |  36950 |        |      |    |        |
+ 4|   plankton                 |  79075 |        |      |    |        |
+ 5|   GZK                      |  29775 |        |      |    |        |
+ 6|V  Late Entry 2             |  29250 |        | NoSho|    |        |
+ 7|   Greg Folla               |  57900 |        |      |    |        |
+ 8|   JackBlack                |  25300 |        |      |    |        |
+ 9|   wlu_lax6                 |  35450 |        |      |    |        |
+10|D  Cyberchomp               |  31575 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 831 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b20.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Good luck.
+
+If you have problems send mail to floorman20@wrgpt.org.
+
+Live Redraw Status as of 11/22/10 01:55:01 PM
+
+Total Empty Seats: 9
+Total Playing Seats: 831
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org or follow "wrgpt" on Twitter.
+

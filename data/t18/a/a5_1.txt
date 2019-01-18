@@ -1,0 +1,112 @@
+Message-Id: <200810211621.m9LGLPjF005127@elvis.wrgpt.org>
+To: jsgrosman@yahoo.com
+Reply-To: dealer@wrgpt.org
+From: dealer@wrgpt.org
+Subject: [a5.10018] Holdem Game Broadcast Message(*)          
+
+! Table a5, Hand 1, Day 2
+
+! The Gap FP calls and is all in
+! Pot right ($40450), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped card: Jh
+! Flopped card: Ad
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|D  BrianU                   |  19600 |    400 |folded|    |        |
+ 2|   JPawloski                |  19950 |     50 |folded|    |        |
+ 3|   Jim McGill               |      0 |  20000 |all-in|    |        |
+ 4|   shou72                   |  20000 |      0 |folded|    |        |
+ 5|   CPT-Ron                  |  20000 |      0 |folded|    |        |
+ 6|   Garnett21k               |  20000 |      0 |folded|    |        |
+ 7|   Ortzy                    |  20000 |      0 |folded|    |        |
+ 8|>  The Gap FP               |      0 |  20000 |all-in|    |        |
+ 9|   jasong            |  20000 |      0 |folded|    |        |
+10|V  Shadim                   |  20000 |      0 | NoSho|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 10/21/08 00:30:50! shou72 is back from vacation
+! 10/21/08 02:15:45! The Gap FP is back from vacation
+! 10/21/08 02:15:49! Dealing a new hand
+! 10/21/08 02:15:49! No ante
+! 10/21/08 02:15:49! JPawloski blinds $50
+! 10/21/08 02:15:49! Jim McGill blinds $100
+! 10/21/08 02:40:54! shou72 folds
+! 10/21/08 02:40:54! CPT-Ron is on vacation and folds
+! 10/21/08 02:40:54! Garnett21k is on vacation and folds
+! 10/21/08 02:40:54! Ortzy is on vacation and folds
+! 10/21/08 03:10:03! Garnett21k is back from vacation
+! 10/21/08 05:39:34! CPT-Ron is back from vacation
+! 10/21/08 05:46:54! Jim McGill is back from vacation
+! 10/21/08 06:08:01! Ortzy is back from vacation
+! 10/21/08 06:49:28! BrianU is back from vacation
+! 10/21/08 06:55:46! jasong is back from vacation
+! 10/21/08 07:21:03! The Gap FP raises $300 
+! 10/21/08 07:21:03! jasong folds
+! 10/21/08 07:21:03! Shadim is on vacation and folds
+! 10/21/08 07:48:50! BrianU calls 
+! 10/21/08 07:48:50! JPawloski is on vacation and folds
+! 10/21/08 07:48:50! Jim McGill calls 
+
+! 10/21/08 07:48:50! Pot right ($1250), flopping/dealing/drawing cards
+! 10/21/08 07:48:50! 3 players
+! 10/21/08 07:48:50! Flopped cards: 4h Ks 3s
+! 10/21/08 07:59:25! Jim McGill bets $500 
+! 10/21/08 08:18:16! JPawloski is back from vacation
+! 10/21/08 08:28:37! The Gap FP raises $2000 
+! 10/21/08 08:28:37! BrianU folds
+! 10/21/08 08:34:23! Jim McGill raises $17100 and is all in
+! 10/21/08 09:21:21! The Gap FP calls and is all in
+
+! 10/21/08 09:21:21! Pot right ($40450), flopping/dealing/drawing cards
+! 10/21/08 09:21:21! 2 players, 2 all in
+! 10/21/08 09:21:21! Flopped card: Jh
+! 10/21/08 09:21:21! Flopped card: Ad
+! Hand over, current board is:  4h Ks 3s Jh Ad
+! Jim McGill               has: 6h Kd
+! The Gap FP               has: 2s Kc
+! Jim McGill wins $40450 (net $20450) with One Pair (K K A J 6)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   BrianU                   |  19600 |        |      |    |        |
+ 2|D  JPawloski                |  19950 |        |      |    |        |
+ 3|   Jim McGill               |  40450 |        |      |    |        |
+ 4|   shou72                   |  20000 |        |      |    |        |
+ 5|   CPT-Ron                  |  20000 |        |      |    |        |
+ 6|   Garnett21k               |  20000 |        |      |    |        |
+ 7|   Ortzy                    |  20000 |        |      |    |        |
+ 9|   jasong            |  20000 |        |      |    |        |
+10|V  Shadim                   |  20000 |        | NoSho|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! The Gap FP is eliminated!
+! 930 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+TOURNEY INFORMATION
+
+
+NOTICE:
+
+This is the PRACTICE round.  It will go until about 10/31 and
+stop without warning.  This round does not count.  You will
+start with a full stack of chips when the real tourney starts
+on or about November 4.
+
+So, use this to try out ADVANCE actions.  That is, not hard
+actions, but, rather, actions taken in ADVANCE of your turn.
+They are pretty easy.  Check out the links below.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org
+

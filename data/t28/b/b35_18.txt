@@ -1,0 +1,131 @@
+Subject: [b35.10260] Holdem Game Broadcast Message(*)
+
+! Table b35, Hand 18, Day 14
+
+! last laugh calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Cyberchomp               |   54750 |      75 |folded|    |         |
+ 2|   Descamisado              |   50075 |    1200 |folded|    |         |
+ 3|   badseed                  |   54975 |     600 |folded|    |         |
+ 4|   Deets                    |   40450 |    5700 |folded|    |         |
+ 6|   Ian Collier              |   45700 |       0 |folded|    |         |
+ 7|   last laugh               |   31150 |   25700 |      |    |         |
+ 8|>  sltLonghorn              |   73850 |   25700 |      |    |         |
+ 9|D  Pedro                    |   40075 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/24/18 11:37:13! Dealing a new hand
+! 11/24/18 11:37:13! No ante
+! 11/24/18 11:37:13! Cyberchomp blinds $75
+! 11/24/18 11:37:13! Descamisado blinds $150
+! 11/24/18 11:39:37! badseed calls 
+! 11/24/18 11:47:16! Deets calls 
+! 11/24/18 11:56:34! Ian Collier folds
+! 11/24/18 14:04:00! last laugh calls 
+! 11/24/18 16:45:59! sltLonghorn raises $450 to $600 total 
+! 11/24/18 16:45:59! Pedro folds
+! 11/24/18 17:59:43! Cyberchomp folds
+! 11/24/18 18:22:03! Descamisado calls 
+! 11/24/18 19:00:00! badseed calls 
+! 11/25/18 06:06:11! Deets calls 
+! 11/25/18 09:29:18! last laugh calls 
+
+! 11/25/18 09:29:18! Pot right ($3075), flopping/dealing/drawing cards
+! 11/25/18 09:29:18! 5 players
+! 11/25/18 09:29:18! Flopped cards: 5h Qd Qh
+! 11/25/18 09:35:49! Descamisado checks
+! 11/25/18 09:35:49! badseed checks
+! 11/25/18 11:45:32! Deets checks
+! 11/25/18 12:32:32! last laugh bets $600 
+! 11/25/18 12:37:04! sltLonghorn calls 
+! 11/25/18 12:37:58! Descamisado calls 
+! 11/25/18 12:37:58! badseed folds
+! 11/25/18 12:42:19! Deets calls 
+
+! 11/25/18 12:42:19! Pot right ($5475), flopping/dealing/drawing cards
+! 11/25/18 12:42:19! 4 players
+! 11/25/18 12:42:19! Flopped card: 6s
+! 11/25/18 12:43:31! Descamisado checks
+! 11/25/18 15:47:52! Deets checks
+! 11/25/18 16:58:12! last laugh bets $1200 
+! 11/25/18 16:58:12! sltLonghorn raises $3300 to $4500 total 
+! 11/25/18 17:08:26! Descamisado folds
+! 11/25/18 17:21:34! Deets calls 
+! 11/25/18 17:25:30! last laugh calls 
+
+! 11/25/18 17:25:30! Pot right ($18975), flopping/dealing/drawing cards
+! 11/25/18 17:25:30! 3 players
+! 11/25/18 17:25:30! Flopped card: Jd
+! 11/25/18 18:15:45! Deets checks
+! 11/25/18 18:20:31! last laugh bets $3000 
+! 11/25/18 18:21:36! sltLonghorn raises $17000 to $20000 total 
+! 11/25/18 18:34:32! Deets folds
+! 11/25/18 18:48:08! last laugh calls 
+! Hand over, current board is:  5h Qd Qh 6s Jd
+! last laugh               has: 4h 4c
+! sltLonghorn              has: 6h 6d
+! sltLonghorn wins $58975 (net $33275) with Full House (6 6 6 Q Q)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  Cyberchomp               |   54750 |         |      |    |         |
+ 2|   Descamisado              |   50075 |         |      |    |         |
+ 3|   badseed                  |   54975 |         |      |    |         |
+ 4|   Deets                    |   40450 |         |      |    |         |
+ 6|   Ian Collier              |   45700 |         |      |    |         |
+ 7|   last laugh               |   31150 |         |      |    |         |
+ 8|>  sltLonghorn              |  132825 |         |      |    |         |
+ 9|   Pedro                    |   40075 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 561 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b35.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

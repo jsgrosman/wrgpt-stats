@@ -1,0 +1,149 @@
+X-BeenThere: railbird@lists.wrgpt.org
+X-Mailman-Version: 2.1.16
+Precedence: list
+Reply-To: dealer@wrgpt.org
+List-Id: WRGPT Rail <railbird.lists.wrgpt.org>
+List-Unsubscribe: <http://lists.wrgpt.org/options/railbird>,
+ <mailto:railbird-request@lists.wrgpt.org?subject=unsubscribe>
+List-Archive: <http://lists.wrgpt.org/pipermail/railbird/>
+List-Help: <mailto:railbird-request@lists.wrgpt.org?subject=help>
+List-Subscribe: <http://lists.wrgpt.org/listinfo/railbird>,
+ <mailto:railbird-request@lists.wrgpt.org?subject=subscribe>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+Errors-To: railbird-bounces@lists.wrgpt.org
+Sender: "Railbird" <railbird-bounces@lists.wrgpt.org>
+
+! Table a29, Hand 2, Day 2
+
+! Steve B checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   FingerCramp              |   50000 |       0 |folded|    |         |
+ 2|D  Panfried                 |   49925 |       0 |folded|    |         |
+ 3|   SongMonk                 |   43850 |     150 |folded|    |         |
+ 4|>  ADB Schmengie            |   48450 |    1550 |      |    |         |
+ 5|   What Beats What Again    |   49850 |       0 |folded|    |         |
+ 6|   silvexis                 |   62075 |     150 |folded|    |         |
+ 7|   Paul McMullin            |   44000 |       0 |folded|    |         |
+ 8|   Brian Crowley            |   49850 |     150 |folded|    |         |
+ 9|   Steve B                  |   48450 |    1550 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 10/22/18 12:15:47! Dealing a new hand
+! 10/22/18 12:15:47! No ante
+! 10/22/18 12:15:47! SongMonk blinds $75
+! 10/22/18 12:15:47! ADB Schmengie blinds $150
+! 10/22/18 13:33:41! What Beats What Again folds
+! 10/22/18 13:41:43! silvexis calls 
+_____________________________________________________________________________
+
+! Practice round goals completed:
+! test 'make' command - check
+! test 'call' command - check
+! test 'advance actions' - check
+! test 'if/b <= 3000 call $3000' - check
+! test 'pot' command - not done
+! test 'jam' command - not done
+! test 'missing on both the flop and the turn' - check
+! -- Paul McMullin --
+_____________________________________________________________________________
+
+! 10/22/18 13:41:43! Paul McMullin folds
+! 10/22/18 14:33:09! Brian Crowley calls 
+! 10/22/18 14:37:37! Steve B calls 
+! 10/22/18 14:37:37! FingerCramp folds
+! 10/22/18 14:37:37! Panfried folds
+! 10/22/18 14:55:28! SongMonk calls 
+! 10/22/18 15:30:16! ADB Schmengie checks
+
+! 10/22/18 15:30:16! Pot right ($750), flopping/dealing/drawing cards
+! 10/22/18 15:30:16! 5 players
+! 10/22/18 15:30:16! Flopped cards: As 7h 9h
+! 10/22/18 17:58:54! SongMonk checks
+! 10/22/18 18:25:52! ADB Schmengie bets $500 
+! 10/22/18 19:23:25! silvexis folds
+! 10/23/18 03:09:16! Brian Crowley folds
+! 10/23/18 06:19:25! Steve B calls 
+! 10/23/18 06:19:25! SongMonk folds
+
+! 10/23/18 06:19:25! Pot right ($1750), flopping/dealing/drawing cards
+! 10/23/18 06:19:25! 2 players
+! 10/23/18 06:19:25! Flopped card: 6s
+! 10/23/18 06:39:15! ADB Schmengie bets $900 
+! 10/23/18 06:42:27! Steve B calls 
+
+! 10/23/18 06:42:27! Pot right ($3550), flopping/dealing/drawing cards
+! 10/23/18 06:42:27! 2 players
+! 10/23/18 06:42:27! Flopped card: 4s
+! 10/23/18 06:48:15! ADB Schmengie checks
+! 10/23/18 08:33:33! Steve B checks
+! Hand over, current board is:  As 7h 9h 6s 4s
+! ADB Schmengie            has: 8h 6h
+! Steve B                  has: Kh 4h
+! ADB Schmengie wins $3550 (net $2000) with One Pair (6 6 A 9 8)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   FingerCramp              |   50000 |         |      |    |         |
+ 2|   Panfried                 |   49925 |         |      |    |         |
+ 3|D  SongMonk                 |   43850 |         |      |    |         |
+ 4|>  ADB Schmengie            |   52000 |         |      |    |         |
+ 5|   What Beats What Again    |   49850 |         |      |    |         |
+ 6|   silvexis                 |   62075 |         |      |    |         |
+ 7|   Paul McMullin            |   44000 |         |      |    |         |
+ 8|   Brian Crowley            |   49850 |         |      |    |         |
+ 9|   Steve B                  |   48450 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 526 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/a/a29.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the PRACTICE round.  
+The round may abruptly stop and restart if
+problems are found that need to be addressed.
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 0
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

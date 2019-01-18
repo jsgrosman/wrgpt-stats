@@ -1,0 +1,101 @@
+Message-Id: <200812031858.mB3IwNd7005728@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+Reply-To: dealer@wrgpt.org
+From: dealer@wrgpt.org
+Subject: [b90.10212] Holdem Game Broadcast Message(*)          
+
+! Table b90, Hand 17, Day 31
+
+! DroogieDroog folds
+! calemb10 folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|>  Poker Ken                |  23400 |   6500 |      |    |        |
+ 2|D  DroogieDroog             |  17850 |   1500 |folded|    |        |
+ 3|   Warren Usui              |  19250 |    200 |folded|    |        |
+ 4|   Shyam Markus             |  31200 |    400 |folded|    |        |
+ 5|   fich                     |  19900 |      0 |folded|    |        |
+ 6|   couchtater               |  18700 |      0 |folded|    |        |
+ 7|   Smeagol                  |  15600 |      0 |folded|    |        |
+ 8|   jasong            |  32700 |      0 |folded|    |        |
+ 9|   calemb10                 |  20200 |   1500 |folded|    |        |
+10|   Ray Powers               |  11100 |      0 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 12/02/08 06:06:31! Dealing a new hand
+! 12/02/08 06:06:31! No ante
+! 12/02/08 06:06:31! Warren Usui blinds $200
+! 12/02/08 06:06:31! Shyam Markus blinds $400
+! 12/02/08 13:38:20! fich folds
+! 12/02/08 15:03:07! couchtater folds
+! 12/02/08 15:03:07! Smeagol folds
+! 12/02/08 15:03:07! jasong folds
+! 12/02/08 15:09:05! calemb10 raises $1100 
+! 12/02/08 15:09:05! Ray Powers folds
+! 12/02/08 16:12:37! Poker Ken calls 
+! 12/02/08 18:09:34! DroogieDroog calls 
+! 12/02/08 18:09:34! Warren Usui folds
+! 12/02/08 18:09:34! Shyam Markus folds
+
+! 12/02/08 18:09:34! Pot right ($5100), flopping/dealing/drawing cards
+! 12/02/08 18:09:34! 3 players
+! 12/02/08 18:09:34! Flopped cards: 10s 6s 10d
+! 12/03/08 05:03:39! calemb10 checks
+! 12/03/08 10:49:18! Poker Ken bets $5000 
+! 12/03/08 10:58:22! DroogieDroog folds
+! 12/03/08 10:58:22! calemb10 folds
+! Hand over, no showdown
+! Current board is:  10s 6s 10d ? ?
+! Poker Ken wins $10100 (net $3600)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|>  Poker Ken                |  33500 |        |      |    |        |
+ 2|   DroogieDroog             |  17850 |        |      |    |        |
+ 3|D  Warren Usui              |  19250 |        |      |    |        |
+ 4|   Shyam Markus             |  31200 |        |      |    |        |
+ 5|   fich                     |  19900 |        |      |    |        |
+ 6|   couchtater               |  18700 |        |      |    |        |
+ 7|   Smeagol                  |  15600 |        |      |    |        |
+ 8|   jasong            |  32700 |        |      |    |        |
+ 9|   calemb10                 |  20200 |        |      |    |        |
+10|   Ray Powers               |  11100 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 940 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b90.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+There will be no more live redraws for the "B" round.
+We will continue until one or more tables is down
+to five or less players.
+
+If you are on vacation for 45 days you will be 
+removed from the tourney.  Exceptions will be made 
+only in the case of telling the floorman why you
+have a good reason to be gone for 45 days before
+the 45 days have elapsed.
+
+Live Redraw Status as of 12/03/08 10:55:01 AM
+
+Total Empty Seats: 20
+Total Playing Seats: 940
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org
+

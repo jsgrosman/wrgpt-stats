@@ -1,0 +1,117 @@
+Subject: [c36.10015] Holdem Game Broadcast Message(*)
+
+! Table c36, Hand 148, Day 57
+
+! James Scharf raises $52200 to $65650 total and is all in
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|DV Scipio                   |   43425 |      50 |<Gone>|    |         |
+ 2|   Schneb                   |       0 |   16800 |all-in|  2 |   34850 |
+ 3|   Krushinski               |   52350 |     950 |folded|    |         |
+ 4|   David Kuznick            |   36275 |      50 |folded|    |         |
+ 5|   Svante Wester            |   74500 |      50 |folded|    |         |
+ 6|   MShulman                 |  107600 |      50 |folded|    |         |
+ 7|   Not66                    |  128175 |      50 |folded|    |         |
+ 8|>  James Scharf             |       0 |   69000 |all-in|  1 |   52200 |
+ 9|   Reggie Miller            |   60500 |      50 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/06/19 15:59:37! Dealing a new hand
+! 01/06/19 15:59:37! Everyone antes $50
+! 01/06/19 15:59:37! Schneb blinds $200
+! 01/06/19 15:59:37! Krushinski blinds $400
+! 01/06/19 16:55:44! David Kuznick folds
+! 01/06/19 19:27:39! Svante Wester folds
+! 01/07/19 06:51:34! MShulman folds
+! 01/07/19 06:51:34! Not66 folds
+! 01/07/19 07:02:40! James Scharf raises $500 to $900 total 
+! 01/07/19 07:15:26! Reggie Miller folds
+! 01/07/19 07:15:26! Scipio is on vacation and folds
+! 01/07/19 08:58:06! Schneb calls 
+! 01/07/19 11:12:05! Krushinski calls 
+
+! 01/07/19 11:12:05! Pot right ($3150), flopping/dealing/drawing cards
+! 01/07/19 11:12:05! 3 players
+! 01/07/19 11:12:05! Flopped cards: 5h 6h 10d
+! 01/07/19 11:18:02! Schneb checks
+! 01/07/19 11:42:35! Krushinski checks
+! 01/07/19 11:42:35! James Scharf bets $2400 
+! 01/07/19 11:44:39! Schneb calls 
+! 01/07/19 12:03:32! Krushinski folds
+
+! 01/07/19 12:03:32! Pot right ($7950), flopping/dealing/drawing cards
+! 01/07/19 12:03:32! 2 players
+! 01/07/19 12:03:32! Flopped card: 5s
+! 01/07/19 12:05:00! Schneb checks
+! 01/07/19 12:08:42! James Scharf checks
+
+! 01/07/19 12:08:42! Pot right ($7950), flopping/dealing/drawing cards
+! 01/07/19 12:08:42! 2 players
+! 01/07/19 12:08:42! Flopped card: Qd
+! 01/07/19 12:09:32! Schneb bets $13450 and is all in
+! 01/07/19 12:10:14! James Scharf raises $52200 to $65650 total and is all in
+! Hand over, current board is:  5h 6h 10d 5s Qd
+! Schneb                   has: Kh 5d
+! James Scharf             has: Js Qc
+! Pot 1: uncalled $52200 returned to James Scharf
+! Pot 2: Schneb wins $34850 with Three of a Kind (5 5 5 K Q)
+! Antes and blinds go up
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|V  Scipio                   |   43425 |         |<Gone>|    |         |
+ 2|D  Schneb                   |   34850 |         |      |    |         |
+ 3|   Krushinski               |   52350 |         |      |    |         |
+ 4|   David Kuznick            |   36275 |         |      |    |         |
+ 5|   Svante Wester            |   74500 |         |      |    |         |
+ 6|   MShulman                 |  107600 |         |      |    |         |
+ 7|   Not66                    |  128175 |         |      |    |         |
+ 8|>  James Scharf             |   52200 |         |      |    |         |
+ 9|   Reggie Miller            |   60500 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 395 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c36.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+The "b" round is ending.  All tables will finish the 
+current hand then there will be a full redraw to 
+new tables for the "c" round.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 2
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

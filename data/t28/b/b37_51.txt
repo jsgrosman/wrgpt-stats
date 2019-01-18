@@ -1,0 +1,114 @@
+Subject: [b37.10621] Holdem Game Broadcast Message(*)
+
+! Table b37, Hand 51, Day 39
+
+! ShortStack calls - side pot
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Tom Abraham              |  120825 |      25 |folded|    |         |
+ 2|   Charlie Tuna             |   47250 |      25 |folded|    |         |
+ 3|   MichaelJ                 |   44575 |      25 |folded|    |         |
+ 4|   Tom Bayz                 |   54525 |    2050 |folded|    |         |
+ 5|   SaucyJim                 |   32025 |      25 |folded|    |         |
+ 6|D> ShortStack               |       0 |   55425 |all-in|  2 |  115075 |
+ 7|   Ben Buchwald             |       0 |  107925 |all-in|  1 |   52500 |
+ 8|   Rkal                     |   96550 |    2050 |folded|    |         |
+ 9|   Mother Speaks            |   52150 |      25 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/19/18 05:35:53! Dealing a new hand
+! 12/19/18 05:35:53! Everyone antes $25
+! 12/19/18 05:35:53! Ben Buchwald blinds $150
+! 12/19/18 05:35:53! Rkal blinds $300
+! 12/19/18 06:14:49! Mother Speaks folds
+! 12/19/18 08:24:43! Tom Abraham folds
+! 12/19/18 08:24:43! Charlie Tuna folds
+! 12/19/18 08:24:43! MichaelJ folds
+! 12/19/18 09:49:50! Tom Bayz raises $525 to $825 total 
+! 12/19/18 13:51:03! SaucyJim folds
+! 12/19/18 14:05:29! ShortStack calls 
+! 12/19/18 14:09:30! Ben Buchwald calls 
+! 12/19/18 14:09:30! Rkal calls 
+
+! 12/19/18 14:09:30! Pot right ($3525), flopping/dealing/drawing cards
+! 12/19/18 14:09:30! 4 players
+! 12/19/18 14:09:30! Flopped cards: 2d Kc 8c
+! 12/19/18 14:28:30! Ben Buchwald bets $1200 
+! 12/19/18 14:29:26! Rkal calls 
+! 12/19/18 23:41:54! Tom Bayz calls 
+! 12/20/18 04:08:23! ShortStack calls 
+
+! 12/20/18 04:08:23! Pot right ($8325), flopping/dealing/drawing cards
+! 12/20/18 04:08:23! 4 players
+! 12/20/18 04:08:23! Flopped card: 10h
+! 12/20/18 04:42:44! Ben Buchwald bets $7500 
+! 12/20/18 04:49:30! Rkal folds
+! 12/20/18 06:24:48! Tom Bayz folds
+! 12/20/18 06:26:34! ShortStack calls 
+
+! 12/20/18 06:26:34! Pot right ($23325), flopping/dealing/drawing cards
+! 12/20/18 06:26:34! 2 players
+! 12/20/18 06:26:34! Flopped card: Js
+! 12/20/18 06:34:13! Ben Buchwald bets $98375 and is all in
+! 12/20/18 06:35:08! ShortStack calls - side pot
+! Hand over, current board is:  2d Kc 8c 10h Js
+! ShortStack               has: Qc 5c
+! Ben Buchwald             has: 8s 8d
+! Pot 1: uncalled $52500 returned to Ben Buchwald
+! Pot 2: Ben Buchwald wins $115075 with Three of a Kind (8 8 8 K J)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Tom Abraham              |  120825 |         |      |    |         |
+ 2|   Charlie Tuna             |   47250 |         |      |    |         |
+ 3|   MichaelJ                 |   44575 |         |      |    |         |
+ 4|   Tom Bayz                 |   54525 |         |      |    |         |
+ 5|   SaucyJim                 |   32025 |         |      |    |         |
+ 7|D  Ben Buchwald             |  167575 |         |      |    |         |
+ 8|   Rkal                     |   96550 |         |      |    |         |
+ 9|   Mother Speaks            |   52150 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! SaucyJim timed out during this hand
+! ShortStack is eliminated!
+! 455 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b37.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 3
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,123 @@
+Subject: [b5.10180] Holdem Game Broadcast Message(*)
+
+! Table b5, Hand 15, Day 16
+
+! Xaralambous bets $16475 and is all in
+! Steb folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  Steb                     |   48900 |    2300 |folded|    |         |
+ 2|   Barry Fox                |   41575 |       0 |folded|    |         |
+ 3|   Dalamo                   |   49225 |       0 |folded|    |         |
+ 4|   CPROG                    |   45450 |       0 |folded|    |         |
+ 5|   Xaralambous              |       0 |   18775 |all-in|    |         |
+ 6|D  James Bond               |   52500 |       0 |folded|    |         |
+ 7|   DocOber                  |   51925 |     150 |folded|    |         |
+ 8|   Chris Danek              |   89200 |     300 |folded|    |         |
+ 9|   siona                    |   49400 |     300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/26/18 08:42:29! Dealing a new hand
+! 11/26/18 08:42:29! No ante
+! 11/26/18 08:42:29! DocOber blinds $150
+! 11/26/18 08:42:29! Chris Danek blinds $300
+! 11/26/18 08:47:57! siona calls 
+! 11/26/18 09:18:58! Steb calls 
+! 11/26/18 09:35:07! Barry Fox folds
+! 11/26/18 09:35:07! Dalamo folds
+! 11/26/18 10:10:54! CPROG folds
+! 11/26/18 10:48:19! Xaralambous calls 
+! 11/26/18 10:48:19! James Bond folds
+! 11/26/18 10:48:19! DocOber folds
+! 11/26/18 11:58:14! Chris Danek checks
+
+! 11/26/18 11:58:14! Pot right ($1350), flopping/dealing/drawing cards
+! 11/26/18 11:58:14! 4 players
+! 11/26/18 11:58:14! Flopped cards: 5d 7d 3h
+! 11/26/18 12:04:42! Chris Danek checks
+! 11/26/18 16:06:02! siona checks
+! 11/26/18 16:44:58! Steb bets $800 
+! 11/26/18 18:20:16! Xaralambous calls 
+! 11/26/18 18:22:26! Chris Danek folds
+! 11/26/18 18:22:26! siona folds
+
+! 11/26/18 18:22:26! Pot right ($2950), flopping/dealing/drawing cards
+! 11/26/18 18:22:26! 2 players
+! 11/26/18 18:22:26! Flopped card: 10c
+! 11/26/18 18:37:53! Steb bets $1200 
+! 11/26/18 23:22:33! Xaralambous calls 
+
+! 11/26/18 23:22:33! Pot right ($5350), flopping/dealing/drawing cards
+! 11/26/18 23:22:33! 2 players
+! 11/26/18 23:22:33! Flopped card: 5c
+! 11/27/18 09:01:06! Steb checks
+! 11/27/18 09:20:36! Xaralambous bets $16475 and is all in
+! 11/27/18 09:20:36! Steb folds
+! Hand over, no showdown
+! Current board is:  5d 7d 3h 10c 5c
+! Xaralambous wins $21825 (net $3050)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  Steb                     |   48900 |         |      |    |         |
+ 2|   Barry Fox                |   41575 |         |      |    |         |
+ 3|   Dalamo                   |   49225 |         |      |    |         |
+ 4|   CPROG                    |   45450 |         |      |    |         |
+ 5|   Xaralambous              |   21825 |         |      |    |         |
+ 6|   James Bond               |   52500 |         |      |    |         |
+ 7|D  DocOber                  |   51925 |         |      |    |         |
+ 8|   Chris Danek              |   89200 |         |      |    |         |
+ 9|   siona                    |   49400 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Steb timed out during this hand
+! 553 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b5.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 5
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

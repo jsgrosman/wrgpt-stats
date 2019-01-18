@@ -1,0 +1,96 @@
+Message-Id: <201201222200.q0MM0PuH029740@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [c19.10029] Holdem Game Broadcast Message(*)                          
+
+! Table c19, Hand 75, Day 70
+
+! Jenner N. Broody folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Ro-me-ro                 |  68450 |     50 |folded|    |        |
+ 2|D  Anshu                    |  77500 |     50 |folded|    |        |
+ 3|   Neechieguy               |  38075 |    250 |folded|    |        |
+ 5|   Jenner N. Broody         |   5450 |   1050 |folded|    |        |
+ 6|   Linzk425                 |  29400 |     50 |folded|    |        |
+ 7|>  swamper wlu_lax6         |  96900 |   3550 |      |    |        |
+ 8|   Paul McMullin            |  38300 |   1050 |folded|    |        |
+ 9|   jasong            |  15200 |     50 |folded|    |        |
+10|   mash001                  |  20650 |     50 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 01/20/12 09:12:46! Dealing a new hand
+! 01/20/12 09:12:46! Everyone antes $50
+! 01/20/12 09:12:46! Neechieguy blinds $200
+! 01/20/12 09:12:46! Jenner N. Broody blinds $400
+! 01/21/12 09:31:55! Linzk425 folds
+! 01/21/12 11:22:56! swamper wlu_lax6 raises $600 
+! 01/21/12 14:43:00! Paul McMullin calls 
+! 01/21/12 14:43:00! jasong folds
+! 01/21/12 14:43:00! mash001 folds
+! 01/21/12 14:43:00! Ro-me-ro folds
+! 01/21/12 14:43:00! Anshu folds
+! 01/21/12 19:37:06! Neechieguy folds
+! 01/22/12 08:55:42! Jenner N. Broody calls 
+
+! 01/22/12 08:55:42! Pot right ($3650), flopping/dealing/drawing cards
+! 01/22/12 08:55:42! 3 players
+! 01/22/12 08:55:42! Flopped cards: 3h 10d 6c
+! 01/22/12 13:16:10! Jenner N. Broody checks
+! 01/22/12 13:37:43! swamper wlu_lax6 bets $2500 
+! 01/22/12 13:44:07! Paul McMullin folds
+! 01/22/12 14:00:24! Jenner N. Broody folds
+! Hand over, no showdown
+! Current board is:  3h 10d 6c ? ?
+! swamper wlu_lax6 wins $6150 (net $2600)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Ro-me-ro                 |  68450 |        |      |    |        |
+ 2|   Anshu                    |  77500 |        |      |    |        |
+ 3|D  Neechieguy               |  38075 |        |      |    |        |
+ 5|   Jenner N. Broody         |   5450 |        |      |    |        |
+ 6|   Linzk425                 |  29400 |        |      |    |        |
+ 7|>  swamper wlu_lax6         | 103050 |        |      |    |        |
+ 8|   Paul McMullin            |  38300 |        |      |    |        |
+ 9|   jasong            |  15200 |        |      |    |        |
+10|   mash001                  |  20650 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 526 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c19.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+There will be no more live redraws for the "b" round.
+When a table gets BELOW six players all tables will finish
+the current hand and a full redraw will occur.
+
+Having problems? Send email to floorman21@wrgpt.org.
+
+Live Redraw Status as of 01/22/12 01:55:01 PM
+
+Total Empty Seats: 31
+Total Playing Seats: 526
+Live redraw in progress:
+Seats Needed: 26
+Seats Waiting: 0
+Moving Players Waiting: 0
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+

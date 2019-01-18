@@ -1,0 +1,116 @@
+Subject: [b22.10601] Holdem Game Broadcast Message(*)
+
+% folding f?n JJ here, JJ sucks.
+% (dealer suppressed lines starting with '>' or ':')
+! -- JZK --
+_____________________________________________________________________________
+
+! Table b22, Hand 64, Day 33
+
+! JZK folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|DV Taki                     |   46950 |      25 |  busy|    |         |
+ 2|>  Spike                    |   35950 |   16525 |      |    |         |
+ 3|   Ace Squared              |   52700 |     325 |folded|    |         |
+ 4|   JZK                      |  109275 |    8525 |folded|    |         |
+ 5|   Clark Olson              |   56725 |      25 |folded|    |         |
+ 6|   Derek Noakes             |   41550 |      25 |folded|    |         |
+ 7|   starrman99               |   47675 |      25 |folded|    |         |
+ 8|   bignacho                 |   35725 |      25 |folded|    |         |
+ 9|   micwso                   |   47250 |    2525 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/14/18 02:57:04! Dealing a new hand
+! 12/14/18 02:57:04! Everyone antes $25
+! 12/14/18 02:57:04! Spike blinds $150
+! 12/14/18 02:57:04! Ace Squared blinds $300
+! 12/14/18 03:24:37! JZK raises $450 to $750 total 
+! 12/14/18 06:38:22! Clark Olson folds
+! 12/14/18 06:38:22! Derek Noakes folds
+! 12/14/18 07:53:07! starrman99 folds
+! 12/14/18 09:59:35! bignacho folds
+! 12/14/18 10:04:01! micwso raises $1750 to $2500 total 
+! 12/14/18 10:04:01! Taki is on vacation and folds
+! 12/14/18 10:08:35! Spike calls 
+! 12/14/18 10:10:19! Ace Squared folds
+! 12/14/18 10:14:33! JZK calls 
+
+! 12/14/18 10:14:33! Pot right ($8025), flopping/dealing/drawing cards
+! 12/14/18 10:14:33! 3 players
+! 12/14/18 10:14:33! Flopped cards: 2d 3d 4s
+! 12/14/18 10:22:36! Spike bets $3000 
+! 12/14/18 10:26:19! JZK raises $3000 to $6000 total 
+! 12/14/18 10:35:41! micwso folds
+! 12/14/18 10:46:56! Spike calls 
+
+! 12/14/18 10:46:56! Pot right ($20025), flopping/dealing/drawing cards
+! 12/14/18 10:46:56! 2 players
+! 12/14/18 10:46:56! Flopped card: 9d
+! 12/14/18 10:56:07! Spike bets $8000 
+_____________________________________________________________________________
+
+! folding f?n JJ here, JJ sucks.
+! (dealer suppressed lines starting with '>' or ':')
+! -- JZK --
+_____________________________________________________________________________
+
+! 12/14/18 10:57:15! JZK folds
+! Hand over, no showdown
+! Current board is:  2d 3d 4s 9d ?
+! Spike wins $28025 (net $11500)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|V  Taki                     |   46950 |         |  busy|    |         |
+ 2|D> Spike                    |   63975 |         |      |    |         |
+ 3|   Ace Squared              |   52700 |         |      |    |         |
+ 4|   JZK                      |  109275 |         |      |    |         |
+ 5|   Clark Olson              |   56725 |         |      |    |         |
+ 6|   Derek Noakes             |   41550 |         |      |    |         |
+ 7|   starrman99               |   47675 |         |      |    |         |
+ 8|   bignacho                 |   35725 |         |      |    |         |
+ 9|   micwso                   |   47250 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 476 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b22.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 10
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,118 @@
+Subject: [b23.10025] Holdem Game Broadcast Message(*)
+
+! Table b23, Hand 2, Day 2
+
+! David Weiss folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|V  Ken Kubey                |   50000 |       0 | NoSho|    |         |
+ 2|D  Psilent P                |   49925 |       0 |folded|    |         |
+ 3|   Eight of Spades          |   50000 |      75 |folded|    |         |
+ 4|>  TomasL                   |   46100 |    3900 |      |    |         |
+ 5|   PrestoET                 |   50000 |       0 |folded|    |         |
+ 6|   ThunderRd                |   50000 |       0 |folded|    |         |
+ 7|   Roger Strom              |   50000 |       0 |folded|    |         |
+ 8|   David Weiss              |   48100 |    1900 |folded|    |         |
+ 9|V  Bert Bell                |   50000 |       0 | NoSho|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/13/18 04:22:09! Dealing a new hand
+! 11/13/18 04:22:09! No ante
+! 11/13/18 04:22:09! Eight of Spades blinds $75
+! 11/13/18 04:22:09! TomasL blinds $150
+! 11/13/18 06:08:36! PrestoET folds
+! 11/13/18 06:08:36! ThunderRd folds
+! 11/13/18 07:05:00! Roger Strom folds
+! 11/13/18 07:09:19! David Weiss raises $250 to $400 total 
+! 11/13/18 07:09:19! Bert Bell is on vacation and folds
+! 11/13/18 07:09:19! Ken Kubey is on vacation and folds
+! 11/13/18 07:44:16! Psilent P folds
+! 11/13/18 07:44:16! Eight of Spades folds
+! 11/13/18 07:55:50! TomasL calls 
+
+! 11/13/18 07:55:50! Pot right ($875), flopping/dealing/drawing cards
+! 11/13/18 07:55:50! 2 players
+! 11/13/18 07:55:50! Flopped cards: 6s 8c Qs
+! 11/13/18 07:56:41! TomasL checks
+! 11/13/18 07:58:23! David Weiss bets $500 
+! 11/13/18 08:00:44! TomasL calls 
+
+! 11/13/18 08:00:44! Pot right ($1875), flopping/dealing/drawing cards
+! 11/13/18 08:00:44! 2 players
+! 11/13/18 08:00:44! Flopped card: 7c
+! 11/13/18 08:01:35! TomasL checks
+! 11/13/18 08:03:23! David Weiss bets $1000 
+! 11/13/18 08:04:09! TomasL calls 
+
+! 11/13/18 08:04:09! Pot right ($3875), flopping/dealing/drawing cards
+! 11/13/18 08:04:09! 2 players
+! 11/13/18 08:04:09! Flopped card: Ks
+! 11/13/18 08:05:01! TomasL bets $2000 
+! 11/13/18 08:07:11! David Weiss folds
+! Hand over, no showdown
+! Current board is:  6s 8c Qs 7c Ks
+! TomasL wins $5875 (net $1975)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|V  Ken Kubey                |   50000 |         | NoSho|    |         |
+ 2|   Psilent P                |   49925 |         |      |    |         |
+ 3|D  Eight of Spades          |   50000 |         |      |    |         |
+ 4|>  TomasL                   |   51975 |         |      |    |         |
+ 5|   PrestoET                 |   50000 |         |      |    |         |
+ 6|   ThunderRd                |   50000 |         |      |    |         |
+ 7|   Roger Strom              |   50000 |         |      |    |         |
+ 8|   David Weiss              |   48100 |         |      |    |         |
+ 9|V  Bert Bell                |   50000 |         | NoSho|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 591 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b23.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 1
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

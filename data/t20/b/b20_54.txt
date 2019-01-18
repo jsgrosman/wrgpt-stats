@@ -1,0 +1,85 @@
+Message-Id: <201012170209.oBH29C0o007584@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [b20.10626] Holdem Game Broadcast Message(*)                          
+
+! Table b20, Hand 54, Day 46
+
+! JackBlack folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Ross Porter              |  21500 |     50 |folded|    |        |
+ 2|   Cyberchomp               |  30325 |     50 |folded|    |        |
+ 3|   Swamp Duff               |  45750 |     50 |folded|    |        |
+ 4|   Blacktav                 |  52100 |     50 |folded|    |        |
+ 5|>  jasong            |  71550 |   2050 |      |    |        |
+ 6|   Andrew Nelson            |  21800 |     50 |folded|    |        |
+ 7|D  plankton                 |  74125 |     50 |folded|    |        |
+ 9|   Greg Folla               |  52550 |    250 |folded|    |        |
+10|   JackBlack                |  52150 |    450 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 12/16/10 00:03:10! Dealing a new hand
+! 12/16/10 00:03:10! Everyone antes $50
+! 12/16/10 00:03:10! Greg Folla blinds $200
+! 12/16/10 00:03:10! JackBlack blinds $400
+! 12/16/10 08:28:51! Ross Porter folds
+! 12/16/10 10:04:20! Cyberchomp folds
+! 12/16/10 10:04:20! Swamp Duff folds
+! 12/16/10 10:04:20! Blacktav folds
+! 12/16/10 10:10:35! jasong raises $1600 
+! 12/16/10 12:54:18! Andrew Nelson folds
+! 12/16/10 12:54:18! plankton folds
+! 12/16/10 15:27:50! Greg Folla folds
+! 12/16/10 18:09:12! JackBlack folds
+! Hand over, no showdown
+! Current board is:  ? ? ? ? ?
+! jasong wins $3050 (net $1000)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Ross Porter              |  21500 |        |      |    |        |
+ 2|   Cyberchomp               |  30325 |        |      |    |        |
+ 3|   Swamp Duff               |  45750 |        |      |    |        |
+ 4|   Blacktav                 |  52100 |        |      |    |        |
+ 5|>  jasong            |  74600 |        |      |    |        |
+ 6|   Andrew Nelson            |  21800 |        |      |    |        |
+ 7|   plankton                 |  74125 |        |      |    |        |
+ 9|D  Greg Folla               |  52550 |        |      |    |        |
+10|   JackBlack                |  52150 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 670 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b20.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Players who have not shown up to WRGPT20 yet are being removed.
+
+If you are absent for 45 days without letting the floorman know
+you will also be removed.
+
+If you have any problems send mail to floorman20@wrgpt.org.
+
+Live Redraw Status as of 12/16/10 05:55:01 PM
+
+Total Empty Seats: 49
+Total Playing Seats: 671
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org or follow "wrgpt" on Twitter.
+

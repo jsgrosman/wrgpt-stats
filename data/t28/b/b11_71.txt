@@ -1,0 +1,101 @@
+Subject: [b11.10793] Holdem Game Broadcast Message(*)
+
+! Table b11, Hand 71, Day 52
+
+! DotMatrix calls 
+! Pot right ($16150), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped cards: 7s 4h 8c
+! Flopped card: 5s
+! Flopped card: Ks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 3|   RichNYC                  |   47400 |     450 |folded|    |         |
+ 4|   ddppmm                   |   45900 |      50 |folded|    |         |
+ 5|>  DotMatrix                |   29500 |    7650 |      |    |         |
+ 6|   put_it_good              |   82275 |      50 |folded|    |         |
+ 7|   Bobby the Worm           |   61475 |      50 |folded|    |         |
+ 8|D  ADB Jupe                 |       0 |    7650 |all-in|    |         |
+ 9|   Chris Goedde             |  156675 |     250 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/02/19 10:16:40! Dealing a new hand
+! 01/02/19 10:16:40! Everyone antes $50
+! 01/02/19 10:16:40! Chris Goedde blinds $200
+! 01/02/19 10:16:40! RichNYC blinds $400
+! 01/02/19 10:17:59! ddppmm folds
+! 01/02/19 10:33:11! DotMatrix calls 
+! 01/02/19 10:33:11! put_it_good folds
+! 01/02/19 10:33:11! Bobby the Worm folds
+! 01/02/19 11:07:04! ADB Jupe raises $7200 to $7600 total and is all in
+! 01/02/19 11:07:04! Chris Goedde folds
+! 01/02/19 11:07:04! RichNYC folds
+! 01/02/19 11:13:16! DotMatrix calls 
+
+! 01/02/19 11:13:16! Pot right ($16150), flopping/dealing/drawing cards
+! 01/02/19 11:13:16! 2 players, 1 all in
+! 01/02/19 11:13:16! Flopped cards: 7s 4h 8c
+! 01/02/19 11:13:16! Flopped card: 5s
+! 01/02/19 11:13:16! Flopped card: Ks
+! Hand over, current board is:  7s 4h 8c 5s Ks
+! DotMatrix                has: Kc Qc
+! ADB Jupe                 has: As 6s
+! ADB Jupe wins $16150 (net $8500) with Spade Flush (A K 7 6 5)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 3|   RichNYC                  |   47400 |         |      |    |         |
+ 4|   ddppmm                   |   45900 |         |      |    |         |
+ 5|>  DotMatrix                |   29500 |         |      |    |         |
+ 6|   put_it_good              |   82275 |         |      |    |         |
+ 7|   Bobby the Worm           |   61475 |         |      |    |         |
+ 8|   ADB Jupe                 |   16150 |         |      |    |         |
+ 9|D  Chris Goedde             |  156675 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 405 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b11.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+We are now over 45 days into round "b". 
+As soon as any table gets to five or fewer 
+players all tables will finish the current 
+hand and a full redraw to round "c" will be done.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 26
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

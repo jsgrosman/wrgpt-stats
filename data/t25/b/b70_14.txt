@@ -1,0 +1,107 @@
+
+! Table b70, Hand 14, Day 15
+
+! Ben Irving folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   patricko                 |  30850 |      0 |folded|    |        |
+ 2|   LenFuego                 |  25250 |      0 |folded|    |        |
+ 3|   Wrongfellow              |  36150 |      0 |folded|    |        |
+ 4|D  Thomas Gabrysch          |  29700 |      0 |folded|    |        |
+ 5|>  Norton                   |  24800 |   1700 |      |    |        |
+ 6|   Derrick Martins          |  37350 |    200 |folded|    |        |
+ 7|   Handsome Al              |  30400 |      0 |folded|    |        |
+ 8|   Ben Irving               |  24400 |    500 |folded|    |        |
+ 9|   Sarah D                  |  30700 |      0 |folded|    |        |
+10|   jasong            |  28000 |      0 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 11/09/15 07:22:35! Dealing a new hand
+! 11/09/15 07:22:35! No ante
+! 11/09/15 07:22:35! Norton blinds $100
+! 11/09/15 07:22:35! Derrick Martins blinds $200
+! 11/09/15 07:35:51! Handsome Al folds
+! 11/09/15 08:08:43! Ben Irving raises $300 
+! 11/09/15 09:42:07! Sarah D folds
+! 11/09/15 09:42:07! jasong folds
+! 11/09/15 09:42:07! patricko folds
+! 11/09/15 12:47:30! LenFuego folds
+! 11/09/15 12:47:30! Wrongfellow folds
+! 11/09/15 12:47:30! Thomas Gabrysch folds
+! 11/09/15 12:53:24! Norton calls 
+! 11/09/15 12:53:24! Derrick Martins folds
+
+! 11/09/15 12:53:24! Pot right ($1200), flopping/dealing/drawing cards
+! 11/09/15 12:53:24! 2 players
+! 11/09/15 12:53:24! Flopped cards: 5s 6h 6c
+! 11/09/15 12:54:37! Norton bets $1200 
+! 11/09/15 13:55:44! Ben Irving folds
+! Hand over, no showdown
+! Current board is:  5s 6h 6c ? ?
+! Norton wins $2400 (net $700)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   patricko                 |  30850 |        |      |    |        |
+ 2|   LenFuego                 |  25250 |        |      |    |        |
+ 3|   Wrongfellow              |  36150 |        |      |    |        |
+ 4|   Thomas Gabrysch          |  29700 |        |      |    |        |
+ 5|D> Norton                   |  27200 |        |      |    |        |
+ 6|   Derrick Martins          |  37350 |        |      |    |        |
+ 7|   Handsome Al              |  30400 |        |      |    |        |
+ 8|   Ben Irving               |  24400 |        |      |    |        |
+ 9|   Sarah D                  |  30700 |        |      |    |        |
+10|   jasong            |  28000 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 746 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b70.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+This is the REAL WRGPT.  
+
+Good luck.
+======
+
+Live Redraw Status as of 11/09/15 01:55:02 PM
+
+Total Empty Seats: 14
+Total Playing Seats: 746
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman25@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

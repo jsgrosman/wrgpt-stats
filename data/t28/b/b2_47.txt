@@ -1,0 +1,113 @@
+Subject: [b2.10629] Holdem Game Broadcast Message(*)
+
+! Table b2, Hand 47, Day 36
+
+! rtroll calls 
+! Pot right ($30075), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 5c
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   OldKingKohl              |  109400 |      25 |folded|    |         |
+ 2|D  Poker Dog                |  185025 |      25 |folded|    |         |
+ 3|   Mr. Rhinelander          |   41000 |     175 |folded|    |         |
+ 4|   poohbear                 |   49150 |     325 |folded|    |         |
+ 5|   Easyas213                |       0 |   14725 |all-in|    |         |
+ 6|   wlu_lax6                 |   35450 |      25 |folded|    |         |
+ 7|>  rtroll                   |   28575 |   14725 |      |    |         |
+ 8|   jpawloski                |   47250 |      25 |folded|    |         |
+ 9|   Kevmath                  |   63350 |      25 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/17/18 08:47:06! Dealing a new hand
+! 12/17/18 08:47:06! Everyone antes $25
+! 12/17/18 08:47:06! Mr. Rhinelander blinds $150
+! 12/17/18 08:47:06! poohbear blinds $300
+! 12/17/18 08:53:47! Easyas213 raises $450 to $750 total 
+! 12/17/18 09:27:49! wlu_lax6 folds
+! 12/17/18 10:31:36! rtroll calls 
+! 12/17/18 11:41:13! jpawloski folds
+! 12/17/18 11:41:13! Kevmath folds
+! 12/17/18 12:06:03! OldKingKohl folds
+! 12/17/18 12:53:02! Poker Dog folds
+! 12/17/18 12:53:02! Mr. Rhinelander folds
+! 12/17/18 19:01:03! poohbear folds
+
+! 12/17/18 19:01:03! Pot right ($2175), flopping/dealing/drawing cards
+! 12/17/18 19:01:03! 2 players
+! 12/17/18 19:01:03! Flopped cards: 4c Kc 4s
+! 12/17/18 19:04:02! Easyas213 bets $1000 
+! 12/17/18 19:09:48! rtroll raises $1500 to $2500 total 
+! 12/17/18 19:10:54! Easyas213 calls 
+
+! 12/17/18 19:10:54! Pot right ($7175), flopping/dealing/drawing cards
+! 12/17/18 19:10:54! 2 players
+! 12/17/18 19:10:54! Flopped card: 6s
+! 12/17/18 19:13:42! Easyas213 checks
+! 12/17/18 19:15:45! rtroll bets $5750 
+! 12/17/18 19:19:45! Easyas213 raises $5700 to $11450 total and is all in
+! 12/17/18 19:20:29! rtroll calls 
+
+! 12/17/18 19:20:29! Pot right ($30075), flopping/dealing/drawing cards
+! 12/17/18 19:20:29! 2 players, 1 all in
+! 12/17/18 19:20:29! Flopped card: 5c
+! Hand over, current board is:  4c Kc 4s 6s 5c
+! Easyas213                has: Ks Qd
+! rtroll                   has: Kd Ac
+! rtroll wins $30075 (net $15350) with Two Pair (K K 4 4 A)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   OldKingKohl              |  109400 |         |      |    |         |
+ 2|   Poker Dog                |  185025 |         |      |    |         |
+ 3|D  Mr. Rhinelander          |   41000 |         |      |    |         |
+ 4|   poohbear                 |   49150 |         |      |    |         |
+ 6|   wlu_lax6                 |   35450 |         |      |    |         |
+ 7|>  rtroll                   |   58650 |         |      |    |         |
+ 8|   jpawloski                |   47250 |         |      |    |         |
+ 9|   Kevmath                  |   63350 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! poohbear timed out during this hand
+! Easyas213 is eliminated!
+! 463 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b2.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 4
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,140 @@
+
+! Table b29, Hand 16, Day 15
+
+! asypta calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Ryan Thomas              |   47625 |     950 |folded|    |         |
+ 2|   Ben Buchwald             |   49425 |       0 |folded|    |         |
+ 3|D  Deryl Garland            |   49350 |       0 |folded|    |         |
+ 4|   Paul Ant                 |   49475 |     150 |folded|    |         |
+ 5|   beowulf                  |   23675 |     950 |folded|    |         |
+ 6|>  Cindy                    |   40400 |    8950 |      |    |         |
+ 7|   asypta                   |   44775 |    8950 |      |    |         |
+ 8|   Bernie                   |  119150 |       0 |folded|    |         |
+ 9|   John Senger              |   51600 |       0 |folded|    |         |
+10|   jasong            |  104275 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/04/17 12:36:26! Dealing a new hand
+! 11/04/17 12:36:26! No ante
+! 11/04/17 12:36:26! Paul Ant blinds $75
+! 11/04/17 12:36:26! beowulf blinds $150
+! 11/04/17 17:58:28! Cindy calls 
+! 11/04/17 18:13:29! asypta calls 
+! 11/04/17 18:13:29! Bernie folds
+! 11/04/17 18:13:29! John Senger folds
+! 11/04/17 18:13:29! jasong folds
+! 11/04/17 18:18:13! Ryan Thomas calls 
+! 11/04/17 18:18:13! Ben Buchwald folds
+! 11/04/17 18:18:13! Deryl Garland folds
+! 11/05/17 07:59:46! Paul Ant calls 
+! 11/05/17 08:42:30! beowulf checks
+
+! 11/05/17 08:42:30! Pot right ($750), flopping/dealing/drawing cards
+! 11/05/17 08:42:30! 5 players
+! 11/05/17 08:42:30! Flopped cards: 5d Qd Ks
+! 11/05/17 10:07:00! Paul Ant checks
+! 11/05/17 11:09:50! beowulf checks
+! 11/05/17 11:17:45! Cindy checks
+! 11/05/17 11:34:06! asypta bets $800 
+! 11/05/17 11:48:26! Ryan Thomas calls 
+! 11/05/17 11:48:26! Paul Ant folds
+! 11/05/17 13:13:49! beowulf calls 
+! 11/05/17 14:57:05! Cindy calls 
+
+! 11/05/17 14:57:05! Pot right ($3950), flopping/dealing/drawing cards
+! 11/05/17 14:57:05! 4 players
+! 11/05/17 14:57:05! Flopped card: Kd
+! 11/05/17 16:14:19! beowulf checks
+! 11/05/17 17:40:39! Cindy bets $3000 
+! 11/05/17 18:04:54! asypta calls 
+! 11/05/17 18:04:54! Ryan Thomas folds
+! 11/06/17 00:44:48! beowulf folds
+
+! 11/06/17 00:44:48! Pot right ($9950), flopping/dealing/drawing cards
+! 11/06/17 00:44:48! 2 players
+! 11/06/17 00:44:48! Flopped card: 7c
+! 11/06/17 08:45:45! Cindy bets $5000 
+! 11/06/17 08:46:14! asypta calls 
+! Hand over, current board is:  5d Qd Ks Kd 7c
+! Cindy                    has: Qc 2c
+! asypta                   has: Jd 8d
+! asypta wins $19950 (net $11000) with Diamond Flush (K Q J 8 5)
+! Antes and blinds go up
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Ryan Thomas              |   47625 |         |      |    |         |
+ 2|   Ben Buchwald             |   49425 |         |      |    |         |
+ 3|   Deryl Garland            |   49350 |         |      |    |         |
+ 4|D  Paul Ant                 |   49475 |         |      |    |         |
+ 5|   beowulf                  |   23675 |         |      |    |         |
+ 6|>  Cindy                    |   40400 |         |      |    |         |
+ 7|   asypta                   |   64725 |         |      |    |         |
+ 8|   Bernie                   |  119150 |         |      |    |         |
+ 9|   John Senger              |   51600 |         |      |    |         |
+10|   jasong            |  104275 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 560 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b29.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+Daylight Saving Time is ending in USA on November 4
+so the dealer's clock will fall back one hour.
+
+Players who do not come to the tables by day 30 will
+be removed.
+
+The entire round 'b' will be redrawn after day 45.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Live Redraw Status as of 11/06/17 08:25:02 AM
+
+Total Empty Seats: 9
+Total Playing Seats: 561
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman27@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

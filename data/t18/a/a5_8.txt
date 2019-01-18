@@ -1,0 +1,108 @@
+Message-Id: <200810301635.m9UGZODs008130@elvis.wrgpt.org>
+To: jsgrosman@yahoo.com
+Reply-To: dealer@wrgpt.org
+From: dealer@wrgpt.org
+Subject: [a5.10102] Holdem Game Broadcast Message(*)          
+
+! Table a5, Hand 8, Day 11
+
+! CPT-Ron folds
+! Garnett21k folds
+! Pot right ($54200), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped card: Ac
+! Flopped card: 4h
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   BrianU                   |      0 |  13850 |all-in|  2 |  29450 |
+ 2|   JPawloski                |  32550 |    450 |folded|    |        |
+ 3|   Jim McGill               |      0 |  38600 |all-in|  1 |  24750 |
+ 4|   shou72                   |  23300 |     50 |folded|    |        |
+ 5|   CPT-Ron                  |  17800 |    450 |folded|    |        |
+ 6|>  Garnett21k               |  19500 |    450 |folded|    |        |
+ 7|   Ortzy                    |  15250 |     50 |folded|    |        |
+ 9|D  jasong            |  18100 |     50 |folded|    |        |
+10|V  Shadim                   |  19300 |    250 | NoSho|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 10/29/08 11:01:00! Dealing a new hand
+! 10/29/08 11:01:00! Everyone antes $50
+! 10/29/08 11:01:00! Shadim blinds $200
+! 10/29/08 11:01:00! BrianU blinds $400
+! 10/29/08 11:05:05! JPawloski calls 
+! 10/29/08 11:05:05! Jim McGill calls 
+! 10/29/08 11:05:05! shou72 folds
+! 10/29/08 11:36:17! CPT-Ron calls 
+! 10/29/08 14:48:00! Garnett21k calls 
+! 10/29/08 14:48:00! Ortzy folds
+! 10/29/08 14:48:00! jasong folds
+! 10/29/08 14:48:00! Shadim is on vacation and folds
+! 10/30/08 07:25:37! BrianU checks
+
+! 10/30/08 07:25:37! Pot right ($2650), flopping/dealing/drawing cards
+! 10/30/08 07:25:37! 5 players
+! 10/30/08 07:25:37! Flopped cards: 3h 4c 9h
+! 10/30/08 07:46:24! BrianU bets $13400 and is all in
+! 10/30/08 08:56:08! JPawloski folds
+! 10/30/08 08:56:08! Jim McGill raises $24750 and is all in
+! 10/30/08 09:35:20! CPT-Ron folds
+! 10/30/08 09:35:20! Garnett21k folds
+
+! 10/30/08 09:35:20! Pot right ($54200), flopping/dealing/drawing cards
+! 10/30/08 09:35:20! 2 players, 2 all in
+! 10/30/08 09:35:20! Flopped card: Ac
+! 10/30/08 09:35:20! Flopped card: 4h
+! Hand over, current board is:  3h 4c 9h Ac 4h
+! BrianU                   has: Qh 10c
+! Jim McGill               has: 4s 5d
+! Pot 1: uncalled $24750 returned to Jim McGill
+! Pot 2: Jim McGill wins $29450 with Three of a Kind (4 4 4 A 9)
+! Antes and blinds go up
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 2|   JPawloski                |  32550 |        |      |    |        |
+ 3|   Jim McGill               |  54200 |        |      |    |        |
+ 4|   shou72                   |  23300 |        |      |    |        |
+ 5|   CPT-Ron                  |  17800 |        |      |    |        |
+ 6|>  Garnett21k               |  19500 |        |      |    |        |
+ 7|   Ortzy                    |  15250 |        |      |    |        |
+ 9|   jasong            |  18100 |        |      |    |        |
+10|DV Shadim                   |  19300 |        | NoSho|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! BrianU is eliminated!
+! 751 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+TOURNEY INFORMATION
+
+
+NOTICE:
+
+Any email or start time changes made in the practice round
+DO NOT CARRY OVER to the real tourney.  If you want them
+to stay you will need to enter them again after the
+real tourney starts.
+
+This is the PRACTICE round.  It will go until about 10/31 and
+stop without warning.  This round does not count.  You will
+start with a full stack of chips when the real tourney starts
+on or about November 4.
+
+So, use this to try out ADVANCE actions.  That is, not hard
+actions, but, rather, actions taken in ADVANCE of your turn.
+They are pretty easy.  Check out the links below.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org
+

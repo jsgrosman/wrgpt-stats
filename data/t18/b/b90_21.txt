@@ -1,0 +1,113 @@
+Message-Id: <200812102005.mBAK5kTk019424@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+Reply-To: dealer@wrgpt.org
+From: dealer@wrgpt.org
+Subject: [b90.10261] Holdem Game Broadcast Message(*)          
+
+! Table b90, Hand 21, Day 38
+
+! fich folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Poker Ken                |  31500 |    400 |folded|    |        |
+ 2|   DroogieDroog             |  27100 |      0 |folded|    |        |
+ 3|V  Warren Usui              |  19250 |      0 |<AWOL>|    |        |
+ 4|   Shyam Markus             |  31000 |      0 |folded|    |        |
+ 5|   fich                     |  13300 |   4800 |folded|    |        |
+ 6|D> couchtater               |   6300 |  11800 |      |    |        |
+ 7|   Smeagol                  |   1550 |    200 |folded|    |        |
+ 8|   jasong            |  38900 |    400 |folded|    |        |
+ 9|   calemb10                 |  18600 |      0 |folded|    |        |
+10|   Ray Powers               |  14900 |      0 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 12/09/08 09:36:54! Dealing a new hand
+! 12/09/08 09:36:54! No ante
+! 12/09/08 09:36:54! Smeagol blinds $200
+! 12/09/08 09:36:54! jasong blinds $400
+! 12/09/08 09:38:15! calemb10 folds
+! 12/09/08 09:42:50! Ray Powers folds
+! 12/09/08 09:45:21! Poker Ken calls 
+_____________________________________________________________________________
+
+! Sorry on that last hand, Gollum.  Shoulda got me outta the hand on the f
+! Your 1200 raise wasn't enough to scare me off.
+! -- DroogieDroog --
+_____________________________________________________________________________
+
+! 12/09/08 09:58:47! DroogieDroog folds
+! 12/09/08 09:58:47! Warren Usui is on vacation and folds
+! 12/09/08 09:58:47! Shyam Markus folds
+! 12/09/08 13:58:08! fich raises $1400 
+! 12/09/08 16:45:51! couchtater calls 
+_____________________________________________________________________________
+
+! sure glad this isn't real money
+! -- Smeagol --
+_____________________________________________________________________________
+
+! 12/09/08 16:45:51! Smeagol folds
+! 12/09/08 16:45:51! jasong folds
+! 12/09/08 20:32:51! Poker Ken folds
+
+! 12/09/08 20:32:51! Pot right ($4600), flopping/dealing/drawing cards
+! 12/09/08 20:32:51! 2 players
+! 12/09/08 20:32:51! Flopped cards: 4h 5d 10d
+! 12/10/08 01:56:23! fich bets $3000 
+! 12/10/08 08:48:47! couchtater raises $7000 
+! 12/10/08 12:05:46! fich folds
+! Hand over, no showdown
+! Current board is:  4h 5d 10d ? ?
+! couchtater wins $17600 (net $5800)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Poker Ken                |  31500 |        |      |    |        |
+ 2|   DroogieDroog             |  27100 |        |      |    |        |
+ 3|V  Warren Usui              |  19250 |        |<AWOL>|    |        |
+ 4|   Shyam Markus             |  31000 |        |      |    |        |
+ 5|   fich                     |  13300 |        |      |    |        |
+ 6|>  couchtater               |  23900 |        |      |    |        |
+ 7|D  Smeagol                  |   1550 |        |      |    |        |
+ 8|   jasong            |  38900 |        |      |    |        |
+ 9|   calemb10                 |  18600 |        |      |    |        |
+10|   Ray Powers               |  14900 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 888 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b90.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+There will be no more live redraws for the "B" round.
+We will continue until one or more tables is down
+to five or less players.
+
+If you are on vacation for 45 days you will be 
+removed from the tourney.  Exceptions will be made 
+only in the case of telling the floorman why you
+have a good reason to be gone for 45 days before
+the 45 days have elapsed.
+
+Live Redraw Status as of 12/10/08 11:55:01 AM
+
+Total Empty Seats: 71
+Total Playing Seats: 889
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org
+

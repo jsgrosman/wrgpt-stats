@@ -1,0 +1,126 @@
+
+% I thought you might do that
+! -- Chris Goedde --
+_____________________________________________________________________________
+
+! Table d3, Hand 276, Day 110
+
+! Chris Goedde calls 
+! Pot right ($305250), flopping/dealing/drawing cards
+! 3 players, 2 all in
+! Flopped card: Jh
+! Flopped card: 10s
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   dys1exic                 | 103275 |    400 |folded|    |        |
+ 2|>  Chris Goedde             |  91500 | 127100 |      |  2 | 166500 |
+ 3|   jasong            |      0 |  43850 |all-in|  3 | 138750 |
+ 4|   Jeff Kirkwold            | 155150 |    400 |folded|    |        |
+ 5|   elfyhead                 |  47500 |    400 |folded|    |        |
+ 6|D  TracyB                   | 239650 |    400 |folded|    |        |
+ 8|   Ed Kearns                |  96200 |   2000 |folded|    |        |
+ 9|   Quick                    |  56425 |   3600 |folded|    |        |
+10|   Sabo FC                  |      0 | 127100 |all-in|  2 | 166500 |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 02/11/16 13:31:44! Dealing a new hand
+! 02/11/16 13:31:44! Everyone antes $400
+! 02/11/16 13:31:44! Ed Kearns blinds $1600
+! 02/11/16 13:31:44! Quick blinds $3200
+! 02/11/16 14:02:36! Sabo FC raises $5000 
+! 02/11/16 14:48:49! dys1exic folds
+! 02/11/16 15:19:29! Chris Goedde calls 
+! 02/11/16 16:17:58! jasong raises $35250 and is all in
+! 02/11/16 16:17:58! Jeff Kirkwold folds
+! 02/11/16 18:20:27! elfyhead folds
+! 02/11/16 18:20:27! TracyB folds
+! 02/11/16 18:20:27! Ed Kearns folds
+! 02/11/16 18:20:27! Quick folds
+! 02/11/16 22:03:50! Sabo FC calls 
+! 02/12/16 07:40:22! Chris Goedde calls 
+
+! 02/12/16 07:40:22! Pot right ($138750), flopping/dealing/drawing cards
+! 02/12/16 07:40:22! 3 players, 1 all in
+! 02/12/16 07:40:22! Flopped cards: Ad 4c 10c
+! 02/12/16 09:27:06! Sabo FC bets $83250 and is all in
+_____________________________________________________________________________
+
+! I thought you might do that
+! -- Chris Goedde --
+_____________________________________________________________________________
+
+! 02/12/16 09:36:31! Chris Goedde calls 
+
+! 02/12/16 09:36:31! Pot right ($305250), flopping/dealing/drawing cards
+! 02/12/16 09:36:31! 3 players, 2 all in
+! 02/12/16 09:36:31! Flopped card: Jh
+! 02/12/16 09:36:31! Flopped card: 10s
+! Hand over, current board is:  Ad 4c 10c Jh 10s
+! Chris Goedde             has: Js Qh
+! jasong            has: 6h 6c
+! Sabo FC                  has: Ks Ah
+! Pot 2: Sabo FC wins $166500 with Two Pair (A A 10 10 K)
+! Pot 3: Sabo FC wins $138750 with Two Pair (A A 10 10 K)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   dys1exic                 | 103275 |        |      |    |        |
+ 2|>  Chris Goedde             |  91500 |        |      |    |        |
+ 4|   Jeff Kirkwold            | 155150 |        |      |    |        |
+ 5|   elfyhead                 |  47500 |        |      |    |        |
+ 6|   TracyB                   | 239650 |        |      |    |        |
+ 8|D  Ed Kearns                |  96200 |        |      |    |        |
+ 9|   Quick                    |  56425 |        |      |    |        |
+10|   Sabo FC                  | 305250 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! jasong is eliminated!
+! 156 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d3.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+======
+
+Live Redraw Status as of 02/12/16 09:25:02 AM
+
+Total Empty Seats: 23
+Total Playing Seats: 157
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman25@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

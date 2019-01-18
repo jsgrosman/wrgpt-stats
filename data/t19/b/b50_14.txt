@@ -1,0 +1,98 @@
+Message-Id: <200912111908.nBBJ8gF8018274@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [b50.10154] Holdem Game Broadcast Message(*)                          
+
+! Table b50, Hand 14, Day 26
+
+! Kold Call folds
+! Mar Anderson folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Mar Anderson             |  32950 |    500 |folded|    |        |
+ 2|   Argus                    |  27100 |      0 |folded|    |        |
+ 3|>  Jack Walsh               |  27150 |   1500 |      |    |        |
+ 4|D  GP                       |  27900 |      0 |folded|    |        |
+ 5|   Annika                   |  27750 |    100 |folded|    |        |
+ 6|   Kold Call                |  30450 |    500 |folded|    |        |
+ 7|   Super Rock               |  29700 |      0 |folded|    |        |
+ 8|   Brett Holz               |  29750 |      0 |folded|    |        |
+ 9|   Woody Myers              |  30450 |      0 |folded|    |        |
+10|   jasong            |  34200 |      0 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 12/09/09 17:27:42! Dealing a new hand
+! 12/09/09 17:27:42! No ante
+! 12/09/09 17:27:42! Annika blinds $100
+! 12/09/09 17:27:42! Kold Call blinds $200
+! 12/09/09 22:28:29! Super Rock folds
+! 12/09/09 22:28:29! Brett Holz folds
+! 12/09/09 23:33:58! Woody Myers folds
+! 12/09/09 23:33:58! jasong folds
+! 12/10/09 09:17:21! Mar Anderson calls 
+! 12/10/09 09:17:21! Argus folds
+! 12/10/09 10:34:27! Jack Walsh raises $300 
+! 12/10/09 10:34:27! GP folds
+! 12/10/09 10:34:27! Annika folds
+! 12/10/09 11:21:01! Kold Call calls 
+! 12/10/09 13:03:23! Mar Anderson calls 
+
+! 12/10/09 13:03:23! Pot right ($1600), flopping/dealing/drawing cards
+! 12/10/09 13:03:23! 3 players
+! 12/10/09 13:03:23! Flopped cards: 5s Qs 7h
+! 12/10/09 16:37:37! Kold Call checks
+! 12/10/09 17:11:25! Mar Anderson checks
+! 12/11/09 05:37:02! Jack Walsh bets $1000 
+! 12/11/09 11:08:40! Kold Call folds
+! 12/11/09 11:08:40! Mar Anderson folds
+! Hand over, no showdown
+! Current board is:  5s Qs 7h ? ?
+! Jack Walsh wins $2600 (net $1100)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Mar Anderson             |  32950 |        |      |    |        |
+ 2|   Argus                    |  27100 |        |      |    |        |
+ 3|>  Jack Walsh               |  29750 |        |      |    |        |
+ 4|   GP                       |  27900 |        |      |    |        |
+ 5|D  Annika                   |  27750 |        |      |    |        |
+ 6|   Kold Call                |  30450 |        |      |    |        |
+ 7|   Super Rock               |  29700 |        |      |    |        |
+ 8|   Brett Holz               |  29750 |        |      |    |        |
+ 9|   Woody Myers              |  30450 |        |      |    |        |
+10|   jasong            |  34200 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 954 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b50.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Players who have not shown up to play will
+be removed from the tournament starting day 31
+which is December 16, 2009.  This is a manual
+process so it may take a few days to get all
+of the NoSho players removed.
+
+Live Redraw Status as of 12/11/09 10:55:02 AM
+
+Total Empty Seats: 26
+Total Playing Seats: 954
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org or follow "wrgpt" on Twitter.
+

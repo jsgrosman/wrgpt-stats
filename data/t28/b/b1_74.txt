@@ -1,0 +1,111 @@
+Subject: [b1.10732] Holdem Game Broadcast Message(*)
+
+! Table b1, Hand 74, Day 38
+
+! Nick Name folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Nick Name                |   53325 |    4725 |folded|    |         |
+ 2|   EricL                    |   62650 |    1725 |folded|    |         |
+ 3|   Thomas Gabrysch          |   37050 |      25 |folded|    |         |
+ 4|   breyercalvert            |  112750 |      25 |folded|    |         |
+ 5|D  BaconPancakes            |   77925 |      25 |folded|    |         |
+ 6|>  mulligan                 |  122725 |    9925 |      |    |         |
+ 7|   stannius                 |   52050 |     325 |folded|    |         |
+ 8|   Kevin Mackey             |   56000 |      25 |folded|    |         |
+ 9|   Endrju                   |   48075 |      25 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/18/18 12:09:53! Dealing a new hand
+! 12/18/18 12:09:53! Everyone antes $25
+! 12/18/18 12:09:53! mulligan blinds $150
+! 12/18/18 12:09:53! stannius blinds $300
+! 12/18/18 12:22:06! Kevin Mackey folds
+! 12/18/18 12:36:58! Endrju folds
+! 12/18/18 12:54:33! Nick Name raises $600 to $900 total 
+! 12/18/18 13:28:24! EricL calls 
+! 12/18/18 22:44:57! Thomas Gabrysch folds
+! 12/19/18 05:06:59! breyercalvert folds
+! 12/19/18 05:06:59! BaconPancakes folds
+! 12/19/18 05:13:15! mulligan raises $800 to $1700 total 
+! 12/19/18 05:13:15! stannius folds
+! 12/19/18 05:17:17! Nick Name calls 
+! 12/19/18 05:18:45! EricL calls 
+
+! 12/19/18 05:18:45! Pot right ($5625), flopping/dealing/drawing cards
+! 12/19/18 05:18:45! 3 players
+! 12/19/18 05:18:45! Flopped cards: 5h 3h 10s
+! 12/19/18 05:40:09! mulligan checks
+! 12/19/18 07:38:39! Nick Name bets $3000 
+! 12/19/18 08:52:50! EricL folds
+! 12/19/18 08:52:50! mulligan calls 
+
+! 12/19/18 08:52:50! Pot right ($11625), flopping/dealing/drawing cards
+! 12/19/18 08:52:50! 2 players
+! 12/19/18 08:52:50! Flopped card: 8s
+! 12/19/18 08:58:23! mulligan checks
+! 12/19/18 08:59:48! Nick Name checks
+
+! 12/19/18 08:59:48! Pot right ($11625), flopping/dealing/drawing cards
+! 12/19/18 08:59:48! 2 players
+! 12/19/18 08:59:48! Flopped card: Js
+! 12/19/18 09:01:56! mulligan bets $5200 
+! 12/19/18 09:02:44! Nick Name folds
+! Hand over, no showdown
+! Current board is:  5h 3h 10s 8s Js
+! mulligan wins $16825 (net $6900)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Nick Name                |   53325 |         |      |    |         |
+ 2|   EricL                    |   62650 |         |      |    |         |
+ 3|   Thomas Gabrysch          |   37050 |         |      |    |         |
+ 4|   breyercalvert            |  112750 |         |      |    |         |
+ 5|   BaconPancakes            |   77925 |         |      |    |         |
+ 6|D> mulligan                 |  139550 |         |      |    |         |
+ 7|   stannius                 |   52050 |         |      |    |         |
+ 8|   Kevin Mackey             |   56000 |         |      |    |         |
+ 9|   Endrju                   |   48075 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 458 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b1.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 10
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

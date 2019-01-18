@@ -1,0 +1,100 @@
+Message-Id: <201001242031.o0OKVoTT019795@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [c18.10131] Holdem Game Broadcast Message(*)                          
+
+! Table c18, Hand 60, Day 70
+
+! UKPOKER folds
+! MichaelJ folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Levi                     |  17250 |     50 |folded|    |        |
+ 2|D  Widowmaker               |  78050 |     50 |folded|    |        |
+ 3|   UKPOKER                  |  21700 |   2250 |folded|    |        |
+ 4|V  Vike                     |  22300 |    450 |<Gone>|    |        |
+ 5|   JB                       |  58700 |     50 |folded|    |        |
+ 6|   jasong            |  22050 |    450 |folded|    |        |
+ 7|   MichaelJ                 |  38725 |   2250 |folded|    |        |
+ 8|>  Senor Sheep              |  25250 |   5550 |      |    |        |
+ 9|   Brian K                  |  51700 |   2250 |folded|    |        |
+10|   jcommand                 |  52075 |     50 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 01/21/10 09:23:04! Dealing a new hand
+! 01/21/10 09:23:04! Everyone antes $50
+! 01/21/10 09:23:04! UKPOKER blinds $200
+! 01/21/10 09:23:04! Vike blinds $400
+! 01/21/10 10:14:42! JB folds
+! 01/21/10 10:14:42! jasong calls 
+! 01/21/10 10:30:12! MichaelJ raises $400 
+! 01/21/10 11:24:38! Senor Sheep calls 
+! 01/21/10 13:41:20! Brian K calls 
+! 01/21/10 13:41:20! jcommand folds
+! 01/21/10 14:25:01! Levi folds
+! 01/21/10 14:25:01! Widowmaker folds
+! 01/21/10 14:25:01! UKPOKER raises $1400 
+! 01/21/10 14:25:01! Vike is on vacation and folds
+! 01/21/10 15:17:41! jasong folds
+! 01/21/10 16:29:05! MichaelJ calls 
+! 01/22/10 08:13:18! Senor Sheep calls 
+! 01/22/10 09:40:20! Brian K calls 
+
+! 01/22/10 09:40:20! Pot right ($10100), flopping/dealing/drawing cards
+! 01/22/10 09:40:20! 4 players
+! 01/22/10 09:40:20! Flopped cards: 4s Jd 3c
+! 01/22/10 15:07:02! UKPOKER checks
+! 01/23/10 13:16:59! MichaelJ checks
+! 01/23/10 14:19:18! Senor Sheep bets $3300 
+! 01/24/10 09:35:23! Brian K folds
+! 01/24/10 12:31:49! UKPOKER folds
+! 01/24/10 12:31:49! MichaelJ folds
+! Hand over, no showdown
+! Current board is:  4s Jd 3c ? ?
+! Senor Sheep wins $13400 (net $7850)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Levi                     |  17250 |        |      |    |        |
+ 2|   Widowmaker               |  78050 |        |      |    |        |
+ 3|D  UKPOKER                  |  21700 |        |      |    |        |
+ 4|V  Vike                     |  22300 |        |<Gone>|    |        |
+ 5|   JB                       |  58700 |        |      |    |        |
+ 6|   jasong            |  22050 |        |      |    |        |
+ 7|   MichaelJ                 |  38725 |        |      |    |        |
+ 8|>  Senor Sheep              |  38650 |        |      |    |        |
+ 9|   Brian K                  |  51700 |        |      |    |        |
+10|   jcommand                 |  52075 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 737 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c18.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Try to send your action in before it is your turn so keep
+play moving quickly.
+
+
+Live Redraw Status as of 01/24/10 12:25:01 PM
+
+Total Empty Seats: 22
+Total Playing Seats: 737
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org or follow "wrgpt" on Twitter.
+

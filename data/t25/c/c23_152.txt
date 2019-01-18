@@ -1,0 +1,113 @@
+
+! Table c23, Hand 152, Day 69
+
+! Ed Fernandez calls 
+! Pot right ($32100), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped cards: Jd 5c Ah
+! Flopped card: 8d
+! Flopped card: 4c
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Ryan600                  | 129000 |    100 |folded|    |        |
+ 2|D  Murtan                   |  30200 |    100 |folded|    |        |
+ 3|   Bob                      |  92675 |    500 |folded|    |        |
+ 4|   GestaltyDog              |  35800 |    900 |folded|    |        |
+ 5|>  Ed Fernandez             |  31300 |  15100 |      |    |        |
+ 6|   jasong            |  21925 |    100 |folded|    |        |
+ 7|   MojoJojo                 | 205875 |    100 |folded|    |        |
+ 9|   the cake is a pie        |      0 |  15100 |all-in|    |        |
+10|V  Walter Hunt              |  17750 |    100 |  0104|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 01/01/16 19:02:33! Dealing a new hand
+! 01/01/16 19:02:33! Everyone antes $100
+! 01/01/16 19:02:33! Bob blinds $400
+! 01/01/16 19:02:33! GestaltyDog blinds $800
+! 01/01/16 19:32:16! Ed Fernandez raises $1000 
+! 01/01/16 19:58:53! jasong folds
+! 01/01/16 19:58:53! MojoJojo folds
+! 01/01/16 20:38:25! the cake is a pie raises $13200 and is all in
+! 01/01/16 20:38:25! Walter Hunt is on vacation and folds
+! 01/01/16 20:39:47! Ryan600 folds
+! 01/01/16 20:39:47! Murtan folds
+! 01/01/16 21:04:29! Bob folds
+! 01/01/16 21:32:27! GestaltyDog folds
+! 01/02/16 00:05:15! Ed Fernandez calls 
+
+! 01/02/16 00:05:15! Pot right ($32100), flopping/dealing/drawing cards
+! 01/02/16 00:05:15! 2 players, 1 all in
+! 01/02/16 00:05:15! Flopped cards: Jd 5c Ah
+! 01/02/16 00:05:15! Flopped card: 8d
+! 01/02/16 00:05:15! Flopped card: 4c
+! Hand over, current board is:  Jd 5c Ah 8d 4c
+! Ed Fernandez             has: Jh Kd
+! the cake is a pie        has: Ac 3c
+! the cake is a pie wins $32100 (net $17000) with One Pair (A A J 8 5)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Ryan600                  | 129000 |        |      |    |        |
+ 2|   Murtan                   |  30200 |        |      |    |        |
+ 3|D  Bob                      |  92675 |        |      |    |        |
+ 4|   GestaltyDog              |  35800 |        |      |    |        |
+ 5|>  Ed Fernandez             |  31300 |        |      |    |        |
+ 6|   jasong            |  21925 |        |      |    |        |
+ 7|   MojoJojo                 | 205875 |        |      |    |        |
+ 9|   the cake is a pie        |  32100 |        |      |    |        |
+10|V  Walter Hunt              |  17750 |        |  0104|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 407 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c23.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+There was a typo in the holiday schedule
+and January 1 was not correctly entered.
+All tables that had a January 1 timeout scheduled
+were protested and restarted to set a correct timeout.
+
+======
+
+Live Redraw Status as of 01/01/16 11:55:02 PM
+
+Total Empty Seats: 23
+Total Playing Seats: 407
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman25@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

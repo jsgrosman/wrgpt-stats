@@ -1,0 +1,116 @@
+Message-Id: <200901121557.n0CFvs17007275@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+Reply-To: dealer@wrgpt.org
+From: dealer@wrgpt.org
+Subject: [c65.10176] Holdem Game Broadcast Message(*)          
+
+! Table c65, Hand 71, Day 71
+
+! Brian K checks
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Lip                      |  43400 |     50 |folded|    |        |
+ 2|   Kevin Mathers            |  33900 |    450 |      |    |        |
+ 3|D  Brian K                  |  30150 |    450 |      |    |        |
+ 4|   jasong            |  21800 |    250 |folded|    |        |
+ 5|>  MikeB                    |  17500 |    450 |      |    |        |
+ 6|   Alphabits                |  61250 |     50 |folded|    |        |
+ 7|   Rob CutStyle             |  34300 |     50 |folded|    |        |
+ 8|   Toronado13               |  33600 |    450 |      |    |        |
+ 9|   paulshe                  |  20900 |     50 |folded|    |        |
+10|   Chuck Thompson           |  53050 |     50 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 01/09/09 08:03:57! Dealing a new hand
+! 01/09/09 08:03:57! Everyone antes $50
+! 01/09/09 08:03:57! jasong blinds $200
+! 01/09/09 08:03:57! MikeB blinds $400
+! 01/09/09 08:30:37! Alphabits folds
+! 01/09/09 09:41:05! Rob CutStyle folds
+! 01/09/09 10:00:00! Toronado13 calls 
+! 01/09/09 10:00:00! paulshe folds
+! 01/09/09 18:48:16! Chuck Thompson folds
+! 01/09/09 18:48:16! Lip folds
+! 01/10/09 14:46:30! Kevin Mathers calls 
+! 01/11/09 09:43:48! Brian K calls 
+! 01/11/09 09:43:48! jasong folds
+! 01/11/09 09:43:48! MikeB checks
+
+! 01/11/09 09:43:48! Pot right ($2300), flopping/dealing/drawing cards
+! 01/11/09 09:43:48! 4 players
+! 01/11/09 09:43:48! Flopped cards: Jh 6h 8h
+! 01/11/09 16:30:26! MikeB checks
+! 01/11/09 16:31:49! Toronado13 checks
+! 01/11/09 16:31:49! Kevin Mathers checks
+! 01/11/09 20:50:51! Brian K checks
+
+! 01/11/09 20:50:51! Pot right ($2300), flopping/dealing/drawing cards
+! 01/11/09 20:50:51! 4 players
+! 01/11/09 20:50:51! Flopped card: 9d
+! 01/11/09 21:32:16! MikeB checks
+! 01/12/09 05:21:48! Toronado13 checks
+! 01/12/09 05:21:48! Kevin Mathers checks
+! 01/12/09 05:47:23! Brian K checks
+
+! 01/12/09 05:47:23! Pot right ($2300), flopping/dealing/drawing cards
+! 01/12/09 05:47:23! 4 players
+! 01/12/09 05:47:23! Flopped card: 9s
+! 01/12/09 06:50:29! MikeB checks
+! 01/12/09 06:50:29! Toronado13 checks
+! 01/12/09 06:50:29! Kevin Mathers checks
+! 01/12/09 07:57:53! Brian K checks
+! Hand over, current board is:  Jh 6h 8h 9d 9s
+! Kevin Mathers            has: Qc Jc
+! Brian K                  has: As 2d
+! MikeB                    has: 4h Kd
+! Toronado13               has: Qh 2h
+! Toronado13 wins $2300 (net $1850) with Heart Flush (Q J 8 6 2)
+! Antes and blinds go up
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Lip                      |  43400 |        |      |    |        |
+ 2|   Kevin Mathers            |  33900 |        |      |    |        |
+ 3|   Brian K                  |  30150 |        |      |    |        |
+ 4|D  jasong            |  21800 |        |      |    |        |
+ 5|>  MikeB                    |  17500 |        |      |    |        |
+ 6|   Alphabits                |  61250 |        |      |    |        |
+ 7|   Rob CutStyle             |  34300 |        |      |    |        |
+ 8|   Toronado13               |  35900 |        |      |    |        |
+ 9|   paulshe                  |  20900 |        |      |    |        |
+10|   Chuck Thompson           |  53050 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 675 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c65.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+The last live redraw for the "c" round could begin
+as late as January 21, 2009.
+
+Live Redraw Status as of 01/12/09 07:55:00 AM
+
+Total Empty Seats: 35
+Total Playing Seats: 675
+Live redraw in progress:
+Seats Needed: 20
+Seats Waiting: 0
+Moving Players Waiting: 0
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org
+

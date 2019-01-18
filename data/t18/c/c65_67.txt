@@ -1,0 +1,107 @@
+Message-Id: <200901070532.n075WNMx007623@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+Reply-To: dealer@wrgpt.org
+From: dealer@wrgpt.org
+Subject: [c65.10125] Holdem Game Broadcast Message(*)          
+
+! Table c65, Hand 67, Day 65
+
+! David Kuznick calls - side pot
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|D  David Kuznick            |      0 |  13300 |all-in|  2 |  28000 |
+ 2|   paulshe                  |  22500 |    250 |folded|    |        |
+ 3|>  Chuck Thompson           |  24300 |  14450 |      |  1 |   1150 |
+ 4|   Kevin Mathers            |  35500 |     50 |folded|    |        |
+ 5|   Brian K                  |  31550 |     50 |folded|    |        |
+ 6|   jasong            |  20500 |     50 |folded|    |        |
+ 7|   MikeB                    |  18100 |    450 |folded|    |        |
+ 8|   Alphabits                |  55100 |     50 |folded|    |        |
+ 9|   Rob CutStyle             |  34500 |     50 |folded|    |        |
+10|   Toronado13               |  37400 |    450 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 01/05/09 20:44:47! Dealing a new hand
+! 01/05/09 20:44:47! Everyone antes $50
+! 01/05/09 20:44:47! paulshe blinds $200
+! 01/05/09 20:44:47! Chuck Thompson blinds $400
+! 01/06/09 03:28:10! Kevin Mathers folds
+! 01/06/09 04:44:26! Brian K folds
+! 01/06/09 04:56:19! jasong folds
+! 01/06/09 04:56:19! MikeB calls 
+! 01/06/09 08:35:38! Alphabits folds
+! 01/06/09 08:35:38! Rob CutStyle folds
+! 01/06/09 08:35:38! Toronado13 calls 
+! 01/06/09 08:56:40! David Kuznick calls 
+! 01/06/09 08:56:40! paulshe folds
+! 01/06/09 08:56:40! Chuck Thompson checks
+
+! 01/06/09 08:56:40! Pot right ($2300), flopping/dealing/drawing cards
+! 01/06/09 08:56:40! 4 players
+! 01/06/09 08:56:40! Flopped cards: Qs Ah 6c
+! 01/06/09 18:36:11! Chuck Thompson bets $1500 
+! 01/06/09 18:47:32! MikeB folds
+! 01/06/09 18:47:32! Toronado13 folds
+! 01/06/09 19:09:20! David Kuznick calls 
+
+! 01/06/09 19:09:20! Pot right ($5300), flopping/dealing/drawing cards
+! 01/06/09 19:09:20! 2 players
+! 01/06/09 19:09:20! Flopped card: Kc
+! 01/06/09 19:40:57! Chuck Thompson bets $3500 
+! 01/06/09 20:40:14! David Kuznick calls 
+
+! 01/06/09 20:40:14! Pot right ($12300), flopping/dealing/drawing cards
+! 01/06/09 20:40:14! 2 players
+! 01/06/09 20:40:14! Flopped card: 3c
+! 01/06/09 21:19:37! Chuck Thompson bets $9000 
+! 01/06/09 21:32:22! David Kuznick calls - side pot
+! Hand over, current board is:  Qs Ah 6c Kc 3c
+! David Kuznick            has: As 2s
+! Chuck Thompson           has: 6s 6d
+! Pot 1: uncalled $1150 returned to Chuck Thompson
+! Pot 2: Chuck Thompson wins $28000 with Three of a Kind (6 6 6 A K)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 2|D  paulshe                  |  22500 |        |      |    |        |
+ 3|>  Chuck Thompson           |  53450 |        |      |    |        |
+ 4|   Kevin Mathers            |  35500 |        |      |    |        |
+ 5|   Brian K                  |  31550 |        |      |    |        |
+ 6|   jasong            |  20500 |        |      |    |        |
+ 7|   MikeB                    |  18100 |        |      |    |        |
+ 8|   Alphabits                |  55100 |        |      |    |        |
+ 9|   Rob CutStyle             |  34500 |        |      |    |        |
+10|   Toronado13               |  37400 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! David Kuznick is eliminated!
+! 721 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c65.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+The last live redraw for the "c" round could begin
+as late as January 21, 2009.
+
+Live Redraw Status as of 01/06/09 09:25:01 PM
+
+Total Empty Seats: 28
+Total Playing Seats: 722
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org
+

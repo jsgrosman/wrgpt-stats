@@ -1,0 +1,110 @@
+Subject: [c20.10112] Holdem Game Broadcast Message(*)
+
+! Table c20, Hand 158, Day 64
+
+! Baldy calls 
+! Pot right ($36000), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 2h
+! Flopped card: 6c
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Felix Leiter             |   54075 |     100 |folded|    |         |
+ 2|D  CPROG                    |  106675 |     100 |folded|    |         |
+ 3|   JZK                      |  107825 |     350 |folded|    |         |
+ 4|   dann                     |       0 |   17525 |all-in|    |         |
+ 5|   Samueladams              |   42200 |     100 |folded|    |         |
+ 6|   Bullwinkle               |   36025 |     100 |folded|    |         |
+ 7|   Bobby Luckbox            |   42475 |     100 |folded|    |         |
+ 8|   Scooter                  |   44975 |     100 |folded|    |         |
+ 9|>  Baldy                    |   75000 |   17525 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/13/19 10:37:14! Dealing a new hand
+! 01/13/19 10:37:14! Everyone antes $100
+! 01/13/19 10:37:14! JZK blinds $250
+! 01/13/19 10:37:14! dann blinds $500
+! 01/13/19 10:58:18! Samueladams folds
+! 01/13/19 10:58:18! Bullwinkle folds
+! 01/13/19 11:28:18! Bobby Luckbox folds
+! 01/13/19 11:28:18! Scooter folds
+! 01/13/19 11:30:34! Baldy raises $1500 to $2000 total 
+! 01/14/19 06:30:16! Felix Leiter folds
+! 01/14/19 13:01:02! CPROG folds
+! 01/14/19 13:01:02! JZK folds
+! 01/14/19 13:01:02! dann calls 
+
+! 01/14/19 13:01:02! Pot right ($5150), flopping/dealing/drawing cards
+! 01/14/19 13:01:02! 2 players
+! 01/14/19 13:01:02! Flopped cards: 4c Kd 2s
+! 01/14/19 19:03:07! dann checks
+! 01/14/19 20:15:35! Baldy bets $2500 
+! 01/14/19 20:32:51! dann raises $12925 to $15425 total and is all in
+! 01/14/19 23:12:59! Baldy calls 
+
+! 01/14/19 23:12:59! Pot right ($36000), flopping/dealing/drawing cards
+! 01/14/19 23:12:59! 2 players, 1 all in
+! 01/14/19 23:12:59! Flopped card: 2h
+! 01/14/19 23:12:59! Flopped card: 6c
+! Hand over, current board is:  4c Kd 2s 2h 6c
+! dann                     has: 6s 4s
+! Baldy                    has: Kc 10c
+! Baldy wins $36000 (net $18475) with Two Pair (K K 2 2 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Felix Leiter             |   54075 |         |      |    |         |
+ 2|   CPROG                    |  106675 |         |      |    |         |
+ 3|D  JZK                      |  107825 |         |      |    |         |
+ 5|   Samueladams              |   42200 |         |      |    |         |
+ 6|   Bullwinkle               |   36025 |         |      |    |         |
+ 7|   Bobby Luckbox            |   42475 |         |      |    |         |
+ 8|   Scooter                  |   44975 |         |      |    |         |
+ 9|>  Baldy                    |  111000 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! dann is eliminated!
+! 372 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c20.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+The "c" round has started.  Good luck to all
+the remaining players.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 10
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

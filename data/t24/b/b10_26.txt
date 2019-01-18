@@ -1,0 +1,121 @@
+
+! Table b10, Hand 26, Day 24
+
+! tom porter folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   jasong            |  16100 |      0 |folded|    |        |
+ 2|   Diputsur                 |  46575 |      0 |folded|    |        |
+ 3|   Amar Patel               |  29400 |      0 |folded|    |        |
+ 4|   tom porter               |  28450 |    600 |folded|    |        |
+ 5|>  Ralph MPN                |  25875 |   1450 |      |    |        |
+ 6|   Nate Meyvis              |  63150 |    200 |folded|    |        |
+ 7|D  Kicksave                 |  33950 |      0 |folded|    |        |
+ 8|   Swamper Brian            |  33000 |    100 |folded|    |        |
+ 9|   WayneFenster             |  20950 |    200 |folded|    |        |
+10|   Kasey                    |  21350 |      0 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 12/03/14 08:41:32! Dealing a new hand
+! 12/03/14 08:41:32! No ante
+! 12/03/14 08:41:32! Swamper Brian blinds $100
+! 12/03/14 08:41:32! WayneFenster blinds $200
+! 12/03/14 09:24:07! Kasey folds
+! 12/03/14 09:37:26! jasong folds
+! 12/03/14 09:39:25! Diputsur folds
+! 12/03/14 09:39:25! Amar Patel folds
+! 12/03/14 09:39:25! tom porter calls 
+! 12/03/14 09:43:07! Ralph MPN calls 
+! 12/03/14 09:45:49! Nate Meyvis calls 
+! 12/03/14 09:45:49! Kicksave folds
+! 12/03/14 09:45:49! Swamper Brian folds
+! 12/03/14 11:09:44! WayneFenster checks
+
+! 12/03/14 11:09:44! Pot right ($900), flopping/dealing/drawing cards
+! 12/03/14 11:09:44! 4 players
+! 12/03/14 11:09:44! Flopped cards: 10s Qc Kh
+! 12/03/14 11:11:43! WayneFenster checks
+! 12/03/14 11:14:18! tom porter checks
+! 12/03/14 11:38:23! Ralph MPN bets $400 
+! 12/03/14 11:38:55! Nate Meyvis folds
+! 12/03/14 12:30:10! WayneFenster folds
+! 12/03/14 12:30:10! tom porter calls 
+
+! 12/03/14 12:30:10! Pot right ($1700), flopping/dealing/drawing cards
+! 12/03/14 12:30:10! 2 players
+! 12/03/14 12:30:10! Flopped card: 8d
+! 12/03/14 14:40:37! tom porter checks
+! 12/03/14 14:40:37! Ralph MPN bets $850 
+! 12/03/14 14:43:27! tom porter folds
+! Hand over, no showdown
+! Current board is:  10s Qc Kh 8d ?
+! Ralph MPN wins $2550 (net $1100)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   jasong            |  16100 |        |      |    |        |
+ 2|   Diputsur                 |  46575 |        |      |    |        |
+ 3|   Amar Patel               |  29400 |        |      |    |        |
+ 4|   tom porter               |  28450 |        |      |    |        |
+ 5|>  Ralph MPN                |  28425 |        |      |    |        |
+ 6|   Nate Meyvis              |  63150 |        |      |    |        |
+ 7|   Kicksave                 |  33950 |        |      |    |        |
+ 8|D  Swamper Brian            |  33000 |        |      |    |        |
+ 9|   WayneFenster             |  20950 |        |      |    |        |
+10|   Kasey                    |  21350 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 670 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b10.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+This is WRGPT24.  Good luck.
+
+If a player does not show up to play by the end of day 30 they will
+be removed from the tournament.
+
+======
+
+Live Redraw Status as of 12/03/14 02:25:01 PM
+
+Total Empty Seats: 16
+Total Playing Seats: 664
+Live redraw in progress:
+Seats Needed: 3
+Seats Waiting: 0
+Moving Players Waiting: 3
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+Here is a link to the railbird mailing list:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman24@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

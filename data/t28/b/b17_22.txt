@@ -1,0 +1,124 @@
+Subject: [b17.10353] Holdem Game Broadcast Message(*)
+
+! Table b17, Hand 22, Day 19
+
+! Wit folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   John Bernstein           |   41800 |       0 |folded|    |         |
+ 2|   Sandy                    |   49200 |       0 |folded|    |         |
+ 3|   Mike DellaBarca          |   44475 |     800 |folded|    |         |
+ 4|D  Baldy                    |   83450 |     800 |folded|    |         |
+ 5|>  shinsook                 |   31975 |   17800 |      |    |         |
+ 6|   Kahomono                 |   52000 |     800 |folded|    |         |
+ 7|   Wit                      |   46450 |    7800 |folded|    |         |
+ 8|   Mark Lemon               |   47825 |     800 |folded|    |         |
+ 9|   crush_me                 |   24025 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/29/18 11:32:39! Dealing a new hand
+! 11/29/18 11:32:39! No ante
+! 11/29/18 11:32:39! shinsook blinds $150
+! 11/29/18 11:32:39! Kahomono blinds $300
+! 11/29/18 11:33:28! Wit raises $500 to $800 total 
+! 11/29/18 12:33:37! Mark Lemon calls 
+! 11/29/18 12:33:37! crush_me folds
+! 11/29/18 16:34:03! John Bernstein folds
+! 11/29/18 16:34:03! Sandy folds
+! 11/30/18 05:34:30! Mike DellaBarca calls 
+! 11/30/18 07:19:01! Baldy calls 
+! 11/30/18 07:27:17! shinsook calls 
+! 11/30/18 07:27:17! Kahomono calls 
+
+! 11/30/18 07:27:17! Pot right ($4800), flopping/dealing/drawing cards
+! 11/30/18 07:27:17! 6 players
+! 11/30/18 07:27:17! Flopped cards: 6h 9c Qh
+! 11/30/18 08:42:32! shinsook checks
+! 11/30/18 08:43:27! Kahomono checks
+! 11/30/18 08:44:18! Wit bets $2000 
+! 11/30/18 08:44:18! Mark Lemon folds
+! 11/30/18 08:47:17! Mike DellaBarca folds
+! 11/30/18 08:47:17! Baldy folds
+! 11/30/18 08:50:31! shinsook calls 
+! 11/30/18 08:50:31! Kahomono folds
+
+! 11/30/18 08:50:31! Pot right ($8800), flopping/dealing/drawing cards
+! 11/30/18 08:50:31! 2 players
+! 11/30/18 08:50:31! Flopped card: 7h
+! 11/30/18 08:51:13! shinsook checks
+! 11/30/18 09:10:59! Wit bets $2000 
+! 11/30/18 09:40:24! shinsook raises $3000 to $5000 total 
+! 11/30/18 10:29:52! Wit calls 
+
+! 11/30/18 10:29:52! Pot right ($18800), flopping/dealing/drawing cards
+! 11/30/18 10:29:52! 2 players
+! 11/30/18 10:29:52! Flopped card: Ah
+! 11/30/18 10:43:58! shinsook bets $10000 
+! 11/30/18 10:57:55! Wit folds
+! Hand over, no showdown
+! Current board is:  6h 9c Qh 7h Ah
+! shinsook wins $28800 (net $11000)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   John Bernstein           |   41800 |         |      |    |         |
+ 2|   Sandy                    |   49200 |         |      |    |         |
+ 3|   Mike DellaBarca          |   44475 |         |      |    |         |
+ 4|   Baldy                    |   83450 |         |      |    |         |
+ 5|D> shinsook                 |   60775 |         |      |    |         |
+ 6|   Kahomono                 |   52000 |         |      |    |         |
+ 7|   Wit                      |   46450 |         |      |    |         |
+ 8|   Mark Lemon               |   47825 |         |      |    |         |
+ 9|   crush_me                 |   24025 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 541 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b17.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

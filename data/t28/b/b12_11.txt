@@ -1,0 +1,125 @@
+Subject: [b12.10149] Holdem Game Broadcast Message(*)
+
+! Table b12, Hand 11, Day 9
+
+! Piney Boy calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  TheTsunami               |   49425 |   14325 |      |    |         |
+ 2|D  Rich Guidoboni           |  103000 |       0 |folded|    |         |
+ 3|   Bart Tichelman           |   40100 |      75 |folded|    |         |
+ 4|   Piney Boy                |   34425 |   14325 |      |    |         |
+ 5|   Jascha                   |   34400 |       0 |folded|    |         |
+ 6|V  ThinkingPokerAndrew      |   47900 |       0 |<Gone>|    |         |
+ 7|   Douglas T.               |   55700 |       0 |folded|    |         |
+ 8|   JohnnyMac                |   48000 |     825 |folded|    |         |
+ 9|   Clarence Beeks           |   54575 |     825 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/20/18 07:21:42! Dealing a new hand
+! 11/20/18 07:21:42! No ante
+! 11/20/18 07:21:42! Bart Tichelman blinds $75
+! 11/20/18 07:21:42! Piney Boy blinds $150
+! 11/20/18 07:30:57! Jascha folds
+! 11/20/18 07:30:57! ThinkingPokerAndrew is on vacation and folds
+! 11/20/18 07:37:50! Douglas T. folds
+! 11/20/18 07:37:50! JohnnyMac calls 
+! 11/20/18 08:16:05! Clarence Beeks calls 
+! 11/20/18 11:51:53! TheTsunami raises $675 to $825 total 
+! 11/20/18 11:51:53! Rich Guidoboni folds
+! 11/20/18 11:51:53! Bart Tichelman folds
+! 11/20/18 11:56:59! Piney Boy calls 
+! 11/20/18 12:12:35! JohnnyMac calls 
+! 11/20/18 12:19:30! Clarence Beeks calls 
+
+! 11/20/18 12:19:30! Pot right ($3375), flopping/dealing/drawing cards
+! 11/20/18 12:19:30! 4 players
+! 11/20/18 12:19:30! Flopped cards: Ad 2c 4s
+! 11/20/18 12:22:11! Piney Boy checks
+! 11/20/18 12:23:19! JohnnyMac checks
+! 11/20/18 12:26:04! Clarence Beeks checks
+! 11/20/18 12:27:22! TheTsunami bets $3375 
+! 11/20/18 12:29:29! Piney Boy calls 
+! 11/20/18 12:30:49! JohnnyMac folds
+! 11/20/18 12:38:16! Clarence Beeks folds
+
+! 11/20/18 12:38:16! Pot right ($10125), flopping/dealing/drawing cards
+! 11/20/18 12:38:16! 2 players
+! 11/20/18 12:38:16! Flopped card: 8s
+! 11/20/18 12:39:16! Piney Boy checks
+! 11/20/18 12:40:14! TheTsunami checks
+
+! 11/20/18 12:40:14! Pot right ($10125), flopping/dealing/drawing cards
+! 11/20/18 12:40:14! 2 players
+! 11/20/18 12:40:14! Flopped card: Ks
+! 11/20/18 12:40:52! Piney Boy checks
+! 11/20/18 12:42:34! TheTsunami bets $10125 
+! 11/20/18 12:43:43! Piney Boy calls 
+! Hand over, current board is:  Ad 2c 4s 8s Ks
+! TheTsunami               has: As 7c
+! Piney Boy                has: 9s 9h
+! TheTsunami wins $30375 (net $16050) with One Pair (A A K 8 7)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  TheTsunami               |   79800 |         |      |    |         |
+ 2|   Rich Guidoboni           |  103000 |         |      |    |         |
+ 3|D  Bart Tichelman           |   40100 |         |      |    |         |
+ 4|   Piney Boy                |   34425 |         |      |    |         |
+ 5|   Jascha                   |   34400 |         |      |    |         |
+ 6|V  ThinkingPokerAndrew      |   47900 |         |<Gone>|    |         |
+ 7|   Douglas T.               |   55700 |         |      |    |         |
+ 8|   JohnnyMac                |   48000 |         |      |    |         |
+ 9|   Clarence Beeks           |   54575 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 572 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b12.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 4
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

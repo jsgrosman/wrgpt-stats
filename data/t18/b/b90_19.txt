@@ -1,0 +1,107 @@
+Message-Id: <200812081633.mB8GXYKp020275@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+Reply-To: dealer@wrgpt.org
+From: dealer@wrgpt.org
+Subject: [b90.10237] Holdem Game Broadcast Message(*)          
+
+! Table b90, Hand 19, Day 36
+
+! DroogieDroog folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Poker Ken                |  31900 |      0 |folded|    |        |
+ 2|>  DroogieDroog             |  13450 |   4400 |folded|    |        |
+ 3|V  Warren Usui              |  19250 |      0 |<AWOL>|    |        |
+ 4|D  Shyam Markus             |  31000 |      0 |folded|    |        |
+ 5|   fich                     |  18100 |    200 |folded|    |        |
+ 6|   couchtater               |  18300 |    400 |folded|    |        |
+ 7|   Smeagol                  |  15200 |      0 |folded|    |        |
+ 8|   jasong            |      0 |  32700 |all-in|    |        |
+ 9|   calemb10                 |  18600 |   1600 |folded|    |        |
+10|   Ray Powers               |  14900 |      0 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 12/05/08 01:29:07! Dealing a new hand
+! 12/05/08 01:29:07! No ante
+! 12/05/08 01:29:07! fich blinds $200
+! 12/05/08 01:29:07! couchtater blinds $400
+! 12/05/08 07:44:49! Smeagol folds
+! 12/05/08 07:44:49! jasong calls 
+! 12/05/08 07:46:32! calemb10 calls 
+! 12/05/08 07:46:32! Ray Powers folds
+! 12/05/08 10:18:50! Poker Ken folds
+! 12/05/08 10:18:50! DroogieDroog raises $1200 
+! 12/05/08 10:18:50! Warren Usui is on vacation and folds
+! 12/05/08 10:18:50! Shyam Markus folds
+! 12/05/08 10:40:49! fich folds
+! 12/05/08 14:53:27! couchtater folds
+! 12/05/08 14:53:27! jasong calls 
+! 12/08/08 05:03:54! calemb10 calls 
+
+! 12/08/08 05:03:54! Pot right ($5400), flopping/dealing/drawing cards
+! 12/08/08 05:03:54! 3 players
+! 12/08/08 05:03:54! Flopped cards: 4h 3s 7s
+! 12/08/08 06:44:26! jasong bets $2800 
+! 12/08/08 06:45:39! calemb10 folds
+! 12/08/08 06:49:13! DroogieDroog calls 
+
+! 12/08/08 06:49:13! Pot right ($11000), flopping/dealing/drawing cards
+! 12/08/08 06:49:13! 2 players
+! 12/08/08 06:49:13! Flopped card: Qc
+! 12/08/08 06:51:52! jasong bets $28300 and is all in
+! 12/08/08 08:33:34! DroogieDroog folds
+! Hand over, no showdown
+! Current board is:  4h 3s 7s Qc ?
+! jasong wins $39300 (net $6600)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Poker Ken                |  31900 |        |      |    |        |
+ 2|>  DroogieDroog             |  13450 |        |      |    |        |
+ 3|V  Warren Usui              |  19250 |        |<AWOL>|    |        |
+ 4|   Shyam Markus             |  31000 |        |      |    |        |
+ 5|D  fich                     |  18100 |        |      |    |        |
+ 6|   couchtater               |  18300 |        |      |    |        |
+ 7|   Smeagol                  |  15200 |        |      |    |        |
+ 8|   jasong            |  39300 |        |      |    |        |
+ 9|   calemb10                 |  18600 |        |      |    |        |
+10|   Ray Powers               |  14900 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 915 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b90.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+There will be no more live redraws for the "B" round.
+We will continue until one or more tables is down
+to five or less players.
+
+If you are on vacation for 45 days you will be 
+removed from the tourney.  Exceptions will be made 
+only in the case of telling the floorman why you
+have a good reason to be gone for 45 days before
+the 45 days have elapsed.
+
+Live Redraw Status as of 12/08/08 08:25:02 AM
+
+Total Empty Seats: 45
+Total Playing Seats: 915
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org
+

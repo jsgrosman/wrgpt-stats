@@ -1,0 +1,101 @@
+Message-Id: <201012102344.oBANikAf025649@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [b20.10557] Holdem Game Broadcast Message(*)                          
+
+! Table b20, Hand 48, Day 40
+
+! JackBlack folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|D  Ross Porter              |      0 |  13650 |all-in|    |        |
+ 2|   Cyberchomp               |  31775 |    200 |folded|    |        |
+ 3|   Swamp Duff               |  47450 |    400 |folded|    |        |
+ 4|   Blacktav                 |  51700 |   2500 |folded|    |        |
+ 5|   jasong            |  74400 |      0 |folded|    |        |
+ 6|   Andrew Nelson            |  22400 |   2500 |folded|    |        |
+ 7|   plankton                 |  73075 |      0 |folded|    |        |
+ 9|   Greg Folla               |  55900 |      0 |folded|    |        |
+10|>  JackBlack                |  46450 |   2500 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 12/09/10 07:25:02! Dealing a new hand
+! 12/09/10 07:25:02! No ante
+! 12/09/10 07:25:02! Cyberchomp blinds $200
+! 12/09/10 07:25:02! Swamp Duff blinds $400
+! 12/09/10 07:39:45! Blacktav raises $400 
+! 12/09/10 07:39:45! jasong folds
+! 12/09/10 08:47:47! Andrew Nelson calls 
+! 12/09/10 08:47:47! plankton folds
+! 12/09/10 08:47:47! Late Entry 2 is on vacation and folds
+! 12/09/10 08:52:27! Greg Folla folds
+! 12/09/10 09:48:07! JackBlack calls 
+! 12/09/10 10:18:13! Ross Porter raises $1700 
+! 12/09/10 12:15:58! Cyberchomp folds
+! 12/09/10 12:15:58! Swamp Duff folds
+! 12/09/10 12:15:58! Blacktav calls 
+! 12/09/10 13:45:57! Andrew Nelson calls 
+! 12/09/10 14:10:25! JackBlack calls 
+
+! 12/09/10 14:10:25! Pot right ($10600), flopping/dealing/drawing cards
+! 12/09/10 14:10:25! 4 players
+! 12/09/10 14:10:25! Flopped cards: 4d Qs 9c
+! 12/09/10 14:36:48! Blacktav checks
+! 12/10/10 10:45:02! Andrew Nelson checks
+! 12/10/10 11:49:44! JackBlack checks
+! 12/10/10 11:54:20! Ross Porter bets $11150 and is all in
+! 12/10/10 15:11:55! Blacktav folds
+! 12/10/10 15:11:55! Andrew Nelson folds
+! 12/10/10 15:44:45! JackBlack folds
+! Hand over, no showdown
+! Current board is:  4d Qs 9c ? ?
+! Ross Porter wins $21750 (net $8100)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Ross Porter              |  21750 |        |      |    |        |
+ 2|D  Cyberchomp               |  31775 |        |      |    |        |
+ 3|   Swamp Duff               |  47450 |        |      |    |        |
+ 4|   Blacktav                 |  51700 |        |      |    |        |
+ 5|   jasong            |  74400 |        |      |    |        |
+ 6|   Andrew Nelson            |  22400 |        |      |    |        |
+ 7|   plankton                 |  73075 |        |      |    |        |
+ 9|   Greg Folla               |  55900 |        |      |    |        |
+10|>  JackBlack                |  46450 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! Andrew Nelson timed out during this hand
+! 715 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b20.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Players who have not shown up to WRGPT20 yet are being removed.
+
+If you are absent for 45 days without letting the floorman know
+you will also be removed.
+
+If you have any problems send mail to floorman20@wrgpt.org.
+
+Live Redraw Status as of 12/10/10 03:25:01 PM
+
+Total Empty Seats: 10
+Total Playing Seats: 710
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org or follow "wrgpt" on Twitter.
+

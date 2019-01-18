@@ -1,0 +1,128 @@
+Subject: [b6.10026] Holdem Game Broadcast Message(*)
+
+! Table b6, Hand 1, Day 3
+
+! Moccasin Johnny Return checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|DV Romeo Alexander          |   50000 |       0 | NoSho|    |         |
+ 2|   HotSoup                  |   49650 |     350 |folded|    |         |
+ 3|>  888                      |   46300 |    3700 |      |    |         |
+ 4|   Mark Ballinger           |   50000 |       0 |folded|    |         |
+ 5|   Felix Leiter             |   50000 |       0 |folded|    |         |
+ 6|   AveCat                   |   50000 |       0 |folded|    |         |
+ 7|   Moccasin Johnny Return   |   46300 |    3700 |      |    |         |
+ 8|   jpchiefs                 |   50000 |       0 |folded|    |         |
+ 9|   Dwayne Martins           |   50000 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/12/18 02:07:30! Mark Ballinger is back from vacation
+! 11/12/18 02:27:36! 888 is back from vacation
+! 11/12/18 03:50:03! HotSoup is back from vacation
+! 11/12/18 04:24:28! Felix Leiter is back from vacation
+! 11/12/18 04:48:28! jpchiefs is back from vacation
+! 11/12/18 06:53:05! Dwayne Martins is back from vacation
+! 11/12/18 07:01:40! AveCat is back from vacation
+! 11/12/18 07:05:58! Moccasin Johnny Return is back from vacation
+! 11/13/18 00:05:51! Dealing a new hand
+! 11/13/18 00:05:51! No ante
+! 11/13/18 00:05:51! HotSoup blinds $75
+! 11/13/18 00:05:51! 888 blinds $150
+! 11/13/18 05:46:28! Mark Ballinger folds
+! 11/13/18 10:10:07! Felix Leiter folds
+! 11/13/18 10:28:46! AveCat folds
+! 11/13/18 11:55:47! Moccasin Johnny Return raises $200 to $350 total 
+! 11/13/18 12:14:38! jpchiefs folds
+! 11/13/18 14:45:01! Dwayne Martins folds
+! 11/13/18 14:45:01! Romeo Alexander is on vacation and folds
+! 11/13/18 18:42:15! HotSoup calls 
+! 11/13/18 19:11:07! 888 raises $1150 to $1500 total 
+! 11/14/18 03:05:03! Moccasin Johnny Return calls 
+! 11/14/18 03:57:19! HotSoup folds
+
+! 11/14/18 03:57:19! Pot right ($3350), flopping/dealing/drawing cards
+! 11/14/18 03:57:19! 2 players
+! 11/14/18 03:57:19! Flopped cards: 10s Qc 5h
+! 11/14/18 04:05:12! 888 checks
+! 11/14/18 05:45:41! Moccasin Johnny Return bets $2200 
+! 11/14/18 06:48:08! 888 calls 
+
+! 11/14/18 06:48:08! Pot right ($7750), flopping/dealing/drawing cards
+! 11/14/18 06:48:08! 2 players
+! 11/14/18 06:48:08! Flopped card: 4s
+! 11/14/18 07:31:07! 888 checks
+! 11/14/18 09:15:53! Moccasin Johnny Return checks
+
+! 11/14/18 09:15:53! Pot right ($7750), flopping/dealing/drawing cards
+! 11/14/18 09:15:53! 2 players
+! 11/14/18 09:15:53! Flopped card: Kd
+! 11/14/18 10:02:08! 888 checks
+! 11/14/18 10:09:15! Moccasin Johnny Return checks
+! Hand over, current board is:  10s Qc 5h 4s Kd
+! 888                      has: Ah Kh
+! Moccasin Johnny Return   has: 10h Ad
+! 888 wins $7750 (net $4050) with One Pair (K K A Q 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|V  Romeo Alexander          |   50000 |         | NoSho|    |         |
+ 2|D  HotSoup                  |   49650 |         |      |    |         |
+ 3|>  888                      |   54050 |         |      |    |         |
+ 4|   Mark Ballinger           |   50000 |         |      |    |         |
+ 5|   Felix Leiter             |   50000 |         |      |    |         |
+ 6|   AveCat                   |   50000 |         |      |    |         |
+ 7|   Moccasin Johnny Return   |   46300 |         |      |    |         |
+ 8|   jpchiefs                 |   50000 |         |      |    |         |
+ 9|   Dwayne Martins           |   50000 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 585 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b6.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 7
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

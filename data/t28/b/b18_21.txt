@@ -1,0 +1,133 @@
+Subject: [b18.10239] Holdem Game Broadcast Message(*)
+
+% I hate poker. ;-)
+% On Thu, Nov 29, 2018 at 4:34 PM <dealer@wrgpt.org> wrote:
+% (dealer suppressed lines starting with '>' or ':')
+! -- Russ Bryan --
+_____________________________________________________________________________
+
+! Table b18, Hand 21, Day 18
+
+! Russ Bryan folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Barton                   |   99450 |       0 |folded|    |         |
+ 2|   Tarpon907                |   46825 |       0 |folded|    |         |
+ 3|   Grlalx                   |   47750 |       0 |folded|    |         |
+ 4|D  SJL                      |   50525 |       0 |folded|    |         |
+ 5|   jokerdpo                 |   93050 |     300 |folded|    |         |
+ 6|>  Russ Bryan               |   29175 |    4700 |folded|    |         |
+ 7|V  TOMCAT                   |   49550 |       0 | NoSho|    |         |
+ 8|   Se4Wong4                 |   15700 |       0 |folded|    |         |
+ 9|   w0m84t                   |       0 |   17850 |all-in|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/28/18 16:25:34! Dealing a new hand
+! 11/28/18 16:25:34! No ante
+! 11/28/18 16:25:34! jokerdpo blinds $150
+! 11/28/18 16:25:34! Russ Bryan blinds $300
+! 11/28/18 16:25:34! TOMCAT is on vacation and folds
+! 11/28/18 16:33:59! Se4Wong4 folds
+! 11/28/18 19:26:02! w0m84t calls 
+! 11/28/18 19:26:02! Barton folds
+! 11/28/18 19:26:02! Tarpon907 folds
+! 11/28/18 19:26:47! Grlalx folds
+! 11/28/18 19:27:35! SJL folds
+! 11/29/18 07:08:41! jokerdpo calls 
+! 11/29/18 08:01:24! Russ Bryan checks
+
+! 11/29/18 08:01:24! Pot right ($900), flopping/dealing/drawing cards
+! 11/29/18 08:01:24! 3 players
+! 11/29/18 08:01:24! Flopped cards: 5c 3c Qh
+! 11/29/18 08:03:02! jokerdpo checks
+! 11/29/18 08:04:02! Russ Bryan bets $600 
+! 11/29/18 09:07:41! w0m84t calls 
+! 11/29/18 09:07:41! jokerdpo folds
+
+! 11/29/18 09:07:41! Pot right ($2100), flopping/dealing/drawing cards
+! 11/29/18 09:07:41! 2 players
+! 11/29/18 09:07:41! Flopped card: 7c
+! 11/29/18 09:14:52! Russ Bryan bets $1800 
+! 11/29/18 13:26:54! w0m84t calls 
+
+! 11/29/18 13:26:54! Pot right ($5700), flopping/dealing/drawing cards
+! 11/29/18 13:26:54! 2 players
+! 11/29/18 13:26:54! Flopped card: 4c
+! 11/29/18 13:34:03! Russ Bryan bets $2000 
+! 11/29/18 13:34:03! w0m84t raises $13150 to $15150 total and is all in
+_____________________________________________________________________________
+
+! I hate poker. ;-)
+! On Thu, Nov 29, 2018 at 4:34 PM <dealer@wrgpt.org> wrote:
+! (dealer suppressed lines starting with '>' or ':')
+! -- Russ Bryan --
+_____________________________________________________________________________
+
+! 11/29/18 13:35:01! Russ Bryan folds
+! Hand over, no showdown
+! Current board is:  5c 3c Qh 7c 4c
+! w0m84t wins $22850 (net $5000)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Barton                   |   99450 |         |      |    |         |
+ 2|   Tarpon907                |   46825 |         |      |    |         |
+ 3|   Grlalx                   |   47750 |         |      |    |         |
+ 4|   SJL                      |   50525 |         |      |    |         |
+ 5|D  jokerdpo                 |   93050 |         |      |    |         |
+ 6|>  Russ Bryan               |   29175 |         |      |    |         |
+ 7|V  TOMCAT                   |   49550 |         | NoSho|    |         |
+ 8|   Se4Wong4                 |   15700 |         |      |    |         |
+ 9|   w0m84t                   |   22850 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 548 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b18.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 10
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

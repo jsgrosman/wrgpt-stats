@@ -1,0 +1,116 @@
+
+! Table c30, Hand 142, Day 82
+
+! shinsook checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   SmBoatDrinks             |  244150 |     200 |folded|    |         |
+ 2|   shinsook                 |  103975 |    5800 |      |    |         |
+ 3|   jasong            |   48250 |     200 |folded|    |         |
+ 5|D  slugbot                  |   43400 |     200 |folded|    |         |
+ 6|   Morgan                   |   14100 |     800 |folded|    |         |
+ 7|>  Oldbear                  |   55700 |    5800 |      |    |         |
+ 8|   TomasL                   |       0 |    5800 |all-in|    |         |
+ 9|   Fuhzee                   |   58950 |     200 |folded|    |         |
+10|   Brent Widmark            |   49750 |     200 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/05/17 23:56:47! Dealing a new hand
+! 01/05/17 23:56:47! Everyone antes $200
+! 01/05/17 23:56:47! Morgan blinds $600
+! 01/05/17 23:56:47! Oldbear blinds $1200
+! 01/06/17 00:00:57! TomasL raises $4400 and is all in
+! 01/06/17 06:44:19! Fuhzee folds
+! 01/06/17 07:03:54! Brent Widmark folds
+! 01/06/17 07:03:54! SmBoatDrinks folds
+! 01/06/17 09:36:50! shinsook calls 
+! 01/06/17 09:36:50! jasong folds
+! 01/06/17 09:36:50! slugbot folds
+! 01/06/17 09:41:06! Morgan folds
+! 01/06/17 11:07:38! Oldbear calls 
+
+! 01/06/17 11:07:38! Pot right ($19200), flopping/dealing/drawing cards
+! 01/06/17 11:07:38! 3 players, 1 all in
+! 01/06/17 11:07:38! Flopped cards: 9s 3d Jc
+! 01/06/17 11:08:21! Oldbear checks
+! 01/06/17 11:32:21! shinsook checks
+
+! 01/06/17 11:32:21! Pot right ($19200), flopping/dealing/drawing cards
+! 01/06/17 11:32:21! 3 players, 1 all in
+! 01/06/17 11:32:21! Flopped card: 4d
+! 01/06/17 12:10:24! Oldbear checks
+! 01/06/17 12:11:38! shinsook checks
+
+! 01/06/17 12:11:38! Pot right ($19200), flopping/dealing/drawing cards
+! 01/06/17 12:11:38! 3 players, 1 all in
+! 01/06/17 12:11:38! Flopped card: 8d
+! 01/06/17 12:36:54! Oldbear checks
+! 01/06/17 12:43:10! shinsook checks
+! Hand over, current board is:  9s 3d Jc 4d 8d
+! shinsook                 has: Ac 9c
+! Oldbear                  has: 8s Qh
+! TomasL                   has: 2s 6h
+! shinsook wins $19200 (net $13400) with One Pair (9 9 A J 8)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   SmBoatDrinks             |  244150 |         |      |    |         |
+ 2|   shinsook                 |  123175 |         |      |    |         |
+ 3|   jasong            |   48250 |         |      |    |         |
+ 5|   slugbot                  |   43400 |         |      |    |         |
+ 6|D  Morgan                   |   14100 |         |      |    |         |
+ 7|>  Oldbear                  |   55700 |         |      |    |         |
+ 9|   Fuhzee                   |   58950 |         |      |    |         |
+10|   Brent Widmark            |   49750 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! TomasL is eliminated!
+! 305 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c30.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+======
+
+Live Redraw Status as of 01/06/17 12:25:02 PM
+
+Total Empty Seats: 24
+Total Playing Seats: 306
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman26@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

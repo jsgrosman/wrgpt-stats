@@ -1,0 +1,110 @@
+Subject: [c15.10039] Holdem Game Broadcast Message(*)
+
+! Table c15, Hand 150, Day 58
+
+! underdog folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   underdog                 |   27300 |    2100 |folded|    |         |
+ 2|   Alvin Chipmunk           |   34250 |     100 |folded|    |         |
+ 3|D> WhyImHere                |   57950 |    5300 |      |    |         |
+ 4|   T4                       |   19750 |     350 |folded|    |         |
+ 5|   Wally F                  |  106775 |     600 |folded|    |         |
+ 6|   Morgan                   |   37650 |     100 |folded|    |         |
+ 7|   asypta                   |   81950 |    2100 |folded|    |         |
+ 8|   MarinaMan                |   30750 |     100 |folded|    |         |
+ 9|   Chris Danek              |  100600 |     100 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/08/19 09:37:15! Dealing a new hand
+! 01/08/19 09:37:15! Everyone antes $100
+! 01/08/19 09:37:15! T4 blinds $250
+! 01/08/19 09:37:15! Wally F blinds $500
+! 01/08/19 09:49:14! Morgan folds
+! 01/08/19 10:18:03! asypta calls 
+! 01/08/19 10:18:03! MarinaMan folds
+! 01/08/19 10:22:30! Chris Danek folds
+! 01/08/19 10:22:30! underdog calls 
+! 01/08/19 10:22:30! Alvin Chipmunk folds
+! 01/08/19 10:30:56! WhyImHere raises $1500 to $2000 total 
+! 01/08/19 10:31:51! T4 folds
+! 01/08/19 11:08:52! Wally F folds
+! 01/08/19 11:47:43! asypta calls 
+! 01/08/19 11:47:43! underdog calls 
+
+! 01/08/19 11:47:43! Pot right ($7650), flopping/dealing/drawing cards
+! 01/08/19 11:47:43! 3 players
+! 01/08/19 11:47:43! Flopped cards: Js Ac 9c
+! 01/08/19 12:10:42! asypta checks
+! 01/08/19 12:10:42! underdog checks
+! 01/08/19 12:12:34! WhyImHere checks
+
+! 01/08/19 12:12:34! Pot right ($7650), flopping/dealing/drawing cards
+! 01/08/19 12:12:34! 3 players
+! 01/08/19 12:12:34! Flopped card: 7h
+! 01/08/19 12:17:11! asypta checks
+! 01/08/19 12:38:34! underdog checks
+! 01/08/19 12:47:07! WhyImHere bets $3200 
+! 01/08/19 12:51:17! asypta folds
+! 01/08/19 13:24:44! underdog folds
+! Hand over, no showdown
+! Current board is:  Js Ac 9c 7h ?
+! WhyImHere wins $10850 (net $5550)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   underdog                 |   27300 |         |      |    |         |
+ 2|   Alvin Chipmunk           |   34250 |         |      |    |         |
+ 3|>  WhyImHere                |   68800 |         |      |    |         |
+ 4|D  T4                       |   19750 |         |      |    |         |
+ 5|   Wally F                  |  106775 |         |      |    |         |
+ 6|   Morgan                   |   37650 |         |      |    |         |
+ 7|   asypta                   |   81950 |         |      |    |         |
+ 8|   MarinaMan                |   30750 |         |      |    |         |
+ 9|   Chris Danek              |  100600 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 393 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c15.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+The "c" round has started.  Good luck to all
+the remaining players.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 4
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

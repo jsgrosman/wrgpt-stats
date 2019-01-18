@@ -1,0 +1,114 @@
+Subject: [c10.10130] Holdem Game Broadcast Message(*)
+
+! Table c10, Hand 159, Day 66
+
+! Rich Guidoboni checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  Kahomono                 |   81575 |    2400 |      |    |         |
+ 2|   Rich Guidoboni           |  117100 |    2400 |      |    |         |
+ 3|D  Olof Siverbo             |  136975 |     100 |folded|    |         |
+ 4|   DroogieDroog             |   44900 |     600 |folded|    |         |
+ 5|   stannius                 |   53025 |     600 |folded|    |         |
+ 6|   Otto                     |  178325 |     100 |folded|    |         |
+ 7|   SunnyGirl                |   68650 |     600 |folded|    |         |
+ 8|V  Blind Owl                |   77300 |     100 |<AWOL>|    |         |
+ 9|   Sandy                    |   41125 |     100 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/15/19 06:15:23! Dealing a new hand
+! 01/15/19 06:15:23! Everyone antes $100
+! 01/15/19 06:15:23! DroogieDroog blinds $250
+! 01/15/19 06:15:23! stannius blinds $500
+! 01/15/19 07:24:36! Otto folds
+! 01/15/19 17:13:26! SunnyGirl calls 
+! 01/15/19 17:13:26! Blind Owl is on vacation and folds
+! 01/15/19 17:13:26! Sandy folds
+! 01/15/19 17:35:57! Kahomono calls 
+! 01/15/19 17:38:11! Rich Guidoboni calls 
+! 01/15/19 17:38:11! Olof Siverbo folds
+! 01/15/19 17:38:11! DroogieDroog calls 
+! 01/15/19 17:38:11! stannius checks
+
+! 01/15/19 17:38:11! Pot right ($3400), flopping/dealing/drawing cards
+! 01/15/19 17:38:11! 5 players
+! 01/15/19 17:38:11! Flopped cards: 6s 7d 4s
+! 01/15/19 19:31:27! DroogieDroog checks
+! 01/15/19 19:33:57! stannius checks
+! 01/15/19 20:13:12! SunnyGirl checks
+! 01/15/19 21:25:42! Kahomono bets $1800 
+! 01/16/19 02:44:31! Rich Guidoboni calls 
+! 01/16/19 06:00:52! DroogieDroog folds
+! 01/16/19 06:47:19! stannius folds
+! 01/16/19 08:02:07! SunnyGirl folds
+
+! 01/16/19 08:02:07! Pot right ($7000), flopping/dealing/drawing cards
+! 01/16/19 08:02:07! 2 players
+! 01/16/19 08:02:07! Flopped card: 8d
+! 01/16/19 08:08:54! Kahomono checks
+! 01/16/19 08:31:47! Rich Guidoboni checks
+
+! 01/16/19 08:31:47! Pot right ($7000), flopping/dealing/drawing cards
+! 01/16/19 08:31:47! 2 players
+! 01/16/19 08:31:47! Flopped card: Kc
+! 01/16/19 08:44:58! Kahomono checks
+! 01/16/19 08:58:55! Rich Guidoboni checks
+! Hand over, current board is:  6s 7d 4s 8d Kc
+! Kahomono                 has: Ah 7h
+! Rich Guidoboni           has: Qs 7c
+! Kahomono wins $7000 (net $4600) with One Pair (7 7 A K 8)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  Kahomono                 |   88575 |         |      |    |         |
+ 2|   Rich Guidoboni           |  117100 |         |      |    |         |
+ 3|   Olof Siverbo             |  136975 |         |      |    |         |
+ 4|D  DroogieDroog             |   44900 |         |      |    |         |
+ 5|   stannius                 |   53025 |         |      |    |         |
+ 6|   Otto                     |  178325 |         |      |    |         |
+ 7|   SunnyGirl                |   68650 |         |      |    |         |
+ 8|V  Blind Owl                |   77300 |         |<AWOL>|    |         |
+ 9|   Sandy                    |   41125 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 368 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c10.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 5
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

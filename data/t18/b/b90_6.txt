@@ -1,0 +1,105 @@
+Message-Id: <200811112014.mABKEdMK027557@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+Reply-To: dealer@wrgpt.org
+From: dealer@wrgpt.org
+Subject: [b90.10084] Holdem Game Broadcast Message(*)          
+
+! Table b90, Hand 6, Day 9
+
+! Smeagol folds
+! jasong folds
+! calemb10 folds
+! Ray Powers folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|D  Poker Ken                |  21400 |      0 |folded|    |        |
+ 2|>  DroogieDroog             |  17200 |   1300 |      |    |        |
+ 3|   Warren Usui              |  19900 |    100 |folded|    |        |
+ 4|   Shyam Markus             |  17600 |      0 |folded|    |        |
+ 5|   fich                     |  19150 |      0 |folded|    |        |
+ 6|   couchtater               |  19950 |      0 |folded|    |        |
+ 7|   Smeagol                  |  19600 |    100 |folded|    |        |
+ 8|   jasong            |  33000 |    100 |folded|    |        |
+ 9|   calemb10                 |  18950 |    100 |folded|    |        |
+10|   Ray Powers               |  31450 |    100 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 11/10/08 17:25:04! Dealing a new hand
+! 11/10/08 17:25:04! No ante
+! 11/10/08 17:25:04! DroogieDroog blinds $50
+! 11/10/08 17:25:04! Warren Usui blinds $100
+! 11/11/08 03:51:09! Shyam Markus folds
+! 11/11/08 03:51:09! fich folds
+! 11/11/08 03:51:09! couchtater folds
+! 11/11/08 03:51:09! Smeagol calls 
+! 11/11/08 05:18:25! jasong calls 
+! 11/11/08 05:42:37! calemb10 calls 
+! 11/11/08 06:01:05! Ray Powers calls 
+! 11/11/08 06:01:05! Poker Ken folds
+! 11/11/08 06:09:57! DroogieDroog calls 
+! 11/11/08 06:09:57! Warren Usui checks
+
+! 11/11/08 06:09:57! Pot right ($600), flopping/dealing/drawing cards
+! 11/11/08 06:09:57! 6 players
+! 11/11/08 06:09:57! Flopped cards: Jh Kc 8h
+! 11/11/08 06:45:08! DroogieDroog checks
+! 11/11/08 06:45:08! Warren Usui checks
+! 11/11/08 07:41:47! Smeagol checks
+! 11/11/08 07:41:47! jasong checks
+! 11/11/08 08:05:00! calemb10 checks
+! 11/11/08 08:05:00! Ray Powers checks
+
+! 11/11/08 08:05:00! Pot right ($600), flopping/dealing/drawing cards
+! 11/11/08 08:05:00! 6 players
+! 11/11/08 08:05:00! Flopped card: Jd
+! 11/11/08 09:24:31! DroogieDroog bets $1200 
+! 11/11/08 09:24:31! Warren Usui folds
+! 11/11/08 12:14:38! Smeagol folds
+! 11/11/08 12:14:38! jasong folds
+! 11/11/08 12:14:38! calemb10 folds
+! 11/11/08 12:14:38! Ray Powers folds
+! Hand over, no showdown
+! Current board is:  Jh Kc 8h Jd ?
+! DroogieDroog wins $1800 (net $500)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Poker Ken                |  21400 |        |      |    |        |
+ 2|D> DroogieDroog             |  19000 |        |      |    |        |
+ 3|   Warren Usui              |  19900 |        |      |    |        |
+ 4|   Shyam Markus             |  17600 |        |      |    |        |
+ 5|   fich                     |  19150 |        |      |    |        |
+ 6|   couchtater               |  19950 |        |      |    |        |
+ 7|   Smeagol                  |  19600 |        |      |    |        |
+ 8|   jasong            |  33000 |        |      |    |        |
+ 9|   calemb10                 |  18950 |        |      |    |        |
+10|   Ray Powers               |  31450 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 1042 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+TOURNEY INFORMATION
+
+
+NOTICE:
+
+Take the WRGPT18 survey at: http://www.wrgpt.org/survey
+
+Be careful with the MAKE command.  It means to push
+that many more chips into the pot ignoring what you
+already have out there (including your blinds).  It
+takes no action if the bet is not legal or enough.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org
+

@@ -1,0 +1,112 @@
+Subject: [c11.10152] Holdem Game Broadcast Message(*)
+
+! Table c11, Hand 162, Day 64
+
+! jockamo checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Keith Troell             |  120525 |     100 |folded|    |         |
+ 2|   Jim Sokoloff             |   96650 |     100 |folded|    |         |
+ 3|   UConn2004                |   64525 |     100 |folded|    |         |
+ 4|   Julie Greenberg          |  150275 |     100 |folded|    |         |
+ 5|   Ira Agins                |   30625 |     100 |folded|    |         |
+ 6|D  Ben Irving               |   51425 |     100 |folded|    |         |
+ 7|>  Mike Sager               |  118050 |     600 |      |    |         |
+ 8|   jockamo                  |   95150 |     600 |      |    |         |
+ 9|   Chaos                    |   54450 |     100 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/14/19 09:55:26! Dealing a new hand
+! 01/14/19 09:55:26! Everyone antes $100
+! 01/14/19 09:55:26! Mike Sager blinds $250
+! 01/14/19 09:55:26! jockamo blinds $500
+! 01/14/19 11:12:13! Chaos folds
+! 01/14/19 11:12:13! Keith Troell folds
+! 01/14/19 11:12:13! Jim Sokoloff folds
+! 01/14/19 11:28:32! UConn2004 folds
+! 01/14/19 11:28:32! Julie Greenberg folds
+! 01/14/19 11:28:32! Ira Agins folds
+! 01/14/19 11:28:32! Ben Irving folds
+! 01/14/19 11:34:27! Mike Sager calls 
+! 01/14/19 11:34:27! jockamo checks
+
+! 01/14/19 11:34:27! Pot right ($1900), flopping/dealing/drawing cards
+! 01/14/19 11:34:27! 2 players
+! 01/14/19 11:34:27! Flopped cards: Kd 4h 4s
+! 01/14/19 11:37:21! Mike Sager checks
+! 01/14/19 14:11:21! jockamo checks
+
+! 01/14/19 14:11:21! Pot right ($1900), flopping/dealing/drawing cards
+! 01/14/19 14:11:21! 2 players
+! 01/14/19 14:11:21! Flopped card: Jc
+! 01/14/19 14:38:25! Mike Sager checks
+! 01/14/19 14:39:43! jockamo checks
+
+! 01/14/19 14:39:43! Pot right ($1900), flopping/dealing/drawing cards
+! 01/14/19 14:39:43! 2 players
+! 01/14/19 14:39:43! Flopped card: 9c
+! 01/14/19 14:41:23! Mike Sager checks
+! 01/14/19 14:53:08! jockamo checks
+! Hand over, current board is:  Kd 4h 4s Jc 9c
+! Mike Sager               has: 5h 7c
+! jockamo                  has: 7s 8c
+! Mike Sager wins $950 (net $350) with One Pair (4 4 K J 9)
+! jockamo wins $950 (net $350) with One Pair (4 4 K J 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Keith Troell             |  120525 |         |      |    |         |
+ 2|   Jim Sokoloff             |   96650 |         |      |    |         |
+ 3|   UConn2004                |   64525 |         |      |    |         |
+ 4|   Julie Greenberg          |  150275 |         |      |    |         |
+ 5|   Ira Agins                |   30625 |         |      |    |         |
+ 6|   Ben Irving               |   51425 |         |      |    |         |
+ 7|D> Mike Sager               |  119000 |         |      |    |         |
+ 8|   jockamo                  |   96100 |         |      |    |         |
+ 9|   Chaos                    |   54450 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 372 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c11.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+The "c" round has started.  Good luck to all
+the remaining players.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

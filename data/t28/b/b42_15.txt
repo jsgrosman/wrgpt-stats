@@ -1,0 +1,124 @@
+Subject: [b42.10214] Holdem Game Broadcast Message(*)
+
+! Table b42, Hand 15, Day 11
+
+! David Kuznick checks
+! beowulf checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   WhyImHere                |   51550 |       0 |folded|    |         |
+ 2|   judy proteau             |   41500 |       0 |folded|    |         |
+ 3|   SpiderTribe              |   74800 |       0 |folded|    |         |
+ 4|   GwynnInTheHall           |   23600 |     500 |folded|    |         |
+ 5|   beowulf                  |   52750 |    1250 |      |    |         |
+ 6|D  DinoBravo                |   54200 |       0 |folded|    |         |
+ 7|>  David Kuznick            |   46300 |    1250 |      |    |         |
+ 8|   Sue N                    |   46925 |     500 |folded|    |         |
+ 9|   I_Bluff_Rivers           |   54875 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/21/18 07:20:54! Dealing a new hand
+! 11/21/18 07:20:54! No ante
+! 11/21/18 07:20:54! David Kuznick blinds $75
+! 11/21/18 07:20:54! Sue N blinds $150
+! 11/21/18 08:02:18! I_Bluff_Rivers folds
+! 11/21/18 09:06:54! WhyImHere folds
+! 11/21/18 09:13:04! judy proteau folds
+! 11/21/18 09:16:10! SpiderTribe folds
+! 11/21/18 09:51:42! GwynnInTheHall raises $350 to $500 total 
+! 11/21/18 09:55:26! beowulf calls 
+! 11/21/18 09:55:26! DinoBravo folds
+! 11/21/18 11:08:30! David Kuznick calls 
+! 11/21/18 11:40:33! Sue N calls 
+
+! 11/21/18 11:40:33! Pot right ($2000), flopping/dealing/drawing cards
+! 11/21/18 11:40:33! 4 players
+! 11/21/18 11:40:33! Flopped cards: 8s 5h 8c
+! 11/21/18 11:52:27! David Kuznick checks
+! 11/21/18 11:55:27! Sue N checks
+! 11/21/18 12:18:31! GwynnInTheHall checks
+! 11/21/18 12:21:21! beowulf bets $500 
+! 11/21/18 12:31:47! David Kuznick calls 
+! 11/21/18 12:33:30! Sue N folds
+! 11/21/18 15:42:30! GwynnInTheHall folds
+
+! 11/21/18 15:42:30! Pot right ($3000), flopping/dealing/drawing cards
+! 11/21/18 15:42:30! 2 players
+! 11/21/18 15:42:30! Flopped card: 10c
+! 11/21/18 17:36:33! David Kuznick checks
+! 11/22/18 00:02:03! beowulf bets $250 
+! 11/22/18 00:18:40! David Kuznick calls 
+
+! 11/22/18 00:18:40! Pot right ($3500), flopping/dealing/drawing cards
+! 11/22/18 00:18:40! 2 players
+! 11/22/18 00:18:40! Flopped card: 4h
+! 11/22/18 00:20:31! David Kuznick checks
+! 11/22/18 00:20:31! beowulf checks
+! Hand over, current board is:  8s 5h 8c 10c 4h
+! beowulf                  has: 5s Ad
+! David Kuznick            has: 7c 6c
+! David Kuznick wins $3500 (net $2250) with Straight (8 7 6 5 4)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   WhyImHere                |   51550 |         |      |    |         |
+ 2|   judy proteau             |   41500 |         |      |    |         |
+ 3|   SpiderTribe              |   74800 |         |      |    |         |
+ 4|   GwynnInTheHall           |   23600 |         |      |    |         |
+ 5|   beowulf                  |   52750 |         |      |    |         |
+ 6|   DinoBravo                |   54200 |         |      |    |         |
+ 7|D> David Kuznick            |   49800 |         |      |    |         |
+ 8|   Sue N                    |   46925 |         |      |    |         |
+ 9|   I_Bluff_Rivers           |   54875 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 568 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b42.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

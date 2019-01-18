@@ -1,0 +1,102 @@
+Message-Id: <201202092243.q19MhQiZ026233@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [c19.10228] Holdem Game Broadcast Message(*)                          
+
+! Table c19, Hand 94, Day 88
+
+! PrestoET calls - side pot
+! Pot right ($132325), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped card: 8d
+! Flopped card: 7c
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Anshu                    |  62450 |    200 |folded|    |        |
+ 2|D  bozo                     |  26000 |    200 |folded|    |        |
+ 3|   Linzk425                 |  23250 |    800 |folded|    |        |
+ 4|   Dalai Pookah             |  26400 |   1400 |folded|    |        |
+ 5|   swamper wlu_lax6         | 220500 |    200 |folded|    |        |
+ 6|>  PrestoET                 |      0 |  56450 |all-in|  2 | 116300 |
+ 7|   Tooner                   |      0 |  72475 |all-in|  1 |  16025 |
+ 8|   lameO                    |  44050 |    200 |folded|    |        |
+ 9|   jasong            |   1050 |    200 |folded|    |        |
+10|   TacoChuck                | 105725 |    200 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 02/09/12 07:30:43! Dealing a new hand
+! 02/09/12 07:30:43! Everyone antes $200
+! 02/09/12 07:30:43! Linzk425 blinds $600
+! 02/09/12 07:30:43! Dalai Pookah blinds $1200
+! 02/09/12 07:33:18! swamper wlu_lax6 folds
+! 02/09/12 07:35:34! PrestoET raises $3500 
+! 02/09/12 07:38:30! Tooner calls 
+! 02/09/12 07:38:30! lameO folds
+! 02/09/12 08:02:59! jasong folds
+! 02/09/12 08:39:50! TacoChuck folds
+! 02/09/12 08:39:50! Anshu folds
+! 02/09/12 08:39:50! bozo folds
+! 02/09/12 08:39:50! Linzk425 folds
+! 02/09/12 12:06:14! Dalai Pookah folds
+
+! 02/09/12 12:06:14! Pot right ($13200), flopping/dealing/drawing cards
+! 02/09/12 12:06:14! 2 players
+! 02/09/12 12:06:14! Flopped cards: 5c Kd 3s
+! 02/09/12 13:05:35! PrestoET bets $10000 
+! 02/09/12 13:47:26! Tooner raises $57575 and is all in
+! 02/09/12 14:43:26! PrestoET calls - side pot
+
+! 02/09/12 14:43:26! Pot right ($132325), flopping/dealing/drawing cards
+! 02/09/12 14:43:26! 2 players, 2 all in
+! 02/09/12 14:43:26! Flopped card: 8d
+! 02/09/12 14:43:26! Flopped card: 7c
+! Hand over, current board is:  5c Kd 3s 8d 7c
+! PrestoET                 has: 5d 6c
+! Tooner                   has: Kc Jc
+! Pot 1: uncalled $16025 returned to Tooner
+! Pot 2: Tooner wins $116300 with One Pair (K K J 8 7)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Anshu                    |  62450 |        |      |    |        |
+ 2|   bozo                     |  26000 |        |      |    |        |
+ 3|D  Linzk425                 |  23250 |        |      |    |        |
+ 4|   Dalai Pookah             |  26400 |        |      |    |        |
+ 5|   swamper wlu_lax6         | 220500 |        |      |    |        |
+ 7|   Tooner                   | 132325 |        |      |    |        |
+ 8|   lameO                    |  44050 |        |      |    |        |
+ 9|   jasong            |   1050 |        |      |    |        |
+10|   TacoChuck                | 105725 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! PrestoET is eliminated!
+! 412 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c19.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Having problems? Send email to floorman21@wrgpt.org.
+
+Live Redraw Status as of 02/09/12 02:25:01 PM
+
+Total Empty Seats: 27
+Total Playing Seats: 413
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+

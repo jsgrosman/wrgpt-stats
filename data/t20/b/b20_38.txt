@@ -1,0 +1,106 @@
+Message-Id: <201012021741.oB2HfUCi007809@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [b20.10448] Holdem Game Broadcast Message(*)                          
+
+! Table b20, Hand 38, Day 32
+
+! JackBlack folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Blacktav                 |  28200 |    400 |folded|    |        |
+ 2|   jasong            |  35125 |      0 |folded|    |        |
+ 3|   Andrew Nelson            |  25500 |      0 |folded|    |        |
+ 4|   plankton                 |  80575 |      0 |folded|    |        |
+ 5|   GZK                      |  16175 |      0 |folded|    |        |
+ 6|DV Late Entry 2             |  28650 |      0 | NoSho|    |        |
+ 7|   Greg Folla               |  56900 |    400 |folded|    |        |
+ 8|   JackBlack                |  51900 |    400 |folded|    |        |
+ 9|>  wlu_lax6                 |  33850 |   1400 |      |    |        |
+10|   Cyberchomp               |  31975 |      0 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 12/01/10 10:38:58! Dealing a new hand
+! 12/01/10 10:38:58! No ante
+! 12/01/10 10:38:58! Greg Folla blinds $200
+! 12/01/10 10:38:58! JackBlack blinds $400
+! 12/01/10 11:06:28! wlu_lax6 calls 
+! 12/01/10 14:46:32! Cyberchomp folds
+! 12/01/10 14:46:32! Blacktav calls 
+! 12/01/10 14:46:32! jasong folds
+! 12/01/10 14:46:32! Andrew Nelson folds
+! 12/01/10 14:46:32! plankton folds
+! 12/01/10 14:46:32! GZK folds
+! 12/01/10 14:46:32! Late Entry 2 is on vacation and folds
+! 12/02/10 04:59:55! Greg Folla calls 
+! 12/02/10 04:59:55! JackBlack checks
+
+! 12/02/10 04:59:55! Pot right ($1600), flopping/dealing/drawing cards
+! 12/02/10 04:59:55! 4 players
+! 12/02/10 04:59:55! Flopped cards: 4s 9d 7d
+! 12/02/10 05:58:10! Greg Folla checks
+! 12/02/10 06:38:01! JackBlack checks
+! 12/02/10 06:38:01! wlu_lax6 checks
+! 12/02/10 07:09:24! Blacktav checks
+
+! 12/02/10 07:09:24! Pot right ($1600), flopping/dealing/drawing cards
+! 12/02/10 07:09:24! 4 players
+! 12/02/10 07:09:24! Flopped card: Jh
+! 12/02/10 07:38:10! Greg Folla checks
+! 12/02/10 08:41:40! JackBlack checks
+! 12/02/10 08:47:25! wlu_lax6 bets $1000 
+! 12/02/10 09:32:18! Blacktav folds
+! 12/02/10 09:41:01! Greg Folla folds
+! 12/02/10 09:41:29! JackBlack folds
+! Hand over, no showdown
+! Current board is:  4s 9d 7d Jh ?
+! wlu_lax6 wins $2600 (net $1200)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Blacktav                 |  28200 |        |      |    |        |
+ 2|   jasong            |  35125 |        |      |    |        |
+ 3|   Andrew Nelson            |  25500 |        |      |    |        |
+ 4|   plankton                 |  80575 |        |      |    |        |
+ 5|   GZK                      |  16175 |        |      |    |        |
+ 6|V  Late Entry 2             |  28650 |        | NoSho|    |        |
+ 7|D  Greg Folla               |  56900 |        |      |    |        |
+ 8|   JackBlack                |  51900 |        |      |    |        |
+ 9|>  wlu_lax6                 |  36450 |        |      |    |        |
+10|   Cyberchomp               |  31975 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 770 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b20.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Good luck.
+
+If you have problems send mail to floorman20@wrgpt.org.
+
+Live Redraw Status as of 12/02/10 09:25:01 AM
+
+Total Empty Seats: 40
+Total Playing Seats: 770
+Live redraw in progress:
+Seats Needed: 28
+Seats Waiting: 0
+Moving Players Waiting: 0
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org or follow "wrgpt" on Twitter.
+

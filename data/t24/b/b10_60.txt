@@ -1,0 +1,122 @@
+
+! Table b10, Hand 60, Day 50
+
+! Kicksave checks
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Ralph MPN                |  53000 |     50 |folded|    |        |
+ 2|   Nate Meyvis              |  63900 |     50 |folded|    |        |
+ 3|   Kicksave                 |  29600 |    450 |      |    |        |
+ 4|   The Sound of Inevitabi   |  68350 |     50 |folded|    |        |
+ 5|   Swamper Brian            |  27625 |     50 |folded|    |        |
+ 6|   WayneFenster             |  43575 |     50 |folded|    |        |
+ 7|D  Kasey                    |  22425 |     50 |folded|    |        |
+ 8|   jasong            |  18200 |    250 |folded|    |        |
+ 9|>  Diputsur                 |  51125 |    450 |      |    |        |
+10|   Amar Patel               |  24150 |     50 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 12/28/14 14:00:03! Dealing a new hand
+! 12/28/14 14:00:03! Everyone antes $50
+! 12/28/14 14:00:03! jasong blinds $200
+! 12/28/14 14:00:03! Diputsur blinds $400
+! 12/28/14 14:10:09! Amar Patel folds
+! 12/28/14 14:45:24! Ralph MPN folds
+! 12/28/14 14:45:24! Nate Meyvis folds
+! 12/28/14 15:19:14! Kicksave calls 
+! 12/28/14 15:22:05! The Sound of Inevitabi folds
+! 12/29/14 08:30:28! Swamper Brian folds
+! 12/29/14 08:30:28! WayneFenster folds
+! 12/29/14 08:30:28! Kasey folds
+! 12/29/14 08:30:28! jasong folds
+! 12/29/14 08:30:28! Diputsur checks
+
+! 12/29/14 08:30:28! Pot right ($1500), flopping/dealing/drawing cards
+! 12/29/14 08:30:28! 2 players
+! 12/29/14 08:30:28! Flopped cards: Ah Qc 2d
+! 12/29/14 08:30:28! Diputsur checks
+! 12/29/14 08:38:54! Kicksave checks
+
+! 12/29/14 08:38:54! Pot right ($1500), flopping/dealing/drawing cards
+! 12/29/14 08:38:54! 2 players
+! 12/29/14 08:38:54! Flopped card: 8h
+! 12/29/14 08:38:54! Diputsur checks
+! 12/29/14 08:40:16! Kicksave checks
+
+! 12/29/14 08:40:16! Pot right ($1500), flopping/dealing/drawing cards
+! 12/29/14 08:40:16! 2 players
+! 12/29/14 08:40:16! Flopped card: 6h
+! 12/29/14 08:40:16! Diputsur checks
+! 12/29/14 08:50:03! Kicksave checks
+! Hand over, current board is:  Ah Qc 2d 8h 6h
+! Kicksave                 has: Jd 10c
+! Diputsur                 has: Kh 7d
+! Diputsur wins $1500 (net $1050) with No Pair (A K Q 8 7)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Ralph MPN                |  53000 |        |      |    |        |
+ 2|   Nate Meyvis              |  63900 |        |      |    |        |
+ 3|   Kicksave                 |  29600 |        |      |    |        |
+ 4|   The Sound of Inevitabi   |  68350 |        |      |    |        |
+ 5|   Swamper Brian            |  27625 |        |      |    |        |
+ 6|   WayneFenster             |  43575 |        |      |    |        |
+ 7|   Kasey                    |  22425 |        |      |    |        |
+ 8|D  jasong            |  18200 |        |      |    |        |
+ 9|>  Diputsur                 |  52625 |        |      |    |        |
+10|   Amar Patel               |  24150 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 534 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b10.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+There will be no more live redraws in round "b".  The tables
+will play until there are five or fewer on one table then all 
+other tables will complete their current hand and a full 
+redraw will be done.
+
+Good luck.
+
+======
+
+Live Redraw Status as of 12/29/14 08:25:02 AM
+
+Total Empty Seats: 16
+Total Playing Seats: 534
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+Here is a link to the railbird mailing list:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman24@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

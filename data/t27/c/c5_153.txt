@@ -1,0 +1,112 @@
+
+! Table c5, Hand 153, Day 89
+
+! swamperflaco folds
+! jasong folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   SwamperShirley           |   68450 |     300 |folded|    |         |
+ 2|   swamperflaco             |  177950 |    2300 |folded|    |         |
+ 3|   Deuce Seven Off Suit     |   29325 |     300 |folded|    |         |
+ 4|   jasong            |  182700 |    2300 |folded|    |         |
+ 5|D  MrTiggerGolf             |   66150 |     300 |folded|    |         |
+ 6|>  Patrick J Maher          |  120825 |    9300 |      |    |         |
+ 7|   Pete Nerozzi             |   56575 |    2300 |folded|    |         |
+ 8|   ArikK                    |  118500 |     300 |folded|    |         |
+ 9|   Feed the Herd            |   81950 |     300 |folded|    |         |
+10|   Richard Nixon            |   44275 |     300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/19/18 10:34:13! Dealing a new hand
+! 01/19/18 10:34:13! Everyone antes $300
+! 01/19/18 10:34:13! Patrick J Maher blinds $1000
+! 01/19/18 10:34:13! Pete Nerozzi blinds $2000
+! 01/19/18 10:38:53! ArikK folds
+! 01/19/18 10:40:55! Feed the Herd folds
+! 01/19/18 10:40:55! Richard Nixon folds
+! 01/19/18 10:41:53! SwamperShirley folds
+! 01/19/18 10:42:45! swamperflaco calls 
+! 01/19/18 10:54:00! Deuce Seven Off Suit folds
+! 01/19/18 10:54:00! jasong calls 
+! 01/19/18 11:24:02! MrTiggerGolf folds
+! 01/19/18 11:24:02! Patrick J Maher calls 
+! 01/19/18 11:28:24! Pete Nerozzi checks
+
+! 01/19/18 11:28:24! Pot right ($11000), flopping/dealing/drawing cards
+! 01/19/18 11:28:24! 4 players
+! 01/19/18 11:28:24! Flopped cards: 4s Qc 2s
+! 01/19/18 11:39:34! Patrick J Maher bets $7000 
+! 01/19/18 11:42:32! Pete Nerozzi folds
+! 01/19/18 12:13:58! swamperflaco folds
+! 01/19/18 12:13:58! jasong folds
+! Hand over, no showdown
+! Current board is:  4s Qc 2s ? ?
+! Patrick J Maher wins $18000 (net $8700)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   SwamperShirley           |   68450 |         |      |    |         |
+ 2|   swamperflaco             |  177950 |         |      |    |         |
+ 3|   Deuce Seven Off Suit     |   29325 |         |      |    |         |
+ 4|   jasong            |  182700 |         |      |    |         |
+ 5|   MrTiggerGolf             |   66150 |         |      |    |         |
+ 6|D> Patrick J Maher          |  138825 |         |      |    |         |
+ 7|   Pete Nerozzi             |   56575 |         |      |    |         |
+ 8|   ArikK                    |  118500 |         |      |    |         |
+ 9|   Feed the Herd            |   81950 |         |      |    |         |
+10|   Richard Nixon            |   44275 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 264 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c5.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Live Redraw Status as of 01/19/18 11:55:02 AM
+
+Total Empty Seats: 14
+Total Playing Seats: 266
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman27@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

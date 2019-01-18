@@ -1,0 +1,107 @@
+Subject: [b26.10827] Holdem Game Broadcast Message(*)
+
+! Table b26, Hand 68, Day 53
+
+! bozo folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Sam Parazette            |       0 |   20850 |all-in|    |         |
+ 2|V  UberHank                 |   42325 |      50 |<AWOL>|    |         |
+ 3|   Statistical Tie          |   93625 |      50 |folded|    |         |
+ 4|   Joshua Koppelman         |  120450 |      50 |folded|    |         |
+ 5|D> bozo                     |   93850 |    7050 |folded|    |         |
+ 6|   Ed Baker                 |   43600 |     250 |folded|    |         |
+ 7|   Stephen Mack             |   76425 |     450 |folded|    |         |
+ 8|   Targhee                  |   94875 |      50 |folded|    |         |
+ 9|   tarigojaergihioahdged    |   96050 |      50 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/03/19 14:29:04! Dealing a new hand
+! 01/03/19 14:29:04! Everyone antes $50
+! 01/03/19 14:29:04! Ed Baker blinds $200
+! 01/03/19 14:29:04! Stephen Mack blinds $400
+! 01/03/19 14:59:29! Targhee folds
+! 01/03/19 15:44:48! tarigojaergihioahdged folds
+! 01/03/19 15:51:45! Sam Parazette raises $400 to $800 total 
+! 01/03/19 15:51:45! UberHank is on vacation and folds
+! 01/03/19 15:51:45! Statistical Tie folds
+! 01/03/19 15:51:45! Joshua Koppelman folds
+! 01/03/19 17:41:01! bozo raises $2200 to $3000 total 
+! 01/03/19 17:41:01! Ed Baker folds
+! 01/03/19 17:41:01! Stephen Mack folds
+! 01/03/19 17:42:53! Sam Parazette calls 
+
+! 01/03/19 17:42:53! Pot right ($7050), flopping/dealing/drawing cards
+! 01/03/19 17:42:53! 2 players
+! 01/03/19 17:42:53! Flopped cards: 9c 10c Kh
+! 01/03/19 17:43:49! Sam Parazette bets $4000 
+! 01/03/19 17:46:51! bozo calls 
+
+! 01/03/19 17:46:51! Pot right ($15050), flopping/dealing/drawing cards
+! 01/03/19 17:46:51! 2 players
+! 01/03/19 17:46:51! Flopped card: 4d
+! 01/03/19 18:17:54! Sam Parazette bets $13800 and is all in
+! 01/03/19 18:32:19! bozo folds
+! Hand over, no showdown
+! Current board is:  9c 10c Kh 4d ?
+! Sam Parazette wins $28850 (net $8000)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Sam Parazette            |   28850 |         |      |    |         |
+ 2|V  UberHank                 |   42325 |         |<AWOL>|    |         |
+ 3|   Statistical Tie          |   93625 |         |      |    |         |
+ 4|   Joshua Koppelman         |  120450 |         |      |    |         |
+ 5|>  bozo                     |   93850 |         |      |    |         |
+ 6|D  Ed Baker                 |   43600 |         |      |    |         |
+ 7|   Stephen Mack             |   76425 |         |      |    |         |
+ 8|   Targhee                  |   94875 |         |      |    |         |
+ 9|   tarigojaergihioahdged    |   96050 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 401 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b26.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+We are now over 45 days into round "b". 
+As soon as any table gets to five or fewer 
+players all tables will finish the current 
+hand and a full redraw to round "c" will be done.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 31
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

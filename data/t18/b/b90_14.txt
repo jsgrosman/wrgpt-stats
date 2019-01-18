@@ -1,0 +1,104 @@
+Message-Id: <200811262020.mAQKKR8K026150@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+Reply-To: dealer@wrgpt.org
+From: dealer@wrgpt.org
+Subject: [b90.10186] Holdem Game Broadcast Message(*)          
+
+! Table b90, Hand 14, Day 24
+
+! Smeagol folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Poker Ken                |  30000 |    200 |folded|    |        |
+ 2|V  DroogieDroog             |  19750 |      0 |1DEC08|    |        |
+ 3|   Warren Usui              |  19850 |      0 |folded|    |        |
+ 4|   Shyam Markus             |  31000 |      0 |folded|    |        |
+ 5|   fich                     |  19900 |      0 |folded|    |        |
+ 6|   couchtater               |  18700 |      0 |folded|    |        |
+ 7|   Smeagol                  |  16700 |   1200 |folded|    |        |
+ 8|   jasong            |  32700 |      0 |folded|    |        |
+ 9|D> calemb10                 |  15900 |   2900 |      |    |        |
+10|   Ray Powers               |  11100 |    100 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 11/25/08 07:24:42! Dealing a new hand
+! 11/25/08 07:24:42! No ante
+! 11/25/08 07:24:42! Ray Powers blinds $100
+! 11/25/08 07:24:42! Poker Ken blinds $200
+! 11/25/08 07:24:42! DroogieDroog is on vacation and folds
+! 11/25/08 14:48:45! Warren Usui folds
+! 11/25/08 14:48:45! Shyam Markus folds
+! 11/25/08 14:48:45! fich folds
+! 11/25/08 14:48:45! couchtater folds
+! 11/25/08 14:48:45! Smeagol calls 
+! 11/25/08 14:48:45! jasong folds
+! 11/26/08 06:00:45! calemb10 calls 
+! 11/26/08 06:00:45! Ray Powers folds
+! 11/26/08 09:45:07! Poker Ken checks
+
+! 11/26/08 09:45:07! Pot right ($700), flopping/dealing/drawing cards
+! 11/26/08 09:45:07! 3 players
+! 11/26/08 09:45:07! Flopped cards: Ad Qh 4c
+! 11/26/08 09:52:28! Poker Ken checks
+! 11/26/08 09:54:15! Smeagol bets $500 
+! 11/26/08 10:00:48! calemb10 calls 
+! 11/26/08 10:00:48! Poker Ken folds
+
+! 11/26/08 10:00:48! Pot right ($1700), flopping/dealing/drawing cards
+! 11/26/08 10:00:48! 2 players
+! 11/26/08 10:00:48! Flopped card: 9d
+! 11/26/08 10:31:34! Smeagol bets $500 
+! 11/26/08 11:17:21! calemb10 calls 
+
+! 11/26/08 11:17:21! Pot right ($2700), flopping/dealing/drawing cards
+! 11/26/08 11:17:21! 2 players
+! 11/26/08 11:17:21! Flopped card: 7c
+! 11/26/08 12:15:50! Smeagol checks
+! 11/26/08 12:17:37! calemb10 bets $1700 
+! 11/26/08 12:20:26! Smeagol folds
+! Hand over, no showdown
+! Current board is:  Ad Qh 4c 9d 7c
+! calemb10 wins $4400 (net $1500)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Poker Ken                |  30000 |        |      |    |        |
+ 2|V  DroogieDroog             |  19750 |        |1DEC08|    |        |
+ 3|   Warren Usui              |  19850 |        |      |    |        |
+ 4|   Shyam Markus             |  31000 |        |      |    |        |
+ 5|   fich                     |  19900 |        |      |    |        |
+ 6|   couchtater               |  18700 |        |      |    |        |
+ 7|   Smeagol                  |  16700 |        |      |    |        |
+ 8|   jasong            |  32700 |        |      |    |        |
+ 9|>  calemb10                 |  20300 |        |      |    |        |
+10|D  Ray Powers               |  11100 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 972 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b90.html
+
+TOURNEY INFORMATION
+
+
+NOTICE:
+
+If you are on vacation for 45 days you will be 
+removed from the tourney.  Exceptions will be made 
+only in the case of telling the floorman why you
+have a good reason to be gone for 45 days before
+the 45 days have elapsed.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org
+

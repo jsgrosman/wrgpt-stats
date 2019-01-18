@@ -1,0 +1,115 @@
+
+! Table f3, Hand 335, Day 161
+
+! rtroll folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   rtroll                   |  226200 |  237000 |folded|    |         |
+ 2|D  Jillian McKillican       |  490200 |    2000 |folded|    |         |
+ 3|   Stefan Dios              |  365925 |   12000 |folded|    |         |
+ 4|>  Bwana                    | 2127850 |  327000 |      |    |         |
+ 5|   SCSI                     |  523575 |    2000 |folded|    |         |
+ 6|   Dman                     |  486400 |    2000 |folded|    |         |
+ 7|   jasong            |  767900 |    2000 |folded|    |         |
+ 8|   Poker Dog                | 1203775 |    2000 |folded|    |         |
+ 9|   NS                       |  549250 |    2000 |folded|    |         |
+10|   Bagock Esq               |  185575 |    2000 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 04/01/18 09:34:56! Dealing a new hand
+! 04/01/18 09:34:56! Everyone antes $2000
+! 04/01/18 09:34:56! Stefan Dios blinds $10000
+! 04/01/18 09:34:56! Bwana blinds $20000
+! 04/01/18 09:39:31! SCSI folds
+! 04/01/18 10:21:00! Dman folds
+! 04/01/18 10:21:00! jasong folds
+! 04/01/18 10:21:00! Poker Dog folds
+! 04/01/18 14:11:23! NS folds
+! 04/01/18 14:11:23! Bagock Esq folds
+! 04/01/18 14:43:35! rtroll raises $50000 to $70000 total 
+! 04/01/18 14:43:35! Jillian McKillican folds
+! 04/01/18 14:43:35! Stefan Dios folds
+! 04/01/18 16:30:52! Bwana raises $85000 to $155000 total 
+! 04/01/18 17:02:03! rtroll calls 
+
+! 04/01/18 17:02:03! Pot right ($340000), flopping/dealing/drawing cards
+! 04/01/18 17:02:03! 2 players
+! 04/01/18 17:02:03! Flopped cards: As 6h 3c
+! 04/01/18 17:08:38! Bwana checks
+! 04/01/18 18:27:48! rtroll bets $80000 
+! 04/01/18 18:36:05! Bwana raises $90000 to $170000 total 
+! 04/01/18 19:03:26! rtroll folds
+! Hand over, no showdown
+! Current board is:  As 6h 3c ? ?
+! Bwana wins $590000 (net $263000)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   rtroll                   |  226200 |         |      |    |         |
+ 2|   Jillian McKillican       |  490200 |         |      |    |         |
+ 3|D  Stefan Dios              |  365925 |         |      |    |         |
+ 4|>  Bwana                    | 2717850 |         |      |    |         |
+ 5|   SCSI                     |  523575 |         |      |    |         |
+ 6|   Dman                     |  486400 |         |      |    |         |
+ 7|   jasong            |  767900 |         |      |    |         |
+ 8|   Poker Dog                | 1203775 |         |      |    |         |
+ 9|   NS                       |  549250 |         |      |    |         |
+10|   Bagock Esq               |  185575 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 38 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/f/f3.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+However, if there were prizes they would pay the top 63 entrants.
+The standings are now showing theoretical prizes if WRGPT were a
+10k event.
+
+======
+
+Live Redraw Status as of 04/01/18 06:55:01 PM
+
+Total Empty Seats: 1
+Total Playing Seats: 38
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman27@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

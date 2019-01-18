@@ -1,0 +1,112 @@
+Subject: [b11.10765] Holdem Game Broadcast Message(*)
+
+! Table b11, Hand 67, Day 49
+
+! DotMatrix folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|   MNoelH                   |   68175 |      50 |folded|    |         |
+ 3|   RichNYC                  |   48000 |      50 |folded|    |         |
+ 4|D> ddppmm                   |    4100 |   28150 |      |    |         |
+ 5|   DotMatrix                |   36300 |   13150 |folded|    |         |
+ 6|   put_it_good              |   81275 |     450 |folded|    |         |
+ 7|   Bobby the Worm           |   61275 |      50 |folded|    |         |
+ 8|   ADB Jupe                 |    8400 |      50 |folded|    |         |
+ 9|   Chris Goedde             |  157875 |      50 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/29/18 16:46:30! Dealing a new hand
+! 12/29/18 16:46:30! Everyone antes $50
+! 12/29/18 16:46:30! DotMatrix blinds $200
+! 12/29/18 16:46:30! put_it_good blinds $400
+! 12/29/18 16:55:15! Bobby the Worm folds
+! 12/29/18 17:36:55! ADB Jupe folds
+! 12/29/18 17:54:28! Chris Goedde folds
+! 12/29/18 21:41:35! MNoelH folds
+! 12/29/18 21:41:35! RichNYC folds
+! 12/30/18 06:31:30! ddppmm raises $700 to $1100 total 
+! 12/30/18 08:30:25! DotMatrix calls 
+! 12/30/18 08:30:25! put_it_good folds
+
+! 12/30/18 08:30:25! Pot right ($3000), flopping/dealing/drawing cards
+! 12/30/18 08:30:25! 2 players
+! 12/30/18 08:30:25! Flopped cards: 2h 7h 10h
+! 12/30/18 08:34:09! DotMatrix checks
+! 12/30/18 10:44:59! ddppmm bets $3000 
+! 12/30/18 11:45:08! DotMatrix calls 
+
+! 12/30/18 11:45:08! Pot right ($9000), flopping/dealing/drawing cards
+! 12/30/18 11:45:08! 2 players
+! 12/30/18 11:45:08! Flopped card: Kc
+! 12/30/18 11:49:20! DotMatrix checks
+! 12/30/18 12:03:16! ddppmm bets $9000 
+! 12/30/18 12:14:49! DotMatrix calls 
+
+! 12/30/18 12:14:49! Pot right ($27000), flopping/dealing/drawing cards
+! 12/30/18 12:14:49! 2 players
+! 12/30/18 12:14:49! Flopped card: 7c
+! 12/30/18 12:17:43! DotMatrix checks
+! 12/30/18 14:13:32! ddppmm bets $15000 
+! 12/30/18 18:42:40! DotMatrix folds
+! Hand over, no showdown
+! Current board is:  2h 7h 10h Kc 7c
+! ddppmm wins $42000 (net $13850)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|   MNoelH                   |   68175 |         |      |    |         |
+ 3|   RichNYC                  |   48000 |         |      |    |         |
+ 4|>  ddppmm                   |   46100 |         |      |    |         |
+ 5|D  DotMatrix                |   36300 |         |      |    |         |
+ 6|   put_it_good              |   81275 |         |      |    |         |
+ 7|   Bobby the Worm           |   61275 |         |      |    |         |
+ 8|   ADB Jupe                 |    8400 |         |      |    |         |
+ 9|   Chris Goedde             |  157875 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 414 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b11.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+We are now over 45 days into round "b". 
+As soon as any table gets to five or fewer 
+players all tables will finish the current 
+hand and a full redraw to round "c" will be done.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 18
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

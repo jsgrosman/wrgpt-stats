@@ -1,0 +1,108 @@
+Message-Id: <201011051911.oA5JBNNs013529@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [b20.10109] Holdem Game Broadcast Message(*)                          
+
+! Table b20, Hand 9, Day 5
+
+! plankton folds
+! JackBlack folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|>  Andrew Nelson            |  22700 |   6900 |      |    |        |
+ 2|   plankton                 |  52425 |   2400 |folded|    |        |
+ 4|V  Late Entry 2             |  29850 |      0 | NoSho|    |        |
+ 5|   JackBlack                |  24125 |   2400 |folded|    |        |
+ 6|   wlu_lax6                 |  33200 |      0 |folded|    |        |
+ 7|V  Cyberchomp               |  29850 |      0 | NOV 4|    |        |
+ 8|   jasong            |  36225 |      0 |folded|    |        |
+ 9|D  dBeau                    |  29925 |      0 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 11/05/10 10:59:34! Dealing a new hand
+! 11/05/10 10:59:34! No ante
+! 11/05/10 10:59:34! Andrew Nelson blinds $50
+! 11/05/10 10:59:34! plankton blinds $100
+! 11/05/10 10:59:34! Late Entry 2 is on vacation and folds
+! 11/05/10 11:02:33! JackBlack raises $250 
+! 11/05/10 11:08:07! wlu_lax6 folds
+! 11/05/10 11:08:07! Cyberchomp is on vacation and folds
+! 11/05/10 11:08:07! jasong folds
+! 11/05/10 11:13:01! dBeau folds
+! 11/05/10 11:20:15! Andrew Nelson calls 
+! 11/05/10 11:23:05! plankton calls 
+
+! 11/05/10 11:23:05! Pot right ($1050), flopping/dealing/drawing cards
+! 11/05/10 11:23:05! 3 players
+! 11/05/10 11:23:05! Flopped cards: 8d 9h 10d
+! 11/05/10 11:24:19! Andrew Nelson bets $650 
+! 11/05/10 11:25:02! plankton calls 
+! 11/05/10 11:25:02! JackBlack calls 
+
+! 11/05/10 11:25:02! Pot right ($3000), flopping/dealing/drawing cards
+! 11/05/10 11:25:02! 3 players
+! 11/05/10 11:25:02! Flopped card: 10c
+! 11/05/10 11:27:13! Andrew Nelson bets $1400 
+! 11/05/10 11:29:30! plankton calls 
+! 11/05/10 11:32:07! JackBlack calls 
+
+! 11/05/10 11:32:07! Pot right ($7200), flopping/dealing/drawing cards
+! 11/05/10 11:32:07! 3 players
+! 11/05/10 11:32:07! Flopped card: 3c
+! 11/05/10 12:03:04! Andrew Nelson bets $4500 
+! 11/05/10 12:11:22! plankton folds
+! 11/05/10 12:11:22! JackBlack folds
+! Hand over, no showdown
+! Current board is:  8d 9h 10d 10c 3c
+! Andrew Nelson wins $11700 (net $4800)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|D> Andrew Nelson            |  34400 |        |      |    |        |
+ 2|   plankton                 |  52425 |        |      |    |        |
+ 4|V  Late Entry 2             |  29850 |        | NoSho|    |        |
+ 5|   JackBlack                |  24125 |        |      |    |        |
+ 6|   wlu_lax6                 |  33200 |        |      |    |        |
+ 7|V  Cyberchomp               |  29850 |        | NOV 4|    |        |
+ 8|   jasong            |  36225 |        |      |    |        |
+ 9|   dBeau                    |  29925 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 883 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b20.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to WRGPT20.
+This is the real tourney.
+Good luck.
+
+Changes to email or hours of play made in the practice round to NOT carry over
+to the real tourney.  You will need to set them again if you set them for
+the practice round.
+
+If you have problems send mail to floorman20@wrgpt.org.
+
+
+Live Redraw Status as of 11/05/10 11:55:01 AM
+
+Total Empty Seats: 17
+Total Playing Seats: 883
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org or follow "wrgpt" on Twitter.
+

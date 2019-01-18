@@ -1,0 +1,112 @@
+Subject: [c26.10114] Holdem Game Broadcast Message(*)
+
+! Table c26, Hand 160, Day 61
+
+! docdanger checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Brian Cooper             |   38625 |     100 |folded|    |         |
+ 2|   docdanger                |   71425 |    6300 |      |    |         |
+ 3|   Firstorlast56            |   64775 |     100 |folded|    |         |
+ 4|D  Vince Tafoya             |   71525 |     100 |folded|    |         |
+ 5|>  MarcJallday              |   50400 |    6300 |      |    |         |
+ 6|   Ken Anderson             |  152700 |     600 |folded|    |         |
+ 7|   Josh Moore               |  142325 |     100 |folded|    |         |
+ 8|   Matt Matros              |   51975 |     100 |folded|    |         |
+ 9|   RichNYC                  |   55700 |     100 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/10/19 15:04:39! Dealing a new hand
+! 01/10/19 15:04:39! Everyone antes $100
+! 01/10/19 15:04:39! MarcJallday blinds $250
+! 01/10/19 15:04:39! Ken Anderson blinds $500
+! 01/10/19 16:36:32! Josh Moore folds
+! 01/10/19 16:36:32! Matt Matros folds
+! 01/10/19 16:44:55! RichNYC folds
+! 01/10/19 16:44:55! Brian Cooper folds
+! 01/10/19 16:59:14! docdanger raises $700 to $1200 total 
+! 01/10/19 16:59:14! Firstorlast56 folds
+! 01/10/19 18:14:27! Vince Tafoya folds
+! 01/10/19 20:40:13! MarcJallday calls 
+! 01/10/19 20:40:13! Ken Anderson folds
+
+! 01/10/19 20:40:13! Pot right ($3800), flopping/dealing/drawing cards
+! 01/10/19 20:40:13! 2 players
+! 01/10/19 20:40:13! Flopped cards: Js Kh 6c
+! 01/10/19 20:42:00! MarcJallday bets $2000 
+! 01/11/19 05:20:46! docdanger raises $3000 to $5000 total 
+! 01/11/19 07:56:24! MarcJallday calls 
+
+! 01/11/19 07:56:24! Pot right ($13800), flopping/dealing/drawing cards
+! 01/11/19 07:56:24! 2 players
+! 01/11/19 07:56:24! Flopped card: 9h
+! 01/11/19 07:57:27! MarcJallday checks
+! 01/11/19 08:03:08! docdanger checks
+
+! 01/11/19 08:03:08! Pot right ($13800), flopping/dealing/drawing cards
+! 01/11/19 08:03:08! 2 players
+! 01/11/19 08:03:08! Flopped card: 7s
+! 01/11/19 08:13:10! MarcJallday checks
+! 01/11/19 09:26:28! docdanger checks
+! Hand over, current board is:  Js Kh 6c 9h 7s
+! docdanger                has: Ks Qs
+! MarcJallday              has: As Kd
+! MarcJallday wins $13800 (net $7500) with One Pair (K K A J 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Brian Cooper             |   38625 |         |      |    |         |
+ 2|   docdanger                |   71425 |         |      |    |         |
+ 3|   Firstorlast56            |   64775 |         |      |    |         |
+ 4|   Vince Tafoya             |   71525 |         |      |    |         |
+ 5|D> MarcJallday              |   64200 |         |      |    |         |
+ 6|   Ken Anderson             |  152700 |         |      |    |         |
+ 7|   Josh Moore               |  142325 |         |      |    |         |
+ 8|   Matt Matros              |   51975 |         |      |    |         |
+ 9|   RichNYC                  |   55700 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 382 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c26.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+The "c" round has started.  Good luck to all
+the remaining players.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 7
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

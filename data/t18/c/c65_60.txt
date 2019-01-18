@@ -1,0 +1,105 @@
+Message-Id: <200812261321.mBQDLc2V014833@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+Reply-To: dealer@wrgpt.org
+From: dealer@wrgpt.org
+Subject: [c65.10039] Holdem Game Broadcast Message(*)          
+
+! Table c65, Hand 60, Day 54
+
+! Brian K folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   David Kuznick            |  17700 |     50 |folded|    |        |
+ 2|   paulshe                  |  23450 |     50 |folded|    |        |
+ 3|   Chuck Thompson           |  39050 |     50 |folded|    |        |
+ 4|D  Kevin Mathers            |  35850 |     50 |folded|    |        |
+ 5|>  Brian K                  |  33100 |   7250 |folded|    |        |
+ 6|   jasong            |  31950 |    450 |folded|    |        |
+ 7|   MikeB                    |  21350 |     50 |folded|    |        |
+ 8|   Alphabits                |  54850 |     50 |folded|    |        |
+ 9|   Rob CutStyle             |  28450 |     50 |folded|    |        |
+10|   Toronado13               |      0 |  14800 |all-in|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 12/24/08 14:31:46! Dealing a new hand
+! 12/24/08 14:31:46! Everyone antes $50
+! 12/24/08 14:31:46! Brian K blinds $200
+! 12/24/08 14:31:46! jasong blinds $400
+! 12/24/08 17:41:39! MikeB folds
+! 12/24/08 17:41:39! Alphabits folds
+! 12/24/08 17:41:39! Rob CutStyle folds
+! 12/24/08 17:41:39! Toronado13 calls 
+! 12/24/08 20:00:33! David Kuznick folds
+! 12/25/08 07:47:58! paulshe folds
+! 12/25/08 11:05:01! Chuck Thompson folds
+! 12/25/08 11:05:01! Kevin Mathers folds
+! 12/25/08 11:09:51! Brian K calls 
+! 12/25/08 11:09:51! jasong checks
+
+! 12/25/08 11:09:51! Pot right ($1700), flopping/dealing/drawing cards
+! 12/25/08 11:09:51! 3 players
+! 12/25/08 11:09:51! Flopped cards: Qd 3h 10c
+! 12/25/08 11:16:20! Brian K bets $1700 
+! 12/25/08 11:16:20! jasong folds
+! 12/25/08 11:53:02! Toronado13 calls 
+
+! 12/25/08 11:53:02! Pot right ($5100), flopping/dealing/drawing cards
+! 12/25/08 11:53:02! 2 players
+! 12/25/08 11:53:02! Flopped card: As
+! 12/25/08 19:45:48! Brian K bets $5100 
+! 12/25/08 21:13:46! Toronado13 raises $7550 and is all in
+! 12/26/08 05:21:36! Brian K folds
+! Hand over, no showdown
+! Current board is:  Qd 3h 10c As ?
+! Toronado13 wins $22850 (net $8050)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   David Kuznick            |  17700 |        |      |    |        |
+ 2|   paulshe                  |  23450 |        |      |    |        |
+ 3|   Chuck Thompson           |  39050 |        |      |    |        |
+ 4|   Kevin Mathers            |  35850 |        |      |    |        |
+ 5|D> Brian K                  |  33100 |        |      |    |        |
+ 6|   jasong            |  31950 |        |      |    |        |
+ 7|   MikeB                    |  21350 |        |      |    |        |
+ 8|   Alphabits                |  54850 |        |      |    |        |
+ 9|   Rob CutStyle             |  28450 |        |      |    |        |
+10|   Toronado13               |  22850 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 775 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c65.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+WRGPT18 is now on a holiday until January 5, 2009.  Play continues
+but no timeouts will happen until then.
+
+The last live redraw for the "c" round could begin
+as late as January 21, 2009.
+
+Live Redraw Status as of 12/26/08 04:55:01 AM
+
+Total Empty Seats: 30
+Total Playing Seats: 775
+Live redraw in progress:
+Seats Needed: 26
+Seats Waiting: 0
+Moving Players Waiting: 0
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org
+

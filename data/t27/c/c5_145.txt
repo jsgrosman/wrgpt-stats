@@ -1,0 +1,139 @@
+
+% Sigh... if you hit your Q, good catch... excellent bet, as while I know 
+% probably beat,
+% its just small enough for me to call, given the pot odds...
+% On Tue, Jan 16, 2018 at 12:30 PM, <dealer@wrgpt.org> wrote:
+% (dealer suppressed lines starting with '>' or ':')
+! -- MrTiggerGolf --
+_____________________________________________________________________________
+
+! Table c5, Hand 145, Day 86
+
+! MrTiggerGolf calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|D  jasong            |  190100 |     300 |folded|    |         |
+ 4|   MrTiggerGolf             |   71550 |   42300 |      |    |         |
+ 5|   Pete Nerozzi             |   63975 |    2300 |folded|    |         |
+ 6|   ArikK                    |  127475 |     300 |folded|    |         |
+ 7|   Richard Nixon            |   78675 |     300 |folded|    |         |
+ 8|>  swamperflaco             |   45600 |   42300 |      |    |         |
+ 9|   Deuce Seven Off Suit     |   39175 |     300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/15/18 19:29:06! Dealing a new hand
+! 01/15/18 19:29:06! Everyone antes $300
+! 01/15/18 19:29:06! MrTiggerGolf blinds $1000
+! 01/15/18 19:29:06! Pete Nerozzi blinds $2000
+! 01/15/18 20:40:51! ArikK folds
+! 01/15/18 20:40:51! Richard Nixon folds
+! 01/16/18 03:51:26! swamperflaco calls 
+! 01/16/18 03:51:26! Deuce Seven Off Suit folds
+! 01/16/18 03:51:26! jasong folds
+! 01/16/18 03:59:39! MrTiggerGolf calls 
+! 01/16/18 04:03:09! Pete Nerozzi checks
+
+! 01/16/18 04:03:09! Pot right ($8100), flopping/dealing/drawing cards
+! 01/16/18 04:03:09! 3 players
+! 01/16/18 04:03:09! Flopped cards: 4s Qh Kc
+! 01/16/18 04:06:00! MrTiggerGolf bets $5000 
+! 01/16/18 04:22:23! Pete Nerozzi folds
+! 01/16/18 07:04:10! swamperflaco calls 
+
+! 01/16/18 07:04:10! Pot right ($18100), flopping/dealing/drawing cards
+! 01/16/18 07:04:10! 2 players
+! 01/16/18 07:04:10! Flopped card: 5h
+! 01/16/18 07:18:46! MrTiggerGolf bets $5000 
+! 01/16/18 07:31:44! swamperflaco calls 
+
+! 01/16/18 07:31:44! Pot right ($28100), flopping/dealing/drawing cards
+! 01/16/18 07:31:44! 2 players
+! 01/16/18 07:31:44! Flopped card: Qs
+! 01/16/18 08:00:27! MrTiggerGolf bets $7000 
+! 01/16/18 08:21:42! swamperflaco raises $23000 to $30000 total 
+_____________________________________________________________________________
+
+! Sigh... if you hit your Q, good catch... excellent bet, as while I know 
+! probably beat,
+! its just small enough for me to call, given the pot odds...
+! On Tue, Jan 16, 2018 at 12:30 PM, <dealer@wrgpt.org> wrote:
+! (dealer suppressed lines starting with '>' or ':')
+! -- MrTiggerGolf --
+_____________________________________________________________________________
+
+! 01/16/18 09:55:11! MrTiggerGolf calls 
+! Hand over, current board is:  4s Qh Kc 5h Qs
+! MrTiggerGolf             has: Ks Jh
+! swamperflaco             has: Ad Qd
+! swamperflaco wins $88100 (net $45800) with Three of a Kind (Q Q Q A K)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|   jasong            |  190100 |         |      |    |         |
+ 4|D  MrTiggerGolf             |   71550 |         |      |    |         |
+ 5|   Pete Nerozzi             |   63975 |         |      |    |         |
+ 6|   ArikK                    |  127475 |         |      |    |         |
+ 7|   Richard Nixon            |   78675 |         |      |    |         |
+ 8|>  swamperflaco             |  133700 |         |      |    |         |
+ 9|   Deuce Seven Off Suit     |   39175 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 285 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c5.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+The "c" round is going to continue.
+There was a bug in the live redraw that conflicted
+with the full redraw logic.  It broke the
+short handed table and started tables back up.
+So, "c" will continue.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Live Redraw Status as of 01/16/18 09:55:02 AM
+
+Total Empty Seats: 25
+Total Playing Seats: 285
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman27@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

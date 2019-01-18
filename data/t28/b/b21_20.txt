@@ -1,0 +1,118 @@
+Subject: [b21.10264] Holdem Game Broadcast Message(*)
+
+! Table b21, Hand 20, Day 8
+
+! Sllimbob bets $1000 
+! Ken Anderson folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Isaac Newton             |   46175 |       0 |folded|    |         |
+ 2|D  Eric Brassell            |   47225 |       0 |folded|    |         |
+ 3|>  Sllimbob                 |   37800 |    2000 |      |    |         |
+ 4|   Ken Anderson             |   37075 |    1000 |folded|    |         |
+ 5|   Chris Sims               |   58825 |       0 |folded|    |         |
+ 6|   fich                     |   36400 |       0 |folded|    |         |
+ 7|   Deborah Abel             |   52600 |       0 |folded|    |         |
+ 8|V  8.HEATER-T2              |   49550 |       0 | NoSho|    |         |
+ 9|   RunGoodRob               |   81350 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/19/18 11:27:04! Dealing a new hand
+! 11/19/18 11:27:04! No ante
+! 11/19/18 11:27:04! Sllimbob blinds $75
+! 11/19/18 11:27:04! Ken Anderson blinds $150
+! 11/19/18 11:59:06! Chris Sims folds
+! 11/19/18 11:59:06! fich folds
+! 11/19/18 12:03:03! Deborah Abel folds
+! 11/19/18 12:03:03! 8.HEATER-T2 is on vacation and folds
+! 11/19/18 12:03:03! RunGoodRob folds
+! 11/19/18 12:03:03! Isaac Newton folds
+! 11/19/18 12:03:03! Eric Brassell folds
+! 11/19/18 12:04:09! Sllimbob raises $250 to $400 total 
+! 11/19/18 12:04:09! Ken Anderson calls 
+
+! 11/19/18 12:04:09! Pot right ($800), flopping/dealing/drawing cards
+! 11/19/18 12:04:09! 2 players
+! 11/19/18 12:04:09! Flopped cards: 8s 6s 9s
+! 11/19/18 12:04:54! Sllimbob checks
+! 11/19/18 12:59:24! Ken Anderson checks
+
+! 11/19/18 12:59:24! Pot right ($800), flopping/dealing/drawing cards
+! 11/19/18 12:59:24! 2 players
+! 11/19/18 12:59:24! Flopped card: Qh
+! 11/19/18 13:00:56! Sllimbob checks
+! 11/19/18 13:09:50! Ken Anderson bets $600 
+! 11/19/18 13:10:41! Sllimbob calls 
+
+! 11/19/18 13:10:41! Pot right ($2000), flopping/dealing/drawing cards
+! 11/19/18 13:10:41! 2 players
+! 11/19/18 13:10:41! Flopped card: Jc
+! 11/19/18 13:12:02! Sllimbob bets $1000 
+! 11/19/18 13:12:02! Ken Anderson folds
+! Hand over, no showdown
+! Current board is:  8s 6s 9s Qh Jc
+! Sllimbob wins $3000 (net $1000)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Isaac Newton             |   46175 |         |      |    |         |
+ 2|   Eric Brassell            |   47225 |         |      |    |         |
+ 3|D> Sllimbob                 |   40800 |         |      |    |         |
+ 4|   Ken Anderson             |   37075 |         |      |    |         |
+ 5|   Chris Sims               |   58825 |         |      |    |         |
+ 6|   fich                     |   36400 |         |      |    |         |
+ 7|   Deborah Abel             |   52600 |         |      |    |         |
+ 8|V  8.HEATER-T2              |   49550 |         | NoSho|    |         |
+ 9|   RunGoodRob               |   81350 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 573 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b21.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 3
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

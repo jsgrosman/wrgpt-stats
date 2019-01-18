@@ -1,0 +1,113 @@
+
+! Table b4, Hand 43, Day 36
+
+! Ryan Thomas folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Deborah Abel             |  22500 |      0 |folded|    |        |
+ 2|   Nick Varacalli           |  29250 |      0 |folded|    |        |
+ 3|V  benmax                   |  28600 |      0 |<AWOL>|    |        |
+ 4|   Sir Barlow               |  59950 |    400 |folded|    |        |
+ 5|   Dalai Pookah             |  46875 |      0 |folded|    |        |
+ 6|   jasong            |  56450 |      0 |folded|    |        |
+ 7|D  Rambo                    |  12800 |    400 |folded|    |        |
+ 8|   kimbo                    |  49225 |    200 |folded|    |        |
+ 9|   Ryan Thomas              |  42750 |    400 |folded|    |        |
+10|>  silvexis                 |  62325 |   2200 |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 11/30/15 09:50:54! Dealing a new hand
+! 11/30/15 09:50:54! No ante
+! 11/30/15 09:50:54! kimbo blinds $200
+! 11/30/15 09:50:54! Ryan Thomas blinds $400
+! 11/30/15 10:05:10! silvexis calls 
+! 11/30/15 10:05:10! Deborah Abel folds
+! 11/30/15 10:05:10! Nick Varacalli folds
+! 11/30/15 10:05:10! benmax is on vacation and folds
+! 11/30/15 10:09:00! Sir Barlow calls 
+! 11/30/15 10:29:57! Dalai Pookah folds
+! 11/30/15 10:29:57! jasong folds
+! 11/30/15 11:46:22! Rambo calls 
+! 11/30/15 11:46:22! kimbo folds
+! 11/30/15 14:45:53! Ryan Thomas checks
+
+! 11/30/15 14:45:53! Pot right ($1800), flopping/dealing/drawing cards
+! 11/30/15 14:45:53! 4 players
+! 11/30/15 14:45:53! Flopped cards: 4s 6c As
+! 11/30/15 15:00:18! Ryan Thomas checks
+! 11/30/15 15:01:54! silvexis bets $1800 
+! 11/30/15 15:17:51! Sir Barlow folds
+! 11/30/15 16:08:55! Rambo folds
+! 11/30/15 16:27:17! Ryan Thomas folds
+! Hand over, no showdown
+! Current board is:  4s 6c As ? ?
+! silvexis wins $3600 (net $1400)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Deborah Abel             |  22500 |        |      |    |        |
+ 2|   Nick Varacalli           |  29250 |        |      |    |        |
+ 3|V  benmax                   |  28600 |        |<AWOL>|    |        |
+ 4|   Sir Barlow               |  59950 |        |      |    |        |
+ 5|   Dalai Pookah             |  46875 |        |      |    |        |
+ 6|   jasong            |  56450 |        |      |    |        |
+ 7|   Rambo                    |  12800 |        |      |    |        |
+ 8|D  kimbo                    |  49225 |        |      |    |        |
+ 9|   Ryan Thomas              |  42750 |        |      |    |        |
+10|>  silvexis                 |  65925 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 596 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b4.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Any players who have not started in WRGPT after day 30 will
+have their stacks removed from the tourney.
+
+======
+
+Live Redraw Status as of 11/30/15 04:25:08 PM
+
+Total Empty Seats: 35
+Total Playing Seats: 595
+Live redraw in progress:
+Seats Needed: 26
+Seats Waiting: 0
+Moving Players Waiting: 6
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman25@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

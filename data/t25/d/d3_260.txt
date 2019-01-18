@@ -1,0 +1,101 @@
+
+! Table d3, Hand 260, Day 102
+
+! TracyB folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   denimmined               |  36050 |    400 |folded|    |        |
+ 2|   Ed Kearns                |  50500 |    400 |folded|    |        |
+ 3|   Quick                    |  54025 |    400 |folded|    |        |
+ 4|   Tim Showalter            |  86650 |    400 |folded|    |        |
+ 5|   Sabo FC                  | 115900 |    400 |folded|    |        |
+ 6|D  dys1exic                 |  89925 |    400 |folded|    |        |
+ 7|   Chris Goedde             | 260550 |   2000 |folded|    |        |
+ 8|   jasong            |      0 |  65950 |all-in|    |        |
+ 9|   Jeff Kirkwold            |  45950 |    400 |folded|    |        |
+10|>  TracyB                   | 205750 |  15600 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 02/04/16 04:50:25! Dealing a new hand
+! 02/04/16 04:50:25! Everyone antes $400
+! 02/04/16 04:50:25! Chris Goedde blinds $1600
+! 02/04/16 04:50:25! jasong blinds $3200
+! 02/04/16 05:08:03! Jeff Kirkwold folds
+! 02/04/16 05:34:58! TracyB raises $12000 
+! 02/04/16 06:16:37! denimmined folds
+! 02/04/16 06:16:37! Ed Kearns folds
+! 02/04/16 08:13:44! Quick folds
+! 02/04/16 08:13:44! Tim Showalter folds
+! 02/04/16 08:13:44! Sabo FC folds
+! 02/04/16 09:54:55! dys1exic folds
+! 02/04/16 09:54:55! Chris Goedde folds
+! 02/04/16 09:54:55! jasong raises $50350 and is all in
+! 02/04/16 10:43:03! TracyB folds
+! Hand over, no showdown
+! Current board is:  ? ? ? ? ?
+! jasong wins $86350 (net $20400)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   denimmined               |  36050 |        |      |    |        |
+ 2|   Ed Kearns                |  50500 |        |      |    |        |
+ 3|   Quick                    |  54025 |        |      |    |        |
+ 4|   Tim Showalter            |  86650 |        |      |    |        |
+ 5|   Sabo FC                  | 115900 |        |      |    |        |
+ 6|   dys1exic                 |  89925 |        |      |    |        |
+ 7|D  Chris Goedde             | 260550 |        |      |    |        |
+ 8|   jasong            |  86350 |        |      |    |        |
+ 9|   Jeff Kirkwold            |  45950 |        |      |    |        |
+10|>  TracyB                   | 205750 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 194 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d3.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the "d" round.
+
+======
+
+Live Redraw Status as of 02/04/16 10:25:01 AM
+
+Total Empty Seats: 14
+Total Playing Seats: 194
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman25@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

@@ -1,0 +1,108 @@
+Subject: [b4.10991] Holdem Game Broadcast Message(*)
+
+! Table b4, Hand 64, Day 42
+
+! Dan Duncan calls 
+! Pot right ($65475), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 10c
+! Flopped card: 4h
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  Todd Brabbin             |   36575 |     925 |folded|    |         |
+ 2|   CharlieM                 |   65125 |     175 |folded|    |         |
+ 3|   Sir Barlow               |       0 |   32125 |all-in|    |         |
+ 4|   Paul Stine               |   30700 |      25 |folded|    |         |
+ 5|   ebock                    |   36875 |      25 |folded|    |         |
+ 6|   TwelveSeven              |   89050 |      25 |folded|    |         |
+ 7|   TheTwizz                 |   48425 |      25 |folded|    |         |
+ 8|>  Dan Duncan               |   52725 |   32125 |      |    |         |
+ 9|   feodor                   |   74775 |      25 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/22/18 23:45:06! Dealing a new hand
+! 12/22/18 23:45:06! Everyone antes $25
+! 12/22/18 23:45:06! CharlieM blinds $150
+! 12/22/18 23:45:06! Sir Barlow blinds $300
+! 12/23/18 07:06:49! Paul Stine folds
+! 12/23/18 07:06:49! ebock folds
+! 12/23/18 07:06:49! TwelveSeven folds
+! 12/23/18 07:06:49! TheTwizz folds
+! 12/23/18 11:33:36! Dan Duncan raises $600 to $900 total 
+! 12/23/18 11:50:43! feodor folds
+! 12/23/18 11:51:37! Todd Brabbin calls 
+! 12/23/18 11:51:37! CharlieM folds
+! 12/23/18 12:43:03! Sir Barlow calls 
+
+! 12/23/18 12:43:03! Pot right ($3075), flopping/dealing/drawing cards
+! 12/23/18 12:43:03! 3 players
+! 12/23/18 12:43:03! Flopped cards: 5c As 4c
+! 12/23/18 12:43:43! Sir Barlow bets $1500 
+! 12/23/18 12:45:21! Dan Duncan raises $4500 to $6000 total 
+! 12/23/18 12:45:21! Todd Brabbin folds
+! 12/23/18 13:28:32! Sir Barlow raises $25200 to $31200 total and is all in
+! 12/23/18 13:31:03! Dan Duncan calls 
+
+! 12/23/18 13:31:03! Pot right ($65475), flopping/dealing/drawing cards
+! 12/23/18 13:31:03! 2 players, 1 all in
+! 12/23/18 13:31:03! Flopped card: 10c
+! 12/23/18 13:31:03! Flopped card: 4h
+! Hand over, current board is:  5c As 4c 10c 4h
+! Sir Barlow               has: Qc 3c
+! Dan Duncan               has: Ad 8d
+! Sir Barlow wins $65475 (net $33350) with Club Flush (Q 10 5 4 3)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Todd Brabbin             |   36575 |         |      |    |         |
+ 2|D  CharlieM                 |   65125 |         |      |    |         |
+ 3|   Sir Barlow               |   65475 |         |      |    |         |
+ 4|   Paul Stine               |   30700 |         |      |    |         |
+ 5|   ebock                    |   36875 |         |      |    |         |
+ 6|   TwelveSeven              |   89050 |         |      |    |         |
+ 7|   TheTwizz                 |   48425 |         |      |    |         |
+ 8|>  Dan Duncan               |   52725 |         |      |    |         |
+ 9|   feodor                   |   74775 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 440 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b4.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 10
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

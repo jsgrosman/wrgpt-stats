@@ -1,0 +1,106 @@
+
+! Table b47, Hand 92, Day 50
+
+! Rainbow Trout folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   MacBond21                |   59075 |      50 |folded|    |         |
+ 2|>  Baldgriff                |   51975 |    4750 |      |    |         |
+ 3|   Grasshopp3r              |   78375 |      50 |folded|    |         |
+ 5|D  asypta                   |   61250 |      50 |folded|    |         |
+ 6|   Mybanjo                  |   92200 |    2250 |folded|    |         |
+ 7|   jasong            |   46875 |     450 |folded|    |         |
+ 8|   Rainbow Trout            |   98525 |    2250 |folded|    |         |
+ 9|   Rathkopf                 |  101850 |      50 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/05/16 10:24:57! Dealing a new hand
+! 12/05/16 10:24:57! Everyone antes $50
+! 12/05/16 10:24:57! Mybanjo blinds $200
+! 12/05/16 10:24:57! jasong blinds $400
+! 12/05/16 10:44:03! Rainbow Trout calls 
+! 12/05/16 11:31:47! Rathkopf folds
+! 12/05/16 11:31:47! MacBond21 folds
+! 12/05/16 11:33:38! Baldgriff raises $1800 
+! 12/05/16 11:33:38! Grasshopp3r folds
+! 12/05/16 11:33:38! asypta folds
+! 12/05/16 11:50:32! Mybanjo calls 
+! 12/05/16 11:50:32! jasong folds
+! 12/05/16 12:08:53! Rainbow Trout calls 
+
+! 12/05/16 12:08:53! Pot right ($7400), flopping/dealing/drawing cards
+! 12/05/16 12:08:53! 3 players
+! 12/05/16 12:08:53! Flopped cards: Qd 8s 9c
+! 12/05/16 12:50:28! Mybanjo checks
+! 12/05/16 12:57:49! Rainbow Trout checks
+! 12/05/16 13:00:25! Baldgriff bets $2500 
+! 12/05/16 13:28:40! Mybanjo folds
+! 12/05/16 13:30:22! Rainbow Trout folds
+! Hand over, no showdown
+! Current board is:  Qd 8s 9c ? ?
+! Baldgriff wins $9900 (net $5150)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   MacBond21                |   59075 |         |      |    |         |
+ 2|>  Baldgriff                |   61875 |         |      |    |         |
+ 3|   Grasshopp3r              |   78375 |         |      |    |         |
+ 5|   asypta                   |   61250 |         |      |    |         |
+ 6|D  Mybanjo                  |   92200 |         |      |    |         |
+ 7|   jasong            |   46875 |         |      |    |         |
+ 8|   Rainbow Trout            |   98525 |         |      |    |         |
+ 9|   Rathkopf                 |  101850 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 439 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b47.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+There will be no more live redraws for the "b" round.
+After any table gets to five or fewer players there 
+will be a full redraw to new tables.
+
+======
+
+Live Redraw Status as of 12/05/16 01:25:03 PM
+
+Total Empty Seats: 41
+Total Playing Seats: 439
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman26@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

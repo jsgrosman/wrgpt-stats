@@ -1,0 +1,108 @@
+Subject: [c39.10184] Holdem Game Broadcast Message(*)
+
+! Table c39, Hand 165, Day 67
+
+! P0k3Y checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Kevmath                  |   55475 |     100 |folded|    |         |
+ 2|D  P0k3Y                    |   36225 |    6600 |      |    |         |
+ 3|   Peter Gozinya            |   93750 |     350 |folded|    |         |
+ 4|>  Chris Aporta             |  114000 |    6600 |      |    |         |
+ 5|   denimmined               |   13900 |     100 |folded|    |         |
+ 6|   Rugratbbc                |   24875 |     100 |folded|    |         |
+ 7|   Jascha                   |   52000 |     100 |folded|    |         |
+ 8|V  BT                       |   46950 |     100 |<AWOL>|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/16/19 08:31:31! Dealing a new hand
+! 01/16/19 08:31:31! Everyone antes $100
+! 01/16/19 08:31:31! Peter Gozinya blinds $250
+! 01/16/19 08:31:31! Chris Aporta blinds $500
+! 01/16/19 11:04:36! denimmined folds
+! 01/16/19 11:04:36! Rugratbbc folds
+! 01/16/19 11:04:36! Jascha folds
+! 01/16/19 11:04:36! BT is on vacation and folds
+! 01/16/19 11:04:36! Kevmath folds
+! 01/16/19 11:15:26! P0k3Y raises $1200 to $1700 total 
+! 01/16/19 13:11:00! Peter Gozinya folds
+! 01/16/19 14:27:20! Chris Aporta calls 
+
+! 01/16/19 14:27:20! Pot right ($4450), flopping/dealing/drawing cards
+! 01/16/19 14:27:20! 2 players
+! 01/16/19 14:27:20! Flopped cards: Jh 9c 8h
+! 01/16/19 14:29:07! Chris Aporta checks
+! 01/16/19 14:58:25! P0k3Y bets $1600 
+! 01/16/19 16:30:37! Chris Aporta raises $3200 to $4800 total 
+! 01/16/19 16:51:51! P0k3Y calls 
+
+! 01/16/19 16:51:51! Pot right ($14050), flopping/dealing/drawing cards
+! 01/16/19 16:51:51! 2 players
+! 01/16/19 16:51:51! Flopped card: 7h
+! 01/16/19 17:04:46! Chris Aporta checks
+! 01/16/19 17:36:09! P0k3Y checks
+
+! 01/16/19 17:36:09! Pot right ($14050), flopping/dealing/drawing cards
+! 01/16/19 17:36:09! 2 players
+! 01/16/19 17:36:09! Flopped card: 10c
+! 01/16/19 19:32:45! Chris Aporta checks
+! 01/17/19 04:33:49! P0k3Y checks
+! Hand over, current board is:  Jh 9c 8h 7h 10c
+! P0k3Y                    has: 8d Ac
+! Chris Aporta             has: 9h Jc
+! P0k3Y wins $7025 (net $425) with Straight (J 10 9 8 7)
+! Chris Aporta wins $7025 (net $425) with Straight (J 10 9 8 7)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Kevmath                  |   55475 |         |      |    |         |
+ 2|   P0k3Y                    |   43250 |         |      |    |         |
+ 3|D  Peter Gozinya            |   93750 |         |      |    |         |
+ 4|>  Chris Aporta             |  121025 |         |      |    |         |
+ 5|   denimmined               |   13900 |         |      |    |         |
+ 6|   Rugratbbc                |   24875 |         |      |    |         |
+ 7|   Jascha                   |   52000 |         |      |    |         |
+ 8|V  BT                       |   46950 |         |<AWOL>|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 364 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c39.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 10
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

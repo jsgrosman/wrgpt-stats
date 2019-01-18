@@ -1,0 +1,123 @@
+Subject: [b13.10364] Holdem Game Broadcast Message(*)
+
+! Table b13, Hand 31, Day 23
+
+! DrXenonBloom calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   JoeBou                   |   48150 |    4800 |folded|    |         |
+ 2|   DaveKal                  |   43050 |       0 |folded|    |         |
+ 3|   JAY ENGLANDER            |   44775 |       0 |folded|    |         |
+ 4|D  DrXenonBloom             |   43925 |    9800 |      |    |         |
+ 5|   Morgan                   |   49000 |     150 |folded|    |         |
+ 6|   Garnett21k               |   35850 |     900 |folded|    |         |
+ 7|>  Theodore Chipmunk        |   96875 |    9800 |      |    |         |
+ 8|   cezz                     |   46625 |       0 |folded|    |         |
+ 9|   tristero                 |  107100 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/03/18 14:00:48! Dealing a new hand
+! 12/03/18 14:00:48! No ante
+! 12/03/18 14:00:48! Morgan blinds $150
+! 12/03/18 14:00:48! Garnett21k blinds $300
+! 12/03/18 14:01:15! Theodore Chipmunk raises $600 to $900 total 
+! 12/03/18 14:13:22! cezz folds
+! 12/03/18 14:13:22! tristero folds
+! 12/03/18 14:46:58! JoeBou calls 
+! 12/03/18 14:46:58! DaveKal folds
+! 12/03/18 14:46:58! JAY ENGLANDER is on vacation and folds
+! 12/03/18 15:38:29! DrXenonBloom calls 
+! 12/03/18 15:38:29! Morgan folds
+! 12/03/18 16:46:00! Garnett21k calls 
+
+! 12/03/18 16:46:00! Pot right ($3750), flopping/dealing/drawing cards
+! 12/03/18 16:46:00! 4 players
+! 12/03/18 16:46:00! Flopped cards: 3h 10d 7d
+! 12/03/18 16:47:04! Garnett21k checks
+! 12/03/18 20:17:18! JAY ENGLANDER is back from vacation
+! 12/04/18 03:37:03! Theodore Chipmunk bets $900 
+! 12/04/18 04:05:45! JoeBou calls 
+! 12/04/18 04:32:51! DrXenonBloom calls 
+! 12/04/18 04:39:21! Garnett21k folds
+
+! 12/04/18 04:39:21! Pot right ($6450), flopping/dealing/drawing cards
+! 12/04/18 04:39:21! 3 players
+! 12/04/18 04:39:21! Flopped card: 5h
+! 12/04/18 05:37:31! Theodore Chipmunk bets $3000 
+! 12/04/18 06:40:51! JoeBou calls 
+! 12/04/18 07:06:29! DrXenonBloom calls 
+
+! 12/04/18 07:06:29! Pot right ($15450), flopping/dealing/drawing cards
+! 12/04/18 07:06:29! 3 players
+! 12/04/18 07:06:29! Flopped card: 6s
+! 12/04/18 07:13:08! Theodore Chipmunk bets $5000 
+! 12/04/18 07:59:31! JoeBou folds
+! 12/04/18 08:33:19! DrXenonBloom calls 
+! Hand over, current board is:  3h 10d 7d 5h 6s
+! DrXenonBloom             has: Ad 6d
+! Theodore Chipmunk        has: As 10h
+! Theodore Chipmunk wins $25450 (net $15650) with One Pair (10 10 A 7 6)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   JoeBou                   |   48150 |         |      |    |         |
+ 2|   DaveKal                  |   43050 |         |      |    |         |
+ 3|   JAY ENGLANDER            |   44775 |         |      |    |         |
+ 4|   DrXenonBloom             |   43925 |         |      |    |         |
+ 5|D  Morgan                   |   49000 |         |      |    |         |
+ 6|   Garnett21k               |   35850 |         |      |    |         |
+ 7|>  Theodore Chipmunk        |  122325 |         |      |    |         |
+ 8|   cezz                     |   46625 |         |      |    |         |
+ 9|   tristero                 |  107100 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 523 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b13.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

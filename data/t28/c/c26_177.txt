@@ -1,0 +1,105 @@
+Subject: [c26.10260] Holdem Game Broadcast Message(*)
+
+! Table c26, Hand 177, Day 66
+
+! Brian Cooper checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Brian Cooper             |   25875 |    3400 |      |    |         |
+ 2|   docdanger                |   74375 |     100 |folded|    |         |
+ 3|   Firstorlast56            |   64625 |     100 |folded|    |         |
+ 4|D  Vince Tafoya             |   70275 |     100 |folded|    |         |
+ 5|>  MarcJallday              |   53200 |    3400 |      |    |         |
+ 6|   Ken Anderson             |  166950 |     600 |folded|    |         |
+ 7|   Josh Moore               |  196925 |     100 |folded|    |         |
+ 8|   Matt Matros              |   53125 |     100 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/16/19 12:08:40! Dealing a new hand
+! 01/16/19 12:08:40! Everyone antes $100
+! 01/16/19 12:08:40! MarcJallday blinds $250
+! 01/16/19 12:08:40! Ken Anderson blinds $500
+! 01/16/19 12:39:41! Josh Moore folds
+! 01/16/19 12:39:41! Matt Matros folds
+! 01/16/19 12:48:27! Brian Cooper raises $1300 to $1800 total 
+! 01/16/19 12:48:27! docdanger folds
+! 01/16/19 12:48:27! Firstorlast56 folds
+! 01/16/19 12:48:27! Vince Tafoya folds
+! 01/16/19 13:03:33! MarcJallday calls 
+! 01/16/19 13:03:33! Ken Anderson folds
+
+! 01/16/19 13:03:33! Pot right ($4900), flopping/dealing/drawing cards
+! 01/16/19 13:03:33! 2 players
+! 01/16/19 13:03:33! Flopped cards: Ac 6d 9c
+! 01/16/19 13:06:28! MarcJallday checks
+! 01/16/19 13:25:17! Brian Cooper checks
+
+! 01/16/19 13:25:17! Pot right ($4900), flopping/dealing/drawing cards
+! 01/16/19 13:25:17! 2 players
+! 01/16/19 13:25:17! Flopped card: 7h
+! 01/16/19 13:50:28! MarcJallday bets $1500 
+! 01/16/19 14:17:31! Brian Cooper calls 
+
+! 01/16/19 14:17:31! Pot right ($7900), flopping/dealing/drawing cards
+! 01/16/19 14:17:31! 2 players
+! 01/16/19 14:17:31! Flopped card: Ah
+! 01/16/19 14:19:05! MarcJallday checks
+! 01/16/19 14:22:21! Brian Cooper checks
+! Hand over, current board is:  Ac 6d 9c 7h Ah
+! Brian Cooper             has: Qs Qc
+! MarcJallday              has: 3d 3c
+! Brian Cooper wins $7900 (net $4500) with Two Pair (A A Q Q 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Brian Cooper             |   33775 |         |      |    |         |
+ 2|   docdanger                |   74375 |         |      |    |         |
+ 3|   Firstorlast56            |   64625 |         |      |    |         |
+ 4|   Vince Tafoya             |   70275 |         |      |    |         |
+ 5|D> MarcJallday              |   53200 |         |      |    |         |
+ 6|   Ken Anderson             |  166950 |         |      |    |         |
+ 7|   Josh Moore               |  196925 |         |      |    |         |
+ 8|   Matt Matros              |   53125 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 365 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c26.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

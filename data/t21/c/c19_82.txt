@@ -1,0 +1,99 @@
+Message-Id: <201201292141.q0TLfnfB005276@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [c19.10111] Holdem Game Broadcast Message(*)                          
+
+! Table c19, Hand 82, Day 77
+
+! lameO folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|D  mash001                  |  15900 |    100 |folded|    |        |
+ 2|   TacoChuck                |      0 |  81925 |all-in|    |        |
+ 3|   Anshu                    |  74450 |    900 |folded|    |        |
+ 4|   Jenner N. Broody         |   4600 |    100 |folded|    |        |
+ 5|   Linzk425                 |  27950 |    100 |folded|    |        |
+ 6|   swamper wlu_lax6         | 170850 |    900 |folded|    |        |
+ 7|   PrestoET                 |  36050 |    100 |folded|    |        |
+ 8|   Paul McMullin            |  46850 |    100 |folded|    |        |
+ 9|>  lameO                    |  28550 |   5900 |folded|    |        |
+10|   jasong            |  13350 |    100 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 01/27/12 10:55:05! Dealing a new hand
+! 01/27/12 10:55:05! Everyone antes $100
+! 01/27/12 10:55:05! TacoChuck blinds $400
+! 01/27/12 10:55:05! Anshu blinds $800
+! 01/27/12 14:00:11! Jenner N. Broody folds
+! 01/28/12 08:25:54! Linzk425 folds
+! 01/28/12 08:32:10! swamper wlu_lax6 calls 
+! 01/28/12 08:34:13! PrestoET folds
+! 01/28/12 08:34:13! Paul McMullin folds
+! 01/28/12 17:31:53! lameO calls 
+! 01/28/12 17:31:53! jasong folds
+! 01/28/12 17:31:53! mash001 folds
+! 01/28/12 22:49:40! TacoChuck calls 
+! 01/28/12 22:49:40! Anshu checks
+
+! 01/28/12 22:49:40! Pot right ($4200), flopping/dealing/drawing cards
+! 01/28/12 22:49:40! 4 players
+! 01/28/12 22:49:40! Flopped cards: Ks 8c Jh
+! 01/29/12 05:10:18! TacoChuck checks
+! 01/29/12 05:10:18! Anshu checks
+! 01/29/12 06:19:46! swamper wlu_lax6 checks
+! 01/29/12 09:50:56! lameO bets $5000 
+! 01/29/12 12:35:50! TacoChuck raises $76025 and is all in
+! 01/29/12 12:35:50! Anshu folds
+! 01/29/12 12:35:50! swamper wlu_lax6 folds
+! 01/29/12 13:41:48! lameO folds
+! Hand over, no showdown
+! Current board is:  Ks 8c Jh ? ?
+! TacoChuck wins $90225 (net $8300)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   mash001                  |  15900 |        |      |    |        |
+ 2|D  TacoChuck                |  90225 |        |      |    |        |
+ 3|   Anshu                    |  74450 |        |      |    |        |
+ 4|   Jenner N. Broody         |   4600 |        |      |    |        |
+ 5|   Linzk425                 |  27950 |        |      |    |        |
+ 6|   swamper wlu_lax6         | 170850 |        |      |    |        |
+ 7|   PrestoET                 |  36050 |        |      |    |        |
+ 8|   Paul McMullin            |  46850 |        |      |    |        |
+ 9|>  lameO                    |  28550 |        |      |    |        |
+10|   jasong            |  13350 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 490 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c19.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Having problems? Send email to floorman21@wrgpt.org.
+
+Live Redraw Status as of 01/29/12 01:25:01 PM
+
+Total Empty Seats: 23
+Total Playing Seats: 487
+Live redraw in progress:
+Seats Needed: 6
+Seats Waiting: 0
+Moving Players Waiting: 6
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+

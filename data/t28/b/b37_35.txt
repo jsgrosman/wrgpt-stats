@@ -1,0 +1,131 @@
+Subject: [b37.10434] Holdem Game Broadcast Message(*)
+
+! Table b37, Hand 35, Day 27
+
+! Ben Buchwald calls - side pot
+! Pot right ($119775), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped card: 5c
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|V  Alex LouisSux Wilhelm    |   48575 |     300 | NoSho|    |         |
+ 2|   Charlie Tuna             |   47400 |       0 |folded|    |         |
+ 3|V  MichaelJ                 |   46125 |       0 |SunEve|    |         |
+ 4|   Tom Bayz                 |   48550 |     800 |folded|    |         |
+ 5|   Fuhzee                   |   43650 |     800 |folded|    |         |
+ 6|   ShortStack               |   38275 |    5800 |folded|    |         |
+ 7|>  Ben Buchwald             |       0 |   48525 |all-in|  2 |  110550 |
+ 8|D  nightshift6              |       0 |   57750 |all-in|  1 |    9225 |
+ 9|   Mother Speaks            |   57650 |    5800 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/08/18 08:13:05! Dealing a new hand
+! 12/08/18 08:13:05! No ante
+! 12/08/18 08:13:05! Mother Speaks blinds $150
+! 12/08/18 08:13:05! Alex LouisSux Wilhelm blinds $300
+! 12/08/18 08:17:55! Charlie Tuna folds
+! 12/08/18 08:17:55! MichaelJ is on vacation and folds
+! 12/08/18 10:16:19! Tom Bayz raises $500 to $800 total 
+! 12/08/18 10:16:19! Fuhzee calls 
+! 12/08/18 10:29:02! ShortStack calls 
+! 12/08/18 10:53:14! Ben Buchwald calls 
+! 12/08/18 10:53:14! nightshift6 calls 
+! 12/08/18 12:00:34! Mother Speaks calls 
+! 12/08/18 12:00:34! Alex LouisSux Wilhelm is on vacation and folds
+
+! 12/08/18 12:00:34! Pot right ($5100), flopping/dealing/drawing cards
+! 12/08/18 12:00:34! 6 players
+! 12/08/18 12:00:34! Flopped cards: 3c 10c As
+! 12/08/18 12:23:42! Mother Speaks checks
+! 12/08/18 12:46:30! Tom Bayz checks
+! 12/08/18 13:18:20! Fuhzee checks
+! 12/08/18 13:20:41! ShortStack bets $5000 
+! 12/08/18 13:52:44! Ben Buchwald calls 
+! 12/08/18 14:02:32! nightshift6 calls 
+! 12/08/18 14:03:39! Mother Speaks calls 
+! 12/08/18 14:53:55! Tom Bayz folds
+! 12/08/18 16:51:22! Fuhzee folds
+
+! 12/08/18 16:51:22! Pot right ($25100), flopping/dealing/drawing cards
+! 12/08/18 16:51:22! 4 players
+! 12/08/18 16:51:22! Flopped card: 9s
+! 12/08/18 17:10:38! Mother Speaks checks
+! 12/08/18 19:08:36! ShortStack checks
+! 12/08/18 19:19:14! Ben Buchwald bets $7500 
+! 12/08/18 19:27:06! nightshift6 raises $44450 to $51950 total and is all in
+! 12/08/18 19:27:06! Mother Speaks folds
+! 12/08/18 20:58:56! ShortStack folds
+! 12/08/18 21:57:32! Ben Buchwald calls - side pot
+
+! 12/08/18 21:57:32! Pot right ($119775), flopping/dealing/drawing cards
+! 12/08/18 21:57:32! 2 players, 2 all in
+! 12/08/18 21:57:32! Flopped card: 5c
+! Hand over, current board is:  3c 10c As 9s 5c
+! Ben Buchwald             has: 10h 10d
+! nightshift6              has: Ah Kh
+! Pot 1: uncalled $9225 returned to nightshift6
+! Pot 2: Ben Buchwald wins $110550 with Three of a Kind (10 10 10 A 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|V  Alex LouisSux Wilhelm    |   48575 |         | NoSho|    |         |
+ 2|   Charlie Tuna             |   47400 |         |      |    |         |
+ 3|V  MichaelJ                 |   46125 |         |SunEve|    |         |
+ 4|   Tom Bayz                 |   48550 |         |      |    |         |
+ 5|   Fuhzee                   |   43650 |         |      |    |         |
+ 6|   ShortStack               |   38275 |         |      |    |         |
+ 7|>  Ben Buchwald             |  110550 |         |      |    |         |
+ 8|   nightshift6              |    9225 |         |      |    |         |
+ 9|D  Mother Speaks            |   57650 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 511 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b37.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 2
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

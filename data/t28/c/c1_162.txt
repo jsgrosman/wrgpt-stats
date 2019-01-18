@@ -1,0 +1,110 @@
+Subject: [c1.10149] Holdem Game Broadcast Message(*)
+
+! Table c1, Hand 162, Day 64
+
+! shinsook calls 
+! Pot right ($43100), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 3s
+! Flopped card: 4d
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Barton                   |  130150 |     100 |folded|    |         |
+ 2|   db222                    |   96350 |     100 |folded|    |         |
+ 3|   Mother Speaks            |       0 |   20825 |all-in|    |         |
+ 4|   siona                    |   43275 |     100 |folded|    |         |
+ 5|   Crunch                   |   48300 |     100 |folded|    |         |
+ 6|D  the cake is a pie        |  167875 |     100 |folded|    |         |
+ 7|   Bob R                    |   64475 |     350 |folded|    |         |
+ 8|   The Rabid Moose          |   99400 |     600 |folded|    |         |
+ 9|>  shinsook                 |  392550 |   20825 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/13/19 10:59:11! Dealing a new hand
+! 01/13/19 10:59:11! Everyone antes $100
+! 01/13/19 10:59:11! Bob R blinds $250
+! 01/13/19 10:59:11! The Rabid Moose blinds $500
+! 01/13/19 11:59:23! shinsook raises $1500 to $2000 total 
+! 01/14/19 00:19:18! Barton folds
+! 01/14/19 05:05:20! db222 folds
+! 01/14/19 05:25:51! Mother Speaks raises $2500 to $4500 total 
+! 01/14/19 05:32:00! siona folds
+! 01/14/19 09:09:52! Crunch folds
+! 01/14/19 09:41:28! the cake is a pie folds
+! 01/14/19 10:06:32! Bob R folds
+! 01/14/19 10:06:32! The Rabid Moose folds
+! 01/14/19 10:12:11! shinsook calls 
+
+! 01/14/19 10:12:11! Pot right ($10650), flopping/dealing/drawing cards
+! 01/14/19 10:12:11! 2 players
+! 01/14/19 10:12:11! Flopped cards: 5h 10s 9c
+! 01/14/19 10:27:44! shinsook checks
+! 01/14/19 10:27:44! Mother Speaks bets $16225 and is all in
+! 01/14/19 10:29:15! shinsook calls 
+
+! 01/14/19 10:29:15! Pot right ($43100), flopping/dealing/drawing cards
+! 01/14/19 10:29:15! 2 players, 1 all in
+! 01/14/19 10:29:15! Flopped card: 3s
+! 01/14/19 10:29:15! Flopped card: 4d
+! Hand over, current board is:  5h 10s 9c 3s 4d
+! Mother Speaks            has: As Ad
+! shinsook                 has: Jd Kc
+! Mother Speaks wins $43100 (net $22275) with One Pair (A A 10 9 5)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Barton                   |  130150 |         |      |    |         |
+ 2|   db222                    |   96350 |         |      |    |         |
+ 3|   Mother Speaks            |   43100 |         |      |    |         |
+ 4|   siona                    |   43275 |         |      |    |         |
+ 5|   Crunch                   |   48300 |         |      |    |         |
+ 6|   the cake is a pie        |  167875 |         |      |    |         |
+ 7|D  Bob R                    |   64475 |         |      |    |         |
+ 8|   The Rabid Moose          |   99400 |         |      |    |         |
+ 9|>  shinsook                 |  392550 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 373 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c1.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+The "c" round has started.  Good luck to all
+the remaining players.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

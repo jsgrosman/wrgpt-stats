@@ -1,0 +1,95 @@
+Message-Id: <201402171907.s1HJ7I36009699@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [c39.10347] Holdem Game Broadcast Message(*)                          
+
+! Table c39, Hand 123, Day 99
+
+! Kimbo folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 2|   jasong            |  54275 |   1300 |folded|    |        |
+ 3|   Kimbo                    |  42850 |   2300 |folded|    |        |
+ 4|   Tooner                   | 121050 |    300 |folded|    |        |
+ 5|   Diputsur                 |  64775 |    300 |folded|    |        |
+ 6|   Auron                    |  26850 |    300 |folded|    |        |
+ 7|   ChimpyChoo               |  45425 |    300 |folded|    |        |
+ 8|   skatesave                |  90900 |    300 |folded|    |        |
+ 9|   elfyhead                 | 103525 |    300 |folded|    |        |
+10|D> ThunderRd                |  25725 |   4300 |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 02/17/14 01:22:28! Dealing a new hand
+! 02/17/14 01:22:28! Everyone antes $300
+! 02/17/14 01:22:28! jasong blinds $1000
+! 02/17/14 01:22:28! Kimbo blinds $2000
+! 02/17/14 04:09:32! Tooner folds
+! 02/17/14 04:09:32! Diputsur is on vacation and folds
+! 02/17/14 07:35:07! Auron folds
+! 02/17/14 07:35:07! ChimpyChoo folds
+! 02/17/14 07:35:07! skatesave folds
+! 02/17/14 09:29:20! elfyhead folds
+! 02/17/14 09:29:20! ThunderRd raises $2000 
+! 02/17/14 09:29:20! jasong folds
+! 02/17/14 09:45:32! Diputsur is back from vacation
+! 02/17/14 11:07:16! Kimbo folds
+! Hand over, no showdown
+! Current board is:  ? ? ? ? ?
+! ThunderRd wins $9700 (net $5400)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 2|D  jasong            |  54275 |        |      |    |        |
+ 3|   Kimbo                    |  42850 |        |      |    |        |
+ 4|   Tooner                   | 121050 |        |      |    |        |
+ 5|   Diputsur                 |  64775 |        |      |    |        |
+ 6|   Auron                    |  26850 |        |      |    |        |
+ 7|   ChimpyChoo               |  45425 |        |      |    |        |
+ 8|   skatesave                |  90900 |        |      |    |        |
+ 9|   elfyhead                 | 103525 |        |      |    |        |
+10|>  ThunderRd                |  35425 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 348 players left in the tournament, 2 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c39.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+The "c" round will have no more live redraws.  When any table
+gets below six players all tables will finish their current hand
+then a full redraw will happen.
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+Here is a link to the railbird mailing list:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman23@wrgpt.org.
+
+Live Redraw Status as of 02/17/14 10:55:01 AM
+
+Total Empty Seats: 72
+Total Playing Seats: 348
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

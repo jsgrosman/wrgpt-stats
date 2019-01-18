@@ -1,0 +1,98 @@
+Message-Id: <200901032305.n03N5v80021156@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+Reply-To: dealer@wrgpt.org
+From: dealer@wrgpt.org
+Subject: [c65.10090] Holdem Game Broadcast Message(*)          
+
+! Table c65, Hand 64, Day 62
+
+! Toronado13 folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   David Kuznick            |  22200 |     50 |folded|    |        |
+ 2|   paulshe                  |  23250 |     50 |folded|    |        |
+ 3|   Chuck Thompson           |  38850 |     50 |folded|    |        |
+ 4|   Kevin Mathers            |  35650 |     50 |folded|    |        |
+ 5|   Brian K                  |  32100 |     50 |folded|    |        |
+ 6|   jasong            |  20650 |     50 |folded|    |        |
+ 7|   MikeB                    |  20550 |     50 |folded|    |        |
+ 8|D> Alphabits                |  50750 |   2950 |      |    |        |
+ 9|   Rob CutStyle             |  27050 |    250 |folded|    |        |
+10|   Toronado13               |  33050 |    950 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 01/03/09 06:26:49! Dealing a new hand
+! 01/03/09 06:26:49! Everyone antes $50
+! 01/03/09 06:26:49! Rob CutStyle blinds $200
+! 01/03/09 06:26:49! Toronado13 blinds $400
+! 01/03/09 06:42:26! David Kuznick folds
+! 01/03/09 08:22:34! paulshe folds
+! 01/03/09 08:22:34! Chuck Thompson folds
+! 01/03/09 08:25:17! Kevin Mathers folds
+! 01/03/09 09:38:36! Brian K folds
+! 01/03/09 09:38:36! jasong folds
+! 01/03/09 12:48:22! MikeB folds
+! 01/03/09 14:28:34! Alphabits raises $500 
+! 01/03/09 14:43:38! Rob CutStyle folds
+! 01/03/09 15:01:14! Toronado13 calls 
+
+! 01/03/09 15:01:14! Pot right ($2500), flopping/dealing/drawing cards
+! 01/03/09 15:01:14! 2 players
+! 01/03/09 15:01:14! Flopped cards: 5h 7c 5c
+! 01/03/09 15:01:57! Toronado13 checks
+! 01/03/09 15:05:20! Alphabits bets $2000 
+! 01/03/09 15:05:56! Toronado13 folds
+! Hand over, no showdown
+! Current board is:  5h 7c 5c ? ?
+! Alphabits wins $4500 (net $1550)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   David Kuznick            |  22200 |        |      |    |        |
+ 2|   paulshe                  |  23250 |        |      |    |        |
+ 3|   Chuck Thompson           |  38850 |        |      |    |        |
+ 4|   Kevin Mathers            |  35650 |        |      |    |        |
+ 5|   Brian K                  |  32100 |        |      |    |        |
+ 6|   jasong            |  20650 |        |      |    |        |
+ 7|   MikeB                    |  20550 |        |      |    |        |
+ 8|>  Alphabits                |  55250 |        |      |    |        |
+ 9|D  Rob CutStyle             |  27050 |        |      |    |        |
+10|   Toronado13               |  33050 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 743 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c65.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+WRGPT18 is now on a holiday until January 5, 2009.  Play continues
+but no timeouts will happen until then.
+
+The last live redraw for the "c" round could begin
+as late as January 21, 2009.
+
+Live Redraw Status as of 01/03/09 02:55:01 PM
+
+Total Empty Seats: 44
+Total Playing Seats: 743
+Live redraw in progress:
+Seats Needed: 9
+Seats Waiting: 3
+Moving Players Waiting: 0
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org
+

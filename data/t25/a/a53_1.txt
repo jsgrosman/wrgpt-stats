@@ -1,0 +1,141 @@
+
+! Table a53, Hand 1, Day 3
+
+! Motown folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|DV jasong            |  30000 |      0 | NoSho|    |        |
+ 2|   Zipper                   |  29950 |     50 |folded|    |        |
+ 3|   ADB Foldem               |  29900 |    100 |folded|    |        |
+ 4|   Motown                   |  29000 |   1000 |folded|    |        |
+ 5|   MTpotts                  |  30000 |      0 |folded|    |        |
+ 6|>  OutOnBail                |  28500 |   1500 |      |    |        |
+ 7|   Jammy Dodger             |  30000 |      0 |folded|    |        |
+ 8|   ArikK                    |  30000 |      0 |folded|    |        |
+ 9|   The Cleaner              |  30000 |      0 |folded|    |        |
+10|   ruskba                   |  30000 |      0 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 10/05/15 00:22:07! The Cleaner is back from vacation
+! 10/05/15 00:28:49! Jammy Dodger is back from vacation
+! 10/05/15 02:26:03! Motown is back from vacation
+! 10/05/15 03:10:21! OutOnBail is back from vacation
+! 10/05/15 03:45:43! Zipper is back from vacation
+! 10/05/15 04:39:08! ruskba is back from vacation
+! 10/05/15 05:20:47! MTpotts is back from vacation
+! 10/05/15 09:07:03! ADB Foldem is back from vacation
+! 10/06/15 00:45:02! Dealing a new hand
+! 10/06/15 00:45:02! No ante
+! 10/06/15 00:45:02! Zipper blinds $50
+! 10/06/15 00:45:02! ADB Foldem blinds $100
+! 10/06/15 04:54:41! ArikK is back from vacation
+! 10/06/15 06:47:12! Motown raises $200 
+! 10/06/15 10:25:52! MTpotts folds
+! 10/06/15 11:04:47! OutOnBail raises $700 
+! 10/07/15 04:05:02! Jammy Dodger folds
+! 10/07/15 08:40:44! ArikK folds
+! 10/07/15 08:40:44! The Cleaner folds
+! 10/07/15 08:40:44! ruskba folds
+! 10/07/15 08:40:44! jasong is on vacation and folds
+! 10/07/15 09:43:50! Zipper folds
+! 10/07/15 09:43:50! ADB Foldem folds
+! 10/07/15 09:43:50! Motown calls 
+
+! 10/07/15 09:43:50! Pot right ($2150), flopping/dealing/drawing cards
+! 10/07/15 09:43:50! 2 players
+! 10/07/15 09:43:50! Flopped cards: 2d 8s 4s
+! 10/07/15 09:50:20! Motown checks
+! 10/07/15 10:29:49! OutOnBail bets $500 
+! 10/07/15 12:15:14! Motown folds
+! Hand over, no showdown
+! Current board is:  2d 8s 4s ? ?
+! OutOnBail wins $2650 (net $1150)
+! Antes and blinds go up
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|V  jasong            |  30000 |        | NoSho|    |        |
+ 2|D  Zipper                   |  29950 |        |      |    |        |
+ 3|   ADB Foldem               |  29900 |        |      |    |        |
+ 4|   Motown                   |  29000 |        |      |    |        |
+ 5|   MTpotts                  |  30000 |        |      |    |        |
+ 6|>  OutOnBail                |  31150 |        |      |    |        |
+ 7|   Jammy Dodger             |  30000 |        |      |    |        |
+ 8|   ArikK                    |  30000 |        |      |    |        |
+ 9|   The Cleaner              |  30000 |        |      |    |        |
+10|   ruskba                   |  30000 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! Jammy Dodger timed out during this hand
+! 617 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/a/a53.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+This is the PRACTICE Round.  It will last about two weeks
+and could stop or restart suddenly to fix issues if found.
+
+Good luck.
+======
+
+Live Redraw Status as of 10/07/15 11:55:02 AM
+
+Total Empty Seats: 15
+Total Playing Seats: 620
+No Live redraw in progress.
+
+==========
+
+Top Gains in the Last Day
+2015-10-06 to 2015-10-07
+       Up                              : Player
+    120,150 (0 -> 120,150)             : Orestes
+     91,100 (0 -> 91,100)              : Svante Wester
+     90,300 (0 -> 90,300)              : Axel Foley
+     78,050 (26,000 -> 104,050)        : Jim Anderson
+     61,325 (0 -> 61,325)              : null
+
+Top Gains in the Last 7 Days
+2015-09-30 to 2015-10-07
+       Up                              : Player
+    180,200 (0 -> 180,200)             : polar85
+    120,150 (0 -> 120,150)             : Orestes
+    104,050 (0 -> 104,050)             : Jim Anderson
+     91,100 (0 -> 91,100)              : Svante Wester
+     90,300 (0 -> 90,300)              : Axel Foley
+
+
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+Here is a link to the railbird mailing list:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman25@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

@@ -1,0 +1,87 @@
+Message-Id: <200901241800.n0OI0u64012144@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+Reply-To: dealer@wrgpt.org
+From: dealer@wrgpt.org
+Subject: [c56.10256] Holdem Game Broadcast Message(*)          
+
+! Table c56, Hand 78, Day 83
+
+! mhug2 folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Eric Muller              |  42525 |    100 |folded|    |        |
+ 2|D  jasong            |  16300 |    100 |folded|    |        |
+ 3|   Luke C                   |      0 |  17300 |all-in|    |        |
+ 4|   Philip Tussey            |  31500 |    900 |folded|    |        |
+ 5|   Brian Seymour            |  72500 |    100 |folded|    |        |
+ 6|   CKRAIZ                   |  92600 |    100 |folded|    |        |
+ 7|   The Occupant             |  51750 |    100 |folded|    |        |
+ 8|   Guy Desjardins           |  20000 |    100 |folded|    |        |
+ 9|   bullman                  |  46600 |    100 |folded|    |        |
+10|>  mhug2                    |  14400 |   3600 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 01/23/09 10:44:45! Dealing a new hand
+! 01/23/09 10:44:45! Everyone antes $100
+! 01/23/09 10:44:45! Luke C blinds $400
+! 01/23/09 10:44:45! Philip Tussey blinds $800
+! 01/23/09 10:50:21! Brian Seymour folds
+! 01/23/09 10:54:12! CKRAIZ folds
+! 01/23/09 11:53:37! The Occupant folds
+! 01/23/09 11:53:37! Guy Desjardins folds
+! 01/23/09 11:56:15! bullman folds
+! 01/23/09 13:24:35! mhug2 raises $2700 
+! 01/23/09 13:27:40! Eric Muller folds
+! 01/23/09 13:27:40! jasong folds
+! 01/23/09 20:41:05! Luke C raises $13700 and is all in
+! 01/24/09 04:04:39! Philip Tussey folds
+! 01/24/09 10:00:53! mhug2 folds
+! Hand over, no showdown
+! Current board is:  ? ? ? ? ?
+! Luke C wins $22500 (net $5200)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Eric Muller              |  42525 |        |      |    |        |
+ 2|   jasong            |  16300 |        |      |    |        |
+ 3|D  Luke C                   |  22500 |        |      |    |        |
+ 4|   Philip Tussey            |  31500 |        |      |    |        |
+ 5|   Brian Seymour            |  72500 |        |      |    |        |
+ 6|   CKRAIZ                   |  92600 |        |      |    |        |
+ 7|   The Occupant             |  51750 |        |      |    |        |
+ 8|   Guy Desjardins           |  20000 |        |      |    |        |
+ 9|   bullman                  |  46600 |        |      |    |        |
+10|>  mhug2                    |  14400 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 572 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c56.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+There will be no more redraws for the "c" round.
+A full redraw will happen when we get a table down
+to five or less players.
+
+Live Redraw Status as of 01/24/09 09:55:01 AM
+
+Total Empty Seats: 28
+Total Playing Seats: 572
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Floorman's Blog at http://blog.wrgpt.org
+

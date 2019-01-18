@@ -1,0 +1,137 @@
+Subject: [b41.10163] Holdem Game Broadcast Message(*)
+
+! Table b41, Hand 9, Day 11
+
+! Zbigniew calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Kentr                    |   56750 |     900 |folded|    |         |
+ 2|   Zbigniew                 |   27925 |    1200 |      |    |         |
+ 3|   The Rabid Moose          |   71250 |       0 |folded|    |         |
+ 4|>  Big Stack Bryan          |   44200 |    1200 |      |    |         |
+ 5|   Berg                     |   46600 |       0 |folded|    |         |
+ 6|   Larry W                  |   47350 |     300 |folded|    |         |
+ 7|   Ron Duursma              |   64650 |    1200 |      |    |         |
+ 8|   Richard Van Horn         |   35700 |     900 |folded|    |         |
+ 9|D  Samueladams              |   49875 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/20/18 21:19:59! Dealing a new hand
+! 11/20/18 21:19:59! No ante
+! 11/20/18 21:19:59! Kentr blinds $75
+! 11/20/18 21:19:59! Zbigniew blinds $150
+! 11/21/18 01:13:56! The Rabid Moose folds
+! 11/21/18 05:05:14! Big Stack Bryan calls 
+! 11/21/18 08:45:45! Berg folds
+! 11/21/18 09:03:40! Larry W calls 
+! 11/21/18 09:03:40! Ron Duursma calls 
+! 11/21/18 09:03:40! Richard Van Horn raises $150 to $300 total 
+! 11/21/18 11:43:02! Samueladams folds
+! 11/21/18 13:27:45! Kentr calls 
+! 11/21/18 13:27:45! Zbigniew calls 
+! 11/21/18 13:46:14! Big Stack Bryan calls 
+! 11/21/18 13:46:14! Larry W calls 
+! 11/21/18 13:47:15! Ron Duursma calls 
+
+! 11/21/18 13:47:15! Pot right ($1800), flopping/dealing/drawing cards
+! 11/21/18 13:47:15! 6 players
+! 11/21/18 13:47:15! Flopped cards: 5c 10s Jh
+! 11/21/18 13:55:01! Kentr checks
+! 11/21/18 13:56:26! Zbigniew checks
+! 11/21/18 14:19:37! Big Stack Bryan bets $300 
+! 11/21/18 16:12:50! Larry W folds
+! 11/21/18 16:12:50! Ron Duursma calls 
+! 11/21/18 16:58:03! Richard Van Horn calls 
+! 11/21/18 17:15:21! Kentr calls 
+! 11/21/18 17:16:24! Zbigniew calls 
+
+! 11/21/18 17:16:24! Pot right ($3300), flopping/dealing/drawing cards
+! 11/21/18 17:16:24! 5 players
+! 11/21/18 17:16:24! Flopped card: 6c
+! 11/21/18 17:23:29! Kentr checks
+! 11/21/18 17:24:31! Zbigniew checks
+! 11/21/18 18:33:11! Big Stack Bryan bets $300 
+! 11/21/18 18:34:07! Ron Duursma calls 
+! 11/21/18 18:35:16! Richard Van Horn calls 
+! 11/21/18 21:39:26! Kentr calls 
+! 11/22/18 07:21:20! Zbigniew calls 
+
+! 11/22/18 07:21:20! Pot right ($4800), flopping/dealing/drawing cards
+! 11/22/18 07:21:20! 5 players
+! 11/22/18 07:21:20! Flopped card: 5s
+! 11/22/18 07:42:35! Kentr checks
+! 11/22/18 07:44:38! Zbigniew checks
+! 11/22/18 09:55:58! Big Stack Bryan bets $300 
+! 11/22/18 09:57:14! Ron Duursma calls 
+! 11/22/18 09:57:14! Richard Van Horn folds
+! 11/22/18 10:46:10! Kentr folds
+! 11/22/18 11:29:48! Zbigniew calls 
+! Hand over, current board is:  5c 10s Jh 6c 5s
+! Zbigniew                 has: 10h 8d
+! Big Stack Bryan          has: 3h Jd
+! Ron Duursma              has: 9s Kc
+! Big Stack Bryan wins $5700 (net $4500) with Two Pair (J J 5 5 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  Kentr                    |   56750 |         |      |    |         |
+ 2|   Zbigniew                 |   27925 |         |      |    |         |
+ 3|   The Rabid Moose          |   71250 |         |      |    |         |
+ 4|>  Big Stack Bryan          |   49900 |         |      |    |         |
+ 5|   Berg                     |   46600 |         |      |    |         |
+ 6|   Larry W                  |   47350 |         |      |    |         |
+ 7|   Ron Duursma              |   64650 |         |      |    |         |
+ 8|   Richard Van Horn         |   35700 |         |      |    |         |
+ 9|   Samueladams              |   49875 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 566 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b41.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+This is the REAL TOURNEY.  Good luck!
+
+NEW for WRGPT28 (2018-2019)
+- Nine handed table maximums
+- Live table breaks
+	Tables break and players move without stopping,
+	Breaking players are assigned to empty seats randomly.
+	You will see players leaving your table or coming to your table mid-hand.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 10
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

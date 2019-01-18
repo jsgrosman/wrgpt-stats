@@ -1,0 +1,123 @@
+
+! Table b70, Hand 22, Day 22
+
+! Wrongfellow folds
+! Thomas Gabrysch folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   patricko                 |  53450 |    200 |folded|    |        |
+ 2|D  LenFuego                 |  22250 |      0 |folded|    |        |
+ 3|   Wrongfellow              |  36750 |    200 |folded|    |        |
+ 4|   Thomas Gabrysch          |  29100 |    200 |folded|    |        |
+ 5|   Derrick Martins          |  38350 |      0 |folded|    |        |
+ 6|   Handsome Al              |  15200 |      0 |folded|    |        |
+ 7|   TheOldThug               |  48800 |      0 |folded|    |        |
+ 8|   Sarah D                  |  57000 |      0 |folded|    |        |
+ 9|   jasong            |  33100 |      0 |folded|    |        |
+10|>  J Hop                    |  28900 |   1800 |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 11/16/15 07:03:23! Dealing a new hand
+! 11/16/15 07:03:23! No ante
+! 11/16/15 07:03:23! Wrongfellow blinds $100
+! 11/16/15 07:03:23! Thomas Gabrysch blinds $200
+! 11/16/15 07:11:54! Derrick Martins folds
+_____________________________________________________________________________
+
+! Hope you had a set or better OldThug.
+! On Mon, Nov 16, 2015 at 10:03 AM, <dealer@wrgpt.org> wrote:
+! (dealer suppressed lines starting with '>' or ':')
+! -- Handsome Al --
+_____________________________________________________________________________
+
+! 11/16/15 07:11:54! Handsome Al folds
+! 11/16/15 07:40:23! TheOldThug folds
+! 11/16/15 09:17:30! Sarah D folds
+! 11/16/15 09:17:30! jasong folds
+! 11/16/15 09:18:01! J Hop calls 
+! 11/16/15 09:22:46! patricko calls 
+! 11/16/15 09:22:46! LenFuego folds
+! 11/16/15 09:22:46! Wrongfellow calls 
+! 11/16/15 09:28:59! Thomas Gabrysch checks
+
+! 11/16/15 09:28:59! Pot right ($800), flopping/dealing/drawing cards
+! 11/16/15 09:28:59! 4 players
+! 11/16/15 09:28:59! Flopped cards: 8d Kh 3c
+! 11/16/15 09:43:59! Wrongfellow checks
+! 11/16/15 09:43:59! Thomas Gabrysch checks
+! 11/16/15 10:09:34! J Hop bets $1600 
+! 11/16/15 10:09:34! patricko folds
+! 11/16/15 10:45:27! Wrongfellow folds
+! 11/16/15 10:45:27! Thomas Gabrysch folds
+! Hand over, no showdown
+! Current board is:  8d Kh 3c ? ?
+! J Hop wins $2400 (net $600)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   patricko                 |  53450 |        |      |    |        |
+ 2|   LenFuego                 |  22250 |        |      |    |        |
+ 3|D  Wrongfellow              |  36750 |        |      |    |        |
+ 4|   Thomas Gabrysch          |  29100 |        |      |    |        |
+ 5|   Derrick Martins          |  38350 |        |      |    |        |
+ 6|   Handsome Al              |  15200 |        |      |    |        |
+ 7|   TheOldThug               |  48800 |        |      |    |        |
+ 8|   Sarah D                  |  57000 |        |      |    |        |
+ 9|   jasong            |  33100 |        |      |    |        |
+10|>  J Hop                    |  31300 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 695 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b70.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Any players who have not started in WRGPT after day 30 will
+have their stacks removed from the tourney.
+
+======
+
+Live Redraw Status as of 11/16/15 10:25:02 AM
+
+Total Empty Seats: 16
+Total Playing Seats: 694
+Live redraw in progress:
+Seats Needed: 8
+Seats Waiting: 0
+Moving Players Waiting: 8
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman25@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

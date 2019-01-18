@@ -1,0 +1,133 @@
+
+! Table c5, Hand 139, Day 82
+
+! Joker calls - side pot
+! Pot right ($134475), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped card: 4h
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  Joker                    |       0 |   52025 |all-in|  2 |  109250 |
+ 2|   jasong            |  120700 |    3200 |folded|    |         |
+ 3|   Plain Ed                 |   29800 |     200 |folded|    |         |
+ 4|D  MrTiggerGolf             |   67850 |     200 |folded|    |         |
+ 5|   Pete Nerozzi             |   63975 |     800 |folded|    |         |
+ 6|   ArikK                    |       0 |   77250 |all-in|  1 |   25225 |
+ 7|   Richard Nixon            |   81875 |     200 |folded|    |         |
+ 8|   swamperflaco             |  116100 |     200 |folded|    |         |
+ 9|   Deuce Seven Off Suit     |   42975 |     200 |folded|    |         |
+10|   jhaden                   |   46900 |     200 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/11/18 18:30:54! Dealing a new hand
+! 01/11/18 18:30:54! Everyone antes $200
+! 01/11/18 18:30:54! Pete Nerozzi blinds $600
+! 01/11/18 18:30:54! ArikK blinds $1200
+! 01/11/18 19:16:52! Richard Nixon folds
+! 01/11/18 19:16:52! swamperflaco folds
+! 01/11/18 20:48:41! Deuce Seven Off Suit folds
+! 01/12/18 04:23:11! jhaden folds
+! 01/12/18 04:57:54! Joker raises $1800 to $3000 total 
+! 01/12/18 04:57:54! jasong calls 
+! 01/12/18 04:57:54! Plain Ed folds
+! 01/12/18 04:57:54! MrTiggerGolf folds
+! 01/12/18 05:01:54! Pete Nerozzi folds
+! 01/12/18 05:06:29! ArikK calls 
+
+! 01/12/18 05:06:29! Pot right ($11600), flopping/dealing/drawing cards
+! 01/12/18 05:06:29! 3 players
+! 01/12/18 05:06:29! Flopped cards: 3c Ad 4d
+! 01/12/18 06:32:02! ArikK bets $3000 
+! 01/12/18 07:14:42! Joker raises $9000 to $12000 total 
+! 01/12/18 07:14:42! jasong folds
+! 01/12/18 07:31:57! ArikK raises $9000 to $21000 total 
+! 01/12/18 09:23:02! Joker calls 
+
+! 01/12/18 09:23:02! Pot right ($53600), flopping/dealing/drawing cards
+! 01/12/18 09:23:02! 2 players
+! 01/12/18 09:23:02! Flopped card: 10s
+! 01/12/18 09:36:09! ArikK bets $53050 and is all in
+! 01/12/18 10:18:50! Joker calls - side pot
+
+! 01/12/18 10:18:50! Pot right ($134475), flopping/dealing/drawing cards
+! 01/12/18 10:18:50! 2 players, 2 all in
+! 01/12/18 10:18:50! Flopped card: 4h
+! Hand over, current board is:  3c Ad 4d 10s 4h
+! Joker                    has: Kd 3d
+! ArikK                    has: As Ac
+! Pot 1: uncalled $25225 returned to ArikK
+! Pot 2: ArikK wins $109250 with Full House (A A A 4 4)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|   jasong            |  120700 |         |      |    |         |
+ 3|   Plain Ed                 |   29800 |         |      |    |         |
+ 4|   MrTiggerGolf             |   67850 |         |      |    |         |
+ 5|D  Pete Nerozzi             |   63975 |         |      |    |         |
+ 6|   ArikK                    |  134475 |         |      |    |         |
+ 7|   Richard Nixon            |   81875 |         |      |    |         |
+ 8|   swamperflaco             |  116100 |         |      |    |         |
+ 9|   Deuce Seven Off Suit     |   42975 |         |      |    |         |
+10|   jhaden                   |   46900 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Joker is eliminated!
+! 309 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c5.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+The "c" round is going to continue.
+There was a bug in the live redraw that conflicted
+with the full redraw logic.  It broke the
+short handed table and started tables back up.
+So, "c" will continue.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Live Redraw Status as of 01/12/18 09:55:02 AM
+
+Total Empty Seats: 0
+Total Playing Seats: 310
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another to get every hand emailed.
+Info for those is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman27@wrgpt.org.
+
+Common commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+

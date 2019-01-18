@@ -1,0 +1,109 @@
+Subject: [c22.10224] Holdem Game Broadcast Message(*)
+
+! Table c22, Hand 163, Day 64
+
+! bigjimmf1 calls 
+! Pot right ($123200), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: Qc
+! Flopped card: 7c
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   siooma                   |  135450 |     600 |folded|    |         |
+ 2|   BBLWOG                   |  130375 |     100 |folded|    |         |
+ 3|   Eric Brassell            |       0 |   60550 |all-in|    |         |
+ 5|   Quick                    |   82100 |     100 |folded|    |         |
+ 6|   indiansquib              |   54050 |     100 |folded|    |         |
+ 7|   Sir Barlow               |  119050 |    1100 |folded|    |         |
+ 8|D  BrownTrout               |   89875 |     100 |folded|    |         |
+ 9|>  bigjimmf1                |  117500 |   60550 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/14/19 10:59:31! Dealing a new hand
+! 01/14/19 10:59:31! Everyone antes $100
+! 01/14/19 10:59:31! bigjimmf1 blinds $250
+! 01/14/19 10:59:31! siooma blinds $500
+! 01/14/19 11:52:42! BBLWOG folds
+! 01/14/19 11:54:14! Eric Brassell raises $500 to $1000 total 
+! 01/14/19 11:54:14! Quick folds
+! 01/14/19 11:56:09! indiansquib folds
+! 01/14/19 12:05:05! Sir Barlow calls 
+! 01/14/19 13:58:47! BrownTrout folds
+! 01/14/19 14:00:36! bigjimmf1 calls 
+! 01/14/19 15:04:29! siooma folds
+
+! 01/14/19 15:04:29! Pot right ($4300), flopping/dealing/drawing cards
+! 01/14/19 15:04:29! 3 players
+! 01/14/19 15:04:29! Flopped cards: 10h 6s Js
+! 01/14/19 15:09:36! bigjimmf1 checks
+! 01/14/19 16:32:15! Eric Brassell bets $3500 
+! 01/14/19 16:42:36! Sir Barlow folds
+! 01/14/19 17:56:24! bigjimmf1 raises $7500 to $11000 total 
+! 01/14/19 18:03:16! Eric Brassell raises $48450 to $59450 total and is all in
+! 01/14/19 18:15:15! bigjimmf1 calls 
+
+! 01/14/19 18:15:15! Pot right ($123200), flopping/dealing/drawing cards
+! 01/14/19 18:15:15! 2 players, 1 all in
+! 01/14/19 18:15:15! Flopped card: Qc
+! 01/14/19 18:15:15! Flopped card: 7c
+! Hand over, current board is:  10h 6s Js Qc 7c
+! Eric Brassell            has: Ah Jd
+! bigjimmf1                has: As 4s
+! Eric Brassell wins $123200 (net $62650) with One Pair (J J A Q 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   siooma                   |  135450 |         |      |    |         |
+ 2|   BBLWOG                   |  130375 |         |      |    |         |
+ 3|   Eric Brassell            |  123200 |         |      |    |         |
+ 5|   Quick                    |   82100 |         |      |    |         |
+ 6|   indiansquib              |   54050 |         |      |    |         |
+ 7|   Sir Barlow               |  119050 |         |      |    |         |
+ 8|   BrownTrout               |   89875 |         |      |    |         |
+ 9|D> bigjimmf1                |  117500 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 372 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c22.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+The "c" round has started.  Good luck to all
+the remaining players.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,109 @@
+Subject: [c38.10106] Holdem Game Broadcast Message(*)
+
+! Table c38, Hand 156, Day 60
+
+! ADBBingo calls 
+! Pot right ($53225), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 4c
+! Flopped card: 3h
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  DKatx512                 |       0 |   25000 |all-in|    |         |
+ 2|   dchizzle41               |  192150 |     350 |folded|    |         |
+ 3|>  ADBBingo                 |   24600 |   25000 |      |    |         |
+ 4|   Jeff Goff                |   40000 |     100 |folded|    |         |
+ 5|   Richard Rognlie          |  120125 |     100 |folded|    |         |
+ 6|   Clark Olson              |   19100 |     100 |folded|    |         |
+ 7|   Big Bobby Dollar         |  184875 |     100 |folded|    |         |
+ 8|   Mybanjo                  |   36550 |    2475 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/10/19 13:21:11! Dealing a new hand
+! 01/10/19 13:21:11! Everyone antes $100
+! 01/10/19 13:21:11! dchizzle41 blinds $250
+! 01/10/19 13:21:11! ADBBingo blinds $500
+! 01/10/19 13:23:52! Jeff Goff folds
+! 01/10/19 13:46:37! Richard Rognlie folds
+! 01/10/19 13:46:37! Clark Olson folds
+! 01/10/19 13:46:37! Big Bobby Dollar folds
+! 01/10/19 14:20:57! Mybanjo calls 
+! 01/10/19 15:48:10! ADBBingo is back from vacation
+! 01/10/19 16:56:38! DKatx512 raises $1875 to $2375 total 
+! 01/10/19 17:08:30! dchizzle41 folds
+! 01/10/19 17:13:29! ADBBingo calls 
+! 01/10/19 17:31:10! Mybanjo calls 
+
+! 01/10/19 17:31:10! Pot right ($8175), flopping/dealing/drawing cards
+! 01/10/19 17:31:10! 3 players
+! 01/10/19 17:31:10! Flopped cards: 5d Jc As
+! 01/10/19 18:09:39! ADBBingo bets $8175 
+! 01/10/19 18:18:04! Mybanjo folds
+! 01/10/19 18:29:12! DKatx512 raises $14350 to $22525 total and is all in
+! 01/10/19 18:32:02! ADBBingo calls 
+
+! 01/10/19 18:32:02! Pot right ($53225), flopping/dealing/drawing cards
+! 01/10/19 18:32:02! 2 players, 1 all in
+! 01/10/19 18:32:02! Flopped card: 4c
+! 01/10/19 18:32:02! Flopped card: 3h
+! Hand over, current board is:  5d Jc As 4c 3h
+! DKatx512                 has: Ah 2h
+! ADBBingo                 has: Ad Qd
+! DKatx512 wins $53225 (net $28225) with Straight (5 4 3 2 A)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   DKatx512                 |   53225 |         |      |    |         |
+ 2|D  dchizzle41               |  192150 |         |      |    |         |
+ 3|>  ADBBingo                 |   24600 |         |      |    |         |
+ 4|   Jeff Goff                |   40000 |         |      |    |         |
+ 5|   Richard Rognlie          |  120125 |         |      |    |         |
+ 6|   Clark Olson              |   19100 |         |      |    |         |
+ 7|   Big Bobby Dollar         |  184875 |         |      |    |         |
+ 8|   Mybanjo                  |   36550 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 384 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c38.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+The "c" round has started.  Good luck to all
+the remaining players.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 5
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

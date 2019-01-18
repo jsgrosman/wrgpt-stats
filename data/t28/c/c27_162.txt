@@ -1,0 +1,109 @@
+Subject: [c27.10171] Holdem Game Broadcast Message(*)
+
+! Table c27, Hand 162, Day 65
+
+! Nitcast folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   888                      |   95425 |     100 |folded|    |         |
+ 2|   SCM                      |   46975 |     100 |folded|    |         |
+ 3|   RunGoodRob               |   28975 |     100 |folded|    |         |
+ 4|   Nitcast                  |   89150 |    3600 |folded|    |         |
+ 5|   Andrew Nelson            |   69750 |     100 |folded|    |         |
+ 6|D  StewieG                  |   95800 |    1600 |folded|    |         |
+ 7|   Greg P.                  |   11500 |     350 |folded|    |         |
+ 8|   Dalamo                   |   52325 |     600 |folded|    |         |
+ 9|>  DocOber                  |   59750 |    5600 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/14/19 10:41:59! Dealing a new hand
+! 01/14/19 10:41:59! Everyone antes $100
+! 01/14/19 10:41:59! Greg P. blinds $250
+! 01/14/19 10:41:59! Dalamo blinds $500
+! 01/14/19 10:52:33! DocOber raises $1000 to $1500 total 
+! 01/14/19 12:08:40! 888 folds
+! 01/14/19 12:08:40! SCM folds
+! 01/14/19 12:08:40! RunGoodRob folds
+! 01/14/19 13:58:14! Nitcast calls 
+! 01/14/19 13:58:14! Andrew Nelson folds
+! 01/14/19 13:59:02! StewieG calls 
+! 01/14/19 14:00:59! Greg P. folds
+! 01/14/19 14:00:59! Dalamo folds
+
+! 01/14/19 14:00:59! Pot right ($6150), flopping/dealing/drawing cards
+! 01/14/19 14:00:59! 3 players
+! 01/14/19 14:00:59! Flopped cards: Ac 5h 4h
+! 01/14/19 20:48:51! DocOber checks
+! 01/15/19 02:44:58! Nitcast checks
+! 01/15/19 06:19:25! StewieG checks
+
+! 01/15/19 06:19:25! Pot right ($6150), flopping/dealing/drawing cards
+! 01/15/19 06:19:25! 3 players
+! 01/15/19 06:19:25! Flopped card: 7d
+! 01/15/19 06:33:12! DocOber bets $2000 
+! 01/15/19 09:01:14! Nitcast calls 
+! 01/15/19 09:06:56! StewieG folds
+
+! 01/15/19 09:06:56! Pot right ($10150), flopping/dealing/drawing cards
+! 01/15/19 09:06:56! 2 players
+! 01/15/19 09:06:56! Flopped card: 8h
+! 01/15/19 09:25:09! DocOber bets $2000 
+! 01/15/19 10:17:33! Nitcast folds
+! Hand over, no showdown
+! Current board is:  Ac 5h 4h 7d 8h
+! DocOber wins $12150 (net $6550)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   888                      |   95425 |         |      |    |         |
+ 2|   SCM                      |   46975 |         |      |    |         |
+ 3|   RunGoodRob               |   28975 |         |      |    |         |
+ 4|   Nitcast                  |   89150 |         |      |    |         |
+ 5|   Andrew Nelson            |   69750 |         |      |    |         |
+ 6|   StewieG                  |   95800 |         |      |    |         |
+ 7|D  Greg P.                  |   11500 |         |      |    |         |
+ 8|   Dalamo                   |   52325 |         |      |    |         |
+ 9|>  DocOber                  |   71900 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 369 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c27.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 4
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

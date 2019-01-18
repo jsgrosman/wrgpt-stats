@@ -1,0 +1,103 @@
+Message-Id: <201403111259.s2BCxfG3007472@elvis.wrgpt.org>
+To: grosmanjs@gmail.com
+From: dealer@wrgpt.org
+Subject: [d19.10251] Holdem Game Broadcast Message(*)                          
+
+! Table d19, Hand 179, Day 121
+
+! Shawn Pope folds
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Shawn Pope               | 186350 |   8400 |folded|    |        |
+ 2|   jasong            |  38175 |    400 |folded|    |        |
+ 3|>  bluecandy                |  91800 |  24400 |      |    |        |
+ 4|   Berglar                  |  63650 |    400 |folded|    |        |
+ 5|D  Joe Nadeau               | 377150 |    400 |folded|    |        |
+ 7|   Luigi Barone             |  38900 |   2000 |folded|    |        |
+ 9|   Indiansquib              | 221225 |   3600 |folded|    |        |
+10|   smak                     |  37900 |    400 |folded|    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! History of this hand:
+! 03/10/14 07:42:50! Dealing a new hand
+! 03/10/14 07:42:50! Everyone antes $400
+! 03/10/14 07:42:50! Luigi Barone blinds $1600
+! 03/10/14 07:42:50! Indiansquib blinds $3200
+! 03/10/14 12:03:37! smak folds
+! 03/10/14 15:15:50! Shawn Pope calls 
+! 03/10/14 15:15:50! jasong folds
+! 03/10/14 15:29:36! bluecandy raises $4800 
+! 03/10/14 15:29:36! Berglar folds
+! 03/10/14 18:49:31! Joe Nadeau folds
+! 03/10/14 18:49:31! Luigi Barone folds
+! 03/10/14 19:03:58! Indiansquib folds
+! 03/10/14 21:01:25! Shawn Pope calls 
+
+! 03/10/14 21:01:25! Pot right ($24000), flopping/dealing/drawing cards
+! 03/10/14 21:01:25! 2 players
+! 03/10/14 21:01:25! Flopped cards: 9h 10s 2h
+! 03/10/14 21:02:17! Shawn Pope checks
+! 03/10/14 22:09:11! bluecandy bets $16000 
+! 03/11/14 05:59:40! Shawn Pope folds
+! Hand over, no showdown
+! Current board is:  9h 10s 2h ? ?
+! bluecandy wins $40000 (net $15600)
++-+----------------------------+--------+--------+------+----+--------+
+|#|   Name                     |Bankroll| Action |Status|Pot#|Pot Size|
++-+----------------------------+--------+--------+------+----+--------+
+ 1|   Shawn Pope               | 186350 |        |      |    |        |
+ 2|   jasong            |  38175 |        |      |    |        |
+ 3|>  bluecandy                | 131800 |        |      |    |        |
+ 4|   Berglar                  |  63650 |        |      |    |        |
+ 5|   Joe Nadeau               | 377150 |        |      |    |        |
+ 7|D  Luigi Barone             |  38900 |        |      |    |        |
+ 9|   Indiansquib              | 221225 |        |      |    |        |
+10|   smak                     |  37900 |        |      |    |        |
++-+----------------------------+--------+--------+------+----+--------+
+! 223 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d19.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+NOTE:
+
+Daylight savings time is now in effect in the server's time zone.
+Please adjust your START time if necessary.
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+Here is a link to the railbird mailing list:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman23@wrgpt.org.
+
+Live Redraw Status as of 03/11/14 05:55:01 AM
+
+Total Empty Seats: 7
+Total Playing Seats: 223
+No Live redraw in progress.
+
+Helpful commands: - WHAT for status
+Basic advance actions:
+    BET $x | CALL $x | CALL * | FOLD | MAKE $x
+    RAISE $x | POT | CHECK | JAM | UNDO | GONE
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+Or view the manual at http://www.wrgpt.org/manual.html
+
+Also on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
