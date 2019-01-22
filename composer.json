@@ -1,6 +1,10 @@
 {
   "require": {
-    "phpunit/phpunit": "4.8.*"
+    "phpunit/phpunit": "4.8.*",
+    "ext-pdo": "*",
+    "ext-intl": "*",
+    "ext-json": "*",
+    "ext-curl": "*",
   },
   "autoload": {
     "psr-4": {

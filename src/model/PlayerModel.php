@@ -44,19 +44,18 @@ SQL;
         $count = 0;
         foreach ($result as $hourResult)
         {
-            $key = ($hourResult['hour_of_day'] + 3) % 24; // convert to EST
             $value = $hourResult['hourCount'];
-
             $count += intval($value);
         }
 
+        $countOfActions = array_reduce($result, function($sum, $val) { return $sum + $val['hourCount'];});
         foreach ($result as $hourResult)
         {
             $key = ($hourResult['hour_of_day'] + 3) % 24; // convert to EST
             $value = $hourResult['hourCount'];
 
             $count += intval($value);
-            $ret[$key . ':00'] = floatval(number_format((intval($value) / $count) * 100, 2));
+            $ret[$key . ':00'] = floatval(number_format((intval($value) / $countOfActions) * 100, 2));
         }
 
         return $ret;

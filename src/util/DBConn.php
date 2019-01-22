@@ -98,6 +98,8 @@ class DBConn
         } catch (\Exception $e) {
             error_log($e);
         }
+
+        return [];
     }
 
     /**
@@ -122,6 +124,8 @@ class DBConn
         } catch (\Exception $e) {
             error_log($e);
         }
+
+        return 0;
     }
 
 }
