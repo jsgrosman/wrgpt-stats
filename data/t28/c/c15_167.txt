@@ -1,0 +1,104 @@
+Subject: [c15.10232] Holdem Game Broadcast Message(*)
+
+! Table c15, Hand 167, Day 68
+
+! WhyImHere raises $30050 to $68050 total 
+! Pot right ($107450), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped cards: Kc Qc Ah
+! Flopped card: 9d
+! Flopped card: Ac
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   David McVay              |       0 |   38100 |all-in|  2 |   77400 |
+ 2|D  Alvin Chipmunk           |   42300 |     100 |folded|    |         |
+ 3|>  WhyImHere                |     550 |   68150 |      |  1 |   30050 |
+ 4|   J. Michael Hammond       |   50700 |     600 |folded|    |         |
+ 5|   Wally F                  |  104075 |     100 |folded|    |         |
+ 6|   Morgan                   |   36350 |     100 |folded|    |         |
+ 7|   asypta                   |  125550 |     100 |folded|    |         |
+ 8|   MarinaMan                |   41550 |     100 |folded|    |         |
+ 9|   Chris Danek              |   89950 |     100 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/17/19 14:49:32! Dealing a new hand
+! 01/17/19 14:49:32! Everyone antes $100
+! 01/17/19 14:49:32! WhyImHere blinds $250
+! 01/17/19 14:49:32! J. Michael Hammond blinds $500
+! 01/17/19 14:56:08! Wally F folds
+! 01/17/19 15:22:45! Morgan folds
+! 01/17/19 15:22:45! asypta folds
+! 01/17/19 15:22:45! MarinaMan folds
+! 01/17/19 15:22:45! Chris Danek folds
+! 01/17/19 16:03:32! David McVay raises $2150 to $2650 total 
+! 01/17/19 18:46:47! Alvin Chipmunk folds
+! 01/17/19 19:53:16! WhyImHere raises $5400 to $8050 total 
+! 01/17/19 21:22:35! J. Michael Hammond folds
+! 01/18/19 04:45:49! David McVay raises $29950 to $38000 total and is all in
+! 01/18/19 05:02:54! WhyImHere raises $30050 to $68050 total 
+
+! 01/18/19 05:02:54! Pot right ($107450), flopping/dealing/drawing cards
+! 01/18/19 05:02:54! 2 players, 1 all in
+! 01/18/19 05:02:54! Flopped cards: Kc Qc Ah
+! 01/18/19 05:02:54! Flopped card: 9d
+! 01/18/19 05:02:54! Flopped card: Ac
+! Hand over, current board is:  Kc Qc Ah 9d Ac
+! David McVay              has: 10h 10c
+! WhyImHere                has: Ks Kh
+! Pot 1: uncalled $30050 returned to WhyImHere
+! Pot 2: WhyImHere wins $77400 with Full House (K K K A A)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|   Alvin Chipmunk           |   42300 |         |      |    |         |
+ 3|D> WhyImHere                |  108000 |         |      |    |         |
+ 4|   J. Michael Hammond       |   50700 |         |      |    |         |
+ 5|   Wally F                  |  104075 |         |      |    |         |
+ 6|   Morgan                   |   36350 |         |      |    |         |
+ 7|   asypta                   |  125550 |         |      |    |         |
+ 8|   MarinaMan                |   41550 |         |      |    |         |
+ 9|   Chris Danek              |   89950 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! David McVay is eliminated!
+! 355 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c15.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

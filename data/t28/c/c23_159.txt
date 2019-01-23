@@ -1,0 +1,115 @@
+Subject: [c23.10151] Holdem Game Broadcast Message(*)
+
+! Table c23, Hand 159, Day 69
+
+! Mark Ballinger calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Mark Ballinger           |   27550 |   12600 |      |    |         |
+ 2|   PMD                      |   44425 |     100 |folded|    |         |
+ 3|D  Ben Buchwald             |  108325 |     100 |folded|    |         |
+ 4|   LetsGoRedSox             |  149800 |     600 |folded|    |         |
+ 5|   Daryl                    |   62625 |     600 |folded|    |         |
+ 6|   Darse Billings           |   59975 |     100 |folded|    |         |
+ 7|   Jason Feng               |   58075 |     100 |folded|    |         |
+ 8|   Paul Ant                 |   73875 |     100 |folded|    |         |
+ 9|>  HeyBuster                |   71150 |   12600 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/17/19 17:59:43! Dealing a new hand
+! 01/17/19 17:59:43! Everyone antes $100
+! 01/17/19 17:59:43! LetsGoRedSox blinds $250
+! 01/17/19 17:59:43! Daryl blinds $500
+! 01/18/19 04:41:02! Darse Billings folds
+! 01/18/19 09:01:52! Jason Feng folds
+! 01/18/19 09:01:52! Paul Ant folds
+! 01/18/19 09:01:52! HeyBuster calls 
+! 01/18/19 11:40:22! Mark Ballinger calls 
+! 01/18/19 13:51:54! PMD folds
+! 01/18/19 13:51:54! Ben Buchwald folds
+! 01/18/19 14:28:01! LetsGoRedSox calls 
+! 01/18/19 14:34:22! Daryl checks
+
+! 01/18/19 14:34:22! Pot right ($2900), flopping/dealing/drawing cards
+! 01/18/19 14:34:22! 4 players
+! 01/18/19 14:34:22! Flopped cards: Kh 7c Ks
+! 01/18/19 14:44:54! LetsGoRedSox checks
+! 01/19/19 04:43:55! Daryl checks
+! 01/19/19 04:43:55! HeyBuster checks
+! 01/19/19 06:17:27! Mark Ballinger bets $2000 
+! 01/19/19 07:23:18! LetsGoRedSox folds
+! 01/19/19 10:42:18! Daryl folds
+! 01/19/19 11:15:09! HeyBuster calls 
+
+! 01/19/19 11:15:09! Pot right ($6900), flopping/dealing/drawing cards
+! 01/19/19 11:15:09! 2 players
+! 01/19/19 11:15:09! Flopped card: 7h
+! 01/19/19 11:27:55! HeyBuster bets $5000 
+! 01/19/19 12:41:07! Mark Ballinger calls 
+
+! 01/19/19 12:41:07! Pot right ($16900), flopping/dealing/drawing cards
+! 01/19/19 12:41:07! 2 players
+! 01/19/19 12:41:07! Flopped card: 4c
+! 01/19/19 13:31:09! HeyBuster bets $5000 
+! 01/19/19 14:01:31! Mark Ballinger calls 
+! Hand over, current board is:  Kh 7c Ks 7h 4c
+! Mark Ballinger           has: Kc 6c
+! HeyBuster                has: Kd Qd
+! Mark Ballinger wins $13450 (net $850) with Full House (K K K 7 7)
+! HeyBuster wins $13450 (net $850) with Full House (K K K 7 7)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Mark Ballinger           |   41000 |         |      |    |         |
+ 2|   PMD                      |   44425 |         |      |    |         |
+ 3|   Ben Buchwald             |  108325 |         |      |    |         |
+ 4|D  LetsGoRedSox             |  149800 |         |      |    |         |
+ 5|   Daryl                    |   62625 |         |      |    |         |
+ 6|   Darse Billings           |   59975 |         |      |    |         |
+ 7|   Jason Feng               |   58075 |         |      |    |         |
+ 8|   Paul Ant                 |   73875 |         |      |    |         |
+ 9|>  HeyBuster                |   84600 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Darse Billings went on vacation until monday
+! 351 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c23.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

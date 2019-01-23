@@ -1,0 +1,112 @@
+Subject: [c12.10422] Holdem Game Broadcast Message(*)
+
+! Table c12, Hand 185, Day 72
+
+! DaveKal calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   DangerDan                |       0 |    1850 |all-in|  4 |    8800 |
+ 2|   Don Overton              |  172250 |     200 |folded|    |         |
+ 3|D  Kyle Stein               |   22600 |     200 |folded|    |         |
+ 4|   Deryl Garland            |  116500 |     800 |folded|    |         |
+ 5|>  JPP                      |   77925 |   20250 |      |  2 |   36800 |
+ 6|   Statistical Tie          |  115725 |     200 |folded|    |         |
+ 8|   Chevy                    |  140225 |    1850 |folded|    |         |
+ 9|   DaveKal                  |   77150 |   20250 |      |  2 |   36800 |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/22/19 04:47:18! Dealing a new hand
+! 01/22/19 04:47:18! Everyone antes $200
+! 01/22/19 04:47:18! Deryl Garland blinds $600
+! 01/22/19 04:47:18! JPP blinds $1200
+! 01/22/19 04:56:34! Statistical Tie folds
+! 01/22/19 05:39:34! Chevy calls 
+! 01/22/19 12:56:17! DaveKal calls 
+! 01/22/19 12:56:17! DangerDan raises $450 to $1650 total and is all in
+! 01/22/19 12:56:17! Don Overton folds
+! 01/22/19 12:57:09! Kyle Stein folds
+! 01/22/19 12:57:09! Deryl Garland folds
+! 01/22/19 13:35:50! JPP calls 
+! 01/22/19 13:48:24! Chevy calls 
+! 01/22/19 14:07:02! DaveKal calls 
+
+! 01/22/19 14:07:02! Pot right ($8800), flopping/dealing/drawing cards
+! 01/22/19 14:07:02! 4 players, 1 all in
+! 01/22/19 14:07:02! Flopped cards: Js Qs 10s
+! 01/22/19 14:13:20! JPP checks
+! 01/22/19 14:49:30! Chevy checks
+! 01/22/19 14:50:24! DaveKal bets $4400 
+! 01/22/19 14:52:28! JPP calls 
+! 01/22/19 14:52:28! Chevy folds
+
+! 01/22/19 14:52:28! Pot right ($17600), flopping/dealing/drawing cards
+! 01/22/19 14:52:28! 3 players, 1 all in
+! 01/22/19 14:52:28! Flopped card: 7h
+! 01/22/19 14:58:20! JPP checks
+! 01/22/19 15:00:13! DaveKal checks
+
+! 01/22/19 15:00:13! Pot right ($17600), flopping/dealing/drawing cards
+! 01/22/19 15:00:13! 3 players, 1 all in
+! 01/22/19 15:00:13! Flopped card: 10h
+! 01/22/19 16:44:03! JPP bets $14000 
+! 01/22/19 16:47:14! DaveKal calls 
+! Hand over, current board is:  Js Qs 10s 7h 10h
+! DangerDan                has: Ah 9d
+! JPP                      has: 10d Jc
+! DaveKal                  has: Kh Qd
+! Pot 2: JPP wins $36800 with Full House (10 10 10 J J)
+! Pot 4: JPP wins $8800 with Full House (10 10 10 J J)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|   Don Overton              |  172250 |         |      |    |         |
+ 3|   Kyle Stein               |   22600 |         |      |    |         |
+ 4|D  Deryl Garland            |  116500 |         |      |    |         |
+ 5|>  JPP                      |  123525 |         |      |    |         |
+ 6|   Statistical Tie          |  115725 |         |      |    |         |
+ 8|   Chevy                    |  140225 |         |      |    |         |
+ 9|   DaveKal                  |   77150 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! DangerDan is eliminated!
+! 335 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c12.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 5
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

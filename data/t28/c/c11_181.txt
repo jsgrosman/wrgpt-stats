@@ -1,0 +1,117 @@
+Subject: [c11.10319] Holdem Game Broadcast Message(*)
+
+! Table c11, Hand 181, Day 72
+
+! GKinz54 checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Keith Troell             |  111375 |     200 |folded|    |         |
+ 2|D  lektoraj                 |  119800 |    3200 |folded|    |         |
+ 3|   UConn2004                |  333675 |     800 |folded|    |         |
+ 4|   Julie Greenberg          |  142075 |    3200 |folded|    |         |
+ 5|   Ira Agins                |   27125 |     200 |folded|    |         |
+ 6|   Ben Irving               |   51525 |     200 |folded|    |         |
+ 7|>  Mike Sager               |   91950 |   20550 |      |    |         |
+ 8|   Mrstcao                  |  210625 |    8050 |folded|    |         |
+ 9|   GKinz54                  |   87725 |   20550 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/21/19 11:55:08! Dealing a new hand
+! 01/21/19 11:55:08! Everyone antes $200
+! 01/21/19 11:55:08! UConn2004 blinds $600
+! 01/21/19 11:55:08! Julie Greenberg blinds $1200
+! 01/21/19 12:16:30! Ira Agins folds
+! 01/21/19 13:10:33! Ben Irving folds
+! 01/21/19 13:12:38! Mike Sager calls 
+! 01/21/19 13:13:36! Mrstcao raises $1800 to $3000 total 
+! 01/21/19 13:14:07! GKinz54 calls 
+! 01/21/19 13:14:07! Keith Troell folds
+! 01/21/19 13:59:44! lektoraj calls 
+! 01/21/19 13:59:44! UConn2004 folds
+! 01/21/19 14:28:39! Julie Greenberg calls 
+! 01/21/19 14:31:09! Mike Sager calls 
+
+! 01/21/19 14:31:09! Pot right ($17400), flopping/dealing/drawing cards
+! 01/21/19 14:31:09! 5 players
+! 01/21/19 14:31:09! Flopped cards: 4c Qh Ah
+! 01/21/19 14:59:13! Julie Greenberg checks
+! 01/21/19 15:05:56! Mike Sager checks
+! 01/21/19 15:15:21! Mrstcao bets $4850 
+! 01/21/19 15:17:30! GKinz54 calls 
+! 01/21/19 21:33:45! lektoraj folds
+! 01/21/19 21:33:45! Julie Greenberg folds
+! 01/21/19 22:29:53! Mike Sager calls 
+
+! 01/21/19 22:29:53! Pot right ($31950), flopping/dealing/drawing cards
+! 01/21/19 22:29:53! 3 players
+! 01/21/19 22:29:53! Flopped card: 9s
+! 01/21/19 22:31:36! Mike Sager checks
+! 01/22/19 07:21:26! Mrstcao checks
+! 01/22/19 07:31:15! GKinz54 bets $12500 
+! 01/22/19 07:34:22! Mike Sager calls 
+! 01/22/19 07:35:08! Mrstcao folds
+
+! 01/22/19 07:35:08! Pot right ($56950), flopping/dealing/drawing cards
+! 01/22/19 07:35:08! 2 players
+! 01/22/19 07:35:08! Flopped card: 5d
+! 01/22/19 07:36:00! Mike Sager checks
+! 01/22/19 07:38:40! GKinz54 checks
+! Hand over, current board is:  4c Qh Ah 9s 5d
+! Mike Sager               has: Kh Jh
+! GKinz54                  has: Ad Jc
+! GKinz54 wins $56950 (net $36400) with One Pair (A A Q J 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Keith Troell             |  111375 |         |      |    |         |
+ 2|   lektoraj                 |  119800 |         |      |    |         |
+ 3|D  UConn2004                |  333675 |         |      |    |         |
+ 4|   Julie Greenberg          |  142075 |         |      |    |         |
+ 5|   Ira Agins                |   27125 |         |      |    |         |
+ 6|   Ben Irving               |   51525 |         |      |    |         |
+ 7|>  Mike Sager               |   91950 |         |      |    |         |
+ 8|   Mrstcao                  |  210625 |         |      |    |         |
+ 9|   GKinz54                  |  144675 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 342 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c11.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

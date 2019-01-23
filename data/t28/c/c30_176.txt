@@ -1,0 +1,110 @@
+Subject: [c30.10297] Holdem Game Broadcast Message(*)
+
+! Table c30, Hand 176, Day 72
+
+! EWalk calls - side pot
+! Pot right ($148900), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped card: Qd
+! Flopped card: 10h
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   lawrence s               |       0 |   98350 |all-in|  1 |   52400 |
+ 2|D  DadSaysDOH               |   50050 |     200 |folded|    |         |
+ 3|   pocketaces               |   14225 |     800 |folded|    |         |
+ 4|   Derek Noakes             |   56475 |    3000 |folded|    |         |
+ 5|   Kentr                    |   42775 |     200 |folded|    |         |
+ 6|   delbaeth                 |  161450 |     200 |folded|    |         |
+ 7|>  EWalk                    |       0 |   45950 |all-in|  2 |   96500 |
+ 8|   Stanley Chow             |  114675 |     200 |folded|    |         |
+ 9|   denimmined               |   10150 |       0 |New   |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/22/19 09:49:02! Dealing a new hand
+! 01/22/19 09:49:02! Everyone antes $200
+! 01/22/19 09:49:02! pocketaces blinds $600
+! 01/22/19 09:49:02! Derek Noakes blinds $1200
+! 01/22/19 10:49:11! Kentr folds
+! 01/22/19 10:49:11! delbaeth folds
+! 01/22/19 11:03:12! EWalk raises $1600 to $2800 total 
+! 01/22/19 11:03:12! Stanley Chow folds
+! 01/22/19 11:05:32! lawrence s calls 
+! 01/22/19 11:14:34! DadSaysDOH folds
+! 01/22/19 12:03:31! pocketaces folds
+! 01/22/19 13:47:23! Derek Noakes calls 
+
+! 01/22/19 13:47:23! Pot right ($10600), flopping/dealing/drawing cards
+! 01/22/19 13:47:23! 3 players
+! 01/22/19 13:47:23! Flopped cards: Qh Jc 2c
+! 01/22/19 13:51:59! Derek Noakes checks
+! 01/22/19 13:56:54! EWalk bets $8000 
+! 01/22/19 14:10:57! lawrence s raises $87350 to $95350 total and is all in
+! 01/22/19 14:24:36! Derek Noakes folds
+! 01/22/19 14:25:05! New player added to the table: denimmined
+! 01/22/19 16:28:35! EWalk calls - side pot
+
+! 01/22/19 16:28:35! Pot right ($148900), flopping/dealing/drawing cards
+! 01/22/19 16:28:35! 2 players, 2 all in
+! 01/22/19 16:28:35! Flopped card: Qd
+! 01/22/19 16:28:35! Flopped card: 10h
+! Hand over, current board is:  Qh Jc 2c Qd 10h
+! lawrence s               has: Kh Jh
+! EWalk                    has: Ad Qc
+! Pot 1: uncalled $52400 returned to lawrence s
+! Pot 2: EWalk wins $96500 with Three of a Kind (Q Q Q A J)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   lawrence s               |   52400 |         |      |    |         |
+ 2|   DadSaysDOH               |   50050 |         |      |    |         |
+ 3|D  pocketaces               |   14225 |         |      |    |         |
+ 4|   Derek Noakes             |   56475 |         |      |    |         |
+ 5|   Kentr                    |   42775 |         |      |    |         |
+ 6|   delbaeth                 |  161450 |         |      |    |         |
+ 7|>  EWalk                    |   96500 |         |      |    |         |
+ 8|   Stanley Chow             |  114675 |         |      |    |         |
+ 9|   denimmined               |   10150 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! denimmined timed out during this hand
+! 336 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c30.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 5
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

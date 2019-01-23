@@ -1,0 +1,112 @@
+Subject: [c21.10304] Holdem Game Broadcast Message(*)
+
+! Table c21, Hand 171, Day 72
+
+! JRX calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Andy Pierce              |   63425 |     200 |folded|    |         |
+ 2|   sgranen                  |   81025 |     200 |folded|    |         |
+ 3|   TheOldThug               |   67875 |     200 |folded|    |         |
+ 4|   Ace Squared              |   40300 |    1400 |folded|    |         |
+ 5|   dgr                      |  114750 |     200 |folded|    |         |
+ 6|>  Polar85                  |   48150 |   12400 |      |    |         |
+ 7|D  acadonnelly              |   50275 |     200 |folded|    |         |
+ 8|   Donald Neilson           |  160050 |    1400 |folded|    |         |
+ 9|   JRX                      |   86550 |   12400 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/21/19 14:56:11! Dealing a new hand
+! 01/21/19 14:56:11! Everyone antes $200
+! 01/21/19 14:56:11! Donald Neilson blinds $600
+! 01/21/19 14:56:11! JRX blinds $1200
+! 01/21/19 14:58:47! Andy Pierce folds
+! 01/21/19 18:28:31! sgranen folds
+! 01/21/19 18:31:04! TheOldThug folds
+! 01/22/19 01:50:03! Ace Squared calls 
+! 01/22/19 01:50:03! dgr folds
+! 01/22/19 05:02:47! Polar85 calls 
+! 01/22/19 05:05:47! acadonnelly folds
+! 01/22/19 07:17:36! Donald Neilson calls 
+! 01/22/19 07:17:36! JRX checks
+
+! 01/22/19 07:17:36! Pot right ($6600), flopping/dealing/drawing cards
+! 01/22/19 07:17:36! 4 players
+! 01/22/19 07:17:36! Flopped cards: Ks Qc Ad
+! 01/22/19 07:18:14! Donald Neilson checks
+! 01/22/19 07:43:11! JRX bets $4000 
+! 01/22/19 08:34:16! Ace Squared folds
+! 01/22/19 09:09:13! Polar85 calls 
+! 01/22/19 09:09:13! Donald Neilson folds
+
+! 01/22/19 09:09:13! Pot right ($14600), flopping/dealing/drawing cards
+! 01/22/19 09:09:13! 2 players
+! 01/22/19 09:09:13! Flopped card: 7s
+! 01/22/19 09:46:39! JRX checks
+! 01/22/19 10:31:57! Polar85 checks
+
+! 01/22/19 10:31:57! Pot right ($14600), flopping/dealing/drawing cards
+! 01/22/19 10:31:57! 2 players
+! 01/22/19 10:31:57! Flopped card: 6h
+! 01/22/19 10:33:21! JRX checks
+! 01/22/19 10:35:58! Polar85 bets $7000 
+! 01/22/19 10:39:01! JRX calls 
+! Hand over, current board is:  Ks Qc Ad 7s 6h
+! Polar85                  has: 10s Jh
+! JRX                      has: 3s Qd
+! Polar85 wins $28600 (net $16200) with Straight (A K Q J 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Andy Pierce              |   63425 |         |      |    |         |
+ 2|   sgranen                  |   81025 |         |      |    |         |
+ 3|   TheOldThug               |   67875 |         |      |    |         |
+ 4|   Ace Squared              |   40300 |         |      |    |         |
+ 5|   dgr                      |  114750 |         |      |    |         |
+ 6|>  Polar85                  |   76750 |         |      |    |         |
+ 7|   acadonnelly              |   50275 |         |      |    |         |
+ 8|D  Donald Neilson           |  160050 |         |      |    |         |
+ 9|   JRX                      |   86550 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 340 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c21.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

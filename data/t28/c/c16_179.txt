@@ -1,0 +1,111 @@
+Subject: [c16.10360] Holdem Game Broadcast Message(*)
+
+! Table c16, Hand 179, Day 72
+
+! Fish Doctor calls - side pot
+! Pot right ($89925), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped card: 9c
+! Flopped card: Qs
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   ThinkingPokerAndrew      |   19625 |     200 |folded|    |         |
+ 2|>  Fish Doctor              |       0 |   35175 |all-in|  2 |   77550 |
+ 3|   Sue N                    |   81050 |     200 |folded|    |         |
+ 4|   dave                     |       0 |   47550 |all-in|  1 |   12375 |
+ 5|D  BaconPancakes            |   33925 |     200 |folded|    |         |
+ 6|   TwelveSeven              |  208550 |     800 |folded|    |         |
+ 7|   All In a daze work       |  179750 |    2800 |folded|    |         |
+ 8|   rbmoore                  |   49200 |     200 |folded|    |         |
+ 9|   sltLonghorn              |  249225 |    2800 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/22/19 08:38:32! Dealing a new hand
+! 01/22/19 08:38:32! Everyone antes $200
+! 01/22/19 08:38:32! TwelveSeven blinds $600
+! 01/22/19 08:38:32! All In a daze work blinds $1200
+! 01/22/19 08:41:48! rbmoore folds
+! 01/22/19 09:24:04! sltLonghorn raises $1400 to $2600 total 
+! 01/22/19 09:30:35! ThinkingPokerAndrew folds
+! 01/22/19 10:14:15! Fish Doctor calls 
+! 01/22/19 10:14:15! Sue N folds
+! 01/22/19 11:36:29! dave calls 
+! 01/22/19 11:36:29! BaconPancakes folds
+! 01/22/19 11:36:29! TwelveSeven folds
+! 01/22/19 14:32:29! All In a daze work calls 
+
+! 01/22/19 14:32:29! Pot right ($12800), flopping/dealing/drawing cards
+! 01/22/19 14:32:29! 4 players
+! 01/22/19 14:32:29! Flopped cards: 10c 8d 7d
+! 01/22/19 14:38:26! All In a daze work checks
+! 01/22/19 14:51:49! sltLonghorn checks
+! 01/22/19 15:23:16! Fish Doctor bets $4000 
+! 01/22/19 15:36:07! dave raises $40750 to $44750 total and is all in
+! 01/22/19 15:55:50! All In a daze work folds
+! 01/22/19 15:55:50! sltLonghorn folds
+! 01/22/19 16:26:56! Fish Doctor calls - side pot
+
+! 01/22/19 16:26:56! Pot right ($89925), flopping/dealing/drawing cards
+! 01/22/19 16:26:56! 2 players, 2 all in
+! 01/22/19 16:26:56! Flopped card: 9c
+! 01/22/19 16:26:56! Flopped card: Qs
+! Hand over, current board is:  10c 8d 7d 9c Qs
+! Fish Doctor              has: 7s 7h
+! dave                     has: Qd 10d
+! Pot 1: uncalled $12375 returned to dave
+! Pot 2: Fish Doctor wins $77550 with Three of a Kind (7 7 7 Q 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   ThinkingPokerAndrew      |   19625 |         |      |    |         |
+ 2|>  Fish Doctor              |   77550 |         |      |    |         |
+ 3|   Sue N                    |   81050 |         |      |    |         |
+ 4|   dave                     |   12375 |         |      |    |         |
+ 5|   BaconPancakes            |   33925 |         |      |    |         |
+ 6|D  TwelveSeven              |  208550 |         |      |    |         |
+ 7|   All In a daze work       |  179750 |         |      |    |         |
+ 8|   rbmoore                  |   49200 |         |      |    |         |
+ 9|   sltLonghorn              |  249225 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 336 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c16.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 5
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

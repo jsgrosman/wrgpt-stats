@@ -1,0 +1,108 @@
+Subject: [c9.10222] Holdem Game Broadcast Message(*)
+
+! Table c9, Hand 168, Day 68
+
+! CAB folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   ddppmm                   |   36150 |     100 |folded|    |         |
+ 2|   Nathan Zuercher          |   37575 |     100 |folded|    |         |
+ 3|D  Rkal                     |  104000 |     100 |folded|    |         |
+ 4|V  Taki                     |   39300 |     350 |   Too|    |         |
+ 5|   Steb                     |       0 |   51975 |all-in|    |         |
+ 6|>  CAB                      |   64300 |   11000 |folded|    |         |
+ 7|   tristero                 |  137775 |     600 |folded|    |         |
+ 8|   Stubey                   |   64100 |     100 |folded|    |         |
+ 9|   Klod                     |  117525 |     100 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/18/19 12:57:43! Dealing a new hand
+! 01/18/19 12:57:43! Everyone antes $100
+! 01/18/19 12:57:43! Taki blinds $250
+! 01/18/19 12:57:43! Steb blinds $500
+! 01/18/19 14:07:39! CAB calls 
+! 01/18/19 14:07:39! tristero calls 
+! 01/18/19 14:11:54! Stubey folds
+! 01/18/19 14:11:54! Klod folds
+! 01/18/19 14:11:54! ddppmm folds
+! 01/18/19 17:46:23! Nathan Zuercher folds
+! 01/18/19 17:46:23! Rkal folds
+! 01/18/19 17:46:23! Taki is on vacation and folds
+! 01/18/19 18:01:07! Steb checks
+
+! 01/18/19 18:01:07! Pot right ($2650), flopping/dealing/drawing cards
+! 01/18/19 18:01:07! 3 players
+! 01/18/19 18:01:07! Flopped cards: Js 8d 4d
+! 01/18/19 18:04:29! Steb bets $2400 
+! 01/18/19 18:12:33! CAB calls 
+! 01/18/19 18:12:33! tristero folds
+
+! 01/18/19 18:12:33! Pot right ($7450), flopping/dealing/drawing cards
+! 01/18/19 18:12:33! 2 players
+! 01/18/19 18:12:33! Flopped card: Qh
+! 01/18/19 18:16:09! Steb bets $8000 
+! 01/18/19 18:26:39! CAB calls 
+
+! 01/18/19 18:26:39! Pot right ($23450), flopping/dealing/drawing cards
+! 01/18/19 18:26:39! 2 players
+! 01/18/19 18:26:39! Flopped card: 4h
+! 01/18/19 18:37:21! Steb bets $40975 and is all in
+! 01/18/19 18:41:26! CAB folds
+! Hand over, no showdown
+! Current board is:  Js 8d 4d Qh 4h
+! Steb wins $64425 (net $12450)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   ddppmm                   |   36150 |         |      |    |         |
+ 2|   Nathan Zuercher          |   37575 |         |      |    |         |
+ 3|   Rkal                     |  104000 |         |      |    |         |
+ 4|DV Taki                     |   39300 |         |   Too|    |         |
+ 5|   Steb                     |   64425 |         |      |    |         |
+ 6|>  CAB                      |   64300 |         |      |    |         |
+ 7|   tristero                 |  137775 |         |      |    |         |
+ 8|   Stubey                   |   64100 |         |      |    |         |
+ 9|   Klod                     |  117525 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 357 players left in the tournament, 2 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c9.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 12
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

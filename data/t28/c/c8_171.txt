@@ -1,0 +1,112 @@
+Subject: [c8.10279] Holdem Game Broadcast Message(*)
+
+! Table c8, Hand 171, Day 71
+
+! Loudlion checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|V  Options Dee              |   44525 |     200 |<AWOL>|    |         |
+ 2|   Ed Baker                 |   52950 |     200 |folded|    |         |
+ 3|V  grendel                  |   42725 |     200 |<AWOL>|    |         |
+ 4|   Loudlion                 |  138025 |    7400 |      |    |         |
+ 5|   Mugsy                    |   40375 |     200 |folded|    |         |
+ 6|D  Stephen Mack             |  100325 |    1400 |folded|    |         |
+ 7|   Stephen Opal             |   40800 |    1400 |folded|    |         |
+ 8|>  Josh Goldshlag           |  143000 |    7400 |      |    |         |
+ 9|   BigElmo                  |   93700 |     200 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/21/19 06:21:36! Dealing a new hand
+! 01/21/19 06:21:36! Everyone antes $200
+! 01/21/19 06:21:36! Stephen Opal blinds $600
+! 01/21/19 06:21:36! Josh Goldshlag blinds $1200
+! 01/21/19 07:44:40! BigElmo folds
+! 01/21/19 07:44:40! Options Dee is on vacation and folds
+! 01/21/19 08:05:01! Ed Baker folds
+! 01/21/19 08:05:01! grendel is on vacation and folds
+! 01/21/19 08:58:01! Loudlion calls 
+! 01/21/19 08:58:01! Mugsy folds
+! 01/21/19 09:03:40! Stephen Mack calls 
+! 01/21/19 09:25:30! Stephen Opal calls 
+! 01/21/19 10:34:17! Josh Goldshlag checks
+
+! 01/21/19 10:34:17! Pot right ($6600), flopping/dealing/drawing cards
+! 01/21/19 10:34:17! 4 players
+! 01/21/19 10:34:17! Flopped cards: As Ac Jd
+! 01/21/19 10:41:25! Stephen Opal checks
+! 01/21/19 11:05:22! Josh Goldshlag bets $3000 
+! 01/21/19 11:52:24! Loudlion calls 
+! 01/21/19 12:56:32! Stephen Mack folds
+! 01/21/19 12:56:32! Stephen Opal folds
+
+! 01/21/19 12:56:32! Pot right ($12600), flopping/dealing/drawing cards
+! 01/21/19 12:56:32! 2 players
+! 01/21/19 12:56:32! Flopped card: 7d
+! 01/21/19 18:13:20! Josh Goldshlag checks
+! 01/21/19 18:29:17! Loudlion bets $3000 
+! 01/21/19 21:04:15! Josh Goldshlag calls 
+
+! 01/21/19 21:04:15! Pot right ($18600), flopping/dealing/drawing cards
+! 01/21/19 21:04:15! 2 players
+! 01/21/19 21:04:15! Flopped card: 10s
+! 01/21/19 21:04:52! Josh Goldshlag checks
+! 01/21/19 23:40:05! Loudlion checks
+! Hand over, current board is:  As Ac Jd 7d 10s
+! Loudlion                 has: 3h 3d
+! Josh Goldshlag           has: Js 9c
+! Josh Goldshlag wins $18600 (net $11200) with Two Pair (A A J J 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|V  Options Dee              |   44525 |         |<AWOL>|    |         |
+ 2|   Ed Baker                 |   52950 |         |      |    |         |
+ 3|V  grendel                  |   42725 |         |<AWOL>|    |         |
+ 4|   Loudlion                 |  138025 |         |      |    |         |
+ 5|   Mugsy                    |   40375 |         |      |    |         |
+ 6|   Stephen Mack             |  100325 |         |      |    |         |
+ 7|D  Stephen Opal             |   40800 |         |      |    |         |
+ 8|>  Josh Goldshlag           |  161600 |         |      |    |         |
+ 9|   BigElmo                  |   93700 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 344 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c8.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 5
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

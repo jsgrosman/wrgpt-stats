@@ -1,0 +1,115 @@
+Subject: [c16.10278] Holdem Game Broadcast Message(*)
+
+! Table c16, Hand 172, Day 69
+
+! All In a daze work checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   ThinkingPokerAndrew      |   21475 |    1600 |folded|    |         |
+ 2|   Fish Doctor              |   27125 |     100 |folded|    |         |
+ 3|   Sue N                    |   83750 |     100 |folded|    |         |
+ 4|   Boiling Frog             |       0 |   19125 |all-in|  3 |   59725 |
+ 5|   BaconPancakes            |   36825 |     100 |folded|    |         |
+ 6|   TwelveSeven              |   74575 |     100 |folded|    |         |
+ 7|D  All In a daze work       |  191350 |   23950 |      |  2 |    9650 |
+ 8|   rbmoore                  |   51900 |     350 |folded|    |         |
+ 9|>  sltLonghorn              |  304825 |   23950 |      |  2 |    9650 |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/18/19 13:45:11! Dealing a new hand
+! 01/18/19 13:45:11! Everyone antes $100
+! 01/18/19 13:45:11! rbmoore blinds $250
+! 01/18/19 13:45:11! sltLonghorn blinds $500
+! 01/18/19 13:47:32! ThinkingPokerAndrew raises $1000 to $1500 total 
+! 01/18/19 14:08:16! Fish Doctor folds
+! 01/18/19 14:51:31! Sue N folds
+! 01/18/19 15:53:53! Boiling Frog calls 
+! 01/18/19 15:53:53! BaconPancakes folds
+! 01/18/19 15:53:53! TwelveSeven folds
+! 01/18/19 16:17:35! All In a daze work calls 
+! 01/18/19 16:17:35! rbmoore folds
+! 01/18/19 16:21:04! sltLonghorn calls 
+
+! 01/18/19 16:21:04! Pot right ($7150), flopping/dealing/drawing cards
+! 01/18/19 16:21:04! 4 players
+! 01/18/19 16:21:04! Flopped cards: 9s 2c Qc
+! 01/18/19 16:40:14! sltLonghorn checks
+! 01/18/19 16:43:10! ThinkingPokerAndrew checks
+! 01/18/19 16:47:18! Boiling Frog bets $3800 
+! 01/18/19 17:55:47! All In a daze work calls 
+! 01/18/19 17:59:37! sltLonghorn calls 
+! 01/18/19 18:46:31! ThinkingPokerAndrew folds
+
+! 01/18/19 18:46:31! Pot right ($18550), flopping/dealing/drawing cards
+! 01/18/19 18:46:31! 3 players
+! 01/18/19 18:46:31! Flopped card: 3s
+! 01/19/19 07:11:53! sltLonghorn bets $18550 
+! 01/19/19 10:28:22! Boiling Frog calls - side pot
+! 01/19/19 10:56:19! All In a daze work calls 
+
+! 01/19/19 10:56:19! Pot right ($69375), flopping/dealing/drawing cards
+! 01/19/19 10:56:19! 3 players, 1 all in
+! 01/19/19 10:56:19! Flopped card: 4d
+! 01/19/19 10:58:42! sltLonghorn checks
+! 01/19/19 11:02:45! All In a daze work checks
+! Hand over, current board is:  9s 2c Qc 3s 4d
+! Boiling Frog             has: 8c 7c
+! All In a daze work       has: 5c 4c
+! sltLonghorn              has: Qd 3d
+! Pot 2: sltLonghorn wins $9650 with Two Pair (Q Q 3 3 9)
+! Pot 3: sltLonghorn wins $59725 with Two Pair (Q Q 3 3 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   ThinkingPokerAndrew      |   21475 |         |      |    |         |
+ 2|   Fish Doctor              |   27125 |         |      |    |         |
+ 3|   Sue N                    |   83750 |         |      |    |         |
+ 5|   BaconPancakes            |   36825 |         |      |    |         |
+ 6|   TwelveSeven              |   74575 |         |      |    |         |
+ 7|   All In a daze work       |  191350 |         |      |    |         |
+ 8|D  rbmoore                  |   51900 |         |      |    |         |
+ 9|>  sltLonghorn              |  374200 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Boiling Frog is eliminated!
+! 355 players left in the tournament, 2 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c16.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 13
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

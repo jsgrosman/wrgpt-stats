@@ -1,0 +1,110 @@
+Subject: [c26.10361] Holdem Game Broadcast Message(*)
+
+! Table c26, Hand 186, Day 70
+
+! docdanger calls - side pot
+! Pot right ($254875), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped card: 5c
+! Flopped card: 8c
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Brian Cooper             |   41925 |     100 |folded|    |         |
+ 2|>  docdanger                |       0 |   53400 |all-in|  2 |  110000 |
+ 3|   Firstorlast56            |   64525 |     100 |folded|    |         |
+ 4|D  Vince Tafoya             |   68375 |     100 |folded|    |         |
+ 5|   MarcJallday              |   52225 |    2100 |folded|    |         |
+ 6|   Ken Anderson             |  180700 |     600 |folded|    |         |
+ 7|   Josh Moore               |       0 |  198275 |all-in|  1 |  144875 |
+ 8|   Matt Matros              |   51475 |     100 |folded|    |         |
+ 9|   starrman99               |   94600 |     100 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/20/19 06:15:51! Dealing a new hand
+! 01/20/19 06:15:51! Everyone antes $100
+! 01/20/19 06:15:51! MarcJallday blinds $250
+! 01/20/19 06:15:51! Ken Anderson blinds $500
+! 01/20/19 09:04:11! Josh Moore raises $1500 to $2000 total 
+! 01/20/19 09:04:11! Matt Matros folds
+! 01/20/19 10:30:21! starrman99 folds
+! 01/20/19 10:30:21! Brian Cooper folds
+! 01/20/19 10:52:44! docdanger calls 
+! 01/20/19 10:52:44! Firstorlast56 folds
+! 01/20/19 10:52:44! Vince Tafoya folds
+! 01/20/19 11:28:38! MarcJallday calls 
+! 01/20/19 11:28:38! Ken Anderson folds
+
+! 01/20/19 11:28:38! Pot right ($7400), flopping/dealing/drawing cards
+! 01/20/19 11:28:38! 3 players
+! 01/20/19 11:28:38! Flopped cards: 6c 3s 8h
+! 01/20/19 11:29:34! MarcJallday checks
+! 01/20/19 11:33:11! Josh Moore bets $5000 
+! 01/20/19 11:59:40! docdanger raises $7000 to $12000 total 
+! 01/20/19 12:02:45! MarcJallday folds
+! 01/20/19 12:23:49! Josh Moore raises $184175 to $196175 total and is all in
+! 01/20/19 12:28:39! docdanger calls - side pot
+
+! 01/20/19 12:28:39! Pot right ($254875), flopping/dealing/drawing cards
+! 01/20/19 12:28:39! 2 players, 2 all in
+! 01/20/19 12:28:39! Flopped card: 5c
+! 01/20/19 12:28:39! Flopped card: 8c
+! Hand over, current board is:  6c 3s 8h 5c 8c
+! docdanger                has: 6h 6d
+! Josh Moore               has: Ks Kh
+! Pot 1: uncalled $144875 returned to Josh Moore
+! Pot 2: docdanger wins $110000 with Full House (6 6 6 8 8)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Brian Cooper             |   41925 |         |      |    |         |
+ 2|>  docdanger                |  110000 |         |      |    |         |
+ 3|   Firstorlast56            |   64525 |         |      |    |         |
+ 4|   Vince Tafoya             |   68375 |         |      |    |         |
+ 5|D  MarcJallday              |   52225 |         |      |    |         |
+ 6|   Ken Anderson             |  180700 |         |      |    |         |
+ 7|   Josh Moore               |  144875 |         |      |    |         |
+ 8|   Matt Matros              |   51475 |         |      |    |         |
+ 9|   starrman99               |   94600 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 349 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c26.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

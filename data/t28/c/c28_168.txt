@@ -1,0 +1,109 @@
+Subject: [c28.10214] Holdem Game Broadcast Message(*)
+
+! Table c28, Hand 168, Day 67
+
+! CharlieM calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   drjeys                   |   31200 |     100 |folded|    |         |
+ 3|   reelbigbeagles           |       0 |   41450 |all-in|    |         |
+ 4|D  BluffaloBill             |   88875 |     100 |folded|    |         |
+ 5|   Theodore Chipmunk        |   72375 |     350 |folded|    |         |
+ 6|>  CharlieM                 |   62600 |   41450 |      |    |         |
+ 7|   SmBoatDrinks             |   55025 |     100 |folded|    |         |
+ 8|   Sabo FC                  |   59650 |     100 |folded|    |         |
+ 9|   Targhee                  |  126125 |    1950 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/17/19 16:17:04! Dealing a new hand
+! 01/17/19 16:17:04! Everyone antes $100
+! 01/17/19 16:17:04! Theodore Chipmunk blinds $250
+! 01/17/19 16:17:04! CharlieM blinds $500
+! 01/17/19 16:17:53! reelbigbeagles is back from vacation
+! 01/17/19 16:18:07! SmBoatDrinks folds
+! 01/17/19 16:21:11! Sabo FC folds
+! 01/17/19 17:30:50! Targhee raises $1350 to $1850 total 
+! 01/17/19 17:52:44! drjeys folds
+! 01/17/19 19:18:42! reelbigbeagles calls 
+! 01/17/19 19:18:42! BluffaloBill folds
+! 01/17/19 19:18:42! Theodore Chipmunk folds
+! 01/17/19 19:59:29! CharlieM calls 
+
+! 01/17/19 19:59:29! Pot right ($6600), flopping/dealing/drawing cards
+! 01/17/19 19:59:29! 3 players
+! 01/17/19 19:59:29! Flopped cards: 9d 5h As
+! 01/17/19 20:00:52! CharlieM bets $6600 
+! 01/17/19 20:06:37! Targhee folds
+! 01/17/19 20:46:14! reelbigbeagles calls 
+
+! 01/17/19 20:46:14! Pot right ($19800), flopping/dealing/drawing cards
+! 01/17/19 20:46:14! 2 players
+! 01/17/19 20:46:14! Flopped card: 8c
+! 01/17/19 21:17:35! CharlieM checks
+! 01/17/19 21:28:50! reelbigbeagles bets $8000 
+! 01/17/19 21:29:19! CharlieM calls 
+
+! 01/17/19 21:29:19! Pot right ($35800), flopping/dealing/drawing cards
+! 01/17/19 21:29:19! 2 players
+! 01/17/19 21:29:19! Flopped card: Qd
+! 01/17/19 21:30:30! CharlieM checks
+! 01/17/19 21:31:20! reelbigbeagles bets $24900 and is all in
+! 01/17/19 21:31:57! CharlieM calls 
+! Hand over, current board is:  9d 5h As 8c Qd
+! reelbigbeagles           has: 8h 8d
+! CharlieM                 has: Ad 5c
+! reelbigbeagles wins $85600 (net $44150) with Three of a Kind (8 8 8 A Q)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   drjeys                   |   31200 |         |      |    |         |
+ 3|   reelbigbeagles           |   85600 |         |      |    |         |
+ 4|   BluffaloBill             |   88875 |         |      |    |         |
+ 5|D  Theodore Chipmunk        |   72375 |         |      |    |         |
+ 6|>  CharlieM                 |   62600 |         |      |    |         |
+ 7|   SmBoatDrinks             |   55025 |         |      |    |         |
+ 8|   Sabo FC                  |   59650 |         |      |    |         |
+ 9|   Targhee                  |  126125 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 357 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c28.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,108 @@
+Subject: [c13.10250] Holdem Game Broadcast Message(*)
+
+! Table c13, Hand 171, Day 69
+
+! Deets calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  AveCat                   |  142200 |   10900 |      |    |         |
+ 3|   David Weiss              |   95625 |     100 |folded|    |         |
+ 4|V  UberHank                 |   37575 |     100 |<AWOL>|    |         |
+ 5|   Larry W                  |   55925 |     100 |folded|    |         |
+ 6|D  TheTwizz                 |    6550 |     100 |folded|    |         |
+ 7|   Spidurman                |  124600 |     600 |folded|    |         |
+ 8|   Deets                    |   52350 |   10900 |      |    |         |
+ 9|   bert_ofcl                |   34275 |     100 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/18/19 10:33:53! Dealing a new hand
+! 01/18/19 10:33:53! Everyone antes $100
+! 01/18/19 10:33:53! Spidurman blinds $250
+! 01/18/19 10:33:53! Deets blinds $500
+! 01/18/19 10:36:10! bert_ofcl folds
+! 01/18/19 10:37:55! AveCat calls 
+! 01/18/19 10:37:55! David Weiss folds
+! 01/18/19 10:37:55! UberHank is on vacation and folds
+! 01/18/19 10:43:40! Larry W folds
+! 01/18/19 10:43:40! TheTwizz folds
+! 01/18/19 10:51:55! Spidurman calls 
+! 01/18/19 10:57:11! Deets checks
+
+! 01/18/19 10:57:11! Pot right ($2300), flopping/dealing/drawing cards
+! 01/18/19 10:57:11! 3 players
+! 01/18/19 10:57:11! Flopped cards: Qd 8h 5h
+! 01/18/19 10:59:08! Spidurman checks
+! 01/18/19 12:10:09! Deets bets $1500 
+! 01/18/19 12:11:32! AveCat calls 
+! 01/18/19 12:11:32! Spidurman folds
+
+! 01/18/19 12:11:32! Pot right ($5300), flopping/dealing/drawing cards
+! 01/18/19 12:11:32! 2 players
+! 01/18/19 12:11:32! Flopped card: Kd
+! 01/18/19 14:43:57! Deets bets $3800 
+! 01/18/19 16:23:31! AveCat calls 
+
+! 01/18/19 16:23:31! Pot right ($12900), flopping/dealing/drawing cards
+! 01/18/19 16:23:31! 2 players
+! 01/18/19 16:23:31! Flopped card: 4h
+! 01/18/19 20:03:01! Deets checks
+! 01/19/19 08:56:21! AveCat bets $5000 
+! 01/19/19 11:25:23! Deets calls 
+! Hand over, current board is:  Qd 8h 5h Kd 4h
+! AveCat                   has: Qh 3h
+! Deets                    has: Qc 7c
+! AveCat wins $22900 (net $12000) with Heart Flush (Q 8 5 4 3)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  AveCat                   |  165100 |         |      |    |         |
+ 3|   David Weiss              |   95625 |         |      |    |         |
+ 4|V  UberHank                 |   37575 |         |<AWOL>|    |         |
+ 5|   Larry W                  |   55925 |         |      |    |         |
+ 6|   TheTwizz                 |    6550 |         |      |    |         |
+ 7|D  Spidurman                |  124600 |         |      |    |         |
+ 8|   Deets                    |   52350 |         |      |    |         |
+ 9|   bert_ofcl                |   34275 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 351 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c13.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

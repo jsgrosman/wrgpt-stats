@@ -1,0 +1,108 @@
+Subject: [c3.10242] Holdem Game Broadcast Message(*)
+
+! Table c3, Hand 171, Day 70
+
+! Fredrik Westerlund calls 
+! Pot right ($55650), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 7h
+! Flopped card: 7s
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Brian Crowley            |  160100 |     100 |folded|    |         |
+ 2|   danthefan                |   96625 |    2100 |folded|    |         |
+ 3|   gilette                  |   18650 |     100 |folded|    |         |
+ 4|>  Fredrik Westerlund       |   24600 |   26100 |      |    |         |
+ 5|   smak                     |       0 |   26100 |all-in|    |         |
+ 6|D  Chris Goedde             |  148775 |     100 |folded|    |         |
+ 7|   MichaelJ                 |   36225 |     350 |folded|    |         |
+ 8|V  JAY ENGLANDER            |   35600 |     600 |<AWOL>|    |         |
+ 9|   yawetag                  |   41775 |     100 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/19/19 12:48:33! Dealing a new hand
+! 01/19/19 12:48:33! Everyone antes $100
+! 01/19/19 12:48:33! MichaelJ blinds $250
+! 01/19/19 12:48:33! JAY ENGLANDER blinds $500
+! 01/19/19 12:50:15! yawetag folds
+! 01/19/19 13:30:11! Brian Crowley folds
+! 01/19/19 13:43:15! danthefan raises $1500 to $2000 total 
+! 01/19/19 15:26:02! gilette folds
+! 01/19/19 15:26:02! Fredrik Westerlund calls 
+! 01/19/19 17:07:36! smak calls 
+! 01/19/19 17:07:36! Chris Goedde folds
+! 01/20/19 02:47:09! MichaelJ folds
+! 01/20/19 02:47:09! JAY ENGLANDER is on vacation and folds
+
+! 01/20/19 02:47:09! Pot right ($7650), flopping/dealing/drawing cards
+! 01/20/19 02:47:09! 3 players
+! 01/20/19 02:47:09! Flopped cards: Js 6h 3c
+! 01/20/19 07:14:01! danthefan checks
+! 01/20/19 07:19:50! Fredrik Westerlund bets $4000 
+! 01/20/19 10:46:57! smak raises $20000 to $24000 total and is all in
+! 01/20/19 10:46:57! danthefan folds
+! 01/20/19 10:55:29! Fredrik Westerlund calls 
+
+! 01/20/19 10:55:29! Pot right ($55650), flopping/dealing/drawing cards
+! 01/20/19 10:55:29! 2 players, 1 all in
+! 01/20/19 10:55:29! Flopped card: 7h
+! 01/20/19 10:55:29! Flopped card: 7s
+! Hand over, current board is:  Js 6h 3c 7h 7s
+! Fredrik Westerlund       has: Ks Kd
+! smak                     has: Jh Ac
+! Fredrik Westerlund wins $55650 (net $29550) with Two Pair (K K 7 7 J)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Brian Crowley            |  160100 |         |      |    |         |
+ 2|   danthefan                |   96625 |         |      |    |         |
+ 3|   gilette                  |   18650 |         |      |    |         |
+ 4|>  Fredrik Westerlund       |   80250 |         |      |    |         |
+ 6|   Chris Goedde             |  148775 |         |      |    |         |
+ 7|D  MichaelJ                 |   36225 |         |      |    |         |
+ 8|V  JAY ENGLANDER            |   35600 |         |<AWOL>|    |         |
+ 9|   yawetag                  |   41775 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! smak is eliminated!
+! 349 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c3.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 7
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

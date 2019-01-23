@@ -1,0 +1,108 @@
+Subject: [c16.10329] Holdem Game Broadcast Message(*)
+
+! Table c16, Hand 176, Day 71
+
+! sltLonghorn calls 
+! Pot right ($210950), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 3d
+! Flopped card: 6h
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   ThinkingPokerAndrew      |   20225 |     200 |folded|    |         |
+ 2|D  Fish Doctor              |   25875 |     200 |folded|    |         |
+ 3|   Sue N                    |   81650 |     800 |folded|    |         |
+ 4|   dave                     |   48550 |    1400 |folded|    |         |
+ 5|   BaconPancakes            |   36325 |     200 |folded|    |         |
+ 6|   TwelveSeven              |       0 |  103875 |all-in|    |         |
+ 7|   All In a daze work       |  185450 |     200 |folded|    |         |
+ 8|   rbmoore                  |   49800 |     200 |folded|    |         |
+ 9|>  sltLonghorn              |  252425 |  103875 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/21/19 06:44:20! Dealing a new hand
+! 01/21/19 06:44:20! Everyone antes $200
+! 01/21/19 06:44:20! Sue N blinds $600
+! 01/21/19 06:44:20! dave blinds $1200
+! 01/21/19 07:08:13! BaconPancakes folds
+! 01/21/19 07:38:15! TwelveSeven raises $1900 to $3100 total 
+! 01/21/19 07:38:15! All In a daze work folds
+! 01/21/19 07:41:15! rbmoore folds
+! 01/21/19 08:07:49! sltLonghorn raises $6900 to $10000 total 
+! 01/21/19 08:19:20! ThinkingPokerAndrew folds
+! 01/21/19 09:27:11! Fish Doctor folds
+! 01/21/19 09:27:11! Sue N folds
+! 01/21/19 09:34:57! dave folds
+! 01/21/19 09:58:35! TwelveSeven calls 
+
+! 01/21/19 09:58:35! Pot right ($23600), flopping/dealing/drawing cards
+! 01/21/19 09:58:35! 2 players
+! 01/21/19 09:58:35! Flopped cards: 2c 8s 6c
+! 01/21/19 09:59:18! TwelveSeven checks
+! 01/21/19 11:11:04! sltLonghorn bets $12000 
+! 01/21/19 11:14:09! TwelveSeven raises $81675 to $93675 total and is all in
+! 01/21/19 11:18:17! sltLonghorn calls 
+
+! 01/21/19 11:18:17! Pot right ($210950), flopping/dealing/drawing cards
+! 01/21/19 11:18:17! 2 players, 1 all in
+! 01/21/19 11:18:17! Flopped card: 3d
+! 01/21/19 11:18:17! Flopped card: 6h
+! Hand over, current board is:  2c 8s 6c 3d 6h
+! TwelveSeven              has: Ad Ac
+! sltLonghorn              has: Qh Qd
+! TwelveSeven wins $210950 (net $107075) with Two Pair (A A 6 6 8)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   ThinkingPokerAndrew      |   20225 |         |      |    |         |
+ 2|   Fish Doctor              |   25875 |         |      |    |         |
+ 3|D  Sue N                    |   81650 |         |      |    |         |
+ 4|   dave                     |   48550 |         |      |    |         |
+ 5|   BaconPancakes            |   36325 |         |      |    |         |
+ 6|   TwelveSeven              |  210950 |         |      |    |         |
+ 7|   All In a daze work       |  185450 |         |      |    |         |
+ 8|   rbmoore                  |   49800 |         |      |    |         |
+ 9|>  sltLonghorn              |  252425 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 346 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c16.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 3
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

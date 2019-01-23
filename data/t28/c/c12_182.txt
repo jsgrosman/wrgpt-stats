@@ -1,0 +1,107 @@
+Subject: [c12.10380] Holdem Game Broadcast Message(*)
+
+! Table c12, Hand 182, Day 71
+
+! JPP raises $29225 to $57250 total and is all in
+! Pot right ($98575), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped card: Qh
+! Flopped card: 2c
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   DangerDan                |    2250 |     800 |folded|    |         |
+ 2|   Don Overton              |  173450 |    1400 |folded|    |         |
+ 3|   Kyle Stein               |   37550 |     200 |folded|    |         |
+ 4|   Deryl Garland            |  118900 |     200 |folded|    |         |
+ 5|>  JPP                      |       0 |   62300 |all-in|  1 |   29225 |
+ 6|   Statistical Tie          |  116325 |     200 |folded|    |         |
+ 7|   Mike DellaBarca          |       0 |   33075 |all-in|  2 |   69350 |
+ 8|   Chevy                    |  142475 |     200 |folded|    |         |
+ 9|D  DaveKal                  |   78450 |     200 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/21/19 10:25:05! Dealing a new hand
+! 01/21/19 10:25:05! Everyone antes $200
+! 01/21/19 10:25:05! DangerDan blinds $600
+! 01/21/19 10:25:05! Don Overton blinds $1200
+! 01/21/19 10:34:14! Kyle Stein folds
+! 01/21/19 10:34:14! Deryl Garland folds
+! 01/21/19 10:38:51! JPP raises $3650 to $4850 total 
+! 01/21/19 10:56:16! Statistical Tie folds
+! 01/21/19 10:58:08! Mike DellaBarca calls 
+! 01/21/19 11:15:56! Chevy folds
+! 01/21/19 11:15:56! DaveKal folds
+! 01/21/19 11:15:56! DangerDan folds
+! 01/21/19 11:18:54! Don Overton folds
+
+! 01/21/19 11:18:54! Pot right ($13300), flopping/dealing/drawing cards
+! 01/21/19 11:18:54! 2 players
+! 01/21/19 11:18:54! Flopped cards: Jc 7s 10d
+! 01/21/19 11:47:38! JPP bets $12000 
+! 01/21/19 11:50:43! Mike DellaBarca raises $16025 to $28025 total and is all in
+! 01/21/19 11:52:04! JPP raises $29225 to $57250 total and is all in
+
+! 01/21/19 11:52:04! Pot right ($98575), flopping/dealing/drawing cards
+! 01/21/19 11:52:04! 2 players, 2 all in
+! 01/21/19 11:52:04! Flopped card: Qh
+! 01/21/19 11:52:04! Flopped card: 2c
+! Hand over, current board is:  Jc 7s 10d Qh 2c
+! JPP                      has: Qs Qd
+! Mike DellaBarca          has: 8d 7d
+! Pot 1: uncalled $29225 returned to JPP
+! Pot 2: JPP wins $69350 with Three of a Kind (Q Q Q J 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  DangerDan                |    2250 |         |      |    |         |
+ 2|   Don Overton              |  173450 |         |      |    |         |
+ 3|   Kyle Stein               |   37550 |         |      |    |         |
+ 4|   Deryl Garland            |  118900 |         |      |    |         |
+ 5|>  JPP                      |   98575 |         |      |    |         |
+ 6|   Statistical Tie          |  116325 |         |      |    |         |
+ 8|   Chevy                    |  142475 |         |      |    |         |
+ 9|   DaveKal                  |   78450 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Mike DellaBarca is eliminated!
+! 345 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c12.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 3
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

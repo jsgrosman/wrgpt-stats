@@ -1,0 +1,101 @@
+Subject: [c3.10205] Holdem Game Broadcast Message(*)
+
+! Table c3, Hand 168, Day 68
+
+! gilette folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Brian Crowley            |  160400 |     100 |folded|    |         |
+ 2|   danthefan                |   95825 |     100 |folded|    |         |
+ 3|D  gilette                  |   20450 |    1100 |folded|    |         |
+ 4|   Fredrik Westerlund       |   52400 |     350 |folded|    |         |
+ 5|>  smak                     |   21600 |    2900 |      |    |         |
+ 6|   Chris Goedde             |  152525 |     100 |folded|    |         |
+ 7|   MichaelJ                 |   31375 |     100 |folded|    |         |
+ 8|V  JAY ENGLANDER            |   36400 |     100 |<AWOL>|    |         |
+ 9|   yawetag                  |   42075 |     100 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/18/19 09:26:56! Dealing a new hand
+! 01/18/19 09:26:56! Everyone antes $100
+! 01/18/19 09:26:56! Fredrik Westerlund blinds $250
+! 01/18/19 09:26:56! smak blinds $500
+! 01/18/19 09:36:20! Chris Goedde folds
+! 01/18/19 10:39:35! MichaelJ folds
+! 01/18/19 10:39:35! JAY ENGLANDER is on vacation and folds
+! 01/18/19 10:40:36! yawetag folds
+! 01/18/19 10:40:36! Brian Crowley folds
+! 01/18/19 10:40:36! danthefan folds
+! 01/18/19 10:42:08! gilette raises $500 to $1000 total 
+! 01/18/19 10:42:08! Fredrik Westerlund folds
+! 01/18/19 11:37:10! smak calls 
+
+! 01/18/19 11:37:10! Pot right ($3150), flopping/dealing/drawing cards
+! 01/18/19 11:37:10! 2 players
+! 01/18/19 11:37:10! Flopped cards: 10h 8h Js
+! 01/18/19 11:37:52! smak checks
+! 01/18/19 12:16:45! gilette checks
+
+! 01/18/19 12:16:45! Pot right ($3150), flopping/dealing/drawing cards
+! 01/18/19 12:16:45! 2 players
+! 01/18/19 12:16:45! Flopped card: Qs
+! 01/18/19 12:18:01! smak bets $1800 
+! 01/18/19 13:23:18! gilette folds
+! Hand over, no showdown
+! Current board is:  10h 8h Js Qs ?
+! smak wins $4950 (net $2050)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Brian Crowley            |  160400 |         |      |    |         |
+ 2|   danthefan                |   95825 |         |      |    |         |
+ 3|   gilette                  |   20450 |         |      |    |         |
+ 4|D  Fredrik Westerlund       |   52400 |         |      |    |         |
+ 5|>  smak                     |   26550 |         |      |    |         |
+ 6|   Chris Goedde             |  152525 |         |      |    |         |
+ 7|   MichaelJ                 |   31375 |         |      |    |         |
+ 8|V  JAY ENGLANDER            |   36400 |         |<AWOL>|    |         |
+ 9|   yawetag                  |   42075 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 358 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c3.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 11
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

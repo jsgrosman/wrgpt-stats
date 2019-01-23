@@ -1,0 +1,110 @@
+Subject: [c20.10203] Holdem Game Broadcast Message(*)
+
+! Table c20, Hand 167, Day 69
+
+! Scooter checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Felix Leiter             |   62525 |     100 |folded|    |         |
+ 2|D  CPROG                    |  103125 |     100 |folded|    |         |
+ 3|   JZK                      |  105375 |     350 |folded|    |         |
+ 4|>  Bert Bell                |   37700 |     600 |      |    |         |
+ 5|   Samueladams              |   40550 |     100 |folded|    |         |
+ 6|   Bullwinkle               |   34375 |     100 |folded|    |         |
+ 7|   Bobby Luckbox            |   40325 |     100 |folded|    |         |
+ 8|   Scooter                  |   87550 |     600 |      |    |         |
+ 9|   Baldy                    |   69975 |     100 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/18/19 19:42:05! Dealing a new hand
+! 01/18/19 19:42:05! Everyone antes $100
+! 01/18/19 19:42:05! JZK blinds $250
+! 01/18/19 19:42:05! Bert Bell blinds $500
+! 01/18/19 20:30:55! Samueladams folds
+! 01/18/19 20:30:55! Bullwinkle folds
+! 01/18/19 20:30:55! Bobby Luckbox folds
+! 01/18/19 21:31:01! Scooter calls 
+! 01/18/19 21:34:32! Baldy folds
+! 01/18/19 21:34:32! Felix Leiter is on vacation and folds
+! 01/18/19 21:34:32! CPROG folds
+! 01/18/19 21:34:32! JZK folds
+! 01/19/19 00:58:40! Bert Bell checks
+
+! 01/19/19 00:58:40! Pot right ($2150), flopping/dealing/drawing cards
+! 01/19/19 00:58:40! 2 players
+! 01/19/19 00:58:40! Flopped cards: 2d Qc 3s
+! 01/19/19 01:15:30! Bert Bell checks
+! 01/19/19 06:22:21! Felix Leiter is back from vacation
+! 01/19/19 06:48:36! Scooter checks
+
+! 01/19/19 06:48:36! Pot right ($2150), flopping/dealing/drawing cards
+! 01/19/19 06:48:36! 2 players
+! 01/19/19 06:48:36! Flopped card: As
+! 01/19/19 19:22:05! Bert Bell checks
+! 01/19/19 19:28:24! Scooter checks
+
+! 01/19/19 19:28:24! Pot right ($2150), flopping/dealing/drawing cards
+! 01/19/19 19:28:24! 2 players
+! 01/19/19 19:28:24! Flopped card: 5h
+! 01/19/19 21:41:33! Bert Bell checks
+! 01/19/19 22:07:13! Scooter checks
+! Hand over, current board is:  2d Qc 3s As 5h
+! Bert Bell                has: Kc 7c
+! Scooter                  has: 10h 9d
+! Bert Bell wins $2150 (net $1550) with No Pair (A K Q 7 5)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Felix Leiter             |   62525 |         |      |    |         |
+ 2|   CPROG                    |  103125 |         |      |    |         |
+ 3|D  JZK                      |  105375 |         |      |    |         |
+ 4|>  Bert Bell                |   39850 |         |      |    |         |
+ 5|   Samueladams              |   40550 |         |      |    |         |
+ 6|   Bullwinkle               |   34375 |         |      |    |         |
+ 7|   Bobby Luckbox            |   40325 |         |      |    |         |
+ 8|   Scooter                  |   87550 |         |      |    |         |
+ 9|   Baldy                    |   69975 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! CPROG went on vacation until 26 JAN
+! 350 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c20.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 7
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

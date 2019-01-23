@@ -1,0 +1,97 @@
+Subject: [c21.10310] Holdem Game Broadcast Message(*)
+
+! Table c21, Hand 172, Day 72
+
+! Donald Neilson bets $2000 
+! Andy Pierce folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Andy Pierce              |   62025 |    1400 |folded|    |         |
+ 2|   sgranen                  |   80825 |     200 |folded|    |         |
+ 3|   TheOldThug               |   67675 |     200 |folded|    |         |
+ 4|   Ace Squared              |   40100 |     200 |folded|    |         |
+ 5|   dgr                      |  114550 |     200 |folded|    |         |
+ 6|   Polar85                  |   76550 |     200 |folded|    |         |
+ 7|   acadonnelly              |   50075 |     200 |folded|    |         |
+ 8|D> Donald Neilson           |  156650 |    3400 |      |    |         |
+ 9|   JRX                      |   85750 |     800 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/22/19 10:39:03! Dealing a new hand
+! 01/22/19 10:39:03! Everyone antes $200
+! 01/22/19 10:39:03! JRX blinds $600
+! 01/22/19 10:39:03! Andy Pierce blinds $1200
+! 01/22/19 10:40:09! sgranen folds
+! 01/22/19 10:52:45! TheOldThug folds
+! 01/22/19 10:52:45! Ace Squared folds
+! 01/22/19 11:22:52! dgr folds
+! 01/22/19 11:22:52! Polar85 folds
+! 01/22/19 11:22:52! acadonnelly folds
+! 01/22/19 11:28:32! Donald Neilson calls 
+! 01/22/19 11:28:32! JRX folds
+! 01/22/19 11:28:32! Andy Pierce checks
+
+! 01/22/19 11:28:32! Pot right ($4800), flopping/dealing/drawing cards
+! 01/22/19 11:28:32! 2 players
+! 01/22/19 11:28:32! Flopped cards: 8c 3s 4c
+! 01/22/19 11:28:32! Andy Pierce checks
+! 01/22/19 11:30:31! Donald Neilson bets $2000 
+! 01/22/19 11:30:31! Andy Pierce folds
+! Hand over, no showdown
+! Current board is:  8c 3s 4c ? ?
+! Donald Neilson wins $6800 (net $3400)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Andy Pierce              |   62025 |         |      |    |         |
+ 2|   sgranen                  |   80825 |         |      |    |         |
+ 3|   TheOldThug               |   67675 |         |      |    |         |
+ 4|   Ace Squared              |   40100 |         |      |    |         |
+ 5|   dgr                      |  114550 |         |      |    |         |
+ 6|   Polar85                  |   76550 |         |      |    |         |
+ 7|   acadonnelly              |   50075 |         |      |    |         |
+ 8|>  Donald Neilson           |  163450 |         |      |    |         |
+ 9|D  JRX                      |   85750 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 341 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c21.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 10
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,103 @@
+Subject: [c13.10270] Holdem Game Broadcast Message(*)
+
+! Table c13, Hand 174, Day 70
+
+! TheTwizz calls - side pot
+! Pot right ($16050), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 2h
+! Flopped card: 7c
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   AveCat                   |  164050 |     350 |folded|    |         |
+ 3|>  David Weiss              |   86575 |    8850 |      |  1 |    2500 |
+ 4|V  UberHank                 |   37275 |     100 |<AWOL>|    |         |
+ 5|   Larry W                  |   55125 |     100 |folded|    |         |
+ 6|   TheTwizz                 |       0 |    6350 |all-in|  2 |   13550 |
+ 7|   Spidurman                |  124300 |     100 |folded|    |         |
+ 8|   Deets                    |   55400 |     100 |folded|    |         |
+ 9|D  bert_ofcl                |   33225 |     100 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/20/19 14:13:55! Dealing a new hand
+! 01/20/19 14:13:55! Everyone antes $100
+! 01/20/19 14:13:55! AveCat blinds $250
+! 01/20/19 14:13:55! David Weiss blinds $500
+! 01/20/19 14:13:55! UberHank is on vacation and folds
+! 01/20/19 14:29:00! Larry W folds
+! 01/20/19 14:36:49! TheTwizz raises $5250 to $5750 total 
+! 01/20/19 14:36:49! Spidurman folds
+! 01/20/19 15:33:48! Deets folds
+! 01/20/19 15:33:48! bert_ofcl folds
+! 01/20/19 15:35:22! AveCat folds
+! 01/20/19 15:39:13! David Weiss calls 
+
+! 01/20/19 15:39:13! Pot right ($12550), flopping/dealing/drawing cards
+! 01/20/19 15:39:13! 2 players
+! 01/20/19 15:39:13! Flopped cards: 5h Qs Qh
+! 01/20/19 15:40:11! David Weiss bets $3000 
+! 01/20/19 16:21:13! TheTwizz calls - side pot
+
+! 01/20/19 16:21:13! Pot right ($16050), flopping/dealing/drawing cards
+! 01/20/19 16:21:13! 2 players, 1 all in
+! 01/20/19 16:21:13! Flopped card: 2h
+! 01/20/19 16:21:13! Flopped card: 7c
+! Hand over, current board is:  5h Qs Qh 2h 7c
+! David Weiss              has: 8c 5c
+! TheTwizz                 has: 6d 6c
+! Pot 1: uncalled $2500 returned to David Weiss
+! Pot 2: TheTwizz wins $13550 with Two Pair (Q Q 6 6 7)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  AveCat                   |  164050 |         |      |    |         |
+ 3|>  David Weiss              |   89075 |         |      |    |         |
+ 4|V  UberHank                 |   37275 |         |<AWOL>|    |         |
+ 5|   Larry W                  |   55125 |         |      |    |         |
+ 6|   TheTwizz                 |   13550 |         |      |    |         |
+ 7|   Spidurman                |  124300 |         |      |    |         |
+ 8|   Deets                    |   55400 |         |      |    |         |
+ 9|   bert_ofcl                |   33225 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 347 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c13.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 11
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer
