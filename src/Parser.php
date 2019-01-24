@@ -119,6 +119,7 @@ class Parser
                 {
                     switch ($turn->action) {
                         case 'raises':
+                        /** @noinspection PhpMissingBreakStatementInspection */
                         case 'reraises':
                             $handModel->raisedPreflop = true;
                         case 'calls':
@@ -159,6 +160,7 @@ class Parser
         {
             return null;
         }
+        /** @noinspection PhpUnusedLocalVariableInspection */
         list($ignore, $timeDateStr, $action) = $lineTokens;
 
         $phpDateArray = date_parse($timeDateStr);
@@ -265,6 +267,7 @@ class Parser
         $actionTokens = explode(' ', $actionLine);
 
         $playerName = '';
+        $playerAction = '';
         foreach ($actionTokens as $token)
         {
             if (!in_array($token, $possibleActions))
