@@ -1,5 +1,8 @@
 import $ from 'jquery';
-import 'node_modules/chosen.jquery' ;
+import Chart from 'chart.js';
+import 'chartjs-plugin-labels';
+import 'bootstrap';
+import 'chosen-js'
 
 const query = new URLSearchParams(location.search);
 
@@ -61,11 +64,11 @@ fetch('player.php?player=' + query.get('player')).then(function(res) {
         document.getElementById('cardRange_' + i).innerText = playerObj.position[i].range;
     }
 
-    displayActionsChart(playerObj.actions, 'all', 'allActionsChart');
-    displayActionsChart(playerObj.actions, 'preflop', 'preflopActionsChart');
-    displayActionsChart(playerObj.actions, 'flop', 'flopActionsChart');
-    displayActionsChart(playerObj.actions, 'turn', 'turnActionsChart');
-    displayActionsChart(playerObj.actions, 'river', 'riverActionsChart');
+        // displayActionsChart(playerObj.actions, 'all', 'allActionsChart');
+        // displayActionsChart(playerObj.actions, 'preflop', 'preflopActionsChart');
+        // displayActionsChart(playerObj.actions, 'flop', 'flopActionsChart');
+        // displayActionsChart(playerObj.actions, 'turn', 'turnActionsChart');
+        // displayActionsChart(playerObj.actions, 'river', 'riverActionsChart');
 });
 
 function getFoldPercentage(actionsObject, actionType)
