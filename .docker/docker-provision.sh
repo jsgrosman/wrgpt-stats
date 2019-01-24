@@ -29,3 +29,7 @@ php composer.phar install
 echo "running npm"
 cd /app/www
 npm install
+
+echo "building webpack"
+cd /app/www
+npm run build

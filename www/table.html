@@ -3,24 +3,16 @@
 <head>
     <meta charset="UTF-8">
     <title>Table</title>
-
-    <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
-
-    <!-- Optional theme -->
-    <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap-grid.min.css">
-    <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap-reboot.min.css">
-
-    <link rel="stylesheet" href="node_modules/chosen-jquery/lib/chosen.min.css">
 </head>
 <body>
 
-<nav class="navbar navbar-default">
-    <p class="navbar-text"><span id="playerName"></span></p>
-    <form class="navbar-form navbar-left" role="search" id="playerSearchForm">
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="#">WRGPT Stats</a>
+    <form class="form-inline my-2 my-lg-0" role="search" id="playerSearchForm">
         <div class="form-group">
-            <select id="allPlayers" multiple name="players"></select>
+            <select class="form-control mr-sm-2" id="allPlayers" multiple name="players"></select>
         </div>
-        <button type="submit" class="btn btn-default">Submit</button>
+        <button type="submit" class="btn btn-outline-success my-2 my-sm-0">Submit</button>
     </form>
 </nav>
 

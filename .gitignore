@@ -1,5 +1,6 @@
 vendor
 www/node_modules
+www/dist
 .idea
 data/Takeout
 data/takeout-20190112T043112Z-001.zip

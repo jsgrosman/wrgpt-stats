@@ -2,7 +2,10 @@ import $ from 'jquery';
 import Chart from 'chart.js';
 import 'chartjs-plugin-labels';
 import 'bootstrap';
-import 'chosen-js'
+import 'chosen-js';
+
+import 'chosen-js/chosen.min.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 const query = new URLSearchParams(location.search);
 

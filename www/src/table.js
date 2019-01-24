@@ -4,6 +4,9 @@ import 'chartjs-plugin-labels';
 import 'bootstrap';
 import 'chosen-js'
 
+import 'chosen-js/chosen.min.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 var ctx = document.getElementById("activeTimesChart").getContext('2d');
 var activeTimesChart = new Chart(ctx, {
     type: 'radar',

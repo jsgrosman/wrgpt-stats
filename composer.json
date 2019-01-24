@@ -4,7 +4,7 @@
     "ext-pdo": "*",
     "ext-intl": "*",
     "ext-json": "*",
-    "ext-curl": "*",
+    "ext-curl": "*"
   },
   "autoload": {
     "psr-4": {

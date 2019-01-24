@@ -19,6 +19,8 @@
     "popper.js": "^1.14.6"
   },
   "devDependencies": {
+    "file-loader": "^3.0.1",
+    "image-webpack-loader": "^4.6.0",
     "imports-loader": "^0.8.0",
     "webpack": "^4.28.4",
     "webpack-cli": "^3.2.1"

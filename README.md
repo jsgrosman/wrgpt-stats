@@ -33,7 +33,8 @@ It will set up the environment, create the db schema, and download php and javas
 
 # Data Load
 
-`docker exec -w /app/scripts wrgpt-stats_web_1 php updateDBFromDataDirectory.php`
+Run `./initDb.sh` from the main directory, after the docker container is running. 
+The script will connect to the container, and run `/scripts/updateDBFromDataDirectory.php`.
 
 It will not be necessary to connect to the wrgpt site in this initial load.
 
