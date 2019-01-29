@@ -61,6 +61,7 @@ class PlayerController
             'position' => [],
             'aggressionFactor' => $aggFactor,
             'wentToShowdownPct' => $playerModel->getPercentageToShowdown(),
+            'chips' => $playerModel->getChips(),
         ];
 
         foreach ($positionInfo as $pos => $info)

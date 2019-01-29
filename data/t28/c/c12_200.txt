@@ -1,0 +1,112 @@
+Subject: [c12.10557] Holdem Game Broadcast Message(*)
+
+! Table c12, Hand 200, Day 78
+
+! Chevy calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   GeekMissy                |   49975 |     200 |folded|    |         |
+ 2|D  Don Overton              |  177050 |    1400 |folded|    |         |
+ 3|   Kyle Stein               |       0 |   13000 |all-in|    |         |
+ 4|   Deryl Garland            |  105300 |    1400 |folded|    |         |
+ 5|   JPP                      |  118125 |     200 |folded|    |         |
+ 6|V  Statistical Tie          |  102125 |     200 |<AWOL>|    |         |
+ 7|   Mybanjo                  |   28550 |     200 |folded|    |         |
+ 8|>  Chevy                    |  176225 |   13000 |      |    |         |
+ 9|   DaveKal                  |   70550 |     200 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/27/19 15:38:56! Dealing a new hand
+! 01/27/19 15:38:56! Everyone antes $200
+! 01/27/19 15:38:56! Kyle Stein blinds $600
+! 01/27/19 15:38:56! Deryl Garland blinds $1200
+! 01/27/19 16:31:10! JPP folds
+! 01/27/19 16:31:10! Statistical Tie is on vacation and folds
+! 01/27/19 16:31:10! Mybanjo folds
+! 01/27/19 17:27:07! Chevy calls 
+! 01/27/19 17:27:07! DaveKal folds
+! 01/27/19 17:27:07! GeekMissy folds
+! 01/27/19 18:03:39! Don Overton calls 
+! 01/27/19 19:27:32! Kyle Stein calls 
+! 01/28/19 03:13:16! Deryl Garland checks
+
+! 01/28/19 03:13:16! Pot right ($6600), flopping/dealing/drawing cards
+! 01/28/19 03:13:16! 4 players
+! 01/28/19 03:13:16! Flopped cards: 8h Kh 8c
+! 01/28/19 04:39:57! Kyle Stein checks
+! 01/28/19 04:39:57! Deryl Garland checks
+! 01/28/19 04:43:32! Chevy checks
+! 01/28/19 06:03:35! Don Overton checks
+
+! 01/28/19 06:03:35! Pot right ($6600), flopping/dealing/drawing cards
+! 01/28/19 06:03:35! 4 players
+! 01/28/19 06:03:35! Flopped card: 6h
+! 01/28/19 06:08:33! Kyle Stein bets $2250 
+! 01/28/19 06:08:33! Deryl Garland folds
+! 01/28/19 06:13:06! Chevy calls 
+! 01/28/19 06:13:57! Don Overton folds
+
+! 01/28/19 06:13:57! Pot right ($11100), flopping/dealing/drawing cards
+! 01/28/19 06:13:57! 2 players
+! 01/28/19 06:13:57! Flopped card: 5c
+! 01/28/19 06:18:47! Kyle Stein bets $9350 and is all in
+! 01/28/19 06:20:04! Chevy calls 
+! Hand over, current board is:  8h Kh 8c 6h 5c
+! Kyle Stein               has: 8s 5h
+! Chevy                    has: 7s 7c
+! Kyle Stein wins $29800 (net $16800) with Full House (8 8 8 5 5)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   GeekMissy                |   49975 |         |      |    |         |
+ 2|   Don Overton              |  177050 |         |      |    |         |
+ 3|D  Kyle Stein               |   29800 |         |      |    |         |
+ 4|   Deryl Garland            |  105300 |         |      |    |         |
+ 5|   JPP                      |  118125 |         |      |    |         |
+ 6|V  Statistical Tie          |  102125 |         |<AWOL>|    |         |
+ 7|   Mybanjo                  |   28550 |         |      |    |         |
+ 8|>  Chevy                    |  176225 |         |      |    |         |
+ 9|   DaveKal                  |   70550 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 308 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c12.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 11
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

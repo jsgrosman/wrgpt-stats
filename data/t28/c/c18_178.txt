@@ -1,0 +1,111 @@
+Subject: [c18.10325] Holdem Game Broadcast Message(*)
+
+! Table c18, Hand 178, Day 75
+
+! Feedtheherd checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Poker Dog                |  252450 |       0 |New   |    |         |
+ 2|V  Saurav Chakraborty       |   62650 |     200 |<Gone>|    |         |
+ 3|   Feedtheherd              |   18850 |    2900 |      |    |         |
+ 4|   Ken Kubey                |   65575 |     200 |folded|    |         |
+ 5|D  Rick Brown               |   86300 |     200 |folded|    |         |
+ 6|   Tom Abraham              |  203450 |    1400 |folded|    |         |
+ 7|>  Piojos                   |  291100 |    2900 |      |    |         |
+ 8|   Romeo Alexander          |   72175 |     200 |folded|    |         |
+ 9|   rtroll                   |  117175 |     200 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/24/19 14:47:32! Dealing a new hand
+! 01/24/19 14:47:32! Everyone antes $200
+! 01/24/19 14:47:32! Tom Abraham blinds $600
+! 01/24/19 14:47:32! Piojos blinds $1200
+! 01/24/19 15:39:36! Romeo Alexander folds
+! 01/24/19 15:40:34! rtroll folds
+! 01/24/19 15:40:34! Saurav Chakraborty is on vacation and folds
+! 01/24/19 15:47:24! Feedtheherd calls 
+! 01/24/19 19:48:01! Ken Kubey folds
+! 01/24/19 19:48:01! Rick Brown folds
+! 01/25/19 03:56:36! Tom Abraham calls 
+! 01/25/19 04:50:30! Piojos checks
+
+! 01/25/19 04:50:30! Pot right ($5200), flopping/dealing/drawing cards
+! 01/25/19 04:50:30! 3 players
+! 01/25/19 04:50:30! Flopped cards: 9c Kd 9d
+! 01/25/19 05:45:31! Tom Abraham checks
+! 01/25/19 05:45:31! Piojos checks
+! 01/25/19 05:51:22! Feedtheherd bets $1500 
+! 01/25/19 05:51:22! Tom Abraham folds
+! 01/25/19 05:55:04! New player added to the table: Poker Dog
+! 01/25/19 06:37:54! Piojos calls 
+
+! 01/25/19 06:37:54! Pot right ($8200), flopping/dealing/drawing cards
+! 01/25/19 06:37:54! 2 players
+! 01/25/19 06:37:54! Flopped card: 8c
+! 01/25/19 06:38:58! Piojos checks
+! 01/25/19 09:50:27! Feedtheherd checks
+
+! 01/25/19 09:50:27! Pot right ($8200), flopping/dealing/drawing cards
+! 01/25/19 09:50:27! 2 players
+! 01/25/19 09:50:27! Flopped card: 4d
+! 01/25/19 11:42:06! Piojos checks
+! 01/25/19 11:51:31! Feedtheherd checks
+! Hand over, current board is:  9c Kd 9d 8c 4d
+! Feedtheherd              has: Qs Jh
+! Piojos                   has: Js 10c
+! Feedtheherd wins $8200 (net $5300) with One Pair (9 9 K Q J)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Poker Dog                |  252450 |         |      |    |         |
+ 2|V  Saurav Chakraborty       |   62650 |         |<Gone>|    |         |
+ 3|   Feedtheherd              |   27050 |         |      |    |         |
+ 4|   Ken Kubey                |   65575 |         |      |    |         |
+ 5|   Rick Brown               |   86300 |         |      |    |         |
+ 6|D  Tom Abraham              |  203450 |         |      |    |         |
+ 7|>  Piojos                   |  291100 |         |      |    |         |
+ 8|   Romeo Alexander          |   72175 |         |      |    |         |
+ 9|   rtroll                   |  117175 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 321 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c18.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 14
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,109 @@
+Subject: [c27.10373] Holdem Game Broadcast Message(*)
+
+! Table c27, Hand 183, Day 78
+
+! Andrew Nelson checks
+! AlphaBet checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   888                      |  123025 |     800 |folded|    |         |
+ 2|   SCM                      |   38875 |    1400 |folded|    |         |
+ 3|   Dennis Roberts           |   80500 |     200 |folded|    |         |
+ 4|   Nitcast                  |   87350 |     200 |folded|    |         |
+ 5|>  Andrew Nelson            |   64250 |   14100 |      |    |         |
+ 6|   StewieG                  |   99100 |     200 |folded|    |         |
+ 7|   AlphaBet                 |   21175 |   14100 |      |    |         |
+ 8|   Dalamo                   |   69025 |     200 |folded|    |         |
+ 9|D  DocOber                  |   65950 |     200 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/27/19 15:00:56! Dealing a new hand
+! 01/27/19 15:00:56! Everyone antes $200
+! 01/27/19 15:00:56! 888 blinds $600
+! 01/27/19 15:00:56! SCM blinds $1200
+! 01/27/19 18:30:41! Dennis Roberts folds
+! 01/27/19 18:30:41! Nitcast folds
+! 01/27/19 18:33:34! Andrew Nelson raises $1200 to $2400 total 
+! 01/28/19 05:17:44! StewieG folds
+! 01/28/19 05:17:44! AlphaBet calls 
+! 01/28/19 05:17:44! Dalamo folds
+! 01/28/19 06:43:01! DocOber folds
+! 01/28/19 06:43:01! 888 folds
+! 01/28/19 06:43:01! SCM folds
+
+! 01/28/19 06:43:01! Pot right ($8400), flopping/dealing/drawing cards
+! 01/28/19 06:43:01! 2 players
+! 01/28/19 06:43:01! Flopped cards: 10d 7s 8h
+! 01/28/19 07:27:17! Andrew Nelson bets $4500 
+! 01/28/19 07:39:58! AlphaBet calls 
+
+! 01/28/19 07:39:58! Pot right ($17400), flopping/dealing/drawing cards
+! 01/28/19 07:39:58! 2 players
+! 01/28/19 07:39:58! Flopped card: 3h
+! 01/28/19 07:41:20! Andrew Nelson bets $7000 
+! 01/28/19 08:08:49! AlphaBet calls 
+
+! 01/28/19 08:08:49! Pot right ($31400), flopping/dealing/drawing cards
+! 01/28/19 08:08:49! 2 players
+! 01/28/19 08:08:49! Flopped card: 10s
+! 01/28/19 08:10:02! Andrew Nelson checks
+! 01/28/19 08:10:02! AlphaBet checks
+! Hand over, current board is:  10d 7s 8h 3h 10s
+! Andrew Nelson            has: Qs Qh
+! AlphaBet                 has: Qc 9c
+! Andrew Nelson wins $31400 (net $17300) with Two Pair (Q Q 10 10 8)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  888                      |  123025 |         |      |    |         |
+ 2|   SCM                      |   38875 |         |      |    |         |
+ 3|   Dennis Roberts           |   80500 |         |      |    |         |
+ 4|   Nitcast                  |   87350 |         |      |    |         |
+ 5|>  Andrew Nelson            |   95650 |         |      |    |         |
+ 6|   StewieG                  |   99100 |         |      |    |         |
+ 7|   AlphaBet                 |   21175 |         |      |    |         |
+ 8|   Dalamo                   |   69025 |         |      |    |         |
+ 9|   DocOber                  |   65950 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 302 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c27.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 4
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

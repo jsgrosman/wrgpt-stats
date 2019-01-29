@@ -1,0 +1,121 @@
+Subject: [c15.10349] Holdem Game Broadcast Message(*)
+
+! Table c15, Hand 176, Day 74
+
+! asypta checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Scott Ziegler            |   30525 |     200 |folded|    |         |
+ 2|D  Alvin Chipmunk           |   39950 |     200 |folded|    |         |
+ 3|>  WhyImHere                |   92950 |    3650 |      |    |         |
+ 4|   J. Michael Hammond       |   47850 |    1400 |folded|    |         |
+ 5|   Wally F                  |   94275 |    3650 |      |    |         |
+ 6|   Morgan                   |   29900 |     200 |folded|    |         |
+ 7|   asypta                   |  126800 |    3650 |      |    |         |
+ 8|   MarinaMan                |   51150 |    1400 |folded|    |         |
+ 9|   Chris Danek              |  102950 |    1400 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/23/19 14:25:56! Dealing a new hand
+! 01/23/19 14:25:56! Everyone antes $200
+! 01/23/19 14:25:56! WhyImHere blinds $600
+! 01/23/19 14:25:56! J. Michael Hammond blinds $1200
+! 01/23/19 14:29:46! Wally F calls 
+! 01/23/19 14:29:46! Morgan folds
+! 01/23/19 14:29:46! asypta calls 
+! 01/23/19 14:31:50! MarinaMan calls 
+! 01/23/19 14:34:58! Chris Danek calls 
+! 01/23/19 17:59:15! Scott Ziegler folds
+! 01/23/19 17:59:15! Alvin Chipmunk folds
+! 01/23/19 18:00:33! WhyImHere calls 
+! 01/23/19 18:49:28! J. Michael Hammond checks
+
+! 01/23/19 18:49:28! Pot right ($9000), flopping/dealing/drawing cards
+! 01/23/19 18:49:28! 6 players
+! 01/23/19 18:49:28! Flopped cards: Ac 4d 2h
+! 01/23/19 19:03:39! WhyImHere checks
+! 01/23/19 19:03:39! J. Michael Hammond checks
+! 01/23/19 20:54:38! Wally F checks
+! 01/23/19 20:54:38! asypta checks
+! 01/23/19 21:12:04! MarinaMan checks
+! 01/24/19 08:39:17! Chris Danek checks
+
+! 01/24/19 08:39:17! Pot right ($9000), flopping/dealing/drawing cards
+! 01/24/19 08:39:17! 6 players
+! 01/24/19 08:39:17! Flopped card: 10d
+! 01/24/19 09:11:51! WhyImHere checks
+! 01/24/19 10:16:18! J. Michael Hammond checks
+! 01/24/19 10:16:18! Wally F checks
+! 01/24/19 10:36:01! asypta bets $2250 
+! 01/24/19 10:40:31! MarinaMan folds
+! 01/24/19 11:54:06! Chris Danek folds
+! 01/24/19 12:00:08! WhyImHere calls 
+! 01/24/19 12:25:57! J. Michael Hammond folds
+! 01/24/19 12:32:26! Wally F calls 
+
+! 01/24/19 12:32:26! Pot right ($15750), flopping/dealing/drawing cards
+! 01/24/19 12:32:26! 3 players
+! 01/24/19 12:32:26! Flopped card: Jh
+! 01/24/19 12:33:07! WhyImHere checks
+! 01/24/19 12:33:39! Wally F checks
+! 01/24/19 12:51:20! asypta checks
+! Hand over, current board is:  Ac 4d 2h 10d Jh
+! WhyImHere                has: 8s 2d
+! Wally F                  has: Qh Qc
+! asypta                   has: Ks 10s
+! Wally F wins $15750 (net $12100) with One Pair (Q Q A J 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Scott Ziegler            |   30525 |         |      |    |         |
+ 2|   Alvin Chipmunk           |   39950 |         |      |    |         |
+ 3|D> WhyImHere                |   92950 |         |      |    |         |
+ 4|   J. Michael Hammond       |   47850 |         |      |    |         |
+ 5|   Wally F                  |  110025 |         |      |    |         |
+ 6|   Morgan                   |   29900 |         |      |    |         |
+ 7|   asypta                   |  126800 |         |      |    |         |
+ 8|   MarinaMan                |   51150 |         |      |    |         |
+ 9|   Chris Danek              |  102950 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 329 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c15.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 4
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

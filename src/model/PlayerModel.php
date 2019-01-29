@@ -454,11 +454,11 @@ SQL;
         $conn = DBConn::getConnection();
 
         $sql =<<<SQL
-select table_name, hand_num, chips
+select chips
 from hand_by_hand
 where player = ?
 and tournament_id = ?
-order by table_name, hand_num
+order by hand_began
 SQL;
 
         $result = $conn->queryFetchAll($sql, [$this->player, 28]);

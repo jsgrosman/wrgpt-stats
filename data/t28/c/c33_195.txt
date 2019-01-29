@@ -1,0 +1,111 @@
+Subject: [c33.10672] Holdem Game Broadcast Message(*)
+
+! Table c33, Hand 195, Day 79
+
+! Big Stack Bryan calls 
+! Pot right ($92100), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 3s
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   BigBlind                 |   97550 |     200 |folded|    |         |
+ 2|   Scot Wolfington          |       0 |   44450 |all-in|    |         |
+ 3|   Walter Hunt              |   51700 |     200 |folded|    |         |
+ 4|   Poker Coach              |  169275 |     200 |folded|    |         |
+ 5|D  John Senger              |  123325 |     200 |folded|    |         |
+ 6|   Bryan Juliano            |   32200 |     800 |folded|    |         |
+ 7|   SteedCarson              |  299300 |    1400 |folded|    |         |
+ 8|   Michael                  |   53050 |     200 |folded|    |         |
+ 9|>  Big Stack Bryan          |   11575 |   44450 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/28/19 19:01:12! Dealing a new hand
+! 01/28/19 19:01:12! Everyone antes $200
+! 01/28/19 19:01:12! Bryan Juliano blinds $600
+! 01/28/19 19:01:12! SteedCarson blinds $1200
+! 01/28/19 19:16:22! Michael folds
+! 01/28/19 20:01:00! Big Stack Bryan calls 
+! 01/28/19 20:01:00! BigBlind folds
+! 01/28/19 20:10:53! Scot Wolfington raises $4800 to $6000 total 
+! 01/28/19 20:10:53! Walter Hunt folds
+! 01/28/19 20:10:53! Poker Coach folds
+! 01/28/19 21:06:54! John Senger folds
+! 01/28/19 21:06:54! Bryan Juliano folds
+! 01/28/19 21:12:48! SteedCarson folds
+! 01/29/19 04:33:54! Big Stack Bryan calls 
+
+! 01/29/19 04:33:54! Pot right ($15600), flopping/dealing/drawing cards
+! 01/29/19 04:33:54! 2 players
+! 01/29/19 04:33:54! Flopped cards: 2d Ah 3h
+! 01/29/19 04:34:21! Big Stack Bryan bets $4000 
+! 01/29/19 04:48:30! Scot Wolfington calls 
+
+! 01/29/19 04:48:30! Pot right ($23600), flopping/dealing/drawing cards
+! 01/29/19 04:48:30! 2 players
+! 01/29/19 04:48:30! Flopped card: Jh
+! 01/29/19 05:03:57! Big Stack Bryan bets $4000 
+! 01/29/19 05:03:57! Scot Wolfington raises $30250 to $34250 total and is all in
+! 01/29/19 05:05:09! Big Stack Bryan calls 
+
+! 01/29/19 05:05:09! Pot right ($92100), flopping/dealing/drawing cards
+! 01/29/19 05:05:09! 2 players, 1 all in
+! 01/29/19 05:05:09! Flopped card: 3s
+! Hand over, current board is:  2d Ah 3h Jh 3s
+! Scot Wolfington          has: Ad Ac
+! Big Stack Bryan          has: As 8s
+! Scot Wolfington wins $92100 (net $47650) with Full House (A A A 3 3)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   BigBlind                 |   97550 |         |      |    |         |
+ 2|   Scot Wolfington          |   92100 |         |      |    |         |
+ 3|   Walter Hunt              |   51700 |         |      |    |         |
+ 4|   Poker Coach              |  169275 |         |      |    |         |
+ 5|   John Senger              |  123325 |         |      |    |         |
+ 6|D  Bryan Juliano            |   32200 |         |      |    |         |
+ 7|   SteedCarson              |  299300 |         |      |    |         |
+ 8|   Michael                  |   53050 |         |      |    |         |
+ 9|>  Big Stack Bryan          |   11575 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 297 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c33.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

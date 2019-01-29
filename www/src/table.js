@@ -62,7 +62,7 @@ let colors = [
 ];
 
 players.forEach(function(player) {
-    fetch('player.php?player=' + player).then(function(res) {
+    fetch('/players/' + player).then(function(res) {
         return res.json();
     }).then(function(playerObj) {
 
@@ -106,7 +106,7 @@ function getFoldPercentage(actionsObject, actionType)
     return parseFloat((folds/total) * 100).toFixed(2)+"%";
 }
 
-fetch('allPlayers.php').then(function(res) {
+fetch('/players').then(function(res) {
     return res.json();
 }).then(function(playerObj) {
 

@@ -1,0 +1,109 @@
+Subject: [c26.10443] Holdem Game Broadcast Message(*)
+
+! Table c26, Hand 195, Day 73
+
+! Brian Cooper checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Brian Cooper             |   23625 |   15200 |      |    |         |
+ 2|   docdanger                |  106700 |     200 |folded|    |         |
+ 3|   Firstorlast56            |   57625 |     200 |folded|    |         |
+ 4|D  Vince Tafoya             |   64575 |     200 |folded|    |         |
+ 5|   MarcJallday              |   32525 |     800 |folded|    |         |
+ 6|>  Ken Anderson             |  202200 |   15200 |      |    |         |
+ 7|   Josh Moore               |  137825 |     200 |folded|    |         |
+ 8|   Matt Matros              |   59225 |     200 |folded|    |         |
+ 9|   starrman99               |   92000 |     200 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/22/19 19:15:25! Dealing a new hand
+! 01/22/19 19:15:25! Everyone antes $200
+! 01/22/19 19:15:25! MarcJallday blinds $600
+! 01/22/19 19:15:25! Ken Anderson blinds $1200
+! 01/22/19 22:04:02! Josh Moore folds
+! 01/22/19 22:04:02! Matt Matros folds
+! 01/23/19 05:55:07! starrman99 folds
+! 01/23/19 07:03:46! Brian Cooper raises $1800 to $3000 total 
+! 01/23/19 07:03:46! docdanger folds
+! 01/23/19 10:27:17! Firstorlast56 folds
+! 01/23/19 10:27:17! Vince Tafoya folds
+! 01/23/19 10:47:55! MarcJallday folds
+! 01/23/19 10:47:55! Ken Anderson calls 
+
+! 01/23/19 10:47:55! Pot right ($8400), flopping/dealing/drawing cards
+! 01/23/19 10:47:55! 2 players
+! 01/23/19 10:47:55! Flopped cards: Ad Js 8c
+! 01/23/19 10:55:03! Ken Anderson bets $4500 
+! 01/23/19 11:35:44! Brian Cooper calls 
+
+! 01/23/19 11:35:44! Pot right ($17400), flopping/dealing/drawing cards
+! 01/23/19 11:35:44! 2 players
+! 01/23/19 11:35:44! Flopped card: 3d
+! 01/23/19 11:39:27! Ken Anderson checks
+! 01/23/19 11:57:49! Brian Cooper bets $7500 
+! 01/23/19 12:04:55! Ken Anderson calls 
+
+! 01/23/19 12:04:55! Pot right ($32400), flopping/dealing/drawing cards
+! 01/23/19 12:04:55! 2 players
+! 01/23/19 12:04:55! Flopped card: 2s
+! 01/23/19 12:06:24! Ken Anderson checks
+! 01/23/19 12:20:38! Brian Cooper checks
+! Hand over, current board is:  Ad Js 8c 3d 2s
+! Brian Cooper             has: Ks Kc
+! Ken Anderson             has: As Kh
+! Ken Anderson wins $32400 (net $17200) with One Pair (A A K J 8)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Brian Cooper             |   23625 |         |      |    |         |
+ 2|   docdanger                |  106700 |         |      |    |         |
+ 3|   Firstorlast56            |   57625 |         |      |    |         |
+ 4|   Vince Tafoya             |   64575 |         |      |    |         |
+ 5|D  MarcJallday              |   32525 |         |      |    |         |
+ 6|>  Ken Anderson             |  234600 |         |      |    |         |
+ 7|   Josh Moore               |  137825 |         |      |    |         |
+ 8|   Matt Matros              |   59225 |         |      |    |         |
+ 9|   starrman99               |   92000 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 333 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c26.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,117 @@
+Subject: [c37.10391] Holdem Game Broadcast Message(*)
+
+! Table c37, Hand 179, Day 75
+
+! Dennis Roberts calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   MOVED Poker Dog          |       0 |     200 |folded|    |         |
+ 2|   Lobocs                   |       0 |   43275 |all-in|  3 |  131625 |
+ 3|   Dennis Roberts           |   81100 |   88700 |      |  2 |   90850 |
+ 4|   MOVED Fryday             |       0 |     200 |folded|    |         |
+ 5|D  MOVED TracyB             |       0 |     200 |folded|    |         |
+ 6|   MOVED poohbear           |       0 |     800 |folded|    |         |
+ 7|>  SteedCarson              |   82225 |   88700 |      |  2 |   90850 |
+ 8|   MOVED Axel Foley         |       0 |     200 |folded|    |         |
+ 9|   MOVED GeekMissy          |       0 |     200 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/24/19 09:39:20! Dealing a new hand
+! 01/24/19 09:39:20! Everyone antes $200
+! 01/24/19 09:39:20! poohbear blinds $600
+! 01/24/19 09:39:20! SteedCarson blinds $1200
+! 01/24/19 11:04:29! Axel Foley folds
+! 01/24/19 11:04:29! GeekMissy folds
+! 01/24/19 11:04:29! Poker Dog folds
+! 01/24/19 14:34:09! Lobocs calls 
+! 01/24/19 16:05:32! Dennis Roberts raises $2500 to $3700 total 
+! 01/24/19 16:53:04! Fryday folds
+! 01/24/19 17:26:45! TracyB folds
+! 01/24/19 17:26:45! poohbear folds
+! 01/24/19 17:51:48! SteedCarson calls 
+! 01/24/19 19:32:17! Lobocs calls 
+
+! 01/24/19 19:32:17! Pot right ($13500), flopping/dealing/drawing cards
+! 01/24/19 19:32:17! 3 players
+! 01/24/19 19:32:17! Flopped cards: 10s Ks 5h
+! 01/24/19 19:48:33! SteedCarson checks
+! 01/24/19 20:25:32! Lobocs checks
+! 01/24/19 20:27:52! Dennis Roberts bets $7800 
+! 01/24/19 20:37:30! SteedCarson calls 
+! 01/24/19 20:56:52! Lobocs calls 
+
+! 01/24/19 20:56:52! Pot right ($36900), flopping/dealing/drawing cards
+! 01/24/19 20:56:52! 3 players
+! 01/24/19 20:56:52! Flopped card: 4d
+! 01/25/19 05:55:03! Player leaving table: Poker Dog
+! 01/25/19 05:55:05! Player leaving table: GeekMissy
+! 01/25/19 05:55:07! Player leaving table: Fryday
+! 01/25/19 05:55:10! Player leaving table: Axel Foley
+! 01/25/19 05:55:12! Player leaving table: TracyB
+! 01/25/19 05:55:14! Player leaving table: poohbear
+! 01/25/19 06:07:03! SteedCarson checks
+! 01/25/19 13:25:00! Lobocs checks
+! 01/25/19 13:27:43! Dennis Roberts bets $36000 
+! 01/25/19 14:08:42! SteedCarson calls 
+! 01/25/19 14:14:30! Lobocs calls - side pot
+
+! 01/25/19 14:14:30! Pot right ($140475), flopping/dealing/drawing cards
+! 01/25/19 14:14:30! 3 players, 1 all in
+! 01/25/19 14:14:30! Flopped card: Ad
+! 01/25/19 14:25:57! SteedCarson bets $41000 
+! 01/25/19 14:34:57! Dennis Roberts calls 
+! Hand over, current board is:  10s Ks 5h 4d Ad
+! Lobocs                   has: As 2s
+! Dennis Roberts           has: Kh Jh
+! SteedCarson              has: Qs Js
+! Pot 2: SteedCarson wins $90850 with Straight (A K Q J 10)
+! Pot 3: SteedCarson wins $131625 with Straight (A K Q J 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 3|   Dennis Roberts           |   81100 |         |      |    |         |
+ 7|>  SteedCarson              |  304700 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Lobocs is eliminated!
+! 316 players left in the tournament 
+! Table waiting for live reshuffle
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c37.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 16
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

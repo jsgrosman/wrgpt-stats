@@ -1,0 +1,111 @@
+Subject: [c23.10189] Holdem Game Broadcast Message(*)
+
+! Table c23, Hand 162, Day 74
+
+! Mark Ballinger calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Mark Ballinger           |   30550 |   16000 |      |    |         |
+ 2|   PMD                      |   43925 |     200 |folded|    |         |
+ 3|   Ben Buchwald             |  107825 |     200 |folded|    |         |
+ 4|   LetsGoRedSox             |  149300 |     200 |folded|    |         |
+ 5|   Daryl                    |   61875 |     200 |folded|    |         |
+ 6|D> Darse Billings           |   41975 |   16000 |      |    |         |
+ 7|   Jason Feng               |   55775 |     800 |folded|    |         |
+ 8|   Paul Ant                 |   70575 |    3000 |folded|    |         |
+ 9|   HeyBuster                |   84100 |     200 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/23/19 03:35:53! Dealing a new hand
+! 01/23/19 03:35:53! Everyone antes $200
+! 01/23/19 03:35:53! Jason Feng blinds $600
+! 01/23/19 03:35:53! Paul Ant blinds $1200
+! 01/23/19 04:42:40! HeyBuster folds
+! 01/23/19 05:25:54! Mark Ballinger raises $1600 to $2800 total 
+! 01/23/19 10:30:25! PMD folds
+! 01/23/19 10:30:25! Ben Buchwald folds
+! 01/23/19 10:30:25! LetsGoRedSox folds
+! 01/23/19 12:32:52! Daryl folds
+! 01/23/19 12:32:52! Darse Billings calls 
+! 01/23/19 12:32:52! Jason Feng folds
+! 01/23/19 12:47:33! Paul Ant calls 
+
+! 01/23/19 12:47:33! Pot right ($10800), flopping/dealing/drawing cards
+! 01/23/19 12:47:33! 3 players
+! 01/23/19 12:47:33! Flopped cards: 10h 4h 3c
+! 01/24/19 01:35:47! Paul Ant checks
+! 01/24/19 05:20:52! Mark Ballinger bets $3000 
+! 01/24/19 05:22:33! Darse Billings calls 
+! 01/24/19 05:58:19! Paul Ant folds
+
+! 01/24/19 05:58:19! Pot right ($16800), flopping/dealing/drawing cards
+! 01/24/19 05:58:19! 2 players
+! 01/24/19 05:58:19! Flopped card: 5d
+! 01/24/19 06:44:52! Mark Ballinger checks
+! 01/24/19 06:46:31! Darse Billings checks
+
+! 01/24/19 06:46:31! Pot right ($16800), flopping/dealing/drawing cards
+! 01/24/19 06:46:31! 2 players
+! 01/24/19 06:46:31! Flopped card: 9d
+! 01/24/19 07:10:06! Mark Ballinger checks
+! 01/24/19 07:48:22! Darse Billings bets $10000 
+! 01/24/19 08:47:08! Mark Ballinger calls 
+! Hand over, current board is:  10h 4h 3c 5d 9d
+! Mark Ballinger           has: Ah 8h
+! Darse Billings           has: Kh Qh
+! Mark Ballinger wins $36800 (net $20800) with No Pair (A 10 9 8 5)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Mark Ballinger           |   67350 |         |      |    |         |
+ 2|   PMD                      |   43925 |         |      |    |         |
+ 3|   Ben Buchwald             |  107825 |         |      |    |         |
+ 4|   LetsGoRedSox             |  149300 |         |      |    |         |
+ 5|   Daryl                    |   61875 |         |      |    |         |
+ 6|>  Darse Billings           |   41975 |         |      |    |         |
+ 7|D  Jason Feng               |   55775 |         |      |    |         |
+ 8|   Paul Ant                 |   70575 |         |      |    |         |
+ 9|   HeyBuster                |   84100 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 334 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c23.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 10
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

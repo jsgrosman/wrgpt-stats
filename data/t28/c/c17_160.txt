@@ -1,0 +1,111 @@
+Subject: [c17.10176] Holdem Game Broadcast Message(*)
+
+! Table c17, Hand 160, Day 74
+
+! Pete McEvoy checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Loboc                    |   40250 |     200 |folded|    |         |
+ 2|   Pete McEvoy              |   14250 |    6800 |      |    |         |
+ 3|   micwso                   |   76450 |     200 |folded|    |         |
+ 4|D  zipper                   |   36450 |     200 |folded|    |         |
+ 5|   Dan Duncan               |   44400 |    1400 |folded|    |         |
+ 6|>  ADB Jaeger               |   36550 |    6800 |      |    |         |
+ 7|   coming                   |   38725 |     200 |folded|    |         |
+ 8|   Larry Stone              |   33925 |     200 |folded|    |         |
+ 9|   Virginia Slims           |   57950 |     200 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/23/19 09:52:15! Dealing a new hand
+! 01/23/19 09:52:15! Everyone antes $200
+! 01/23/19 09:52:15! Dan Duncan blinds $600
+! 01/23/19 09:52:15! ADB Jaeger blinds $1200
+! 01/23/19 09:52:15! coming is on vacation and folds
+! 01/23/19 09:53:49! Larry Stone folds
+! 01/23/19 10:47:14! Virginia Slims folds
+! 01/23/19 14:08:48! Loboc folds
+! 01/23/19 14:11:07! Pete McEvoy calls 
+! 01/23/19 14:11:07! micwso folds
+! 01/23/19 15:08:03! zipper folds
+! 01/23/19 15:10:50! Dan Duncan calls 
+! 01/23/19 17:29:45! ADB Jaeger checks
+
+! 01/23/19 17:29:45! Pot right ($5400), flopping/dealing/drawing cards
+! 01/23/19 17:29:45! 3 players
+! 01/23/19 17:29:45! Flopped cards: Jh 7h 2h
+! 01/23/19 17:35:00! Dan Duncan checks
+! 01/23/19 19:16:21! ADB Jaeger bets $5400 
+! 01/23/19 23:30:57! Pete McEvoy calls 
+! 01/23/19 23:30:57! Dan Duncan folds
+
+! 01/23/19 23:30:57! Pot right ($16200), flopping/dealing/drawing cards
+! 01/23/19 23:30:57! 2 players
+! 01/23/19 23:30:57! Flopped card: 6d
+! 01/24/19 04:33:43! coming is back from vacation
+! 01/24/19 04:47:53! ADB Jaeger checks
+! 01/24/19 04:50:00! Pete McEvoy checks
+
+! 01/24/19 04:50:00! Pot right ($16200), flopping/dealing/drawing cards
+! 01/24/19 04:50:00! 2 players
+! 01/24/19 04:50:00! Flopped card: 4h
+! 01/24/19 04:50:48! ADB Jaeger checks
+! 01/24/19 05:01:40! Pete McEvoy checks
+! Hand over, current board is:  Jh 7h 2h 6d 4h
+! Pete McEvoy              has: Qd Kc
+! ADB Jaeger               has: 5h 7d
+! ADB Jaeger wins $16200 (net $9400) with Heart Flush (J 7 5 4 2)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Loboc                    |   40250 |         |      |    |         |
+ 2|   Pete McEvoy              |   14250 |         |      |    |         |
+ 3|   micwso                   |   76450 |         |      |    |         |
+ 4|   zipper                   |   36450 |         |      |    |         |
+ 5|D  Dan Duncan               |   44400 |         |      |    |         |
+ 6|>  ADB Jaeger               |   52750 |         |      |    |         |
+ 7|   coming                   |   38725 |         |      |    |         |
+ 8|   Larry Stone              |   33925 |         |      |    |         |
+ 9|   Virginia Slims           |   57950 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 332 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c17.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

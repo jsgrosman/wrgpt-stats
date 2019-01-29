@@ -1,0 +1,107 @@
+Subject: [c32.10345] Holdem Game Broadcast Message(*)
+
+! Table c32, Hand 179, Day 78
+
+! Roger Strom calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Roger Strom              |   25275 |   24600 |      |    |         |
+ 2|   bozo                     |  123375 |     200 |folded|    |         |
+ 3|   jasong                   |  144425 |     200 |folded|    |         |
+ 4|   Mike B                   |   37925 |     200 |folded|    |         |
+ 5|D  Swamper_Shirley          |   54125 |    1400 |folded|    |         |
+ 7|   DazedAndConfused         |   96525 |     800 |folded|    |         |
+ 8|>  Thomas Gabrysch          |   21850 |   24600 |      |    |         |
+ 9|   jpchiefs                 |   58750 |     200 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/27/19 10:18:00! Dealing a new hand
+! 01/27/19 10:18:00! Everyone antes $200
+! 01/27/19 10:18:00! DazedAndConfused blinds $600
+! 01/27/19 10:18:00! Thomas Gabrysch blinds $1200
+! 01/27/19 11:06:56! jpchiefs folds
+! 01/27/19 11:15:27! Roger Strom calls 
+! 01/27/19 11:15:27! bozo folds
+! 01/27/19 11:15:27! jasong folds
+! 01/27/19 11:15:27! Mike B folds
+! 01/27/19 11:35:17! Swamper_Shirley calls 
+! 01/27/19 11:35:17! DazedAndConfused folds
+! 01/27/19 12:04:43! Thomas Gabrysch checks
+
+! 01/27/19 12:04:43! Pot right ($5800), flopping/dealing/drawing cards
+! 01/27/19 12:04:43! 3 players
+! 01/27/19 12:04:43! Flopped cards: 8h 10s 8c
+! 01/27/19 12:06:09! Thomas Gabrysch checks
+! 01/28/19 00:38:55! Roger Strom bets $5800 
+! 01/28/19 03:35:25! Swamper_Shirley folds
+! 01/28/19 03:56:11! Thomas Gabrysch calls 
+
+! 01/28/19 03:56:11! Pot right ($17400), flopping/dealing/drawing cards
+! 01/28/19 03:56:11! 2 players
+! 01/28/19 03:56:11! Flopped card: 6d
+! 01/28/19 03:56:47! Thomas Gabrysch checks
+! 01/28/19 04:57:08! Roger Strom checks
+
+! 01/28/19 04:57:08! Pot right ($17400), flopping/dealing/drawing cards
+! 01/28/19 04:57:08! 2 players
+! 01/28/19 04:57:08! Flopped card: 9d
+! 01/28/19 04:59:15! Thomas Gabrysch bets $17400 
+! 01/28/19 05:00:32! Roger Strom calls 
+! Hand over, current board is:  8h 10s 8c 6d 9d
+! Roger Strom              has: Jc 10c
+! Thomas Gabrysch          has: 8s 10h
+! Thomas Gabrysch wins $52200 (net $27600) with Full House (8 8 8 10 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Roger Strom              |   25275 |         |      |    |         |
+ 2|   bozo                     |  123375 |         |      |    |         |
+ 3|   jasong                   |  144425 |         |      |    |         |
+ 4|   Mike B                   |   37925 |         |      |    |         |
+ 5|   Swamper_Shirley          |   54125 |         |      |    |         |
+ 7|D  DazedAndConfused         |   96525 |         |      |    |         |
+ 8|>  Thomas Gabrysch          |   74050 |         |      |    |         |
+ 9|   jpchiefs                 |   58750 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 305 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c32.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 11
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

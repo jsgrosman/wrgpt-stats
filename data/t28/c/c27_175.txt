@@ -1,0 +1,104 @@
+Subject: [c27.10306] Holdem Game Broadcast Message(*)
+
+! Table c27, Hand 175, Day 74
+
+! 888 raises $67725 to $87975 total and is all in
+! Pot right ($111825), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped cards: 9d Ac 5h
+! Flopped card: 3d
+! Flopped card: Ad
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D> 888                      |       0 |   88175 |all-in|  1 |   67725 |
+ 2|   SCM                      |   41675 |     800 |folded|    |         |
+ 3|   RunGoodRob               |       0 |   20450 |all-in|  2 |   44100 |
+ 4|   Nitcast                  |   82150 |     200 |folded|    |         |
+ 5|   Andrew Nelson            |   72950 |     200 |folded|    |         |
+ 6|   StewieG                  |  101500 |    1400 |folded|    |         |
+ 7|   AlphaBet                 |   39675 |     200 |folded|    |         |
+ 8|   Dalamo                   |   78625 |     200 |folded|    |         |
+ 9|   DocOber                  |   71150 |     200 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/23/19 15:19:09! Dealing a new hand
+! 01/23/19 15:19:09! Everyone antes $200
+! 01/23/19 15:19:09! SCM blinds $600
+! 01/23/19 15:19:09! RunGoodRob blinds $1200
+! 01/23/19 15:46:47! Nitcast folds
+! 01/23/19 18:03:15! Andrew Nelson folds
+! 01/23/19 18:08:14! StewieG calls 
+! 01/23/19 18:08:14! AlphaBet folds
+! 01/23/19 18:08:14! Dalamo folds
+! 01/23/19 20:51:58! DocOber folds
+! 01/24/19 02:11:46! 888 calls 
+! 01/24/19 02:11:46! SCM folds
+! 01/24/19 03:59:12! RunGoodRob raises $19050 to $20250 total and is all in
+! 01/24/19 05:32:12! StewieG folds
+! 01/24/19 05:47:26! 888 raises $67725 to $87975 total and is all in
+
+! 01/24/19 05:47:26! Pot right ($111825), flopping/dealing/drawing cards
+! 01/24/19 05:47:26! 2 players, 2 all in
+! 01/24/19 05:47:26! Flopped cards: 9d Ac 5h
+! 01/24/19 05:47:26! Flopped card: 3d
+! 01/24/19 05:47:26! Flopped card: Ad
+! Hand over, current board is:  9d Ac 5h 3d Ad
+! 888                      has: Ks 8s
+! RunGoodRob               has: 10s 7c
+! Pot 1: uncalled $67725 returned to 888
+! Pot 2: 888 wins $44100 with One Pair (A A K 9 8)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  888                      |  111825 |         |      |    |         |
+ 2|D  SCM                      |   41675 |         |      |    |         |
+ 4|   Nitcast                  |   82150 |         |      |    |         |
+ 5|   Andrew Nelson            |   72950 |         |      |    |         |
+ 6|   StewieG                  |  101500 |         |      |    |         |
+ 7|   AlphaBet                 |   39675 |         |      |    |         |
+ 8|   Dalamo                   |   78625 |         |      |    |         |
+ 9|   DocOber                  |   71150 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! RunGoodRob is eliminated!
+! 331 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c27.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,132 @@
+Subject: [c13.10400] Holdem Game Broadcast Message(*)
+
+! Table c13, Hand 187, Day 77
+
+! AveCat checks
+! Larry W checks
+! Pot right ($6600), flopping/dealing/drawing cards
+! 4 players
+! Flopped card: 6d
+! TheTwizz checks
+! Spidurman checks
+! AveCat checks
+! Larry W checks
+! Pot right ($6600), flopping/dealing/drawing cards
+! 4 players
+! Flopped card: 7h
+! TheTwizz checks
+! Spidurman checks
+! AveCat checks
+! Larry W checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   AveCat                   |  109200 |    1400 |      |    |         |
+ 2|   Thomas Sims              |  104800 |     200 |folded|    |         |
+ 3|   David Weiss              |  152825 |     200 |folded|    |         |
+ 4|V  UberHank                 |   31875 |     200 |<AWOL>|    |         |
+ 5|D  Larry W                  |   41325 |    1400 |      |    |         |
+ 6|>  TheTwizz                 |   37400 |    1400 |      |    |         |
+ 7|   Spidurman                |  101625 |    1400 |      |    |         |
+ 8|   Deets                    |   51100 |     200 |folded|    |         |
+ 9|   bert_ofcl                |   33850 |     200 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/25/19 17:47:44! Dealing a new hand
+! 01/25/19 17:47:44! Everyone antes $200
+! 01/25/19 17:47:44! TheTwizz blinds $600
+! 01/25/19 17:47:44! Spidurman blinds $1200
+! 01/25/19 18:09:01! Deets folds
+! 01/25/19 18:09:01! bert_ofcl folds
+! 01/25/19 18:33:34! AveCat calls 
+! 01/25/19 18:34:23! Thomas Sims folds
+! 01/25/19 18:34:23! David Weiss folds
+! 01/25/19 18:34:23! UberHank is on vacation and folds
+! 01/25/19 19:16:20! Larry W calls 
+! 01/26/19 05:40:27! TheTwizz calls 
+! 01/26/19 05:40:27! Spidurman checks
+
+! 01/26/19 05:40:27! Pot right ($6600), flopping/dealing/drawing cards
+! 01/26/19 05:40:27! 4 players
+! 01/26/19 05:40:27! Flopped cards: Js 8d Qh
+! 01/26/19 09:10:57! TheTwizz checks
+! 01/26/19 09:10:57! Spidurman checks
+! 01/27/19 09:11:02! AveCat checks
+! 01/27/19 09:11:02! Larry W checks
+
+! 01/27/19 09:11:02! Pot right ($6600), flopping/dealing/drawing cards
+! 01/27/19 09:11:02! 4 players
+! 01/27/19 09:11:02! Flopped card: 6d
+! 01/27/19 09:11:02! TheTwizz checks
+! 01/27/19 09:11:02! Spidurman checks
+! 01/27/19 09:11:02! AveCat checks
+! 01/27/19 09:11:02! Larry W checks
+
+! 01/27/19 09:11:02! Pot right ($6600), flopping/dealing/drawing cards
+! 01/27/19 09:11:02! 4 players
+! 01/27/19 09:11:02! Flopped card: 7h
+! 01/27/19 09:11:02! TheTwizz checks
+! 01/27/19 09:11:02! Spidurman checks
+! 01/27/19 09:11:02! AveCat checks
+! 01/27/19 09:11:02! Larry W checks
+! Hand over, current board is:  Js 8d Qh 6d 7h
+! AveCat                   has: As 5s
+! Larry W                  has: 3h 4c
+! TheTwizz                 has: Ac 2c
+! Spidurman                has: 5d 6c
+! Spidurman wins $6600 (net $5200) with One Pair (6 6 Q J 8)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   AveCat                   |  109200 |         |      |    |         |
+ 2|   Thomas Sims              |  104800 |         |      |    |         |
+ 3|   David Weiss              |  152825 |         |      |    |         |
+ 4|V  UberHank                 |   31875 |         |<AWOL>|    |         |
+ 5|   Larry W                  |   41325 |         |      |    |         |
+ 6|D> TheTwizz                 |   37400 |         |      |    |         |
+ 7|   Spidurman                |  108225 |         |      |    |         |
+ 8|   Deets                    |   51100 |         |      |    |         |
+ 9|   bert_ofcl                |   33850 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! AveCat timed out during this hand
+! 310 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c13.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 5
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

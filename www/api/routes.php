@@ -13,19 +13,30 @@ use wrgpt\controller\PlayerController;
 
 require '../../vendor/autoload.php';
 
+error_log('rewritten!!!!');
+error_log(print_r($_SERVER, true));
+
 $app = new \Slim\App;
-$app->get('api/players/{name}', function (Request $request, Response $response, array $args) {
+$app->get('/players/{name}', function (Request $request, Response $response, array $args) {
+    error_log('/api/players/name');
+
+
     $name = $args['name'];
     $playerController = new PlayerController();
     $playerView = $playerController->getPlayer($name);
 
-    return json_encode($playerView);
+    return $response->withStatus(200)
+        ->withHeader('Content-Type', 'application/json')
+        ->write(json_encode($playerView));
 });
 
-$app->get('api/players', function (Request $request, Response $response, array $args) {
+$app->get('/players', function (Request $request, Response $response, array $args) {
     $playerController = new PlayerController();
     $allPlayersView = $playerController->getAllPlayers();
 
-    return json_encode($allPlayersView);
+
+    return $response->withStatus(200)
+        ->withHeader('Content-Type', 'application/json')
+        ->write(json_encode($allPlayersView));
 });
 $app->run();

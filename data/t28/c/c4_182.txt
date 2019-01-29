@@ -1,0 +1,109 @@
+Subject: [c4.10433] Holdem Game Broadcast Message(*)
+
+! Table c4, Hand 182, Day 75
+
+! Ryan Thomas calls 
+! Pot right ($73900), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: Kh
+! Flopped card: 4c
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Russ Bryan               |   68075 |    3200 |folded|    |         |
+ 2|   DotMatrix                |   39500 |     200 |folded|    |         |
+ 3|   Jeff Palmucci            |   69325 |     200 |folded|    |         |
+ 4|   Chippy McChiperson       |   76550 |     200 |folded|    |         |
+ 5|   What Beats What Again    |   74450 |     200 |folded|    |         |
+ 6|   rAmAk                    |   79650 |     200 |folded|    |         |
+ 7|   Chkchk                   |       0 |   34450 |all-in|    |         |
+ 8|D> Ryan Thomas              |   82150 |   34450 |      |    |         |
+ 9|   eliuk35                  |  120125 |     800 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/25/19 07:02:46! Dealing a new hand
+! 01/25/19 07:02:46! Everyone antes $200
+! 01/25/19 07:02:46! eliuk35 blinds $600
+! 01/25/19 07:02:46! Russ Bryan blinds $1200
+! 01/25/19 07:07:37! DotMatrix folds
+! 01/25/19 07:34:36! Jeff Palmucci folds
+! 01/25/19 07:34:36! Chippy McChiperson folds
+! 01/25/19 07:34:36! What Beats What Again folds
+! 01/25/19 07:34:36! rAmAk folds
+! 01/25/19 08:03:17! Chkchk raises $1800 to $3000 total 
+! 01/25/19 08:06:16! Ryan Thomas calls 
+! 01/25/19 08:06:16! eliuk35 folds
+! 01/25/19 08:19:45! Russ Bryan calls 
+
+! 01/25/19 08:19:45! Pot right ($11400), flopping/dealing/drawing cards
+! 01/25/19 08:19:45! 3 players
+! 01/25/19 08:19:45! Flopped cards: 10d 5s 8d
+! 01/25/19 08:24:00! Russ Bryan checks
+! 01/25/19 08:32:25! Chkchk checks
+! 01/25/19 08:33:33! Ryan Thomas bets $5000 
+! 01/25/19 08:44:25! Russ Bryan folds
+! 01/25/19 08:44:25! Chkchk raises $26250 to $31250 total and is all in
+! 01/25/19 08:45:52! Ryan Thomas calls 
+
+! 01/25/19 08:45:52! Pot right ($73900), flopping/dealing/drawing cards
+! 01/25/19 08:45:52! 2 players, 1 all in
+! 01/25/19 08:45:52! Flopped card: Kh
+! 01/25/19 08:45:52! Flopped card: 4c
+! Hand over, current board is:  10d 5s 8d Kh 4c
+! Chkchk                   has: Qc 8c
+! Ryan Thomas              has: 10s Ad
+! Ryan Thomas wins $73900 (net $39450) with One Pair (10 10 A K 8)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Russ Bryan               |   68075 |         |      |    |         |
+ 2|   DotMatrix                |   39500 |         |      |    |         |
+ 3|   Jeff Palmucci            |   69325 |         |      |    |         |
+ 4|   Chippy McChiperson       |   76550 |         |      |    |         |
+ 5|   What Beats What Again    |   74450 |         |      |    |         |
+ 6|   rAmAk                    |   79650 |         |      |    |         |
+ 8|>  Ryan Thomas              |  156050 |         |      |    |         |
+ 9|D  eliuk35                  |  120125 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Chkchk is eliminated!
+! 322 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c4.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 13
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

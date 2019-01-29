@@ -20,6 +20,8 @@ class HandModel
 
     public $player;
 
+    public $handBeganDate;
+
     public $latestRound;
 
     public $position;
@@ -38,13 +40,14 @@ class HandModel
 
     public $chips;
 
-    public function __construct($player, $tournamentNum, $tableName, $handNum, $position)
+    public function __construct($player, $timeStamp, $tournamentNum, $tableName, $handNum, $position)
     {
         $this->tournamentNum = $tournamentNum;
         $this->player = $player;
         $this->tableName = $tableName;
         $this->handNum = $handNum;
         $this->position = $position;
+        $this->handBeganDate = date('Y-m-d', strtotime($timeStamp));
     }
 
     public function save()
@@ -53,9 +56,10 @@ class HandModel
 
         $insertSql =<<<SQL
          INSERT INTO hand_by_hand
-          (tournament_id, table_name, hand_num, player, position, latest_round, cards, put_money_preflop, raised_preflop, is_all_in, was_in_showdown, is_winner, chips) 
-            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+          (tournament_id, table_name, hand_num, player, hand_began, position, latest_round, cards, put_money_preflop, raised_preflop, is_all_in, was_in_showdown, is_winner, chips) 
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
             ON DUPLICATE KEY UPDATE player = ?,
+                                    hand_began = ?,
                                     position = ?, 
                                     latest_round = ?, 
                                     cards = ?, 
@@ -73,6 +77,7 @@ SQL;
                 $this->tableName,
                 $this->handNum,
                 $this->player,
+                $this->handBeganDate,
                 $this->position,
                 $this->latestRound,
                 $this->cards,
@@ -84,6 +89,7 @@ SQL;
                 $this->chips,
                 // update
                 $this->player,
+                $this->handBeganDate,
                 $this->position,
                 $this->latestRound,
                 $this->cards,

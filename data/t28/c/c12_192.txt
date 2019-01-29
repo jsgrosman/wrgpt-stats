@@ -1,0 +1,108 @@
+Subject: [c12.10478] Holdem Game Broadcast Message(*)
+
+! Table c12, Hand 192, Day 74
+
+! Kyle Stein checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|   Don Overton              |  169050 |     200 |folded|    |         |
+ 3|D  Kyle Stein               |   23000 |    3000 |      |    |         |
+ 4|   Deryl Garland            |  129300 |     800 |folded|    |         |
+ 5|   JPP                      |  120325 |    1400 |folded|    |         |
+ 6|   Statistical Tie          |  103725 |     200 |folded|    |         |
+ 7|   Mybanjo                  |   36950 |       0 |New   |    |         |
+ 8|>  Chevy                    |  139825 |    3000 |      |    |         |
+ 9|   DaveKal                  |   73950 |     200 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/23/19 15:34:35! Dealing a new hand
+! 01/23/19 15:34:35! Everyone antes $200
+! 01/23/19 15:34:35! Deryl Garland blinds $600
+! 01/23/19 15:34:35! JPP blinds $1200
+! 01/23/19 17:19:14! Statistical Tie folds
+! 01/23/19 17:32:45! Chevy calls 
+! 01/23/19 17:32:45! DaveKal folds
+! 01/23/19 17:36:24! Don Overton folds
+! 01/23/19 17:37:50! Kyle Stein calls 
+! 01/23/19 17:39:44! Deryl Garland folds
+! 01/23/19 18:35:30! JPP checks
+
+! 01/23/19 18:35:30! Pot right ($5600), flopping/dealing/drawing cards
+! 01/23/19 18:35:30! 3 players
+! 01/23/19 18:35:30! Flopped cards: 6c 4d 10d
+! 01/23/19 18:35:45! JPP checks
+! 01/23/19 18:47:42! Chevy checks
+! 01/23/19 18:50:04! Kyle Stein checks
+
+! 01/23/19 18:50:04! Pot right ($5600), flopping/dealing/drawing cards
+! 01/23/19 18:50:04! 3 players
+! 01/23/19 18:50:04! Flopped card: 7s
+! 01/24/19 05:03:20! JPP checks
+! 01/24/19 05:55:03! New player added to the table: Mybanjo
+! 01/24/19 06:31:44! Chevy bets $1600 
+! 01/24/19 06:32:41! Kyle Stein calls 
+! 01/24/19 07:03:33! JPP folds
+
+! 01/24/19 07:03:33! Pot right ($8800), flopping/dealing/drawing cards
+! 01/24/19 07:03:33! 2 players
+! 01/24/19 07:03:33! Flopped card: Kh
+! 01/24/19 07:05:35! Chevy checks
+! 01/24/19 07:06:31! Kyle Stein checks
+! Hand over, current board is:  6c 4d 10d 7s Kh
+! Kyle Stein               has: 5d 4c
+! Chevy                    has: 2s Kc
+! Chevy wins $8800 (net $5800) with One Pair (K K 10 7 6)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|   Don Overton              |  169050 |         |      |    |         |
+ 3|   Kyle Stein               |   23000 |         |      |    |         |
+ 4|D  Deryl Garland            |  129300 |         |      |    |         |
+ 5|   JPP                      |  120325 |         |      |    |         |
+ 6|   Statistical Tie          |  103725 |         |      |    |         |
+ 7|   Mybanjo                  |   36950 |         |      |    |         |
+ 8|>  Chevy                    |  148625 |         |      |    |         |
+ 9|   DaveKal                  |   73950 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 334 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c12.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 10
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

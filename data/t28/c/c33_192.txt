@@ -1,0 +1,127 @@
+Subject: [c33.10631] Holdem Game Broadcast Message(*)
+
+% Big blind special kinda board.
+! -- Poker Coach --
+_____________________________________________________________________________
+
+! Table c33, Hand 192, Day 78
+
+! Poker Coach calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  BigBlind                 |   61450 |   37400 |      |    |         |
+ 2|D  Scot Wolfington          |   44850 |    1400 |folded|    |         |
+ 3|   Walter Hunt              |   38300 |    1400 |folded|    |         |
+ 4|   Poker Coach              |  131775 |   37400 |      |    |         |
+ 5|   John Senger              |  117725 |     200 |folded|    |         |
+ 6|   Bryan Juliano            |   34600 |     200 |folded|    |         |
+ 7|   SteedCarson              |  301100 |     200 |folded|    |         |
+ 8|   Michael                  |   53650 |     200 |folded|    |         |
+ 9|   Big Stack Bryan          |   66825 |    1400 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/27/19 10:28:59! Dealing a new hand
+! 01/27/19 10:28:59! Everyone antes $200
+! 01/27/19 10:28:59! Walter Hunt blinds $600
+! 01/27/19 10:28:59! Poker Coach blinds $1200
+! 01/27/19 11:35:50! John Senger folds
+! 01/27/19 15:38:39! Bryan Juliano folds
+! 01/27/19 15:38:39! SteedCarson folds
+! 01/27/19 15:38:39! Michael folds
+! 01/27/19 15:40:40! Big Stack Bryan calls 
+! 01/27/19 16:26:37! BigBlind calls 
+! 01/27/19 16:32:02! Scot Wolfington calls 
+! 01/27/19 16:32:02! Walter Hunt calls 
+! 01/27/19 16:32:02! Poker Coach checks
+
+! 01/27/19 16:32:02! Pot right ($7800), flopping/dealing/drawing cards
+! 01/27/19 16:32:02! 5 players
+! 01/27/19 16:32:02! Flopped cards: 3s 4d 5s
+! 01/27/19 16:40:42! Walter Hunt checks
+! 01/27/19 16:42:00! Poker Coach checks
+! 01/27/19 17:14:03! Big Stack Bryan checks
+! 01/27/19 17:23:29! BigBlind checks
+! 01/27/19 17:34:27! Scot Wolfington checks
+
+! 01/27/19 17:34:27! Pot right ($7800), flopping/dealing/drawing cards
+! 01/27/19 17:34:27! 5 players
+! 01/27/19 17:34:27! Flopped card: 3h
+! 01/27/19 17:40:43! Walter Hunt checks
+! 01/27/19 18:10:52! Poker Coach bets $4000 
+! 01/27/19 18:20:28! Big Stack Bryan folds
+! 01/27/19 18:37:15! BigBlind calls 
+! 01/27/19 20:02:50! Scot Wolfington folds
+! 01/27/19 21:54:06! Walter Hunt folds
+
+! 01/27/19 21:54:06! Pot right ($15800), flopping/dealing/drawing cards
+! 01/27/19 21:54:06! 2 players
+! 01/27/19 21:54:06! Flopped card: 2h
+! 01/28/19 04:01:39! Poker Coach bets $7400 
+! 01/28/19 05:26:25! BigBlind raises $24600 to $32000 total 
+_____________________________________________________________________________
+
+! Big blind special kinda board.
+! -- Poker Coach --
+_____________________________________________________________________________
+
+! 01/28/19 05:30:49! Poker Coach calls 
+! Hand over, current board is:  3s 4d 5s 3h 2h
+! BigBlind                 has: 6h Qc
+! Poker Coach              has: Kc 6c
+! BigBlind wins $39900 (net $2500) with Straight (6 5 4 3 2)
+! Poker Coach wins $39900 (net $2500) with Straight (6 5 4 3 2)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  BigBlind                 |  101350 |         |      |    |         |
+ 2|   Scot Wolfington          |   44850 |         |      |    |         |
+ 3|D  Walter Hunt              |   38300 |         |      |    |         |
+ 4|   Poker Coach              |  171675 |         |      |    |         |
+ 5|   John Senger              |  117725 |         |      |    |         |
+ 6|   Bryan Juliano            |   34600 |         |      |    |         |
+ 7|   SteedCarson              |  301100 |         |      |    |         |
+ 8|   Michael                  |   53650 |         |      |    |         |
+ 9|   Big Stack Bryan          |   66825 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 305 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c33.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 11
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

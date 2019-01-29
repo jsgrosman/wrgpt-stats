@@ -1,0 +1,111 @@
+Subject: [c1.10315] Holdem Game Broadcast Message(*)
+
+! Table c1, Hand 175, Day 73
+
+! db222 checks
+! Bob R checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  Barton                   |  145200 |     200 |folded|    |         |
+ 2|>  db222                    |   74250 |    7600 |      |    |         |
+ 3|   Mother Speaks            |   60900 |    1400 |folded|    |         |
+ 4|   siona                    |   40525 |     200 |folded|    |         |
+ 5|   SJL                      |   43275 |     200 |folded|    |         |
+ 6|   the cake is a pie        |  159475 |     200 |folded|    |         |
+ 7|   Bob R                    |   75825 |    7600 |      |    |         |
+ 8|   The Rabid Moose          |  106725 |    2600 |folded|    |         |
+ 9|   shinsook                 |  402775 |     200 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/22/19 05:29:47! Dealing a new hand
+! 01/22/19 05:29:47! Everyone antes $200
+! 01/22/19 05:29:47! db222 blinds $600
+! 01/22/19 05:29:47! Mother Speaks blinds $1200
+! 01/22/19 08:32:03! siona folds
+! 01/22/19 08:32:03! SJL folds
+! 01/22/19 08:32:03! the cake is a pie folds
+! 01/22/19 10:50:17! Bob R raises $1200 to $2400 total 
+! 01/22/19 10:52:17! The Rabid Moose calls 
+! 01/22/19 12:56:49! shinsook folds
+! 01/22/19 21:02:46! Barton folds
+! 01/23/19 04:27:43! db222 calls 
+! 01/23/19 04:27:43! Mother Speaks folds
+
+! 01/23/19 04:27:43! Pot right ($10200), flopping/dealing/drawing cards
+! 01/23/19 04:27:43! 3 players
+! 01/23/19 04:27:43! Flopped cards: 2d Kh 4s
+! 01/23/19 04:28:23! db222 checks
+! 01/23/19 08:26:17! Bob R bets $5000 
+! 01/23/19 08:31:49! The Rabid Moose folds
+! 01/23/19 09:09:08! db222 calls 
+
+! 01/23/19 09:09:08! Pot right ($20200), flopping/dealing/drawing cards
+! 01/23/19 09:09:08! 2 players
+! 01/23/19 09:09:08! Flopped card: 2c
+! 01/23/19 09:11:13! db222 checks
+! 01/23/19 09:30:44! Bob R checks
+
+! 01/23/19 09:30:44! Pot right ($20200), flopping/dealing/drawing cards
+! 01/23/19 09:30:44! 2 players
+! 01/23/19 09:30:44! Flopped card: 7s
+! 01/23/19 10:04:20! db222 checks
+! 01/23/19 10:04:20! Bob R checks
+! Hand over, current board is:  2d Kh 4s 2c 7s
+! db222                    has: 5h 5d
+! Bob R                    has: 10d 10c
+! Bob R wins $20200 (net $12600) with Two Pair (10 10 2 2 K)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Barton                   |  145200 |         |      |    |         |
+ 2|D> db222                    |   74250 |         |      |    |         |
+ 3|   Mother Speaks            |   60900 |         |      |    |         |
+ 4|   siona                    |   40525 |         |      |    |         |
+ 5|   SJL                      |   43275 |         |      |    |         |
+ 6|   the cake is a pie        |  159475 |         |      |    |         |
+ 7|   Bob R                    |   96025 |         |      |    |         |
+ 8|   The Rabid Moose          |  106725 |         |      |    |         |
+ 9|   shinsook                 |  402775 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 334 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c1.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 7
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

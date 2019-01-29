@@ -108,7 +108,7 @@ class Parser
                 }
                 else
                 {
-                    $handModel = new HandModel($turn->player, $turn->tournamentNum, $turn->tableName, $turn->handNum, $position++);
+                    $handModel = new HandModel($turn->player, $turn->timeStamp, $turn->tournamentNum, $turn->tableName, $turn->handNum, $position++);
                     $handModels[$turn->player] = $handModel;
                 }
 

@@ -1,0 +1,107 @@
+Subject: [c2.10256] Holdem Game Broadcast Message(*)
+
+! Table c2, Hand 171, Day 76
+
+! Hossein checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Hossein                  |   77425 |   29600 |      |    |         |
+ 2|   BillDaBear               |   46000 |     200 |folded|    |         |
+ 3|V  j831                     |   36550 |     200 |<AWOL>|    |         |
+ 4|   kettledrum               |   58500 |     200 |folded|    |         |
+ 5|D  Bugsy                    |   86925 |     200 |folded|    |         |
+ 7|>  Tom Bayz                 |  122725 |   29600 |      |    |         |
+ 8|   put_it_good              |  100725 |    1400 |folded|    |         |
+ 9|   Billco                   |  146950 |     200 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/26/19 05:20:58! Dealing a new hand
+! 01/26/19 05:20:58! Everyone antes $200
+! 01/26/19 05:20:58! Tom Bayz blinds $600
+! 01/26/19 05:20:58! put_it_good blinds $1200
+! 01/26/19 05:38:19! Billco folds
+! 01/26/19 12:31:34! Hossein calls 
+! 01/26/19 12:31:34! BillDaBear folds
+! 01/26/19 12:31:34! j831 is on vacation and folds
+! 01/26/19 12:31:34! kettledrum folds
+! 01/26/19 12:31:34! Bugsy folds
+! 01/26/19 12:36:11! Tom Bayz raises $3800 to $5000 total 
+! 01/26/19 13:27:17! put_it_good folds
+! 01/26/19 13:57:38! Hossein calls 
+
+! 01/26/19 13:57:38! Pot right ($12800), flopping/dealing/drawing cards
+! 01/26/19 13:57:38! 2 players
+! 01/26/19 13:57:38! Flopped cards: 2s Jd 2c
+! 01/26/19 14:08:04! Tom Bayz bets $7300 
+! 01/26/19 14:15:57! Hossein calls 
+
+! 01/26/19 14:15:57! Pot right ($27400), flopping/dealing/drawing cards
+! 01/26/19 14:15:57! 2 players
+! 01/26/19 14:15:57! Flopped card: 3c
+! 01/26/19 14:18:13! Tom Bayz checks
+! 01/26/19 14:19:41! Hossein bets $17100 
+! 01/26/19 14:25:33! Tom Bayz calls 
+
+! 01/26/19 14:25:33! Pot right ($61600), flopping/dealing/drawing cards
+! 01/26/19 14:25:33! 2 players
+! 01/26/19 14:25:33! Flopped card: 6d
+! 01/26/19 14:26:25! Tom Bayz checks
+! 01/26/19 20:28:41! Hossein checks
+! Hand over, current board is:  2s Jd 2c 3c 6d
+! Hossein                  has: Js 9s
+! Tom Bayz                 has: 3h Ac
+! Hossein wins $61600 (net $32000) with Two Pair (J J 2 2 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Hossein                  |  139025 |         |      |    |         |
+ 2|   BillDaBear               |   46000 |         |      |    |         |
+ 3|V  j831                     |   36550 |         |<AWOL>|    |         |
+ 4|   kettledrum               |   58500 |         |      |    |         |
+ 5|   Bugsy                    |   86925 |         |      |    |         |
+ 7|D> Tom Bayz                 |  122725 |         |      |    |         |
+ 8|   put_it_good              |  100725 |         |      |    |         |
+ 9|   Billco                   |  146950 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 311 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c2.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 4
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

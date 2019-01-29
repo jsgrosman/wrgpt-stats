@@ -1,0 +1,107 @@
+Subject: [c7.10311] Holdem Game Broadcast Message(*)
+
+! Table c7, Hand 171, Day 77
+
+! GunsNRoses calls 
+! Pot right ($211650), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 8s
+! Flopped card: 7d
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   JohnnyMac                |  159825 |     200 |folded|    |         |
+ 2|   Johnny Ice               |   71575 |     200 |folded|    |         |
+ 3|   Endrju                   |  113400 |     200 |folded|    |         |
+ 4|   Ninetensuited            |   26150 |     200 |folded|    |         |
+ 5|   Daniel Levine            |   41025 |     200 |folded|    |         |
+ 6|D  Joe Nadeau               |       0 |  104525 |all-in|    |         |
+ 7|>  GunsNRoses               |   32850 |  104525 |      |    |         |
+ 8|   Moccasin Johnny Return   |  120500 |    1400 |folded|    |         |
+ 9|   Mejjad                   |   64775 |     200 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/25/19 15:08:46! Dealing a new hand
+! 01/25/19 15:08:46! Everyone antes $200
+! 01/25/19 15:08:46! GunsNRoses blinds $600
+! 01/25/19 15:08:46! Moccasin Johnny Return blinds $1200
+! 01/26/19 15:09:02! Mejjad folds
+! 01/26/19 15:09:02! JohnnyMac folds
+! 01/26/19 15:31:11! Johnny Ice folds
+! 01/26/19 15:31:11! Endrju folds
+! 01/26/19 15:31:11! Ninetensuited folds
+! 01/26/19 15:31:11! Daniel Levine folds
+! 01/26/19 16:29:16! Joe Nadeau raises $2200 to $3400 total 
+! 01/26/19 16:54:04! GunsNRoses raises $2775 to $6175 total 
+! 01/26/19 16:54:04! Moccasin Johnny Return folds
+! 01/26/19 17:40:49! Joe Nadeau calls 
+
+! 01/26/19 17:40:49! Pot right ($15350), flopping/dealing/drawing cards
+! 01/26/19 17:40:49! 2 players
+! 01/26/19 17:40:49! Flopped cards: Ac 8d 6h
+! 01/26/19 17:57:45! GunsNRoses bets $50000 
+! 01/26/19 21:58:12! Joe Nadeau raises $48150 to $98150 total and is all in
+! 01/27/19 05:33:49! GunsNRoses calls 
+
+! 01/27/19 05:33:49! Pot right ($211650), flopping/dealing/drawing cards
+! 01/27/19 05:33:49! 2 players, 1 all in
+! 01/27/19 05:33:49! Flopped card: 8s
+! 01/27/19 05:33:49! Flopped card: 7d
+! Hand over, current board is:  Ac 8d 6h 8s 7d
+! Joe Nadeau               has: Ad Qd
+! GunsNRoses               has: Ks Kc
+! Joe Nadeau wins $211650 (net $107125) with Two Pair (A A 8 8 Q)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   JohnnyMac                |  159825 |         |      |    |         |
+ 2|   Johnny Ice               |   71575 |         |      |    |         |
+ 3|   Endrju                   |  113400 |         |      |    |         |
+ 4|   Ninetensuited            |   26150 |         |      |    |         |
+ 5|   Daniel Levine            |   41025 |         |      |    |         |
+ 6|   Joe Nadeau               |  211650 |         |      |    |         |
+ 7|D> GunsNRoses               |   32850 |         |      |    |         |
+ 8|   Moccasin Johnny Return   |  120500 |         |      |    |         |
+ 9|   Mejjad                   |   64775 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 310 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c7.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 5
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

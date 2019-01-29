@@ -1,0 +1,112 @@
+Subject: [c4.10456] Holdem Game Broadcast Message(*)
+
+! Table c4, Hand 184, Day 77
+
+! Ryan Thomas checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  Russ Bryan               |   67075 |     200 |folded|    |         |
+ 2|>  DotMatrix                |   29400 |    1400 |      |    |         |
+ 3|   Jeff Palmucci            |   67725 |    1400 |      |    |         |
+ 4|   Chippy McChiperson       |   76150 |     200 |folded|    |         |
+ 5|   What Beats What Again    |   74050 |     200 |folded|    |         |
+ 6|   rAmAk                    |   79250 |     200 |folded|    |         |
+ 7|   MShulman                 |   95300 |     200 |folded|    |         |
+ 8|   Ryan Thomas              |  154450 |    1400 |      |    |         |
+ 9|   eliuk35                  |  130425 |     200 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/26/19 10:45:17! Dealing a new hand
+! 01/26/19 10:45:17! Everyone antes $200
+! 01/26/19 10:45:17! DotMatrix blinds $600
+! 01/26/19 10:45:17! Jeff Palmucci blinds $1200
+! 01/26/19 11:08:26! Chippy McChiperson folds
+! 01/26/19 13:49:25! What Beats What Again folds
+! 01/26/19 13:49:25! rAmAk folds
+! 01/27/19 05:32:42! MShulman folds
+! 01/27/19 07:09:44! Ryan Thomas calls 
+! 01/27/19 08:22:54! eliuk35 folds
+! 01/27/19 08:22:54! Russ Bryan folds
+! 01/27/19 09:14:45! DotMatrix calls 
+! 01/27/19 09:14:45! Jeff Palmucci checks
+
+! 01/27/19 09:14:45! Pot right ($5400), flopping/dealing/drawing cards
+! 01/27/19 09:14:45! 3 players
+! 01/27/19 09:14:45! Flopped cards: Ks Js As
+! 01/27/19 09:48:21! DotMatrix checks
+! 01/27/19 09:48:21! Jeff Palmucci checks
+! 01/27/19 10:24:19! Ryan Thomas checks
+
+! 01/27/19 10:24:19! Pot right ($5400), flopping/dealing/drawing cards
+! 01/27/19 10:24:19! 3 players
+! 01/27/19 10:24:19! Flopped card: 5d
+! 01/27/19 10:26:09! DotMatrix checks
+! 01/27/19 10:26:09! Jeff Palmucci checks
+! 01/27/19 11:27:41! Ryan Thomas checks
+
+! 01/27/19 11:27:41! Pot right ($5400), flopping/dealing/drawing cards
+! 01/27/19 11:27:41! 3 players
+! 01/27/19 11:27:41! Flopped card: 8h
+! 01/27/19 11:39:12! DotMatrix checks
+! 01/27/19 11:39:12! Jeff Palmucci checks
+! 01/27/19 12:53:14! Ryan Thomas checks
+! Hand over, current board is:  Ks Js As 5d 8h
+! DotMatrix                has: 8d 3c
+! Jeff Palmucci            has: 7d 5c
+! Ryan Thomas              has: 6s 6d
+! DotMatrix wins $5400 (net $4000) with One Pair (8 8 A K J)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Russ Bryan               |   67075 |         |      |    |         |
+ 2|D> DotMatrix                |   34800 |         |      |    |         |
+ 3|   Jeff Palmucci            |   67725 |         |      |    |         |
+ 4|   Chippy McChiperson       |   76150 |         |      |    |         |
+ 5|   What Beats What Again    |   74050 |         |      |    |         |
+ 6|   rAmAk                    |   79250 |         |      |    |         |
+ 7|   MShulman                 |   95300 |         |      |    |         |
+ 8|   Ryan Thomas              |  154450 |         |      |    |         |
+ 9|   eliuk35                  |  130425 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 310 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c4.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 5
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

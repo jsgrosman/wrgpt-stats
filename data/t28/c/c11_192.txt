@@ -1,0 +1,108 @@
+Subject: [c11.10432] Holdem Game Broadcast Message(*)
+
+! Table c11, Hand 192, Day 78
+
+! Ben Irving calls 
+! Pot right ($56450), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 7s
+! Flopped card: 6h
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Keith Troell             |  128375 |    2600 |folded|    |         |
+ 2|   lektoraj                 |  132300 |     200 |folded|    |         |
+ 3|   UConn2004                |  319475 |     200 |folded|    |         |
+ 4|D  Julie Greenberg          |  134475 |     200 |folded|    |         |
+ 5|   Ira Agins                |       0 |   26325 |all-in|    |         |
+ 6|>  Ben Irving               |   14200 |   26325 |      |    |         |
+ 7|   Mike Sager               |  104550 |     200 |folded|    |         |
+ 8|   Mrstcao                  |  223225 |     200 |folded|    |         |
+ 9|   GKinz54                  |  119775 |     200 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/27/19 10:17:25! Dealing a new hand
+! 01/27/19 10:17:25! Everyone antes $200
+! 01/27/19 10:17:25! Ira Agins blinds $600
+! 01/27/19 10:17:25! Ben Irving blinds $1200
+! 01/27/19 10:47:22! Mike Sager folds
+! 01/27/19 11:44:34! Mrstcao folds
+! 01/27/19 11:45:57! GKinz54 folds
+! 01/27/19 13:04:12! Keith Troell raises $1200 to $2400 total 
+! 01/27/19 13:04:12! lektoraj folds
+! 01/27/19 16:10:53! UConn2004 folds
+! 01/27/19 16:10:53! Julie Greenberg folds
+! 01/27/19 16:12:02! Ira Agins calls 
+! 01/27/19 16:34:04! Ben Irving calls 
+
+! 01/27/19 16:34:04! Pot right ($9000), flopping/dealing/drawing cards
+! 01/27/19 16:34:04! 3 players
+! 01/27/19 16:34:04! Flopped cards: 5h Jc 7h
+! 01/27/19 17:49:01! Ira Agins checks
+! 01/27/19 18:42:40! Ben Irving bets $12000 
+! 01/27/19 18:44:28! Keith Troell folds
+! 01/27/19 21:59:53! Ira Agins raises $11725 to $23725 total and is all in
+! 01/28/19 03:38:40! Ben Irving calls 
+
+! 01/28/19 03:38:40! Pot right ($56450), flopping/dealing/drawing cards
+! 01/28/19 03:38:40! 2 players, 1 all in
+! 01/28/19 03:38:40! Flopped card: 7s
+! 01/28/19 03:38:40! Flopped card: 6h
+! Hand over, current board is:  5h Jc 7h 7s 6h
+! Ira Agins                has: Qs Qd
+! Ben Irving               has: Jh 4c
+! Ira Agins wins $56450 (net $30125) with Two Pair (Q Q 7 7 J)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Keith Troell             |  128375 |         |      |    |         |
+ 2|   lektoraj                 |  132300 |         |      |    |         |
+ 3|   UConn2004                |  319475 |         |      |    |         |
+ 4|   Julie Greenberg          |  134475 |         |      |    |         |
+ 5|D  Ira Agins                |   56450 |         |      |    |         |
+ 6|>  Ben Irving               |   14200 |         |      |    |         |
+ 7|   Mike Sager               |  104550 |         |      |    |         |
+ 8|   Mrstcao                  |  223225 |         |      |    |         |
+ 9|   GKinz54                  |  119775 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 305 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c11.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 11
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

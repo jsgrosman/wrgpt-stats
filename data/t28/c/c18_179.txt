@@ -1,0 +1,116 @@
+Subject: [c18.10344] Holdem Game Broadcast Message(*)
+
+! Table c18, Hand 179, Day 75
+
+! Romeo Alexander calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Poker Dog                |  251050 |    1400 |folded|    |         |
+ 2|V  Saurav Chakraborty       |   62450 |     200 |<Gone>|    |         |
+ 3|>  Feedtheherd              |   15650 |   11400 |      |    |         |
+ 4|   Ken Kubey                |   65375 |     200 |folded|    |         |
+ 5|   Rick Brown               |   86100 |     200 |folded|    |         |
+ 6|D  Tom Abraham              |  203250 |     200 |folded|    |         |
+ 7|   Piojos                   |  289700 |    1400 |folded|    |         |
+ 8|   Romeo Alexander          |   60775 |   11400 |      |    |         |
+ 9|   rtroll                   |  116975 |     200 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/25/19 11:51:33! Dealing a new hand
+! 01/25/19 11:51:33! Everyone antes $200
+! 01/25/19 11:51:33! Piojos blinds $600
+! 01/25/19 11:51:33! Romeo Alexander blinds $1200
+! 01/25/19 12:28:48! rtroll folds
+! 01/25/19 12:57:23! Poker Dog calls 
+! 01/25/19 12:57:23! Saurav Chakraborty is on vacation and folds
+! 01/25/19 12:59:09! Feedtheherd calls 
+! 01/25/19 12:59:09! Ken Kubey folds
+! 01/25/19 12:59:09! Rick Brown folds
+! 01/25/19 12:59:09! Tom Abraham folds
+! 01/25/19 13:10:59! Piojos calls 
+! 01/25/19 13:38:03! Romeo Alexander checks
+
+! 01/25/19 13:38:03! Pot right ($6600), flopping/dealing/drawing cards
+! 01/25/19 13:38:03! 4 players
+! 01/25/19 13:38:03! Flopped cards: 2h Qc Ad
+! 01/25/19 13:51:33! Piojos checks
+! 01/25/19 13:54:34! Romeo Alexander checks
+! 01/25/19 14:03:26! Poker Dog checks
+! 01/25/19 14:21:48! Feedtheherd checks
+
+! 01/25/19 14:21:48! Pot right ($6600), flopping/dealing/drawing cards
+! 01/25/19 14:21:48! 4 players
+! 01/25/19 14:21:48! Flopped card: Qh
+! 01/25/19 14:38:12! Piojos checks
+! 01/25/19 14:38:12! Romeo Alexander checks
+! 01/25/19 14:42:47! Poker Dog checks
+! 01/25/19 15:17:28! Feedtheherd bets $2500 
+! 01/25/19 15:25:07! Piojos folds
+! 01/25/19 15:41:18! Romeo Alexander calls 
+! 01/25/19 15:55:50! Poker Dog folds
+
+! 01/25/19 15:55:50! Pot right ($11600), flopping/dealing/drawing cards
+! 01/25/19 15:55:50! 2 players
+! 01/25/19 15:55:50! Flopped card: 4s
+! 01/25/19 16:02:12! Romeo Alexander checks
+! 01/25/19 16:25:00! Feedtheherd bets $7500 
+! 01/25/19 16:33:57! Romeo Alexander calls 
+! Hand over, current board is:  2h Qc Ad Qh 4s
+! Feedtheherd              has: 10c 9c
+! Romeo Alexander          has: 5s 4h
+! Romeo Alexander wins $26600 (net $15200) with Two Pair (Q Q 4 4 A)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Poker Dog                |  251050 |         |      |    |         |
+ 2|V  Saurav Chakraborty       |   62450 |         |<Gone>|    |         |
+ 3|>  Feedtheherd              |   15650 |         |      |    |         |
+ 4|   Ken Kubey                |   65375 |         |      |    |         |
+ 5|   Rick Brown               |   86100 |         |      |    |         |
+ 6|   Tom Abraham              |  203250 |         |      |    |         |
+ 7|D  Piojos                   |  289700 |         |      |    |         |
+ 8|   Romeo Alexander          |   87375 |         |      |    |         |
+ 9|   rtroll                   |  116975 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 316 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c18.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

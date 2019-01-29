@@ -1,0 +1,97 @@
+Subject: [c1.10351] Holdem Game Broadcast Message(*)
+
+! Table c1, Hand 178, Day 74
+
+! db222 folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Barton                   |  144600 |     200 |folded|    |         |
+ 2|   db222                    |   72450 |    1400 |folded|    |         |
+ 3|   Mother Speaks            |   59700 |     200 |folded|    |         |
+ 4|D  siona                    |   38125 |     200 |folded|    |         |
+ 5|   SJL                      |   39075 |     800 |folded|    |         |
+ 6|>  the cake is a pie        |  150575 |    6400 |      |    |         |
+ 7|   Bob R                    |   95425 |     200 |folded|    |         |
+ 8|   The Rabid Moose          |  116025 |    1400 |folded|    |         |
+ 9|   shinsook                 |  402175 |     200 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/24/19 08:10:08! Dealing a new hand
+! 01/24/19 08:10:08! Everyone antes $200
+! 01/24/19 08:10:08! SJL blinds $600
+! 01/24/19 08:10:08! the cake is a pie blinds $1200
+! 01/24/19 10:23:55! Bob R folds
+! 01/24/19 10:32:34! The Rabid Moose calls 
+! 01/24/19 11:00:15! shinsook folds
+! 01/24/19 11:49:16! Barton folds
+! 01/24/19 12:05:05! db222 calls 
+! 01/24/19 12:05:05! Mother Speaks folds
+! 01/24/19 16:07:02! siona folds
+! 01/24/19 16:07:02! SJL folds
+! 01/24/19 16:09:00! the cake is a pie checks
+
+! 01/24/19 16:09:00! Pot right ($6000), flopping/dealing/drawing cards
+! 01/24/19 16:09:00! 3 players
+! 01/24/19 16:09:00! Flopped cards: 10d Kc Jc
+! 01/24/19 16:09:43! the cake is a pie bets $5000 
+! 01/24/19 16:31:33! The Rabid Moose folds
+! 01/24/19 17:17:05! db222 folds
+! Hand over, no showdown
+! Current board is:  10d Kc Jc ? ?
+! the cake is a pie wins $11000 (net $4600)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Barton                   |  144600 |         |      |    |         |
+ 2|   db222                    |   72450 |         |      |    |         |
+ 3|   Mother Speaks            |   59700 |         |      |    |         |
+ 4|   siona                    |   38125 |         |      |    |         |
+ 5|D  SJL                      |   39075 |         |      |    |         |
+ 6|>  the cake is a pie        |  161575 |         |      |    |         |
+ 7|   Bob R                    |   95425 |         |      |    |         |
+ 8|   The Rabid Moose          |  116025 |         |      |    |         |
+ 9|   shinsook                 |  402175 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! siona timed out during this hand
+! 326 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c1.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 7
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

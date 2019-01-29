@@ -1,0 +1,115 @@
+Subject: [c19.10292] Holdem Game Broadcast Message(*)
+
+! Table c19, Hand 173, Day 75
+
+! Fred Garvin calls 
+! Pot right ($171475), flopping/dealing/drawing cards
+! 3 players, 2 all in
+! Flopped card: Ks
+! Flopped card: 7d
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  Fred Garvin              |   38425 |   60000 |      |  2 |   33150 |
+ 2|   MTpotts                  |   29850 |    1400 |folded|    |         |
+ 3|   bluecandy                |   84525 |    3025 |folded|    |         |
+ 4|   The Llama                |   69375 |     200 |folded|    |         |
+ 5|   Kevin Mackey             |       0 |   60000 |all-in|  2 |   33150 |
+ 6|   dubldown                 |   70750 |     200 |folded|    |         |
+ 7|   Desmontes                |       0 |   43425 |all-in|  3 |  138325 |
+ 8|   BamaAlum97               |   84950 |     200 |folded|    |         |
+ 9|D  StingRay                 |   80225 |    3025 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/24/19 09:25:59! Dealing a new hand
+! 01/24/19 09:25:59! Everyone antes $200
+! 01/24/19 09:25:59! Fred Garvin blinds $600
+! 01/24/19 09:25:59! MTpotts blinds $1200
+! 01/24/19 10:18:30! bluecandy calls 
+! 01/24/19 11:34:12! The Llama folds
+! 01/24/19 11:42:23! Kevin Mackey raises $1625 to $2825 total 
+! 01/24/19 11:42:23! dubldown folds
+! 01/24/19 13:18:15! Desmontes calls 
+! 01/24/19 13:18:15! BamaAlum97 folds
+! 01/24/19 13:49:29! StingRay calls 
+! 01/24/19 13:50:43! Fred Garvin calls 
+! 01/24/19 13:50:43! MTpotts folds
+! 01/24/19 13:51:10! bluecandy calls 
+
+! 01/24/19 13:51:10! Pot right ($17125), flopping/dealing/drawing cards
+! 01/24/19 13:51:10! 5 players
+! 01/24/19 13:51:10! Flopped cards: 10s Qs 10h
+! 01/24/19 13:54:03! Fred Garvin checks
+! 01/24/19 13:55:25! bluecandy checks
+! 01/24/19 14:26:57! Kevin Mackey bets $12000 
+! 01/24/19 14:59:15! Desmontes raises $28400 to $40400 total and is all in
+! 01/24/19 15:19:49! StingRay folds
+! 01/25/19 03:45:43! Fred Garvin calls 
+! 01/25/19 03:45:43! bluecandy folds
+! 01/25/19 03:45:43! Kevin Mackey raises $16575 to $56975 total and is all in
+! 01/25/19 03:49:08! Fred Garvin calls 
+
+! 01/25/19 03:49:08! Pot right ($171475), flopping/dealing/drawing cards
+! 01/25/19 03:49:08! 3 players, 2 all in
+! 01/25/19 03:49:08! Flopped card: Ks
+! 01/25/19 03:49:08! Flopped card: 7d
+! Hand over, current board is:  10s Qs 10h Ks 7d
+! Fred Garvin              has: 9s 7s
+! Kevin Mackey             has: Qh Ad
+! Desmontes                has: 10d Kc
+! Pot 2: Fred Garvin wins $33150 with Spade Flush (K Q 10 9 7)
+! Pot 3: Desmontes wins $138325 with Full House (10 10 10 K K)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D> Fred Garvin              |   71575 |         |      |    |         |
+ 2|   MTpotts                  |   29850 |         |      |    |         |
+ 3|   bluecandy                |   84525 |         |      |    |         |
+ 4|   The Llama                |   69375 |         |      |    |         |
+ 6|   dubldown                 |   70750 |         |      |    |         |
+ 7|   Desmontes                |  138325 |         |      |    |         |
+ 8|   BamaAlum97               |   84950 |         |      |    |         |
+ 9|   StingRay                 |   80225 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Kevin Mackey is eliminated!
+! 323 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c19.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

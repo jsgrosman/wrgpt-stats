@@ -1,0 +1,105 @@
+Subject: [c1.10380] Holdem Game Broadcast Message(*)
+
+! Table c1, Hand 181, Day 76
+
+! shinsook calls 
+! Pot right ($147100), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 7h
+! Flopped card: 8d
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Barton                   |  142800 |    1400 |folded|    |         |
+ 2|   db222                    |       0 |   72050 |all-in|    |         |
+ 3|   Mother Speaks            |   59100 |     200 |folded|    |         |
+ 4|   siona                    |   37525 |     200 |folded|    |         |
+ 6|   the cake is a pie        |  216250 |     200 |folded|    |         |
+ 7|D  Bob R                    |   83025 |     200 |folded|    |         |
+ 8|   The Rabid Moose          |  113625 |     800 |folded|    |         |
+ 9|>  shinsook                 |  329725 |   72050 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/25/19 13:37:54! Dealing a new hand
+! 01/25/19 13:37:54! Everyone antes $200
+! 01/25/19 13:37:54! The Rabid Moose blinds $600
+! 01/25/19 13:37:54! shinsook blinds $1200
+! 01/25/19 14:33:50! Barton calls 
+! 01/25/19 16:09:40! db222 raises $2800 to $4000 total 
+! 01/25/19 16:09:40! Mother Speaks folds
+! 01/25/19 18:15:22! siona folds
+! 01/25/19 18:15:22! the cake is a pie folds
+! 01/25/19 18:15:22! Bob R folds
+! 01/25/19 18:15:22! The Rabid Moose folds
+! 01/25/19 19:12:15! shinsook raises $12200 to $16200 total 
+! 01/25/19 22:19:44! Barton folds
+! 01/26/19 04:01:20! db222 calls 
+
+! 01/26/19 04:01:20! Pot right ($35800), flopping/dealing/drawing cards
+! 01/26/19 04:01:20! 2 players
+! 01/26/19 04:01:20! Flopped cards: 7d 4d 9s
+! 01/26/19 07:03:17! shinsook bets $29000 
+! 01/26/19 07:14:20! db222 raises $26650 to $55650 total and is all in
+! 01/26/19 07:57:22! shinsook calls 
+
+! 01/26/19 07:57:22! Pot right ($147100), flopping/dealing/drawing cards
+! 01/26/19 07:57:22! 2 players, 1 all in
+! 01/26/19 07:57:22! Flopped card: 7h
+! 01/26/19 07:57:22! Flopped card: 8d
+! Hand over, current board is:  7d 4d 9s 7h 8d
+! db222                    has: 10h 10c
+! shinsook                 has: Qh Qc
+! shinsook wins $147100 (net $75050) with Two Pair (Q Q 7 7 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Barton                   |  142800 |         |      |    |         |
+ 3|   Mother Speaks            |   59100 |         |      |    |         |
+ 4|   siona                    |   37525 |         |      |    |         |
+ 6|   the cake is a pie        |  216250 |         |      |    |         |
+ 7|   Bob R                    |   83025 |         |      |    |         |
+ 8|D  The Rabid Moose          |  113625 |         |      |    |         |
+ 9|>  shinsook                 |  476825 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! db222 is eliminated!
+! 315 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c1.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 11
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

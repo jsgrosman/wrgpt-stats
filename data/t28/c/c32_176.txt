@@ -1,0 +1,108 @@
+Subject: [c32.10317] Holdem Game Broadcast Message(*)
+
+! Table c32, Hand 176, Day 75
+
+! DazedAndConfused checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Roger Strom              |   50275 |     200 |folded|    |         |
+ 2|D  bozo                     |   93100 |     200 |folded|    |         |
+ 3|   jasong                   |  138825 |     800 |folded|    |         |
+ 4|>  Mike B                   |   39125 |    4200 |      |    |         |
+ 5|   Swamper_Shirley          |   57725 |     200 |folded|    |         |
+ 6|   Ron Duursma              |   27475 |     200 |folded|    |         |
+ 7|   DazedAndConfused         |   91325 |    4200 |      |    |         |
+ 8|   Thomas Gabrysch          |   46850 |     200 |folded|    |         |
+ 9|   jpchiefs                 |   59350 |     200 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/24/19 09:45:29! Dealing a new hand
+! 01/24/19 09:45:29! Everyone antes $200
+! 01/24/19 09:45:29! jasong blinds $600
+! 01/24/19 09:45:29! Mike B blinds $1200
+! 01/24/19 09:49:55! Swamper_Shirley folds
+! 01/24/19 09:50:49! Ron Duursma folds
+! 01/24/19 09:51:56! DazedAndConfused calls 
+! 01/24/19 09:51:56! Thomas Gabrysch folds
+! 01/24/19 09:57:37! jpchiefs folds
+! 01/24/19 23:40:33! Roger Strom folds
+! 01/25/19 03:52:49! bozo folds
+! 01/25/19 03:52:49! jasong folds
+! 01/25/19 03:52:49! Mike B checks
+
+! 01/25/19 03:52:49! Pot right ($4800), flopping/dealing/drawing cards
+! 01/25/19 03:52:49! 2 players
+! 01/25/19 03:52:49! Flopped cards: 2s 4h 7h
+! 01/25/19 04:11:22! Mike B bets $1400 
+! 01/25/19 06:50:28! DazedAndConfused calls 
+
+! 01/25/19 06:50:28! Pot right ($7600), flopping/dealing/drawing cards
+! 01/25/19 06:50:28! 2 players
+! 01/25/19 06:50:28! Flopped card: 4s
+! 01/25/19 07:01:50! Mike B bets $1400 
+! 01/25/19 07:04:51! DazedAndConfused calls 
+
+! 01/25/19 07:04:51! Pot right ($10400), flopping/dealing/drawing cards
+! 01/25/19 07:04:51! 2 players
+! 01/25/19 07:04:51! Flopped card: 10h
+! 01/25/19 07:08:13! Mike B checks
+! 01/25/19 07:28:09! DazedAndConfused checks
+! Hand over, current board is:  2s 4h 7h 4s 10h
+! Mike B                   has: 7s 3c
+! DazedAndConfused         has: 10s 8s
+! DazedAndConfused wins $10400 (net $6200) with Two Pair (10 10 4 4 8)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Roger Strom              |   50275 |         |      |    |         |
+ 2|   bozo                     |   93100 |         |      |    |         |
+ 3|D  jasong                   |  138825 |         |      |    |         |
+ 4|>  Mike B                   |   39125 |         |      |    |         |
+ 5|   Swamper_Shirley          |   57725 |         |      |    |         |
+ 6|   Ron Duursma              |   27475 |         |      |    |         |
+ 7|   DazedAndConfused         |  101725 |         |      |    |         |
+ 8|   Thomas Gabrysch          |   46850 |         |      |    |         |
+ 9|   jpchiefs                 |   59350 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 324 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c32.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 12
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

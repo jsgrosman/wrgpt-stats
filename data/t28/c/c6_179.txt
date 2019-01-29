@@ -1,0 +1,109 @@
+Subject: [c6.10350] Holdem Game Broadcast Message(*)
+
+! Table c6, Hand 179, Day 77
+
+! Grizz checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   GwynnInTheHall           |  138000 |     200 |folded|    |         |
+ 2|   ADB Foldem               |   35950 |     200 |folded|    |         |
+ 3|   zzzrbt                   |  121000 |     200 |folded|    |         |
+ 4|   Chris Sims               |   48475 |     200 |folded|    |         |
+ 5|D  Axel Foley               |   71150 |     200 |folded|    |         |
+ 6|>  Swamper bfj              |   73100 |    8500 |      |    |         |
+ 7|   Grizz                    |   13550 |    8500 |      |    |         |
+ 8|   rktsci                   |   53450 |     200 |folded|    |         |
+ 9|   Mike Litoris             |   95125 |     200 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/27/19 06:11:13! Dealing a new hand
+! 01/27/19 06:11:13! Everyone antes $200
+! 01/27/19 06:11:13! Swamper bfj blinds $600
+! 01/27/19 06:11:13! Grizz blinds $1200
+! 01/27/19 07:52:07! rktsci folds
+! 01/27/19 10:09:20! Mike Litoris folds
+! 01/27/19 10:09:20! GwynnInTheHall folds
+! 01/27/19 10:09:20! ADB Foldem folds
+! 01/27/19 10:09:20! zzzrbt folds
+! 01/27/19 11:41:30! Chris Sims folds
+! 01/27/19 14:53:39! Axel Foley folds
+! 01/27/19 14:59:11! Swamper bfj calls 
+! 01/27/19 15:42:54! Grizz checks
+
+! 01/27/19 15:42:54! Pot right ($4200), flopping/dealing/drawing cards
+! 01/27/19 15:42:54! 2 players
+! 01/27/19 15:42:54! Flopped cards: Ks 9h 4d
+! 01/27/19 16:06:29! Swamper bfj checks
+! 01/27/19 16:40:59! Grizz bets $2100 
+! 01/27/19 17:07:40! Swamper bfj calls 
+
+! 01/27/19 17:07:40! Pot right ($8400), flopping/dealing/drawing cards
+! 01/27/19 17:07:40! 2 players
+! 01/27/19 17:07:40! Flopped card: 7s
+! 01/27/19 17:08:10! Swamper bfj bets $5000 
+! 01/27/19 18:50:22! Grizz calls 
+
+! 01/27/19 18:50:22! Pot right ($18400), flopping/dealing/drawing cards
+! 01/27/19 18:50:22! 2 players
+! 01/27/19 18:50:22! Flopped card: 2d
+! 01/27/19 18:50:55! Swamper bfj checks
+! 01/27/19 18:59:51! Grizz checks
+! Hand over, current board is:  Ks 9h 4d 7s 2d
+! Swamper bfj              has: 9s Qd
+! Grizz                    has: 4s Jd
+! Swamper bfj wins $18400 (net $9900) with One Pair (9 9 K Q 7)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   GwynnInTheHall           |  138000 |         |      |    |         |
+ 2|   ADB Foldem               |   35950 |         |      |    |         |
+ 3|   zzzrbt                   |  121000 |         |      |    |         |
+ 4|   Chris Sims               |   48475 |         |      |    |         |
+ 5|   Axel Foley               |   71150 |         |      |    |         |
+ 6|D> Swamper bfj              |   91500 |         |      |    |         |
+ 7|   Grizz                    |   13550 |         |      |    |         |
+ 8|   rktsci                   |   53450 |         |      |    |         |
+ 9|   Mike Litoris             |   95125 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 305 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c6.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 10
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

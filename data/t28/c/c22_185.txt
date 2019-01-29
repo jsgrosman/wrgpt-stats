@@ -1,0 +1,109 @@
+Subject: [c22.10550] Holdem Game Broadcast Message(*)
+
+! Table c22, Hand 185, Day 74
+
+! Eric Brassell calls 
+! Pot right ($234100), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 8h
+! Flopped card: 5s
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Byfthalone               |  110825 |    5600 |folded|    |         |
+ 2|   BBLWOG                   |  123475 |     200 |folded|    |         |
+ 3|>  Eric Brassell            |  143150 |  112750 |      |    |         |
+ 4|D  Der Olf                  |       0 |  112750 |all-in|    |         |
+ 5|   Quick                    |   67450 |     800 |folded|    |         |
+ 6|   indiansquib              |   37550 |    1400 |folded|    |         |
+ 7|   Sir Barlow               |  112850 |     200 |folded|    |         |
+ 8|   BrownTrout               |   79625 |     200 |folded|    |         |
+ 9|   bigjimmf1                |   77200 |     200 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/24/19 10:06:31! Dealing a new hand
+! 01/24/19 10:06:31! Everyone antes $200
+! 01/24/19 10:06:31! Quick blinds $600
+! 01/24/19 10:06:31! indiansquib blinds $1200
+! 01/24/19 10:27:46! Sir Barlow folds
+! 01/24/19 10:45:10! BrownTrout folds
+! 01/24/19 10:47:09! bigjimmf1 folds
+! 01/24/19 10:55:48! Byfthalone raises $1200 to $2400 total 
+! 01/24/19 10:55:48! BBLWOG folds
+! 01/24/19 11:24:18! Eric Brassell raises $3000 to $5400 total 
+! 01/24/19 11:37:50! Der Olf calls 
+! 01/24/19 11:37:50! Quick folds
+! 01/24/19 11:37:50! indiansquib folds
+! 01/24/19 12:33:16! Byfthalone calls 
+
+! 01/24/19 12:33:16! Pot right ($19800), flopping/dealing/drawing cards
+! 01/24/19 12:33:16! 3 players
+! 01/24/19 12:33:16! Flopped cards: 10s Ah 9c
+! 01/24/19 12:34:59! Byfthalone checks
+! 01/24/19 12:36:27! Eric Brassell bets $21000 
+! 01/24/19 12:46:35! Der Olf raises $86150 to $107150 total and is all in
+! 01/24/19 13:39:49! Byfthalone folds
+! 01/24/19 19:47:57! Eric Brassell calls 
+
+! 01/24/19 19:47:57! Pot right ($234100), flopping/dealing/drawing cards
+! 01/24/19 19:47:57! 2 players, 1 all in
+! 01/24/19 19:47:57! Flopped card: 8h
+! 01/24/19 19:47:57! Flopped card: 5s
+! Hand over, current board is:  10s Ah 9c 8h 5s
+! Eric Brassell            has: Ks Ac
+! Der Olf                  has: As Js
+! Eric Brassell wins $234100 (net $121350) with One Pair (A A K 10 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Byfthalone               |  110825 |         |      |    |         |
+ 2|   BBLWOG                   |  123475 |         |      |    |         |
+ 3|>  Eric Brassell            |  377250 |         |      |    |         |
+ 5|D  Quick                    |   67450 |         |      |    |         |
+ 6|   indiansquib              |   37550 |         |      |    |         |
+ 7|   Sir Barlow               |  112850 |         |      |    |         |
+ 8|   BrownTrout               |   79625 |         |      |    |         |
+ 9|   bigjimmf1                |   77200 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Der Olf is eliminated!
+! 325 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c22.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 7
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,105 @@
+Subject: [c3.10355] Holdem Game Broadcast Message(*)
+
+! Table c3, Hand 182, Day 74
+
+! Chris Goedde checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  Brian Crowley            |  243575 |   17600 |      |    |         |
+ 2|   Peter Gozinya            |   92550 |     200 |folded|    |         |
+ 3|   gilette                  |   17050 |     200 |folded|    |         |
+ 4|   Fredrik Westerlund       |   40425 |     200 |folded|    |         |
+ 6|   Chris Goedde             |  141375 |   17600 |      |    |         |
+ 7|   MichaelJ                 |   71150 |     200 |folded|    |         |
+ 8|D  Jascha                   |   75400 |     200 |folded|    |         |
+ 9|   yawetag                  |   34475 |     800 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/23/19 16:01:13! Dealing a new hand
+! 01/23/19 16:01:13! Everyone antes $200
+! 01/23/19 16:01:13! yawetag blinds $600
+! 01/23/19 16:01:13! Brian Crowley blinds $1200
+! 01/23/19 16:07:53! Peter Gozinya folds
+! 01/23/19 17:29:28! gilette folds
+! 01/23/19 22:35:39! Fredrik Westerlund folds
+! 01/24/19 03:32:03! Chris Goedde raises $1200 to $2400 total 
+! 01/24/19 04:03:59! MichaelJ folds
+! 01/24/19 04:03:59! Jascha folds
+! 01/24/19 04:34:44! yawetag folds
+! 01/24/19 04:38:24! Brian Crowley calls 
+
+! 01/24/19 04:38:24! Pot right ($7000), flopping/dealing/drawing cards
+! 01/24/19 04:38:24! 2 players
+! 01/24/19 04:38:24! Flopped cards: Ah 8h 9h
+! 01/24/19 04:40:33! Brian Crowley bets $5000 
+! 01/24/19 04:47:26! Chris Goedde calls 
+
+! 01/24/19 04:47:26! Pot right ($17000), flopping/dealing/drawing cards
+! 01/24/19 04:47:26! 2 players
+! 01/24/19 04:47:26! Flopped card: As
+! 01/24/19 05:04:27! Brian Crowley bets $10000 
+! 01/24/19 05:05:28! Chris Goedde calls 
+
+! 01/24/19 05:05:28! Pot right ($37000), flopping/dealing/drawing cards
+! 01/24/19 05:05:28! 2 players
+! 01/24/19 05:05:28! Flopped card: 3h
+! 01/24/19 05:09:08! Brian Crowley checks
+! 01/24/19 05:09:54! Chris Goedde checks
+! Hand over, current board is:  Ah 8h 9h As 3h
+! Brian Crowley            has: Ks 10s
+! Chris Goedde             has: Jd Jc
+! Chris Goedde wins $37000 (net $19400) with Two Pair (A A J J 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  Brian Crowley            |  243575 |         |      |    |         |
+ 2|   Peter Gozinya            |   92550 |         |      |    |         |
+ 3|   gilette                  |   17050 |         |      |    |         |
+ 4|   Fredrik Westerlund       |   40425 |         |      |    |         |
+ 6|   Chris Goedde             |  178375 |         |      |    |         |
+ 7|   MichaelJ                 |   71150 |         |      |    |         |
+ 8|   Jascha                   |   75400 |         |      |    |         |
+ 9|D  yawetag                  |   34475 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 332 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c3.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

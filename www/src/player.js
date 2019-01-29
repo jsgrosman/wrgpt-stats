@@ -9,7 +9,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 const query = new URLSearchParams(location.search);
 
-fetch('player.php?player=' + query.get('player')).then(function(res) {
+fetch('/players/' + query.get('player')).then(function(res) {
     return res.json();
 }).then(function(playerObj) {
     console.log(playerObj);
@@ -144,7 +144,7 @@ function displayActionsChart(actionsObject, actionType, ctxId) {
     });
 };
 
-fetch('allPlayers.php').then(function(res) {
+fetch('/players').then(function(res) {
     return res.json();
 }).then(function(playerObj) {
 

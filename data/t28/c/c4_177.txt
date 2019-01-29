@@ -1,0 +1,116 @@
+Subject: [c4.10383] Holdem Game Broadcast Message(*)
+
+! Table c4, Hand 177, Day 73
+
+! What Beats What Again calls - side pot
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Russ Bryan               |   75875 |     200 |folded|    |         |
+ 2|   DotMatrix                |   35100 |    1400 |folded|    |         |
+ 3|D  Jeff Palmucci            |   74325 |    5400 |folded|    |         |
+ 4|   Chippy McChiperson       |   68750 |    1400 |folded|    |         |
+ 5|   What Beats What Again    |       0 |   33525 |all-in|  2 |   77250 |
+ 6|   rAmAk                    |   85650 |     200 |folded|    |         |
+ 7|   Chkchk                   |   34850 |     200 |folded|    |         |
+ 8|   Ryan Thomas              |  121000 |    1400 |folded|    |         |
+ 9|>  eliuk35                  |  109050 |   35400 |      |  1 |    1875 |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/22/19 15:43:38! Dealing a new hand
+! 01/22/19 15:43:38! Everyone antes $200
+! 01/22/19 15:43:38! Chippy McChiperson blinds $600
+! 01/22/19 15:43:38! What Beats What Again blinds $1200
+! 01/22/19 16:13:56! rAmAk folds
+! 01/22/19 16:13:56! Chkchk folds
+! 01/22/19 16:21:38! Ryan Thomas calls 
+! 01/22/19 17:21:22! eliuk35 calls 
+! 01/22/19 17:26:57! Russ Bryan folds
+! 01/22/19 17:29:24! DotMatrix calls 
+! 01/22/19 18:50:06! Jeff Palmucci calls 
+! 01/22/19 19:00:33! Chippy McChiperson calls 
+! 01/23/19 04:12:28! What Beats What Again checks
+
+! 01/23/19 04:12:28! Pot right ($9000), flopping/dealing/drawing cards
+! 01/23/19 04:12:28! 6 players
+! 01/23/19 04:12:28! Flopped cards: 9h 4h 8s
+! 01/23/19 05:02:13! Chippy McChiperson checks
+! 01/23/19 06:39:58! What Beats What Again bets $4000 
+! 01/23/19 07:22:52! Ryan Thomas folds
+! 01/23/19 07:28:45! eliuk35 calls 
+! 01/23/19 07:53:39! DotMatrix folds
+! 01/23/19 08:36:21! Jeff Palmucci calls 
+! 01/23/19 08:36:21! Chippy McChiperson folds
+
+! 01/23/19 08:36:21! Pot right ($21000), flopping/dealing/drawing cards
+! 01/23/19 08:36:21! 3 players
+! 01/23/19 08:36:21! Flopped card: 2c
+! 01/23/19 08:37:56! What Beats What Again bets $10000 
+! 01/23/19 08:42:49! eliuk35 calls 
+! 01/23/19 10:33:04! Jeff Palmucci folds
+
+! 01/23/19 10:33:04! Pot right ($41000), flopping/dealing/drawing cards
+! 01/23/19 10:33:04! 2 players
+! 01/23/19 10:33:04! Flopped card: 3s
+! 01/23/19 12:07:10! What Beats What Again checks
+! 01/23/19 12:08:13! eliuk35 bets $20000 
+! 01/23/19 12:08:55! What Beats What Again calls - side pot
+! Hand over, current board is:  9h 4h 8s 2c 3s
+! What Beats What Again    has: Ks 9s
+! eliuk35                  has: Kh 8h
+! Pot 1: uncalled $1875 returned to eliuk35
+! Pot 2: What Beats What Again wins $77250 with One Pair (9 9 K 8 4)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Russ Bryan               |   75875 |         |      |    |         |
+ 2|   DotMatrix                |   35100 |         |      |    |         |
+ 3|   Jeff Palmucci            |   74325 |         |      |    |         |
+ 4|D  Chippy McChiperson       |   68750 |         |      |    |         |
+ 5|   What Beats What Again    |   77250 |         |      |    |         |
+ 6|   rAmAk                    |   85650 |         |      |    |         |
+ 7|   Chkchk                   |   34850 |         |      |    |         |
+ 8|   Ryan Thomas              |  121000 |         |      |    |         |
+ 9|>  eliuk35                  |  110925 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 333 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c4.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

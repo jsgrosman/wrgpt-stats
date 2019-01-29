@@ -1,0 +1,108 @@
+Subject: [c20.10336] Holdem Game Broadcast Message(*)
+
+! Table c20, Hand 180, Day 74
+
+! Samueladams checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Felix Leiter             |  110150 |     200 |folded|    |         |
+ 2|V  CPROG                    |   98825 |     200 |26 JAN|    |         |
+ 3|   JZK                      |   97175 |     200 |folded|    |         |
+ 4|>  Kevmath                  |   63925 |    8700 |      |    |         |
+ 5|D  Samueladams              |   34050 |    8700 |      |    |         |
+ 7|   Bobby Luckbox            |   42825 |     800 |folded|    |         |
+ 8|   Scooter                  |  127850 |    1400 |folded|    |         |
+ 9|   Baldy                    |   64875 |     200 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/24/19 11:09:49! Dealing a new hand
+! 01/24/19 11:09:49! Everyone antes $200
+! 01/24/19 11:09:49! Bobby Luckbox blinds $600
+! 01/24/19 11:09:49! Scooter blinds $1200
+! 01/24/19 11:24:08! Baldy folds
+! 01/24/19 11:24:08! Felix Leiter folds
+! 01/24/19 11:24:08! CPROG is on vacation and folds
+! 01/24/19 12:27:09! JZK folds
+! 01/24/19 12:27:52! Kevmath calls 
+! 01/24/19 12:29:02! Samueladams raises $2800 to $4000 total 
+! 01/24/19 12:45:08! Bobby Luckbox folds
+! 01/24/19 12:45:08! Scooter folds
+! 01/24/19 12:48:29! Kevmath calls 
+
+! 01/24/19 12:48:29! Pot right ($11400), flopping/dealing/drawing cards
+! 01/24/19 12:48:29! 2 players
+! 01/24/19 12:48:29! Flopped cards: 5c Kh 9d
+! 01/24/19 12:49:09! Kevmath checks
+! 01/24/19 13:15:13! Samueladams checks
+
+! 01/24/19 13:15:13! Pot right ($11400), flopping/dealing/drawing cards
+! 01/24/19 13:15:13! 2 players
+! 01/24/19 13:15:13! Flopped card: Ad
+! 01/24/19 13:15:46! Kevmath checks
+! 01/24/19 13:17:19! Samueladams bets $4500 
+! 01/24/19 13:17:47! Kevmath calls 
+
+! 01/24/19 13:17:47! Pot right ($20400), flopping/dealing/drawing cards
+! 01/24/19 13:17:47! 2 players
+! 01/24/19 13:17:47! Flopped card: Ac
+! 01/24/19 13:18:19! Kevmath checks
+! 01/24/19 13:21:35! Samueladams checks
+! Hand over, current board is:  5c Kh 9d Ad Ac
+! Kevmath                  has: 9h 8h
+! Samueladams              has: Qs Qd
+! Samueladams wins $20400 (net $11700) with Two Pair (A A Q Q K)
+! JZK                      reveals  3s Jd
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Felix Leiter             |  110150 |         |      |    |         |
+ 2|V  CPROG                    |   98825 |         |26 JAN|    |         |
+ 3|   JZK                      |   97175 |         |      |    |         |
+ 4|>  Kevmath                  |   63925 |         |      |    |         |
+ 5|   Samueladams              |   54450 |         |      |    |         |
+ 7|D  Bobby Luckbox            |   42825 |         |      |    |         |
+ 8|   Scooter                  |  127850 |         |      |    |         |
+ 9|   Baldy                    |   64875 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 329 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c20.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 4
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

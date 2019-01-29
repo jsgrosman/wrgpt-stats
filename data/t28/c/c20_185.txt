@@ -1,0 +1,113 @@
+Subject: [c20.10398] Holdem Game Broadcast Message(*)
+
+! Table c20, Hand 185, Day 77
+
+! Kevmath calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Felix Leiter             |  131150 |     200 |folded|    |         |
+ 2|D  CPROG                    |   96025 |     200 |folded|    |         |
+ 3|>  JZK                      |   47125 |   36850 |      |    |         |
+ 4|   Kevmath                  |   17275 |   36850 |      |    |         |
+ 5|   Samueladams              |   53450 |     200 |folded|    |         |
+ 6|   Svante Wester            |   67400 |     200 |folded|    |         |
+ 7|   Bobby Luckbox            |   53825 |     200 |folded|    |         |
+ 8|   Scooter                  |  125050 |    1400 |folded|    |         |
+ 9|   Baldy                    |   61475 |     200 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/26/19 16:29:14! Dealing a new hand
+! 01/26/19 16:29:14! Everyone antes $200
+! 01/26/19 16:29:14! JZK blinds $600
+! 01/26/19 16:29:14! Kevmath blinds $1200
+! 01/26/19 17:57:11! CPROG is back from vacation
+! 01/26/19 19:50:03! Samueladams folds
+! 01/27/19 01:23:09! Svante Wester folds
+! 01/27/19 05:03:18! Bobby Luckbox folds
+! 01/27/19 08:37:07! Scooter calls 
+! 01/27/19 08:37:07! Baldy folds
+! 01/27/19 08:37:07! Felix Leiter folds
+! 01/27/19 09:13:15! CPROG folds
+! 01/27/19 09:25:38! JZK calls 
+! 01/27/19 12:14:51! Kevmath checks
+
+! 01/27/19 12:14:51! Pot right ($5400), flopping/dealing/drawing cards
+! 01/27/19 12:14:51! 3 players
+! 01/27/19 12:14:51! Flopped cards: Qc 7c 6h
+! 01/27/19 12:21:10! JZK checks
+! 01/27/19 12:21:38! Kevmath checks
+! 01/27/19 12:38:18! Scooter checks
+
+! 01/27/19 12:38:18! Pot right ($5400), flopping/dealing/drawing cards
+! 01/27/19 12:38:18! 3 players
+! 01/27/19 12:38:18! Flopped card: 10d
+! 01/27/19 12:48:26! JZK bets $2750 
+! 01/27/19 12:48:55! Kevmath raises $4000 to $6750 total 
+! 01/27/19 12:53:17! Scooter folds
+! 01/27/19 12:54:17! JZK raises $9000 to $15750 total 
+! 01/27/19 12:54:43! Kevmath calls 
+
+! 01/27/19 12:54:43! Pot right ($36900), flopping/dealing/drawing cards
+! 01/27/19 12:54:43! 2 players
+! 01/27/19 12:54:43! Flopped card: 3c
+! 01/27/19 12:56:15! JZK bets $19700 
+! 01/27/19 12:56:40! Kevmath calls 
+! Hand over, current board is:  Qc 7c 6h 10d 3c
+! JZK                      has: 9d 8d
+! Kevmath                  has: 7s 6c
+! JZK wins $76300 (net $39450) with Straight (10 9 8 7 6)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Felix Leiter             |  131150 |         |      |    |         |
+ 2|   CPROG                    |   96025 |         |      |    |         |
+ 3|D> JZK                      |  123425 |         |      |    |         |
+ 4|   Kevmath                  |   17275 |         |      |    |         |
+ 5|   Samueladams              |   53450 |         |      |    |         |
+ 6|   Svante Wester            |   67400 |         |      |    |         |
+ 7|   Bobby Luckbox            |   53825 |         |      |    |         |
+ 8|   Scooter                  |  125050 |         |      |    |         |
+ 9|   Baldy                    |   61475 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 310 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c20.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 5
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

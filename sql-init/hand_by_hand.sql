@@ -3,6 +3,7 @@ CREATE TABLE IF NOT EXISTS wrgpt.hand_by_hand (
         table_name VARCHAR(45) NOT NULL,
         hand_num INT NOT NULL,
         player VARCHAR(45) NOT NULL,
+        hand_began DATE NOT NULL,
         position INT NOT NULL,
         latest_round VARCHAR(45) NOT NULL,
         cards VARCHAR(10),

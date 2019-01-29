@@ -1,0 +1,120 @@
+Subject: [c31.10332] Holdem Game Broadcast Message(*)
+
+% Good hand, Brian
+! -- mulligan --
+_____________________________________________________________________________
+
+! Table c31, Hand 173, Day 73
+
+! mulligan calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Brian Huss               |       0 |   66625 |all-in|    |         |
+ 2|   Quiet Lion               |   27250 |     200 |folded|    |         |
+ 3|   Isaac Newton             |   70025 |     200 |folded|    |         |
+ 4|>  mulligan                 |   33600 |   66625 |      |    |         |
+ 5|   Rugratbbc                |   29225 |     200 |folded|    |         |
+ 6|   feodor                   |   90800 |     200 |folded|    |         |
+ 7|   TomnyO                   |   72025 |     200 |folded|    |         |
+ 8|D  TennisGeek               |   80600 |     200 |folded|    |         |
+ 9|   SCSI                     |   99175 |     800 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/23/19 10:44:10! Dealing a new hand
+! 01/23/19 10:44:10! Everyone antes $200
+! 01/23/19 10:44:10! SCSI blinds $600
+! 01/23/19 10:44:10! Brian Huss blinds $1200
+! 01/23/19 10:45:09! Quiet Lion folds
+! 01/23/19 10:56:47! Isaac Newton folds
+! 01/23/19 11:03:12! mulligan raises $1600 to $2800 total 
+! 01/23/19 13:28:15! Rugratbbc folds
+! 01/23/19 13:34:30! feodor folds
+! 01/23/19 13:34:30! TomnyO folds
+! 01/23/19 13:49:33! TennisGeek folds
+! 01/23/19 13:55:53! SCSI folds
+! 01/23/19 14:23:08! Brian Huss calls 
+
+! 01/23/19 14:23:08! Pot right ($8000), flopping/dealing/drawing cards
+! 01/23/19 14:23:08! 2 players
+! 01/23/19 14:23:08! Flopped cards: 5h 10d 4d
+! 01/23/19 14:23:36! Brian Huss bets $4500 
+! 01/23/19 14:40:35! mulligan raises $5500 to $10000 total 
+! 01/23/19 14:41:21! Brian Huss calls 
+
+! 01/23/19 14:41:21! Pot right ($28000), flopping/dealing/drawing cards
+! 01/23/19 14:41:21! 2 players
+! 01/23/19 14:41:21! Flopped card: Ad
+! 01/23/19 14:41:49! Brian Huss checks
+! 01/23/19 14:43:00! mulligan bets $28000 
+! 01/23/19 14:44:04! Brian Huss calls 
+
+! 01/23/19 14:44:04! Pot right ($84000), flopping/dealing/drawing cards
+! 01/23/19 14:44:04! 2 players
+! 01/23/19 14:44:04! Flopped card: 7d
+! 01/23/19 14:44:30! Brian Huss bets $25625 and is all in
+_____________________________________________________________________________
+
+! Good hand, Brian
+! -- mulligan --
+_____________________________________________________________________________
+
+! 01/23/19 14:46:31! mulligan calls 
+! Hand over, current board is:  5h 10d 4d Ad 7d
+! Brian Huss               has: Kd 9d
+! mulligan                 has: As Ah
+! Brian Huss wins $135250 (net $68625) with Diamond Flush (A K 10 9 7)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Brian Huss               |  135250 |         |      |    |         |
+ 2|   Quiet Lion               |   27250 |         |      |    |         |
+ 3|   Isaac Newton             |   70025 |         |      |    |         |
+ 4|>  mulligan                 |   33600 |         |      |    |         |
+ 5|   Rugratbbc                |   29225 |         |      |    |         |
+ 6|   feodor                   |   90800 |         |      |    |         |
+ 7|   TomnyO                   |   72025 |         |      |    |         |
+ 8|   TennisGeek               |   80600 |         |      |    |         |
+ 9|D  SCSI                     |   99175 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 333 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c31.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer
