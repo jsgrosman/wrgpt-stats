@@ -11,4 +11,5 @@ CREATE TABLE IF NOT EXISTS wrgpt.hand_by_hand (
         is_all_in TINYINT NULL,
         was_in_showdown TINYINT NULL,
         is_winner TINYINT NULL,
+        chips INT,
         PRIMARY KEY (tournament_id, table_name, hand_num, player));

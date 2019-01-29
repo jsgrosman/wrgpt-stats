@@ -36,6 +36,8 @@ class HandModel
 
     public $cards;
 
+    public $chips;
+
     public function __construct($player, $tournamentNum, $tableName, $handNum, $position)
     {
         $this->tournamentNum = $tournamentNum;
@@ -51,8 +53,8 @@ class HandModel
 
         $insertSql =<<<SQL
          INSERT INTO hand_by_hand
-          (tournament_id, table_name, hand_num, player, position, latest_round, cards, put_money_preflop, raised_preflop, is_all_in, was_in_showdown, is_winner) 
-            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+          (tournament_id, table_name, hand_num, player, position, latest_round, cards, put_money_preflop, raised_preflop, is_all_in, was_in_showdown, is_winner, chips) 
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
             ON DUPLICATE KEY UPDATE player = ?,
                                     position = ?, 
                                     latest_round = ?, 
@@ -61,7 +63,8 @@ class HandModel
                                     raised_preflop = ?, 
                                     is_all_in = ?, 
                                     was_in_showdown = ?, 
-                                    is_winner = ?
+                                    is_winner = ?,
+                                    chips = ?
 SQL;
 
         try {
@@ -78,6 +81,7 @@ SQL;
                 $this->isAllIn ? 1 : 0,
                 $this->wasInShowdown ? 1 : 0,
                 $this->isWinner ? 1 : 0,
+                $this->chips,
                 // update
                 $this->player,
                 $this->position,
@@ -88,6 +92,7 @@ SQL;
                 $this->isAllIn ? 1 : 0,
                 $this->wasInShowdown ? 1 : 0,
                 $this->isWinner ? 1 : 0,
+                $this->chips
             ]);
         }
         catch (\Exception $e) {

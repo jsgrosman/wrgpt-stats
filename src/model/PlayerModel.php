@@ -449,6 +449,22 @@ SQL;
 
     }
 
+    public function getChips()
+    {
+        $conn = DBConn::getConnection();
+
+        $sql =<<<SQL
+select table_name, hand_num, chips
+from hand_by_hand
+where player = ?
+and tournament_id = ?
+order by table_name, hand_num
+SQL;
+
+        $result = $conn->queryFetchAll($sql, [$this->player, 28]);
+        return array_map(function($r) { return intval($r['chips']);}, $result);
+    }
+
     protected function getRangeForVPIP($vpip)
     {
         switch (true) {

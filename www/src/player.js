@@ -13,7 +13,7 @@ fetch('player.php?player=' + query.get('player')).then(function(res) {
     return res.json();
 }).then(function(playerObj) {
     console.log(playerObj);
-    console.log(playerObj.hours);
+    console.log(playerObj.chips);
 
     document.getElementById('firstAction').innerText = playerObj.firstAction;
     document.getElementById('lastAction').innerText = playerObj.lastAction;
@@ -57,6 +57,20 @@ fetch('player.php?player=' + query.get('player')).then(function(res) {
                 data: Object.values(playerObj.hours)    ,
             }]
         },
+    });
+
+    var ctx = document.getElementById("chipsChart").getContext('2d');
+    var chipsChart = new Chart(ctx, {
+        type: 'line',
+        data: {
+            labels: Object.keys(playerObj.chips),
+            datasets: [{
+                label: playerObj.name,
+                backgroundColor: "rgba(200,0,0,0.2)",
+                data: playerObj.chips,
+            }],
+        },
+
     });
 
     for (var i = 1; i < 10; i++)

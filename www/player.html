@@ -53,6 +53,9 @@
     <li class="nav-item">
         <a class="nav-link" id="times-tab" data-toggle="tab" href="#times" role="tab" aria-controls="contact" aria-selected="false">Times</a>
     </li>
+    <li class="nav-item">
+        <a class="nav-link" id="chips-tab" data-toggle="tab" href="#chips" role="tab" aria-controls="contact" aria-selected="false">Chips</a>
+    </li>
 </ul>
 
 <div class="tab-content" id="myTabContent">
@@ -158,9 +161,14 @@
         </table>
     </div>
     <div class="tab-pane fade" id="times" role="tabpanel" aria-labelledby="times-tab">
-        <div class="col-md-3">
+        <div class="col-md-5">
             <h3>Times Active</h3>
             <canvas id="activeTimesChart" width="100" height="100"></canvas>
+        </div>
+    </div>
+    <div class="tab-pane fade" id="chips" role="tabpanel" aria-labelledby="chips-tab">
+        <div class="col-md-5">
+            <canvas id="chipsChart" width="100" height="100"></canvas>
         </div>
     </div>
 </div>

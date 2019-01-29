@@ -149,6 +149,7 @@ class Parser
                 $handModel->wasInShowdown = $cardsAndShowdown[1];
                 $handModel->cards = $cardsAndShowdown[0];
             }
+            $handModel->chips = $this->findChips($lineByLine, $handModel->player);
             $handModel->save();
         }
     }
@@ -262,6 +263,7 @@ class Parser
                 'bets',
                 'is',
                 'checks',
+                'antes',
             ];
 
         $actionTokens = explode(' ', $actionLine);
@@ -331,6 +333,30 @@ class Parser
         }
 
         return null;
+    }
+
+    private function findChips($handTxt, $playerName)
+    {
+        $afterWin = false;
+        foreach ($handTxt as $line)
+        {
+            $winsPos = strpos($line, 'wins $');
+            if ($winsPos > 0)
+            {
+                $afterWin = true;
+                continue;
+            }
+
+            if ($afterWin) {
+                $playerNamePos = strpos($line, $playerName);
+                if ($playerNamePos > 0) {
+                    $tokens = explode('|', $line);
+                    return trim($tokens[2]);
+                }
+            }
+        }
+
+        return 0;
     }
 
     private function getCards($handTxt, $playerName)
