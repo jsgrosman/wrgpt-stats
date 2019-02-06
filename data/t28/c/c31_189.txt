@@ -1,0 +1,112 @@
+Subject: [c31.10521] Holdem Game Broadcast Message(*)
+
+! Table c31, Hand 189, Day 81
+
+! D-man checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  Brian Huss               |   79650 |   32000 |      |    |         |
+ 2|   D-man                    |   26900 |   32000 |      |    |         |
+ 3|   Isaac Newton             |   75525 |     200 |folded|    |         |
+ 4|   mulligan                 |   65000 |    3500 |folded|    |         |
+ 5|   BigBlind                 |  138250 |       0 |New   |    |         |
+ 6|D  feodor                   |  102100 |    3500 |folded|    |         |
+ 7|   TomnyO                   |   52725 |    3500 |folded|    |         |
+ 8|   TennisGeek               |  132275 |    1400 |folded|    |         |
+ 9|   SCSI                     |   90575 |     200 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/30/19 15:29:05! Dealing a new hand
+! 01/30/19 15:29:05! Everyone antes $200
+! 01/30/19 15:29:05! TomnyO blinds $600
+! 01/30/19 15:29:05! TennisGeek blinds $1200
+! 01/30/19 15:34:17! SCSI folds
+! 01/30/19 17:05:14! Brian Huss raises $2100 to $3300 total 
+! 01/31/19 02:05:42! D-man calls 
+! 01/31/19 02:05:42! Isaac Newton folds
+! 01/31/19 04:53:43! mulligan calls 
+! 01/31/19 07:07:10! feodor calls 
+! 01/31/19 07:11:54! TomnyO calls 
+! 01/31/19 07:30:46! TennisGeek folds
+
+! 01/31/19 07:30:46! Pot right ($19300), flopping/dealing/drawing cards
+! 01/31/19 07:30:46! 5 players
+! 01/31/19 07:30:46! Flopped cards: 8h 10d 4d
+! 01/31/19 07:33:46! TomnyO checks
+! 01/31/19 07:51:40! Brian Huss bets $11500 
+! 01/31/19 09:13:13! D-man calls 
+! 01/31/19 09:20:24! mulligan folds
+! 01/31/19 10:25:02! feodor folds
+! 01/31/19 10:25:02! TomnyO folds
+
+! 01/31/19 10:25:02! Pot right ($42300), flopping/dealing/drawing cards
+! 01/31/19 10:25:02! 2 players
+! 01/31/19 10:25:02! Flopped card: Jh
+! 01/31/19 10:33:53! Brian Huss bets $17000 
+! 01/31/19 10:37:59! D-man calls 
+
+! 01/31/19 10:37:59! Pot right ($76300), flopping/dealing/drawing cards
+! 01/31/19 10:37:59! 2 players
+! 01/31/19 10:37:59! Flopped card: Jd
+! 01/31/19 10:55:03! New player added to the table: BigBlind
+! 01/31/19 10:55:51! Brian Huss checks
+! 01/31/19 11:01:20! D-man checks
+! Hand over, current board is:  8h 10d 4d Jh Jd
+! Brian Huss               has: 10s Ac
+! D-man                    has: Ad Qd
+! D-man wins $76300 (net $44300) with Diamond Flush (A Q J 10 4)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  Brian Huss               |   79650 |         |      |    |         |
+ 2|   D-man                    |  103200 |         |      |    |         |
+ 3|   Isaac Newton             |   75525 |         |      |    |         |
+ 4|   mulligan                 |   65000 |         |      |    |         |
+ 5|   BigBlind                 |  138250 |         |      |    |         |
+ 6|   feodor                   |  102100 |         |      |    |         |
+ 7|D  TomnyO                   |   52725 |         |      |    |         |
+ 8|   TennisGeek               |  132275 |         |      |    |         |
+ 9|   SCSI                     |   90575 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 287 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c31.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 11
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,105 @@
+Subject: [c29.10381] Holdem Game Broadcast Message(*)
+
+! Table c29, Hand 178, Day 81
+
+! I_Bluff_Rivers folds
+! Pot right ($137425), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped cards: Jc 8c 2h
+! Flopped card: 4d
+! Flopped card: 4h
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|V  ChipRider                |   49500 |     200 | 2 FEB|    |         |
+ 2|   tarigojaergihioahdged    |  113950 |     200 |folded|    |         |
+ 3|   Pete Holmes              |   55950 |     200 |folded|    |         |
+ 4|D  Pooper                   |   50050 |     200 |folded|    |         |
+ 5|>  I_Bluff_Rivers           |   56475 |    3600 |folded|    |         |
+ 6|   sendlo                   |       0 |   32400 |all-in|  2 |   73000 |
+ 7|   Stefan Dios              |       0 |   96825 |all-in|  1 |   64425 |
+ 8|   TomasL                   |  125350 |     200 |folded|    |         |
+ 9|   BillB                    |   80550 |    3600 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/31/19 06:40:06! Dealing a new hand
+! 01/31/19 06:40:06! Everyone antes $200
+! 01/31/19 06:40:06! I_Bluff_Rivers blinds $600
+! 01/31/19 06:40:06! sendlo blinds $1200
+! 01/31/19 06:45:53! Stefan Dios raises $2200 to $3400 total 
+! 01/31/19 06:45:53! TomasL folds
+! 01/31/19 07:34:35! BillB calls 
+! 01/31/19 07:34:35! ChipRider is on vacation and folds
+! 01/31/19 07:34:35! tarigojaergihioahdged folds
+! 01/31/19 07:46:04! Pete Holmes folds
+! 01/31/19 07:46:04! Pooper folds
+! 01/31/19 08:04:43! I_Bluff_Rivers calls 
+! 01/31/19 10:02:46! sendlo raises $28800 to $32200 total and is all in
+! 01/31/19 10:20:08! Stefan Dios raises $64425 to $96625 total and is all in
+! 01/31/19 10:31:54! BillB folds
+! 01/31/19 10:48:48! I_Bluff_Rivers folds
+
+! 01/31/19 10:48:48! Pot right ($137425), flopping/dealing/drawing cards
+! 01/31/19 10:48:48! 2 players, 2 all in
+! 01/31/19 10:48:48! Flopped cards: Jc 8c 2h
+! 01/31/19 10:48:48! Flopped card: 4d
+! 01/31/19 10:48:48! Flopped card: 4h
+! Hand over, current board is:  Jc 8c 2h 4d 4h
+! sendlo                   has: 3s Ad
+! Stefan Dios              has: Kh Qh
+! Pot 1: uncalled $64425 returned to Stefan Dios
+! Pot 2: sendlo wins $73000 with One Pair (4 4 A J 8)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|V  ChipRider                |   49500 |         | 2 FEB|    |         |
+ 2|   tarigojaergihioahdged    |  113950 |         |      |    |         |
+ 3|   Pete Holmes              |   55950 |         |      |    |         |
+ 4|   Pooper                   |   50050 |         |      |    |         |
+ 5|D> I_Bluff_Rivers           |   56475 |         |      |    |         |
+ 6|   sendlo                   |   73000 |         |      |    |         |
+ 7|   Stefan Dios              |   64425 |         |      |    |         |
+ 8|   TomasL                   |  125350 |         |      |    |         |
+ 9|   BillB                    |   80550 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 286 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c29.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 10
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

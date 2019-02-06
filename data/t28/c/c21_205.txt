@@ -1,0 +1,101 @@
+Subject: [c21.10663] Holdem Game Broadcast Message(*)
+
+! Table c21, Hand 205, Day 85
+
+! Donald Neilson calls 
+! Pot right ($70300), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped cards: 7s 9s 8d
+! Flopped card: Jc
+! Flopped card: 4h
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Andy Pierce              |   53625 |     300 |folded|    |         |
+ 2|   sgranen                  |  140475 |     300 |folded|    |         |
+ 3|   Eight of Spades          |   98100 |     300 |folded|    |         |
+ 4|   Ace Squared              |       0 |   33600 |all-in|    |         |
+ 5|   dgr                      |   57825 |     300 |folded|    |         |
+ 6|D  Polar85                  |   64550 |     300 |folded|    |         |
+ 7|   acadonnelly              |   33050 |    1300 |folded|    |         |
+ 8|>  Donald Neilson           |  244625 |   33600 |      |    |         |
+ 9|   JRX                      |   73450 |     300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/04/19 06:32:50! Dealing a new hand
+! 02/04/19 06:32:50! Everyone antes $300
+! 02/04/19 06:32:50! acadonnelly blinds $1000
+! 02/04/19 06:32:50! Donald Neilson blinds $2000
+! 02/04/19 06:58:50! JRX folds
+! 02/04/19 08:31:14! Andy Pierce folds
+! 02/04/19 08:31:14! sgranen folds
+! 02/04/19 08:53:10! Eight of Spades folds
+! 02/04/19 08:54:32! Ace Squared raises $31300 to $33300 total and is all in
+! 02/04/19 08:56:41! dgr folds
+! 02/04/19 08:56:41! Polar85 folds
+! 02/04/19 08:56:41! acadonnelly folds
+! 02/04/19 08:58:42! Donald Neilson calls 
+
+! 02/04/19 08:58:42! Pot right ($70300), flopping/dealing/drawing cards
+! 02/04/19 08:58:42! 2 players, 1 all in
+! 02/04/19 08:58:42! Flopped cards: 7s 9s 8d
+! 02/04/19 08:58:42! Flopped card: Jc
+! 02/04/19 08:58:42! Flopped card: 4h
+! Hand over, current board is:  7s 9s 8d Jc 4h
+! Ace Squared              has: 7h 7c
+! Donald Neilson           has: As Qs
+! Ace Squared wins $70300 (net $36700) with Three of a Kind (7 7 7 J 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Andy Pierce              |   53625 |         |      |    |         |
+ 2|   sgranen                  |  140475 |         |      |    |         |
+ 3|   Eight of Spades          |   98100 |         |      |    |         |
+ 4|   Ace Squared              |   70300 |         |      |    |         |
+ 5|   dgr                      |   57825 |         |      |    |         |
+ 6|   Polar85                  |   64550 |         |      |    |         |
+ 7|D  acadonnelly              |   33050 |         |      |    |         |
+ 8|>  Donald Neilson           |  244625 |         |      |    |         |
+ 9|   JRX                      |   73450 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 270 players left in the tournament, 2 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c21.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

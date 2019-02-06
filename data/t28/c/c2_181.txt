@@ -1,0 +1,113 @@
+Subject: [c2.10360] Holdem Game Broadcast Message(*)
+
+! Table c2, Hand 181, Day 85
+
+! Billco folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Hossein                  |  132825 |     200 |folded|    |         |
+ 2|   BillDaBear               |   56900 |     200 |folded|    |         |
+ 3|   John Cairns              |  194950 |     200 |folded|    |         |
+ 4|   kettledrum               |   48200 |    4700 |folded|    |         |
+ 5|>  Bugsy                    |   24825 |   43700 |      |    |         |
+ 6|V  BT                       |   35200 |     200 |<AWOL>|    |         |
+ 7|D  Tom Bayz                 |  151125 |     200 |folded|    |         |
+ 8|   put_it_good              |   98325 |     800 |folded|    |         |
+ 9|   Billco                   |  121950 |   14700 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/02/19 16:09:49! Dealing a new hand
+! 02/02/19 16:09:49! Everyone antes $200
+! 02/02/19 16:09:49! put_it_good blinds $600
+! 02/02/19 16:09:49! Billco blinds $1200
+! 02/02/19 16:11:27! Hossein folds
+! 02/02/19 18:53:59! BillDaBear folds
+! 02/02/19 19:12:45! John Cairns folds
+! 02/02/19 20:27:02! kettledrum calls 
+! 02/03/19 07:51:35! Bugsy raises $3300 to $4500 total 
+! 02/03/19 07:51:35! BT is on vacation and folds
+! 02/03/19 09:54:59! Tom Bayz folds
+! 02/03/19 10:04:40! put_it_good folds
+! 02/03/19 11:31:53! Billco calls 
+! 02/03/19 11:33:25! kettledrum calls 
+
+! 02/03/19 11:33:25! Pot right ($15900), flopping/dealing/drawing cards
+! 02/03/19 11:33:25! 3 players
+! 02/03/19 11:33:25! Flopped cards: 10h 9c 5s
+! 02/03/19 13:19:21! Billco checks
+! 02/03/19 19:28:48! kettledrum checks
+! 02/03/19 21:04:17! Bugsy bets $10000 
+! 02/04/19 00:24:51! Billco calls 
+! 02/04/19 04:10:02! kettledrum folds
+
+! 02/04/19 04:10:02! Pot right ($35900), flopping/dealing/drawing cards
+! 02/04/19 04:10:02! 2 players
+! 02/04/19 04:10:02! Flopped card: Ks
+! 02/04/19 04:41:08! Billco checks
+! 02/04/19 07:13:06! Bugsy checks
+
+! 02/04/19 07:13:06! Pot right ($35900), flopping/dealing/drawing cards
+! 02/04/19 07:13:06! 2 players
+! 02/04/19 07:13:06! Flopped card: 3h
+! 02/04/19 08:08:19! Billco checks
+! 02/04/19 08:10:31! Bugsy bets $29000 
+! 02/04/19 08:35:32! Billco folds
+! Hand over, no showdown
+! Current board is:  10h 9c 5s Ks 3h
+! Bugsy wins $64900 (net $21200)
+! Antes and blinds go up
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Hossein                  |  132825 |         |      |    |         |
+ 2|   BillDaBear               |   56900 |         |      |    |         |
+ 3|   John Cairns              |  194950 |         |      |    |         |
+ 4|   kettledrum               |   48200 |         |      |    |         |
+ 5|>  Bugsy                    |   89725 |         |      |    |         |
+ 6|V  BT                       |   35200 |         |<AWOL>|    |         |
+ 7|   Tom Bayz                 |  151125 |         |      |    |         |
+ 8|D  put_it_good              |   98325 |         |      |    |         |
+ 9|   Billco                   |  121950 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 271 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c2.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

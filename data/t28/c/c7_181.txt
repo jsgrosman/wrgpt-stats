@@ -1,0 +1,112 @@
+Subject: [c7.10435] Holdem Game Broadcast Message(*)
+
+! Table c7, Hand 181, Day 81
+
+! Daniel Levine calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   JohnnyMac                |  153925 |     200 |folded|    |         |
+ 2|   Johnny Ice               |   67775 |     200 |folded|    |         |
+ 3|   Endrju                   |  123400 |     200 |folded|    |         |
+ 4|   Ninetensuited            |   21900 |     200 |folded|    |         |
+ 5|>  Daniel Levine            |   46250 |   61175 |      |  2 |   75000 |
+ 6|   Joe Nadeau               |  212650 |     200 |folded|    |         |
+ 7|D  skatesave                |       0 |   23675 |all-in|  3 |   72825 |
+ 8|   Moccasin Johnny Return   |   88700 |     800 |folded|    |         |
+ 9|   Mejjad                   |       0 |   61175 |all-in|  2 |   75000 |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/31/19 08:14:39! Dealing a new hand
+! 01/31/19 08:14:39! Everyone antes $200
+! 01/31/19 08:14:39! Moccasin Johnny Return blinds $600
+! 01/31/19 08:14:39! Mejjad blinds $1200
+! 01/31/19 08:57:10! JohnnyMac folds
+! 01/31/19 11:14:47! Johnny Ice folds
+! 01/31/19 11:14:47! Endrju folds
+! 01/31/19 11:14:47! Ninetensuited folds
+! 01/31/19 11:15:36! Daniel Levine calls 
+! 01/31/19 11:15:36! Joe Nadeau folds
+! 01/31/19 11:37:34! skatesave raises $22275 to $23475 total and is all in
+! 01/31/19 11:37:34! Moccasin Johnny Return folds
+! 01/31/19 12:30:28! Mejjad calls 
+! 01/31/19 12:31:14! Daniel Levine calls 
+
+! 01/31/19 12:31:14! Pot right ($72825), flopping/dealing/drawing cards
+! 01/31/19 12:31:14! 3 players, 1 all in
+! 01/31/19 12:31:14! Flopped cards: 6c 5h Jh
+! 01/31/19 12:33:17! Mejjad checks
+! 01/31/19 12:34:31! Daniel Levine checks
+
+! 01/31/19 12:34:31! Pot right ($72825), flopping/dealing/drawing cards
+! 01/31/19 12:34:31! 3 players, 1 all in
+! 01/31/19 12:34:31! Flopped card: 5c
+! 01/31/19 12:36:01! Mejjad checks
+! 01/31/19 12:36:48! Daniel Levine bets $24000 
+! 01/31/19 12:38:22! Mejjad calls 
+
+! 01/31/19 12:38:22! Pot right ($120825), flopping/dealing/drawing cards
+! 01/31/19 12:38:22! 3 players, 1 all in
+! 01/31/19 12:38:22! Flopped card: 10s
+! 01/31/19 12:39:41! Mejjad bets $13500 and is all in
+! 01/31/19 12:41:06! Daniel Levine calls 
+! Hand over, current board is:  6c 5h Jh 5c 10s
+! Daniel Levine            has: Kh Kc
+! skatesave                has: 6s 6d
+! Mejjad                   has: Qh Qc
+! Pot 2: Daniel Levine wins $75000 with Two Pair (K K 5 5 J)
+! Pot 3: skatesave wins $72825 with Full House (6 6 6 5 5)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   JohnnyMac                |  153925 |         |      |    |         |
+ 2|   Johnny Ice               |   67775 |         |      |    |         |
+ 3|   Endrju                   |  123400 |         |      |    |         |
+ 4|   Ninetensuited            |   21900 |         |      |    |         |
+ 5|>  Daniel Levine            |  121250 |         |      |    |         |
+ 6|   Joe Nadeau               |  212650 |         |      |    |         |
+ 7|   skatesave                |   72825 |         |      |    |         |
+ 8|D  Moccasin Johnny Return   |   88700 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Mejjad is eliminated!
+! 288 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c7.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 11
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

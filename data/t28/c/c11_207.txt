@@ -1,0 +1,109 @@
+Subject: [c11.10583] Holdem Game Broadcast Message(*)
+
+! Table c11, Hand 207, Day 85
+
+! Keith Troell checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  Keith Troell             |  114275 |   10300 |      |    |         |
+ 2|   lektoraj                 |  125200 |    1300 |folded|    |         |
+ 3|>  UConn2004                |  318875 |   10300 |      |    |         |
+ 4|   Julie Greenberg          |  119775 |     300 |folded|    |         |
+ 5|   Ira Agins                |   62950 |     300 |folded|    |         |
+ 6|   AlbinoSmurf              |  314050 |     300 |folded|    |         |
+ 7|   Mike Sager               |   92750 |     300 |folded|    |         |
+ 8|   Mrstcao                  |  216625 |     300 |folded|    |         |
+ 9|   GKinz54                  |   99275 |     300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/04/19 06:37:54! Dealing a new hand
+! 02/04/19 06:37:54! Everyone antes $300
+! 02/04/19 06:37:54! lektoraj blinds $1000
+! 02/04/19 06:37:54! UConn2004 blinds $2000
+! 02/04/19 08:26:56! Julie Greenberg folds
+! 02/04/19 08:26:56! Ira Agins folds
+! 02/04/19 09:08:16! AlbinoSmurf folds
+! 02/04/19 09:08:16! Mike Sager folds
+! 02/04/19 09:08:16! Mrstcao folds
+! 02/04/19 09:40:42! GKinz54 folds
+! 02/04/19 09:48:02! Keith Troell raises $2000 to $4000 total 
+! 02/04/19 09:48:02! lektoraj folds
+! 02/04/19 10:10:41! UConn2004 calls 
+
+! 02/04/19 10:10:41! Pot right ($11700), flopping/dealing/drawing cards
+! 02/04/19 10:10:41! 2 players
+! 02/04/19 10:10:41! Flopped cards: Ah 6s 10c
+! 02/04/19 10:11:26! UConn2004 checks
+! 02/04/19 10:19:16! Keith Troell bets $6000 
+! 02/04/19 13:49:40! UConn2004 calls 
+
+! 02/04/19 13:49:40! Pot right ($23700), flopping/dealing/drawing cards
+! 02/04/19 13:49:40! 2 players
+! 02/04/19 13:49:40! Flopped card: Jh
+! 02/04/19 13:51:57! UConn2004 checks
+! 02/04/19 14:30:51! Keith Troell checks
+
+! 02/04/19 14:30:51! Pot right ($23700), flopping/dealing/drawing cards
+! 02/04/19 14:30:51! 2 players
+! 02/04/19 14:30:51! Flopped card: 9c
+! 02/04/19 15:31:09! UConn2004 checks
+! 02/04/19 16:19:22! Keith Troell checks
+! Hand over, current board is:  Ah 6s 10c Jh 9c
+! Keith Troell             has: 9s Jd
+! UConn2004                has: Ad 8d
+! Keith Troell wins $23700 (net $13400) with Two Pair (J J 9 9 A)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Keith Troell             |  137975 |         |      |    |         |
+ 2|D  lektoraj                 |  125200 |         |      |    |         |
+ 3|>  UConn2004                |  318875 |         |      |    |         |
+ 4|   Julie Greenberg          |  119775 |         |      |    |         |
+ 5|   Ira Agins                |   62950 |         |      |    |         |
+ 6|   AlbinoSmurf              |  314050 |         |      |    |         |
+ 7|   Mike Sager               |   92750 |         |      |    |         |
+ 8|   Mrstcao                  |  216625 |         |      |    |         |
+ 9|   GKinz54                  |   99275 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 269 players left in the tournament, 2 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c11.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 10
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,108 @@
+Subject: [c26.10777] Holdem Game Broadcast Message(*)
+
+! Table c26, Hand 230, Day 85
+
+! Ken Anderson calls 
+! Pot right ($153000), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 8s
+! Flopped card: 4h
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Brian Cooper             |   55975 |     200 |folded|    |         |
+ 2|   docdanger                |       0 |   75000 |all-in|    |         |
+ 3|   Firstorlast56            |   62475 |     200 |folded|    |         |
+ 4|   DazedAndConfused         |  138525 |       0 |New   |    |         |
+ 5|   TrayRacer                |   44450 |     200 |folded|    |         |
+ 6|D> Ken Anderson             |  184300 |   75000 |      |    |         |
+ 7|   Josh Moore               |  211400 |     800 |folded|    |         |
+ 8|   Matt Matros              |  209425 |    1400 |folded|    |         |
+ 9|   starrman99               |   78700 |     200 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/03/19 16:03:15! Dealing a new hand
+! 02/03/19 16:03:15! Everyone antes $200
+! 02/03/19 16:03:15! Josh Moore blinds $600
+! 02/03/19 16:03:15! Matt Matros blinds $1200
+! 02/03/19 21:43:26! starrman99 folds
+! 02/03/19 21:43:26! Brian Cooper folds
+! 02/04/19 00:25:07! New player added to the table: DazedAndConfused
+! 02/04/19 05:16:36! docdanger raises $1800 to $3000 total 
+! 02/04/19 05:16:36! Firstorlast56 folds
+! 02/04/19 05:16:36! TrayRacer folds
+! 02/04/19 07:52:06! Ken Anderson calls 
+! 02/04/19 07:53:58! Josh Moore folds
+! 02/04/19 07:53:58! Matt Matros folds
+
+! 02/04/19 07:53:58! Pot right ($9400), flopping/dealing/drawing cards
+! 02/04/19 07:53:58! 2 players
+! 02/04/19 07:53:58! Flopped cards: Kh 4d 8c
+! 02/04/19 09:12:02! docdanger bets $5000 
+! 02/04/19 09:22:14! Ken Anderson raises $10000 to $15000 total 
+! 02/04/19 09:38:13! docdanger raises $56800 to $71800 total and is all in
+! 02/04/19 09:56:59! Ken Anderson calls 
+
+! 02/04/19 09:56:59! Pot right ($153000), flopping/dealing/drawing cards
+! 02/04/19 09:56:59! 2 players, 1 all in
+! 02/04/19 09:56:59! Flopped card: 8s
+! 02/04/19 09:56:59! Flopped card: 4h
+! Hand over, current board is:  Kh 4d 8c 8s 4h
+! docdanger                has: Js Jh
+! Ken Anderson             has: Kc Jc
+! Ken Anderson wins $153000 (net $78000) with Two Pair (K K 8 8 J)
+! Antes and blinds go up
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Brian Cooper             |   55975 |         |      |    |         |
+ 3|   Firstorlast56            |   62475 |         |      |    |         |
+ 4|   DazedAndConfused         |  138525 |         |      |    |         |
+ 5|   TrayRacer                |   44450 |         |      |    |         |
+ 6|>  Ken Anderson             |  337300 |         |      |    |         |
+ 7|D  Josh Moore               |  211400 |         |      |    |         |
+ 8|   Matt Matros              |  209425 |         |      |    |         |
+ 9|   starrman99               |   78700 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! docdanger is eliminated!
+! 269 players left in the tournament, 2 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c26.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

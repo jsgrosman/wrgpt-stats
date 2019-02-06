@@ -1,0 +1,105 @@
+Subject: [c34.10370] Holdem Game Broadcast Message(*)
+
+! Table c34, Hand 179, Day 80
+
+! D-man folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   MOVED breyercalvert      |       0 |     200 |folded|    |         |
+ 2|   MOVED Richard Rognlie    |       0 |     200 |folded|    |         |
+ 3|   MOVED Monika             |       0 |    1400 |folded|    |         |
+ 4|>  D-man                    |   63100 |   79200 |folded|    |         |
+ 5|D  MOVED Steve B            |       0 |     200 |folded|    |         |
+ 6|   AlbinoSmurf              |       0 |  171650 |all-in|    |         |
+ 7|   MOVED Jeff Okamoto       |       0 |    1400 |folded|    |         |
+ 8|   MOVED DrXenonBloom       |       0 |     200 |folded|    |         |
+ 9|   MOVED skatesave          |       0 |     200 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/28/19 21:17:18! Dealing a new hand
+! 01/28/19 21:17:18! Everyone antes $200
+! 01/28/19 21:17:18! AlbinoSmurf blinds $600
+! 01/28/19 21:17:18! Jeff Okamoto blinds $1200
+! 01/28/19 21:32:18! DrXenonBloom folds
+! 01/29/19 01:36:24! skatesave folds
+! 01/29/19 11:22:16! breyercalvert folds
+! 01/29/19 11:22:16! Richard Rognlie folds
+! 01/29/19 12:40:09! Monika calls 
+! 01/29/19 12:55:02! Player leaving table: skatesave
+! 01/29/19 12:55:05! Player leaving table: breyercalvert
+! 01/29/19 12:55:07! Player leaving table: Richard Rognlie
+! 01/29/19 12:55:10! Player leaving table: DrXenonBloom
+! 01/29/19 13:09:08! D-man raises $2400 to $3600 total 
+! 01/29/19 13:09:08! Steve B folds
+! 01/29/19 13:25:03! Player leaving table: Steve B
+! 01/29/19 13:42:45! AlbinoSmurf calls 
+! 01/29/19 14:59:02! Jeff Okamoto folds
+! 01/29/19 15:25:03! Player leaving table: Jeff Okamoto
+! 01/29/19 21:44:38! Monika folds
+
+! 01/29/19 21:44:38! Pot right ($11400), flopping/dealing/drawing cards
+! 01/29/19 21:44:38! 2 players
+! 01/29/19 21:44:38! Flopped cards: 3s 8c 6c
+! 01/29/19 21:55:02! Player leaving table: Monika
+! 01/29/19 22:24:54! AlbinoSmurf bets $5000 
+! 01/30/19 02:12:17! D-man raises $16400 to $21400 total 
+! 01/30/19 06:47:36! AlbinoSmurf calls 
+
+! 01/30/19 06:47:36! Pot right ($54200), flopping/dealing/drawing cards
+! 01/30/19 06:47:36! 2 players
+! 01/30/19 06:47:36! Flopped card: 4s
+! 01/30/19 06:49:23! AlbinoSmurf checks
+! 01/30/19 07:03:51! D-man bets $54000 
+! 01/30/19 07:12:28! AlbinoSmurf raises $92450 to $146450 total and is all in
+! 01/30/19 07:17:58! D-man folds
+! Hand over, no showdown
+! Current board is:  3s 8c 6c 4s ?
+! AlbinoSmurf wins $254650 (net $83000)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 4|>  D-man                    |   63100 |         |      |    |         |
+ 6|D  AlbinoSmurf              |  254650 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 295 players left in the tournament 
+! Table waiting for live reshuffle
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c34.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 11
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

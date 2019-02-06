@@ -1,0 +1,110 @@
+Subject: [c11.10544] Holdem Game Broadcast Message(*)
+
+! Table c11, Hand 203, Day 82
+
+! Mrstcao folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Keith Troell             |  132275 |    2700 |folded|    |         |
+ 2|   lektoraj                 |  128300 |     200 |folded|    |         |
+ 3|   UConn2004                |  326175 |    2700 |folded|    |         |
+ 4|   Julie Greenberg          |  120675 |     200 |folded|    |         |
+ 5|   Ira Agins                |   63850 |     200 |folded|    |         |
+ 6|D  AlbinoSmurf              |       0 |  274150 |all-in|    |         |
+ 7|   Mike Sager               |   93650 |     800 |folded|    |         |
+ 8|>  Mrstcao                  |  203925 |   35500 |folded|    |         |
+ 9|   GKinz54                  |  101975 |     200 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/01/19 11:16:27! Dealing a new hand
+! 02/01/19 11:16:27! Everyone antes $200
+! 02/01/19 11:16:27! Mike Sager blinds $600
+! 02/01/19 11:16:27! Mrstcao blinds $1200
+! 02/01/19 11:18:51! GKinz54 folds
+! 02/01/19 11:45:25! Keith Troell raises $1300 to $2500 total 
+! 02/01/19 12:36:52! lektoraj folds
+! 02/01/19 12:53:08! UConn2004 calls 
+! 02/01/19 13:20:24! Julie Greenberg folds
+! 02/01/19 13:20:24! Ira Agins folds
+! 02/01/19 13:20:24! AlbinoSmurf calls 
+! 02/01/19 13:20:24! Mike Sager folds
+! 02/01/19 13:21:20! Mrstcao calls 
+
+! 02/01/19 13:21:20! Pot right ($12400), flopping/dealing/drawing cards
+! 02/01/19 13:21:20! 4 players
+! 02/01/19 13:21:20! Flopped cards: Kh 5c Ks
+! 02/01/19 13:24:23! Mrstcao bets $5300 
+! 02/01/19 13:39:42! Keith Troell folds
+! 02/01/19 17:40:02! UConn2004 folds
+! 02/01/19 18:05:47! AlbinoSmurf calls 
+
+! 02/01/19 18:05:47! Pot right ($23000), flopping/dealing/drawing cards
+! 02/01/19 18:05:47! 2 players
+! 02/01/19 18:05:47! Flopped card: 9s
+! 02/01/19 18:13:12! Mrstcao bets $13000 
+! 02/01/19 18:32:24! AlbinoSmurf calls 
+
+! 02/01/19 18:32:24! Pot right ($49000), flopping/dealing/drawing cards
+! 02/01/19 18:32:24! 2 players
+! 02/01/19 18:32:24! Flopped card: 3c
+! 02/01/19 18:34:53! Mrstcao bets $14500 
+! 02/01/19 18:39:48! AlbinoSmurf raises $238650 to $253150 total and is all in
+! 02/01/19 21:15:31! Mrstcao folds
+! Hand over, no showdown
+! Current board is:  Kh 5c Ks 9s 3c
+! AlbinoSmurf wins $316650 (net $42500)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Keith Troell             |  132275 |         |      |    |         |
+ 2|   lektoraj                 |  128300 |         |      |    |         |
+ 3|   UConn2004                |  326175 |         |      |    |         |
+ 4|   Julie Greenberg          |  120675 |         |      |    |         |
+ 5|   Ira Agins                |   63850 |         |      |    |         |
+ 6|   AlbinoSmurf              |  316650 |         |      |    |         |
+ 7|D  Mike Sager               |   93650 |         |      |    |         |
+ 8|>  Mrstcao                  |  203925 |         |      |    |         |
+ 9|   GKinz54                  |  101975 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 278 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c11.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 10
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

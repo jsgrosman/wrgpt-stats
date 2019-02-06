@@ -1,0 +1,109 @@
+Subject: [c31.10559] Holdem Game Broadcast Message(*)
+
+! Table c31, Hand 192, Day 82
+
+! SCSI folds
+! Isaac Newton folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|   D-man                    |  104400 |     800 |folded|    |         |
+ 3|   Isaac Newton             |   72525 |    2600 |folded|    |         |
+ 4|   mulligan                 |   64400 |     200 |folded|    |         |
+ 5|   BigBlind                 |  137650 |     200 |folded|    |         |
+ 6|>  feodor                   |   87900 |    6600 |      |    |         |
+ 7|   TomnyO                   |   52125 |     200 |folded|    |         |
+ 8|   TennisGeek               |  227125 |     200 |folded|    |         |
+ 9|D  SCSI                     |   79775 |    2600 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/01/19 12:08:09! Dealing a new hand
+! 02/01/19 12:08:09! Everyone antes $200
+! 02/01/19 12:08:09! D-man blinds $600
+! 02/01/19 12:08:09! Isaac Newton blinds $1200
+! 02/01/19 12:27:57! mulligan folds
+! 02/01/19 12:59:00! BigBlind folds
+! 02/01/19 13:00:09! feodor raises $1200 to $2400 total 
+! 02/01/19 13:00:09! TomnyO folds
+! 02/01/19 13:00:09! TennisGeek folds
+! 02/01/19 13:01:13! SCSI calls 
+! 02/01/19 14:11:15! D-man folds
+! 02/01/19 15:27:18! Isaac Newton calls 
+
+! 02/01/19 15:27:18! Pot right ($9400), flopping/dealing/drawing cards
+! 02/01/19 15:27:18! 3 players
+! 02/01/19 15:27:18! Flopped cards: 6h Kc 3c
+! 02/01/19 15:29:21! Isaac Newton checks
+! 02/01/19 15:42:32! feodor checks
+! 02/01/19 15:46:37! SCSI checks
+
+! 02/01/19 15:46:37! Pot right ($9400), flopping/dealing/drawing cards
+! 02/01/19 15:46:37! 3 players
+! 02/01/19 15:46:37! Flopped card: 2s
+! 02/01/19 15:54:04! Isaac Newton checks
+! 02/01/19 17:35:49! feodor checks
+! 02/01/19 17:56:04! SCSI checks
+
+! 02/01/19 17:56:04! Pot right ($9400), flopping/dealing/drawing cards
+! 02/01/19 17:56:04! 3 players
+! 02/01/19 17:56:04! Flopped card: 4d
+! 02/01/19 18:57:46! Isaac Newton checks
+! 02/01/19 19:09:05! feodor bets $4000 
+! 02/01/19 19:13:45! SCSI folds
+! 02/01/19 19:13:45! Isaac Newton folds
+! Hand over, no showdown
+! Current board is:  6h Kc 3c 2s 4d
+! feodor wins $13400 (net $6800)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|D  D-man                    |  104400 |         |      |    |         |
+ 3|   Isaac Newton             |   72525 |         |      |    |         |
+ 4|   mulligan                 |   64400 |         |      |    |         |
+ 5|   BigBlind                 |  137650 |         |      |    |         |
+ 6|>  feodor                   |  101300 |         |      |    |         |
+ 7|   TomnyO                   |   52125 |         |      |    |         |
+ 8|   TennisGeek               |  227125 |         |      |    |         |
+ 9|   SCSI                     |   79775 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 278 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c31.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 10
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

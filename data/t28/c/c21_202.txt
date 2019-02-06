@@ -1,0 +1,101 @@
+Subject: [c21.10631] Holdem Game Broadcast Message(*)
+
+! Table c21, Hand 202, Day 83
+
+! dgr calls 
+! Pot right ($69550), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped cards: Jh Ad 4c
+! Flopped card: 10s
+! Flopped card: Qc
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Andy Pierce              |   49825 |     200 |folded|    |         |
+ 2|D  sgranen                  |  141175 |     200 |folded|    |         |
+ 4|   Ace Squared              |   34000 |     800 |folded|    |         |
+ 5|>  dgr                      |   54025 |   30775 |      |    |         |
+ 6|   Polar85                  |       0 |   30775 |all-in|    |         |
+ 7|   acadonnelly              |   35950 |     200 |folded|    |         |
+ 8|   Donald Neilson           |  282325 |    6400 |folded|    |         |
+ 9|   JRX                      |   74150 |     200 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/01/19 22:48:33! Dealing a new hand
+! 02/01/19 22:48:33! Everyone antes $200
+! 02/01/19 22:48:33! Ace Squared blinds $600
+! 02/01/19 22:48:33! dgr blinds $1200
+! 02/01/19 22:53:15! Polar85 raises $5000 to $6200 total 
+! 02/02/19 12:16:09! acadonnelly folds
+! 02/02/19 12:37:33! Donald Neilson calls 
+! 02/02/19 12:37:33! JRX folds
+! 02/02/19 12:37:33! Andy Pierce folds
+! 02/02/19 13:54:30! sgranen folds
+! 02/02/19 13:54:30! Ace Squared folds
+! 02/02/19 14:06:19! dgr raises $7400 to $13600 total 
+! 02/02/19 14:40:18! Polar85 raises $16975 to $30575 total and is all in
+! 02/02/19 14:40:18! Donald Neilson folds
+! 02/02/19 14:44:19! dgr calls 
+
+! 02/02/19 14:44:19! Pot right ($69550), flopping/dealing/drawing cards
+! 02/02/19 14:44:19! 2 players, 1 all in
+! 02/02/19 14:44:19! Flopped cards: Jh Ad 4c
+! 02/02/19 14:44:19! Flopped card: 10s
+! 02/02/19 14:44:19! Flopped card: Qc
+! Hand over, current board is:  Jh Ad 4c 10s Qc
+! dgr                      has: 8d 8c
+! Polar85                  has: Ks Ah
+! Polar85 wins $69550 (net $38775) with Straight (A K Q J 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Andy Pierce              |   49825 |         |      |    |         |
+ 2|   sgranen                  |  141175 |         |      |    |         |
+ 4|D  Ace Squared              |   34000 |         |      |    |         |
+ 5|>  dgr                      |   54025 |         |      |    |         |
+ 6|   Polar85                  |   69550 |         |      |    |         |
+ 7|   acadonnelly              |   35950 |         |      |    |         |
+ 8|   Donald Neilson           |  282325 |         |      |    |         |
+ 9|   JRX                      |   74150 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 276 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c21.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 12
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

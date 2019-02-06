@@ -1,0 +1,110 @@
+Subject: [c19.10464] Holdem Game Broadcast Message(*)
+
+! Table c19, Hand 188, Day 82
+
+! Desmontes calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Fred Garvin              |   90375 |     200 |folded|    |         |
+ 2|   MTpotts                  |   51650 |     200 |folded|    |         |
+ 3|   bluecandy                |   50350 |     200 |folded|    |         |
+ 4|   The Llama                |   43675 |     200 |folded|    |         |
+ 5|   Steve Zagieboylo         |  499125 |    6200 |folded|    |         |
+ 6|   dubldown                 |   60200 |     200 |folded|    |         |
+ 7|D  Desmontes                |   80075 |   41200 |      |    |         |
+ 8|>  BamaAlum97               |   31550 |   41200 |      |    |         |
+ 9|   StingRay                 |  103200 |    1400 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/31/19 13:00:47! Dealing a new hand
+! 01/31/19 13:00:47! Everyone antes $200
+! 01/31/19 13:00:47! BamaAlum97 blinds $600
+! 01/31/19 13:00:47! StingRay blinds $1200
+! 01/31/19 13:03:35! Fred Garvin folds
+! 01/31/19 14:12:42! MTpotts folds
+! 01/31/19 14:47:30! bluecandy folds
+! 01/31/19 14:47:30! The Llama folds
+! 01/31/19 15:32:59! Steve Zagieboylo raises $4800 to $6000 total 
+! 02/01/19 05:12:47! dubldown folds
+! 02/01/19 05:16:21! Desmontes calls 
+! 02/01/19 05:30:06! BamaAlum97 calls 
+! 02/01/19 05:39:47! StingRay folds
+
+! 02/01/19 05:39:47! Pot right ($21000), flopping/dealing/drawing cards
+! 02/01/19 05:39:47! 3 players
+! 02/01/19 05:39:47! Flopped cards: 7d 6c 10h
+! 02/01/19 06:06:45! BamaAlum97 checks
+! 02/01/19 06:30:53! Steve Zagieboylo checks
+! 02/01/19 06:44:19! Desmontes checks
+
+! 02/01/19 06:44:19! Pot right ($21000), flopping/dealing/drawing cards
+! 02/01/19 06:44:19! 3 players
+! 02/01/19 06:44:19! Flopped card: 8c
+! 02/01/19 07:57:53! BamaAlum97 bets $10000 
+! 02/01/19 08:05:39! Steve Zagieboylo folds
+! 02/01/19 08:12:04! Desmontes calls 
+
+! 02/01/19 08:12:04! Pot right ($41000), flopping/dealing/drawing cards
+! 02/01/19 08:12:04! 2 players
+! 02/01/19 08:12:04! Flopped card: 3h
+! 02/01/19 08:13:23! BamaAlum97 bets $25000 
+! 02/01/19 08:14:21! Desmontes calls 
+! Hand over, current board is:  7d 6c 10h 8c 3h
+! Desmontes                has: Ad 8d
+! BamaAlum97               has: 7s 7h
+! BamaAlum97 wins $91000 (net $49800) with Three of a Kind (7 7 7 10 8)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Fred Garvin              |   90375 |         |      |    |         |
+ 2|   MTpotts                  |   51650 |         |      |    |         |
+ 3|   bluecandy                |   50350 |         |      |    |         |
+ 4|   The Llama                |   43675 |         |      |    |         |
+ 5|   Steve Zagieboylo         |  499125 |         |      |    |         |
+ 6|   dubldown                 |   60200 |         |      |    |         |
+ 7|   Desmontes                |   80075 |         |      |    |         |
+ 8|D> BamaAlum97               |  122550 |         |      |    |         |
+ 9|   StingRay                 |  103200 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 280 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c19.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,110 @@
+Subject: [c15.10458] Holdem Game Broadcast Message(*)
+
+! Table c15, Hand 186, Day 80
+
+! MarinaMan calls - side pot
+! Pot right ($123700), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped card: 6h
+! Flopped card: 3s
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Scott Ziegler            |   30325 |     200 |folded|    |         |
+ 2|   Alvin Chipmunk           |       0 |   65950 |all-in|  1 |   18400 |
+ 3|D  WhyImHere                |   99250 |     200 |folded|    |         |
+ 4|   J. Michael Hammond       |   43450 |     800 |folded|    |         |
+ 5|   Wally F                  |  102225 |    1400 |folded|    |         |
+ 6|   Morgan                   |   54600 |    7200 |folded|    |         |
+ 7|   asypta                   |   59700 |     200 |folded|    |         |
+ 8|>  MarinaMan                |       0 |   47550 |all-in|  2 |  105300 |
+ 9|   Chris Danek              |  118850 |     200 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/30/19 04:14:36! Dealing a new hand
+! 01/30/19 04:14:36! Everyone antes $200
+! 01/30/19 04:14:36! J. Michael Hammond blinds $600
+! 01/30/19 04:14:36! Wally F blinds $1200
+! 01/30/19 04:21:43! Morgan raises $1800 to $3000 total 
+! 01/30/19 07:03:03! asypta folds
+! 01/30/19 09:04:39! MarinaMan raises $4000 to $7000 total 
+! 01/30/19 11:23:47! Chris Danek folds
+! 01/30/19 11:23:47! Scott Ziegler folds
+! 01/30/19 11:23:47! Alvin Chipmunk calls 
+! 01/30/19 11:23:47! WhyImHere folds
+! 01/30/19 11:23:47! J. Michael Hammond folds
+! 01/30/19 11:23:47! Wally F folds
+! 01/30/19 11:24:20! Morgan calls 
+
+! 01/30/19 11:24:20! Pot right ($24600), flopping/dealing/drawing cards
+! 01/30/19 11:24:20! 3 players
+! 01/30/19 11:24:20! Flopped cards: Ad 5h 8d
+! 01/30/19 11:27:44! Morgan checks
+! 01/30/19 11:49:45! MarinaMan bets $8000 
+! 01/30/19 11:59:31! Alvin Chipmunk raises $50750 to $58750 total and is all in
+! 01/30/19 12:13:49! Morgan folds
+! 01/30/19 12:37:51! MarinaMan calls - side pot
+
+! 01/30/19 12:37:51! Pot right ($123700), flopping/dealing/drawing cards
+! 01/30/19 12:37:51! 2 players, 2 all in
+! 01/30/19 12:37:51! Flopped card: 6h
+! 01/30/19 12:37:51! Flopped card: 3s
+! Hand over, current board is:  Ad 5h 8d 6h 3s
+! Alvin Chipmunk           has: As Kh
+! MarinaMan                has: 9d 9c
+! Pot 1: uncalled $18400 returned to Alvin Chipmunk
+! Pot 2: Alvin Chipmunk wins $105300 with One Pair (A A K 8 6)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Scott Ziegler            |   30325 |         |      |    |         |
+ 2|   Alvin Chipmunk           |  123700 |         |      |    |         |
+ 3|   WhyImHere                |   99250 |         |      |    |         |
+ 4|D  J. Michael Hammond       |   43450 |         |      |    |         |
+ 5|   Wally F                  |  102225 |         |      |    |         |
+ 6|   Morgan                   |   54600 |         |      |    |         |
+ 7|   asypta                   |   59700 |         |      |    |         |
+ 9|   Chris Danek              |  118850 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! MarinaMan is eliminated!
+! 293 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c15.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 3
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

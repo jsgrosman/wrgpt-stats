@@ -1,0 +1,109 @@
+Subject: [c17.10286] Holdem Game Broadcast Message(*)
+
+! Table c17, Hand 169, Day 81
+
+! micwso calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Loboc                    |   36650 |     200 |folded|    |         |
+ 2|   Pete McEvoy              |   18550 |     200 |folded|    |         |
+ 3|>  micwso                   |   79250 |   39325 |      |    |         |
+ 4|   zipper                   |   32850 |     200 |folded|    |         |
+ 5|D  Dan Duncan               |   29200 |     200 |folded|    |         |
+ 6|   ADB Jaeger               |   48550 |     800 |folded|    |         |
+ 7|   coming                   |       0 |   39325 |all-in|    |         |
+ 8|   poohbear                 |  113550 |     200 |folded|    |         |
+ 9|   Virginia Slims           |   58650 |     200 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/31/19 12:37:38! Dealing a new hand
+! 01/31/19 12:37:38! Everyone antes $200
+! 01/31/19 12:37:38! ADB Jaeger blinds $600
+! 01/31/19 12:37:38! coming blinds $1200
+! 01/31/19 14:10:59! poohbear folds
+! 01/31/19 14:10:59! Virginia Slims folds
+! 01/31/19 15:27:21! Loboc folds
+! 01/31/19 15:33:30! Pete McEvoy folds
+! 01/31/19 15:42:21! micwso raises $1200 to $2400 total 
+! 01/31/19 18:45:44! zipper folds
+! 01/31/19 18:45:44! Dan Duncan folds
+! 01/31/19 19:38:50! ADB Jaeger folds
+! 01/31/19 20:46:57! coming calls 
+
+! 01/31/19 20:46:57! Pot right ($7200), flopping/dealing/drawing cards
+! 01/31/19 20:46:57! 2 players
+! 01/31/19 20:46:57! Flopped cards: 8d 3h 10c
+! 01/31/19 20:52:45! coming bets $5000 
+! 01/31/19 21:36:50! micwso calls 
+
+! 01/31/19 21:36:50! Pot right ($17200), flopping/dealing/drawing cards
+! 01/31/19 21:36:50! 2 players
+! 01/31/19 21:36:50! Flopped card: 9s
+! 01/31/19 21:47:57! coming checks
+! 01/31/19 21:49:32! micwso bets $5000 
+! 01/31/19 22:10:26! coming calls 
+
+! 01/31/19 22:10:26! Pot right ($27200), flopping/dealing/drawing cards
+! 01/31/19 22:10:26! 2 players
+! 01/31/19 22:10:26! Flopped card: Kh
+! 01/31/19 22:17:48! coming bets $26725 and is all in
+! 01/31/19 22:19:06! micwso calls 
+! Hand over, current board is:  8d 3h 10c 9s Kh
+! micwso                   has: As Ac
+! coming                   has: Ah Kc
+! micwso wins $80650 (net $41325) with One Pair (A A K 10 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Loboc                    |   36650 |         |      |    |         |
+ 2|   Pete McEvoy              |   18550 |         |      |    |         |
+ 3|>  micwso                   |  159900 |         |      |    |         |
+ 4|   zipper                   |   32850 |         |      |    |         |
+ 5|   Dan Duncan               |   29200 |         |      |    |         |
+ 6|D  ADB Jaeger               |   48550 |         |      |    |         |
+ 8|   poohbear                 |  113550 |         |      |    |         |
+ 9|   Virginia Slims           |   58650 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! coming is eliminated!
+! 282 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c17.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 5
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

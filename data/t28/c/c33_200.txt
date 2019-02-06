@@ -1,0 +1,113 @@
+Subject: [c33.10739] Holdem Game Broadcast Message(*)
+
+! Table c33, Hand 200, Day 81
+
+! SteedCarson calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D> BigBlind                 |   60250 |   34400 |      |    |         |
+ 2|   Scot Wolfington          |  106100 |     800 |folded|    |         |
+ 3|   Walter Hunt              |   49500 |    1400 |folded|    |         |
+ 4|   Poker Coach              |  167075 |     200 |folded|    |         |
+ 5|   John Senger              |  122325 |     200 |folded|    |         |
+ 6|   Bryan Juliano            |   31200 |     200 |folded|    |         |
+ 7|   SteedCarson              |  257200 |   34400 |      |    |         |
+ 8|   Michael                  |   44050 |    6400 |folded|    |         |
+ 9|   Big Stack Bryan          |   14175 |     200 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/30/19 14:18:31! Dealing a new hand
+! 01/30/19 14:18:31! Everyone antes $200
+! 01/30/19 14:18:31! Scot Wolfington blinds $600
+! 01/30/19 14:18:31! Walter Hunt blinds $1200
+! 01/30/19 14:29:00! Poker Coach folds
+! 01/30/19 14:52:01! John Senger folds
+! 01/30/19 14:52:01! Bryan Juliano is on vacation and folds
+! 01/30/19 15:14:26! Bryan Juliano is back from vacation
+! 01/30/19 15:20:56! SteedCarson raises $1800 to $3000 total 
+! 01/30/19 15:23:45! Michael calls 
+! 01/30/19 15:58:40! Big Stack Bryan folds
+! 01/30/19 17:37:55! BigBlind calls 
+! 01/30/19 17:59:30! Scot Wolfington folds
+! 01/30/19 17:59:30! Walter Hunt folds
+
+! 01/30/19 17:59:30! Pot right ($12600), flopping/dealing/drawing cards
+! 01/30/19 17:59:30! 3 players
+! 01/30/19 17:59:30! Flopped cards: Kc 4d 3h
+! 01/30/19 18:11:38! SteedCarson checks
+! 01/30/19 18:12:41! Michael checks
+! 01/30/19 18:55:48! BigBlind checks
+
+! 01/30/19 18:55:48! Pot right ($12600), flopping/dealing/drawing cards
+! 01/30/19 18:55:48! 3 players
+! 01/30/19 18:55:48! Flopped card: 10d
+! 01/30/19 19:46:57! SteedCarson bets $3200 
+! 01/30/19 19:58:10! Michael calls 
+! 01/31/19 04:08:33! BigBlind calls 
+
+! 01/31/19 04:08:33! Pot right ($22200), flopping/dealing/drawing cards
+! 01/31/19 04:08:33! 3 players
+! 01/31/19 04:08:33! Flopped card: 7h
+! 01/31/19 05:56:49! SteedCarson bets $8000 
+! 01/31/19 06:42:01! Michael folds
+! 01/31/19 06:54:02! BigBlind raises $20000 to $28000 total 
+! 01/31/19 07:23:36! SteedCarson calls 
+! Hand over, current board is:  Kc 4d 3h 10d 7h
+! BigBlind                 has: 4c 3c
+! SteedCarson              has: Ad Kd
+! BigBlind wins $78200 (net $43800) with Two Pair (4 4 3 3 K)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  BigBlind                 |  138450 |         |      |    |         |
+ 2|D  Scot Wolfington          |  106100 |         |      |    |         |
+ 3|   Walter Hunt              |   49500 |         |      |    |         |
+ 4|   Poker Coach              |  167075 |         |      |    |         |
+ 5|   John Senger              |  122325 |         |      |    |         |
+ 6|   Bryan Juliano            |   31200 |         |      |    |         |
+ 7|   SteedCarson              |  257200 |         |      |    |         |
+ 8|   Michael                  |   44050 |         |      |    |         |
+ 9|   Big Stack Bryan          |   14175 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 287 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c33.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 10
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

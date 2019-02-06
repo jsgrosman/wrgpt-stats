@@ -1,0 +1,103 @@
+Subject: [c27.10452] Holdem Game Broadcast Message(*)
+
+! Table c27, Hand 191, Day 82
+
+! DocOber checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  888                      |  106800 |    5400 |      |    |         |
+ 2|   SCM                      |   38675 |    1400 |folded|    |         |
+ 3|   Dennis Roberts           |  121275 |     200 |folded|    |         |
+ 4|   Nitcast                  |   99150 |     200 |folded|    |         |
+ 5|   Andrew Nelson            |   82950 |     200 |folded|    |         |
+ 6|   StewieG                  |   91300 |     200 |folded|    |         |
+ 9|D  DocOber                  |  127500 |    5400 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/01/19 02:06:55! Dealing a new hand
+! 02/01/19 02:06:55! Everyone antes $200
+! 02/01/19 02:06:55! 888 blinds $600
+! 02/01/19 02:06:55! SCM blinds $1200
+! 02/01/19 08:46:12! Dennis Roberts folds
+! 02/01/19 08:46:12! Nitcast folds
+! 02/01/19 08:46:12! Andrew Nelson folds
+! 02/01/19 09:50:46! StewieG folds
+! 02/01/19 10:05:28! DocOber raises $2000 to $3200 total 
+! 02/01/19 10:15:15! 888 calls 
+! 02/01/19 10:33:06! SCM folds
+
+! 02/01/19 10:33:06! Pot right ($9000), flopping/dealing/drawing cards
+! 02/01/19 10:33:06! 2 players
+! 02/01/19 10:33:06! Flopped cards: 10d Qh 9h
+! 02/01/19 10:44:35! 888 checks
+! 02/01/19 10:58:07! DocOber checks
+
+! 02/01/19 10:58:07! Pot right ($9000), flopping/dealing/drawing cards
+! 02/01/19 10:58:07! 2 players
+! 02/01/19 10:58:07! Flopped card: 8d
+! 02/01/19 11:06:15! 888 checks
+! 02/01/19 11:08:52! DocOber bets $2000 
+! 02/01/19 11:44:45! 888 calls 
+
+! 02/01/19 11:44:45! Pot right ($13000), flopping/dealing/drawing cards
+! 02/01/19 11:44:45! 2 players
+! 02/01/19 11:44:45! Flopped card: Jd
+! 02/01/19 13:45:34! 888 checks
+! 02/01/19 14:08:47! DocOber checks
+! Hand over, current board is:  10d Qh 9h 8d Jd
+! 888                      has: 6d 6c
+! DocOber                  has: Ks Kc
+! DocOber wins $13000 (net $7600) with Straight (K Q J 10 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D> 888                      |  106800 |         |      |    |         |
+ 2|   SCM                      |   38675 |         |      |    |         |
+ 3|   Dennis Roberts           |  121275 |         |      |    |         |
+ 4|   Nitcast                  |   99150 |         |      |    |         |
+ 5|   Andrew Nelson            |   82950 |         |      |    |         |
+ 6|   StewieG                  |   91300 |         |      |    |         |
+ 9|   DocOber                  |  140500 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 279 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c27.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

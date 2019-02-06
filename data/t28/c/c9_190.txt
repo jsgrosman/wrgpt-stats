@@ -1,0 +1,106 @@
+Subject: [c9.10491] Holdem Game Broadcast Message(*)
+
+! Table c9, Hand 190, Day 85
+
+! Rkal folds
+! Pot right ($83200), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped card: 4s
+! Flopped card: 7h
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   ddppmm                   |   48050 |     300 |folded|    |         |
+ 2|   Nathan Zuercher          |       0 |   13875 |all-in|  3 |   44425 |
+ 3|>  Rkal                     |   79925 |   13875 |folded|    |         |
+ 4|V  Taki                     |   31400 |     300 |   Too|    |         |
+ 5|   Steb                     |  123150 |     300 |folded|    |         |
+ 6|   CAB                      |  141650 |     300 |folded|    |         |
+ 7|D  tristero                 |   44725 |     300 |folded|    |         |
+ 8|   Stubey                   |  167700 |    1300 |folded|    |         |
+ 9|   Michael                  |       0 |   52650 |all-in|  1 |   38775 |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/04/19 08:30:04! Dealing a new hand
+! 02/04/19 08:30:04! Everyone antes $300
+! 02/04/19 08:30:04! Stubey blinds $1000
+! 02/04/19 08:30:04! Michael blinds $2000
+! 02/04/19 09:36:58! ddppmm folds
+! 02/04/19 09:36:58! Nathan Zuercher raises $11575 to $13575 total and is all in
+! 02/04/19 09:45:49! Rkal calls 
+! 02/04/19 09:45:49! Taki is on vacation and folds
+! 02/04/19 09:49:35! Steb folds
+! 02/04/19 11:04:54! CAB folds
+! 02/04/19 11:04:54! tristero folds
+! 02/04/19 13:32:50! Stubey folds
+! 02/04/19 13:48:18! Michael calls 
+
+! 02/04/19 13:48:18! Pot right ($44425), flopping/dealing/drawing cards
+! 02/04/19 13:48:18! 3 players, 1 all in
+! 02/04/19 13:48:18! Flopped cards: 4d 8d 8c
+! 02/04/19 13:49:29! Michael bets $38775 and is all in
+! 02/04/19 14:16:40! Rkal folds
+
+! 02/04/19 14:16:40! Pot right ($83200), flopping/dealing/drawing cards
+! 02/04/19 14:16:40! 2 players, 2 all in
+! 02/04/19 14:16:40! Flopped card: 4s
+! 02/04/19 14:16:40! Flopped card: 7h
+! Hand over, current board is:  4d 8d 8c 4s 7h
+! Nathan Zuercher          has: Ks Kd
+! Michael                  has: Jd 10d
+! Pot 1: uncalled $38775 returned to Michael
+! Pot 3: Nathan Zuercher wins $44425 with Two Pair (K K 8 8 7)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   ddppmm                   |   48050 |         |      |    |         |
+ 2|   Nathan Zuercher          |   44425 |         |      |    |         |
+ 3|>  Rkal                     |   79925 |         |      |    |         |
+ 4|V  Taki                     |   31400 |         |   Too|    |         |
+ 5|   Steb                     |  123150 |         |      |    |         |
+ 6|   CAB                      |  141650 |         |      |    |         |
+ 7|   tristero                 |   44725 |         |      |    |         |
+ 8|D  Stubey                   |  167700 |         |      |    |         |
+ 9|   Michael                  |   38775 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 269 players left in the tournament, 2 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c9.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 10
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

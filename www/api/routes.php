@@ -13,14 +13,8 @@ use wrgpt\controller\PlayerController;
 
 require '../../vendor/autoload.php';
 
-error_log('rewritten!!!!');
-error_log(print_r($_SERVER, true));
-
 $app = new \Slim\App;
 $app->get('/players/{name}', function (Request $request, Response $response, array $args) {
-    error_log('/api/players/name');
-
-
     $name = $args['name'];
     $playerController = new PlayerController();
     $playerView = $playerController->getPlayer($name);
@@ -28,6 +22,19 @@ $app->get('/players/{name}', function (Request $request, Response $response, arr
     return $response->withStatus(200)
         ->withHeader('Content-Type', 'application/json')
         ->write(json_encode($playerView));
+});
+
+$app->get('/tournaments/{tournamentNum}/hands/{handName}', function (Request $request, Response $response, array $args) {
+    $tournament = $args['tournamentNum'];
+    $handName = $args['handName'];
+    $round = substr($handName,0, 1);
+
+    $filename = __DIR__ . "/../../data/${tournament}/${round}/${handName}.txt";
+    $hand = file_get_contents($filename);
+
+    return $response->withStatus(200)
+        ->withHeader('Content-Type', 'text/plain')
+        ->write($hand);
 });
 
 $app->get('/players', function (Request $request, Response $response, array $args) {

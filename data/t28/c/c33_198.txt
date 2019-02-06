@@ -1,0 +1,109 @@
+Subject: [c33.10710] Holdem Game Broadcast Message(*)
+
+! Table c33, Hand 198, Day 80
+
+! SteedCarson checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  BigBlind                 |   80450 |    6500 |      |    |         |
+ 2|   Scot Wolfington          |  108300 |     200 |folded|    |         |
+ 3|   Walter Hunt              |   51100 |     200 |folded|    |         |
+ 4|   Poker Coach              |  167475 |     200 |folded|    |         |
+ 5|   John Senger              |  122725 |     200 |folded|    |         |
+ 6|V  Bryan Juliano            |   31600 |     200 |<AWOL>|    |         |
+ 7|   SteedCarson              |  294800 |    6500 |      |    |         |
+ 8|D  Michael                  |   50650 |     200 |folded|    |         |
+ 9|   Big Stack Bryan          |    7975 |     800 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/30/19 06:51:29! Dealing a new hand
+! 01/30/19 06:51:29! Everyone antes $200
+! 01/30/19 06:51:29! Big Stack Bryan blinds $600
+! 01/30/19 06:51:29! BigBlind blinds $1200
+! 01/30/19 08:00:41! Scot Wolfington folds
+! 01/30/19 08:00:41! Walter Hunt folds
+! 01/30/19 08:00:41! Poker Coach folds
+! 01/30/19 08:43:33! John Senger folds
+! 01/30/19 08:43:33! Bryan Juliano is on vacation and folds
+! 01/30/19 09:27:14! SteedCarson raises $1800 to $3000 total 
+! 01/30/19 09:27:14! Michael folds
+! 01/30/19 09:55:41! Big Stack Bryan folds
+! 01/30/19 10:12:00! BigBlind calls 
+
+! 01/30/19 10:12:00! Pot right ($8400), flopping/dealing/drawing cards
+! 01/30/19 10:12:00! 2 players
+! 01/30/19 10:12:00! Flopped cards: 8h 9c Jd
+! 01/30/19 10:15:12! BigBlind checks
+! 01/30/19 10:18:22! SteedCarson checks
+
+! 01/30/19 10:18:22! Pot right ($8400), flopping/dealing/drawing cards
+! 01/30/19 10:18:22! 2 players
+! 01/30/19 10:18:22! Flopped card: Ks
+! 01/30/19 10:39:48! BigBlind checks
+! 01/30/19 10:51:14! SteedCarson bets $3300 
+! 01/30/19 10:57:45! BigBlind calls 
+
+! 01/30/19 10:57:45! Pot right ($15000), flopping/dealing/drawing cards
+! 01/30/19 10:57:45! 2 players
+! 01/30/19 10:57:45! Flopped card: Jh
+! 01/30/19 10:58:27! BigBlind checks
+! 01/30/19 11:24:51! SteedCarson checks
+! Hand over, current board is:  8h 9c Jd Ks Jh
+! BigBlind                 has: Qd 5d
+! SteedCarson              has: 3s 2c
+! BigBlind wins $15000 (net $8500) with One Pair (J J K Q 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  BigBlind                 |   95450 |         |      |    |         |
+ 2|   Scot Wolfington          |  108300 |         |      |    |         |
+ 3|   Walter Hunt              |   51100 |         |      |    |         |
+ 4|   Poker Coach              |  167475 |         |      |    |         |
+ 5|   John Senger              |  122725 |         |      |    |         |
+ 6|V  Bryan Juliano            |   31600 |         |<AWOL>|    |         |
+ 7|   SteedCarson              |  294800 |         |      |    |         |
+ 8|   Michael                  |   50650 |         |      |    |         |
+ 9|D  Big Stack Bryan          |    7975 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 294 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c33.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 3
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

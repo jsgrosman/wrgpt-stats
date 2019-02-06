@@ -1,0 +1,108 @@
+Subject: [c13.10576] Holdem Game Broadcast Message(*)
+
+! Table c13, Hand 202, Day 84
+
+! David Weiss folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   AveCat                   |   72350 |     200 |folded|    |         |
+ 2|   Thomas Sims              |  125000 |     200 |folded|    |         |
+ 3|D  David Weiss              |  108825 |   11200 |folded|    |         |
+ 5|   Larry W                  |   43525 |     800 |folded|    |         |
+ 6|>  TheTwizz                 |   45300 |   26200 |      |    |         |
+ 7|   Spidurman                |  102225 |     200 |folded|    |         |
+ 8|   Deets                    |   29800 |     200 |folded|    |         |
+ 9|   bert_ofcl                |   76075 |   11200 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/03/19 05:29:59! Dealing a new hand
+! 02/03/19 05:29:59! Everyone antes $200
+! 02/03/19 05:29:59! Larry W blinds $600
+! 02/03/19 05:29:59! TheTwizz blinds $1200
+! 02/03/19 07:30:40! Spidurman folds
+! 02/03/19 07:30:40! Deets folds
+! 02/03/19 10:36:07! bert_ofcl raises $1800 to $3000 total 
+! 02/03/19 10:59:03! AveCat folds
+! 02/03/19 10:59:03! Thomas Sims folds
+! 02/03/19 11:06:48! David Weiss calls 
+! 02/03/19 11:06:48! Larry W folds
+! 02/03/19 11:51:24! TheTwizz calls 
+
+! 02/03/19 11:51:24! Pot right ($11200), flopping/dealing/drawing cards
+! 02/03/19 11:51:24! 3 players
+! 02/03/19 11:51:24! Flopped cards: 10h 8c 10s
+! 02/03/19 11:52:01! TheTwizz checks
+! 02/03/19 12:18:41! bert_ofcl bets $8000 
+! 02/03/19 12:47:50! David Weiss calls 
+! 02/03/19 12:48:42! TheTwizz calls 
+
+! 02/03/19 12:48:42! Pot right ($35200), flopping/dealing/drawing cards
+! 02/03/19 12:48:42! 3 players
+! 02/03/19 12:48:42! Flopped card: 4d
+! 02/03/19 12:50:08! TheTwizz checks
+! 02/03/19 14:49:04! bert_ofcl checks
+! 02/03/19 14:49:04! David Weiss checks
+
+! 02/03/19 14:49:04! Pot right ($35200), flopping/dealing/drawing cards
+! 02/03/19 14:49:04! 3 players
+! 02/03/19 14:49:04! Flopped card: 5h
+! 02/03/19 14:55:40! TheTwizz bets $15000 
+! 02/03/19 14:57:15! bert_ofcl folds
+! 02/03/19 15:22:54! David Weiss folds
+! Hand over, no showdown
+! Current board is:  10h 8c 10s 4d 5h
+! TheTwizz wins $50200 (net $24000)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   AveCat                   |   72350 |         |      |    |         |
+ 2|   Thomas Sims              |  125000 |         |      |    |         |
+ 3|   David Weiss              |  108825 |         |      |    |         |
+ 5|D  Larry W                  |   43525 |         |      |    |         |
+ 6|>  TheTwizz                 |   95500 |         |      |    |         |
+ 7|   Spidurman                |  102225 |         |      |    |         |
+ 8|   Deets                    |   29800 |         |      |    |         |
+ 9|   bert_ofcl                |   76075 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 276 players left in the tournament, 2 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c13.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 14
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

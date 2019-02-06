@@ -1,0 +1,109 @@
+Subject: [c31.10503] Holdem Game Broadcast Message(*)
+
+! Table c31, Hand 188, Day 80
+
+! TennisGeek calls 
+! Pot right ($76850), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 7h
+! Flopped card: 5c
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Brian Huss               |  111650 |     200 |folded|    |         |
+ 2|   D-man                    |   58900 |    4200 |folded|    |         |
+ 3|   Isaac Newton             |   75725 |     200 |folded|    |         |
+ 4|   mulligan                 |   68500 |     200 |folded|    |         |
+ 5|D  Rugratbbc                |       0 |   33425 |all-in|    |         |
+ 6|   feodor                   |  105600 |     800 |folded|    |         |
+ 7|   TomnyO                   |   56225 |    4200 |folded|    |         |
+ 8|>  TennisGeek               |   56825 |   33425 |      |    |         |
+ 9|   SCSI                     |   90775 |     200 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/30/19 10:46:42! Dealing a new hand
+! 01/30/19 10:46:42! Everyone antes $200
+! 01/30/19 10:46:42! feodor blinds $600
+! 01/30/19 10:46:42! TomnyO blinds $1200
+! 01/30/19 11:41:54! TennisGeek raises $2800 to $4000 total 
+! 01/30/19 11:41:54! SCSI folds
+! 01/30/19 11:43:29! Brian Huss folds
+! 01/30/19 11:45:28! D-man calls 
+! 01/30/19 12:10:35! Isaac Newton folds
+! 01/30/19 12:10:35! mulligan folds
+! 01/30/19 12:33:07! Rugratbbc calls 
+! 01/30/19 14:06:27! feodor folds
+! 01/30/19 14:17:39! TomnyO calls 
+
+! 01/30/19 14:17:39! Pot right ($18400), flopping/dealing/drawing cards
+! 01/30/19 14:17:39! 4 players
+! 01/30/19 14:17:39! Flopped cards: 6h 10d Ah
+! 01/30/19 14:19:05! TomnyO checks
+! 01/30/19 14:54:52! TennisGeek bets $18400 
+! 01/30/19 14:57:38! D-man folds
+! 01/30/19 15:01:34! Rugratbbc raises $10825 to $29225 total and is all in
+! 01/30/19 15:03:22! TomnyO folds
+! 01/30/19 15:29:04! TennisGeek calls 
+
+! 01/30/19 15:29:04! Pot right ($76850), flopping/dealing/drawing cards
+! 01/30/19 15:29:04! 2 players, 1 all in
+! 01/30/19 15:29:04! Flopped card: 7h
+! 01/30/19 15:29:04! Flopped card: 5c
+! Hand over, current board is:  6h 10d Ah 7h 5c
+! Rugratbbc                has: As 3s
+! TennisGeek               has: Qs Ad
+! TennisGeek wins $76850 (net $43425) with One Pair (A A Q 10 7)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Brian Huss               |  111650 |         |      |    |         |
+ 2|   D-man                    |   58900 |         |      |    |         |
+ 3|   Isaac Newton             |   75725 |         |      |    |         |
+ 4|   mulligan                 |   68500 |         |      |    |         |
+ 6|D  feodor                   |  105600 |         |      |    |         |
+ 7|   TomnyO                   |   56225 |         |      |    |         |
+ 8|>  TennisGeek               |  133675 |         |      |    |         |
+ 9|   SCSI                     |   90775 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Rugratbbc is eliminated!
+! 292 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c31.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 4
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

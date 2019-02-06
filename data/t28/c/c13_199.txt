@@ -1,0 +1,107 @@
+Subject: [c13.10545] Holdem Game Broadcast Message(*)
+
+! Table c13, Hand 199, Day 82
+
+! AveCat calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   AveCat                   |   72950 |   18400 |      |    |         |
+ 2|>  Thomas Sims              |   88200 |   18400 |      |    |         |
+ 3|   David Weiss              |  119425 |     200 |folded|    |         |
+ 5|V  Larry W                  |   40725 |     200 |<AWOL>|    |         |
+ 6|   TheTwizz                 |   71900 |     200 |folded|    |         |
+ 7|   Spidurman                |  102825 |     200 |folded|    |         |
+ 8|   Deets                    |   31600 |     200 |folded|    |         |
+ 9|D  bert_ofcl                |   87675 |     200 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/01/19 14:32:03! Dealing a new hand
+! 02/01/19 14:32:03! Everyone antes $200
+! 02/01/19 14:32:03! AveCat blinds $600
+! 02/01/19 14:32:03! Thomas Sims blinds $1200
+! 02/01/19 15:05:17! David Weiss folds
+! 02/01/19 15:05:17! Larry W is on vacation and folds
+! 02/01/19 15:05:17! TheTwizz folds
+! 02/01/19 16:30:36! Spidurman folds
+! 02/01/19 17:30:59! Deets folds
+! 02/01/19 17:30:59! bert_ofcl folds
+! 02/01/19 17:40:05! AveCat calls 
+! 02/01/19 18:13:09! Thomas Sims checks
+
+! 02/01/19 18:13:09! Pot right ($4000), flopping/dealing/drawing cards
+! 02/01/19 18:13:09! 2 players
+! 02/01/19 18:13:09! Flopped cards: 7c Kd Ah
+! 02/01/19 18:13:58! AveCat checks
+! 02/01/19 18:16:16! Thomas Sims bets $2000 
+! 02/01/19 18:30:49! AveCat calls 
+
+! 02/01/19 18:30:49! Pot right ($8000), flopping/dealing/drawing cards
+! 02/01/19 18:30:49! 2 players
+! 02/01/19 18:30:49! Flopped card: 10h
+! 02/01/19 18:31:36! AveCat checks
+! 02/01/19 21:31:52! Thomas Sims checks
+
+! 02/01/19 21:31:52! Pot right ($8000), flopping/dealing/drawing cards
+! 02/01/19 21:31:52! 2 players
+! 02/01/19 21:31:52! Flopped card: Js
+! 02/01/19 21:32:49! AveCat bets $5000 
+! 02/01/19 21:34:21! Thomas Sims raises $10000 to $15000 total 
+! 02/01/19 21:35:04! AveCat calls 
+! Hand over, current board is:  7c Kd Ah 10h Js
+! AveCat                   has: 9d Ac
+! Thomas Sims              has: 9c 8c
+! Thomas Sims wins $38000 (net $19600) with Straight (J 10 9 8 7)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  AveCat                   |   72950 |         |      |    |         |
+ 2|>  Thomas Sims              |  126200 |         |      |    |         |
+ 3|   David Weiss              |  119425 |         |      |    |         |
+ 5|V  Larry W                  |   40725 |         |<AWOL>|    |         |
+ 6|   TheTwizz                 |   71900 |         |      |    |         |
+ 7|   Spidurman                |  102825 |         |      |    |         |
+ 8|   Deets                    |   31600 |         |      |    |         |
+ 9|   bert_ofcl                |   87675 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 278 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c13.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 10
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

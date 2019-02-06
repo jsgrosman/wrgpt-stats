@@ -1,0 +1,110 @@
+Subject: [c9.10402] Holdem Game Broadcast Message(*)
+
+! Table c9, Hand 183, Day 81
+
+! Stubey calls and is all in
+! Pot right ($70700), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped card: Qd
+! Flopped card: 4d
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   ddppmm                   |   42150 |    1400 |folded|    |         |
+ 2|   Nathan Zuercher          |   13275 |    1400 |folded|    |         |
+ 3|   Rkal                     |  106800 |     200 |folded|    |         |
+ 4|V  Taki                     |   34700 |     200 |   Too|    |         |
+ 5|   Steb                     |  148250 |     200 |folded|    |         |
+ 6|   CAB                      |  120950 |     200 |folded|    |         |
+ 7|   tristero                 |  128325 |     200 |folded|    |         |
+ 8|>  Stubey                   |       0 |   33450 |all-in|    |         |
+ 9|D  Klod                     |       0 |   33450 |all-in|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/30/19 09:10:28! Dealing a new hand
+! 01/30/19 09:10:28! Everyone antes $200
+! 01/30/19 09:10:28! ddppmm blinds $600
+! 01/30/19 09:10:28! Nathan Zuercher blinds $1200
+! 01/30/19 09:12:33! Rkal folds
+! 01/30/19 09:12:33! Taki is on vacation and folds
+! 01/30/19 10:09:08! Steb folds
+! 01/30/19 10:09:08! CAB folds
+! 01/30/19 10:09:08! tristero folds
+! 01/30/19 10:30:37! Stubey calls 
+! 01/30/19 10:35:04! Klod calls 
+! 01/30/19 12:06:16! ddppmm calls 
+! 01/30/19 13:42:55! Nathan Zuercher checks
+
+! 01/30/19 13:42:55! Pot right ($6600), flopping/dealing/drawing cards
+! 01/30/19 13:42:55! 4 players
+! 01/30/19 13:42:55! Flopped cards: 9s 4h Ah
+! 01/30/19 20:17:33! ddppmm checks
+! 01/30/19 20:17:33! Nathan Zuercher checks
+! 01/30/19 20:27:20! Stubey bets $3500 
+! 01/30/19 20:27:20! Klod raises $28550 to $32050 total and is all in
+! 01/31/19 03:56:21! ddppmm folds
+! 01/31/19 06:08:55! Nathan Zuercher folds
+! 01/31/19 06:27:30! Stubey calls and is all in
+
+! 01/31/19 06:27:30! Pot right ($70700), flopping/dealing/drawing cards
+! 01/31/19 06:27:30! 2 players, 2 all in
+! 01/31/19 06:27:30! Flopped card: Qd
+! 01/31/19 06:27:30! Flopped card: 4d
+! Hand over, current board is:  9s 4h Ah Qd 4d
+! Stubey                   has: Ks Ad
+! Klod                     has: As 3c
+! Stubey wins $70700 (net $37250) with Two Pair (A A 4 4 K)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  ddppmm                   |   42150 |         |      |    |         |
+ 2|   Nathan Zuercher          |   13275 |         |      |    |         |
+ 3|   Rkal                     |  106800 |         |      |    |         |
+ 4|V  Taki                     |   34700 |         |   Too|    |         |
+ 5|   Steb                     |  148250 |         |      |    |         |
+ 6|   CAB                      |  120950 |         |      |    |         |
+ 7|   tristero                 |  128325 |         |      |    |         |
+ 8|>  Stubey                   |   70700 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Klod is eliminated!
+! 287 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c9.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

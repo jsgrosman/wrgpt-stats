@@ -1,0 +1,97 @@
+Subject: [c33.10759] Holdem Game Broadcast Message(*)
+
+! Table c33, Hand 201, Day 81
+
+! John Senger folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   MOVED BigBlind           |       0 |     200 |folded|    |         |
+ 2|D  MOVED Scot Wolfington    |       0 |     200 |folded|    |         |
+ 3|   MOVED Walter Hunt        |       0 |     800 |folded|    |         |
+ 4|   MOVED Poker Coach        |       0 |    1400 |folded|    |         |
+ 5|>  John Senger              |  114925 |    7400 |folded|    |         |
+ 6|   MOVED Bryan Juliano      |       0 |     200 |folded|    |         |
+ 7|   MOVED SteedCarson        |       0 |     200 |folded|    |         |
+ 8|   Michael                  |       0 |   44050 |all-in|    |         |
+ 9|   MOVED Big Stack Bryan    |       0 |     200 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/31/19 07:23:37! Dealing a new hand
+! 01/31/19 07:23:37! Everyone antes $200
+! 01/31/19 07:23:37! Walter Hunt blinds $600
+! 01/31/19 07:23:37! Poker Coach blinds $1200
+! 01/31/19 07:26:36! John Senger calls 
+! 01/31/19 07:38:25! Bryan Juliano folds
+! 01/31/19 07:59:58! SteedCarson folds
+! 01/31/19 08:00:58! Michael raises $6000 to $7200 total 
+! 01/31/19 08:03:28! Big Stack Bryan folds
+! 01/31/19 08:05:59! BigBlind folds
+! 01/31/19 10:55:02! Player leaving table: BigBlind
+! 01/31/19 10:55:05! Player leaving table: Big Stack Bryan
+! 01/31/19 10:55:11! Player leaving table: Bryan Juliano
+! 01/31/19 10:55:13! Player leaving table: SteedCarson
+! 01/31/19 12:06:02! Scot Wolfington folds
+! 01/31/19 12:06:02! Walter Hunt folds
+! 01/31/19 12:25:02! Player leaving table: Scot Wolfington
+! 01/31/19 12:25:09! Player leaving table: Walter Hunt
+! 01/31/19 12:34:22! Poker Coach folds
+! 01/31/19 12:37:35! John Senger calls 
+
+! 01/31/19 12:37:35! Pot right ($18000), flopping/dealing/drawing cards
+! 01/31/19 12:37:35! 2 players
+! 01/31/19 12:37:35! Flopped cards: Qd 5d Jc
+! 01/31/19 12:55:03! Player leaving table: Poker Coach
+! 01/31/19 12:57:23! John Senger checks
+! 01/31/19 12:59:48! Michael bets $36650 and is all in
+! 01/31/19 13:23:09! John Senger folds
+! Hand over, no showdown
+! Current board is:  Qd 5d Jc ? ?
+! Michael wins $54650 (net $10600)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 5|>  John Senger              |  114925 |         |      |    |         |
+ 8|   Michael                  |   54650 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 285 players left in the tournament 
+! Table waiting for live reshuffle
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c33.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 12
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

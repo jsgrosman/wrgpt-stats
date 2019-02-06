@@ -1,0 +1,112 @@
+Subject: [c12.10701] Holdem Game Broadcast Message(*)
+
+! Table c12, Hand 214, Day 83
+
+! Chevy folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Roger Strom              |   27475 |       0 |New   |    |         |
+ 2|   Don Overton              |  172450 |     200 |folded|    |         |
+ 3|   Kyle Stein               |   25000 |    9400 |folded|    |         |
+ 4|   Deryl Garland            |   81850 |     200 |folded|    |         |
+ 5|   JPP                      |  112125 |     200 |folded|    |         |
+ 6|V  Statistical Tie          |   95725 |     200 |<AWOL>|    |         |
+ 7|D  Mybanjo                  |   51300 |    1400 |folded|    |         |
+ 8|   Chevy                    |  152125 |   14400 |folded|    |         |
+ 9|>  DaveKal                  |  106725 |   34400 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/01/19 17:35:03! Dealing a new hand
+! 02/01/19 17:35:03! Everyone antes $200
+! 02/01/19 17:35:03! Chevy blinds $600
+! 02/01/19 17:35:03! DaveKal blinds $1200
+! 02/01/19 17:45:28! Don Overton folds
+! 02/01/19 17:46:20! Kyle Stein calls 
+! 02/01/19 17:46:20! Deryl Garland folds
+! 02/01/19 18:09:14! JPP folds
+! 02/01/19 18:09:14! Statistical Tie is on vacation and folds
+! 02/01/19 18:21:47! Mybanjo calls 
+! 02/01/19 18:26:10! Chevy calls 
+! 02/01/19 18:26:57! DaveKal checks
+
+! 02/01/19 18:26:57! Pot right ($6400), flopping/dealing/drawing cards
+! 02/01/19 18:26:57! 4 players
+! 02/01/19 18:26:57! Flopped cards: 3s 7d 6d
+! 02/01/19 18:59:08! Chevy bets $3000 
+! 02/01/19 18:59:55! DaveKal calls 
+! 02/01/19 19:46:50! Kyle Stein calls 
+! 02/01/19 19:46:50! Mybanjo folds
+
+! 02/01/19 19:46:50! Pot right ($15400), flopping/dealing/drawing cards
+! 02/01/19 19:46:50! 3 players
+! 02/01/19 19:46:50! Flopped card: 6s
+! 02/01/19 19:55:36! Chevy bets $5000 
+! 02/02/19 03:24:57! DaveKal calls 
+! 02/02/19 09:55:03! New player added to the table: Roger Strom
+! 02/02/19 10:18:57! Kyle Stein calls 
+
+! 02/02/19 10:18:57! Pot right ($30400), flopping/dealing/drawing cards
+! 02/02/19 10:18:57! 3 players
+! 02/02/19 10:18:57! Flopped card: 9c
+! 02/02/19 10:36:18! Chevy bets $5000 
+! 02/02/19 10:44:16! DaveKal raises $20000 to $25000 total 
+! 02/02/19 10:45:18! Kyle Stein folds
+! 02/02/19 10:49:25! Chevy folds
+! Hand over, no showdown
+! Current board is:  3s 7d 6d 6s 9c
+! DaveKal wins $60400 (net $26000)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Roger Strom              |   27475 |         |      |    |         |
+ 2|   Don Overton              |  172450 |         |      |    |         |
+ 3|   Kyle Stein               |   25000 |         |      |    |         |
+ 4|   Deryl Garland            |   81850 |         |      |    |         |
+ 5|   JPP                      |  112125 |         |      |    |         |
+ 6|V  Statistical Tie          |   95725 |         |<AWOL>|    |         |
+ 7|   Mybanjo                  |   51300 |         |      |    |         |
+ 8|D  Chevy                    |  152125 |         |      |    |         |
+ 9|>  DaveKal                  |  167125 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 277 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c12.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 11
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

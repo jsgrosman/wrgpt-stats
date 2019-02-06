@@ -374,7 +374,7 @@ SQL;
 
 
         $sql =<<<SQL
-select cards, is_winner, table_name, hand_num
+select cards, is_winner, table_name, hand_num, tournament_id
 from hand_by_hand
 where player = ?
 and cards is not null
@@ -384,9 +384,10 @@ SQL;
         return array_map(function($r) {
             $tableName = $r['table_name'];
             $handNum = $r['hand_num'];
+            $tournament = $r['tournament_id'];
 
             $round = substr($tableName,0, 1);
-                $url = "http://hands.wrgpt.org/${round}/hands/${tableName}_${handNum}.txt";
+                $url = "/tournaments/t$tournament/hands/${tableName}_${handNum}";
 
             if ($r['is_winner'] == 1) {
                 return "<a href=\"$url\">*" . $r['cards'] . "*</a>";

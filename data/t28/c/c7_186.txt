@@ -1,0 +1,114 @@
+Subject: [c7.10499] Holdem Game Broadcast Message(*)
+
+! Table c7, Hand 186, Day 84
+
+! Endrju checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   JohnnyMac                |  148125 |     200 |folded|    |         |
+ 2|   Johnny Ice               |   64975 |     200 |folded|    |         |
+ 3|D  Endrju                   |  108900 |   11900 |      |    |         |
+ 4|   Ninetensuited            |   25900 |     800 |folded|    |         |
+ 5|   Daniel Levine            |  133850 |    1400 |folded|    |         |
+ 6|   Joe Nadeau               |  210450 |     200 |folded|    |         |
+ 7|>  skatesave                |   60125 |   11900 |      |    |         |
+ 8|   Moccasin Johnny Return   |   71600 |   11900 |      |    |         |
+ 9|   Mike B                   |   19925 |       0 |New   |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/02/19 08:32:34! Dealing a new hand
+! 02/02/19 08:32:34! Everyone antes $200
+! 02/02/19 08:32:34! Ninetensuited blinds $600
+! 02/02/19 08:32:34! Daniel Levine blinds $1200
+! 02/02/19 11:06:43! Joe Nadeau folds
+! 02/02/19 12:34:14! skatesave calls 
+! 02/02/19 14:03:40! Moccasin Johnny Return raises $2500 to $3700 total 
+! 02/02/19 14:03:40! JohnnyMac folds
+! 02/02/19 14:03:40! Johnny Ice folds
+! 02/02/19 15:14:26! Endrju calls 
+! 02/02/19 15:28:22! Ninetensuited folds
+! 02/02/19 15:55:03! New player added to the table: Mike B
+! 02/02/19 16:07:11! Daniel Levine folds
+! 02/02/19 17:42:58! skatesave calls 
+
+! 02/02/19 17:42:58! Pot right ($14500), flopping/dealing/drawing cards
+! 02/02/19 17:42:58! 3 players
+! 02/02/19 17:42:58! Flopped cards: Kh Qh 7c
+! 02/02/19 17:44:41! skatesave checks
+! 02/02/19 17:57:01! Moccasin Johnny Return bets $8000 
+! 02/03/19 00:15:31! Endrju calls 
+! 02/03/19 05:38:55! skatesave calls 
+
+! 02/03/19 05:38:55! Pot right ($38500), flopping/dealing/drawing cards
+! 02/03/19 05:38:55! 3 players
+! 02/03/19 05:38:55! Flopped card: 7s
+! 02/03/19 05:40:31! skatesave checks
+! 02/03/19 07:15:56! Moccasin Johnny Return checks
+! 02/03/19 07:21:21! Endrju checks
+
+! 02/03/19 07:21:21! Pot right ($38500), flopping/dealing/drawing cards
+! 02/03/19 07:21:21! 3 players
+! 02/03/19 07:21:21! Flopped card: Jc
+! 02/03/19 09:03:03! skatesave checks
+! 02/03/19 09:41:38! Moccasin Johnny Return checks
+! 02/03/19 09:58:58! Endrju checks
+! Hand over, current board is:  Kh Qh 7c 7s Jc
+! Endrju                   has: Qc 10c
+! skatesave                has: Jd Ac
+! Moccasin Johnny Return   has: 3h 3c
+! Endrju wins $38500 (net $26600) with Two Pair (Q Q 7 7 K)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   JohnnyMac                |  148125 |         |      |    |         |
+ 2|   Johnny Ice               |   64975 |         |      |    |         |
+ 3|   Endrju                   |  147400 |         |      |    |         |
+ 4|D  Ninetensuited            |   25900 |         |      |    |         |
+ 5|   Daniel Levine            |  133850 |         |      |    |         |
+ 6|   Joe Nadeau               |  210450 |         |      |    |         |
+ 7|>  skatesave                |   60125 |         |      |    |         |
+ 8|   Moccasin Johnny Return   |   71600 |         |      |    |         |
+ 9|   Mike B                   |   19925 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 276 players left in the tournament, 2 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c7.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 14
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

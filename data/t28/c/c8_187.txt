@@ -1,0 +1,111 @@
+Subject: [c8.10445] Holdem Game Broadcast Message(*)
+
+! Table c8, Hand 187, Day 79
+
+! TracyB checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|V  Options Dee              |   37725 |     200 |<AWOL>|    |         |
+ 2|   Ed Baker                 |   53450 |     200 |folded|    |         |
+ 3|V  grendel                  |   35925 |     200 |<AWOL>|    |         |
+ 4|   Loudlion                 |  137425 |    1400 |folded|    |         |
+ 5|D  P0k3Y                    |   25800 |    1400 |folded|    |         |
+ 6|>  Stephen Mack             |  189125 |    4400 |      |    |         |
+ 7|   TracyB                   |  130925 |    4400 |      |    |         |
+ 8|   Josh Goldshlag           |  201575 |     200 |folded|    |         |
+ 9|   BigElmo                  |   83400 |     200 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/29/19 08:36:45! Dealing a new hand
+! 01/29/19 08:36:45! Everyone antes $200
+! 01/29/19 08:36:45! Stephen Mack blinds $600
+! 01/29/19 08:36:45! TracyB blinds $1200
+! 01/29/19 09:06:35! Josh Goldshlag folds
+! 01/29/19 09:06:35! BigElmo folds
+! 01/29/19 09:06:35! Options Dee is on vacation and folds
+! 01/29/19 09:26:35! Ed Baker folds
+! 01/29/19 09:26:35! grendel is on vacation and folds
+! 01/29/19 09:30:11! Loudlion calls 
+! 01/29/19 09:49:29! P0k3Y calls 
+! 01/29/19 09:52:15! Stephen Mack calls 
+! 01/29/19 10:26:34! TracyB checks
+
+! 01/29/19 10:26:34! Pot right ($6600), flopping/dealing/drawing cards
+! 01/29/19 10:26:34! 4 players
+! 01/29/19 10:26:34! Flopped cards: 5c 7d As
+! 01/29/19 10:40:06! Stephen Mack checks
+! 01/29/19 11:51:17! TracyB bets $3000 
+! 01/29/19 11:54:26! Loudlion folds
+! 01/29/19 11:59:02! P0k3Y folds
+! 01/29/19 12:48:31! Stephen Mack calls 
+
+! 01/29/19 12:48:31! Pot right ($12600), flopping/dealing/drawing cards
+! 01/29/19 12:48:31! 2 players
+! 01/29/19 12:48:31! Flopped card: 10d
+! 01/29/19 12:51:10! Stephen Mack checks
+! 01/29/19 16:35:19! TracyB checks
+
+! 01/29/19 16:35:19! Pot right ($12600), flopping/dealing/drawing cards
+! 01/29/19 16:35:19! 2 players
+! 01/29/19 16:35:19! Flopped card: 6h
+! 01/29/19 16:35:19! Stephen Mack checks
+! 01/29/19 16:39:28! TracyB checks
+! Hand over, current board is:  5c 7d As 10d 6h
+! Stephen Mack             has: 4s 3s
+! TracyB                   has: Ad 2c
+! Stephen Mack wins $12600 (net $8200) with Straight (7 6 5 4 3)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|V  Options Dee              |   37725 |         |<AWOL>|    |         |
+ 2|   Ed Baker                 |   53450 |         |      |    |         |
+ 3|V  grendel                  |   35925 |         |<AWOL>|    |         |
+ 4|   Loudlion                 |  137425 |         |      |    |         |
+ 5|   P0k3Y                    |   25800 |         |      |    |         |
+ 6|D> Stephen Mack             |  201725 |         |      |    |         |
+ 7|   TracyB                   |  130925 |         |      |    |         |
+ 8|   Josh Goldshlag           |  201575 |         |      |    |         |
+ 9|   BigElmo                  |   83400 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 298 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c8.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 11
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

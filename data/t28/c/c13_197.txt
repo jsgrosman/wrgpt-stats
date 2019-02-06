@@ -1,0 +1,106 @@
+Subject: [c13.10514] Holdem Game Broadcast Message(*)
+
+! Table c13, Hand 197, Day 81
+
+! Deets folds
+! Pot right ($75675), flopping/dealing/drawing cards
+! 3 players, 2 all in
+! Flopped cards: 7s 8c 8s
+! Flopped card: Jd
+! Flopped card: Jc
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  AveCat                   |   96350 |   29650 |      |  2 |   31350 |
+ 2|   Thomas Sims              |  108000 |     200 |folded|    |         |
+ 3|   David Weiss              |  119825 |     200 |folded|    |         |
+ 4|   Big Stack Bryan          |       0 |   13975 |all-in|  3 |   44325 |
+ 5|V  Larry W                  |   41125 |     200 |<AWOL>|    |         |
+ 6|   TheTwizz                 |   72300 |     200 |folded|    |         |
+ 7|D  Spidurman                |  103225 |     200 |folded|    |         |
+ 8|   Deets                    |   36800 |    1400 |folded|    |         |
+ 9|   bert_ofcl                |       0 |   29650 |all-in|  2 |   31350 |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/31/19 15:55:31! Dealing a new hand
+! 01/31/19 15:55:31! Everyone antes $200
+! 01/31/19 15:55:31! Deets blinds $600
+! 01/31/19 15:55:31! bert_ofcl blinds $1200
+! 01/31/19 15:57:40! AveCat calls 
+! 01/31/19 16:35:26! Thomas Sims folds
+! 01/31/19 16:35:26! David Weiss folds
+! 01/31/19 16:41:08! Big Stack Bryan calls 
+! 01/31/19 16:41:08! Larry W is on vacation and folds
+! 01/31/19 16:41:08! TheTwizz folds
+! 01/31/19 16:41:08! Spidurman folds
+! 01/31/19 17:55:48! Deets calls 
+! 01/31/19 17:56:41! bert_ofcl raises $28250 to $29450 total and is all in
+! 01/31/19 18:10:50! AveCat calls 
+! 01/31/19 18:12:13! Big Stack Bryan calls - side pot
+! 01/31/19 19:14:55! Deets folds
+
+! 01/31/19 19:14:55! Pot right ($75675), flopping/dealing/drawing cards
+! 01/31/19 19:14:55! 3 players, 2 all in
+! 01/31/19 19:14:55! Flopped cards: 7s 8c 8s
+! 01/31/19 19:14:55! Flopped card: Jd
+! 01/31/19 19:14:55! Flopped card: Jc
+! Hand over, current board is:  7s 8c 8s Jd Jc
+! AveCat                   has: 10d 9d
+! Big Stack Bryan          has: 5s 5d
+! bert_ofcl                has: 7h 7d
+! Pot 2: bert_ofcl wins $31350 with Full House (7 7 7 J J)
+! Pot 3: bert_ofcl wins $44325 with Full House (7 7 7 J J)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  AveCat                   |   96350 |         |      |    |         |
+ 2|   Thomas Sims              |  108000 |         |      |    |         |
+ 3|   David Weiss              |  119825 |         |      |    |         |
+ 5|V  Larry W                  |   41125 |         |<AWOL>|    |         |
+ 6|   TheTwizz                 |   72300 |         |      |    |         |
+ 7|   Spidurman                |  103225 |         |      |    |         |
+ 8|D  Deets                    |   36800 |         |      |    |         |
+ 9|   bert_ofcl                |   75675 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Big Stack Bryan is eliminated!
+! 283 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c13.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 4
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

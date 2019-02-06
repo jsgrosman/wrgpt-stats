@@ -1,0 +1,112 @@
+Subject: [c13.10612] Holdem Game Broadcast Message(*)
+
+! Table c13, Hand 205, Day 86
+
+! AveCat folds
+! Larry W calls - side pot
+! Pot right ($146250), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped card: 6h
+! Flopped card: Qs
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   AveCat                   |   96750 |    7300 |folded|    |         |
+ 2|   Thomas Sims              |  124200 |     300 |folded|    |         |
+ 3|   David Weiss              |  108025 |     300 |folded|    |         |
+ 4|   Thomas Gabrysch          |   70850 |     300 |folded|    |         |
+ 5|>  Larry W                  |       0 |   38225 |all-in|  2 |   88550 |
+ 6|   TheTwizz                 |  105900 |     300 |folded|    |         |
+ 7|D  Spidurman                |       0 |   95925 |all-in|  1 |   57700 |
+ 8|   Deets                    |   26000 |    1300 |folded|    |         |
+ 9|   bert_ofcl                |   46775 |    2300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/04/19 12:02:07! Dealing a new hand
+! 02/04/19 12:02:07! Everyone antes $300
+! 02/04/19 12:02:07! Deets blinds $1000
+! 02/04/19 12:02:07! bert_ofcl blinds $2000
+! 02/04/19 12:22:54! AveCat calls 
+! 02/04/19 15:10:41! Thomas Sims folds
+! 02/04/19 15:10:41! David Weiss folds
+! 02/04/19 15:10:41! Thomas Gabrysch folds
+! 02/04/19 16:50:33! Larry W calls 
+! 02/04/19 16:50:33! TheTwizz folds
+! 02/04/19 17:31:54! Spidurman raises $5000 to $7000 total 
+! 02/04/19 17:31:54! Deets folds
+! 02/04/19 17:53:21! bert_ofcl folds
+! 02/04/19 17:55:31! AveCat calls 
+! 02/04/19 23:16:49! Larry W calls 
+
+! 02/04/19 23:16:50! Pot right ($26700), flopping/dealing/drawing cards
+! 02/04/19 23:16:50! 3 players
+! 02/04/19 23:16:50! Flopped cards: Ah 5s 3s
+! 02/05/19 06:02:20! AveCat checks
+! 02/05/19 07:57:27! Larry W bets $9000 
+! 02/05/19 09:12:19! Spidurman raises $79625 to $88625 total and is all in
+! 02/05/19 09:44:21! AveCat folds
+! 02/05/19 09:44:21! Larry W calls - side pot
+
+! 02/05/19 09:44:21! Pot right ($146250), flopping/dealing/drawing cards
+! 02/05/19 09:44:21! 2 players, 2 all in
+! 02/05/19 09:44:21! Flopped card: 6h
+! 02/05/19 09:44:21! Flopped card: Qs
+! Hand over, current board is:  Ah 5s 3s 6h Qs
+! Larry W                  has: As Kh
+! Spidurman                has: Jh Ac
+! Pot 1: uncalled $57700 returned to Spidurman
+! Pot 2: Larry W wins $88550 with One Pair (A A K Q 6)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   AveCat                   |   96750 |         |      |    |         |
+ 2|   Thomas Sims              |  124200 |         |      |    |         |
+ 3|   David Weiss              |  108025 |         |      |    |         |
+ 4|   Thomas Gabrysch          |   70850 |         |      |    |         |
+ 5|>  Larry W                  |   88550 |         |      |    |         |
+ 6|   TheTwizz                 |  105900 |         |      |    |         |
+ 7|   Spidurman                |   57700 |         |      |    |         |
+ 8|D  Deets                    |   26000 |         |      |    |         |
+ 9|   bert_ofcl                |   46775 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 266 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c13.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 4
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

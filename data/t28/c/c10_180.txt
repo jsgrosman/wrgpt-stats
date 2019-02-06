@@ -1,0 +1,116 @@
+Subject: [c10.10383] Holdem Game Broadcast Message(*)
+
+! Table c10, Hand 180, Day 82
+
+! Otto calls 
+! Pot right ($73700), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: As
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Kahomono                 |   93475 |    3200 |folded|    |         |
+ 2|   Rich Guidoboni           |  152900 |     200 |folded|    |         |
+ 3|   Olof Siverbo             |  138700 |     200 |folded|    |         |
+ 4|   DroogieDroog             |   51100 |     200 |folded|    |         |
+ 5|   stannius                 |   66125 |     200 |folded|    |         |
+ 6|D> Otto                     |  108625 |   30550 |      |    |         |
+ 7|   SunnyGirl                |   92450 |    7200 |folded|    |         |
+ 8|V  Blind Owl                |   69750 |    1400 |<AWOL>|    |         |
+ 9|   judy proteau             |       0 |   30550 |all-in|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/31/19 18:41:21! Dealing a new hand
+! 01/31/19 18:41:21! Everyone antes $200
+! 01/31/19 18:41:21! SunnyGirl blinds $600
+! 01/31/19 18:41:21! Blind Owl blinds $1200
+! 01/31/19 18:43:58! judy proteau raises $1800 to $3000 total 
+! 01/31/19 21:06:53! Kahomono calls 
+! 01/31/19 21:06:53! Rich Guidoboni folds
+! 01/31/19 23:32:07! Olof Siverbo folds
+! 01/31/19 23:32:07! DroogieDroog folds
+! 01/31/19 23:32:07! stannius folds
+! 01/31/19 23:32:07! Otto calls 
+! 01/31/19 23:35:51! SunnyGirl calls 
+! 01/31/19 23:35:51! Blind Owl is on vacation and folds
+
+! 01/31/19 23:35:51! Pot right ($15000), flopping/dealing/drawing cards
+! 01/31/19 23:35:51! 4 players
+! 01/31/19 23:35:51! Flopped cards: Kh Js Ah
+! 01/31/19 23:36:16! SunnyGirl checks
+! 02/01/19 03:25:55! judy proteau bets $4000 
+! 02/01/19 03:36:04! Kahomono folds
+! 02/01/19 05:55:33! Otto calls 
+! 02/01/19 07:22:06! SunnyGirl calls 
+
+! 02/01/19 07:22:06! Pot right ($27000), flopping/dealing/drawing cards
+! 02/01/19 07:22:06! 3 players
+! 02/01/19 07:22:06! Flopped card: 3d
+! 02/01/19 07:22:44! SunnyGirl checks
+! 02/01/19 07:38:38! judy proteau checks
+! 02/01/19 07:44:38! Otto bets $12400 
+! 02/01/19 07:51:23! SunnyGirl folds
+! 02/01/19 08:04:59! judy proteau raises $10950 to $23350 total and is all in
+! 02/01/19 08:23:30! Otto calls 
+
+! 02/01/19 08:23:30! Pot right ($73700), flopping/dealing/drawing cards
+! 02/01/19 08:23:30! 2 players, 1 all in
+! 02/01/19 08:23:30! Flopped card: As
+! Hand over, current board is:  Kh Js Ah 3d As
+! Otto                     has: 9h Ac
+! judy proteau             has: Qs Qd
+! Otto wins $73700 (net $43150) with Three of a Kind (A A A K J)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Kahomono                 |   93475 |         |      |    |         |
+ 2|   Rich Guidoboni           |  152900 |         |      |    |         |
+ 3|   Olof Siverbo             |  138700 |         |      |    |         |
+ 4|   DroogieDroog             |   51100 |         |      |    |         |
+ 5|   stannius                 |   66125 |         |      |    |         |
+ 6|>  Otto                     |  182325 |         |      |    |         |
+ 7|D  SunnyGirl                |   92450 |         |      |    |         |
+ 8|V  Blind Owl                |   69750 |         |<AWOL>|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! judy proteau is eliminated!
+! 279 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c10.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

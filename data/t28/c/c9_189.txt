@@ -1,0 +1,114 @@
+Subject: [c9.10482] Holdem Game Broadcast Message(*)
+
+! Table c9, Hand 189, Day 85
+
+! ddppmm folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   ddppmm                   |   48350 |    3400 |folded|    |         |
+ 2|   Nathan Zuercher          |   13875 |    1400 |folded|    |         |
+ 3|   Rkal                     |   93800 |     200 |folded|    |         |
+ 4|V  Taki                     |   31700 |     200 |   Too|    |         |
+ 5|   Steb                     |  123450 |     200 |folded|    |         |
+ 6|D  CAB                      |  141950 |     200 |folded|    |         |
+ 7|>  tristero                 |   45025 |   13400 |      |    |         |
+ 8|   Stubey                   |  136400 |   13400 |      |    |         |
+ 9|   Michael                  |   52650 |     200 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/03/19 06:44:01! Dealing a new hand
+! 02/03/19 06:44:01! Everyone antes $200
+! 02/03/19 06:44:01! tristero blinds $600
+! 02/03/19 06:44:01! Stubey blinds $1200
+! 02/03/19 07:55:50! Michael folds
+! 02/03/19 07:55:50! ddppmm calls 
+! 02/03/19 09:02:47! Nathan Zuercher calls 
+! 02/03/19 09:02:47! Rkal folds
+! 02/03/19 09:02:47! Taki is on vacation and folds
+! 02/03/19 11:52:32! Steb folds
+! 02/03/19 11:52:32! CAB folds
+! 02/03/19 11:52:32! tristero calls 
+! 02/03/19 12:24:12! Stubey checks
+
+! 02/03/19 12:24:12! Pot right ($6600), flopping/dealing/drawing cards
+! 02/03/19 12:24:12! 4 players
+! 02/03/19 12:24:12! Flopped cards: 9h 6d 5c
+! 02/03/19 12:39:08! tristero checks
+! 02/03/19 12:50:17! Stubey bets $2000 
+! 02/03/19 16:18:29! ddppmm calls 
+! 02/03/19 16:18:29! Nathan Zuercher folds
+! 02/03/19 16:19:42! tristero calls 
+
+! 02/03/19 16:19:42! Pot right ($12600), flopping/dealing/drawing cards
+! 02/03/19 16:19:42! 3 players
+! 02/03/19 16:19:42! Flopped card: 6s
+! 02/03/19 16:21:17! tristero checks
+! 02/03/19 17:53:14! Stubey checks
+! 02/04/19 03:46:46! ddppmm checks
+
+! 02/04/19 03:46:46! Pot right ($12600), flopping/dealing/drawing cards
+! 02/04/19 03:46:46! 3 players
+! 02/04/19 03:46:46! Flopped card: 2h
+! 02/04/19 06:18:20! tristero bets $10000 
+! 02/04/19 07:03:38! Stubey calls 
+! 02/04/19 08:30:02! ddppmm folds
+! Hand over, current board is:  9h 6d 5c 6s 2h
+! tristero                 has: Qh 5d
+! Stubey                   has: Ks 9d
+! Stubey wins $32600 (net $19200) with Two Pair (9 9 6 6 K)
+! Antes and blinds go up
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   ddppmm                   |   48350 |         |      |    |         |
+ 2|   Nathan Zuercher          |   13875 |         |      |    |         |
+ 3|   Rkal                     |   93800 |         |      |    |         |
+ 4|V  Taki                     |   31700 |         |   Too|    |         |
+ 5|   Steb                     |  123450 |         |      |    |         |
+ 6|   CAB                      |  141950 |         |      |    |         |
+ 7|D> tristero                 |   45025 |         |      |    |         |
+ 8|   Stubey                   |  169000 |         |      |    |         |
+ 9|   Michael                  |   52650 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 271 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c9.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

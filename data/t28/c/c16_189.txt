@@ -1,0 +1,112 @@
+Subject: [c16.10467] Holdem Game Broadcast Message(*)
+
+! Table c16, Hand 189, Day 79
+
+! sltLonghorn calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   ThinkingPokerAndrew      |   15825 |     200 |folded|    |         |
+ 2|   Fish Doctor              |  167875 |    1400 |folded|    |         |
+ 3|   Sue N                    |   68050 |     200 |folded|    |         |
+ 4|   Richard Rognlie          |   99475 |       0 |New   |    |         |
+ 5|   BaconPancakes            |   37525 |     200 |folded|    |         |
+ 6|   TwelveSeven              |  204150 |    1400 |folded|    |         |
+ 7|D> All In a daze work       |  101050 |   76600 |      |    |         |
+ 8|   rbmoore                  |   38400 |     800 |folded|    |         |
+ 9|   sltLonghorn              |  120975 |   76600 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/28/19 15:07:54! Dealing a new hand
+! 01/28/19 15:07:54! Everyone antes $200
+! 01/28/19 15:07:54! rbmoore blinds $600
+! 01/28/19 15:07:54! sltLonghorn blinds $1200
+! 01/28/19 15:25:42! ThinkingPokerAndrew folds
+! 01/28/19 15:25:42! Fish Doctor calls 
+! 01/28/19 15:30:57! Sue N folds
+! 01/28/19 15:33:31! BaconPancakes folds
+! 01/28/19 15:36:30! TwelveSeven calls 
+! 01/28/19 16:24:23! All In a daze work raises $4050 to $5250 total 
+! 01/29/19 05:47:27! rbmoore folds
+! 01/29/19 07:01:50! sltLonghorn raises $11950 to $17200 total 
+! 01/29/19 07:23:47! Fish Doctor folds
+! 01/29/19 07:23:47! TwelveSeven folds
+! 01/29/19 08:59:26! All In a daze work calls 
+
+! 01/29/19 08:59:26! Pot right ($39000), flopping/dealing/drawing cards
+! 01/29/19 08:59:26! 2 players
+! 01/29/19 08:59:26! Flopped cards: 3c 7s Jc
+! 01/29/19 09:25:15! sltLonghorn bets $20000 
+! 01/29/19 10:42:36! All In a daze work calls 
+
+! 01/29/19 10:42:36! Pot right ($79000), flopping/dealing/drawing cards
+! 01/29/19 10:42:36! 2 players
+! 01/29/19 10:42:36! Flopped card: 2c
+! 01/29/19 10:50:52! sltLonghorn bets $15000 
+! 01/29/19 12:31:52! All In a daze work calls 
+
+! 01/29/19 12:31:52! Pot right ($109000), flopping/dealing/drawing cards
+! 01/29/19 12:31:52! 2 players
+! 01/29/19 12:31:52! Flopped card: 7d
+! 01/29/19 12:55:09! New player added to the table: Richard Rognlie
+! 01/29/19 13:00:26! sltLonghorn checks
+! 01/29/19 15:13:10! All In a daze work bets $24200 
+! 01/29/19 16:22:46! sltLonghorn calls 
+! Hand over, current board is:  3c 7s Jc 2c 7d
+! All In a daze work       has: Js 10s
+! sltLonghorn              has: Kh Kc
+! sltLonghorn wins $157400 (net $80800) with Two Pair (K K 7 7 J)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   ThinkingPokerAndrew      |   15825 |         |      |    |         |
+ 2|   Fish Doctor              |  167875 |         |      |    |         |
+ 3|   Sue N                    |   68050 |         |      |    |         |
+ 4|   Richard Rognlie          |   99475 |         |      |    |         |
+ 5|   BaconPancakes            |   37525 |         |      |    |         |
+ 6|   TwelveSeven              |  204150 |         |      |    |         |
+ 7|>  All In a daze work       |  101050 |         |      |    |         |
+ 8|D  rbmoore                  |   38400 |         |      |    |         |
+ 9|   sltLonghorn              |  278375 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 298 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c16.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 11
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

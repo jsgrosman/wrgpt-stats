@@ -1,0 +1,112 @@
+Subject: [c26.10738] Holdem Game Broadcast Message(*)
+
+! Table c26, Hand 226, Day 83
+
+! John Senger calls - side pot
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  Brian Cooper             |   56775 |     200 |folded|    |         |
+ 2|   docdanger                |   70400 |     800 |folded|    |         |
+ 3|   Firstorlast56            |   46875 |    1400 |folded|    |         |
+ 4|>  John Senger              |       0 |  100625 |all-in|  2 |  205650 |
+ 5|   TrayRacer                |   49050 |     200 |folded|    |         |
+ 6|   Ken Anderson             |  263500 |    1400 |folded|    |         |
+ 7|   Josh Moore               |  214000 |     200 |folded|    |         |
+ 8|   Matt Matros              |       0 |  114600 |all-in|  1 |   13975 |
+ 9|   starrman99               |   79500 |     200 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/02/19 12:55:21! Dealing a new hand
+! 02/02/19 12:55:21! Everyone antes $200
+! 02/02/19 12:55:21! docdanger blinds $600
+! 02/02/19 12:55:21! Firstorlast56 blinds $1200
+! 02/02/19 13:37:53! John Senger calls 
+! 02/02/19 13:37:53! TrayRacer folds
+! 02/02/19 13:37:53! Ken Anderson calls 
+! 02/02/19 13:37:53! Josh Moore folds
+! 02/02/19 13:39:26! Matt Matros raises $3300 to $4500 total 
+! 02/02/19 14:37:08! starrman99 folds
+! 02/02/19 14:37:08! Brian Cooper folds
+! 02/02/19 14:43:56! docdanger folds
+! 02/02/19 14:43:56! Firstorlast56 folds
+! 02/02/19 17:36:51! John Senger calls 
+! 02/02/19 17:36:51! Ken Anderson folds
+
+! 02/02/19 17:36:51! Pot right ($13800), flopping/dealing/drawing cards
+! 02/02/19 17:36:51! 2 players
+! 02/02/19 17:36:51! Flopped cards: 6d Jc 9h
+! 02/02/19 17:37:47! John Senger bets $5000 
+! 02/02/19 17:50:58! Matt Matros calls 
+
+! 02/02/19 17:50:58! Pot right ($23800), flopping/dealing/drawing cards
+! 02/02/19 17:50:58! 2 players
+! 02/02/19 17:50:58! Flopped card: 7c
+! 02/02/19 18:03:49! John Senger bets $10000 
+! 02/02/19 18:14:04! Matt Matros calls 
+
+! 02/02/19 18:14:04! Pot right ($43800), flopping/dealing/drawing cards
+! 02/02/19 18:14:04! 2 players
+! 02/02/19 18:14:04! Flopped card: Ac
+! 02/02/19 18:20:38! John Senger bets $25000 
+! 02/02/19 18:22:53! Matt Matros raises $69900 to $94900 total and is all in
+! 02/02/19 18:23:55! John Senger calls - side pot
+! Hand over, current board is:  6d Jc 9h 7c Ac
+! John Senger              has: As Js
+! Matt Matros              has: 6c 3c
+! Pot 1: uncalled $13975 returned to Matt Matros
+! Pot 2: Matt Matros wins $205650 with Club Flush (A J 7 6 3)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Brian Cooper             |   56775 |         |      |    |         |
+ 2|D  docdanger                |   70400 |         |      |    |         |
+ 3|   Firstorlast56            |   46875 |         |      |    |         |
+ 5|   TrayRacer                |   49050 |         |      |    |         |
+ 6|   Ken Anderson             |  263500 |         |      |    |         |
+ 7|   Josh Moore               |  214000 |         |      |    |         |
+ 8|   Matt Matros              |  219625 |         |      |    |         |
+ 9|   starrman99               |   79500 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! John Senger is eliminated!
+! 275 players left in the tournament, 2 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c26.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 12
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

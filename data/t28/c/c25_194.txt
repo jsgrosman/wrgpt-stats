@@ -1,0 +1,110 @@
+Subject: [c25.10622] Holdem Game Broadcast Message(*)
+
+! Table c25, Hand 194, Day 82
+
+! Neil Boyce checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Shari silk               |  176375 |     200 |folded|    |         |
+ 2|D  Brent Moore              |   66900 |     200 |folded|    |         |
+ 3|   FredLS                   |   77450 |     800 |folded|    |         |
+ 4|   fich                     |   55375 |    1400 |folded|    |         |
+ 5|   Joshua Koppelman         |   41625 |     200 |folded|    |         |
+ 6|>  JK                       |   66875 |   10000 |      |    |         |
+ 7|   Scot Wolfington          |  105500 |     200 |folded|    |         |
+ 8|   Neil Boyce               |  112025 |   10000 |      |    |         |
+ 9|   Dan Driscoll             |   49750 |     200 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/01/19 14:28:27! Dealing a new hand
+! 02/01/19 14:28:27! Everyone antes $200
+! 02/01/19 14:28:27! FredLS blinds $600
+! 02/01/19 14:28:27! fich blinds $1200
+! 02/01/19 15:06:40! Joshua Koppelman folds
+! 02/01/19 15:09:27! JK raises $1200 to $2400 total 
+! 02/01/19 16:24:06! Scot Wolfington folds
+! 02/01/19 16:27:51! Neil Boyce raises $2400 to $4800 total 
+! 02/01/19 16:27:51! Dan Driscoll folds
+! 02/01/19 16:38:37! Shari silk folds
+! 02/01/19 16:58:35! Brent Moore folds
+! 02/01/19 17:03:31! FredLS folds
+! 02/01/19 17:28:15! fich folds
+! 02/01/19 17:33:42! JK calls 
+
+! 02/01/19 17:33:42! Pot right ($13200), flopping/dealing/drawing cards
+! 02/01/19 17:33:42! 2 players
+! 02/01/19 17:33:42! Flopped cards: 6c 4c Kd
+! 02/01/19 17:34:16! JK checks
+! 02/01/19 17:46:31! Neil Boyce checks
+
+! 02/01/19 17:46:31! Pot right ($13200), flopping/dealing/drawing cards
+! 02/01/19 17:46:31! 2 players
+! 02/01/19 17:46:31! Flopped card: Kh
+! 02/01/19 18:29:02! JK checks
+! 02/01/19 18:45:42! Neil Boyce bets $5000 
+! 02/01/19 19:05:19! JK calls 
+
+! 02/01/19 19:05:19! Pot right ($23200), flopping/dealing/drawing cards
+! 02/01/19 19:05:19! 2 players
+! 02/01/19 19:05:19! Flopped card: 10c
+! 02/01/19 19:05:39! JK checks
+! 02/01/19 19:23:32! Neil Boyce checks
+! Hand over, current board is:  6c 4c Kd Kh 10c
+! JK                       has: Qh Ac
+! Neil Boyce               has: Qd Qc
+! Neil Boyce wins $23200 (net $13200) with Two Pair (K K Q Q 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Shari silk               |  176375 |         |      |    |         |
+ 2|   Brent Moore              |   66900 |         |      |    |         |
+ 3|D  FredLS                   |   77450 |         |      |    |         |
+ 4|   fich                     |   55375 |         |      |    |         |
+ 5|   Joshua Koppelman         |   41625 |         |      |    |         |
+ 6|>  JK                       |   66875 |         |      |    |         |
+ 7|   Scot Wolfington          |  105500 |         |      |    |         |
+ 8|   Neil Boyce               |  135225 |         |      |    |         |
+ 9|   Dan Driscoll             |   49750 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 278 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c25.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 10
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer
