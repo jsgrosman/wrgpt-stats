@@ -1,0 +1,111 @@
+Subject: [d4.10272] Holdem Game Broadcast Message(*)
+
+! Table d4, Hand 283, Day 113
+
+! Mike Sager raises $18150 to $90050 total and is all in
+! Pot right ($175150), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped card: Jh
+! Flopped card: 5s
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|V  sgranen                  |  218700 |     400 |12 Mar|    |         |
+ 2|   Mybanjo                  |   69600 |     400 |folded|    |         |
+ 3|   heffmike                 |  183625 |     400 |folded|    |         |
+ 4|   Jeff Goff                |   97200 |     400 |folded|    |         |
+ 5|D  JPP                      |  154825 |    3600 |folded|    |         |
+ 6|   ddppmm                   |       0 |   75500 |all-in|  2 |  157000 |
+ 7|>  Mike Sager               |       0 |   93650 |all-in|  1 |   18150 |
+ 8|   Keith Troell             |  115875 |     400 |folded|    |         |
+ 9|   Poker Dog                |  303625 |     400 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/03/19 12:59:50! Dealing a new hand
+! 03/03/19 12:59:50! Everyone antes $400
+! 03/03/19 12:59:50! ddppmm blinds $1600
+! 03/03/19 12:59:50! Mike Sager blinds $3200
+! 03/03/19 13:01:00! Keith Troell folds
+! 03/03/19 13:50:24! Poker Dog folds
+! 03/03/19 13:50:24! sgranen is on vacation and folds
+! 03/03/19 13:50:24! Mybanjo folds
+! 03/04/19 05:26:14! heffmike folds
+! 03/04/19 05:26:14! Jeff Goff folds
+! 03/04/19 05:28:12! JPP calls 
+! 03/04/19 05:39:39! ddppmm calls 
+! 03/04/19 06:16:14! Mike Sager checks
+
+! 03/04/19 06:16:14! Pot right ($13200), flopping/dealing/drawing cards
+! 03/04/19 06:16:14! 3 players
+! 03/04/19 06:16:14! Flopped cards: Kd 2h As
+! 03/04/19 07:53:43! ddppmm bets $6000 
+! 03/04/19 07:56:41! Mike Sager raises $20000 to $26000 total 
+! 03/04/19 08:28:02! JPP folds
+! 03/04/19 08:40:20! ddppmm raises $45900 to $71900 total and is all in
+! 03/04/19 08:55:49! Mike Sager raises $18150 to $90050 total and is all in
+
+! 03/04/19 08:55:49! Pot right ($175150), flopping/dealing/drawing cards
+! 03/04/19 08:55:49! 2 players, 2 all in
+! 03/04/19 08:55:49! Flopped card: Jh
+! 03/04/19 08:55:49! Flopped card: 5s
+! Hand over, current board is:  Kd 2h As Jh 5s
+! ddppmm                   has: 2s Ah
+! Mike Sager               has: 10d Ac
+! Pot 1: uncalled $18150 returned to Mike Sager
+! Pot 2: ddppmm wins $157000 with Two Pair (A A 2 2 K)
+! Antes and blinds go up
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|V  sgranen                  |  218700 |         |12 Mar|    |         |
+ 2|   Mybanjo                  |   69600 |         |      |    |         |
+ 3|   heffmike                 |  183625 |         |      |    |         |
+ 4|   Jeff Goff                |   97200 |         |      |    |         |
+ 5|   JPP                      |  154825 |         |      |    |         |
+ 6|D  ddppmm                   |  157000 |         |      |    |         |
+ 7|>  Mike Sager               |   18150 |         |      |    |         |
+ 8|   Keith Troell             |  115875 |         |      |    |         |
+ 9|   Poker Dog                |  303625 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 152 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d4.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 10
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

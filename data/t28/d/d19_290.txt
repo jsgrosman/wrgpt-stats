@@ -1,0 +1,99 @@
+Subject: [d19.10351] Holdem Game Broadcast Message(*)
+
+! Table d19, Hand 290, Day 106
+
+! TwelveSeven folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   bert_ofcl                |  137950 |     400 |folded|    |         |
+ 2|>  TwelveSeven              |  278100 |   23400 |folded|    |         |
+ 5|D  Ken Anderson             |  512050 |     400 |folded|    |         |
+ 6|   zipper                   |   35975 |    8400 |folded|    |         |
+ 7|   Sir Barlow               |       0 |  126400 |all-in|    |         |
+ 8|   Walter Hunt              |   75200 |     400 |folded|    |         |
+ 9|   Matt Matros              |  126050 |     400 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/25/19 10:27:33! Dealing a new hand
+! 02/25/19 10:27:33! Everyone antes $400
+! 02/25/19 10:27:33! zipper blinds $1600
+! 02/25/19 10:27:33! Sir Barlow blinds $3200
+! 02/25/19 10:28:17! Walter Hunt folds
+! 02/25/19 10:30:58! Matt Matros folds
+! 02/25/19 10:30:58! bert_ofcl folds
+! 02/25/19 10:34:17! TwelveSeven raises $4800 to $8000 total 
+! 02/25/19 10:34:17! Ken Anderson folds
+! 02/25/19 11:40:17! zipper calls 
+! 02/25/19 11:45:43! Sir Barlow calls 
+
+! 02/25/19 11:45:43! Pot right ($26800), flopping/dealing/drawing cards
+! 02/25/19 11:45:43! 3 players
+! 02/25/19 11:45:43! Flopped cards: Qc 3h 6d
+! 02/25/19 15:46:02! zipper checks
+! 02/25/19 15:49:59! Sir Barlow bets $15000 
+! 02/25/19 16:04:07! TwelveSeven calls 
+! 02/25/19 16:04:07! zipper folds
+
+! 02/25/19 16:04:07! Pot right ($56800), flopping/dealing/drawing cards
+! 02/25/19 16:04:07! 2 players
+! 02/25/19 16:04:07! Flopped card: Jh
+! 02/25/19 16:10:44! Sir Barlow bets $103000 and is all in
+! 02/25/19 16:12:02! TwelveSeven folds
+! Hand over, no showdown
+! Current board is:  Qc 3h 6d Jh ?
+! Sir Barlow wins $159800 (net $33400)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   bert_ofcl                |  137950 |         |      |    |         |
+ 2|>  TwelveSeven              |  278100 |         |      |    |         |
+ 5|   Ken Anderson             |  512050 |         |      |    |         |
+ 6|D  zipper                   |   35975 |         |      |    |         |
+ 7|   Sir Barlow               |  159800 |         |      |    |         |
+ 8|   Walter Hunt              |   75200 |         |      |    |         |
+ 9|   Matt Matros              |  126050 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! zipper timed out during this hand
+! 181 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d19.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

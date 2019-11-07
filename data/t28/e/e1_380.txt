@@ -1,0 +1,103 @@
+Subject: [e1.10260] Holdem Game Broadcast Message(*)
+
+! Table e1, Hand 380, Day 146
+
+! GwynnInTheHall folds
+! Pot right ($444775), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped cards: 5c 7d Jd
+! Flopped card: Jc
+! Flopped card: 9d
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   888                      | 1238350 |    7000 |folded|    |         |
+ 3|   GwynnInTheHall           |  408950 |   13000 |folded|    |         |
+ 4|   Peter Gozinya            |  158650 |    1000 |folded|    |         |
+ 5|   Paul Ant                 |       0 |  139300 |all-in|  2 |  302600 |
+ 6|>  Barton                   | 1332075 |  281475 |      |  1 |  142175 |
+ 7|   TracyB                   |  283475 |    1000 |folded|    |         |
+ 8|   Bobby Luckbox            |  327900 |    1000 |folded|    |         |
+ 9|D  Spidurman                |  239250 |    1000 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 04/05/19 13:13:10! Dealing a new hand
+! 04/05/19 13:13:10! Everyone antes $1000
+! 04/05/19 13:13:10! 888 blinds $6000
+! 04/05/19 13:13:10! GwynnInTheHall blinds $12000
+! 04/05/19 13:14:53! Peter Gozinya folds
+! 04/06/19 07:38:50! Paul Ant raises $126300 to $138300 total and is all in
+! 04/06/19 08:34:24! Barton raises $142175 to $280475 total 
+! 04/06/19 10:23:45! TracyB folds
+! 04/06/19 14:43:22! Bobby Luckbox folds
+! 04/06/19 14:43:22! Spidurman folds
+! 04/06/19 14:43:22! 888 folds
+! 04/06/19 15:45:48! GwynnInTheHall folds
+
+! 04/06/19 15:45:48! Pot right ($444775), flopping/dealing/drawing cards
+! 04/06/19 15:45:48! 2 players, 1 all in
+! 04/06/19 15:45:48! Flopped cards: 5c 7d Jd
+! 04/06/19 15:45:48! Flopped card: Jc
+! 04/06/19 15:45:48! Flopped card: 9d
+! Hand over, current board is:  5c 7d Jd Jc 9d
+! Paul Ant                 has: As 7s
+! Barton                   has: 8s 8c
+! Pot 1: uncalled $142175 returned to Barton
+! Pot 2: Barton wins $302600 with Two Pair (J J 8 8 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  888                      | 1238350 |         |      |    |         |
+ 3|   GwynnInTheHall           |  408950 |         |      |    |         |
+ 4|   Peter Gozinya            |  158650 |         |      |    |         |
+ 6|>  Barton                   | 1776850 |         |      |    |         |
+ 7|   TracyB                   |  283475 |         |      |    |         |
+ 8|   Bobby Luckbox            |  327900 |         |      |    |         |
+ 9|   Spidurman                |  239250 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Paul Ant is eliminated!
+! 55 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/e/e1.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+We are down to few enough tables that players
+may be moved to rebalance tables when there
+are not enough empty seats to break a table.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 7
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

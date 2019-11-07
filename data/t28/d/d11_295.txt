@@ -1,0 +1,106 @@
+Subject: [d11.10490] Holdem Game Broadcast Message(*)
+
+! Table d11, Hand 295, Day 114
+
+! SteedCarson checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  bert_ofcl                |  128150 |     600 |folded|    |         |
+ 2|>  Mark Ballinger           |   64300 |   22900 |      |    |         |
+ 3|   Sam Parazette            |  380700 |    4600 |folded|    |         |
+ 5|   tarigojaergihioahdged    |  216775 |     600 |folded|    |         |
+ 6|   sltLonghorn              |  293350 |       0 |New   |    |         |
+ 7|   Mother Speaks            |  132700 |     600 |folded|    |         |
+ 8|   Rich Guidoboni           |   46050 |     600 |folded|    |         |
+ 9|   SteedCarson              |  578800 |   22900 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/05/19 12:46:04! Dealing a new hand
+! 03/05/19 12:46:04! Everyone antes $600
+! 03/05/19 12:46:04! Mark Ballinger blinds $2000
+! 03/05/19 12:46:04! Sam Parazette blinds $4000
+! 03/05/19 12:49:05! tarigojaergihioahdged folds
+! 03/05/19 12:49:07! Mother Speaks folds
+! 03/05/19 13:09:51! Rich Guidoboni folds
+! 03/05/19 13:38:43! SteedCarson raises $5300 to $9300 total 
+! 03/05/19 13:38:43! bert_ofcl folds
+! 03/05/19 14:17:03! Mark Ballinger calls 
+! 03/05/19 14:32:22! Sam Parazette folds
+
+! 03/05/19 14:32:22! Pot right ($26800), flopping/dealing/drawing cards
+! 03/05/19 14:32:22! 2 players
+! 03/05/19 14:32:22! Flopped cards: 9d 3h 4c
+! 03/05/19 14:45:14! Mark Ballinger checks
+! 03/05/19 15:11:45! SteedCarson bets $13000 
+! 03/05/19 15:55:06! New player added to the table: sltLonghorn
+! 03/05/19 16:58:53! Mark Ballinger calls 
+
+! 03/05/19 16:58:53! Pot right ($52800), flopping/dealing/drawing cards
+! 03/05/19 16:58:53! 2 players
+! 03/05/19 16:58:53! Flopped card: Qd
+! 03/05/19 17:05:21! Mark Ballinger checks
+! 03/05/19 17:07:12! SteedCarson checks
+
+! 03/05/19 17:07:12! Pot right ($52800), flopping/dealing/drawing cards
+! 03/05/19 17:07:12! 2 players
+! 03/05/19 17:07:12! Flopped card: 2h
+! 03/05/19 17:07:12! Mark Ballinger checks
+! 03/05/19 17:09:18! SteedCarson checks
+! Hand over, current board is:  9d 3h 4c Qd 2h
+! Mark Ballinger           has: 6d 6c
+! SteedCarson              has: As 4s
+! Mark Ballinger wins $52800 (net $29900) with One Pair (6 6 Q 9 4)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   bert_ofcl                |  128150 |         |      |    |         |
+ 2|D> Mark Ballinger           |  117100 |         |      |    |         |
+ 3|   Sam Parazette            |  380700 |         |      |    |         |
+ 5|   tarigojaergihioahdged    |  216775 |         |      |    |         |
+ 6|   sltLonghorn              |  293350 |         |      |    |         |
+ 7|   Mother Speaks            |  132700 |         |      |    |         |
+ 8|   Rich Guidoboni           |   46050 |         |      |    |         |
+ 9|   SteedCarson              |  578800 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 146 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d11.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 11
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

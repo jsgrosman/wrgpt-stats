@@ -1,0 +1,107 @@
+Subject: [d5.10366] Holdem Game Broadcast Message(*)
+
+! Table d5, Hand 284, Day 115
+
+! AveCat calls 
+! Pot right ($390800), flopping/dealing/drawing cards
+! 4 players, 3 all in
+! Flopped cards: 10d Ks 2d
+! Flopped card: 6c
+! Flopped card: 6h
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  AveCat                   |  141400 |  127350 |      |  2 |  112500 |
+ 2|   Bob Brewster             |  132075 |     600 |folded|    |         |
+ 3|   the cake is a pie        |  249050 |     600 |folded|    |         |
+ 4|   David Kuznick            |       0 |   71100 |all-in|  3 |   45300 |
+ 5|   Jeff Palmucci            |       0 |   56000 |all-in|  4 |  233000 |
+ 6|D  zipper                   |  138100 |     600 |folded|    |         |
+ 7|   GwynnInTheHall           |  176400 |    2600 |folded|    |         |
+ 8|   DazedAndConfused         |  396900 |    4600 |folded|    |         |
+ 9|   breyercalvert            |       0 |  127350 |all-in|  2 |  112500 |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/06/19 11:42:25! Dealing a new hand
+! 03/06/19 11:42:25! Everyone antes $600
+! 03/06/19 11:42:25! GwynnInTheHall blinds $2000
+! 03/06/19 11:42:25! DazedAndConfused blinds $4000
+! 03/06/19 12:18:55! breyercalvert raises $4800 to $8800 total 
+! 03/06/19 12:42:49! AveCat calls 
+! 03/06/19 13:36:12! Bob Brewster folds
+! 03/06/19 13:36:12! the cake is a pie folds
+! 03/06/19 13:53:58! David Kuznick raises $61700 to $70500 total and is all in
+! 03/06/19 14:21:49! Jeff Palmucci calls - side pot
+! 03/06/19 14:21:49! zipper folds
+! 03/06/19 14:47:06! GwynnInTheHall folds
+! 03/06/19 14:47:06! DazedAndConfused folds
+! 03/06/19 14:59:59! breyercalvert raises $56250 to $126750 total and is all in
+! 03/06/19 15:30:08! AveCat calls 
+
+! 03/06/19 15:30:08! Pot right ($390800), flopping/dealing/drawing cards
+! 03/06/19 15:30:08! 4 players, 3 all in
+! 03/06/19 15:30:08! Flopped cards: 10d Ks 2d
+! 03/06/19 15:30:08! Flopped card: 6c
+! 03/06/19 15:30:08! Flopped card: 6h
+! Hand over, current board is:  10d Ks 2d 6c 6h
+! AveCat                   has: As Ah
+! David Kuznick            has: Ad Jc
+! Jeff Palmucci            has: Kd Kc
+! breyercalvert            has: 10s 10c
+! Pot 2: breyercalvert wins $112500 with Full House (10 10 10 6 6)
+! Pot 3: breyercalvert wins $45300 with Full House (10 10 10 6 6)
+! Pot 4: Jeff Palmucci wins $233000 with Full House (K K K 6 6)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  AveCat                   |  141400 |         |      |    |         |
+ 2|   Bob Brewster             |  132075 |         |      |    |         |
+ 3|   the cake is a pie        |  249050 |         |      |    |         |
+ 5|   Jeff Palmucci            |  233000 |         |      |    |         |
+ 6|   zipper                   |  138100 |         |      |    |         |
+ 7|D  GwynnInTheHall           |  176400 |         |      |    |         |
+ 8|   DazedAndConfused         |  396900 |         |      |    |         |
+ 9|   breyercalvert            |  157800 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! David Kuznick is eliminated!
+! 134 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d5.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

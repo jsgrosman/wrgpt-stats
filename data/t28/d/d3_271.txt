@@ -1,0 +1,109 @@
+Subject: [d3.10218] Holdem Game Broadcast Message(*)
+
+! Table d3, Hand 271, Day 103
+
+! Brian Crowley calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Brian Crowley            |  479725 |   47700 |      |    |         |
+ 2|   drjeys                   |  278950 |     400 |folded|    |         |
+ 3|D  Ben Buchwald             |  195525 |     400 |folded|    |         |
+ 5|V  Diputsur                 |   23025 |    2000 |<AWOL>|    |         |
+ 6|   CAB                      |  269625 |    7950 |folded|    |         |
+ 7|   Camo                     |  124825 |     400 |folded|    |         |
+ 8|   What Beats What Again    |   48700 |     400 |folded|    |         |
+ 9|>  Mike Litoris             |  144625 |   47700 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/22/19 07:14:08! Dealing a new hand
+! 02/22/19 07:14:08! Everyone antes $400
+! 02/22/19 07:14:08! Diputsur blinds $1600
+! 02/22/19 07:14:08! CAB blinds $3200
+! 02/22/19 09:41:55! Camo folds
+! 02/22/19 11:10:15! What Beats What Again folds
+! 02/22/19 11:34:54! Mike Litoris raises $4350 to $7550 total 
+! 02/22/19 11:34:54! Brian Crowley calls 
+! 02/22/19 11:34:54! drjeys folds
+! 02/22/19 11:34:54! Ben Buchwald folds
+! 02/22/19 11:34:54! Diputsur is on vacation and folds
+! 02/22/19 11:50:53! CAB calls 
+
+! 02/22/19 11:50:53! Pot right ($27450), flopping/dealing/drawing cards
+! 02/22/19 11:50:53! 3 players
+! 02/22/19 11:50:53! Flopped cards: 4h 4d Qh
+! 02/22/19 12:11:57! CAB checks
+! 02/22/19 12:23:05! Mike Litoris checks
+! 02/22/19 13:05:39! Brian Crowley bets $12000 
+! 02/22/19 13:11:05! CAB folds
+! 02/22/19 13:32:43! Mike Litoris calls 
+
+! 02/22/19 13:32:43! Pot right ($51450), flopping/dealing/drawing cards
+! 02/22/19 13:32:43! 2 players
+! 02/22/19 13:32:43! Flopped card: 2h
+! 02/22/19 13:59:12! Mike Litoris checks
+! 02/22/19 14:57:18! Brian Crowley checks
+
+! 02/22/19 14:57:18! Pot right ($51450), flopping/dealing/drawing cards
+! 02/22/19 14:57:18! 2 players
+! 02/22/19 14:57:18! Flopped card: Ah
+! 02/22/19 15:07:28! Mike Litoris bets $27750 
+! 02/22/19 15:08:04! Brian Crowley calls 
+! Hand over, current board is:  4h 4d Qh 2h Ah
+! Brian Crowley            has: 8d 8c
+! Mike Litoris             has: 5h 5c
+! Mike Litoris wins $106950 (net $59250) with Heart Flush (A Q 5 4 2)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Brian Crowley            |  479725 |         |      |    |         |
+ 2|   drjeys                   |  278950 |         |      |    |         |
+ 3|   Ben Buchwald             |  195525 |         |      |    |         |
+ 5|DV Diputsur                 |   23025 |         |<AWOL>|    |         |
+ 6|   CAB                      |  269625 |         |      |    |         |
+ 7|   Camo                     |  124825 |         |      |    |         |
+ 8|   What Beats What Again    |   48700 |         |      |    |         |
+ 9|>  Mike Litoris             |  251575 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 191 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d3.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 7
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

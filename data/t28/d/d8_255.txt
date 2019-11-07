@@ -1,0 +1,112 @@
+Subject: [d8.10052] Holdem Game Broadcast Message(*)
+
+! Table d8, Hand 255, Day 100
+
+! mark gray checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  Wally F                  |  205025 |    9200 |      |    |         |
+ 2|   siona                    |   18925 |     400 |folded|    |         |
+ 3|   Eric Brassell            |  384400 |       0 |New   |    |         |
+ 4|D  mark gray                |  110450 |    9200 |      |    |         |
+ 5|   JK                       |   23275 |    2000 |folded|    |         |
+ 6|   AlbinoSmurf              |  371350 |    3600 |folded|    |         |
+ 7|   Piojos                   |  254350 |     400 |folded|    |         |
+ 8|   Don Overton              |  134350 |     400 |folded|    |         |
+ 9|   BigElmo                  |   96200 |     400 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/18/19 12:51:52! Dealing a new hand
+! 02/18/19 12:51:52! Everyone antes $400
+! 02/18/19 12:51:52! JK blinds $1600
+! 02/18/19 12:51:52! AlbinoSmurf blinds $3200
+! 02/18/19 12:52:50! Piojos folds
+! 02/18/19 12:55:05! New player added to the table: Eric Brassell
+! 02/18/19 13:01:43! Don Overton folds
+! 02/18/19 13:04:08! BigElmo folds
+! 02/18/19 13:27:08! Wally F calls 
+! 02/18/19 13:27:08! siona folds
+! 02/18/19 13:50:27! mark gray calls 
+! 02/18/19 14:45:29! JK folds
+! 02/18/19 14:48:18! AlbinoSmurf checks
+
+! 02/18/19 14:48:18! Pot right ($14400), flopping/dealing/drawing cards
+! 02/18/19 14:48:18! 3 players
+! 02/18/19 14:48:18! Flopped cards: 3h 4d Kh
+! 02/18/19 14:50:06! AlbinoSmurf checks
+! 02/18/19 14:51:50! Wally F checks
+! 02/18/19 15:08:47! mark gray bets $5600 
+! 02/18/19 15:24:04! AlbinoSmurf folds
+! 02/18/19 15:26:50! Wally F calls 
+
+! 02/18/19 15:26:50! Pot right ($25600), flopping/dealing/drawing cards
+! 02/18/19 15:26:50! 2 players
+! 02/18/19 15:26:50! Flopped card: 2d
+! 02/18/19 15:27:16! Wally F checks
+! 02/19/19 02:04:30! mark gray checks
+
+! 02/19/19 02:04:30! Pot right ($25600), flopping/dealing/drawing cards
+! 02/19/19 02:04:30! 2 players
+! 02/19/19 02:04:30! Flopped card: Qc
+! 02/19/19 07:51:46! Wally F checks
+! 02/19/19 09:46:42! mark gray checks
+! Hand over, current board is:  3h 4d Kh 2d Qc
+! Wally F                  has: Ad Jd
+! mark gray                has: Js 10h
+! Wally F wins $25600 (net $16400) with No Pair (A K Q J 4)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  Wally F                  |  230625 |         |      |    |         |
+ 2|   siona                    |   18925 |         |      |    |         |
+ 3|   Eric Brassell            |  384400 |         |      |    |         |
+ 4|   mark gray                |  110450 |         |      |    |         |
+ 5|D  JK                       |   23275 |         |      |    |         |
+ 6|   AlbinoSmurf              |  371350 |         |      |    |         |
+ 7|   Piojos                   |  254350 |         |      |    |         |
+ 8|   Don Overton              |  134350 |         |      |    |         |
+ 9|   BigElmo                  |   96200 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 211 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d8.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 4
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

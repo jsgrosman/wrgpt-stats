@@ -1,0 +1,110 @@
+Subject: [d13.10567] Holdem Game Broadcast Message(*)
+
+! Table d13, Hand 310, Day 123
+
+! HeyBuster folds
+! Pot right ($99750), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 2d
+! Flopped card: 10c
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Nitcast                  |       0 |    3550 |all-in|  4 |   16600 |
+ 2|   Ace Squared              |  282425 |    4600 |folded|    |         |
+ 3|   Bluffmaster              |   84150 |     600 |folded|    |         |
+ 5|>  Chris Goedde             |  557000 |   64600 |      |  1 |   83150 |
+ 6|   HeyBuster                |  269275 |   24600 |folded|    |         |
+ 7|   Kahomono                 |  171650 |     600 |folded|    |         |
+ 8|   Oaktowndad               |  193150 |     600 |folded|    |         |
+ 9|D  David Weiss              |  135400 |     600 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/14/19 09:08:21! Dealing a new hand
+! 03/14/19 09:08:21! Everyone antes $600
+! 03/14/19 09:08:21! Nitcast blinds $2000
+! 03/14/19 09:08:21! Ace Squared blinds $4000
+! 03/14/19 11:05:05! Bluffmaster folds
+_____________________________________________________________________________
+
+! Thought I was probably going out there.
+! -- Chris Goedde --
+_____________________________________________________________________________
+
+! 03/14/19 11:06:31! Chris Goedde raises $20000 to $24000 total 
+! 03/14/19 11:06:31! HeyBuster calls 
+! 03/14/19 11:06:31! Kahomono folds
+! 03/14/19 11:55:45! Oaktowndad folds
+! 03/14/19 11:55:45! David Weiss folds
+! 03/14/19 11:55:45! Nitcast calls - side pot
+! 03/14/19 11:59:57! Ace Squared folds
+
+! 03/14/19 11:59:57! Pot right ($59750), flopping/dealing/drawing cards
+! 03/14/19 11:59:57! 3 players, 1 all in
+! 03/14/19 11:59:57! Flopped cards: Qc 3d 9h
+! 03/14/19 12:17:51! Chris Goedde bets $40000 
+! 03/14/19 12:59:35! HeyBuster folds
+
+! 03/14/19 12:59:35! Pot right ($99750), flopping/dealing/drawing cards
+! 03/14/19 12:59:35! 2 players, 1 all in
+! 03/14/19 12:59:35! Flopped card: 2d
+! 03/14/19 12:59:35! Flopped card: 10c
+! Hand over, current board is:  Qc 3d 9h 2d 10c
+! Nitcast                  has: Qs 5d
+! Chris Goedde             has: 10s 10h
+! Pot 1: uncalled $83150 returned to Chris Goedde
+! Pot 4: Chris Goedde wins $16600 with Three of a Kind (10 10 10 Q 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|   Ace Squared              |  282425 |         |      |    |         |
+ 3|   Bluffmaster              |   84150 |         |      |    |         |
+ 5|>  Chris Goedde             |  656750 |         |      |    |         |
+ 6|   HeyBuster                |  269275 |         |      |    |         |
+ 7|   Kahomono                 |  171650 |         |      |    |         |
+ 8|   Oaktowndad               |  193150 |         |      |    |         |
+ 9|D  David Weiss              |  135400 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Nitcast is eliminated!
+! Bluffmaster went on vacation until 18 MAR
+! 109 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d13.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 7
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

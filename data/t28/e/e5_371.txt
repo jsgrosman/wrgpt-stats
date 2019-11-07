@@ -1,0 +1,114 @@
+Subject: [e5.10230] Holdem Game Broadcast Message(*)
+
+! Table e5, Hand 371, Day 145
+
+! JPP checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  Felix Leiter             |  575450 |   70600 |      |    |         |
+ 2|   BBLWOG                   |  332025 |       0 |New   |    |         |
+ 3|   bert_ofcl                |  276825 |       0 |New   |    |         |
+ 4|   Thomas Sims              |  253625 |    1000 |folded|    |         |
+ 5|   Ken Anderson             |  420100 |    1000 |folded|    |         |
+ 6|   shinsook                 |  535850 |    1000 |folded|    |         |
+ 7|   JPP                      |  443975 |   70600 |      |    |         |
+ 8|D  sltLonghorn              |  962975 |    1000 |folded|    |         |
+ 9|   Stubey                   |  425275 |   32600 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 04/04/19 11:40:32! Dealing a new hand
+! 04/04/19 11:40:32! Everyone antes $1000
+! 04/04/19 11:40:32! Stubey blinds $6000
+! 04/04/19 11:40:32! Felix Leiter blinds $12000
+! 04/04/19 15:31:31! Thomas Sims folds
+! 04/04/19 15:31:31! Ken Anderson folds
+! 04/04/19 17:05:37! shinsook folds
+! 04/04/19 17:41:37! JPP raises $19600 to $31600 total 
+! 04/04/19 17:43:27! sltLonghorn folds
+! 04/04/19 17:49:19! Stubey calls 
+! 04/04/19 17:55:04! New player added to the table: BBLWOG
+! 04/04/19 21:25:08! New player added to the table: bert_ofcl
+! 04/05/19 04:36:28! Felix Leiter calls 
+
+! 04/05/19 04:36:28! Pot right ($101800), flopping/dealing/drawing cards
+! 04/05/19 04:36:28! 3 players
+! 04/05/19 04:36:28! Flopped cards: Qd Js Qc
+! 04/05/19 05:00:02! Stubey checks
+! 04/05/19 06:55:49! Felix Leiter bets $38000 
+! 04/05/19 07:00:18! JPP calls 
+! 04/05/19 07:15:07! Stubey folds
+
+! 04/05/19 07:15:07! Pot right ($177800), flopping/dealing/drawing cards
+! 04/05/19 07:15:07! 2 players
+! 04/05/19 07:15:07! Flopped card: 2h
+! 04/05/19 07:15:43! Felix Leiter checks
+! 04/05/19 07:29:33! JPP checks
+
+! 04/05/19 07:29:33! Pot right ($177800), flopping/dealing/drawing cards
+! 04/05/19 07:29:33! 2 players
+! 04/05/19 07:29:33! Flopped card: Kd
+! 04/05/19 07:31:19! Felix Leiter checks
+! 04/05/19 07:43:42! JPP checks
+! Hand over, current board is:  Qd Js Qc 2h Kd
+! Felix Leiter             has: 7d 8c
+! JPP                      has: Jc 10c
+! JPP wins $177800 (net $107200) with Two Pair (Q Q J J K)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  Felix Leiter             |  575450 |         |      |    |         |
+ 2|   BBLWOG                   |  332025 |         |      |    |         |
+ 3|   bert_ofcl                |  276825 |         |      |    |         |
+ 4|   Thomas Sims              |  253625 |         |      |    |         |
+ 5|   Ken Anderson             |  420100 |         |      |    |         |
+ 6|   shinsook                 |  535850 |         |      |    |         |
+ 7|   JPP                      |  621775 |         |      |    |         |
+ 8|   sltLonghorn              |  962975 |         |      |    |         |
+ 9|D  Stubey                   |  425275 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 62 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/e/e5.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+We are down to few enough tables that players
+may be moved to rebalance tables when there
+are not enough empty seats to break a table.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 1
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

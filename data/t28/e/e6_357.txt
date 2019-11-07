@@ -1,0 +1,95 @@
+Subject: [e6.10127] Holdem Game Broadcast Message(*)
+
+! Table e6, Hand 357, Day 138
+
+! the cake is a pie folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Ryan Thomas              |  172525 |   19000 |folded|    |         |
+ 2|   sgranen                  |  118425 |    1000 |folded|    |         |
+ 3|D  the cake is a pie        |  166900 |   19000 |folded|    |         |
+ 4|   Billco                   |  741825 |    4000 |folded|    |         |
+ 5|>  Steve Zagieboylo         |  323375 |   74000 |      |    |         |
+ 6|   poohbear                 |  477500 |    1000 |folded|    |         |
+ 7|   Bob Brewster             |  215500 |   19000 |folded|    |         |
+ 9|   David Weiss              |  142475 |    1000 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/28/19 12:47:13! Dealing a new hand
+! 03/28/19 12:47:13! Everyone antes $1000
+! 03/28/19 12:47:13! Billco blinds $3000
+! 03/28/19 12:47:13! Steve Zagieboylo blinds $6000
+! 03/28/19 15:36:03! poohbear folds
+! 03/28/19 17:42:31! Bob Brewster calls 
+! 03/28/19 17:42:31! David Weiss folds
+! 03/28/19 18:24:51! Ryan Thomas raises $12000 to $18000 total 
+! 03/28/19 18:24:51! sgranen folds
+! 03/28/19 18:29:14! the cake is a pie calls 
+! 03/29/19 04:39:13! Billco folds
+! 03/29/19 04:39:13! Steve Zagieboylo calls 
+! 03/29/19 06:02:07! Bob Brewster calls 
+
+! 03/29/19 06:02:07! Pot right ($83000), flopping/dealing/drawing cards
+! 03/29/19 06:02:07! 4 players
+! 03/29/19 06:02:07! Flopped cards: 3d 4s 6c
+! 03/29/19 06:32:32! Steve Zagieboylo bets $55000 
+! 03/29/19 06:42:16! Bob Brewster folds
+! 03/29/19 07:09:45! Ryan Thomas folds
+! 03/29/19 07:10:56! the cake is a pie folds
+! Hand over, no showdown
+! Current board is:  3d 4s 6c ? ?
+! Steve Zagieboylo wins $138000 (net $64000)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Ryan Thomas              |  172525 |         |      |    |         |
+ 2|   sgranen                  |  118425 |         |      |    |         |
+ 3|   the cake is a pie        |  166900 |         |      |    |         |
+ 4|D  Billco                   |  741825 |         |      |    |         |
+ 5|>  Steve Zagieboylo         |  461375 |         |      |    |         |
+ 6|   poohbear                 |  477500 |         |      |    |         |
+ 7|   Bob Brewster             |  215500 |         |      |    |         |
+ 9|   David Weiss              |  142475 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 74 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/e/e6.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

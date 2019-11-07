@@ -1,0 +1,111 @@
+Subject: [c16.10719] Holdem Game Broadcast Message(*)
+
+! Table c16, Hand 214, Day 94
+
+! Richard Rognlie checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   ThinkingPokerAndrew      |   40975 |     300 |folded|    |         |
+ 2|   Fish Doctor              |  143525 |     300 |folded|    |         |
+ 4|   Richard Rognlie          |  173675 |    7500 |      |    |         |
+ 5|   BaconPancakes            |   65450 |     300 |folded|    |         |
+ 6|D  TwelveSeven              |  239100 |     300 |folded|    |         |
+ 7|   All In a daze work       |   76250 |    1300 |folded|    |         |
+ 8|   rbmoore                  |       0 |    7500 |all-in|    |         |
+ 9|>  sltLonghorn              |  246750 |    7500 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/12/19 13:19:20! Dealing a new hand
+! 02/12/19 13:19:20! Everyone antes $300
+! 02/12/19 13:19:20! All In a daze work blinds $1000
+! 02/12/19 13:19:20! rbmoore blinds $2000
+! 02/12/19 14:31:46! sltLonghorn calls 
+! 02/12/19 14:33:42! ThinkingPokerAndrew folds
+! 02/12/19 15:20:57! Fish Doctor folds
+! 02/12/19 15:20:57! Richard Rognlie raises $4500 to $6500 total 
+! 02/12/19 15:20:57! BaconPancakes folds
+! 02/12/19 15:25:53! TwelveSeven folds
+! 02/12/19 15:45:34! All In a daze work folds
+! 02/12/19 20:26:14! rbmoore raises $700 to $7200 total and is all in
+! 02/12/19 21:03:25! sltLonghorn calls 
+! 02/13/19 04:13:18! Richard Rognlie calls 
+
+! 02/13/19 04:13:18! Pot right ($25000), flopping/dealing/drawing cards
+! 02/13/19 04:13:18! 3 players, 1 all in
+! 02/13/19 04:13:18! Flopped cards: 10d 7c 9c
+! 02/13/19 06:40:03! sltLonghorn checks
+! 02/13/19 06:53:40! Richard Rognlie checks
+
+! 02/13/19 06:53:40! Pot right ($25000), flopping/dealing/drawing cards
+! 02/13/19 06:53:40! 3 players, 1 all in
+! 02/13/19 06:53:40! Flopped card: Ad
+! 02/13/19 07:03:50! sltLonghorn checks
+! 02/13/19 08:18:44! Richard Rognlie checks
+
+! 02/13/19 08:18:44! Pot right ($25000), flopping/dealing/drawing cards
+! 02/13/19 08:18:44! 3 players, 1 all in
+! 02/13/19 08:18:44! Flopped card: As
+! 02/13/19 08:19:59! sltLonghorn checks
+! 02/13/19 08:58:56! Richard Rognlie checks
+! Hand over, current board is:  10d 7c 9c Ad As
+! Richard Rognlie          has: Kh 9h
+! rbmoore                  has: Ks 3c
+! sltLonghorn              has: Ah 2h
+! sltLonghorn wins $25000 (net $17500) with Three of a Kind (A A A 10 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   ThinkingPokerAndrew      |   40975 |         |      |    |         |
+ 2|   Fish Doctor              |  143525 |         |      |    |         |
+ 4|   Richard Rognlie          |  173675 |         |      |    |         |
+ 5|   BaconPancakes            |   65450 |         |      |    |         |
+ 6|   TwelveSeven              |  239100 |         |      |    |         |
+ 7|D  All In a daze work       |   76250 |         |      |    |         |
+ 9|>  sltLonghorn              |  271750 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! rbmoore is eliminated!
+! 223 players left in the tournament 
+! Table finished, waiting to redraw seats.
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c16.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+The c round is ending.  Finish your current hand so
+that the new d round can be drawn.
+Thanks.  Good luck.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 37
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,109 @@
+Subject: [d1.10293] Holdem Game Broadcast Message(*)
+
+! Table d1, Hand 282, Day 110
+
+! MTpotts checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Ed Baker                 |   69000 |     400 |folded|    |         |
+ 2|   ADB Foldem               |  164925 |     400 |folded|    |         |
+ 3|   tristero                 |  167250 |     400 |folded|    |         |
+ 4|   MTpotts                  |   97700 |    3600 |      |    |         |
+ 5|D  Loudlion                 |   47825 |     400 |folded|    |         |
+ 6|   Spidurman                |   71700 |    2000 |folded|    |         |
+ 7|>  Tom Bayz                 |  103450 |    3600 |      |    |         |
+ 8|   Alvin Chipmunk           |  167375 |     400 |folded|    |         |
+ 9|   TennisGeek               |  249325 |     400 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/28/19 13:28:45! Dealing a new hand
+! 02/28/19 13:28:45! Everyone antes $400
+! 02/28/19 13:28:45! Spidurman blinds $1600
+! 02/28/19 13:28:45! Tom Bayz blinds $3200
+! 02/28/19 13:45:28! Alvin Chipmunk folds
+! 02/28/19 13:45:28! TennisGeek folds
+! 02/28/19 13:45:28! Ed Baker folds
+! 02/28/19 13:45:28! ADB Foldem folds
+! 02/28/19 14:14:48! tristero folds
+! 02/28/19 15:54:51! MTpotts calls 
+! 02/28/19 15:54:51! Loudlion folds
+! 02/28/19 15:54:51! Spidurman folds
+! 02/28/19 16:36:58! Tom Bayz checks
+
+! 02/28/19 16:36:58! Pot right ($11600), flopping/dealing/drawing cards
+! 02/28/19 16:36:58! 2 players
+! 02/28/19 16:36:58! Flopped cards: 6h 8h Kc
+! 02/28/19 16:37:38! Tom Bayz checks
+! 02/28/19 19:30:25! MTpotts checks
+
+! 02/28/19 19:30:25! Pot right ($11600), flopping/dealing/drawing cards
+! 02/28/19 19:30:25! 2 players
+! 02/28/19 19:30:25! Flopped card: 3c
+! 03/01/19 03:45:12! Tom Bayz checks
+! 03/01/19 04:24:58! MTpotts checks
+
+! 03/01/19 04:24:58! Pot right ($11600), flopping/dealing/drawing cards
+! 03/01/19 04:24:58! 2 players
+! 03/01/19 04:24:58! Flopped card: 8c
+! 03/01/19 05:25:12! Tom Bayz checks
+! 03/01/19 06:10:43! MTpotts checks
+! Hand over, current board is:  6h 8h Kc 3c 8c
+! MTpotts                  has: 9h Ad
+! Tom Bayz                 has: 4h 10d
+! MTpotts wins $11600 (net $8000) with One Pair (8 8 A K 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Ed Baker                 |   69000 |         |      |    |         |
+ 2|   ADB Foldem               |  164925 |         |      |    |         |
+ 3|   tristero                 |  167250 |         |      |    |         |
+ 4|   MTpotts                  |  109300 |         |      |    |         |
+ 5|   Loudlion                 |   47825 |         |      |    |         |
+ 6|D  Spidurman                |   71700 |         |      |    |         |
+ 7|>  Tom Bayz                 |  103450 |         |      |    |         |
+ 8|   Alvin Chipmunk           |  167375 |         |      |    |         |
+ 9|   TennisGeek               |  249325 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 167 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d1.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 4
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

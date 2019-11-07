@@ -1,0 +1,98 @@
+Subject: [d1.10581] Holdem Game Broadcast Message(*)
+
+! Table d1, Hand 312, Day 123
+
+! ADB Foldem folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   rAmAk                    |  148600 |    4600 |folded|    |         |
+ 2|   ADB Foldem               |  285925 |    4600 |folded|    |         |
+ 3|   BrownTrout               |   90200 |     600 |folded|    |         |
+ 4|   MTpotts                  |   76500 |     600 |folded|    |         |
+ 5|   SunnyGirl                |  436600 |     600 |folded|    |         |
+ 6|   Spidurman                |  293000 |     600 |folded|    |         |
+ 7|   JohnnyMac                |  269400 |     600 |folded|    |         |
+ 8|>  Alvin Chipmunk           |  448525 |   19600 |      |    |         |
+ 9|DV TennisGeek               |  444225 |     600 |<Gone>|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/14/19 05:38:04! Dealing a new hand
+! 03/14/19 05:38:04! Everyone antes $600
+! 03/14/19 05:38:04! rAmAk blinds $2000
+! 03/14/19 05:38:04! ADB Foldem blinds $4000
+! 03/14/19 09:49:33! BrownTrout folds
+! 03/14/19 09:49:33! MTpotts folds
+! 03/14/19 12:52:10! SunnyGirl folds
+! 03/14/19 12:52:10! Spidurman folds
+! 03/14/19 12:52:10! JohnnyMac folds
+! 03/14/19 13:11:24! Alvin Chipmunk calls 
+! 03/14/19 13:11:24! TennisGeek is on vacation and folds
+! 03/14/19 13:18:42! rAmAk calls 
+! 03/14/19 13:18:42! ADB Foldem checks
+
+! 03/14/19 13:18:42! Pot right ($17400), flopping/dealing/drawing cards
+! 03/14/19 13:18:42! 3 players
+! 03/14/19 13:18:42! Flopped cards: Ah As 6s
+! 03/14/19 13:19:16! rAmAk checks
+! 03/14/19 13:27:03! ADB Foldem checks
+! 03/14/19 13:30:16! Alvin Chipmunk bets $15000 
+! 03/14/19 13:37:53! rAmAk folds
+! 03/14/19 14:17:11! ADB Foldem folds
+! Hand over, no showdown
+! Current board is:  Ah As 6s ? ?
+! Alvin Chipmunk wins $32400 (net $12800)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  rAmAk                    |  148600 |         |      |    |         |
+ 2|   ADB Foldem               |  285925 |         |      |    |         |
+ 3|   BrownTrout               |   90200 |         |      |    |         |
+ 4|   MTpotts                  |   76500 |         |      |    |         |
+ 5|   SunnyGirl                |  436600 |         |      |    |         |
+ 6|   Spidurman                |  293000 |         |      |    |         |
+ 7|   JohnnyMac                |  269400 |         |      |    |         |
+ 8|>  Alvin Chipmunk           |  480925 |         |      |    |         |
+ 9|V  TennisGeek               |  444225 |         |<Gone>|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 109 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d1.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

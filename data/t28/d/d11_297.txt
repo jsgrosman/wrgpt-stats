@@ -1,0 +1,109 @@
+Subject: [d11.10518] Holdem Game Broadcast Message(*)
+
+! Table d11, Hand 297, Day 115
+
+! SteedCarson checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   bert_ofcl                |  116950 |     600 |folded|    |         |
+ 2|   Mark Ballinger           |  115900 |     600 |folded|    |         |
+ 3|D  Sam Parazette            |  367500 |   10600 |folded|    |         |
+ 5|   tarigojaergihioahdged    |  201575 |   10600 |folded|    |         |
+ 6|>  sltLonghorn              |  214150 |   78600 |      |    |         |
+ 7|   Mother Speaks            |  162300 |     600 |folded|    |         |
+ 8|   Rich Guidoboni           |   44850 |     600 |folded|    |         |
+ 9|   SteedCarson              |  489600 |   78600 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/06/19 09:59:40! Dealing a new hand
+! 03/06/19 09:59:40! Everyone antes $600
+! 03/06/19 09:59:40! tarigojaergihioahdged blinds $2000
+! 03/06/19 09:59:40! sltLonghorn blinds $4000
+! 03/06/19 10:30:32! Mother Speaks folds
+! 03/06/19 10:32:56! Rich Guidoboni folds
+! 03/06/19 10:58:53! SteedCarson raises $6000 to $10000 total 
+! 03/06/19 10:58:53! bert_ofcl folds
+! 03/06/19 11:10:26! Mark Ballinger folds
+! 03/06/19 11:38:43! Sam Parazette calls 
+! 03/06/19 12:07:38! tarigojaergihioahdged calls 
+! 03/06/19 12:10:55! sltLonghorn calls 
+
+! 03/06/19 12:10:55! Pot right ($44800), flopping/dealing/drawing cards
+! 03/06/19 12:10:55! 4 players
+! 03/06/19 12:10:55! Flopped cards: 10d Qc 2s
+! 03/06/19 12:12:22! tarigojaergihioahdged checks
+! 03/06/19 12:24:04! sltLonghorn bets $22000 
+! 03/06/19 12:47:18! SteedCarson raises $46000 to $68000 total 
+! 03/06/19 13:34:09! Sam Parazette folds
+! 03/06/19 13:34:09! tarigojaergihioahdged folds
+! 03/06/19 13:43:05! sltLonghorn calls 
+
+! 03/06/19 13:43:05! Pot right ($180800), flopping/dealing/drawing cards
+! 03/06/19 13:43:05! 2 players
+! 03/06/19 13:43:05! Flopped card: Jc
+! 03/06/19 13:46:51! sltLonghorn checks
+! 03/06/19 13:47:30! SteedCarson checks
+
+! 03/06/19 13:47:30! Pot right ($180800), flopping/dealing/drawing cards
+! 03/06/19 13:47:30! 2 players
+! 03/06/19 13:47:30! Flopped card: 7h
+! 03/06/19 14:41:17! sltLonghorn checks
+! 03/06/19 15:01:03! SteedCarson checks
+! Hand over, current board is:  10d Qc 2s Jc 7h
+! sltLonghorn              has: Ac 10c
+! SteedCarson              has: Kh Qd
+! SteedCarson wins $180800 (net $102200) with One Pair (Q Q K J 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   bert_ofcl                |  116950 |         |      |    |         |
+ 2|   Mark Ballinger           |  115900 |         |      |    |         |
+ 3|   Sam Parazette            |  367500 |         |      |    |         |
+ 5|D  tarigojaergihioahdged    |  201575 |         |      |    |         |
+ 6|>  sltLonghorn              |  214150 |         |      |    |         |
+ 7|   Mother Speaks            |  162300 |         |      |    |         |
+ 8|   Rich Guidoboni           |   44850 |         |      |    |         |
+ 9|   SteedCarson              |  670400 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 135 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d11.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,107 @@
+Subject: [d16.10198] Holdem Game Broadcast Message(*)
+
+! Table d16, Hand 269, Day 110
+
+! Daniel Levine calls - side pot
+! Pot right ($165650), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped card: 8s
+! Flopped card: 3d
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   ADB Jaeger               |  269150 |    2000 |folded|    |         |
+ 2|   Big Bobby Dollar         |  322500 |    3600 |folded|    |         |
+ 3|   fich                     |   62475 |     400 |folded|    |         |
+ 4|   EricL                    |  207100 |     400 |folded|    |         |
+ 5|   dubldown                 |       0 |   94100 |all-in|  1 |   30150 |
+ 6|   Larry W                  |  118825 |     400 |folded|    |         |
+ 7|   rAmAk                    |  153300 |     400 |folded|    |         |
+ 8|   TracyB                   |  143475 |     400 |folded|    |         |
+ 9|D> Daniel Levine            |       0 |   63950 |all-in|  2 |  135500 |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/01/19 06:46:39! Dealing a new hand
+! 03/01/19 06:46:39! Everyone antes $400
+! 03/01/19 06:46:39! ADB Jaeger blinds $1600
+! 03/01/19 06:46:39! Big Bobby Dollar blinds $3200
+! 03/01/19 10:07:22! fich folds
+! 03/01/19 10:07:22! EricL folds
+! 03/01/19 10:53:36! dubldown raises $13600 to $16800 total 
+! 03/01/19 10:53:36! Larry W folds
+! 03/01/19 11:28:33! rAmAk folds
+! 03/01/19 11:28:33! TracyB folds
+! 03/01/19 12:01:36! Daniel Levine calls 
+! 03/01/19 12:14:02! ADB Jaeger folds
+! 03/01/19 12:14:50! Big Bobby Dollar folds
+
+! 03/01/19 12:14:50! Pot right ($42000), flopping/dealing/drawing cards
+! 03/01/19 12:14:50! 2 players
+! 03/01/19 12:14:50! Flopped cards: 7d 6h 7h
+! 03/01/19 12:38:48! dubldown bets $76900 and is all in
+! 03/01/19 12:43:23! Daniel Levine calls - side pot
+
+! 03/01/19 12:43:23! Pot right ($165650), flopping/dealing/drawing cards
+! 03/01/19 12:43:23! 2 players, 2 all in
+! 03/01/19 12:43:23! Flopped card: 8s
+! 03/01/19 12:43:23! Flopped card: 3d
+! Hand over, current board is:  7d 6h 7h 8s 3d
+! dubldown                 has: Kh Kd
+! Daniel Levine            has: Qh Qd
+! Pot 1: uncalled $30150 returned to dubldown
+! Pot 2: dubldown wins $135500 with Two Pair (K K 7 7 8)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  ADB Jaeger               |  269150 |         |      |    |         |
+ 2|   Big Bobby Dollar         |  322500 |         |      |    |         |
+ 3|   fich                     |   62475 |         |      |    |         |
+ 4|   EricL                    |  207100 |         |      |    |         |
+ 5|   dubldown                 |  165650 |         |      |    |         |
+ 6|   Larry W                  |  118825 |         |      |    |         |
+ 7|   rAmAk                    |  153300 |         |      |    |         |
+ 8|   TracyB                   |  143475 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Daniel Levine is eliminated!
+! 165 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d16.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 5
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,101 @@
+Subject: [e4.10199] Holdem Game Broadcast Message(*)
+
+! Table e4, Hand 370, Day 143
+
+! JohnnyMac folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  JohnnyMac                |  238100 |   84000 |folded|    |         |
+ 2|   Tooner                   |  270750 |    1000 |folded|    |         |
+ 3|   AlbinoSmurf              |  947700 |    1000 |folded|    |         |
+ 4|   DaveKal                  |  530700 |    1000 |folded|    |         |
+ 5|   heffmike                 |       0 |  458250 |all-in|    |         |
+ 6|D  EWalk                    |  210550 |    1000 |folded|    |         |
+ 7|   TennisGeek               |   79375 |    7000 |folded|    |         |
+ 8|   CAB                      |  265125 |   13000 |folded|    |         |
+ 9|   ADB Foldem               |  261825 |    1000 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 04/03/19 13:21:40! Dealing a new hand
+! 04/03/19 13:21:40! Everyone antes $1000
+! 04/03/19 13:21:40! TennisGeek blinds $6000
+! 04/03/19 13:21:40! CAB blinds $12000
+! 04/03/19 14:35:29! ADB Foldem folds
+! 04/03/19 14:37:31! JohnnyMac raises $22500 to $34500 total 
+! 04/03/19 14:37:31! Tooner folds
+! 04/03/19 14:37:31! AlbinoSmurf folds
+! 04/03/19 14:48:54! DaveKal folds
+! 04/03/19 15:07:12! heffmike raises $48500 to $83000 total 
+! 04/03/19 15:07:12! EWalk folds
+! 04/03/19 15:07:12! TennisGeek folds
+! 04/03/19 15:16:12! CAB folds
+! 04/03/19 15:17:11! JohnnyMac calls 
+
+! 04/03/19 15:17:11! Pot right ($193000), flopping/dealing/drawing cards
+! 04/03/19 15:17:11! 2 players
+! 04/03/19 15:17:11! Flopped cards: 7c 3d 4s
+! 04/03/19 15:18:07! JohnnyMac checks
+! 04/03/19 15:19:52! heffmike bets $374250 and is all in
+! 04/03/19 15:40:10! JohnnyMac folds
+! Hand over, no showdown
+! Current board is:  7c 3d 4s ? ?
+! heffmike wins $567250 (net $109000)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  JohnnyMac                |  238100 |         |      |    |         |
+ 2|   Tooner                   |  270750 |         |      |    |         |
+ 3|   AlbinoSmurf              |  947700 |         |      |    |         |
+ 4|   DaveKal                  |  530700 |         |      |    |         |
+ 5|   heffmike                 |  567250 |         |      |    |         |
+ 6|   EWalk                    |  210550 |         |      |    |         |
+ 7|D  TennisGeek               |   79375 |         |      |    |         |
+ 8|   CAB                      |  265125 |         |      |    |         |
+ 9|   ADB Foldem               |  261825 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 64 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/e/e4.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+We are down to few enough tables that players
+may be moved to rebalance tables when there
+are not enough empty seats to break a table.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

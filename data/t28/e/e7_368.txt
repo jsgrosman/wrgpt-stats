@@ -1,0 +1,106 @@
+Subject: [e7.10233] Holdem Game Broadcast Message(*)
+
+! Table e7, Hand 368, Day 146
+
+! ddppmm folds
+! Pot right ($222525), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped cards: 9d 8s 5s
+! Flopped card: Kh
+! Flopped card: Ks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   SunnyGirl                |  761400 |    1000 |folded|    |         |
+ 2|   DocOber                  |  786650 |    1000 |folded|    |         |
+ 3|   DadSaysDOH               |       0 |   56425 |all-in|  2 |  131850 |
+ 4|D  Piojos                   |  402225 |    1000 |folded|    |         |
+ 5|   BigElmo                  |       0 |  147100 |all-in|  1 |   90675 |
+ 6|>  ddppmm                   |  279300 |   13000 |folded|    |         |
+ 7|   MOVED Deets              |       0 |    1000 |folded|    |         |
+ 8|   jasong                   |  645750 |    1000 |folded|    |         |
+ 9|   Sam Parazette            |  782850 |    1000 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 04/05/19 10:30:06! Dealing a new hand
+! 04/05/19 10:30:06! Everyone antes $1000
+! 04/05/19 10:30:06! BigElmo blinds $6000
+! 04/05/19 10:30:06! ddppmm blinds $12000
+! 04/05/19 12:41:35! Deets folds
+! 04/05/19 13:06:00! jasong folds
+! 04/05/19 13:06:00! Sam Parazette folds
+! 04/05/19 14:31:34! Player leaving table: Deets
+! 04/05/19 16:05:43! SunnyGirl folds
+! 04/05/19 21:41:47! DocOber folds
+! 04/05/19 22:16:45! DadSaysDOH raises $43425 to $55425 total and is all in
+! 04/05/19 22:45:19! Piojos folds
+! 04/05/19 23:04:17! BigElmo raises $90675 to $146100 total and is all in
+! 04/06/19 05:04:38! ddppmm folds
+
+! 04/06/19 05:04:38! Pot right ($222525), flopping/dealing/drawing cards
+! 04/06/19 05:04:38! 2 players, 2 all in
+! 04/06/19 05:04:38! Flopped cards: 9d 8s 5s
+! 04/06/19 05:04:38! Flopped card: Kh
+! 04/06/19 05:04:38! Flopped card: Ks
+! Hand over, current board is:  9d 8s 5s Kh Ks
+! DadSaysDOH               has: 3s 4c
+! BigElmo                  has: Kd Qd
+! Pot 1: uncalled $90675 returned to BigElmo
+! Pot 2: BigElmo wins $131850 with Three of a Kind (K K K Q 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   SunnyGirl                |  761400 |         |      |    |         |
+ 2|   DocOber                  |  786650 |         |      |    |         |
+ 4|   Piojos                   |  402225 |         |      |    |         |
+ 5|D  BigElmo                  |  222525 |         |      |    |         |
+ 6|>  ddppmm                   |  279300 |         |      |    |         |
+ 8|   jasong                   |  645750 |         |      |    |         |
+ 9|   Sam Parazette            |  782850 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! DadSaysDOH is eliminated!
+! 56 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/e/e7.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+We are down to few enough tables that players
+may be moved to rebalance tables when there
+are not enough empty seats to break a table.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

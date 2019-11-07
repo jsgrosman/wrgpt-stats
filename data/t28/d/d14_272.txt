@@ -1,0 +1,97 @@
+Subject: [d14.10185] Holdem Game Broadcast Message(*)
+
+! Table d14, Hand 272, Day 107
+
+! Barton folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Billco                   |  168450 |     400 |folded|    |         |
+ 2|   put_it_good              |   82525 |       0 |New   |    |         |
+ 3|D  DotMatrix                |   58250 |     400 |folded|    |         |
+ 4|   Barton                   |  403425 |    9850 |folded|    |         |
+ 5|>  Bob R                    |  172175 |   19850 |      |    |         |
+ 6|   Endrju                   |  155200 |     400 |folded|    |         |
+ 7|   Richard Rognlie          |  254400 |     400 |folded|    |         |
+ 8|   Ira Agins                |   51450 |     400 |folded|    |         |
+ 9|   Stephen Mack             |   95325 |     400 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/25/19 07:19:52! Dealing a new hand
+! 02/25/19 07:19:52! Everyone antes $400
+! 02/25/19 07:19:52! Barton blinds $1600
+! 02/25/19 07:19:52! Bob R blinds $3200
+! 02/25/19 07:41:25! Endrju folds
+! 02/25/19 07:41:25! Richard Rognlie folds
+! 02/25/19 08:25:04! New player added to the table: put_it_good
+! 02/25/19 08:36:04! Ira Agins folds
+! 02/25/19 11:21:32! Stephen Mack folds
+! 02/25/19 11:21:32! Billco folds
+! 02/25/19 11:21:32! DotMatrix folds
+! 02/25/19 14:15:43! Barton calls 
+! 02/25/19 14:28:04! Bob R checks
+
+! 02/25/19 14:28:04! Pot right ($9600), flopping/dealing/drawing cards
+! 02/25/19 14:28:04! 2 players
+! 02/25/19 14:28:04! Flopped cards: 7c 3c As
+! 02/25/19 17:22:06! Barton bets $6250 
+! 02/25/19 19:31:04! Bob R raises $10000 to $16250 total 
+! 02/26/19 00:16:25! Barton folds
+! Hand over, no showdown
+! Current board is:  7c 3c As ? ?
+! Bob R wins $32100 (net $12250)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Billco                   |  168450 |         |      |    |         |
+ 2|   put_it_good              |   82525 |         |      |    |         |
+ 3|   DotMatrix                |   58250 |         |      |    |         |
+ 4|D  Barton                   |  403425 |         |      |    |         |
+ 5|>  Bob R                    |  204275 |         |      |    |         |
+ 6|   Endrju                   |  155200 |         |      |    |         |
+ 7|   Richard Rognlie          |  254400 |         |      |    |         |
+ 8|   Ira Agins                |   51450 |         |      |    |         |
+ 9|   Stephen Mack             |   95325 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 181 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d14.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

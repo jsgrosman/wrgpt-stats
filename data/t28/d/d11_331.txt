@@ -1,0 +1,115 @@
+Subject: [d11.10909] Holdem Game Broadcast Message(*)
+
+! Table d11, Hand 331, Day 129
+
+! put_it_good raises $58850 to $137800 total and is all in
+! Pot right ($263550), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped card: Ks
+! Flopped card: 4c
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   bert_ofcl                |  249850 |    1000 |folded|    |         |
+ 2|D> put_it_good              |       0 |  151400 |all-in|  1 |   58850 |
+ 3|   Sam Parazette            |  538650 |   13600 |folded|    |         |
+ 4|   Sir Barlow               |       0 |   92550 |all-in|  2 |  204700 |
+ 5|   tarigojaergihioahdged    |  324475 |    1000 |folded|    |         |
+ 6|   sltLonghorn              |  265300 |    1000 |folded|    |         |
+ 7|   Mother Speaks            |  138900 |    1000 |folded|    |         |
+ 8|   TracyB                   |  197550 |    1000 |folded|    |         |
+ 9|   SteedCarson              |  283450 |    1000 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/19/19 17:28:09! Dealing a new hand
+! 03/19/19 17:28:09! Everyone antes $1000
+! 03/19/19 17:28:09! Sam Parazette blinds $3000
+! 03/19/19 17:28:09! Sir Barlow blinds $6000
+! 03/19/19 17:31:31! tarigojaergihioahdged folds
+! 03/20/19 02:27:28! sltLonghorn folds
+! 03/20/19 02:27:28! Mother Speaks folds
+! 03/20/19 02:27:28! TracyB folds
+! 03/20/19 02:27:28! SteedCarson folds
+! 03/20/19 02:27:28! bert_ofcl folds
+! 03/20/19 02:55:47! put_it_good raises $6600 to $12600 total 
+! 03/20/19 06:06:48! Sam Parazette calls 
+! 03/20/19 06:28:59! Sir Barlow calls 
+
+! 03/20/19 06:28:59! Pot right ($46800), flopping/dealing/drawing cards
+! 03/20/19 06:28:59! 3 players
+! 03/20/19 06:28:59! Flopped cards: Ac Qh 10d
+! 03/20/19 08:47:26! Sam Parazette checks
+! 03/20/19 08:49:20! Sir Barlow checks
+! 03/20/19 08:50:40! put_it_good bets $20500 
+! 03/20/19 08:52:08! Sam Parazette folds
+! 03/20/19 08:57:48! Sir Barlow raises $58450 to $78950 total and is all in
+! 03/20/19 08:58:23! put_it_good raises $58850 to $137800 total and is all in
+
+! 03/20/19 08:58:23! Pot right ($263550), flopping/dealing/drawing cards
+! 03/20/19 08:58:23! 2 players, 2 all in
+! 03/20/19 08:58:23! Flopped card: Ks
+! 03/20/19 08:58:23! Flopped card: 4c
+! Hand over, current board is:  Ac Qh 10d Ks 4c
+! put_it_good              has: 4h Ad
+! Sir Barlow               has: Jh Kd
+! Pot 1: uncalled $58850 returned to put_it_good
+! Pot 2: Sir Barlow wins $204700 with Straight (A K Q J 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   bert_ofcl                |  249850 |         |      |    |         |
+ 2|>  put_it_good              |   58850 |         |      |    |         |
+ 3|D  Sam Parazette            |  538650 |         |      |    |         |
+ 4|   Sir Barlow               |  204700 |         |      |    |         |
+ 5|   tarigojaergihioahdged    |  324475 |         |      |    |         |
+ 6|   sltLonghorn              |  265300 |         |      |    |         |
+ 7|   Mother Speaks            |  138900 |         |      |    |         |
+ 8|   TracyB                   |  197550 |         |      |    |         |
+ 9|   SteedCarson              |  283450 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 95 players left in the tournament, 2 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d11.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+We have played more than 30 days of round d.  Now
+we will play until one table gets to five or fewer
+players at which time we will do a full redraw
+to start the e round.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 13
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

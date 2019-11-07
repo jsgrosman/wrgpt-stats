@@ -1,0 +1,108 @@
+Subject: [c20.10709] Holdem Game Broadcast Message(*)
+
+! Table c20, Hand 215, Day 93
+
+! feodor checks
+! Scooter checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Felix Leiter             |  220800 |    1300 |folded|    |         |
+ 2|>  feodor                   |  116275 |   32325 |      |    |         |
+ 3|   JZK                      |  171425 |     300 |folded|    |         |
+ 4|   DrXenonBloom             |  112550 |     300 |folded|    |         |
+ 5|   Samueladams              |   41550 |     300 |folded|    |         |
+ 7|   Bobby Luckbox            |  152975 |     300 |folded|    |         |
+ 8|D  Scooter                  |  121600 |   32325 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/12/19 12:18:22! Dealing a new hand
+! 02/12/19 12:18:22! Everyone antes $300
+! 02/12/19 12:18:22! Felix Leiter blinds $1000
+! 02/12/19 12:18:22! feodor blinds $2000
+! 02/12/19 12:31:11! JZK folds
+! 02/12/19 12:31:11! DrXenonBloom folds
+! 02/12/19 12:32:48! Samueladams folds
+! 02/12/19 13:03:30! Bobby Luckbox folds
+! 02/12/19 13:20:43! Scooter raises $13000 to $15000 total 
+! 02/12/19 14:26:30! Felix Leiter folds
+! 02/12/19 14:45:04! feodor calls 
+
+! 02/12/19 14:45:04! Pot right ($33100), flopping/dealing/drawing cards
+! 02/12/19 14:45:04! 2 players
+! 02/12/19 14:45:04! Flopped cards: 6c 8h 10s
+! 02/12/19 14:45:59! feodor bets $7025 
+! 02/12/19 14:57:27! Scooter calls 
+
+! 02/12/19 14:57:27! Pot right ($47150), flopping/dealing/drawing cards
+! 02/12/19 14:57:27! 2 players
+! 02/12/19 14:57:27! Flopped card: 2c
+! 02/12/19 15:12:42! feodor bets $10000 
+! 02/12/19 15:34:04! Scooter calls 
+
+! 02/12/19 15:34:04! Pot right ($67150), flopping/dealing/drawing cards
+! 02/12/19 15:34:04! 2 players
+! 02/12/19 15:34:04! Flopped card: 7s
+! 02/12/19 16:09:18! feodor checks
+! 02/12/19 16:09:18! Scooter checks
+! Hand over, current board is:  6c 8h 10s 2c 7s
+! feodor                   has: Ac Qc
+! Scooter                  has: As Jh
+! feodor wins $67150 (net $34825) with No Pair (A Q 10 8 7)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  Felix Leiter             |  220800 |         |      |    |         |
+ 2|>  feodor                   |  183425 |         |      |    |         |
+ 3|   JZK                      |  171425 |         |      |    |         |
+ 4|   DrXenonBloom             |  112550 |         |      |    |         |
+ 5|   Samueladams              |   41550 |         |      |    |         |
+ 7|   Bobby Luckbox            |  152975 |         |      |    |         |
+ 8|   Scooter                  |  121600 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 226 players left in the tournament 
+! Table finished, waiting to redraw seats.
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c20.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+We are 31 days into the c round.  
+There will be no more live redraws this round.  
+When any table gets down to five or fewer players the round will 
+end as all current hands finish.  Following the last hand a full
+redraw will be done to start the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 35
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

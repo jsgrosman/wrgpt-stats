@@ -1,0 +1,107 @@
+Subject: [e5.10136] Holdem Game Broadcast Message(*)
+
+! Table e5, Hand 361, Day 139
+
+! Stubey calls 
+! Pot right ($607850), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 9c
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Felix Leiter             |  434400 |    1000 |folded|    |         |
+ 2|   Bob R                    |   97075 |    1000 |folded|    |         |
+ 3|   Isaac Newton             |   79650 |    1000 |folded|    |         |
+ 4|   Thomas Sims              |  235625 |    1000 |folded|    |         |
+ 5|   Ken Anderson             |  466100 |    1000 |folded|    |         |
+ 6|D  shinsook                 |       0 |  299425 |all-in|    |         |
+ 7|   JPP                      |  214750 |    4000 |folded|    |         |
+ 9|>  Stubey                   |  419875 |  299425 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/30/19 13:09:35! Dealing a new hand
+! 03/30/19 13:09:35! Everyone antes $1000
+! 03/30/19 13:09:35! JPP blinds $3000
+! 03/30/19 13:09:35! Stubey blinds $6000
+! 03/30/19 13:11:44! Felix Leiter folds
+! 03/30/19 13:13:01! Bob R folds
+! 03/30/19 14:52:33! Isaac Newton folds
+! 03/30/19 16:27:10! Thomas Sims folds
+! 03/30/19 16:27:10! Ken Anderson folds
+! 03/30/19 16:36:38! shinsook raises $24000 to $30000 total 
+! 03/30/19 16:49:29! JPP folds
+! 03/30/19 17:41:24! Stubey calls 
+
+! 03/30/19 17:41:24! Pot right ($71000), flopping/dealing/drawing cards
+! 03/30/19 17:41:24! 2 players
+! 03/30/19 17:41:24! Flopped cards: Ac Kh 8h
+! 03/30/19 17:42:34! Stubey bets $20000 
+! 03/30/19 18:18:35! shinsook calls 
+
+! 03/30/19 18:18:35! Pot right ($111000), flopping/dealing/drawing cards
+! 03/30/19 18:18:35! 2 players
+! 03/30/19 18:18:35! Flopped card: Qd
+! 03/30/19 18:53:55! Stubey bets $30000 
+! 03/30/19 20:05:15! shinsook raises $218425 to $248425 total and is all in
+! 03/30/19 20:31:00! Stubey calls 
+
+! 03/30/19 20:31:00! Pot right ($607850), flopping/dealing/drawing cards
+! 03/30/19 20:31:00! 2 players, 1 all in
+! 03/30/19 20:31:00! Flopped card: 9c
+! Hand over, current board is:  Ac Kh 8h Qd 9c
+! shinsook                 has: Jc 10c
+! Stubey                   has: Ah 7h
+! shinsook wins $607850 (net $308425) with Straight (A K Q J 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Felix Leiter             |  434400 |         |      |    |         |
+ 2|   Bob R                    |   97075 |         |      |    |         |
+ 3|   Isaac Newton             |   79650 |         |      |    |         |
+ 4|   Thomas Sims              |  235625 |         |      |    |         |
+ 5|   Ken Anderson             |  466100 |         |      |    |         |
+ 6|   shinsook                 |  607850 |         |      |    |         |
+ 7|D  JPP                      |  214750 |         |      |    |         |
+ 9|>  Stubey                   |  419875 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 74 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/e/e5.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,109 @@
+Subject: [d1.10313] Holdem Game Broadcast Message(*)
+
+! Table d1, Hand 284, Day 111
+
+! tristero folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Ed Baker                 |   68200 |     400 |folded|    |         |
+ 2|   ADB Foldem               |  164125 |     400 |folded|    |         |
+ 3|   tristero                 |  128650 |   38200 |folded|    |         |
+ 4|   MTpotts                  |  108500 |     400 |folded|    |         |
+ 5|   Loudlion                 |   47025 |     400 |folded|    |         |
+ 6|   Spidurman                |   79300 |     400 |folded|    |         |
+ 7|D  Tom Bayz                 |  101050 |     400 |folded|    |         |
+ 8|   Alvin Chipmunk           |  161775 |    2000 |folded|    |         |
+ 9|>  TennisGeek               |  175725 |   73200 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/01/19 17:31:16! Dealing a new hand
+! 03/01/19 17:31:16! Everyone antes $400
+! 03/01/19 17:31:16! Alvin Chipmunk blinds $1600
+! 03/01/19 17:31:16! TennisGeek blinds $3200
+! 03/01/19 17:59:46! Ed Baker folds
+! 03/01/19 17:59:46! ADB Foldem folds
+! 03/01/19 17:59:46! tristero calls 
+! 03/02/19 01:09:49! MTpotts folds
+! 03/02/19 03:27:28! Loudlion folds
+! 03/02/19 03:27:28! Spidurman folds
+! 03/02/19 04:33:09! Tom Bayz folds
+! 03/02/19 04:33:09! Alvin Chipmunk folds
+! 03/02/19 05:57:04! TennisGeek raises $9600 to $12800 total 
+! 03/02/19 07:17:09! tristero calls 
+
+! 03/02/19 07:17:09! Pot right ($30800), flopping/dealing/drawing cards
+! 03/02/19 07:17:09! 2 players
+! 03/02/19 07:17:09! Flopped cards: 3c Ac Ah
+! 03/02/19 09:18:56! TennisGeek bets $25000 
+! 03/02/19 09:32:10! tristero calls 
+
+! 03/02/19 09:32:10! Pot right ($80800), flopping/dealing/drawing cards
+! 03/02/19 09:32:10! 2 players
+! 03/02/19 09:32:10! Flopped card: Js
+! 03/02/19 14:37:33! TennisGeek checks
+! 03/02/19 14:53:43! tristero checks
+
+! 03/02/19 14:53:43! Pot right ($80800), flopping/dealing/drawing cards
+! 03/02/19 14:53:43! 2 players
+! 03/02/19 14:53:43! Flopped card: 10h
+! 03/02/19 14:56:28! TennisGeek bets $35000 
+! 03/02/19 15:52:17! tristero folds
+! Hand over, no showdown
+! Current board is:  3c Ac Ah Js 10h
+! TennisGeek wins $115800 (net $42600)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Ed Baker                 |   68200 |         |      |    |         |
+ 2|   ADB Foldem               |  164125 |         |      |    |         |
+ 3|   tristero                 |  128650 |         |      |    |         |
+ 4|   MTpotts                  |  108500 |         |      |    |         |
+ 5|   Loudlion                 |   47025 |         |      |    |         |
+ 6|   Spidurman                |   79300 |         |      |    |         |
+ 7|   Tom Bayz                 |  101050 |         |      |    |         |
+ 8|D  Alvin Chipmunk           |  161775 |         |      |    |         |
+ 9|>  TennisGeek               |  291525 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 159 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d1.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 3
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

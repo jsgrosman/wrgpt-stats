@@ -1,0 +1,109 @@
+Subject: [d4.10610] Holdem Game Broadcast Message(*)
+
+! Table d4, Hand 319, Day 132
+
+! heffmike calls 
+! Pot right ($412800), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: Ac
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   sgranen                  |  298425 |    1000 |folded|    |         |
+ 2|   Larry W                  |  137525 |    1000 |folded|    |         |
+ 3|>  heffmike                 |  152875 |  199400 |      |    |         |
+ 5|D  JPP                      |  282750 |    1000 |folded|    |         |
+ 6|   ddppmm                   |  167650 |    4000 |folded|    |         |
+ 7|   Ira Agins                |  134550 |    7000 |folded|    |         |
+ 9|   Poker Dog                |       0 |  199400 |all-in|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/22/19 11:11:55! Dealing a new hand
+! 03/22/19 11:11:55! Everyone antes $1000
+! 03/22/19 11:11:55! ddppmm blinds $3000
+! 03/22/19 11:11:55! Ira Agins blinds $6000
+! 03/22/19 12:44:35! Poker Dog raises $18000 to $24000 total 
+! 03/22/19 13:00:55! sgranen folds
+! 03/22/19 13:00:55! Larry W folds
+! 03/22/19 15:31:34! heffmike raises $31000 to $55000 total 
+! 03/22/19 15:31:34! JPP folds
+! 03/22/19 15:31:34! ddppmm folds
+! 03/22/19 15:31:34! Ira Agins folds
+! 03/22/19 15:32:24! Poker Dog calls 
+
+! 03/22/19 15:32:24! Pot right ($126000), flopping/dealing/drawing cards
+! 03/22/19 15:32:24! 2 players
+! 03/22/19 15:32:24! Flopped cards: 7s Js Qc
+! 03/22/19 15:33:40! Poker Dog bets $50000 
+! 03/22/19 19:14:04! heffmike calls 
+
+! 03/22/19 19:14:04! Pot right ($226000), flopping/dealing/drawing cards
+! 03/22/19 19:14:04! 2 players
+! 03/22/19 19:14:04! Flopped card: As
+! 03/23/19 09:53:49! Poker Dog bets $93400 and is all in
+! 03/23/19 10:34:25! heffmike calls 
+
+! 03/23/19 10:34:25! Pot right ($412800), flopping/dealing/drawing cards
+! 03/23/19 10:34:25! 2 players, 1 all in
+! 03/23/19 10:34:25! Flopped card: Ac
+! Hand over, current board is:  7s Js Qc As Ac
+! heffmike                 has: Jd Jc
+! Poker Dog                has: Kd 7d
+! heffmike wins $412800 (net $213400) with Full House (J J J A A)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   sgranen                  |  298425 |         |      |    |         |
+ 2|   Larry W                  |  137525 |         |      |    |         |
+ 3|>  heffmike                 |  565675 |         |      |    |         |
+ 5|   JPP                      |  282750 |         |      |    |         |
+ 6|D  ddppmm                   |  167650 |         |      |    |         |
+ 7|   Ira Agins                |  134550 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Poker Dog is eliminated!
+! 80 players left in the tournament 
+! Table finished, waiting to redraw seats.
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d4.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+We have played more than 30 days of round d.  Now
+we will play until one table gets to five or fewer
+players at which time we will do a full redraw
+to start the e round.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 27
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

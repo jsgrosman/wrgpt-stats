@@ -1,0 +1,99 @@
+Subject: [d7.10061] Holdem Game Broadcast Message(*)
+
+! Table d7, Hand 256, Day 100
+
+! Isaac Newton folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Felix Leiter             |  205500 |     400 |folded|    |         |
+ 2|   Thomas Sims              |  136500 |     400 |folded|    |         |
+ 3|   Isaac Newton             |   88825 |   12400 |folded|    |         |
+ 4|   Reggie Miller            |  149200 |     400 |folded|    |         |
+ 5|D> Kentr                    |   54950 |   30400 |      |    |         |
+ 6|   The Llama                |   72200 |    2000 |folded|    |         |
+ 7|   Peter Gozinya            |   39050 |    3600 |folded|    |         |
+ 8|   Fredrik Westerlund       |   66075 |    3600 |folded|    |         |
+ 9|   Ninetensuited            |   60700 |     400 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/18/19 11:28:58! Dealing a new hand
+! 02/18/19 11:28:58! Everyone antes $400
+! 02/18/19 11:28:58! The Llama blinds $1600
+! 02/18/19 11:28:58! Peter Gozinya blinds $3200
+! 02/18/19 12:30:26! Fredrik Westerlund calls 
+! 02/18/19 16:05:01! Ninetensuited folds
+! 02/18/19 16:05:01! Felix Leiter folds
+! 02/18/19 16:05:01! Thomas Sims folds
+! 02/18/19 17:31:43! Isaac Newton calls 
+! 02/18/19 17:31:43! Reggie Miller folds
+! 02/18/19 17:41:03! Kentr raises $8800 to $12000 total 
+! 02/18/19 18:13:51! The Llama folds
+! 02/18/19 18:18:04! Peter Gozinya folds
+! 02/18/19 21:33:48! Fredrik Westerlund folds
+! 02/19/19 05:36:58! Isaac Newton calls 
+
+! 02/19/19 05:36:58! Pot right ($35600), flopping/dealing/drawing cards
+! 02/19/19 05:36:58! 2 players
+! 02/19/19 05:36:58! Flopped cards: 3c 2c Jc
+! 02/19/19 05:38:09! Isaac Newton checks
+! 02/19/19 05:59:09! Kentr bets $18000 
+! 02/19/19 07:11:00! Isaac Newton folds
+! Hand over, no showdown
+! Current board is:  3c 2c Jc ? ?
+! Kentr wins $53600 (net $23200)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Felix Leiter             |  205500 |         |      |    |         |
+ 2|   Thomas Sims              |  136500 |         |      |    |         |
+ 3|   Isaac Newton             |   88825 |         |      |    |         |
+ 4|   Reggie Miller            |  149200 |         |      |    |         |
+ 5|>  Kentr                    |  108550 |         |      |    |         |
+ 6|D  The Llama                |   72200 |         |      |    |         |
+ 7|   Peter Gozinya            |   39050 |         |      |    |         |
+ 8|   Fredrik Westerlund       |   66075 |         |      |    |         |
+ 9|   Ninetensuited            |   60700 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 211 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d7.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 4
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

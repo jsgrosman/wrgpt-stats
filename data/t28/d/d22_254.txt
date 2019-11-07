@@ -1,0 +1,104 @@
+Subject: [d22.10031] Holdem Game Broadcast Message(*)
+
+! Table d22, Hand 254, Day 99
+
+! dchizzle41 folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Larry W                  |  158425 |     300 |folded|    |         |
+ 2|   Ace Squared              |  115200 |     300 |folded|    |         |
+ 3|D  Rich Guidoboni           |  156850 |     300 |folded|    |         |
+ 4|   HeyBuster                |       0 |  107800 |all-in|    |         |
+ 5|   put_it_good              |  103225 |    2300 |folded|    |         |
+ 6|   Pooper                   |   53150 |     300 |folded|    |         |
+ 7|   Josh Goldshlag           |  216775 |     300 |folded|    |         |
+ 8|>  dchizzle41               |  300075 |   12500 |folded|    |         |
+ 9|   BrownTrout               |  122450 |     300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/17/19 03:30:38! Dealing a new hand
+! 02/17/19 03:30:38! Everyone antes $300
+! 02/17/19 03:30:38! HeyBuster blinds $1000
+! 02/17/19 03:30:38! put_it_good blinds $2000
+! 02/17/19 05:24:01! Pooper folds
+! 02/17/19 05:24:01! Josh Goldshlag folds
+! 02/17/19 07:09:29! dchizzle41 raises $2700 to $4700 total 
+! 02/17/19 13:22:49! BrownTrout folds
+! 02/17/19 13:22:49! Larry W folds
+! 02/17/19 13:22:49! Ace Squared folds
+! 02/17/19 13:22:49! Rich Guidoboni folds
+! 02/17/19 13:41:52! HeyBuster calls 
+! 02/17/19 23:52:26! put_it_good folds
+
+! 02/17/19 23:52:26! Pot right ($14100), flopping/dealing/drawing cards
+! 02/17/19 23:52:26! 2 players
+! 02/17/19 23:52:26! Flopped cards: 7c Ad 6s
+! 02/18/19 06:45:27! HeyBuster checks
+! 02/18/19 07:20:50! dchizzle41 bets $7500 
+! 02/18/19 07:26:52! HeyBuster calls 
+
+! 02/18/19 07:26:52! Pot right ($29100), flopping/dealing/drawing cards
+! 02/18/19 07:26:52! 2 players
+! 02/18/19 07:26:52! Flopped card: Ks
+! 02/18/19 07:39:00! HeyBuster bets $95300 and is all in
+! 02/18/19 07:41:38! dchizzle41 folds
+! Hand over, no showdown
+! Current board is:  7c Ad 6s Ks ?
+! HeyBuster wins $124400 (net $16600)
+! Antes and blinds go up
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Larry W                  |  158425 |         |      |    |         |
+ 2|   Ace Squared              |  115200 |         |      |    |         |
+ 3|   Rich Guidoboni           |  156850 |         |      |    |         |
+ 4|D  HeyBuster                |  124400 |         |      |    |         |
+ 5|   put_it_good              |  103225 |         |      |    |         |
+ 6|   Pooper                   |   53150 |         |      |    |         |
+ 7|   Josh Goldshlag           |  216775 |         |      |    |         |
+ 8|>  dchizzle41               |  300075 |         |      |    |         |
+ 9|   BrownTrout               |  122450 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 214 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d22.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

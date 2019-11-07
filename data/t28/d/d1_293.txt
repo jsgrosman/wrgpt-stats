@@ -1,0 +1,105 @@
+Subject: [d1.10393] Holdem Game Broadcast Message(*)
+
+! Table d1, Hand 293, Day 115
+
+! tristero folds
+! Alvin Chipmunk calls 
+! Pot right ($275400), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped cards: Jc Qd 8s
+! Flopped card: As
+! Flopped card: Qh
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Josh Moore               |       0 |  127100 |all-in|    |         |
+ 2|   ADB Foldem               |  234925 |     600 |folded|    |         |
+ 3|   tristero                 |  110750 |   13600 |folded|    |         |
+ 4|   MTpotts                  |   97700 |     600 |folded|    |         |
+ 5|   Loudlion                 |   26225 |     600 |folded|    |         |
+ 6|   Spidurman                |  124300 |     600 |folded|    |         |
+ 7|D  JohnnyMac                |  349925 |     600 |folded|    |         |
+ 8|>  Alvin Chipmunk           |  131525 |  127100 |      |    |         |
+ 9|V  TennisGeek               |  281125 |    4600 |<Gone>|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/05/19 18:33:07! Dealing a new hand
+! 03/05/19 18:33:07! Everyone antes $600
+! 03/05/19 18:33:07! Alvin Chipmunk blinds $2000
+! 03/05/19 18:33:07! TennisGeek blinds $4000
+! 03/05/19 18:45:18! Josh Moore raises $9000 to $13000 total 
+! 03/05/19 18:48:19! ADB Foldem folds
+! 03/05/19 19:09:05! tristero calls 
+! 03/05/19 19:09:05! MTpotts folds
+! 03/05/19 19:56:47! Loudlion folds
+! 03/05/19 19:56:47! Spidurman folds
+! 03/05/19 19:56:47! JohnnyMac folds
+! 03/06/19 05:44:21! Alvin Chipmunk raises $30000 to $43000 total 
+! 03/06/19 05:44:21! TennisGeek is on vacation and folds
+! 03/06/19 07:11:48! Josh Moore raises $83500 to $126500 total and is all in
+! 03/06/19 07:26:39! tristero folds
+! 03/06/19 07:26:39! Alvin Chipmunk calls 
+
+! 03/06/19 07:26:39! Pot right ($275400), flopping/dealing/drawing cards
+! 03/06/19 07:26:39! 2 players, 1 all in
+! 03/06/19 07:26:39! Flopped cards: Jc Qd 8s
+! 03/06/19 07:26:39! Flopped card: As
+! 03/06/19 07:26:39! Flopped card: Qh
+! Hand over, current board is:  Jc Qd 8s As Qh
+! Josh Moore               has: Ah Kc
+! Alvin Chipmunk           has: Js Jh
+! Alvin Chipmunk wins $275400 (net $148300) with Full House (J J J Q Q)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|   ADB Foldem               |  234925 |         |      |    |         |
+ 3|   tristero                 |  110750 |         |      |    |         |
+ 4|   MTpotts                  |   97700 |         |      |    |         |
+ 5|   Loudlion                 |   26225 |         |      |    |         |
+ 6|   Spidurman                |  124300 |         |      |    |         |
+ 7|   JohnnyMac                |  349925 |         |      |    |         |
+ 8|D> Alvin Chipmunk           |  406925 |         |      |    |         |
+ 9|V  TennisGeek               |  281125 |         |<Gone>|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Josh Moore is eliminated!
+! 138 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d1.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 5
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

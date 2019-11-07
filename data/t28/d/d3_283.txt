@@ -1,0 +1,114 @@
+Subject: [d3.10329] Holdem Game Broadcast Message(*)
+
+! Table d3, Hand 283, Day 109
+
+! CAB checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Brian Crowley            |  411475 |   15050 |folded|    |         |
+ 2|   drjeys                   |  324150 |     400 |folded|    |         |
+ 3|   Ben Buchwald             |  194925 |     400 |folded|    |         |
+ 4|>  Byfthalone               |  164700 |   40050 |      |    |         |
+ 5|V  Diputsur                 |   13425 |     400 |<AWOL>|    |         |
+ 6|   CAB                      |  247575 |   40050 |      |    |         |
+ 7|   Camo                     |   96025 |     400 |folded|    |         |
+ 8|D  What Beats What Again    |   54900 |     400 |folded|    |         |
+ 9|   Mike Litoris             |  270775 |    2000 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/27/19 11:53:14! Dealing a new hand
+! 02/27/19 11:53:14! Everyone antes $400
+! 02/27/19 11:53:14! Mike Litoris blinds $1600
+! 02/27/19 11:53:14! Brian Crowley blinds $3200
+! 02/27/19 11:53:36! drjeys folds
+! 02/27/19 12:01:33! Ben Buchwald folds
+! 02/27/19 12:06:55! Byfthalone raises $3200 to $6400 total 
+! 02/27/19 12:06:55! Diputsur is on vacation and folds
+! 02/27/19 13:34:53! CAB calls 
+! 02/27/19 13:34:53! Camo folds
+! 02/27/19 13:34:53! What Beats What Again folds
+! 02/27/19 13:44:26! Mike Litoris folds
+! 02/27/19 13:49:11! Brian Crowley calls 
+
+! 02/27/19 13:49:11! Pot right ($24400), flopping/dealing/drawing cards
+! 02/27/19 13:49:11! 3 players
+! 02/27/19 13:49:11! Flopped cards: Qs 8h 9c
+! 02/27/19 14:11:24! Brian Crowley checks
+! 02/27/19 17:39:36! Byfthalone bets $8250 
+! 02/27/19 17:46:37! CAB calls 
+! 02/28/19 03:32:34! Brian Crowley calls 
+
+! 02/28/19 03:32:34! Pot right ($49150), flopping/dealing/drawing cards
+! 02/28/19 03:32:34! 3 players
+! 02/28/19 03:32:34! Flopped card: Qc
+! 02/28/19 03:33:38! Brian Crowley checks
+! 02/28/19 06:11:08! Byfthalone checks
+! 02/28/19 06:14:14! CAB bets $25000 
+! 02/28/19 09:36:37! Brian Crowley folds
+! 02/28/19 13:18:19! Byfthalone calls 
+
+! 02/28/19 13:18:19! Pot right ($99150), flopping/dealing/drawing cards
+! 02/28/19 13:18:19! 2 players
+! 02/28/19 13:18:19! Flopped card: 4c
+! 02/28/19 13:21:04! Byfthalone checks
+! 02/28/19 13:44:58! CAB checks
+! Hand over, current board is:  Qs 8h 9c Qc 4c
+! Byfthalone               has: Kc 8c
+! CAB                      has: Kd Jd
+! Byfthalone wins $99150 (net $59100) with Club Flush (K Q 9 8 4)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Brian Crowley            |  411475 |         |      |    |         |
+ 2|   drjeys                   |  324150 |         |      |    |         |
+ 3|   Ben Buchwald             |  194925 |         |      |    |         |
+ 4|>  Byfthalone               |  263850 |         |      |    |         |
+ 5|V  Diputsur                 |   13425 |         |<AWOL>|    |         |
+ 6|   CAB                      |  247575 |         |      |    |         |
+ 7|   Camo                     |   96025 |         |      |    |         |
+ 8|   What Beats What Again    |   54900 |         |      |    |         |
+ 9|D  Mike Litoris             |  270775 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 171 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d3.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

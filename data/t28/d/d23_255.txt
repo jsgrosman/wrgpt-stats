@@ -1,0 +1,108 @@
+Subject: [d23.10032] Holdem Game Broadcast Message(*)
+
+! Table d23, Hand 255, Day 99
+
+! Rkal checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Joe Nadeau               |  263550 |     300 |folded|    |         |
+ 2|   Rkal                     |   80350 |    2300 |      |    |         |
+ 3|   Paul Ant                 |   44775 |     300 |folded|    |         |
+ 4|DV Billco                   |  158400 |     300 |<AWOL>|    |         |
+ 5|   Darse Billings           |   49275 |    1300 |folded|    |         |
+ 7|>  EricL                    |  186500 |    2300 |      |    |         |
+ 8|   zipper                   |   19850 |     300 |folded|    |         |
+ 9|   Mike Litoris             |  118125 |     300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/17/19 09:40:04! Dealing a new hand
+! 02/17/19 09:40:04! Everyone antes $300
+! 02/17/19 09:40:04! Darse Billings blinds $1000
+! 02/17/19 09:40:04! EricL blinds $2000
+! 02/17/19 13:02:02! zipper folds
+! 02/17/19 13:43:28! Mike Litoris folds
+! 02/17/19 13:43:28! Joe Nadeau folds
+! 02/17/19 14:46:37! Rkal calls 
+! 02/17/19 14:46:37! Paul Ant folds
+! 02/17/19 14:46:37! Billco is on vacation and folds
+! 02/17/19 14:46:37! Darse Billings is on vacation and folds
+! 02/17/19 14:48:08! EricL checks
+
+! 02/17/19 14:48:08! Pot right ($7400), flopping/dealing/drawing cards
+! 02/17/19 14:48:08! 2 players
+! 02/17/19 14:48:08! Flopped cards: Ah 10d Ad
+! 02/17/19 15:12:16! EricL checks
+! 02/18/19 03:28:51! Darse Billings is back from vacation
+! 02/18/19 05:03:11! Rkal checks
+
+! 02/18/19 05:03:11! Pot right ($7400), flopping/dealing/drawing cards
+! 02/18/19 05:03:11! 2 players
+! 02/18/19 05:03:11! Flopped card: 2s
+! 02/18/19 05:52:12! EricL checks
+! 02/18/19 05:54:37! Rkal checks
+
+! 02/18/19 05:54:37! Pot right ($7400), flopping/dealing/drawing cards
+! 02/18/19 05:54:37! 2 players
+! 02/18/19 05:54:37! Flopped card: 3h
+! 02/18/19 07:07:33! EricL checks
+! 02/18/19 07:18:47! Rkal checks
+! Hand over, current board is:  Ah 10d Ad 2s 3h
+! Rkal                     has: 9c 5c
+! EricL                    has: 6h 5d
+! Rkal wins $7400 (net $5100) with One Pair (A A 10 9 5)
+! Antes and blinds go up
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Joe Nadeau               |  263550 |         |      |    |         |
+ 2|   Rkal                     |   87750 |         |      |    |         |
+ 3|   Paul Ant                 |   44775 |         |      |    |         |
+ 4|V  Billco                   |  158400 |         |<AWOL>|    |         |
+ 5|D  Darse Billings           |   49275 |         |      |    |         |
+ 7|>  EricL                    |  186500 |         |      |    |         |
+ 8|   zipper                   |   19850 |         |      |    |         |
+ 9|   Mike Litoris             |  118125 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 214 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d23.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

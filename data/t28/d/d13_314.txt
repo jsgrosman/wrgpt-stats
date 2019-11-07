@@ -1,0 +1,101 @@
+Subject: [d13.10618] Holdem Game Broadcast Message(*)
+
+! Table d13, Hand 314, Day 124
+
+! Kahomono folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|   MOVED Ace Squared        |       0 |     600 |folded|    |         |
+ 3|   MOVED Bluffmaster        |       0 |     600 |folded|    |         |
+ 5|D  MOVED Chris Goedde       |       0 |     600 |folded|    |         |
+ 6|   MOVED HeyBuster          |       0 |   37600 |folded|    |         |
+ 7|>  Kahomono                 |  118250 |   37600 |folded|    |         |
+ 8|   Oaktowndad               |       0 |  191350 |all-in|    |         |
+ 9|   MOVED David Weiss        |       0 |     600 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/15/19 06:07:20! Dealing a new hand
+! 03/15/19 06:07:20! Everyone antes $600
+! 03/15/19 06:07:20! HeyBuster blinds $2000
+! 03/15/19 06:07:20! Kahomono blinds $4000
+! 03/15/19 07:07:50! Oaktowndad raises $8000 to $12000 total 
+! 03/15/19 07:07:50! David Weiss folds
+! 03/15/19 07:07:50! Ace Squared folds
+! 03/15/19 07:07:50! Bluffmaster is on vacation and folds
+! 03/15/19 07:07:50! Chris Goedde folds
+! 03/15/19 07:07:50! HeyBuster calls 
+! 03/15/19 08:17:54! Kahomono calls 
+
+! 03/15/19 08:17:54! Pot right ($40200), flopping/dealing/drawing cards
+! 03/15/19 08:17:54! 3 players
+! 03/15/19 08:17:54! Flopped cards: Ac 3d 9d
+! 03/15/19 09:02:33! HeyBuster checks
+! 03/15/19 10:55:02! Player leaving table: Ace Squared
+! 03/15/19 10:55:05! Player leaving table: David Weiss
+! 03/15/19 10:55:08! Player leaving table: Bluffmaster
+! 03/15/19 10:55:10! Player leaving table: Chris Goedde
+! 03/15/19 11:39:51! Kahomono checks
+! 03/15/19 11:51:40! Oaktowndad bets $25000 
+! 03/15/19 12:12:03! HeyBuster calls 
+! 03/15/19 12:16:37! Kahomono calls 
+
+! 03/15/19 12:16:37! Pot right ($115200), flopping/dealing/drawing cards
+! 03/15/19 12:16:37! 3 players
+! 03/15/19 12:16:37! Flopped card: 2c
+! 03/15/19 12:54:30! HeyBuster checks
+! 03/15/19 12:54:30! Kahomono checks
+! 03/15/19 12:54:59! Oaktowndad bets $153750 and is all in
+! 03/15/19 13:23:54! HeyBuster folds
+! 03/15/19 13:25:04! Player leaving table: HeyBuster
+! 03/15/19 13:49:43! Kahomono folds
+! Hand over, no showdown
+! Current board is:  Ac 3d 9d 2c ?
+! Oaktowndad wins $268950 (net $77600)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 7|>  Kahomono                 |  118250 |         |      |    |         |
+ 8|   Oaktowndad               |  268950 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 106 players left in the tournament 
+! Table waiting for live reshuffle
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d13.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 11
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

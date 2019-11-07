@@ -1,0 +1,104 @@
+Subject: [d18.10187] Holdem Game Broadcast Message(*)
+
+! Table d18, Hand 269, Day 100
+
+! SCSI folds
+! delbaeth folds
+! Pot right ($177100), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped cards: Kc 5h 8s
+! Flopped card: 5d
+! Flopped card: Ah
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   SCSI                     |   80475 |    2000 |folded|    |         |
+ 2|>  delbaeth                 |  118000 |    3600 |folded|    |         |
+ 3|   StingRay                 |  237000 |     400 |folded|    |         |
+ 4|   JZK                      |  112125 |     400 |folded|    |         |
+ 5|   JohnnyMac                |  138925 |     400 |folded|    |         |
+ 6|   Ryan Thomas              |  120850 |     400 |folded|    |         |
+ 7|   Dan Driscoll             |       0 |   39650 |all-in|  2 |   86900 |
+ 8|   Josh Moore               |       0 |  129850 |all-in|  1 |   90200 |
+ 9|D  Deets                    |   46100 |     400 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/19/19 12:27:39! Dealing a new hand
+! 02/19/19 12:27:39! Everyone antes $400
+! 02/19/19 12:27:39! SCSI blinds $1600
+! 02/19/19 12:27:39! delbaeth blinds $3200
+! 02/19/19 12:30:30! StingRay folds
+! 02/19/19 13:30:38! JZK folds
+! 02/19/19 13:30:38! JohnnyMac folds
+! 02/19/19 13:52:57! Ryan Thomas folds
+! 02/19/19 14:16:09! Dan Driscoll raises $36050 to $39250 total and is all in
+! 02/19/19 14:35:45! Josh Moore raises $90200 to $129450 total and is all in
+! 02/19/19 14:35:45! Deets folds
+! 02/19/19 14:37:12! SCSI folds
+! 02/19/19 14:37:12! delbaeth folds
+
+! 02/19/19 14:37:12! Pot right ($177100), flopping/dealing/drawing cards
+! 02/19/19 14:37:12! 2 players, 2 all in
+! 02/19/19 14:37:12! Flopped cards: Kc 5h 8s
+! 02/19/19 14:37:12! Flopped card: 5d
+! 02/19/19 14:37:12! Flopped card: Ah
+! Hand over, current board is:  Kc 5h 8s 5d Ah
+! Dan Driscoll             has: Qd 10d
+! Josh Moore               has: 10s 10c
+! Pot 1: uncalled $90200 returned to Josh Moore
+! Pot 2: Josh Moore wins $86900 with Two Pair (10 10 5 5 A)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  SCSI                     |   80475 |         |      |    |         |
+ 2|>  delbaeth                 |  118000 |         |      |    |         |
+ 3|   StingRay                 |  237000 |         |      |    |         |
+ 4|   JZK                      |  112125 |         |      |    |         |
+ 5|   JohnnyMac                |  138925 |         |      |    |         |
+ 6|   Ryan Thomas              |  120850 |         |      |    |         |
+ 8|   Josh Moore               |  177100 |         |      |    |         |
+ 9|   Deets                    |   46100 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Dan Driscoll is eliminated!
+! 208 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d18.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

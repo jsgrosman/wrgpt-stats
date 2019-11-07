@@ -1,0 +1,106 @@
+Subject: [e1.10276] Holdem Game Broadcast Message(*)
+
+! Table e1, Hand 382, Day 147
+
+! 888 raises $835400 to $1141350 total and is all in
+! Pot right ($1662300), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped card: Ks
+! Flopped card: 3h
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  888                      |       0 | 1237350 |all-in|  1 |  835400 |
+ 3|D  GwynnInTheHall           |       0 |  401950 |all-in|  2 |  826900 |
+ 4|   Peter Gozinya            |  163650 |    7000 |folded|    |         |
+ 6|   Barton                   | 1762850 |   13000 |folded|    |         |
+ 7|   TracyB                   |  281475 |    1000 |folded|    |         |
+ 8|   Bobby Luckbox            |  325900 |    1000 |folded|    |         |
+ 9|   Spidurman                |  237250 |    1000 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 04/06/19 18:48:19! Dealing a new hand
+! 04/06/19 18:48:19! Everyone antes $1000
+! 04/06/19 18:48:19! Peter Gozinya blinds $6000
+! 04/06/19 18:48:19! Barton blinds $12000
+! 04/07/19 09:38:20! TracyB folds
+! 04/07/19 10:04:22! Bobby Luckbox folds
+! 04/07/19 10:04:22! Spidurman folds
+! 04/07/19 10:40:34! 888 raises $20000 to $32000 total 
+! 04/07/19 10:52:43! GwynnInTheHall raises $63000 to $95000 total 
+! 04/07/19 11:14:55! Peter Gozinya folds
+! 04/07/19 12:44:31! Barton folds
+! 04/07/19 12:47:56! 888 calls 
+
+! 04/07/19 12:47:56! Pot right ($215000), flopping/dealing/drawing cards
+! 04/07/19 12:47:56! 2 players
+! 04/07/19 12:47:56! Flopped cards: Kd 5h Jh
+! 04/07/19 12:48:21! 888 checks
+! 04/07/19 14:56:56! GwynnInTheHall bets $305950 and is all in
+! 04/07/19 14:57:42! 888 raises $835400 to $1141350 total and is all in
+
+! 04/07/19 14:57:42! Pot right ($1662300), flopping/dealing/drawing cards
+! 04/07/19 14:57:42! 2 players, 2 all in
+! 04/07/19 14:57:42! Flopped card: Ks
+! 04/07/19 14:57:42! Flopped card: 3h
+! Hand over, current board is:  Kd 5h Jh Ks 3h
+! 888                      has: Kc 6c
+! GwynnInTheHall           has: As Qd
+! Pot 1: uncalled $835400 returned to 888
+! Pot 2: 888 wins $826900 with Three of a Kind (K K K J 6)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  888                      | 1662300 |         |      |    |         |
+ 4|D  Peter Gozinya            |  163650 |         |      |    |         |
+ 6|   Barton                   | 1762850 |         |      |    |         |
+ 7|   TracyB                   |  281475 |         |      |    |         |
+ 8|   Bobby Luckbox            |  325900 |         |      |    |         |
+ 9|   Spidurman                |  237250 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! GwynnInTheHall is eliminated!
+! 54 players left in the tournament, 2 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/e/e1.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+We are down to few enough tables that players
+may be moved to rebalance tables when there
+are not enough empty seats to break a table.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

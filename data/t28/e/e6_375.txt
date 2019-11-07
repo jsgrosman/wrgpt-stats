@@ -1,0 +1,108 @@
+Subject: [e6.10313] Holdem Game Broadcast Message(*)
+
+! Table e6, Hand 375, Day 145
+
+! Bob Brewster folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   John Cairns              |  537650 |       0 |New   |    |         |
+ 2|   sgranen                  |  195850 |    1000 |folded|    |         |
+ 3|   the cake is a pie        |  118425 |    1000 |folded|    |         |
+ 4|   Billco                   |  746825 |   13000 |folded|    |         |
+ 5|D  Steve Zagieboylo         |  377775 |   13000 |folded|    |         |
+ 6|   poohbear                 |  580600 |    7000 |folded|    |         |
+ 7|   Bob Brewster             |  240100 |   25000 |folded|    |         |
+ 8|>  Pooper                   |  132500 |   37000 |      |    |         |
+ 9|   David Weiss              |  202950 |    1000 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 04/04/19 12:23:05! Dealing a new hand
+! 04/04/19 12:23:05! Everyone antes $1000
+! 04/04/19 12:23:05! poohbear blinds $6000
+! 04/04/19 12:23:05! Bob Brewster blinds $12000
+! 04/04/19 13:55:50! Pooper calls 
+! 04/04/19 13:55:50! David Weiss folds
+! 04/04/19 13:55:50! sgranen folds
+! 04/04/19 13:56:34! the cake is a pie folds
+! 04/04/19 14:24:07! Billco calls 
+! 04/04/19 15:41:22! Steve Zagieboylo calls 
+! 04/04/19 15:41:22! poohbear folds
+! 04/04/19 19:25:05! New player added to the table: John Cairns
+! 04/04/19 21:39:38! Bob Brewster checks
+
+! 04/04/19 21:39:38! Pot right ($62000), flopping/dealing/drawing cards
+! 04/04/19 21:39:38! 4 players
+! 04/04/19 21:39:38! Flopped cards: Jc Qs Ah
+! 04/04/19 21:40:40! Bob Brewster bets $12000 
+! 04/05/19 03:44:00! Pooper calls 
+! 04/05/19 04:47:19! Billco folds
+! 04/05/19 04:47:19! Steve Zagieboylo folds
+
+! 04/05/19 04:47:19! Pot right ($86000), flopping/dealing/drawing cards
+! 04/05/19 04:47:19! 2 players
+! 04/05/19 04:47:19! Flopped card: 5d
+! 04/05/19 06:07:33! Bob Brewster checks
+! 04/05/19 06:07:33! Pooper bets $12000 
+! 04/05/19 06:08:21! Bob Brewster folds
+! Hand over, no showdown
+! Current board is:  Jc Qs Ah 5d ?
+! Pooper wins $98000 (net $61000)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   John Cairns              |  537650 |         |      |    |         |
+ 2|   sgranen                  |  195850 |         |      |    |         |
+ 3|   the cake is a pie        |  118425 |         |      |    |         |
+ 4|   Billco                   |  746825 |         |      |    |         |
+ 5|   Steve Zagieboylo         |  377775 |         |      |    |         |
+ 6|D  poohbear                 |  580600 |         |      |    |         |
+ 7|   Bob Brewster             |  240100 |         |      |    |         |
+ 8|>  Pooper                   |  230500 |         |      |    |         |
+ 9|   David Weiss              |  202950 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 62 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/e/e6.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+We are down to few enough tables that players
+may be moved to rebalance tables when there
+are not enough empty seats to break a table.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 1
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

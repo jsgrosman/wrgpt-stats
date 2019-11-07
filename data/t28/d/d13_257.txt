@@ -1,0 +1,110 @@
+Subject: [d13.10054] Holdem Game Broadcast Message(*)
+
+! Table d13, Hand 257, Day 100
+
+! Oaktowndad folds
+! David Weiss calls 
+! Pot right ($96400), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 5h
+! Flopped card: Ad
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|V  Options Dee              |   16425 |     400 |<AWOL>|    |         |
+ 2|   Chris Aporta             |   86225 |     400 |folded|    |         |
+ 3|   Bluffmaster              |   39725 |     400 |folded|    |         |
+ 4|   LetsGoRedSox             |  203000 |     400 |folded|    |         |
+ 5|   sendlo                   |       0 |   42500 |all-in|    |         |
+ 6|D  lawrence s               |   36900 |     400 |folded|    |         |
+ 7|   Kahomono                 |  119975 |    2000 |folded|    |         |
+ 8|   Oaktowndad               |  190850 |    7400 |folded|    |         |
+ 9|>  David Weiss              |   57225 |   42500 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/18/19 20:37:57! Dealing a new hand
+! 02/18/19 20:37:57! Everyone antes $400
+! 02/18/19 20:37:57! Kahomono blinds $1600
+! 02/18/19 20:37:57! Oaktowndad blinds $3200
+! 02/19/19 02:58:19! David Weiss raises $3800 to $7000 total 
+! 02/19/19 02:58:19! Options Dee is on vacation and folds
+! 02/19/19 09:37:24! Chris Aporta folds
+! 02/19/19 13:39:02! Bluffmaster folds
+! 02/19/19 13:39:02! LetsGoRedSox folds
+! 02/19/19 13:43:52! sendlo calls 
+! 02/19/19 13:43:52! lawrence s folds
+! 02/19/19 13:43:52! Kahomono folds
+! 02/19/19 15:39:38! Oaktowndad calls 
+
+! 02/19/19 15:39:38! Pot right ($26200), flopping/dealing/drawing cards
+! 02/19/19 15:39:38! 3 players
+! 02/19/19 15:39:38! Flopped cards: 2s 7d 9d
+! 02/19/19 16:09:10! Oaktowndad checks
+! 02/19/19 16:20:30! David Weiss bets $13000 
+! 02/19/19 16:21:37! sendlo raises $22100 to $35100 total and is all in
+! 02/19/19 16:32:25! Oaktowndad folds
+! 02/19/19 16:32:25! David Weiss calls 
+
+! 02/19/19 16:32:25! Pot right ($96400), flopping/dealing/drawing cards
+! 02/19/19 16:32:25! 2 players, 1 all in
+! 02/19/19 16:32:25! Flopped card: 5h
+! 02/19/19 16:32:25! Flopped card: Ad
+! Hand over, current board is:  2s 7d 9d 5h Ad
+! sendlo                   has: 3d 3c
+! David Weiss              has: Kh Kc
+! David Weiss wins $96400 (net $53900) with One Pair (K K A 9 7)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|V  Options Dee              |   16425 |         |<AWOL>|    |         |
+ 2|   Chris Aporta             |   86225 |         |      |    |         |
+ 3|   Bluffmaster              |   39725 |         |      |    |         |
+ 4|   LetsGoRedSox             |  203000 |         |      |    |         |
+ 6|   lawrence s               |   36900 |         |      |    |         |
+ 7|D  Kahomono                 |  119975 |         |      |    |         |
+ 8|   Oaktowndad               |  190850 |         |      |    |         |
+ 9|>  David Weiss              |  153625 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! sendlo is eliminated!
+! 207 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d13.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 7
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

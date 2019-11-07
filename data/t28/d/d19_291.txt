@@ -1,0 +1,94 @@
+Subject: [d19.10360] Holdem Game Broadcast Message(*)
+
+! Table d19, Hand 291, Day 106
+
+! Sir Barlow folds
+! Matt Matros folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   bert_ofcl                |  137550 |     400 |folded|    |         |
+ 2|   TwelveSeven              |  277700 |     400 |folded|    |         |
+ 5|>  Ken Anderson             |  467150 |   44900 |      |    |         |
+ 6|DV zipper                   |   35575 |     400 |<AWOL>|    |         |
+ 7|   Sir Barlow               |  151900 |    7900 |folded|    |         |
+ 8|   Walter Hunt              |   71600 |    3600 |folded|    |         |
+ 9|   Matt Matros              |  102150 |   23900 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/25/19 16:12:03! Dealing a new hand
+! 02/25/19 16:12:03! Everyone antes $400
+! 02/25/19 16:12:03! Sir Barlow blinds $1600
+! 02/25/19 16:12:03! Walter Hunt blinds $3200
+! 02/25/19 16:34:17! Matt Matros raises $4300 to $7500 total 
+! 02/25/19 16:47:52! bert_ofcl folds
+! 02/25/19 16:47:52! TwelveSeven folds
+! 02/25/19 16:47:52! Ken Anderson calls 
+! 02/25/19 16:47:52! zipper is on vacation and folds
+! 02/25/19 16:53:27! Sir Barlow calls 
+! 02/25/19 17:09:15! Walter Hunt folds
+
+! 02/25/19 17:09:15! Pot right ($28500), flopping/dealing/drawing cards
+! 02/25/19 17:09:15! 3 players
+! 02/25/19 17:09:15! Flopped cards: 5s 9s Ah
+! 02/25/19 17:19:06! Sir Barlow checks
+! 02/25/19 18:03:45! Matt Matros bets $16000 
+! 02/25/19 18:17:06! Ken Anderson raises $21000 to $37000 total 
+! 02/25/19 18:37:27! Sir Barlow folds
+! 02/25/19 18:37:27! Matt Matros folds
+! Hand over, no showdown
+! Current board is:  5s 9s Ah ? ?
+! Ken Anderson wins $81500 (net $36600)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   bert_ofcl                |  137550 |         |      |    |         |
+ 2|   TwelveSeven              |  277700 |         |      |    |         |
+ 5|>  Ken Anderson             |  548650 |         |      |    |         |
+ 6|V  zipper                   |   35575 |         |<AWOL>|    |         |
+ 7|D  Sir Barlow               |  151900 |         |      |    |         |
+ 8|   Walter Hunt              |   71600 |         |      |    |         |
+ 9|   Matt Matros              |  102150 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 181 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d19.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

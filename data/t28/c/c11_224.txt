@@ -1,0 +1,106 @@
+Subject: [c11.10742] Holdem Game Broadcast Message(*)
+
+! Table c11, Hand 224, Day 94
+
+! Mrstcao folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Keith Troell             |  124875 |    1300 |folded|    |         |
+ 2|   lektoraj                 |       0 |  246850 |all-in|    |         |
+ 4|   Julie Greenberg          |   78075 |     300 |folded|    |         |
+ 5|   Ira Agins                |   52250 |     300 |folded|    |         |
+ 6|   AlbinoSmurf              |  315950 |     300 |folded|    |         |
+ 7|   Mike Sager               |  111350 |     300 |folded|    |         |
+ 8|>  Mrstcao                  |  392450 |   74700 |folded|    |         |
+ 9|D  GKinz54                  |   86175 |    2300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/12/19 12:32:59! Dealing a new hand
+! 02/12/19 12:32:59! Everyone antes $300
+! 02/12/19 12:32:59! Keith Troell blinds $1000
+! 02/12/19 12:32:59! lektoraj blinds $2000
+! 02/12/19 13:08:21! Julie Greenberg folds
+! 02/12/19 13:12:24! Ira Agins folds
+! 02/12/19 13:37:35! AlbinoSmurf folds
+! 02/12/19 13:37:35! Mike Sager folds
+! 02/12/19 13:38:40! Mrstcao calls 
+! 02/12/19 13:39:17! GKinz54 calls 
+! 02/12/19 15:12:11! Keith Troell folds
+! 02/12/19 21:51:48! lektoraj raises $8000 to $10000 total 
+! 02/12/19 21:53:08! Mrstcao calls 
+! 02/13/19 04:19:01! GKinz54 folds
+
+! 02/13/19 04:19:01! Pot right ($25400), flopping/dealing/drawing cards
+! 02/13/19 04:19:01! 2 players
+! 02/13/19 04:19:01! Flopped cards: 4c 3h 9s
+! 02/13/19 07:32:08! lektoraj bets $10000 
+! 02/13/19 07:33:12! Mrstcao raises $18000 to $28000 total 
+! 02/13/19 07:42:08! lektoraj calls 
+
+! 02/13/19 07:42:08! Pot right ($81400), flopping/dealing/drawing cards
+! 02/13/19 07:42:08! 2 players
+! 02/13/19 07:42:08! Flopped card: 7s
+! 02/13/19 07:43:05! lektoraj checks
+! 02/13/19 07:44:50! Mrstcao bets $36400 
+! 02/13/19 07:51:45! lektoraj raises $172150 to $208550 total and is all in
+! 02/13/19 07:52:39! Mrstcao folds
+! Hand over, no showdown
+! Current board is:  4c 3h 9s 7s ?
+! lektoraj wins $326350 (net $79500)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  Keith Troell             |  124875 |         |      |    |         |
+ 2|   lektoraj                 |  326350 |         |      |    |         |
+ 4|   Julie Greenberg          |   78075 |         |      |    |         |
+ 5|   Ira Agins                |   52250 |         |      |    |         |
+ 6|   AlbinoSmurf              |  315950 |         |      |    |         |
+ 7|   Mike Sager               |  111350 |         |      |    |         |
+ 8|>  Mrstcao                  |  392450 |         |      |    |         |
+ 9|   GKinz54                  |   86175 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 224 players left in the tournament 
+! Table finished, waiting to redraw seats.
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c11.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+The c round is ending.  Finish your current hand so
+that the new d round can be drawn.
+Thanks.  Good luck.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 36
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

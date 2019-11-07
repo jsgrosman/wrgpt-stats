@@ -1,0 +1,111 @@
+Subject: [d19.10469] Holdem Game Broadcast Message(*)
+
+! Table d19, Hand 301, Day 109
+
+! TwelveSeven calls 
+! Pot right ($235700), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: Qs
+! Flopped card: 6d
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   bert_ofcl                |  199550 |    9400 |folded|    |         |
+ 2|>  TwelveSeven              |  125075 |  107450 |      |    |         |
+ 3|   David Kuznick            |  115500 |     400 |folded|    |         |
+ 4|   Fish Doctor              |   85375 |     400 |folded|    |         |
+ 5|   Ken Anderson             |  494950 |     400 |folded|    |         |
+ 6|V  zipper                   |  143900 |     400 |<AWOL>|    |         |
+ 7|   Sir Barlow               |  126800 |    9400 |folded|    |         |
+ 8|   Walter Hunt              |   61200 |     400 |folded|    |         |
+ 9|D  Matt Matros              |       0 |  107450 |all-in|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/27/19 16:23:38! Dealing a new hand
+! 02/27/19 16:23:38! Everyone antes $400
+! 02/27/19 16:23:38! bert_ofcl blinds $1600
+! 02/27/19 16:23:38! TwelveSeven blinds $3200
+! 02/27/19 19:22:50! David Kuznick folds
+! 02/27/19 20:22:39! Fish Doctor folds
+! 02/27/19 20:22:39! Ken Anderson folds
+! 02/27/19 20:22:39! zipper is on vacation and folds
+! 02/28/19 00:24:04! Sir Barlow calls 
+! 02/28/19 00:24:04! Walter Hunt folds
+! 02/28/19 02:52:59! Matt Matros raises $5800 to $9000 total 
+! 02/28/19 07:10:25! bert_ofcl calls 
+! 02/28/19 07:37:15! TwelveSeven calls 
+! 02/28/19 07:45:49! Sir Barlow calls 
+
+! 02/28/19 07:45:49! Pot right ($39600), flopping/dealing/drawing cards
+! 02/28/19 07:45:49! 4 players
+! 02/28/19 07:45:49! Flopped cards: 4d 6s 8c
+! 02/28/19 07:47:07! bert_ofcl checks
+! 02/28/19 07:54:19! TwelveSeven bets $25000 
+! 02/28/19 08:20:33! Sir Barlow folds
+! 02/28/19 08:20:33! Matt Matros raises $73050 to $98050 total and is all in
+! 02/28/19 08:20:33! bert_ofcl folds
+! 02/28/19 08:28:58! TwelveSeven calls 
+
+! 02/28/19 08:28:58! Pot right ($235700), flopping/dealing/drawing cards
+! 02/28/19 08:28:58! 2 players, 1 all in
+! 02/28/19 08:28:58! Flopped card: Qs
+! 02/28/19 08:28:58! Flopped card: 6d
+! Hand over, current board is:  4d 6s 8c Qs 6d
+! TwelveSeven              has: 8h 9c
+! Matt Matros              has: Qd 8d
+! Matt Matros wins $235700 (net $128250) with Two Pair (Q Q 8 8 6)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  bert_ofcl                |  199550 |         |      |    |         |
+ 2|>  TwelveSeven              |  125075 |         |      |    |         |
+ 3|   David Kuznick            |  115500 |         |      |    |         |
+ 4|   Fish Doctor              |   85375 |         |      |    |         |
+ 5|   Ken Anderson             |  494950 |         |      |    |         |
+ 6|V  zipper                   |  143900 |         |<AWOL>|    |         |
+ 7|   Sir Barlow               |  126800 |         |      |    |         |
+ 8|   Walter Hunt              |   61200 |         |      |    |         |
+ 9|   Matt Matros              |  235700 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 173 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d19.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 7
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

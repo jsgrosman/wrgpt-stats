@@ -1,0 +1,105 @@
+Subject: [d22.10048] Holdem Game Broadcast Message(*)
+
+! Table d22, Hand 256, Day 100
+
+! HeyBuster calls 
+! Pot right ($111500), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped cards: Qd 6c 5s
+! Flopped card: Qh
+! Flopped card: 9s
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Larry W                  |  154425 |    3600 |folded|    |         |
+ 2|   Ace Squared              |  130800 |     400 |folded|    |         |
+ 3|   Rich Guidoboni           |  152850 |    3600 |folded|    |         |
+ 4|>  HeyBuster                |   66450 |   49550 |      |    |         |
+ 5|D  put_it_good              |  100825 |     400 |folded|    |         |
+ 6|   Pooper                   |       0 |   49550 |all-in|    |         |
+ 7|   Josh Goldshlag           |  212775 |    3600 |folded|    |         |
+ 8|   dchizzle41               |  299275 |     400 |folded|    |         |
+ 9|   BrownTrout               |  121650 |     400 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/18/19 14:48:21! Dealing a new hand
+! 02/18/19 14:48:21! Everyone antes $400
+! 02/18/19 14:48:21! Pooper blinds $1600
+! 02/18/19 14:48:21! Josh Goldshlag blinds $3200
+! 02/18/19 14:50:26! dchizzle41 folds
+! 02/18/19 15:04:57! BrownTrout folds
+! 02/18/19 15:31:36! Larry W calls 
+! 02/18/19 15:31:36! Ace Squared folds
+! 02/18/19 15:31:36! Rich Guidoboni calls 
+! 02/18/19 15:41:01! HeyBuster calls 
+! 02/18/19 21:53:55! put_it_good folds
+! 02/18/19 21:53:55! Pooper raises $45950 to $49150 total and is all in
+! 02/19/19 04:13:33! Josh Goldshlag folds
+! 02/19/19 08:49:56! Larry W folds
+! 02/19/19 08:49:56! Rich Guidoboni folds
+! 02/19/19 14:18:32! HeyBuster calls 
+
+! 02/19/19 14:18:32! Pot right ($111500), flopping/dealing/drawing cards
+! 02/19/19 14:18:32! 2 players, 1 all in
+! 02/19/19 14:18:32! Flopped cards: Qd 6c 5s
+! 02/19/19 14:18:32! Flopped card: Qh
+! 02/19/19 14:18:32! Flopped card: 9s
+! Hand over, current board is:  Qd 6c 5s Qh 9s
+! HeyBuster                has: 2s 2c
+! Pooper                   has: Jd Jc
+! Pooper wins $111500 (net $61950) with Two Pair (Q Q J J 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Larry W                  |  154425 |         |      |    |         |
+ 2|   Ace Squared              |  130800 |         |      |    |         |
+ 3|   Rich Guidoboni           |  152850 |         |      |    |         |
+ 4|>  HeyBuster                |   66450 |         |      |    |         |
+ 5|   put_it_good              |  100825 |         |      |    |         |
+ 6|D  Pooper                   |  111500 |         |      |    |         |
+ 7|   Josh Goldshlag           |  212775 |         |      |    |         |
+ 8|   dchizzle41               |  299275 |         |      |    |         |
+ 9|   BrownTrout               |  121650 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 210 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d22.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 5
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

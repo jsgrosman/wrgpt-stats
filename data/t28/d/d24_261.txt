@@ -1,0 +1,95 @@
+Subject: [d24.10063] Holdem Game Broadcast Message(*)
+
+! Table d24, Hand 261, Day 100
+
+! lektoraj bets $8000 
+! tarigojaergihioahdged folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|   EWalk                    |  137275 |     400 |folded|    |         |
+ 3|D  D-man                    |  163700 |     400 |folded|    |         |
+ 4|   Daryl                    |   46375 |    2000 |folded|    |         |
+ 5|   tarigojaergihioahdged    |  128375 |    8400 |folded|    |         |
+ 7|   Spidurman                |   65700 |     400 |folded|    |         |
+ 8|>  lektoraj                 |  324750 |   16400 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/19/19 03:40:39! Dealing a new hand
+! 02/19/19 03:40:39! Everyone antes $400
+! 02/19/19 03:40:39! Daryl blinds $1600
+! 02/19/19 03:40:39! tarigojaergihioahdged blinds $3200
+! 02/19/19 04:18:22! Spidurman folds
+! 02/19/19 04:21:28! lektoraj raises $4800 to $8000 total 
+! 02/19/19 08:42:00! EWalk folds
+! 02/19/19 08:42:00! D-man folds
+! 02/19/19 08:42:00! Daryl folds
+! 02/19/19 08:46:05! tarigojaergihioahdged calls 
+
+! 02/19/19 08:46:05! Pot right ($20000), flopping/dealing/drawing cards
+! 02/19/19 08:46:05! 2 players
+! 02/19/19 08:46:05! Flopped cards: 4s Jd Js
+! 02/19/19 08:47:51! tarigojaergihioahdged checks
+! 02/19/19 11:21:17! lektoraj checks
+
+! 02/19/19 11:21:17! Pot right ($20000), flopping/dealing/drawing cards
+! 02/19/19 11:21:17! 2 players
+! 02/19/19 11:21:17! Flopped card: Qh
+! 02/19/19 11:21:17! tarigojaergihioahdged checks
+! 02/19/19 23:06:07! lektoraj bets $8000 
+! 02/19/19 23:06:07! tarigojaergihioahdged folds
+! Hand over, no showdown
+! Current board is:  4s Jd Js Qh ?
+! lektoraj wins $28000 (net $11600)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|   EWalk                    |  137275 |         |      |    |         |
+ 3|   D-man                    |  163700 |         |      |    |         |
+ 4|D  Daryl                    |   46375 |         |      |    |         |
+ 5|   tarigojaergihioahdged    |  128375 |         |      |    |         |
+ 7|   Spidurman                |   65700 |         |      |    |         |
+ 8|>  lektoraj                 |  352750 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 207 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d24.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

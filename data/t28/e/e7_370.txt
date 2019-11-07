@@ -1,0 +1,102 @@
+Subject: [e7.10262] Holdem Game Broadcast Message(*)
+
+! Table e7, Hand 370, Day 148
+
+! Sam Parazette folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   MOVED SunnyGirl          |       0 |    1000 |folded|    |         |
+ 2|   MOVED DocOber            |       0 |    1000 |folded|    |         |
+ 4|   MOVED Piojos             |       0 |    1000 |folded|    |         |
+ 5|   BigElmo                  |       0 |  221525 |all-in|    |         |
+ 6|D  MOVED ddppmm             |       0 |    1000 |folded|    |         |
+ 8|   MOVED jasong             |       0 |   13000 |folded|    |         |
+ 9|>  Sam Parazette            |  718850 |   63000 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 04/07/19 12:52:00! Dealing a new hand
+! 04/07/19 12:52:00! Everyone antes $1000
+! 04/07/19 12:52:00! jasong blinds $6000
+! 04/07/19 12:52:00! Sam Parazette blinds $12000
+! 04/07/19 13:02:45! SunnyGirl folds
+! 04/07/19 13:55:02! Player leaving table: SunnyGirl
+! 04/07/19 14:00:24! DocOber folds
+! 04/07/19 14:25:04! Player leaving table: DocOber
+! 04/07/19 18:27:34! Piojos folds
+! 04/07/19 18:50:57! BigElmo calls 
+! 04/07/19 18:50:57! ddppmm folds
+_____________________________________________________________________________
+
+! Epic showdown!
+! -- jasong --
+_____________________________________________________________________________
+
+! 04/07/19 18:50:57! jasong calls 
+! 04/07/19 18:52:25! Sam Parazette checks
+
+! 04/07/19 18:52:25! Pot right ($43000), flopping/dealing/drawing cards
+! 04/07/19 18:52:25! 3 players
+! 04/07/19 18:52:25! Flopped cards: Qs 4h 7s
+! 04/07/19 18:55:02! Player leaving table: Piojos
+! 04/07/19 18:55:05! Player leaving table: ddppmm
+! 04/07/19 19:11:31! jasong checks
+! 04/08/19 09:23:07! Sam Parazette bets $50000 
+! 04/08/19 09:29:33! BigElmo raises $158525 to $208525 total and is all in
+! 04/08/19 10:02:08! jasong folds
+! 04/08/19 10:25:05! Player leaving table: jasong
+! 04/08/19 11:00:58! Sam Parazette folds
+! Hand over, no showdown
+! Current board is:  Qs 4h 7s ? ?
+! BigElmo wins $301525 (net $80000)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 5|   BigElmo                  |  301525 |         |      |    |         |
+ 9|>  Sam Parazette            |  718850 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 53 players left in the tournament 
+! Table waiting for live reshuffle
+
+
+This table's current status can be found at http://hands.wrgpt.org/e/e7.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+We are down to few enough tables that players
+may be moved to rebalance tables when there
+are not enough empty seats to break a table.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 10
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

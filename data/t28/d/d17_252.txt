@@ -1,0 +1,106 @@
+Subject: [d17.10013] Holdem Game Broadcast Message(*)
+
+! Table d17, Hand 252, Day 96
+
+! rtroll bets $49125 and is all in
+! Not66 folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  Tom Abraham              |  344025 |     300 |folded|    |         |
+ 2|   Virginia Slims           |   44450 |    1300 |folded|    |         |
+ 3|   sltLonghorn              |  269450 |    2300 |folded|    |         |
+ 4|>  Not66                    |   72175 |   20700 |folded|    |         |
+ 5|   Steb                     |  108625 |     300 |folded|    |         |
+ 6|   SunnyGirl                |  110350 |     300 |folded|    |         |
+ 7|   Kurt Kirner              |  178100 |     300 |folded|    |         |
+ 8|   rtroll                   |       0 |   69825 |all-in|    |         |
+ 9|   Russ Fox                 |   98950 |     300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/14/19 12:56:44! Dealing a new hand
+! 02/14/19 12:56:44! Everyone antes $300
+! 02/14/19 12:56:44! Virginia Slims blinds $1000
+! 02/14/19 12:56:44! sltLonghorn blinds $2000
+! 02/14/19 13:07:47! Not66 raises $3200 to $5200 total 
+! 02/14/19 17:01:31! Steb folds
+! 02/14/19 20:07:08! SunnyGirl folds
+! 02/15/19 09:17:36! Kurt Kirner folds
+! 02/15/19 09:31:37! rtroll raises $5200 to $10400 total 
+! 02/15/19 09:31:37! Russ Fox folds
+! 02/15/19 09:31:37! Tom Abraham folds
+! 02/15/19 10:17:24! Virginia Slims folds
+! 02/15/19 10:58:36! sltLonghorn folds
+! 02/15/19 10:59:23! Not66 calls 
+
+! 02/15/19 10:59:23! Pot right ($26500), flopping/dealing/drawing cards
+! 02/15/19 10:59:23! 2 players
+! 02/15/19 10:59:23! Flopped cards: 3s 9d Jh
+! 02/15/19 10:59:56! Not66 checks
+! 02/15/19 11:02:24! rtroll bets $10000 
+! 02/15/19 11:09:55! Not66 calls 
+
+! 02/15/19 11:09:55! Pot right ($46500), flopping/dealing/drawing cards
+! 02/15/19 11:09:55! 2 players
+! 02/15/19 11:09:55! Flopped card: 6c
+! 02/15/19 11:10:26! Not66 checks
+! 02/15/19 11:11:29! rtroll bets $49125 and is all in
+! 02/15/19 11:11:29! Not66 folds
+! Hand over, no showdown
+! Current board is:  3s 9d Jh 6c ?
+! rtroll wins $95625 (net $25800)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Tom Abraham              |  344025 |         |      |    |         |
+ 2|D  Virginia Slims           |   44450 |         |      |    |         |
+ 3|   sltLonghorn              |  269450 |         |      |    |         |
+ 4|>  Not66                    |   72175 |         |      |    |         |
+ 5|   Steb                     |  108625 |         |      |    |         |
+ 6|   SunnyGirl                |  110350 |         |      |    |         |
+ 7|   Kurt Kirner              |  178100 |         |      |    |         |
+ 8|   rtroll                   |   95625 |         |      |    |         |
+ 9|   Russ Fox                 |   98950 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 221 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d17.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 2
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

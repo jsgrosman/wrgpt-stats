@@ -1,0 +1,108 @@
+Subject: [d6.10074] Holdem Game Broadcast Message(*)
+
+! Table d6, Hand 259, Day 99
+
+! John Cairns calls 
+! Pot right ($172750), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: Qc
+! Flopped card: Ac
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   BigBlind                 |  196275 |    3600 |folded|    |         |
+ 2|   skatesave                |   42800 |     400 |folded|    |         |
+ 3|   Taki                     |   15075 |     400 |folded|    |         |
+ 4|   FredLS                   |  118150 |     400 |folded|    |         |
+ 5|   All In a daze work       |   56950 |     400 |folded|    |         |
+ 6|   GKinz54                  |       0 |   80975 |all-in|    |         |
+ 7|   Dennis Roberts           |  154575 |    3600 |folded|    |         |
+ 8|D> John Cairns              |  137075 |   80975 |      |    |         |
+ 9|   888                      |  165500 |    2000 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/18/19 09:36:07! Dealing a new hand
+! 02/18/19 09:36:07! Everyone antes $400
+! 02/18/19 09:36:07! 888 blinds $1600
+! 02/18/19 09:36:07! BigBlind blinds $3200
+! 02/18/19 09:57:49! skatesave folds
+! 02/18/19 10:39:13! Taki folds
+! 02/18/19 10:39:13! FredLS folds
+! 02/18/19 10:39:13! All In a daze work folds
+! 02/18/19 13:57:09! GKinz54 calls 
+! 02/18/19 15:10:18! Dennis Roberts calls 
+! 02/18/19 15:23:32! John Cairns raises $18000 to $21200 total 
+! 02/18/19 15:23:32! 888 folds
+! 02/18/19 15:30:38! BigBlind folds
+! 02/18/19 15:34:01! GKinz54 calls 
+! 02/18/19 18:14:11! Dennis Roberts folds
+
+! 02/18/19 18:14:11! Pot right ($54000), flopping/dealing/drawing cards
+! 02/18/19 18:14:11! 2 players
+! 02/18/19 18:14:11! Flopped cards: 7d Ks 5d
+! 02/18/19 18:15:57! GKinz54 bets $59375 and is all in
+! 02/18/19 18:52:22! John Cairns calls 
+
+! 02/18/19 18:52:22! Pot right ($172750), flopping/dealing/drawing cards
+! 02/18/19 18:52:22! 2 players, 1 all in
+! 02/18/19 18:52:22! Flopped card: Qc
+! 02/18/19 18:52:22! Flopped card: Ac
+! Hand over, current board is:  7d Ks 5d Qc Ac
+! GKinz54                  has: Qs Ad
+! John Cairns              has: Kc 10c
+! GKinz54 wins $172750 (net $91775) with Two Pair (A A Q Q K)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   BigBlind                 |  196275 |         |      |    |         |
+ 2|   skatesave                |   42800 |         |      |    |         |
+ 3|   Taki                     |   15075 |         |      |    |         |
+ 4|   FredLS                   |  118150 |         |      |    |         |
+ 5|   All In a daze work       |   56950 |         |      |    |         |
+ 6|   GKinz54                  |  172750 |         |      |    |         |
+ 7|   Dennis Roberts           |  154575 |         |      |    |         |
+ 8|>  John Cairns              |  137075 |         |      |    |         |
+ 9|D  888                      |  165500 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 212 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d6.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 3
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

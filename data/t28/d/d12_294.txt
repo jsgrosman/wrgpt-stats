@@ -1,0 +1,100 @@
+Subject: [d12.10432] Holdem Game Broadcast Message(*)
+
+! Table d12, Hand 294, Day 123
+
+! poohbear folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Donald Neilson           |  120975 |    4600 |folded|    |         |
+ 2|   Tom Abraham              |  554450 |     600 |folded|    |         |
+ 3|   shinsook                 |  241425 |     600 |folded|    |         |
+ 4|   BillDaBear               |  289500 |     600 |folded|    |         |
+ 5|   Neil Boyce               |  246900 |     600 |folded|    |         |
+ 6|>  poohbear                 |  319550 |   61025 |folded|    |         |
+ 7|D  DadSaysDOH               |       0 |  135150 |all-in|    |         |
+ 9|   Steb                     |   85925 |    2600 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/13/19 12:07:44! Dealing a new hand
+! 03/13/19 12:07:44! Everyone antes $600
+! 03/13/19 12:07:44! Steb blinds $2000
+! 03/13/19 12:07:44! Donald Neilson blinds $4000
+! 03/13/19 12:28:57! Tom Abraham folds
+! 03/13/19 14:18:20! BillDaBear is back from vacation
+! 03/13/19 16:21:21! shinsook folds
+! 03/13/19 16:42:32! BillDaBear folds
+! 03/13/19 16:48:45! Neil Boyce folds
+! 03/13/19 16:56:05! poohbear raises $6000 to $10000 total 
+! 03/13/19 17:01:51! DadSaysDOH calls 
+! 03/14/19 05:02:55! Steb folds
+! 03/14/19 05:02:55! Donald Neilson folds
+
+! 03/14/19 05:02:55! Pot right ($30800), flopping/dealing/drawing cards
+! 03/14/19 05:02:55! 2 players
+! 03/14/19 05:02:55! Flopped cards: 10s Ac Kc
+! 03/14/19 05:43:30! poohbear bets $17125 
+! 03/14/19 08:05:20! DadSaysDOH calls 
+
+! 03/14/19 08:05:20! Pot right ($65050), flopping/dealing/drawing cards
+! 03/14/19 08:05:20! 2 players
+! 03/14/19 08:05:20! Flopped card: 2s
+! 03/14/19 08:28:50! poohbear bets $33300 
+! 03/14/19 08:52:53! DadSaysDOH raises $74125 to $107425 total and is all in
+! 03/14/19 09:41:25! poohbear folds
+! Hand over, no showdown
+! Current board is:  10s Ac Kc 2s ?
+! DadSaysDOH wins $205775 (net $70625)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Donald Neilson           |  120975 |         |      |    |         |
+ 2|   Tom Abraham              |  554450 |         |      |    |         |
+ 3|   shinsook                 |  241425 |         |      |    |         |
+ 4|   BillDaBear               |  289500 |         |      |    |         |
+ 5|   Neil Boyce               |  246900 |         |      |    |         |
+ 6|>  poohbear                 |  319550 |         |      |    |         |
+ 7|   DadSaysDOH               |  205775 |         |      |    |         |
+ 9|D  Steb                     |   85925 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 110 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d12.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 7
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

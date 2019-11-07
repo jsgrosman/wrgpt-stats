@@ -1,0 +1,104 @@
+Subject: [d19.10189] Holdem Game Broadcast Message(*)
+
+! Table d19, Hand 271, Day 101
+
+! Daryl raises $3175 to $45175 total and is all in
+! Pot right ($95575), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped cards: Jh 9c 4s
+! Flopped card: 6h
+! Flopped card: 8h
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   bert_ofcl                |  103950 |     400 |folded|    |         |
+ 2|D  TwelveSeven              |  219800 |     400 |folded|    |         |
+ 3|   Rollo                    |   19350 |    2000 |folded|    |         |
+ 4|   The Rabid Moose          |   55725 |    3600 |folded|    |         |
+ 5|   Ken Anderson             |  450250 |     400 |folded|    |         |
+ 6|>  Daryl                    |       0 |   45575 |all-in|  1 |    3175 |
+ 7|   Sir Barlow               |  116275 |     400 |folded|    |         |
+ 8|   Walter Hunt              |       0 |   42400 |all-in|  2 |   92400 |
+ 9|   Matt Matros              |  249275 |     400 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/20/19 13:39:14! Dealing a new hand
+! 02/20/19 13:39:14! Everyone antes $400
+! 02/20/19 13:39:14! Rollo blinds $1600
+! 02/20/19 13:39:14! The Rabid Moose blinds $3200
+! 02/20/19 13:40:08! Ken Anderson folds
+! 02/20/19 13:50:23! Daryl raises $3200 to $6400 total 
+! 02/20/19 13:50:23! Sir Barlow folds
+! 02/20/19 16:02:00! Walter Hunt raises $35600 to $42000 total and is all in
+! 02/20/19 16:02:00! Matt Matros folds
+! 02/20/19 16:02:00! bert_ofcl folds
+! 02/20/19 16:02:00! TwelveSeven folds
+! 02/20/19 16:19:03! Rollo folds
+! 02/20/19 16:19:03! The Rabid Moose folds
+! 02/20/19 17:43:34! Daryl raises $3175 to $45175 total and is all in
+
+! 02/20/19 17:43:34! Pot right ($95575), flopping/dealing/drawing cards
+! 02/20/19 17:43:34! 2 players, 2 all in
+! 02/20/19 17:43:34! Flopped cards: Jh 9c 4s
+! 02/20/19 17:43:34! Flopped card: 6h
+! 02/20/19 17:43:34! Flopped card: 8h
+! Hand over, current board is:  Jh 9c 4s 6h 8h
+! Daryl                    has: As Js
+! Walter Hunt              has: Ah Kh
+! Pot 1: uncalled $3175 returned to Daryl
+! Pot 2: Walter Hunt wins $92400 with Heart Flush (A K J 8 6)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   bert_ofcl                |  103950 |         |      |    |         |
+ 2|   TwelveSeven              |  219800 |         |      |    |         |
+ 3|D  Rollo                    |   19350 |         |      |    |         |
+ 4|   The Rabid Moose          |   55725 |         |      |    |         |
+ 5|   Ken Anderson             |  450250 |         |      |    |         |
+ 6|>  Daryl                    |    3175 |         |      |    |         |
+ 7|   Sir Barlow               |  116275 |         |      |    |         |
+ 8|   Walter Hunt              |   92400 |         |      |    |         |
+ 9|   Matt Matros              |  249275 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 203 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d19.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 15
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

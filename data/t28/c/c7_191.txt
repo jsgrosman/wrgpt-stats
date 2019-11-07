@@ -1,0 +1,99 @@
+Subject: [c7.10544] Holdem Game Broadcast Message(*)
+
+! Table c7, Hand 191, Day 87
+
+! skatesave calls 
+! Pot right ($33450), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped cards: 10s 4c 7s
+! Flopped card: 6d
+! Flopped card: 2h
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   JohnnyMac                |  174825 |    2300 |folded|    |         |
+ 2|   Johnny Ice               |   62375 |     300 |folded|    |         |
+ 3|   Endrju                   |  146000 |     300 |folded|    |         |
+ 4|   Ninetensuited            |   30900 |     300 |folded|    |         |
+ 5|   Daniel Levine            |  119850 |     300 |folded|    |         |
+ 6|   Joe Nadeau               |  274750 |     300 |folded|    |         |
+ 7|D> skatesave                |   40200 |   14825 |      |    |         |
+ 9|   Mike B                   |       0 |   14825 |all-in|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/06/19 07:42:43! Dealing a new hand
+! 02/06/19 07:42:43! Everyone antes $300
+! 02/06/19 07:42:43! Mike B blinds $1000
+! 02/06/19 07:42:43! JohnnyMac blinds $2000
+! 02/06/19 08:29:26! Johnny Ice folds
+! 02/06/19 08:29:26! Endrju folds
+! 02/06/19 09:19:30! Ninetensuited folds
+! 02/06/19 09:19:30! Daniel Levine folds
+! 02/06/19 09:19:30! Joe Nadeau folds
+! 02/06/19 10:00:10! skatesave calls 
+! 02/06/19 10:00:10! Mike B raises $12525 to $14525 total and is all in
+! 02/06/19 10:00:58! JohnnyMac folds
+! 02/06/19 10:02:31! skatesave calls 
+
+! 02/06/19 10:02:31! Pot right ($33450), flopping/dealing/drawing cards
+! 02/06/19 10:02:31! 2 players, 1 all in
+! 02/06/19 10:02:31! Flopped cards: 10s 4c 7s
+! 02/06/19 10:02:31! Flopped card: 6d
+! 02/06/19 10:02:31! Flopped card: 2h
+! Hand over, current board is:  10s 4c 7s 6d 2h
+! skatesave                has: Ah Jh
+! Mike B                   has: 8s 8h
+! Mike B wins $33450 (net $18625) with One Pair (8 8 10 7 6)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   JohnnyMac                |  174825 |         |      |    |         |
+ 2|   Johnny Ice               |   62375 |         |      |    |         |
+ 3|   Endrju                   |  146000 |         |      |    |         |
+ 4|   Ninetensuited            |   30900 |         |      |    |         |
+ 5|   Daniel Levine            |  119850 |         |      |    |         |
+ 6|   Joe Nadeau               |  274750 |         |      |    |         |
+ 7|>  skatesave                |   40200 |         |      |    |         |
+ 9|D  Mike B                   |   33450 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 257 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c7.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 4
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

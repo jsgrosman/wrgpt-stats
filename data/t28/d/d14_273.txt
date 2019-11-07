@@ -1,0 +1,104 @@
+Subject: [d14.10194] Holdem Game Broadcast Message(*)
+
+! Table d14, Hand 273, Day 107
+
+! Barton calls 
+! Pot right ($198250), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped cards: 5c 2h 2c
+! Flopped card: Qh
+! Flopped card: Jc
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Billco                   |  168050 |     400 |folded|    |         |
+ 2|   put_it_good              |   82125 |     400 |folded|    |         |
+ 3|   DotMatrix                |   57850 |     400 |folded|    |         |
+ 4|D> Barton                   |  308100 |   95325 |      |    |         |
+ 5|   Bob R                    |  202275 |    2000 |folded|    |         |
+ 6|   Endrju                   |  151600 |    3600 |folded|    |         |
+ 7|   Richard Rognlie          |  254000 |     400 |folded|    |         |
+ 8|   Ira Agins                |   51050 |     400 |folded|    |         |
+ 9|   Stephen Mack             |       0 |   95325 |all-in|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/26/19 00:16:26! Dealing a new hand
+! 02/26/19 00:16:26! Everyone antes $400
+! 02/26/19 00:16:26! Bob R blinds $1600
+! 02/26/19 00:16:26! Endrju blinds $3200
+! 02/26/19 00:38:58! Richard Rognlie folds
+! 02/26/19 05:38:38! Ira Agins folds
+! 02/26/19 07:21:19! Stephen Mack raises $11800 to $15000 total 
+! 02/26/19 07:21:19! Billco folds
+! 02/26/19 07:30:36! put_it_good folds
+! 02/26/19 08:30:36! DotMatrix folds
+! 02/26/19 08:30:36! Barton raises $42850 to $57850 total 
+! 02/26/19 08:30:36! Bob R folds
+! 02/26/19 08:44:33! Endrju folds
+! 02/26/19 09:07:58! Stephen Mack raises $37075 to $94925 total and is all in
+! 02/26/19 14:15:10! Barton calls 
+
+! 02/26/19 14:15:10! Pot right ($198250), flopping/dealing/drawing cards
+! 02/26/19 14:15:10! 2 players, 1 all in
+! 02/26/19 14:15:10! Flopped cards: 5c 2h 2c
+! 02/26/19 14:15:10! Flopped card: Qh
+! 02/26/19 14:15:10! Flopped card: Jc
+! Hand over, current board is:  5c 2h 2c Qh Jc
+! Barton                   has: Ad Qc
+! Stephen Mack             has: 9h 9c
+! Barton wins $198250 (net $102925) with Two Pair (Q Q 2 2 A)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Billco                   |  168050 |         |      |    |         |
+ 2|   put_it_good              |   82125 |         |      |    |         |
+ 3|   DotMatrix                |   57850 |         |      |    |         |
+ 4|>  Barton                   |  506350 |         |      |    |         |
+ 5|D  Bob R                    |  202275 |         |      |    |         |
+ 6|   Endrju                   |  151600 |         |      |    |         |
+ 7|   Richard Rognlie          |  254000 |         |      |    |         |
+ 8|   Ira Agins                |   51050 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Stephen Mack is eliminated!
+! 178 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d14.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 11
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

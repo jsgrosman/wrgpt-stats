@@ -1,0 +1,104 @@
+Subject: [d3.10459] Holdem Game Broadcast Message(*)
+
+! Table d3, Hand 298, Day 115
+
+! Byfthalone raises $88825 to $162650 total and is all in
+! CAB folds
+! Pot right ($261275), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped cards: 10s 3h 2s
+! Flopped card: 5s
+! Flopped card: 8s
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Brian Crowley            |  393275 |     600 |folded|    |         |
+ 2|   drjeys                   |  201250 |     600 |folded|    |         |
+ 3|   Ben Buchwald             |  198525 |   10600 |folded|    |         |
+ 4|D  Byfthalone               |       0 |  163250 |all-in|  1 |   88825 |
+ 6|>  CAB                      |  295575 |   10600 |folded|    |         |
+ 7|   Camo                     |       0 |   74425 |all-in|  2 |  172450 |
+ 8|   What Beats What Again    |  237625 |     600 |folded|    |         |
+ 9|   Mike Litoris             |  289575 |     600 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/06/19 05:17:57! Dealing a new hand
+! 03/06/19 05:17:57! Everyone antes $600
+! 03/06/19 05:17:57! CAB blinds $2000
+! 03/06/19 05:17:57! Camo blinds $4000
+! 03/06/19 05:31:19! What Beats What Again folds
+! 03/06/19 08:01:29! Mike Litoris folds
+! 03/06/19 08:01:29! Brian Crowley folds
+! 03/06/19 08:01:29! drjeys folds
+! 03/06/19 08:01:29! Ben Buchwald raises $6000 to $10000 total 
+! 03/06/19 08:11:31! Byfthalone calls 
+! 03/06/19 08:57:09! CAB calls 
+! 03/06/19 09:00:23! Camo raises $63825 to $73825 total and is all in
+! 03/06/19 10:34:15! Ben Buchwald folds
+! 03/06/19 10:36:08! Byfthalone raises $88825 to $162650 total and is all in
+! 03/06/19 10:36:08! CAB folds
+
+! 03/06/19 10:36:08! Pot right ($261275), flopping/dealing/drawing cards
+! 03/06/19 10:36:08! 2 players, 2 all in
+! 03/06/19 10:36:08! Flopped cards: 10s 3h 2s
+! 03/06/19 10:36:08! Flopped card: 5s
+! 03/06/19 10:36:08! Flopped card: 8s
+! Hand over, current board is:  10s 3h 2s 5s 8s
+! Byfthalone               has: 8c 6c
+! Camo                     has: Ad Ac
+! Pot 1: uncalled $88825 returned to Byfthalone
+! Pot 2: Camo wins $172450 with One Pair (A A 10 8 5)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Brian Crowley            |  393275 |         |      |    |         |
+ 2|   drjeys                   |  201250 |         |      |    |         |
+ 3|   Ben Buchwald             |  198525 |         |      |    |         |
+ 4|   Byfthalone               |   88825 |         |      |    |         |
+ 6|D> CAB                      |  295575 |         |      |    |         |
+ 7|   Camo                     |  172450 |         |      |    |         |
+ 8|   What Beats What Again    |  237625 |         |      |    |         |
+ 9|   Mike Litoris             |  289575 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! drjeys went on vacation until <Gone>
+! 138 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d3.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

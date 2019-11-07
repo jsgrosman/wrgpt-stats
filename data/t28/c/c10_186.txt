@@ -1,0 +1,106 @@
+Subject: [c10.10432] Holdem Game Broadcast Message(*)
+
+! Table c10, Hand 186, Day 86
+
+! Otto folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Kahomono                 |   87475 |     300 |folded|    |         |
+ 2|   Rich Guidoboni           |  147100 |    6300 |folded|    |         |
+ 3|   Olof Siverbo             |  119500 |     300 |folded|    |         |
+ 4|D  DroogieDroog             |       0 |   46400 |all-in|    |         |
+ 5|   stannius                 |   79125 |    1300 |folded|    |         |
+ 6|>  Otto                     |  169725 |   18300 |folded|    |         |
+ 7|   SunnyGirl                |  102950 |     300 |folded|    |         |
+ 8|V  Blind Owl                |   67750 |     300 |<AWOL>|    |         |
+ 9|   jpchiefs                 |   50150 |     300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/05/19 08:39:51! Dealing a new hand
+! 02/05/19 08:39:51! Everyone antes $300
+! 02/05/19 08:39:51! stannius blinds $1000
+! 02/05/19 08:39:51! Otto blinds $2000
+! 02/05/19 08:48:42! SunnyGirl folds
+! 02/05/19 08:48:42! Blind Owl is on vacation and folds
+! 02/05/19 08:51:14! jpchiefs folds
+! 02/05/19 08:51:14! Kahomono folds
+! 02/05/19 09:27:45! Rich Guidoboni calls 
+! 02/05/19 09:27:45! Olof Siverbo folds
+! 02/05/19 10:33:15! DroogieDroog raises $4000 to $6000 total 
+! 02/05/19 10:34:26! stannius folds
+! 02/05/19 10:34:26! Otto calls 
+! 02/05/19 11:29:00! Rich Guidoboni calls 
+
+! 02/05/19 11:29:00! Pot right ($21700), flopping/dealing/drawing cards
+! 02/05/19 11:29:00! 3 players
+! 02/05/19 11:29:00! Flopped cards: 4s 2c 3h
+! 02/05/19 11:29:00! Otto checks
+! 02/05/19 11:33:15! Rich Guidoboni checks
+! 02/05/19 11:57:25! DroogieDroog bets $12000 
+! 02/05/19 12:03:25! Otto calls 
+! 02/05/19 12:03:25! Rich Guidoboni folds
+
+! 02/05/19 12:03:25! Pot right ($45700), flopping/dealing/drawing cards
+! 02/05/19 12:03:25! 2 players
+! 02/05/19 12:03:25! Flopped card: 6h
+! 02/05/19 12:14:16! Otto checks
+! 02/05/19 14:06:18! DroogieDroog bets $28100 and is all in
+! 02/05/19 14:20:49! Otto folds
+! Hand over, no showdown
+! Current board is:  4s 2c 3h 6h ?
+! DroogieDroog wins $73800 (net $27400)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Kahomono                 |   87475 |         |      |    |         |
+ 2|   Rich Guidoboni           |  147100 |         |      |    |         |
+ 3|   Olof Siverbo             |  119500 |         |      |    |         |
+ 4|   DroogieDroog             |   73800 |         |      |    |         |
+ 5|D  stannius                 |   79125 |         |      |    |         |
+ 6|>  Otto                     |  169725 |         |      |    |         |
+ 7|   SunnyGirl                |  102950 |         |      |    |         |
+ 8|V  Blind Owl                |   67750 |         |<AWOL>|    |         |
+ 9|   jpchiefs                 |   50150 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 263 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c10.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 7
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

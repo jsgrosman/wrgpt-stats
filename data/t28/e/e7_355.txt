@@ -1,0 +1,101 @@
+Subject: [e7.10099] Holdem Game Broadcast Message(*)
+
+! Table e7, Hand 355, Day 137
+
+! DocOber folds
+! Pot right ($252500), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped cards: Qh Qd 3d
+! Flopped card: 9h
+! Flopped card: 6d
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   SunnyGirl                |  599400 |    4000 |folded|    |         |
+ 2|   DocOber                  |  755650 |    7000 |folded|    |         |
+ 3|   DadSaysDOH               |  275075 |    1000 |folded|    |         |
+ 4|   Piojos                   |  343225 |    1000 |folded|    |         |
+ 5|   BigElmo                  |  145100 |    1000 |folded|    |         |
+ 6|   ddppmm                   |  167650 |    1000 |folded|    |         |
+ 7|   Deets                    |       0 |  118250 |all-in|    |         |
+ 8|>  jasong                   |  886750 |  118250 |      |    |         |
+ 9|D  Sam Parazette            |  703850 |    1000 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/28/19 14:46:54! Dealing a new hand
+! 03/28/19 14:46:54! Everyone antes $1000
+! 03/28/19 14:46:54! SunnyGirl blinds $3000
+! 03/28/19 14:46:54! DocOber blinds $6000
+! 03/28/19 14:48:37! DadSaysDOH folds
+! 03/28/19 15:19:24! Piojos folds
+! 03/28/19 15:32:49! BigElmo folds
+! 03/28/19 19:56:40! ddppmm folds
+! 03/28/19 20:26:02! Deets raises $111250 to $117250 total and is all in
+! 03/28/19 20:30:12! jasong calls 
+! 03/28/19 20:30:12! Sam Parazette folds
+! 03/28/19 21:42:31! SunnyGirl folds
+! 03/28/19 22:59:30! DocOber folds
+
+! 03/28/19 22:59:30! Pot right ($252500), flopping/dealing/drawing cards
+! 03/28/19 22:59:30! 2 players, 1 all in
+! 03/28/19 22:59:30! Flopped cards: Qh Qd 3d
+! 03/28/19 22:59:30! Flopped card: 9h
+! 03/28/19 22:59:30! Flopped card: 6d
+! Hand over, current board is:  Qh Qd 3d 9h 6d
+! Deets                    has: Js Jh
+! jasong                   has: 5s 5h
+! Deets wins $252500 (net $134250) with Two Pair (Q Q J J 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  SunnyGirl                |  599400 |         |      |    |         |
+ 2|   DocOber                  |  755650 |         |      |    |         |
+ 3|   DadSaysDOH               |  275075 |         |      |    |         |
+ 4|   Piojos                   |  343225 |         |      |    |         |
+ 5|   BigElmo                  |  145100 |         |      |    |         |
+ 6|   ddppmm                   |  167650 |         |      |    |         |
+ 7|   Deets                    |  252500 |         |      |    |         |
+ 8|>  jasong                   |  886750 |         |      |    |         |
+ 9|   Sam Parazette            |  703850 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 74 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/e/e7.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

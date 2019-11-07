@@ -1,0 +1,98 @@
+Subject: [d14.10314] Holdem Game Broadcast Message(*)
+
+! Table d14, Hand 288, Day 115
+
+! DotMatrix folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Billco                   |  402575 |     600 |folded|    |         |
+ 2|D  put_it_good              |  112325 |     600 |folded|    |         |
+ 3|   DotMatrix                |   34850 |    4600 |folded|    |         |
+ 4|>  Barton                   |  540350 |   15100 |      |    |         |
+ 5|   Bob R                    |  190475 |     600 |folded|    |         |
+ 6|   Deets                    |   84200 |    4600 |folded|    |         |
+ 7|   Richard Rognlie          |   25150 |    4600 |folded|    |         |
+ 8|   Ira Agins                |  162150 |     600 |folded|    |         |
+ 9|   rtroll                   |  133725 |       0 |New   |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/05/19 13:38:48! Dealing a new hand
+! 03/05/19 13:38:48! Everyone antes $600
+! 03/05/19 13:38:48! DotMatrix blinds $2000
+! 03/05/19 13:38:48! Barton blinds $4000
+! 03/05/19 13:47:45! Bob R folds
+! 03/05/19 14:55:04! New player added to the table: rtroll
+! 03/05/19 15:00:09! Deets calls 
+! 03/05/19 17:40:55! Richard Rognlie calls 
+! 03/05/19 17:40:55! Ira Agins folds
+! 03/05/19 18:56:45! Billco folds
+! 03/05/19 22:14:07! put_it_good folds
+! 03/05/19 22:30:19! DotMatrix calls 
+! 03/05/19 22:32:41! Barton checks
+
+! 03/05/19 22:32:41! Pot right ($20800), flopping/dealing/drawing cards
+! 03/05/19 22:32:41! 4 players
+! 03/05/19 22:32:41! Flopped cards: Qd Kd Jd
+! 03/05/19 22:38:32! DotMatrix checks
+! 03/05/19 22:43:58! Barton bets $10500 
+! 03/06/19 03:02:40! Deets folds
+! 03/06/19 05:47:32! Richard Rognlie folds
+! 03/06/19 07:36:00! DotMatrix folds
+! Hand over, no showdown
+! Current board is:  Qd Kd Jd ? ?
+! Barton wins $31300 (net $16200)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Billco                   |  402575 |         |      |    |         |
+ 2|   put_it_good              |  112325 |         |      |    |         |
+ 3|D  DotMatrix                |   34850 |         |      |    |         |
+ 4|>  Barton                   |  571650 |         |      |    |         |
+ 5|   Bob R                    |  190475 |         |      |    |         |
+ 6|   Deets                    |   84200 |         |      |    |         |
+ 7|   Richard Rognlie          |   25150 |         |      |    |         |
+ 8|   Ira Agins                |  162150 |         |      |    |         |
+ 9|   rtroll                   |  133725 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 138 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d14.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 5
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

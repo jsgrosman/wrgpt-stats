@@ -1,0 +1,104 @@
+Subject: [c21.10956] Holdem Game Broadcast Message(*)
+
+! Table c21, Hand 231, Day 93
+
+! BigBlind bets $5000 
+! sgranen folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|   sgranen                  |  245400 |    2300 |folded|    |         |
+ 4|   Ace Squared              |  118100 |     300 |folded|    |         |
+ 5|   dgr                      |   42800 |     300 |folded|    |         |
+ 6|   Polar85                  |  126050 |     300 |folded|    |         |
+ 8|D  Donald Neilson           |  144925 |     300 |folded|    |         |
+ 9|>  BigBlind                 |  206975 |    7300 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/12/19 14:41:14! Dealing a new hand
+! 02/12/19 14:41:14! Everyone antes $300
+! 02/12/19 14:41:14! BigBlind blinds $1000
+! 02/12/19 14:41:14! sgranen blinds $2000
+! 02/12/19 14:43:37! Ace Squared folds
+! 02/12/19 15:30:17! dgr folds
+! 02/12/19 15:30:17! Polar85 folds
+! 02/12/19 15:30:17! Donald Neilson folds
+! 02/12/19 15:50:50! BigBlind calls 
+! 02/12/19 15:50:50! sgranen checks
+
+! 02/12/19 15:50:50! Pot right ($5800), flopping/dealing/drawing cards
+! 02/12/19 15:50:50! 2 players
+! 02/12/19 15:50:50! Flopped cards: 8c Qs Qh
+! 02/12/19 16:02:05! BigBlind checks
+! 02/12/19 16:02:05! sgranen checks
+
+! 02/12/19 16:02:05! Pot right ($5800), flopping/dealing/drawing cards
+! 02/12/19 16:02:05! 2 players
+! 02/12/19 16:02:05! Flopped card: 7c
+! 02/12/19 16:09:41! BigBlind checks
+! 02/12/19 16:09:41! sgranen checks
+
+! 02/12/19 16:09:41! Pot right ($5800), flopping/dealing/drawing cards
+! 02/12/19 16:09:41! 2 players
+! 02/12/19 16:09:41! Flopped card: 2s
+! 02/12/19 16:43:18! BigBlind bets $5000 
+! 02/12/19 16:43:18! sgranen folds
+! Hand over, no showdown
+! Current board is:  8c Qs Qh 7c 2s
+! BigBlind wins $10800 (net $3500)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|   sgranen                  |  245400 |         |      |    |         |
+ 4|   Ace Squared              |  118100 |         |      |    |         |
+ 5|   dgr                      |   42800 |         |      |    |         |
+ 6|   Polar85                  |  126050 |         |      |    |         |
+ 8|   Donald Neilson           |  144925 |         |      |    |         |
+ 9|D> BigBlind                 |  217775 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 226 players left in the tournament 
+! Table finished, waiting to redraw seats.
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c21.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+We are 31 days into the c round.  
+There will be no more live redraws this round.  
+When any table gets down to five or fewer players the round will 
+end as all current hands finish.  Following the last hand a full
+redraw will be done to start the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 35
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

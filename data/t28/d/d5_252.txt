@@ -1,0 +1,111 @@
+Subject: [d5.10015] Holdem Game Broadcast Message(*)
+
+! Table d5, Hand 252, Day 96
+
+! the cake is a pie calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  AveCat                   |  181300 |     300 |folded|    |         |
+ 2|>  Bob Brewster             |  158600 |   54300 |      |    |         |
+ 3|   the cake is a pie        |  184850 |   54300 |      |    |         |
+ 4|   Olof Siverbo             |   90500 |    6300 |folded|    |         |
+ 5|   Jeff Palmucci            |   64125 |     300 |folded|    |         |
+ 6|   kettledrum               |   37400 |     300 |folded|    |         |
+ 7|   GwynnInTheHall           |  130700 |     300 |folded|    |         |
+ 8|   DazedAndConfused         |  191900 |     300 |folded|    |         |
+ 9|   breyercalvert            |  150650 |     300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/14/19 12:56:07! Dealing a new hand
+! 02/14/19 12:56:07! Everyone antes $300
+! 02/14/19 12:56:07! Bob Brewster blinds $1000
+! 02/14/19 12:56:07! the cake is a pie blinds $2000
+! 02/15/19 00:17:35! Olof Siverbo raises $4000 to $6000 total 
+! 02/15/19 00:17:35! Jeff Palmucci folds
+! 02/15/19 05:18:05! kettledrum folds
+! 02/15/19 07:42:29! GwynnInTheHall folds
+! 02/15/19 07:42:29! DazedAndConfused folds
+! 02/15/19 09:02:05! breyercalvert folds
+! 02/15/19 09:38:38! AveCat folds
+! 02/15/19 09:39:39! Bob Brewster calls 
+! 02/15/19 09:41:59! the cake is a pie calls 
+
+! 02/15/19 09:41:59! Pot right ($20700), flopping/dealing/drawing cards
+! 02/15/19 09:41:59! 3 players
+! 02/15/19 09:41:59! Flopped cards: 2d Js 7h
+! 02/15/19 10:30:54! Bob Brewster checks
+! 02/15/19 10:35:05! the cake is a pie bets $13000 
+! 02/15/19 10:38:22! Olof Siverbo folds
+! 02/15/19 10:46:37! Bob Brewster calls 
+
+! 02/15/19 10:46:37! Pot right ($46700), flopping/dealing/drawing cards
+! 02/15/19 10:46:37! 2 players
+! 02/15/19 10:46:37! Flopped card: 9h
+! 02/15/19 10:47:17! Bob Brewster bets $15000 
+! 02/15/19 12:14:20! the cake is a pie calls 
+
+! 02/15/19 12:14:20! Pot right ($76700), flopping/dealing/drawing cards
+! 02/15/19 12:14:20! 2 players
+! 02/15/19 12:14:20! Flopped card: Jd
+! 02/15/19 12:19:59! Bob Brewster bets $20000 
+! 02/15/19 12:36:45! the cake is a pie calls 
+! Hand over, current board is:  2d Js 7h 9h Jd
+! Bob Brewster             has: Jh 4d
+! the cake is a pie        has: 9d 10c
+! Bob Brewster wins $116700 (net $62400) with Three of a Kind (J J J 9 7)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   AveCat                   |  181300 |         |      |    |         |
+ 2|D> Bob Brewster             |  275300 |         |      |    |         |
+ 3|   the cake is a pie        |  184850 |         |      |    |         |
+ 4|   Olof Siverbo             |   90500 |         |      |    |         |
+ 5|   Jeff Palmucci            |   64125 |         |      |    |         |
+ 6|   kettledrum               |   37400 |         |      |    |         |
+ 7|   GwynnInTheHall           |  130700 |         |      |    |         |
+ 8|   DazedAndConfused         |  191900 |         |      |    |         |
+ 9|   breyercalvert            |  150650 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 220 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d5.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 3
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

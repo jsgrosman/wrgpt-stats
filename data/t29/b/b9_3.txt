@@ -1,0 +1,125 @@
+Subject: [b9.10057] Holdem Game Broadcast Message(*)
+
+! Table b9, Hand 3, Day 3
+
+! hi.seas checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   altidude6202             |   36750 |    1050 |      |    |         |
+ 2|   hi.seas                  |   48875 |    1050 |      |    |         |
+ 3|D  Wrongfellow              |   49700 |       0 |folded|    |         |
+ 4|   GKinz54                  |   49775 |      75 |folded|    |         |
+ 5|   ScoobySnack              |   49700 |     150 |folded|    |         |
+ 6|>  denimmined               |   48950 |    1050 |      |    |         |
+ 7|   James Scharf             |   62775 |       0 |folded|    |         |
+ 8|   tekbot                   |   50600 |       0 |folded|    |         |
+ 9|   Bwana                    |   48450 |    1050 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/05/19 14:55:16! Dealing a new hand
+! 11/05/19 14:55:16! No ante
+! 11/05/19 14:55:16! GKinz54 blinds $75
+! 11/05/19 14:55:16! ScoobySnack blinds $150
+! 11/05/19 15:47:13! denimmined raises $250 to $400 total 
+! 11/05/19 15:47:13! James Scharf folds
+! 11/05/19 16:16:02! tekbot folds
+! 11/05/19 16:21:56! Bwana calls 
+! 11/05/19 16:29:14! altidude6202 calls 
+! 11/05/19 16:30:28! hi.seas calls 
+! 11/05/19 16:30:28! Wrongfellow folds
+! 11/05/19 16:32:28! GKinz54 folds
+! 11/06/19 07:00:03! ScoobySnack folds
+
+! 11/06/19 07:00:03! Pot right ($1825), flopping/dealing/drawing cards
+! 11/06/19 07:00:03! 4 players
+! 11/06/19 07:00:03! Flopped cards: Qc Qd 2d
+! 11/06/19 07:11:42! denimmined checks
+! 11/06/19 08:13:30! Bwana checks
+! 11/06/19 08:28:49! altidude6202 checks
+! 11/06/19 08:34:26! hi.seas checks
+
+! 11/06/19 08:34:26! Pot right ($1825), flopping/dealing/drawing cards
+! 11/06/19 08:34:26! 4 players
+! 11/06/19 08:34:26! Flopped card: 3c
+! 11/06/19 11:21:35! denimmined checks
+! 11/06/19 11:27:34! Bwana checks
+! 11/06/19 11:40:25! altidude6202 checks
+! 11/06/19 11:53:45! hi.seas bets $650 
+! 11/06/19 13:49:21! denimmined calls 
+! 11/06/19 14:59:23! Bwana calls 
+! 11/06/19 16:09:52! altidude6202 calls 
+
+! 11/06/19 16:09:52! Pot right ($4425), flopping/dealing/drawing cards
+! 11/06/19 16:09:52! 4 players
+! 11/06/19 16:09:52! Flopped card: 3h
+! 11/06/19 19:57:00! denimmined checks
+! 11/06/19 19:57:00! Bwana checks
+! 11/06/19 20:23:16! altidude6202 checks
+! 11/06/19 20:53:35! hi.seas checks
+! Hand over, current board is:  Qc Qd 2d 3c 3h
+! altidude6202             has: 9c 7c
+! hi.seas                  has: 9h 10d
+! denimmined               has: Jc 10c
+! Bwana                    has: 6d 5d
+! denimmined wins $4425 (net $3375) with Two Pair (Q Q 3 3 J)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   altidude6202             |   36750 |         |      |    |         |
+ 2|   hi.seas                  |   48875 |         |      |    |         |
+ 3|   Wrongfellow              |   49700 |         |      |    |         |
+ 4|D  GKinz54                  |   49775 |         |      |    |         |
+ 5|   ScoobySnack              |   49700 |         |      |    |         |
+ 6|>  denimmined               |   53375 |         |      |    |         |
+ 7|   James Scharf             |   62775 |         |      |    |         |
+ 8|   tekbot                   |   50600 |         |      |    |         |
+ 9|   Bwana                    |   48450 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 536 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b9.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+This is the REAL WRGPT29.
+Changes to office hours and email addresses do not carry over from the
+practice round.
+You have been assigned a new ID and the round is "b".
+
+Good luck.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

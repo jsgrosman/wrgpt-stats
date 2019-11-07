@@ -1,0 +1,103 @@
+Subject: [d6.10257] Holdem Game Broadcast Message(*)
+
+! Table d6, Hand 278, Day 109
+
+! bozo folds
+! Pot right ($23275), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped cards: 8h Jh Kc
+! Flopped card: 4c
+! Flopped card: 6c
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   BigBlind                 |   64300 |    2000 |folded|    |         |
+ 2|   bozo                     |  189125 |    3600 |folded|    |         |
+ 3|>  Taki                     |   52425 |   15200 |      |  1 |   19375 |
+ 4|   FredLS                   |  142750 |     400 |folded|    |         |
+ 5|   All In a daze work       |       0 |     475 |all-in|  4 |    3900 |
+ 6|   GKinz54                  |   92950 |     400 |folded|    |         |
+ 7|   Dennis Roberts           |  116375 |     400 |folded|    |         |
+ 8|   John Cairns              |  270550 |     400 |folded|    |         |
+ 9|D  888                      |  376100 |     400 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/28/19 09:56:37! Dealing a new hand
+! 02/28/19 09:56:37! Everyone antes $400
+! 02/28/19 09:56:37! BigBlind blinds $1600
+! 02/28/19 09:56:37! bozo blinds $3200
+! 02/28/19 10:03:00! Taki raises $11600 to $14800 total 
+! 02/28/19 10:57:19! FredLS folds
+! 02/28/19 10:57:19! All In a daze work calls - side pot
+! 02/28/19 10:57:19! GKinz54 folds
+! 02/28/19 10:58:27! Dennis Roberts folds
+! 02/28/19 10:58:27! John Cairns folds
+! 02/28/19 10:58:27! 888 folds
+! 02/28/19 11:00:05! BigBlind folds
+! 02/28/19 13:05:53! bozo folds
+
+! 02/28/19 13:05:53! Pot right ($23275), flopping/dealing/drawing cards
+! 02/28/19 13:05:53! 2 players, 1 all in
+! 02/28/19 13:05:53! Flopped cards: 8h Jh Kc
+! 02/28/19 13:05:53! Flopped card: 4c
+! 02/28/19 13:05:53! Flopped card: 6c
+! Hand over, current board is:  8h Jh Kc 4c 6c
+! Taki                     has: As Ad
+! All In a daze work       has: Js 6d
+! Pot 1: uncalled $19375 returned to Taki
+! Pot 4: All In a daze work wins $3900 with Two Pair (J J 6 6 K)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  BigBlind                 |   64300 |         |      |    |         |
+ 2|   bozo                     |  189125 |         |      |    |         |
+ 3|>  Taki                     |   71800 |         |      |    |         |
+ 4|   FredLS                   |  142750 |         |      |    |         |
+ 5|   All In a daze work       |    3900 |         |      |    |         |
+ 6|   GKinz54                  |   92950 |         |      |    |         |
+ 7|   Dennis Roberts           |  116375 |         |      |    |         |
+ 8|   John Cairns              |  270550 |         |      |    |         |
+ 9|   888                      |  376100 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 171 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d6.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

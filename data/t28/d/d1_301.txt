@@ -1,0 +1,103 @@
+Subject: [d1.10473] Holdem Game Broadcast Message(*)
+
+! Table d1, Hand 301, Day 118
+
+! JohnnyMac calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   rAmAk                    |  201300 |     600 |folded|    |         |
+ 2|   ADB Foldem               |  214125 |     600 |folded|    |         |
+ 4|   MTpotts                  |   93100 |    4600 |folded|    |         |
+ 6|   Spidurman                |  134300 |     600 |folded|    |         |
+ 7|D  JohnnyMac                |  312100 |  173600 |      |    |         |
+ 8|   Alvin Chipmunk           |  414725 |    2600 |folded|    |         |
+ 9|>  TennisGeek               |  109725 |  173600 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/08/19 12:28:43! Dealing a new hand
+! 03/08/19 12:28:43! Everyone antes $600
+! 03/08/19 12:28:43! Alvin Chipmunk blinds $2000
+! 03/08/19 12:28:43! TennisGeek blinds $4000
+! 03/08/19 12:41:05! rAmAk folds
+! 03/08/19 13:33:52! ADB Foldem folds
+! 03/08/19 14:01:07! MTpotts calls 
+! 03/08/19 14:01:07! Spidurman folds
+! 03/08/19 14:02:15! JohnnyMac raises $10000 to $14000 total 
+! 03/08/19 14:42:56! Alvin Chipmunk folds
+! 03/08/19 15:09:18! TennisGeek calls 
+! 03/08/19 17:25:58! MTpotts folds
+
+! 03/08/19 17:25:58! Pot right ($38200), flopping/dealing/drawing cards
+! 03/08/19 17:25:58! 2 players
+! 03/08/19 17:25:58! Flopped cards: 5s As Qc
+! 03/08/19 17:43:52! TennisGeek bets $35000 
+! 03/08/19 19:51:52! JohnnyMac calls 
+
+! 03/08/19 19:51:52! Pot right ($108200), flopping/dealing/drawing cards
+! 03/08/19 19:51:52! 2 players
+! 03/08/19 19:51:52! Flopped card: Kh
+! 03/09/19 05:05:32! TennisGeek bets $54000 
+! 03/09/19 05:13:07! JohnnyMac calls 
+
+! 03/09/19 05:13:07! Pot right ($216200), flopping/dealing/drawing cards
+! 03/09/19 05:13:07! 2 players
+! 03/09/19 05:13:07! Flopped card: 6c
+! 03/09/19 05:13:51! TennisGeek bets $70000 
+! 03/09/19 05:14:15! JohnnyMac calls 
+! Hand over, current board is:  5s As Qc Kh 6c
+! JohnnyMac                has: Ac 7c
+! TennisGeek               has: Ks Qs
+! TennisGeek wins $356200 (net $182600) with Two Pair (K K Q Q A)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   rAmAk                    |  201300 |         |      |    |         |
+ 2|   ADB Foldem               |  214125 |         |      |    |         |
+ 4|   MTpotts                  |   93100 |         |      |    |         |
+ 6|   Spidurman                |  134300 |         |      |    |         |
+ 7|   JohnnyMac                |  312100 |         |      |    |         |
+ 8|D  Alvin Chipmunk           |  414725 |         |      |    |         |
+ 9|>  TennisGeek               |  465925 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 126 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d1.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

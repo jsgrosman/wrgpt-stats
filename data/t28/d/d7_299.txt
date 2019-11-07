@@ -1,0 +1,112 @@
+Subject: [d7.10469] Holdem Game Broadcast Message(*)
+
+! Table d7, Hand 299, Day 123
+
+! Statistical Tie checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Felix Leiter             |  318500 |     600 |folded|    |         |
+ 2|   Thomas Sims              |  195200 |     600 |folded|    |         |
+ 3|D  Isaac Newton             |  284250 |     600 |folded|    |         |
+ 4|   Reggie Miller            |   90600 |    2600 |folded|    |         |
+ 5|>  Kentr                    |  204200 |   19900 |      |    |         |
+ 6|   lektoraj                 |  105425 |     600 |folded|    |         |
+ 7|   Peter Gozinya            |  151050 |     600 |folded|    |         |
+ 9|   Statistical Tie          |   47825 |   19900 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/13/19 15:38:41! Dealing a new hand
+! 03/13/19 15:38:41! Everyone antes $600
+! 03/13/19 15:38:41! Reggie Miller blinds $2000
+! 03/13/19 15:38:41! Kentr blinds $4000
+! 03/13/19 20:26:47! Kentr is back from vacation
+! 03/13/19 22:24:28! lektoraj folds
+! 03/14/19 02:35:50! Peter Gozinya folds
+! 03/14/19 02:35:50! Statistical Tie raises $5300 to $9300 total 
+_____________________________________________________________________________
+
+! First 5s then 4s, sorry Freddie
+! -- Felix Leiter --
+_____________________________________________________________________________
+
+! 03/14/19 02:35:50! Felix Leiter folds
+! 03/14/19 07:43:51! Thomas Sims folds
+! 03/14/19 07:43:51! Isaac Newton folds
+! 03/14/19 09:55:24! Reggie Miller folds
+! 03/14/19 11:27:03! Kentr calls 
+
+! 03/14/19 11:27:03! Pot right ($25400), flopping/dealing/drawing cards
+! 03/14/19 11:27:03! 2 players
+! 03/14/19 11:27:03! Flopped cards: 2c 4h Jh
+! 03/14/19 11:29:42! Kentr bets $10000 
+! 03/14/19 12:20:58! Statistical Tie calls 
+
+! 03/14/19 12:20:58! Pot right ($45400), flopping/dealing/drawing cards
+! 03/14/19 12:20:58! 2 players
+! 03/14/19 12:20:58! Flopped card: 3c
+! 03/14/19 12:23:29! Kentr checks
+! 03/14/19 12:25:20! Statistical Tie checks
+
+! 03/14/19 12:25:20! Pot right ($45400), flopping/dealing/drawing cards
+! 03/14/19 12:25:20! 2 players
+! 03/14/19 12:25:20! Flopped card: 9h
+! 03/14/19 13:37:22! Kentr checks
+! 03/14/19 13:38:33! Statistical Tie checks
+! Hand over, current board is:  2c 4h Jh 3c 9h
+! Kentr                    has: 10s Qc
+! Statistical Tie          has: Kd Qd
+! Statistical Tie wins $45400 (net $25500) with No Pair (K Q J 9 4)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Felix Leiter             |  318500 |         |      |    |         |
+ 2|   Thomas Sims              |  195200 |         |      |    |         |
+ 3|   Isaac Newton             |  284250 |         |      |    |         |
+ 4|D  Reggie Miller            |   90600 |         |      |    |         |
+ 5|>  Kentr                    |  204200 |         |      |    |         |
+ 6|   lektoraj                 |  105425 |         |      |    |         |
+ 7|   Peter Gozinya            |  151050 |         |      |    |         |
+ 9|   Statistical Tie          |   93225 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 109 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d7.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

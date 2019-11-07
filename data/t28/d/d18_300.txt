@@ -1,0 +1,114 @@
+Subject: [d18.10487] Holdem Game Broadcast Message(*)
+
+! Table d18, Hand 300, Day 109
+
+! JZK calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Pooper                   |  120300 |     400 |folded|    |         |
+ 2|   delbaeth                 |   56600 |     400 |folded|    |         |
+ 3|   Joe Nadeau               |  288025 |     400 |folded|    |         |
+ 4|D  JZK                      |  127050 |  100400 |      |    |         |
+ 5|>  JohnnyMac                |  241200 |  100400 |      |    |         |
+ 6|   Ryan Thomas              |  127250 |    3600 |folded|    |         |
+ 7|   EWalk                    |  186450 |     400 |folded|    |         |
+ 8|   Josh Moore               |  130500 |   35400 |folded|    |         |
+ 9|   Deets                    |   47400 |     400 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/27/19 13:27:50! Dealing a new hand
+! 02/27/19 13:27:50! Everyone antes $400
+! 02/27/19 13:27:50! JohnnyMac blinds $1600
+! 02/27/19 13:27:50! Ryan Thomas blinds $3200
+! 02/27/19 14:21:34! Joe Nadeau is back from vacation
+! 02/27/19 14:37:56! EWalk folds
+! 02/27/19 14:49:45! Josh Moore raises $6800 to $10000 total 
+! 02/27/19 14:49:45! Deets folds
+! 02/27/19 14:49:45! Pooper folds
+! 02/27/19 14:49:45! delbaeth folds
+! 02/27/19 14:49:45! Joe Nadeau folds
+! 02/27/19 14:50:54! JZK calls 
+! 02/27/19 15:11:58! JohnnyMac calls 
+! 02/27/19 15:11:58! Ryan Thomas folds
+
+! 02/27/19 15:11:58! Pot right ($36800), flopping/dealing/drawing cards
+! 02/27/19 15:11:58! 3 players
+! 02/27/19 15:11:58! Flopped cards: 7h 7s Js
+! 02/27/19 17:13:42! JohnnyMac checks
+! 02/27/19 18:08:20! Josh Moore bets $25000 
+! 02/27/19 19:13:38! JZK calls 
+! 02/27/19 19:14:19! JohnnyMac calls 
+
+! 02/27/19 19:14:19! Pot right ($111800), flopping/dealing/drawing cards
+! 02/27/19 19:14:19! 3 players
+! 02/27/19 19:14:19! Flopped card: Kc
+! 02/27/19 19:14:50! JohnnyMac checks
+! 02/27/19 19:46:01! Josh Moore checks
+! 02/28/19 01:59:46! JZK checks
+
+! 02/28/19 01:59:46! Pot right ($111800), flopping/dealing/drawing cards
+! 02/28/19 01:59:46! 3 players
+! 02/28/19 01:59:46! Flopped card: 4c
+! 02/28/19 02:58:40! JohnnyMac bets $65000 
+! 02/28/19 08:21:31! Josh Moore folds
+! 02/28/19 10:13:54! JZK calls 
+! Hand over, current board is:  7h 7s Js Kc 4c
+! JZK                      has: Ks 9s
+! JohnnyMac                has: Kh Qc
+! JohnnyMac wins $241800 (net $141400) with Two Pair (K K 7 7 Q)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Pooper                   |  120300 |         |      |    |         |
+ 2|   delbaeth                 |   56600 |         |      |    |         |
+ 3|   Joe Nadeau               |  288025 |         |      |    |         |
+ 4|   JZK                      |  127050 |         |      |    |         |
+ 5|D> JohnnyMac                |  483000 |         |      |    |         |
+ 6|   Ryan Thomas              |  127250 |         |      |    |         |
+ 7|   EWalk                    |  186450 |         |      |    |         |
+ 8|   Josh Moore               |  130500 |         |      |    |         |
+ 9|   Deets                    |   47400 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 173 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d18.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 7
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

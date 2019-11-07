@@ -1,0 +1,110 @@
+Subject: [d3.10204] Holdem Game Broadcast Message(*)
+
+! Table d3, Hand 270, Day 103
+
+! CAB calls 
+! Pot right ($162000), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 4s
+! Flopped card: 8c
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Brian Crowley            |  527425 |     400 |folded|    |         |
+ 2|   drjeys                   |  279350 |     400 |folded|    |         |
+ 3|D  Ben Buchwald             |  195925 |     400 |folded|    |         |
+ 4|   Scot Wolfington          |       0 |   78200 |all-in|    |         |
+ 5|V  Diputsur                 |   25025 |    3600 |<AWOL>|    |         |
+ 6|>  CAB                      |  115575 |   78200 |      |    |         |
+ 7|   Camo                     |  125225 |     400 |folded|    |         |
+ 8|   What Beats What Again    |   49100 |     400 |folded|    |         |
+ 9|   Mike Litoris             |  192325 |       0 |New   |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/21/19 18:27:10! Dealing a new hand
+! 02/21/19 18:27:10! Everyone antes $400
+! 02/21/19 18:27:10! Scot Wolfington blinds $1600
+! 02/21/19 18:27:10! Diputsur blinds $3200
+! 02/21/19 18:37:13! CAB calls 
+! 02/21/19 18:56:56! Camo folds
+! 02/22/19 03:55:04! New player added to the table: Mike Litoris
+! 02/22/19 04:16:50! What Beats What Again folds
+! 02/22/19 04:16:50! Brian Crowley folds
+! 02/22/19 04:28:22! drjeys folds
+! 02/22/19 04:30:15! Ben Buchwald folds
+! 02/22/19 04:43:51! Scot Wolfington calls 
+! 02/22/19 04:43:51! Diputsur is on vacation and checks
+
+! 02/22/19 04:43:51! Pot right ($12800), flopping/dealing/drawing cards
+! 02/22/19 04:43:51! 3 players
+! 02/22/19 04:43:51! Flopped cards: 8d 5c Jd
+! 02/22/19 05:03:19! Scot Wolfington checks
+! 02/22/19 05:03:19! Diputsur is on vacation and checks
+! 02/22/19 06:08:30! CAB bets $7000 
+! 02/22/19 06:15:19! Scot Wolfington raises $67600 to $74600 total and is all in
+! 02/22/19 06:15:19! Diputsur is on vacation and folds
+! 02/22/19 07:14:07! CAB calls 
+
+! 02/22/19 07:14:07! Pot right ($162000), flopping/dealing/drawing cards
+! 02/22/19 07:14:07! 2 players, 1 all in
+! 02/22/19 07:14:07! Flopped card: 4s
+! 02/22/19 07:14:07! Flopped card: 8c
+! Hand over, current board is:  8d 5c Jd 4s 8c
+! Scot Wolfington          has: Jh 9c
+! CAB                      has: Js Kh
+! CAB wins $162000 (net $83800) with Two Pair (J J 8 8 K)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Brian Crowley            |  527425 |         |      |    |         |
+ 2|   drjeys                   |  279350 |         |      |    |         |
+ 3|D  Ben Buchwald             |  195925 |         |      |    |         |
+ 5|V  Diputsur                 |   25025 |         |<AWOL>|    |         |
+ 6|>  CAB                      |  277575 |         |      |    |         |
+ 7|   Camo                     |  125225 |         |      |    |         |
+ 8|   What Beats What Again    |   49100 |         |      |    |         |
+ 9|   Mike Litoris             |  192325 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Scot Wolfington is eliminated!
+! 194 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d3.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 3
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

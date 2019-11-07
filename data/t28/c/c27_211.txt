@@ -1,0 +1,112 @@
+Subject: [c27.10665] Holdem Game Broadcast Message(*)
+
+! Table c27, Hand 211, Day 93
+
+! DocOber folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   888                      |  150100 |     300 |folded|    |         |
+ 3|   Dennis Roberts           |       0 |  133275 |all-in|    |         |
+ 4|   Nitcast                  |  175725 |     300 |folded|    |         |
+ 5|D  bozo                     |  233625 |     300 |folded|    |         |
+ 6|   StewieG                  |   81400 |    1300 |folded|    |         |
+ 7|   micwso                   |   57700 |    2300 |folded|    |         |
+ 8|   Virginia Slims           |   37650 |     300 |folded|    |         |
+ 9|>  DocOber                  |  178375 |   27600 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/11/19 13:06:53! Dealing a new hand
+! 02/11/19 13:06:53! Everyone antes $300
+! 02/11/19 13:06:53! StewieG blinds $1000
+! 02/11/19 13:06:53! micwso blinds $2000
+! 02/11/19 13:25:44! Virginia Slims folds
+! 02/11/19 20:48:17! DocOber raises $3000 to $5000 total 
+! 02/11/19 20:48:17! 888 folds
+! 02/12/19 07:03:37! Dennis Roberts calls 
+! 02/12/19 07:03:37! Nitcast folds
+! 02/12/19 07:03:37! bozo folds
+! 02/12/19 07:10:24! StewieG folds
+! 02/12/19 08:36:31! micwso folds
+
+! 02/12/19 08:36:31! Pot right ($15400), flopping/dealing/drawing cards
+! 02/12/19 08:36:31! 2 players
+! 02/12/19 08:36:31! Flopped cards: 4c 7s 10s
+! 02/12/19 08:49:36! DocOber checks
+! 02/12/19 08:51:37! Dennis Roberts bets $7300 
+! 02/12/19 08:53:17! DocOber calls 
+
+! 02/12/19 08:53:17! Pot right ($30000), flopping/dealing/drawing cards
+! 02/12/19 08:53:17! 2 players
+! 02/12/19 08:53:17! Flopped card: 10h
+! 02/12/19 08:53:38! DocOber checks
+! 02/12/19 08:55:40! Dennis Roberts bets $15000 
+! 02/12/19 09:12:59! DocOber calls 
+
+! 02/12/19 09:12:59! Pot right ($60000), flopping/dealing/drawing cards
+! 02/12/19 09:12:59! 2 players
+! 02/12/19 09:12:59! Flopped card: Ac
+! 02/12/19 09:30:54! DocOber checks
+! 02/12/19 09:31:25! Dennis Roberts bets $105675 and is all in
+! 02/12/19 09:32:27! DocOber folds
+! Hand over, no showdown
+! Current board is:  4c 7s 10s 10h Ac
+! Dennis Roberts wins $165675 (net $32400)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   888                      |  150100 |         |      |    |         |
+ 3|   Dennis Roberts           |  165675 |         |      |    |         |
+ 4|   Nitcast                  |  175725 |         |      |    |         |
+ 5|   bozo                     |  233625 |         |      |    |         |
+ 6|D  StewieG                  |   81400 |         |      |    |         |
+ 7|   micwso                   |   57700 |         |      |    |         |
+ 8|   Virginia Slims           |   37650 |         |      |    |         |
+ 9|>  DocOber                  |  178375 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 230 players left in the tournament, 2 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c27.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+We are 31 days into the c round.  
+There will be no more live redraws this round.  
+When any table gets down to five or fewer players the round will 
+end as all current hands finish.  Following the last hand a full
+redraw will be done to start the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 31
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

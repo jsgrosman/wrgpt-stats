@@ -1,0 +1,103 @@
+Subject: [d21.10121] Holdem Game Broadcast Message(*)
+
+! Table d21, Hand 260, Day 101
+
+! Fish Doctor folds
+! Pot right ($101100), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped cards: 3d 2d 10d
+! Flopped card: 5d
+! Flopped card: Qh
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   David Kuznick            |       0 |   53050 |all-in|  1 |   11000 |
+ 2|>  Fish Doctor              |  151025 |    3600 |folded|    |         |
+ 3|   Mike Sager               |   99250 |     400 |folded|    |         |
+ 4|   Deryl Garland            |       0 |   42050 |all-in|  2 |   90100 |
+ 5|   Mybanjo                  |   35200 |     400 |folded|    |         |
+ 6|   bozo                     |  250325 |     400 |folded|    |         |
+ 7|   Stubey                   |  212500 |     400 |folded|    |         |
+ 8|   Chevy                    |  236725 |     400 |folded|    |         |
+ 9|D  Byfthalone               |  137850 |     400 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/20/19 08:07:20! Dealing a new hand
+! 02/20/19 08:07:20! Everyone antes $400
+! 02/20/19 08:07:20! David Kuznick blinds $1600
+! 02/20/19 08:07:20! Fish Doctor blinds $3200
+! 02/20/19 08:08:04! Mike Sager folds
+! 02/20/19 08:08:53! Deryl Garland raises $38450 to $41650 total and is all in
+! 02/20/19 10:29:10! Mybanjo folds
+! 02/20/19 10:29:10! bozo folds
+! 02/20/19 10:29:10! Stubey folds
+! 02/20/19 10:29:10! Chevy folds
+! 02/20/19 10:33:57! Byfthalone folds
+! 02/20/19 11:35:55! David Kuznick raises $11000 to $52650 total and is all in
+! 02/20/19 12:57:21! Fish Doctor folds
+
+! 02/20/19 12:57:21! Pot right ($101100), flopping/dealing/drawing cards
+! 02/20/19 12:57:21! 2 players, 2 all in
+! 02/20/19 12:57:21! Flopped cards: 3d 2d 10d
+! 02/20/19 12:57:21! Flopped card: 5d
+! 02/20/19 12:57:21! Flopped card: Qh
+! Hand over, current board is:  3d 2d 10d 5d Qh
+! David Kuznick            has: 10h 10c
+! Deryl Garland            has: 8h 8c
+! Pot 1: uncalled $11000 returned to David Kuznick
+! Pot 2: David Kuznick wins $90100 with Three of a Kind (10 10 10 Q 5)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  David Kuznick            |  101100 |         |      |    |         |
+ 2|>  Fish Doctor              |  151025 |         |      |    |         |
+ 3|   Mike Sager               |   99250 |         |      |    |         |
+ 5|   Mybanjo                  |   35200 |         |      |    |         |
+ 6|   bozo                     |  250325 |         |      |    |         |
+ 7|   Stubey                   |  212500 |         |      |    |         |
+ 8|   Chevy                    |  236725 |         |      |    |         |
+ 9|   Byfthalone               |  137850 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Deryl Garland is eliminated!
+! 205 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d21.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 12
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

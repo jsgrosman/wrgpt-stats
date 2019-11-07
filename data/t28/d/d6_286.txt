@@ -1,0 +1,107 @@
+Subject: [d6.10332] Holdem Game Broadcast Message(*)
+
+! Table d6, Hand 286, Day 113
+
+! FredLS calls - side pot
+! Pot right ($365675), flopping/dealing/drawing cards
+! 3 players, 3 all in
+! Flopped cards: Qc 2d 9c
+! Flopped card: 6c
+! Flopped card: 9d
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Walter Hunt              |  100600 |    4600 |folded|    |         |
+ 2|   bozo                     |       0 |  192725 |all-in|  1 |   39575 |
+ 3|   Matt Matros              |  265700 |       0 |New   |    |         |
+ 4|>  FredLS                   |       0 |  153150 |all-in|  2 |  284700 |
+ 5|   All In a daze work       |       0 |   10800 |all-in|  3 |   41400 |
+ 6|   GKinz54                  |   84750 |     600 |folded|    |         |
+ 7|   Dennis Roberts           |  116175 |     600 |folded|    |         |
+ 8|D  John Cairns              |  319750 |     600 |folded|    |         |
+ 9|   888                      |  447700 |    2600 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/04/19 08:06:04! Dealing a new hand
+! 03/04/19 08:06:04! Everyone antes $600
+! 03/04/19 08:06:04! 888 blinds $2000
+! 03/04/19 08:06:04! Walter Hunt blinds $4000
+! 03/04/19 08:18:12! bozo calls 
+! 03/04/19 08:18:44! FredLS calls 
+! 03/04/19 08:18:44! All In a daze work raises $6200 to $10200 total and is all in
+! 03/04/19 08:19:28! GKinz54 folds
+! 03/04/19 08:22:12! Dennis Roberts folds
+! 03/04/19 08:47:18! John Cairns folds
+! 03/04/19 08:48:21! 888 folds
+! 03/04/19 08:48:21! Walter Hunt folds
+! 03/04/19 09:25:16! New player added to the table: Matt Matros
+! 03/04/19 10:09:35! bozo raises $181925 to $192125 total and is all in
+! 03/04/19 11:05:42! FredLS calls - side pot
+
+! 03/04/19 11:05:42! Pot right ($365675), flopping/dealing/drawing cards
+! 03/04/19 11:05:42! 3 players, 3 all in
+! 03/04/19 11:05:42! Flopped cards: Qc 2d 9c
+! 03/04/19 11:05:42! Flopped card: 6c
+! 03/04/19 11:05:42! Flopped card: 9d
+! Hand over, current board is:  Qc 2d 9c 6c 9d
+! bozo                     has: 6s 6h
+! FredLS                   has: Ah Kd
+! All In a daze work       has: Ks Jh
+! Pot 1: uncalled $39575 returned to bozo
+! Pot 2: bozo wins $284700 with Full House (6 6 6 9 9)
+! Pot 3: bozo wins $41400 with Full House (6 6 6 9 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Walter Hunt              |  100600 |         |      |    |         |
+ 2|   bozo                     |  365675 |         |      |    |         |
+ 3|   Matt Matros              |  265700 |         |      |    |         |
+ 6|   GKinz54                  |   84750 |         |      |    |         |
+ 7|   Dennis Roberts           |  116175 |         |      |    |         |
+ 8|   John Cairns              |  319750 |         |      |    |         |
+ 9|D  888                      |  447700 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! FredLS is eliminated!
+! All In a daze work is eliminated!
+! 149 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d6.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 2
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

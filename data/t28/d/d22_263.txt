@@ -1,0 +1,117 @@
+Subject: [d22.10116] Holdem Game Broadcast Message(*)
+
+! Table d22, Hand 263, Day 103
+
+! HeyBuster bets $20000 
+! put_it_good folds
+! BrownTrout folds
+! Rich Guidoboni folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Larry W                  |  140425 |     400 |folded|    |         |
+ 2|   Ace Squared              |  237975 |     400 |folded|    |         |
+ 3|D  Rich Guidoboni           |  150450 |    3600 |folded|    |         |
+ 4|>  HeyBuster                |  124875 |   23600 |      |    |         |
+ 5|   put_it_good              |   94825 |    3600 |folded|    |         |
+ 6|   Pooper                   |  108700 |     400 |folded|    |         |
+ 7|   Josh Goldshlag           |  183175 |     400 |folded|    |         |
+ 8|   dchizzle41               |  151275 |     400 |folded|    |         |
+ 9|   BrownTrout               |  122450 |    3600 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/22/19 09:34:14! Dealing a new hand
+! 02/22/19 09:34:14! Everyone antes $400
+! 02/22/19 09:34:14! HeyBuster blinds $1600
+! 02/22/19 09:34:14! put_it_good blinds $3200
+! 02/22/19 09:43:00! Pooper folds
+! 02/22/19 09:49:50! Josh Goldshlag folds
+! 02/22/19 09:50:57! dchizzle41 folds
+! 02/22/19 10:08:26! BrownTrout calls 
+! 02/22/19 10:08:26! Larry W folds
+! 02/22/19 10:08:26! Ace Squared folds
+! 02/22/19 10:45:41! Rich Guidoboni calls 
+! 02/22/19 10:45:41! HeyBuster calls 
+! 02/22/19 13:06:55! put_it_good checks
+
+! 02/22/19 13:06:55! Pot right ($16400), flopping/dealing/drawing cards
+! 02/22/19 13:06:55! 4 players
+! 02/22/19 13:06:55! Flopped cards: 10d 4c Kh
+! 02/22/19 14:24:13! HeyBuster checks
+! 02/22/19 14:24:13! put_it_good checks
+! 02/22/19 14:50:16! BrownTrout checks
+! 02/22/19 14:50:16! Rich Guidoboni checks
+
+! 02/22/19 14:50:16! Pot right ($16400), flopping/dealing/drawing cards
+! 02/22/19 14:50:16! 4 players
+! 02/22/19 14:50:16! Flopped card: 10c
+! 02/22/19 16:14:03! HeyBuster checks
+! 02/22/19 16:14:03! put_it_good checks
+! 02/22/19 16:14:03! BrownTrout checks
+! 02/22/19 16:14:03! Rich Guidoboni checks
+
+! 02/22/19 16:14:03! Pot right ($16400), flopping/dealing/drawing cards
+! 02/22/19 16:14:03! 4 players
+! 02/22/19 16:14:03! Flopped card: Jc
+! 02/22/19 16:19:42! HeyBuster bets $20000 
+! 02/22/19 16:19:42! put_it_good folds
+! 02/22/19 16:19:42! BrownTrout folds
+! 02/22/19 16:19:42! Rich Guidoboni folds
+! Hand over, no showdown
+! Current board is:  10d 4c Kh 10c Jc
+! HeyBuster wins $36400 (net $12800)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Larry W                  |  140425 |         |      |    |         |
+ 2|   Ace Squared              |  237975 |         |      |    |         |
+ 3|   Rich Guidoboni           |  150450 |         |      |    |         |
+ 4|D> HeyBuster                |  161275 |         |      |    |         |
+ 5|   put_it_good              |   94825 |         |      |    |         |
+ 6|   Pooper                   |  108700 |         |      |    |         |
+ 7|   Josh Goldshlag           |  183175 |         |      |    |         |
+ 8|   dchizzle41               |  151275 |         |      |    |         |
+ 9|   BrownTrout               |  122450 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 191 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d22.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 7
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,107 @@
+Subject: [d5.10564] Holdem Game Broadcast Message(*)
+
+! Table d5, Hand 302, Day 126
+
+! GwynnInTheHall folds
+! Pot right ($314750), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped cards: 7s 6c Ad
+! Flopped card: Ah
+! Flopped card: 2h
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   AveCat                   |  621200 |     600 |folded|    |         |
+ 2|   Bob Brewster             |   66575 |    4600 |folded|    |         |
+ 3|   the cake is a pie        |  209650 |     600 |folded|    |         |
+ 4|   fich                     |       0 |  175350 |all-in|  1 |   61550 |
+ 5|   Deets                    |   56200 |     600 |folded|    |         |
+ 7|D> GwynnInTheHall           |  310900 |   16600 |folded|    |         |
+ 8|   DazedAndConfused         |  308125 |    2600 |folded|    |         |
+ 9|   David Weiss              |       0 |  113800 |all-in|  2 |  253200 |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/16/19 18:42:59! Dealing a new hand
+! 03/16/19 18:42:59! Everyone antes $600
+! 03/16/19 18:42:59! DazedAndConfused blinds $2000
+! 03/16/19 18:42:59! David Weiss blinds $4000
+! 03/16/19 19:00:26! AveCat folds
+! 03/16/19 21:41:21! Bob Brewster calls 
+! 03/16/19 21:41:21! the cake is a pie folds
+! 03/16/19 21:50:28! fich raises $12000 to $16000 total 
+! 03/16/19 21:50:28! Deets folds
+! 03/16/19 21:56:21! GwynnInTheHall calls 
+! 03/17/19 02:17:06! DazedAndConfused folds
+! 03/17/19 03:21:56! David Weiss raises $97200 to $113200 total and is all in
+! 03/17/19 10:23:30! Bob Brewster folds
+! 03/17/19 10:32:38! fich raises $61550 to $174750 total and is all in
+! 03/17/19 11:07:54! GwynnInTheHall folds
+
+! 03/17/19 11:07:54! Pot right ($314750), flopping/dealing/drawing cards
+! 03/17/19 11:07:54! 2 players, 2 all in
+! 03/17/19 11:07:54! Flopped cards: 7s 6c Ad
+! 03/17/19 11:07:54! Flopped card: Ah
+! 03/17/19 11:07:54! Flopped card: 2h
+! Hand over, current board is:  7s 6c Ad Ah 2h
+! fich                     has: Ks Kc
+! David Weiss              has: 7h 7d
+! Pot 1: uncalled $61550 returned to fich
+! Pot 2: David Weiss wins $253200 with Full House (7 7 7 A A)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   AveCat                   |  621200 |         |      |    |         |
+ 2|   Bob Brewster             |   66575 |         |      |    |         |
+ 3|   the cake is a pie        |  209650 |         |      |    |         |
+ 4|   fich                     |   61550 |         |      |    |         |
+ 5|   Deets                    |   56200 |         |      |    |         |
+ 7|>  GwynnInTheHall           |  310900 |         |      |    |         |
+ 8|D  DazedAndConfused         |  308125 |         |      |    |         |
+ 9|   David Weiss              |  253200 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 102 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d5.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+We have played more than 30 days of round d.  Now
+we will play until one table gets to five or fewer
+players at which time we will do a full redraw
+to start the e round.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

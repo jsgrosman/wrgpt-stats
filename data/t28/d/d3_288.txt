@@ -1,0 +1,103 @@
+Subject: [d3.10373] Holdem Game Broadcast Message(*)
+
+! Table d3, Hand 288, Day 112
+
+! drjeys folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Brian Crowley            |  404675 |     400 |folded|    |         |
+ 2|   drjeys                   |  252850 |   13600 |folded|    |         |
+ 3|   Ben Buchwald             |  196725 |     400 |folded|    |         |
+ 4|DV Byfthalone               |  257050 |     400 |<AWOL>|    |         |
+ 5|V  Diputsur                 |    6625 |    2000 |<AWOL>|    |         |
+ 6|>  CAB                      |  210975 |   28600 |      |    |         |
+ 7|   Camo                     |   94025 |     400 |folded|    |         |
+ 8|   What Beats What Again    |  115800 |     400 |folded|    |         |
+ 9|   Mike Litoris             |  291775 |     400 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/02/19 14:27:59! Dealing a new hand
+! 03/02/19 14:27:59! Everyone antes $400
+! 03/02/19 14:27:59! Diputsur blinds $1600
+! 03/02/19 14:27:59! CAB blinds $3200
+! 03/02/19 14:29:53! Camo folds
+! 03/02/19 17:29:06! What Beats What Again folds
+! 03/02/19 17:29:06! Mike Litoris folds
+! 03/02/19 17:29:06! Brian Crowley folds
+! 03/02/19 21:59:50! drjeys calls 
+! 03/03/19 05:49:28! Ben Buchwald folds
+! 03/03/19 05:49:28! Byfthalone is on vacation and folds
+! 03/03/19 05:49:28! Diputsur is on vacation and folds
+! 03/03/19 05:52:00! CAB checks
+
+! 03/03/19 05:52:00! Pot right ($11600), flopping/dealing/drawing cards
+! 03/03/19 05:52:00! 2 players
+! 03/03/19 05:52:00! Flopped cards: 10s 2h 4d
+! 03/03/19 06:00:00! CAB checks
+! 03/03/19 06:00:52! drjeys bets $10000 
+! 03/03/19 07:58:55! CAB calls 
+
+! 03/03/19 07:58:55! Pot right ($31600), flopping/dealing/drawing cards
+! 03/03/19 07:58:55! 2 players
+! 03/03/19 07:58:55! Flopped card: 9c
+! 03/03/19 08:09:32! CAB bets $15000 
+! 03/03/19 08:22:45! drjeys folds
+! Hand over, no showdown
+! Current board is:  10s 2h 4d 9c ?
+! CAB wins $46600 (net $18000)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Brian Crowley            |  404675 |         |      |    |         |
+ 2|   drjeys                   |  252850 |         |      |    |         |
+ 3|   Ben Buchwald             |  196725 |         |      |    |         |
+ 4|V  Byfthalone               |  257050 |         |<AWOL>|    |         |
+ 5|DV Diputsur                 |    6625 |         |<AWOL>|    |         |
+ 6|>  CAB                      |  257575 |         |      |    |         |
+ 7|   Camo                     |   94025 |         |      |    |         |
+ 8|   What Beats What Again    |  115800 |         |      |    |         |
+ 9|   Mike Litoris             |  291775 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 156 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d3.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

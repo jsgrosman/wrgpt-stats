@@ -1,0 +1,110 @@
+Subject: [d3.10282] Holdem Game Broadcast Message(*)
+
+! Table d3, Hand 277, Day 106
+
+! Brian Crowley checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  Brian Crowley            |  428525 |   44400 |      |    |         |
+ 2|>  drjeys                   |  220350 |   44400 |      |    |         |
+ 3|   Ben Buchwald             |  190925 |    3600 |folded|    |         |
+ 5|V  Diputsur                 |   20625 |     400 |<AWOL>|    |         |
+ 6|   CAB                      |  294425 |     400 |folded|    |         |
+ 7|   Camo                     |   95225 |     400 |folded|    |         |
+ 8|   What Beats What Again    |   42500 |    7400 |folded|    |         |
+ 9|   Mike Litoris             |  277975 |     400 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/24/19 18:56:58! Dealing a new hand
+! 02/24/19 18:56:58! Everyone antes $400
+! 02/24/19 18:56:58! drjeys blinds $1600
+! 02/24/19 18:56:58! Ben Buchwald blinds $3200
+! 02/24/19 18:56:58! Diputsur is on vacation and folds
+! 02/25/19 03:33:33! CAB folds
+! 02/25/19 03:33:33! Camo folds
+! 02/25/19 03:46:18! What Beats What Again raises $3800 to $7000 total 
+! 02/25/19 03:46:18! Mike Litoris folds
+! 02/25/19 03:58:51! Brian Crowley calls 
+! 02/25/19 05:42:47! drjeys calls 
+! 02/25/19 05:42:47! Ben Buchwald folds
+
+! 02/25/19 05:42:47! Pot right ($27400), flopping/dealing/drawing cards
+! 02/25/19 05:42:47! 3 players
+! 02/25/19 05:42:47! Flopped cards: 7d 6s 3d
+! 02/25/19 05:44:18! drjeys checks
+! 02/25/19 09:46:02! What Beats What Again checks
+! 02/25/19 10:05:26! Brian Crowley bets $12000 
+! 02/25/19 10:33:18! drjeys calls 
+! 02/25/19 10:33:18! What Beats What Again folds
+
+! 02/25/19 10:33:18! Pot right ($51400), flopping/dealing/drawing cards
+! 02/25/19 10:33:18! 2 players
+! 02/25/19 10:33:18! Flopped card: Jh
+! 02/25/19 10:34:10! drjeys checks
+! 02/25/19 11:00:23! Brian Crowley bets $25000 
+! 02/25/19 11:33:31! drjeys calls 
+
+! 02/25/19 11:33:31! Pot right ($101400), flopping/dealing/drawing cards
+! 02/25/19 11:33:31! 2 players
+! 02/25/19 11:33:31! Flopped card: Qd
+! 02/25/19 11:34:05! drjeys checks
+! 02/25/19 12:00:26! Brian Crowley checks
+! Hand over, current board is:  7d 6s 3d Jh Qd
+! Brian Crowley            has: Kc Jc
+! drjeys                   has: Ah Jd
+! drjeys wins $101400 (net $57000) with One Pair (J J A Q 7)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Brian Crowley            |  428525 |         |      |    |         |
+ 2|D> drjeys                   |  321750 |         |      |    |         |
+ 3|   Ben Buchwald             |  190925 |         |      |    |         |
+ 5|V  Diputsur                 |   20625 |         |<AWOL>|    |         |
+ 6|   CAB                      |  294425 |         |      |    |         |
+ 7|   Camo                     |   95225 |         |      |    |         |
+ 8|   What Beats What Again    |   42500 |         |      |    |         |
+ 9|   Mike Litoris             |  277975 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 181 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d3.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

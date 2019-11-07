@@ -1,0 +1,112 @@
+Subject: [d11.10050] Holdem Game Broadcast Message(*)
+
+! Table d11, Hand 255, Day 97
+
+! Chris Danek checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Chris Danek              |   95100 |   25300 |      |    |         |
+ 2|   Mark Ballinger           |   85250 |     300 |folded|    |         |
+ 3|   Sam Parazette            |   74850 |     300 |folded|    |         |
+ 4|D  Russ Bryan               |  131550 |     300 |folded|    |         |
+ 5|>  Morgan                   |  115050 |   25300 |      |    |         |
+ 6|   Krushinski               |   54200 |    2300 |folded|    |         |
+ 7|   Mother Speaks            |  100250 |     300 |folded|    |         |
+ 8|   BaconPancakes            |   64250 |     300 |folded|    |         |
+ 9|   SteedCarson              |  268600 |   13300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/15/19 16:54:43! Dealing a new hand
+! 02/15/19 16:54:43! Everyone antes $300
+! 02/15/19 16:54:43! Morgan blinds $1000
+! 02/15/19 16:54:43! Krushinski blinds $2000
+! 02/15/19 17:15:32! Mother Speaks folds
+! 02/15/19 17:15:32! BaconPancakes folds
+! 02/15/19 17:23:52! SteedCarson raises $2800 to $4800 total 
+! 02/15/19 18:21:52! Chris Danek calls 
+! 02/15/19 18:21:52! Mark Ballinger folds
+! 02/15/19 19:06:59! Sam Parazette folds
+! 02/15/19 19:06:59! Russ Bryan folds
+! 02/15/19 19:18:43! Morgan raises $8200 to $13000 total 
+! 02/15/19 19:24:49! Krushinski folds
+! 02/15/19 19:32:11! SteedCarson calls 
+! 02/16/19 00:14:51! Chris Danek calls 
+
+! 02/16/19 00:14:51! Pot right ($43700), flopping/dealing/drawing cards
+! 02/16/19 00:14:51! 3 players
+! 02/16/19 00:14:51! Flopped cards: Kh 10h 2c
+! 02/16/19 04:05:51! Morgan bets $12000 
+! 02/16/19 06:10:53! SteedCarson folds
+! 02/16/19 08:48:59! Chris Danek calls 
+
+! 02/16/19 08:48:59! Pot right ($67700), flopping/dealing/drawing cards
+! 02/16/19 08:48:59! 2 players
+! 02/16/19 08:48:59! Flopped card: Ac
+! 02/16/19 08:50:36! Morgan checks
+! 02/16/19 08:54:20! Chris Danek checks
+
+! 02/16/19 08:54:20! Pot right ($67700), flopping/dealing/drawing cards
+! 02/16/19 08:54:20! 2 players
+! 02/16/19 08:54:20! Flopped card: Ah
+! 02/16/19 09:47:55! Morgan checks
+! 02/16/19 10:00:11! Chris Danek checks
+! Hand over, current board is:  Kh 10h 2c Ac Ah
+! Chris Danek              has: Jh Kd
+! Morgan                   has: Qs Qh
+! Chris Danek wins $67700 (net $42400) with Two Pair (A A K K J)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Chris Danek              |  162800 |         |      |    |         |
+ 2|   Mark Ballinger           |   85250 |         |      |    |         |
+ 3|   Sam Parazette            |   74850 |         |      |    |         |
+ 4|   Russ Bryan               |  131550 |         |      |    |         |
+ 5|D> Morgan                   |  115050 |         |      |    |         |
+ 6|   Krushinski               |   54200 |         |      |    |         |
+ 7|   Mother Speaks            |  100250 |         |      |    |         |
+ 8|   BaconPancakes            |   64250 |         |      |    |         |
+ 9|   SteedCarson              |  268600 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 218 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d11.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 5
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

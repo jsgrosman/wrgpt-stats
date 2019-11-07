@@ -1,0 +1,105 @@
+Subject: [d7.10576] Holdem Game Broadcast Message(*)
+
+! Table d7, Hand 309, Day 131
+
+! Reggie Miller calls 
+! Pot right ($296850), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped cards: 3h Kd 8c
+! Flopped card: 8s
+! Flopped card: 8d
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Felix Leiter             |  387400 |    1000 |folded|    |         |
+ 2|   Thomas Sims              |  236625 |   14000 |folded|    |         |
+ 3|   Isaac Newton             |  136650 |    1000 |folded|    |         |
+ 4|D> Reggie Miller            |   78875 |  137425 |      |    |         |
+ 5|   Kentr                    |  217600 |    4000 |folded|    |         |
+ 6|   lektoraj                 |       0 |  137425 |all-in|    |         |
+ 7|   Peter Gozinya            |  132650 |    1000 |folded|    |         |
+ 8|   Oaktowndad               |  224750 |    1000 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/21/19 19:05:15! Dealing a new hand
+! 03/21/19 19:05:15! Everyone antes $1000
+! 03/21/19 19:05:15! Kentr blinds $3000
+! 03/21/19 19:05:15! lektoraj blinds $6000
+! 03/21/19 19:13:24! Peter Gozinya folds
+! 03/21/19 19:26:39! Oaktowndad folds
+! 03/21/19 19:55:34! Felix Leiter folds
+! 03/21/19 21:13:06! Thomas Sims raises $7000 to $13000 total 
+! 03/21/19 21:20:04! Isaac Newton folds
+! 03/22/19 05:17:15! Reggie Miller calls 
+! 03/22/19 05:32:47! Kentr folds
+! 03/22/19 05:32:47! lektoraj raises $123425 to $136425 total and is all in
+! 03/22/19 07:37:42! Thomas Sims folds
+! 03/22/19 07:40:27! Reggie Miller calls 
+
+! 03/22/19 07:40:27! Pot right ($296850), flopping/dealing/drawing cards
+! 03/22/19 07:40:27! 2 players, 1 all in
+! 03/22/19 07:40:27! Flopped cards: 3h Kd 8c
+! 03/22/19 07:40:27! Flopped card: 8s
+! 03/22/19 07:40:27! Flopped card: 8d
+! Hand over, current board is:  3h Kd 8c 8s 8d
+! Reggie Miller            has: As 5s
+! lektoraj                 has: Ad Ac
+! lektoraj wins $296850 (net $159425) with Full House (8 8 8 A A)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Felix Leiter             |  387400 |         |      |    |         |
+ 2|   Thomas Sims              |  236625 |         |      |    |         |
+ 3|   Isaac Newton             |  136650 |         |      |    |         |
+ 4|>  Reggie Miller            |   78875 |         |      |    |         |
+ 5|D  Kentr                    |  217600 |         |      |    |         |
+ 6|   lektoraj                 |  296850 |         |      |    |         |
+ 7|   Peter Gozinya            |  132650 |         |      |    |         |
+ 8|   Oaktowndad               |  224750 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 86 players left in the tournament, 3 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d7.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+We have played more than 30 days of round d.  Now
+we will play until one table gets to five or fewer
+players at which time we will do a full redraw
+to start the e round.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 22
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

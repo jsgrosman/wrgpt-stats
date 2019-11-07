@@ -1,0 +1,130 @@
+Subject: [b47.10029] Holdem Game Broadcast Message(*)
+
+! Table b47, Hand 1, Day 2
+
+! Johnny Ice calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  Tom A                    |   49850 |     150 |folded|    |         |
+ 2|>  Julie Greenberg          |   37675 |   12325 |      |    |         |
+ 3|   StingRay                 |   49525 |     475 |folded|    |         |
+ 4|   paulpud                  |   50000 |       0 |folded|    |         |
+ 5|   CRStals                  |   50000 |       0 |folded|    |         |
+ 6|   Taki                     |   50000 |       0 |folded|    |         |
+ 7|   Boiling Frog             |   50000 |       0 |folded|    |         |
+ 8|   Johnny Ice               |   37675 |   12325 |      |    |         |
+ 9|   Ddppmm                   |   50000 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/04/19 00:25:26! Boiling Frog is back from vacation
+! 11/04/19 03:00:28! CRStals is back from vacation
+! 11/04/19 04:14:59! Julie Greenberg is back from vacation
+! 11/04/19 04:47:15! StingRay is back from vacation
+! 11/04/19 05:26:28! Tom A is back from vacation
+! 11/04/19 05:55:20! Johnny Ice is back from vacation
+! 11/04/19 10:25:26! paulpud is back from vacation
+! 11/04/19 15:49:54! Ddppmm is back from vacation
+! 11/05/19 00:03:57! Dealing a new hand
+! 11/05/19 00:03:57! No ante
+! 11/05/19 00:03:57! Julie Greenberg blinds $75
+! 11/05/19 00:03:57! StingRay blinds $150
+! 11/05/19 00:48:40! Taki is back from vacation
+! 11/05/19 06:47:15! paulpud folds
+! 11/05/19 06:51:46! CRStals folds
+! 11/05/19 06:51:46! Taki folds
+! 11/05/19 08:24:54! Boiling Frog folds
+! 11/05/19 08:28:10! Johnny Ice calls 
+! 11/05/19 12:29:02! Ddppmm folds
+! 11/05/19 15:07:49! Tom A calls 
+! 11/05/19 15:13:38! Julie Greenberg raises $325 to $475 total 
+! 11/05/19 15:21:44! StingRay calls 
+! 11/05/19 15:22:54! Johnny Ice calls 
+! 11/05/19 19:23:02! Tom A folds
+
+! 11/05/19 19:23:02! Pot right ($1575), flopping/dealing/drawing cards
+! 11/05/19 19:23:02! 3 players
+! 11/05/19 19:23:02! Flopped cards: Qd 5d Ac
+! 11/05/19 19:34:07! Julie Greenberg bets $900 
+! 11/05/19 19:35:28! StingRay folds
+! 11/05/19 19:36:54! Johnny Ice raises $1350 to $2250 total 
+! 11/05/19 20:03:01! Julie Greenberg calls 
+
+! 11/05/19 20:03:01! Pot right ($6075), flopping/dealing/drawing cards
+! 11/05/19 20:03:01! 2 players
+! 11/05/19 20:03:01! Flopped card: 3d
+! 11/05/19 20:03:46! Julie Greenberg checks
+! 11/05/19 20:13:03! Johnny Ice bets $3300 
+! 11/05/19 20:26:10! Julie Greenberg calls 
+
+! 11/05/19 20:26:10! Pot right ($12675), flopping/dealing/drawing cards
+! 11/05/19 20:26:10! 2 players
+! 11/05/19 20:26:10! Flopped card: 10d
+! 11/05/19 20:27:48! Julie Greenberg bets $6300 
+! 11/05/19 20:28:44! Johnny Ice calls 
+! Hand over, current board is:  Qd 5d Ac 3d 10d
+! Julie Greenberg          has: Ad 10c
+! Johnny Ice               has: As Ah
+! Julie Greenberg wins $25275 (net $12950) with Diamond Flush (A Q 10 5 3)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Tom A                    |   49850 |         |      |    |         |
+ 2|D> Julie Greenberg          |   62950 |         |      |    |         |
+ 3|   StingRay                 |   49525 |         |      |    |         |
+ 4|   paulpud                  |   50000 |         |      |    |         |
+ 5|   CRStals                  |   50000 |         |      |    |         |
+ 6|   Taki                     |   50000 |         |      |    |         |
+ 7|   Boiling Frog             |   50000 |         |      |    |         |
+ 8|   Johnny Ice               |   37675 |         |      |    |         |
+ 9|   Ddppmm                   |   50000 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Tom A timed out during this hand
+! Ddppmm timed out during this hand
+! 538 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b47.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+This is the REAL WRGPT29.
+Changes to office hours and email addresses do not carry over from the
+practice round.
+You have been assigned a new ID and the round is "b".
+
+Good luck.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 7
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

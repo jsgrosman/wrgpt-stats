@@ -1,0 +1,100 @@
+Subject: [d18.10141] Holdem Game Broadcast Message(*)
+
+! Table d18, Hand 264, Day 99
+
+! SCSI folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  SCSI                     |   87275 |   27200 |folded|    |         |
+ 2|   delbaeth                 |   57800 |     400 |folded|    |         |
+ 3|   StingRay                 |       0 |  207200 |all-in|    |         |
+ 4|D  JZK                      |  171125 |     400 |folded|    |         |
+ 5|   JohnnyMac                |  102725 |    2000 |folded|    |         |
+ 6|   Ryan Thomas              |  124450 |    3600 |folded|    |         |
+ 7|   Dan Driscoll             |   46050 |     400 |folded|    |         |
+ 8|   Josh Moore               |  136250 |   10400 |folded|    |         |
+ 9|   Deets                    |   52900 |     400 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/18/19 07:17:00! Dealing a new hand
+! 02/18/19 07:17:00! Everyone antes $400
+! 02/18/19 07:17:00! JohnnyMac blinds $1600
+! 02/18/19 07:17:00! Ryan Thomas blinds $3200
+! 02/18/19 09:14:02! Dan Driscoll folds
+! 02/18/19 09:33:40! Josh Moore raises $6800 to $10000 total 
+! 02/18/19 09:33:40! Deets folds
+! 02/18/19 09:34:42! SCSI calls 
+! 02/18/19 10:34:21! delbaeth folds
+! 02/18/19 10:38:02! StingRay raises $16800 to $26800 total 
+! 02/18/19 10:44:25! JZK folds
+! 02/18/19 11:15:20! JohnnyMac folds
+! 02/18/19 11:32:56! Ryan Thomas folds
+! 02/18/19 12:31:18! Josh Moore folds
+! 02/18/19 12:32:37! SCSI calls 
+
+! 02/18/19 12:32:37! Pot right ($72000), flopping/dealing/drawing cards
+! 02/18/19 12:32:37! 2 players
+! 02/18/19 12:32:37! Flopped cards: 5d 8h Qh
+! 02/18/19 12:33:27! SCSI checks
+! 02/18/19 12:36:07! StingRay bets $180000 and is all in
+! 02/18/19 12:36:34! SCSI folds
+! Hand over, no showdown
+! Current board is:  5d 8h Qh ? ?
+! StingRay wins $252000 (net $44800)
+! JZK                      reveals  Ah 6h
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  SCSI                     |   87275 |         |      |    |         |
+ 2|   delbaeth                 |   57800 |         |      |    |         |
+ 3|   StingRay                 |  252000 |         |      |    |         |
+ 4|   JZK                      |  171125 |         |      |    |         |
+ 5|D  JohnnyMac                |  102725 |         |      |    |         |
+ 6|   Ryan Thomas              |  124450 |         |      |    |         |
+ 7|   Dan Driscoll             |   46050 |         |      |    |         |
+ 8|   Josh Moore               |  136250 |         |      |    |         |
+ 9|   Deets                    |   52900 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 217 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d18.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 10
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

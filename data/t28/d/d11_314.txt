@@ -1,0 +1,116 @@
+Subject: [d11.10709] Holdem Game Broadcast Message(*)
+
+! Table d11, Hand 314, Day 121
+
+! Mark Ballinger calls - side pot
+! Pot right ($508400), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped card: 5c
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   bert_ofcl                |  223350 |   20600 |folded|    |         |
+ 2|>  Mark Ballinger           |       0 |   95700 |all-in|  2 |  221600 |
+ 3|D  Sam Parazette            |       0 |  382500 |all-in|  1 |  286800 |
+ 4|   Sir Barlow               |   89000 |    2600 |folded|    |         |
+ 5|   tarigojaergihioahdged    |  300875 |    4600 |folded|    |         |
+ 6|   sltLonghorn              |  177950 |     600 |folded|    |         |
+ 7|   Mother Speaks            |  197500 |     600 |folded|    |         |
+ 8|   TracyB                   |  318350 |     600 |folded|    |         |
+ 9|   SteedCarson              |  329775 |     600 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/12/19 09:19:23! Dealing a new hand
+! 03/12/19 09:19:23! Everyone antes $600
+! 03/12/19 09:19:23! Sir Barlow blinds $2000
+! 03/12/19 09:19:23! tarigojaergihioahdged blinds $4000
+! 03/12/19 10:01:59! sltLonghorn folds
+! 03/12/19 10:01:59! Mother Speaks folds
+! 03/12/19 10:01:59! TracyB folds
+! 03/12/19 10:04:36! SteedCarson folds
+! 03/12/19 10:11:16! bert_ofcl raises $6000 to $10000 total 
+! 03/12/19 11:21:31! Mark Ballinger calls 
+! 03/12/19 11:23:55! Sam Parazette raises $10000 to $20000 total 
+! 03/12/19 11:25:32! Sir Barlow folds
+! 03/12/19 11:25:32! tarigojaergihioahdged folds
+! 03/12/19 11:37:57! bert_ofcl calls 
+! 03/12/19 11:44:12! Mark Ballinger calls 
+
+! 03/12/19 11:44:12! Pot right ($71400), flopping/dealing/drawing cards
+! 03/12/19 11:44:12! 3 players
+! 03/12/19 11:44:12! Flopped cards: 5h 7d Jh
+! 03/12/19 11:46:19! bert_ofcl checks
+! 03/12/19 12:08:27! Mark Ballinger bets $20000 
+! 03/12/19 15:13:38! Sam Parazette calls 
+! 03/12/19 15:41:19! bert_ofcl folds
+
+! 03/12/19 15:41:19! Pot right ($111400), flopping/dealing/drawing cards
+! 03/12/19 15:41:19! 2 players
+! 03/12/19 15:41:19! Flopped card: Ks
+! 03/12/19 16:09:58! Mark Ballinger checks
+! 03/12/19 16:28:02! Sam Parazette bets $341900 and is all in
+! 03/12/19 16:30:51! Mark Ballinger calls - side pot
+
+! 03/12/19 16:30:51! Pot right ($508400), flopping/dealing/drawing cards
+! 03/12/19 16:30:51! 2 players, 2 all in
+! 03/12/19 16:30:51! Flopped card: 5c
+! Hand over, current board is:  5h 7d Jh Ks 5c
+! Mark Ballinger           has: Js Ac
+! Sam Parazette            has: Ad Kc
+! Pot 1: uncalled $286800 returned to Sam Parazette
+! Pot 2: Sam Parazette wins $221600 with Two Pair (K K 5 5 A)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   bert_ofcl                |  223350 |         |      |    |         |
+ 3|   Sam Parazette            |  508400 |         |      |    |         |
+ 4|D  Sir Barlow               |   89000 |         |      |    |         |
+ 5|   tarigojaergihioahdged    |  300875 |         |      |    |         |
+ 6|   sltLonghorn              |  177950 |         |      |    |         |
+ 7|   Mother Speaks            |  197500 |         |      |    |         |
+ 8|   TracyB                   |  318350 |         |      |    |         |
+ 9|   SteedCarson              |  329775 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Mark Ballinger is eliminated!
+! tarigojaergihioahdged went on vacation until <Gone>
+! 115 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d11.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 10
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

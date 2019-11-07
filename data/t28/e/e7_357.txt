@@ -1,0 +1,109 @@
+Subject: [e7.10124] Holdem Game Broadcast Message(*)
+
+! Table e7, Hand 357, Day 139
+
+! jasong calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   SunnyGirl                |  597400 |    1000 |folded|    |         |
+ 2|D  DocOber                  |  750650 |    1000 |folded|    |         |
+ 3|   DadSaysDOH               |  252075 |    4000 |folded|    |         |
+ 4|>  Piojos                   |  203225 |  139000 |      |    |         |
+ 5|   BigElmo                  |  143100 |    1000 |folded|    |         |
+ 6|   ddppmm                   |  165650 |    1000 |folded|    |         |
+ 7|   Deets                    |  250500 |    1000 |folded|    |         |
+ 8|   jasong                   |  746750 |  139000 |      |    |         |
+ 9|   Sam Parazette            |  731850 |    1000 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/29/19 14:31:28! Dealing a new hand
+! 03/29/19 14:31:28! Everyone antes $1000
+! 03/29/19 14:31:28! DadSaysDOH blinds $3000
+! 03/29/19 14:31:28! Piojos blinds $6000
+! 03/29/19 14:36:27! BigElmo folds
+! 03/29/19 15:34:50! ddppmm folds
+! 03/29/19 15:34:50! Deets folds
+! 03/29/19 16:10:12! jasong raises $12000 to $18000 total 
+! 03/29/19 16:46:28! Sam Parazette folds
+! 03/29/19 20:17:34! SunnyGirl folds
+! 03/29/19 23:06:32! DocOber folds
+! 03/30/19 04:59:04! DadSaysDOH folds
+! 03/30/19 06:17:40! Piojos calls 
+
+! 03/30/19 06:17:40! Pot right ($48000), flopping/dealing/drawing cards
+! 03/30/19 06:17:40! 2 players
+! 03/30/19 06:17:40! Flopped cards: As 6c Jd
+! 03/30/19 06:18:26! Piojos checks
+! 03/30/19 07:05:37! jasong bets $40000 
+! 03/30/19 07:49:46! Piojos calls 
+
+! 03/30/19 07:49:46! Pot right ($128000), flopping/dealing/drawing cards
+! 03/30/19 07:49:46! 2 players
+! 03/30/19 07:49:46! Flopped card: 7d
+! 03/30/19 07:50:49! Piojos checks
+! 03/30/19 07:54:43! jasong checks
+
+! 03/30/19 07:54:44! Pot right ($128000), flopping/dealing/drawing cards
+! 03/30/19 07:54:44! 2 players
+! 03/30/19 07:54:44! Flopped card: 6d
+! 03/30/19 08:17:28! Piojos bets $80000 
+! 03/30/19 08:47:55! jasong calls 
+! Hand over, current board is:  As 6c Jd 7d 6d
+! Piojos                   has: Ad 10c
+! jasong                   has: 8s 8c
+! Piojos wins $288000 (net $149000) with Two Pair (A A 6 6 J)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   SunnyGirl                |  597400 |         |      |    |         |
+ 2|   DocOber                  |  750650 |         |      |    |         |
+ 3|D  DadSaysDOH               |  252075 |         |      |    |         |
+ 4|>  Piojos                   |  491225 |         |      |    |         |
+ 5|   BigElmo                  |  143100 |         |      |    |         |
+ 6|   ddppmm                   |  165650 |         |      |    |         |
+ 7|   Deets                    |  250500 |         |      |    |         |
+ 8|   jasong                   |  746750 |         |      |    |         |
+ 9|   Sam Parazette            |  731850 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 74 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/e/e7.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,109 @@
+Subject: [d6.10283] Holdem Game Broadcast Message(*)
+
+! Table d6, Hand 280, Day 110
+
+! BigBlind calls - side pot
+! Pot right ($140200), flopping/dealing/drawing cards
+! 3 players, 2 all in
+! Flopped card: Kd
+! Flopped card: 2c
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   BigBlind                 |       0 |   63900 |all-in|  2 |  120900 |
+ 2|D  bozo                     |  186725 |     400 |folded|    |         |
+ 3|   Taki                     |   98000 |    2000 |folded|    |         |
+ 4|   FredLS                   |  138750 |    3600 |folded|    |         |
+ 5|   All In a daze work       |       0 |    3500 |all-in|  4 |   17600 |
+ 6|   GKinz54                  |   92150 |     400 |folded|    |         |
+ 7|   Dennis Roberts           |  115575 |     400 |folded|    |         |
+ 8|>  John Cairns              |  204550 |   65600 |      |  1 |    1700 |
+ 9|   888                      |  351900 |     400 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/01/19 08:11:26! Dealing a new hand
+! 03/01/19 08:11:26! Everyone antes $400
+! 03/01/19 08:11:26! Taki blinds $1600
+! 03/01/19 08:11:26! FredLS blinds $3200
+! 03/01/19 08:47:12! All In a daze work calls - side pot
+! 03/01/19 09:18:11! GKinz54 folds
+! 03/01/19 09:32:04! Dennis Roberts folds
+! 03/01/19 09:48:14! John Cairns raises $14700 to $17900 total 
+! 03/01/19 10:32:26! 888 folds
+! 03/01/19 10:38:53! BigBlind calls 
+! 03/01/19 10:46:06! bozo folds
+! 03/01/19 10:46:11! Taki folds
+! 03/01/19 10:46:11! FredLS folds
+
+! 03/01/19 10:46:11! Pot right ($47300), flopping/dealing/drawing cards
+! 03/01/19 10:46:11! 3 players, 1 all in
+! 03/01/19 10:46:11! Flopped cards: 9s Jc 5h
+! 03/01/19 11:24:04! John Cairns bets $47300 
+! 03/01/19 11:45:03! BigBlind calls - side pot
+
+! 03/01/19 11:45:03! Pot right ($140200), flopping/dealing/drawing cards
+! 03/01/19 11:45:03! 3 players, 2 all in
+! 03/01/19 11:45:03! Flopped card: Kd
+! 03/01/19 11:45:03! Flopped card: 2c
+! Hand over, current board is:  9s Jc 5h Kd 2c
+! BigBlind                 has: Ac 8c
+! All In a daze work       has: Qh 5d
+! John Cairns              has: 4d 4c
+! Pot 1: uncalled $1700 returned to John Cairns
+! Pot 2: John Cairns wins $120900 with One Pair (4 4 K J 9)
+! Pot 4: All In a daze work wins $17600 with One Pair (5 5 K Q J)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|   bozo                     |  186725 |         |      |    |         |
+ 3|D  Taki                     |   98000 |         |      |    |         |
+ 4|   FredLS                   |  138750 |         |      |    |         |
+ 5|   All In a daze work       |   17600 |         |      |    |         |
+ 6|   GKinz54                  |   92150 |         |      |    |         |
+ 7|   Dennis Roberts           |  115575 |         |      |    |         |
+ 8|>  John Cairns              |  327150 |         |      |    |         |
+ 9|   888                      |  351900 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! BigBlind is eliminated!
+! 166 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d6.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 4
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

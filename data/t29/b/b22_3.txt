@@ -1,0 +1,119 @@
+Subject: [b22.10058] Holdem Game Broadcast Message(*)
+
+! Table b22, Hand 3, Day 3
+
+! Alvin Chipmunk calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   UConn                    |   50000 |       0 |folded|    |         |
+ 2|   Russ Fox                 |   49550 |       0 |folded|    |         |
+ 3|D  stannius                 |   49100 |     375 |folded|    |         |
+ 4|   Alvin Chipmunk           |   42175 |    7675 |      |    |         |
+ 5|   mrstcao                  |   50500 |     375 |folded|    |         |
+ 6|   gilette                  |   46650 |       0 |folded|    |         |
+ 7|>  Claudia M                |   47025 |    7675 |      |    |         |
+ 8|   underdog                 |   49550 |       0 |folded|    |         |
+ 9|   Charlie Tuna             |   49350 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/06/19 06:42:21! Dealing a new hand
+! 11/06/19 06:42:21! No ante
+! 11/06/19 06:42:21! Alvin Chipmunk blinds $75
+! 11/06/19 06:42:21! mrstcao blinds $150
+! 11/06/19 07:11:37! gilette folds
+! 11/06/19 07:19:36! Claudia M calls 
+! 11/06/19 07:20:59! underdog folds
+! 11/06/19 07:20:59! Charlie Tuna folds
+! 11/06/19 07:22:44! UConn folds
+! 11/06/19 07:22:44! Russ Fox folds
+! 11/06/19 07:53:28! stannius calls 
+! 11/06/19 07:56:34! Alvin Chipmunk raises $225 to $375 total 
+! 11/06/19 08:01:06! mrstcao calls 
+! 11/06/19 09:31:05! Claudia M calls 
+! 11/06/19 09:35:48! stannius calls 
+
+! 11/06/19 09:35:48! Pot right ($1500), flopping/dealing/drawing cards
+! 11/06/19 09:35:48! 4 players
+! 11/06/19 09:35:48! Flopped cards: Jh Qh 9d
+! 11/06/19 09:59:36! Alvin Chipmunk bets $800 
+! 11/06/19 10:00:35! mrstcao folds
+! 11/06/19 11:33:13! Claudia M calls 
+! 11/06/19 11:38:40! stannius folds
+
+! 11/06/19 11:38:40! Pot right ($3100), flopping/dealing/drawing cards
+! 11/06/19 11:38:40! 2 players
+! 11/06/19 11:38:40! Flopped card: Jd
+! 11/06/19 11:55:34! Alvin Chipmunk bets $1500 
+! 11/06/19 12:24:57! Claudia M calls 
+
+! 11/06/19 12:24:57! Pot right ($6100), flopping/dealing/drawing cards
+! 11/06/19 12:24:57! 2 players
+! 11/06/19 12:24:57! Flopped card: 10d
+! 11/06/19 12:30:34! Alvin Chipmunk checks
+! 11/06/19 12:48:03! Claudia M bets $5000 
+! 11/06/19 12:50:06! Alvin Chipmunk calls 
+! Hand over, current board is:  Jh Qh 9d Jd 10d
+! Alvin Chipmunk           has: 9s 8s
+! Claudia M                has: 10h Jc
+! Claudia M wins $16100 (net $8425) with Full House (J J J 10 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   UConn                    |   50000 |         |      |    |         |
+ 2|   Russ Fox                 |   49550 |         |      |    |         |
+ 3|   stannius                 |   49100 |         |      |    |         |
+ 4|D  Alvin Chipmunk           |   42175 |         |      |    |         |
+ 5|   mrstcao                  |   50500 |         |      |    |         |
+ 6|   gilette                  |   46650 |         |      |    |         |
+ 7|>  Claudia M                |   63125 |         |      |    |         |
+ 8|   underdog                 |   49550 |         |      |    |         |
+ 9|   Charlie Tuna             |   49350 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 538 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b22.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+This is the REAL WRGPT29.
+Changes to office hours and email addresses do not carry over from the
+practice round.
+You have been assigned a new ID and the round is "b".
+
+Good luck.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 7
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

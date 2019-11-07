@@ -1,0 +1,110 @@
+Subject: [d3.10026] Holdem Game Broadcast Message(*)
+
+! Table d3, Hand 253, Day 96
+
+! Camo calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Brian Crowley            |  240800 |     300 |folded|    |         |
+ 2|D  drjeys                   |  162050 |     300 |folded|    |         |
+ 3|>  Ben Buchwald             |  126225 |   10300 |      |    |         |
+ 4|   Derek Noakes             |  244150 |    2300 |folded|    |         |
+ 5|V  Diputsur                 |   33925 |     300 |<AWOL>|    |         |
+ 6|   BillB                    |   36175 |     300 |folded|    |         |
+ 7|   Camo                     |  126225 |   10300 |      |    |         |
+ 8|   What Beats What Again    |  168900 |     300 |folded|    |         |
+ 9|   Kyle Stein               |   31700 |     300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/14/19 17:23:58! Dealing a new hand
+! 02/14/19 17:23:58! Everyone antes $300
+! 02/14/19 17:23:58! Ben Buchwald blinds $1000
+! 02/14/19 17:23:58! Derek Noakes blinds $2000
+! 02/14/19 17:23:58! Diputsur is on vacation and folds
+! 02/14/19 18:01:35! BillB folds
+! 02/14/19 18:28:44! Camo calls 
+! 02/15/19 04:38:22! What Beats What Again folds
+! 02/15/19 06:36:57! Kyle Stein folds
+! 02/15/19 06:36:57! Brian Crowley folds
+! 02/15/19 06:44:22! drjeys folds
+! 02/15/19 06:44:22! Ben Buchwald calls 
+! 02/15/19 06:53:44! Derek Noakes checks
+
+! 02/15/19 06:53:44! Pot right ($8700), flopping/dealing/drawing cards
+! 02/15/19 06:53:44! 3 players
+! 02/15/19 06:53:44! Flopped cards: 5s 9h 10h
+! 02/15/19 07:05:01! Ben Buchwald bets $4000 
+! 02/15/19 07:40:54! Derek Noakes folds
+! 02/15/19 09:24:41! Camo calls 
+
+! 02/15/19 09:24:41! Pot right ($16700), flopping/dealing/drawing cards
+! 02/15/19 09:24:41! 2 players
+! 02/15/19 09:24:41! Flopped card: Ad
+! 02/15/19 10:15:13! Ben Buchwald checks
+! 02/15/19 10:57:04! Camo checks
+
+! 02/15/19 10:57:04! Pot right ($16700), flopping/dealing/drawing cards
+! 02/15/19 10:57:04! 2 players
+! 02/15/19 10:57:04! Flopped card: 7c
+! 02/15/19 12:49:36! Ben Buchwald bets $4000 
+! 02/15/19 12:50:24! Camo calls 
+! Hand over, current board is:  5s 9h 10h Ad 7c
+! Ben Buchwald             has: 7s Jc
+! Camo                     has: Ks 10c
+! Camo wins $24700 (net $14400) with One Pair (10 10 A K 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Brian Crowley            |  240800 |         |      |    |         |
+ 2|   drjeys                   |  162050 |         |      |    |         |
+ 3|D> Ben Buchwald             |  126225 |         |      |    |         |
+ 4|   Derek Noakes             |  244150 |         |      |    |         |
+ 5|V  Diputsur                 |   33925 |         |<AWOL>|    |         |
+ 6|   BillB                    |   36175 |         |      |    |         |
+ 7|   Camo                     |  150925 |         |      |    |         |
+ 8|   What Beats What Again    |  168900 |         |      |    |         |
+ 9|   Kyle Stein               |   31700 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 220 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d3.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 3
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

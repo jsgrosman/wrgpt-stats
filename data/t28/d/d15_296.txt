@@ -1,0 +1,108 @@
+Subject: [d15.10431] Holdem Game Broadcast Message(*)
+
+! Table d15, Hand 296, Day 114
+
+! Neil Boyce calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|   DaveKal                  |  107425 |    2600 |folded|    |         |
+ 3|   BrownTrout               |       0 |  144625 |all-in|    |         |
+ 4|V  Hossein                  |   84525 |     600 |<AWOL>|    |         |
+ 5|   Statistical Tie          |   93525 |     600 |folded|    |         |
+ 6|>  Neil Boyce               |  141800 |  144625 |      |    |         |
+ 7|   Steve Zagieboylo         |  645250 |     600 |folded|    |         |
+ 8|   Otto                     |  297950 |    4600 |folded|    |         |
+ 9|DV reelbigbeagles           |   96900 |     600 |<AWOL>|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/04/19 17:35:25! Dealing a new hand
+! 03/04/19 17:35:25! Everyone antes $600
+! 03/04/19 17:35:25! DaveKal blinds $2000
+! 03/04/19 17:35:25! BrownTrout blinds $4000
+! 03/04/19 17:35:25! Hossein is on vacation and folds
+! 03/04/19 17:35:57! Statistical Tie folds
+! 03/04/19 18:02:31! Neil Boyce calls 
+! 03/04/19 18:02:31! Steve Zagieboylo folds
+! 03/04/19 18:52:24! Otto calls 
+! 03/04/19 18:52:24! reelbigbeagles is on vacation and folds
+! 03/04/19 18:52:24! DaveKal folds
+! 03/04/19 19:27:45! BrownTrout checks
+
+! 03/04/19 19:27:45! Pot right ($18800), flopping/dealing/drawing cards
+! 03/04/19 19:27:45! 3 players
+! 03/04/19 19:27:45! Flopped cards: 3h 10s Ks
+! 03/04/19 20:31:25! BrownTrout bets $5000 
+! 03/04/19 21:25:27! Neil Boyce calls 
+! 03/05/19 07:21:13! Otto folds
+
+! 03/05/19 07:21:13! Pot right ($28800), flopping/dealing/drawing cards
+! 03/05/19 07:21:13! 2 players
+! 03/05/19 07:21:13! Flopped card: 10c
+! 03/05/19 09:12:24! BrownTrout bets $15000 
+! 03/05/19 09:17:01! Neil Boyce calls 
+
+! 03/05/19 09:17:01! Pot right ($58800), flopping/dealing/drawing cards
+! 03/05/19 09:17:01! 2 players
+! 03/05/19 09:17:01! Flopped card: Ad
+! 03/05/19 09:33:31! BrownTrout bets $25000 
+! 03/05/19 09:35:35! Neil Boyce raises $25000 to $50000 total 
+! 03/05/19 09:42:55! BrownTrout raises $70025 to $120025 total and is all in
+! 03/05/19 09:43:48! Neil Boyce calls 
+! Hand over, current board is:  3h 10s Ks 10c Ad
+! BrownTrout               has: 10d Ac
+! Neil Boyce               has: 10h Qd
+! BrownTrout wins $298850 (net $154225) with Full House (10 10 10 A A)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|D  DaveKal                  |  107425 |         |      |    |         |
+ 3|   BrownTrout               |  298850 |         |      |    |         |
+ 4|V  Hossein                  |   84525 |         |<AWOL>|    |         |
+ 5|   Statistical Tie          |   93525 |         |      |    |         |
+ 6|>  Neil Boyce               |  141800 |         |      |    |         |
+ 7|   Steve Zagieboylo         |  645250 |         |      |    |         |
+ 8|   Otto                     |  297950 |         |      |    |         |
+ 9|V  reelbigbeagles           |   96900 |         |<AWOL>|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 145 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d15.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

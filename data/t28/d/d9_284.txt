@@ -1,0 +1,114 @@
+Subject: [d9.10332] Holdem Game Broadcast Message(*)
+
+! Table d9, Hand 284, Day 113
+
+! Stubey calls 
+! Pot right ($244500), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 7d
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Polar85                  |   85650 |     400 |folded|    |         |
+ 2|   BBLWOG                   |   95375 |     400 |folded|    |         |
+ 3|   dchizzle41               |  224975 |     400 |folded|    |         |
+ 4|   TomasL                   |  188900 |     400 |folded|    |         |
+ 5|   Ed Fernandez             |  299200 |     400 |folded|    |         |
+ 6|   WhyImHere                |       0 |  113250 |all-in|    |         |
+ 7|D  jasong                   |  186150 |   12400 |folded|    |         |
+ 8|>  Stubey                   |  213850 |  113250 |      |    |         |
+ 9|   Theodore Chipmunk        |  114925 |    3600 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/02/19 17:28:43! Dealing a new hand
+! 03/02/19 17:28:43! Everyone antes $400
+! 03/02/19 17:28:43! Stubey blinds $1600
+! 03/02/19 17:28:43! Theodore Chipmunk blinds $3200
+! 03/02/19 17:51:00! Polar85 folds
+! 03/02/19 17:52:35! BBLWOG folds
+! 03/02/19 18:18:02! dchizzle41 folds
+! 03/02/19 20:05:27! TomasL folds
+! 03/02/19 20:05:27! Ed Fernandez folds
+! 03/03/19 00:58:12! WhyImHere raises $8800 to $12000 total 
+! 03/03/19 04:54:16! jasong calls 
+! 03/03/19 06:05:39! Stubey calls 
+! 03/04/19 04:59:19! Theodore Chipmunk folds
+
+! 03/04/19 04:59:19! Pot right ($42800), flopping/dealing/drawing cards
+! 03/04/19 04:59:19! 3 players
+! 03/04/19 04:59:19! Flopped cards: 2s 10h Jh
+! 03/04/19 05:26:10! Stubey checks
+! 03/04/19 05:30:21! WhyImHere bets $20000 
+! 03/04/19 05:47:26! jasong folds
+! 03/04/19 06:02:27! Stubey calls 
+
+! 03/04/19 06:02:27! Pot right ($82800), flopping/dealing/drawing cards
+! 03/04/19 06:02:27! 2 players
+! 03/04/19 06:02:27! Flopped card: 7s
+! 03/04/19 06:03:49! Stubey checks
+! 03/04/19 06:16:56! WhyImHere bets $80850 and is all in
+! 03/04/19 06:19:39! Stubey calls 
+
+! 03/04/19 06:19:39! Pot right ($244500), flopping/dealing/drawing cards
+! 03/04/19 06:19:39! 2 players, 1 all in
+! 03/04/19 06:19:39! Flopped card: 7d
+! Hand over, current board is:  2s 10h Jh 7s 7d
+! WhyImHere                has: Qs Ah
+! Stubey                   has: 9s Jc
+! Stubey wins $244500 (net $131250) with Two Pair (J J 7 7 10)
+! Antes and blinds go up
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Polar85                  |   85650 |         |      |    |         |
+ 2|   BBLWOG                   |   95375 |         |      |    |         |
+ 3|   dchizzle41               |  224975 |         |      |    |         |
+ 4|   TomasL                   |  188900 |         |      |    |         |
+ 5|   Ed Fernandez             |  299200 |         |      |    |         |
+ 7|   jasong                   |  186150 |         |      |    |         |
+ 8|D> Stubey                   |  458350 |         |      |    |         |
+ 9|   Theodore Chipmunk        |  114925 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! WhyImHere is eliminated!
+! 152 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d9.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,110 @@
+Subject: [d18.10322] Holdem Game Broadcast Message(*)
+
+! Table d18, Hand 282, Day 102
+
+! Deets folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   SCSI                     |   41975 |     400 |folded|    |         |
+ 2|>  delbaeth                 |   47400 |   28400 |      |    |         |
+ 3|   Joe Nadeau               |  296825 |       0 |New   |    |         |
+ 4|D  JZK                      |  243850 |     400 |folded|    |         |
+ 5|   JohnnyMac                |  302800 |    2000 |folded|    |         |
+ 6|   Ryan Thomas              |  128450 |    3600 |folded|    |         |
+ 7|   EWalk                    |  118475 |     400 |folded|    |         |
+ 8|   Josh Moore               |  163900 |     400 |folded|    |         |
+ 9|   Deets                    |   76200 |    8400 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/21/19 12:11:43! Dealing a new hand
+! 02/21/19 12:11:43! Everyone antes $400
+! 02/21/19 12:11:43! JohnnyMac blinds $1600
+! 02/21/19 12:11:43! Ryan Thomas blinds $3200
+! 02/21/19 12:12:09! EWalk folds
+! 02/21/19 12:14:41! Josh Moore folds
+! 02/21/19 13:18:29! Deets calls 
+! 02/21/19 14:02:02! SCSI folds
+! 02/21/19 14:08:14! delbaeth raises $4800 to $8000 total 
+! 02/21/19 14:08:14! JZK folds
+! 02/21/19 14:08:14! JohnnyMac folds
+! 02/21/19 14:13:13! Ryan Thomas folds
+! 02/21/19 15:08:49! Deets calls 
+
+! 02/21/19 15:08:49! Pot right ($24000), flopping/dealing/drawing cards
+! 02/21/19 15:08:49! 2 players
+! 02/21/19 15:08:49! Flopped cards: 3s 2s 10c
+! 02/21/19 16:11:44! Deets checks
+! 02/21/19 16:15:48! delbaeth checks
+
+! 02/21/19 16:15:48! Pot right ($24000), flopping/dealing/drawing cards
+! 02/21/19 16:15:48! 2 players
+! 02/21/19 16:15:48! Flopped card: 6s
+! 02/21/19 16:25:14! New player added to the table: Joe Nadeau
+! 02/21/19 17:38:47! Deets checks
+! 02/21/19 17:48:58! delbaeth checks
+
+! 02/21/19 17:48:58! Pot right ($24000), flopping/dealing/drawing cards
+! 02/21/19 17:48:58! 2 players
+! 02/21/19 17:48:58! Flopped card: 10s
+! 02/21/19 20:05:28! Deets checks
+! 02/21/19 20:28:49! delbaeth bets $20000 
+! 02/21/19 21:35:13! Deets folds
+! Hand over, no showdown
+! Current board is:  3s 2s 10c 6s 10s
+! delbaeth wins $44000 (net $15600)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   SCSI                     |   41975 |         |      |    |         |
+ 2|>  delbaeth                 |   91400 |         |      |    |         |
+ 3|   Joe Nadeau               |  296825 |         |      |    |         |
+ 4|   JZK                      |  243850 |         |      |    |         |
+ 5|D  JohnnyMac                |  302800 |         |      |    |         |
+ 6|   Ryan Thomas              |  128450 |         |      |    |         |
+ 7|   EWalk                    |  118475 |         |      |    |         |
+ 8|   Josh Moore               |  163900 |         |      |    |         |
+ 9|   Deets                    |   76200 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 200 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d18.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 11
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

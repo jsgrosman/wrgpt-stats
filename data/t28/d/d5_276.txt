@@ -1,0 +1,114 @@
+Subject: [d5.10284] Holdem Game Broadcast Message(*)
+
+! Table d5, Hand 276, Day 112
+
+! Jeff Palmucci checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   AveCat                   |  226950 |   14400 |folded|    |         |
+ 2|   Bob Brewster             |  132275 |     400 |folded|    |         |
+ 3|   the cake is a pie        |  210650 |    3600 |folded|    |         |
+ 4|   David Kuznick            |  115900 |       0 |New   |    |         |
+ 5|   Jeff Palmucci            |   65800 |   39400 |      |    |         |
+ 6|   zipper                   |  163500 |       0 |New   |    |         |
+ 7|D  GwynnInTheHall           |  194800 |     400 |folded|    |         |
+ 8|>  DazedAndConfused         |  300700 |   39400 |      |    |         |
+ 9|   breyercalvert            |  112950 |    3600 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/02/19 09:24:13! Dealing a new hand
+! 03/02/19 09:24:13! Everyone antes $400
+! 03/02/19 09:24:13! DazedAndConfused blinds $1600
+! 03/02/19 09:24:13! breyercalvert blinds $3200
+! 03/02/19 11:25:14! New player added to the table: zipper
+! 03/02/19 11:25:24! New player added to the table: David Kuznick
+! 03/02/19 11:50:57! AveCat calls 
+! 03/02/19 11:50:57! Bob Brewster folds
+! 03/02/19 12:01:26! the cake is a pie calls 
+! 03/02/19 12:51:17! Jeff Palmucci raises $10800 to $14000 total 
+! 03/02/19 12:51:17! GwynnInTheHall folds
+! 03/03/19 02:17:55! DazedAndConfused calls 
+! 03/03/19 02:17:55! breyercalvert folds
+! 03/03/19 06:39:15! AveCat calls 
+! 03/03/19 07:54:52! the cake is a pie folds
+
+! 03/03/19 07:54:52! Pot right ($51200), flopping/dealing/drawing cards
+! 03/03/19 07:54:52! 3 players
+! 03/03/19 07:54:52! Flopped cards: Qc 4d 3d
+! 03/03/19 08:17:43! DazedAndConfused checks
+! 03/03/19 08:56:21! AveCat checks
+! 03/03/19 09:02:41! Jeff Palmucci bets $25000 
+! 03/03/19 09:15:26! DazedAndConfused calls 
+! 03/03/19 09:23:37! AveCat folds
+
+! 03/03/19 09:23:37! Pot right ($101200), flopping/dealing/drawing cards
+! 03/03/19 09:23:37! 2 players
+! 03/03/19 09:23:37! Flopped card: 3s
+! 03/03/19 09:39:44! DazedAndConfused checks
+! 03/03/19 09:42:32! Jeff Palmucci checks
+
+! 03/03/19 09:42:32! Pot right ($101200), flopping/dealing/drawing cards
+! 03/03/19 09:42:32! 2 players
+! 03/03/19 09:42:32! Flopped card: 5c
+! 03/03/19 09:42:32! DazedAndConfused checks
+! 03/03/19 09:47:11! Jeff Palmucci checks
+! Hand over, current board is:  Qc 4d 3d 3s 5c
+! Jeff Palmucci            has: Ks Jc
+! DazedAndConfused         has: 7c 4c
+! DazedAndConfused wins $101200 (net $61800) with Two Pair (4 4 3 3 Q)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   AveCat                   |  226950 |         |      |    |         |
+ 2|   Bob Brewster             |  132275 |         |      |    |         |
+ 3|   the cake is a pie        |  210650 |         |      |    |         |
+ 4|   David Kuznick            |  115900 |         |      |    |         |
+ 5|   Jeff Palmucci            |   65800 |         |      |    |         |
+ 6|   zipper                   |  163500 |         |      |    |         |
+ 7|   GwynnInTheHall           |  194800 |         |      |    |         |
+ 8|D> DazedAndConfused         |  401900 |         |      |    |         |
+ 9|   breyercalvert            |  112950 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 156 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d5.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

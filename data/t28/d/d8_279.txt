@@ -1,0 +1,103 @@
+Subject: [d8.10288] Holdem Game Broadcast Message(*)
+
+! Table d8, Hand 279, Day 116
+
+! Piojos calls 
+! Pot right ($77750), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped cards: Qc 6s 9h
+! Flopped card: 6h
+! Flopped card: Ac
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  Not66                    |       0 |   34075 |all-in|    |         |
+ 2|   Joe Nadeau               |  592250 |    2600 |folded|    |         |
+ 3|   Eric Brassell            |  337000 |    4600 |folded|    |         |
+ 4|   mark gray                |   59275 |     600 |folded|    |         |
+ 5|   Paul Ant                 |  121550 |     600 |folded|    |         |
+ 6|   AlbinoSmurf              |  439150 |     600 |folded|    |         |
+ 7|>  Piojos                   |  517150 |   34075 |      |    |         |
+ 8|   dubldown                 |  127050 |       0 |New   |    |         |
+ 9|   BigElmo                  |  144700 |     600 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/06/19 17:46:23! Dealing a new hand
+! 03/06/19 17:46:23! Everyone antes $600
+! 03/06/19 17:46:23! Joe Nadeau blinds $2000
+! 03/06/19 17:46:23! Eric Brassell blinds $4000
+! 03/07/19 07:02:02! mark gray folds
+! 03/07/19 07:02:02! Paul Ant folds
+! 03/07/19 07:10:34! AlbinoSmurf folds
+! 03/07/19 07:55:08! New player added to the table: dubldown
+! 03/07/19 07:58:28! Piojos raises $4200 to $8200 total 
+! 03/07/19 08:32:00! BigElmo folds
+! 03/07/19 08:32:00! Not66 raises $25275 to $33475 total and is all in
+! 03/07/19 08:33:19! Joe Nadeau folds
+! 03/07/19 08:39:40! Eric Brassell folds
+! 03/07/19 09:30:38! Piojos calls 
+
+! 03/07/19 09:30:38! Pot right ($77750), flopping/dealing/drawing cards
+! 03/07/19 09:30:38! 2 players, 1 all in
+! 03/07/19 09:30:38! Flopped cards: Qc 6s 9h
+! 03/07/19 09:30:38! Flopped card: 6h
+! 03/07/19 09:30:38! Flopped card: Ac
+! Hand over, current board is:  Qc 6s 9h 6h Ac
+! Not66                    has: As Kd
+! Piojos                   has: Jc 7c
+! Not66 wins $77750 (net $43675) with Two Pair (A A 6 6 K)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Not66                    |   77750 |         |      |    |         |
+ 2|D  Joe Nadeau               |  592250 |         |      |    |         |
+ 3|   Eric Brassell            |  337000 |         |      |    |         |
+ 4|   mark gray                |   59275 |         |      |    |         |
+ 5|   Paul Ant                 |  121550 |         |      |    |         |
+ 6|   AlbinoSmurf              |  439150 |         |      |    |         |
+ 7|>  Piojos                   |  517150 |         |      |    |         |
+ 8|   dubldown                 |  127050 |         |      |    |         |
+ 9|   BigElmo                  |  144700 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! mark gray timed out during this hand
+! 132 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d8.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 2
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

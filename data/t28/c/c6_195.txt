@@ -1,0 +1,106 @@
+Subject: [c6.10531] Holdem Game Broadcast Message(*)
+
+! Table c6, Hand 195, Day 86
+
+! GwynnInTheHall calls 
+! Pot right ($253750), flopping/dealing/drawing cards
+! 3 players, 2 all in
+! Flopped cards: Jh 7s Kh
+! Flopped card: 10s
+! Flopped card: 5d
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  GwynnInTheHall           |    4800 |  103900 |      |  2 |  133500 |
+ 2|   ADB Foldem               |       0 |   37150 |all-in|  3 |  120250 |
+ 3|D  zzzrbt                   |  118300 |     300 |folded|    |         |
+ 4|   Chris Sims               |   61475 |    1300 |folded|    |         |
+ 5|   Axel Foley               |   76200 |    2300 |folded|    |         |
+ 6|   Swamper bfj              |       0 |  103900 |all-in|  2 |  133500 |
+ 7|   Steve B                  |   60250 |    4300 |folded|    |         |
+ 8|   rktsci                   |   49950 |     300 |folded|    |         |
+ 9|   Mike Litoris             |  101425 |     300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/05/19 09:53:22! Dealing a new hand
+! 02/05/19 09:53:22! Everyone antes $300
+! 02/05/19 09:53:22! Chris Sims blinds $1000
+! 02/05/19 09:53:22! Axel Foley blinds $2000
+! 02/05/19 10:00:46! Swamper bfj raises $2000 to $4000 total 
+! 02/05/19 10:03:35! Steve B calls 
+! 02/05/19 10:08:13! rktsci folds
+! 02/05/19 10:13:03! Mike Litoris folds
+! 02/05/19 10:33:19! GwynnInTheHall calls 
+! 02/05/19 10:44:41! ADB Foldem raises $32850 to $36850 total and is all in
+! 02/05/19 11:03:10! zzzrbt folds
+! 02/05/19 11:03:10! Chris Sims folds
+! 02/05/19 11:09:03! Axel Foley folds
+! 02/05/19 11:13:09! Swamper bfj raises $66750 to $103600 total and is all in
+! 02/05/19 11:14:22! Steve B folds
+! 02/05/19 11:30:19! GwynnInTheHall calls 
+
+! 02/05/19 11:30:19! Pot right ($253750), flopping/dealing/drawing cards
+! 02/05/19 11:30:19! 3 players, 2 all in
+! 02/05/19 11:30:19! Flopped cards: Jh 7s Kh
+! 02/05/19 11:30:19! Flopped card: 10s
+! 02/05/19 11:30:19! Flopped card: 5d
+! Hand over, current board is:  Jh 7s Kh 10s 5d
+! GwynnInTheHall           has: Js Ac
+! ADB Foldem               has: Ah Kc
+! Swamper bfj              has: 4s 4d
+! Pot 2: GwynnInTheHall wins $133500 with One Pair (J J A K 10)
+! Pot 3: ADB Foldem wins $120250 with One Pair (K K A J 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  GwynnInTheHall           |  138300 |         |      |    |         |
+ 2|   ADB Foldem               |  120250 |         |      |    |         |
+ 3|   zzzrbt                   |  118300 |         |      |    |         |
+ 4|D  Chris Sims               |   61475 |         |      |    |         |
+ 5|   Axel Foley               |   76200 |         |      |    |         |
+ 7|   Steve B                  |   60250 |         |      |    |         |
+ 8|   rktsci                   |   49950 |         |      |    |         |
+ 9|   Mike Litoris             |  101425 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Swamper bfj is eliminated!
+! 264 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c6.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 5
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

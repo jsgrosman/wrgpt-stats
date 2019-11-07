@@ -1,0 +1,100 @@
+Subject: [e4.10282] Holdem Game Broadcast Message(*)
+
+! Table e4, Hand 381, Day 147
+
+! AlbinoSmurf raises $709200 to $888700 total and is all in
+! Pot right ($1081200), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped cards: 3h 8d 9h
+! Flopped card: Qs
+! Flopped card: 8h
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  Deets                    |       0 |  180500 |all-in|  2 |  372000 |
+ 2|   Tooner                   |  274750 |    7000 |folded|    |         |
+ 3|>  AlbinoSmurf              |       0 |  889700 |all-in|  1 |  709200 |
+ 4|   DaveKal                  | 1031625 |    1000 |folded|    |         |
+ 5|   heffmike                 |  660250 |    1000 |folded|    |         |
+ 6|   EWalk                    |  278925 |    1000 |folded|    |         |
+ 8|   CAB                      |  293125 |    1000 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 04/06/19 14:54:33! Dealing a new hand
+! 04/06/19 14:54:33! Everyone antes $1000
+! 04/06/19 14:54:33! Tooner blinds $6000
+! 04/06/19 14:54:33! AlbinoSmurf blinds $12000
+! 04/06/19 15:05:51! DaveKal folds
+! 04/07/19 11:36:09! heffmike folds
+! 04/07/19 11:36:09! EWalk folds
+! 04/07/19 11:36:09! CAB folds
+! 04/07/19 11:56:04! Deets raises $167500 to $179500 total and is all in
+! 04/07/19 11:56:04! Tooner folds
+! 04/07/19 13:33:15! AlbinoSmurf raises $709200 to $888700 total and is all in
+
+! 04/07/19 13:33:15! Pot right ($1081200), flopping/dealing/drawing cards
+! 04/07/19 13:33:15! 2 players, 2 all in
+! 04/07/19 13:33:15! Flopped cards: 3h 8d 9h
+! 04/07/19 13:33:15! Flopped card: Qs
+! 04/07/19 13:33:15! Flopped card: 8h
+! Hand over, current board is:  3h 8d 9h Qs 8h
+! Deets                    has: As 10s
+! AlbinoSmurf              has: Ks Qh
+! Pot 1: uncalled $709200 returned to AlbinoSmurf
+! Pot 2: AlbinoSmurf wins $372000 with Two Pair (Q Q 8 8 K)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|D  Tooner                   |  274750 |         |      |    |         |
+ 3|>  AlbinoSmurf              | 1081200 |         |      |    |         |
+ 4|   DaveKal                  | 1031625 |         |      |    |         |
+ 5|   heffmike                 |  660250 |         |      |    |         |
+ 6|   EWalk                    |  278925 |         |      |    |         |
+ 8|   CAB                      |  293125 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Deets is eliminated!
+! 54 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/e/e4.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+We are down to few enough tables that players
+may be moved to rebalance tables when there
+are not enough empty seats to break a table.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

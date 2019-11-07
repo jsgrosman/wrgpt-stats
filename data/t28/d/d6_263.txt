@@ -1,0 +1,112 @@
+Subject: [d6.10111] Holdem Game Broadcast Message(*)
+
+! Table d6, Hand 263, Day 101
+
+! BigBlind checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   BigBlind                 |  119000 |   63800 |      |    |         |
+ 2|   skatesave                |   36400 |     400 |folded|    |         |
+ 3|D  Taki                     |   35225 |     400 |folded|    |         |
+ 4|   FredLS                   |  104275 |    2000 |folded|    |         |
+ 5|   All In a daze work       |   46950 |    8800 |folded|    |         |
+ 6|   GKinz54                  |  171150 |     400 |folded|    |         |
+ 7|   Dennis Roberts           |  152975 |     400 |folded|    |         |
+ 8|   John Cairns              |  152275 |     400 |folded|    |         |
+ 9|>  888                      |  100500 |   63800 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/20/19 06:45:42! Dealing a new hand
+! 02/20/19 06:45:42! Everyone antes $400
+! 02/20/19 06:45:42! FredLS blinds $1600
+! 02/20/19 06:45:42! All In a daze work blinds $3200
+! 02/20/19 07:18:24! GKinz54 folds
+! 02/20/19 07:18:24! Dennis Roberts folds
+! 02/20/19 07:18:24! John Cairns folds
+! 02/20/19 08:45:11! 888 raises $5200 to $8400 total 
+! 02/20/19 09:10:29! BigBlind calls 
+! 02/20/19 09:10:29! skatesave folds
+! 02/20/19 12:21:00! Taki folds
+! 02/20/19 12:21:00! FredLS folds
+! 02/20/19 12:24:31! All In a daze work calls 
+
+! 02/20/19 12:24:31! Pot right ($30400), flopping/dealing/drawing cards
+! 02/20/19 12:24:31! 3 players
+! 02/20/19 12:24:31! Flopped cards: 9h 7c 4h
+! 02/20/19 12:25:13! All In a daze work checks
+! 02/20/19 13:40:28! 888 checks
+! 02/20/19 13:52:24! BigBlind bets $15000 
+! 02/20/19 14:04:50! All In a daze work folds
+! 02/20/19 14:05:49! 888 calls 
+
+! 02/20/19 14:05:49! Pot right ($60400), flopping/dealing/drawing cards
+! 02/20/19 14:05:49! 2 players
+! 02/20/19 14:05:49! Flopped card: Ad
+! 02/20/19 14:09:15! 888 bets $40000 
+! 02/20/19 14:10:44! BigBlind calls 
+
+! 02/20/19 14:10:44! Pot right ($140400), flopping/dealing/drawing cards
+! 02/20/19 14:10:44! 2 players
+! 02/20/19 14:10:44! Flopped card: 7h
+! 02/20/19 14:21:16! 888 checks
+! 02/20/19 14:25:54! BigBlind checks
+! Hand over, current board is:  9h 7c 4h Ad 7h
+! BigBlind                 has: As 5c
+! 888                      has: 10d 8d
+! BigBlind wins $140400 (net $76600) with Two Pair (A A 7 7 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   BigBlind                 |  259400 |         |      |    |         |
+ 2|   skatesave                |   36400 |         |      |    |         |
+ 3|   Taki                     |   35225 |         |      |    |         |
+ 4|D  FredLS                   |  104275 |         |      |    |         |
+ 5|   All In a daze work       |   46950 |         |      |    |         |
+ 6|   GKinz54                  |  171150 |         |      |    |         |
+ 7|   Dennis Roberts           |  152975 |         |      |    |         |
+ 8|   John Cairns              |  152275 |         |      |    |         |
+ 9|>  888                      |  100500 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 205 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d6.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 13
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

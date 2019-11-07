@@ -1,0 +1,118 @@
+Subject: [d14.10007] Holdem Game Broadcast Message(*)
+
+! Table d14, Hand 252, Day 95
+
+! DotMatrix calls - side pot
+! Pot right ($23125), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 4d
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  SmBoatDrinks             |  214975 |     300 |folded|    |         |
+ 2|   bluecandy                |   50050 |    1300 |folded|    |         |
+ 3|   DotMatrix                |       0 |    9725 |all-in|  2 |   22550 |
+ 4|   Barton                   |  261925 |     300 |folded|    |         |
+ 5|>  Bob R                    |  189850 |   10300 |      |  1 |     575 |
+ 6|   Endrju                   |  145600 |     300 |folded|    |         |
+ 7|   Richard Rognlie          |  173375 |     300 |folded|    |         |
+ 8|   Ira Agins                |   51950 |     300 |folded|    |         |
+ 9|   Stephen Mack             |  123525 |     300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/14/19 12:56:35! Dealing a new hand
+! 02/14/19 12:56:35! Everyone antes $300
+! 02/14/19 12:56:35! bluecandy blinds $1000
+! 02/14/19 12:56:35! DotMatrix blinds $2000
+! 02/14/19 14:56:46! Barton folds
+! 02/14/19 14:56:46! Bob R raises $2000 to $4000 total 
+! 02/14/19 14:56:46! Endrju folds
+! 02/14/19 14:56:46! Richard Rognlie folds
+! 02/14/19 14:56:46! Ira Agins folds
+_____________________________________________________________________________
+
+! Welcome to round D, all! Good luck.
+! -- Stephen Mack --
+_____________________________________________________________________________
+
+! 02/14/19 14:56:46! Stephen Mack folds
+! 02/14/19 15:42:57! SmBoatDrinks folds
+! 02/14/19 15:42:57! bluecandy folds
+! 02/14/19 16:04:27! DotMatrix calls 
+
+! 02/14/19 16:04:27! Pot right ($11700), flopping/dealing/drawing cards
+! 02/14/19 16:04:27! 2 players
+! 02/14/19 16:04:27! Flopped cards: Kd 5d 10d
+! 02/14/19 16:06:51! DotMatrix checks
+! 02/14/19 19:31:08! Bob R checks
+
+! 02/14/19 19:31:08! Pot right ($11700), flopping/dealing/drawing cards
+! 02/14/19 19:31:08! 2 players
+! 02/14/19 19:31:08! Flopped card: 5c
+! 02/14/19 21:04:11! DotMatrix checks
+! 02/14/19 21:04:11! Bob R bets $6000 
+! 02/14/19 22:14:19! DotMatrix calls - side pot
+
+! 02/14/19 22:14:19! Pot right ($23125), flopping/dealing/drawing cards
+! 02/14/19 22:14:19! 2 players, 1 all in
+! 02/14/19 22:14:19! Flopped card: 4d
+! Hand over, current board is:  Kd 5d 10d 5c 4d
+! DotMatrix                has: Qs Ad
+! Bob R                    has: Qh Jh
+! Pot 1: uncalled $575 returned to Bob R
+! Pot 2: DotMatrix wins $22550 with Diamond Flush (A K 10 5 4)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   SmBoatDrinks             |  214975 |         |      |    |         |
+ 2|D  bluecandy                |   50050 |         |      |    |         |
+ 3|   DotMatrix                |   22550 |         |      |    |         |
+ 4|   Barton                   |  261925 |         |      |    |         |
+ 5|>  Bob R                    |  190425 |         |      |    |         |
+ 6|   Endrju                   |  145600 |         |      |    |         |
+ 7|   Richard Rognlie          |  173375 |         |      |    |         |
+ 8|   Ira Agins                |   51950 |         |      |    |         |
+ 9|   Stephen Mack             |  123525 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 222 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d14.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 1
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

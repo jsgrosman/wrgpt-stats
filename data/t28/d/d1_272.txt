@@ -1,0 +1,111 @@
+Subject: [d1.10192] Holdem Game Broadcast Message(*)
+
+! Table d1, Hand 272, Day 105
+
+! tristero checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Ed Baker                 |       0 |   34250 |all-in|    |         |
+ 2|   ADB Foldem               |  178725 |     400 |folded|    |         |
+ 3|   tristero                 |  115650 |   34250 |      |    |         |
+ 4|D  MTpotts                  |   42550 |     400 |folded|    |         |
+ 5|   Loudlion                 |   43025 |    2000 |folded|    |         |
+ 6|   Spidurman                |   82100 |    3600 |folded|    |         |
+ 7|   Tom Bayz                 |  155650 |     400 |folded|    |         |
+ 8|>  Alvin Chipmunk           |  162775 |   34250 |      |    |         |
+ 9|   TennisGeek               |  259725 |     400 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/23/19 19:35:27! Dealing a new hand
+! 02/23/19 19:35:27! Everyone antes $400
+! 02/23/19 19:35:27! Loudlion blinds $1600
+! 02/23/19 19:35:27! Spidurman blinds $3200
+! 02/24/19 05:06:52! Tom Bayz folds
+! 02/24/19 05:29:59! Alvin Chipmunk raises $6000 to $9200 total 
+! 02/24/19 06:44:12! TennisGeek folds
+! 02/24/19 06:44:12! Ed Baker raises $24650 to $33850 total and is all in
+! 02/24/19 06:44:12! ADB Foldem folds
+! 02/24/19 06:44:12! tristero calls 
+! 02/24/19 06:44:12! MTpotts folds
+! 02/24/19 07:16:07! Loudlion folds
+! 02/24/19 07:16:07! Spidurman folds
+! 02/24/19 09:04:04! Alvin Chipmunk calls 
+
+! 02/24/19 09:04:04! Pot right ($109950), flopping/dealing/drawing cards
+! 02/24/19 09:04:04! 3 players, 1 all in
+! 02/24/19 09:04:04! Flopped cards: Js 5d Kd
+! 02/24/19 09:04:53! Alvin Chipmunk checks
+! 02/24/19 09:11:40! tristero checks
+
+! 02/24/19 09:11:40! Pot right ($109950), flopping/dealing/drawing cards
+! 02/24/19 09:11:40! 3 players, 1 all in
+! 02/24/19 09:11:40! Flopped card: 6h
+! 02/24/19 09:50:51! Alvin Chipmunk checks
+! 02/24/19 09:59:59! tristero checks
+
+! 02/24/19 09:59:59! Pot right ($109950), flopping/dealing/drawing cards
+! 02/24/19 09:59:59! 3 players, 1 all in
+! 02/24/19 09:59:59! Flopped card: 9d
+! 02/24/19 10:11:58! Alvin Chipmunk checks
+! 02/24/19 10:15:31! tristero checks
+! Hand over, current board is:  Js 5d Kd 6h 9d
+! Ed Baker                 has: Ks Ah
+! tristero                 has: 10h 10d
+! Alvin Chipmunk           has: Jh Ad
+! Ed Baker wins $109950 (net $75700) with One Pair (K K A J 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Ed Baker                 |  109950 |         |      |    |         |
+ 2|   ADB Foldem               |  178725 |         |      |    |         |
+ 3|   tristero                 |  115650 |         |      |    |         |
+ 4|   MTpotts                  |   42550 |         |      |    |         |
+ 5|D  Loudlion                 |   43025 |         |      |    |         |
+ 6|   Spidurman                |   82100 |         |      |    |         |
+ 7|   Tom Bayz                 |  155650 |         |      |    |         |
+ 8|>  Alvin Chipmunk           |  162775 |         |      |    |         |
+ 9|   TennisGeek               |  259725 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 188 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d1.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 10
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

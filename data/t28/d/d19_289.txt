@@ -1,0 +1,104 @@
+Subject: [d19.10340] Holdem Game Broadcast Message(*)
+
+! Table d19, Hand 289, Day 106
+
+! Walter Hunt folds
+! Matt Matros folds
+! Pot right ($126400), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped cards: Kc 9d 3c
+! Flopped card: 4s
+! Flopped card: 2d
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   bert_ofcl                |  138350 |     400 |folded|    |         |
+ 2|   TwelveSeven              |  301500 |     400 |folded|    |         |
+ 4|D  The Rabid Moose          |       0 |   34325 |all-in|  2 |   91850 |
+ 5|   Ken Anderson             |  512450 |    2000 |folded|    |         |
+ 6|   zipper                   |   44375 |    3600 |folded|    |         |
+ 7|   Sir Barlow               |       0 |   68875 |all-in|  1 |   34550 |
+ 8|   Walter Hunt              |   75600 |    8400 |folded|    |         |
+ 9|>  Matt Matros              |  126450 |    8400 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/25/19 08:29:48! Dealing a new hand
+! 02/25/19 08:29:48! Everyone antes $400
+! 02/25/19 08:29:48! Ken Anderson blinds $1600
+! 02/25/19 08:29:48! zipper blinds $3200
+! 02/25/19 08:30:52! Sir Barlow calls 
+! 02/25/19 08:53:02! Walter Hunt raises $4800 to $8000 total 
+! 02/25/19 09:00:08! Matt Matros calls 
+! 02/25/19 09:15:52! bert_ofcl folds
+! 02/25/19 09:15:52! TwelveSeven folds
+! 02/25/19 09:15:52! The Rabid Moose raises $25925 to $33925 total and is all in
+! 02/25/19 09:15:52! Ken Anderson folds
+! 02/25/19 09:35:09! zipper folds
+! 02/25/19 10:20:55! Sir Barlow raises $34550 to $68475 total and is all in
+! 02/25/19 10:27:32! Walter Hunt folds
+! 02/25/19 10:27:32! Matt Matros folds
+
+! 02/25/19 10:27:32! Pot right ($126400), flopping/dealing/drawing cards
+! 02/25/19 10:27:32! 2 players, 2 all in
+! 02/25/19 10:27:32! Flopped cards: Kc 9d 3c
+! 02/25/19 10:27:32! Flopped card: 4s
+! 02/25/19 10:27:32! Flopped card: 2d
+! Hand over, current board is:  Kc 9d 3c 4s 2d
+! The Rabid Moose          has: Ah Ad
+! Sir Barlow               has: 9s 9c
+! Pot 1: uncalled $34550 returned to Sir Barlow
+! Pot 2: Sir Barlow wins $91850 with Three of a Kind (9 9 9 K 4)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   bert_ofcl                |  138350 |         |      |    |         |
+ 2|   TwelveSeven              |  301500 |         |      |    |         |
+ 5|D  Ken Anderson             |  512450 |         |      |    |         |
+ 6|   zipper                   |   44375 |         |      |    |         |
+ 7|   Sir Barlow               |  126400 |         |      |    |         |
+ 8|   Walter Hunt              |   75600 |         |      |    |         |
+ 9|>  Matt Matros              |  126450 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! The Rabid Moose is eliminated!
+! 181 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d19.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 7
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

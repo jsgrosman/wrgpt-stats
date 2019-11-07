@@ -1,0 +1,112 @@
+Subject: [c22.11076] Holdem Game Broadcast Message(*)
+
+! Table c22, Hand 224, Day 93
+
+! Byfthalone calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Byfthalone               |   59450 |   63300 |      |    |         |
+ 2|   BBLWOG                   |  120275 |     300 |folded|    |         |
+ 3|   Eric Brassell            |  361900 |     300 |folded|    |         |
+ 6|   Walter Hunt              |   57100 |     300 |folded|    |         |
+ 7|>  Sir Barlow               |  200275 |   63300 |      |    |         |
+ 8|D  BrownTrout               |  127550 |    2300 |folded|    |         |
+ 9|   SCSI                     |   85875 |    2300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/12/19 12:58:30! Dealing a new hand
+! 02/12/19 12:58:30! Everyone antes $300
+! 02/12/19 12:58:30! SCSI blinds $1000
+! 02/12/19 12:58:30! Byfthalone blinds $2000
+! 02/12/19 13:13:21! BBLWOG folds
+! 02/12/19 13:13:21! Eric Brassell folds
+! 02/12/19 13:57:15! Walter Hunt folds
+! 02/12/19 13:58:56! Sir Barlow calls 
+! 02/12/19 14:08:22! BrownTrout calls 
+! 02/12/19 14:10:40! SCSI calls 
+! 02/12/19 14:23:59! Byfthalone checks
+
+! 02/12/19 14:23:59! Pot right ($10100), flopping/dealing/drawing cards
+! 02/12/19 14:23:59! 4 players
+! 02/12/19 14:23:59! Flopped cards: 9c 4d 6c
+! 02/12/19 14:25:51! SCSI checks
+! 02/12/19 14:27:04! Byfthalone bets $6000 
+! 02/12/19 14:39:05! Sir Barlow calls 
+! 02/12/19 14:52:07! BrownTrout folds
+! 02/12/19 14:52:07! SCSI folds
+
+! 02/12/19 14:52:07! Pot right ($22100), flopping/dealing/drawing cards
+! 02/12/19 14:52:07! 2 players
+! 02/12/19 14:52:07! Flopped card: 5c
+! 02/12/19 14:53:12! Byfthalone checks
+! 02/12/19 14:55:43! Sir Barlow bets $15000 
+! 02/12/19 14:57:33! Byfthalone calls 
+
+! 02/12/19 14:57:33! Pot right ($52100), flopping/dealing/drawing cards
+! 02/12/19 14:57:33! 2 players
+! 02/12/19 14:57:33! Flopped card: Ks
+! 02/12/19 15:12:27! Byfthalone checks
+! 02/12/19 15:39:55! Sir Barlow bets $40000 
+! 02/12/19 15:40:44! Byfthalone calls 
+! Hand over, current board is:  9c 4d 6c 5c Ks
+! Byfthalone               has: 9d 6d
+! Sir Barlow               has: 8h 8d
+! Byfthalone wins $132100 (net $68800) with Two Pair (9 9 6 6 K)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Byfthalone               |  191550 |         |      |    |         |
+ 2|   BBLWOG                   |  120275 |         |      |    |         |
+ 3|   Eric Brassell            |  361900 |         |      |    |         |
+ 6|   Walter Hunt              |   57100 |         |      |    |         |
+ 7|>  Sir Barlow               |  200275 |         |      |    |         |
+ 8|   BrownTrout               |  127550 |         |      |    |         |
+ 9|D  SCSI                     |   85875 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 228 players left in the tournament, 2 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c22.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+We are 31 days into the c round.  
+There will be no more live redraws this round.  
+When any table gets down to five or fewer players the round will 
+end as all current hands finish.  Following the last hand a full
+redraw will be done to start the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 33
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

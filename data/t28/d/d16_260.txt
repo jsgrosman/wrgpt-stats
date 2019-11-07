@@ -1,0 +1,114 @@
+Subject: [d16.10102] Holdem Game Broadcast Message(*)
+
+! Table d16, Hand 260, Day 104
+
+! Big Bobby Dollar calls 
+! Pot right ($110550), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 8c
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   ADB Jaeger               |  290950 |    3600 |folded|    |         |
+ 2|>  Big Bobby Dollar         |  196350 |   50675 |      |    |         |
+ 3|   fich                     |   61475 |     400 |folded|    |         |
+ 4|   EricL                    |  172500 |     400 |folded|    |         |
+ 5|   dubldown                 |  111100 |     400 |folded|    |         |
+ 6|   Jason Feng               |       0 |   50675 |all-in|    |         |
+ 7|   rAmAk                    |  150100 |    3600 |folded|    |         |
+ 8|   TracyB                   |  122875 |     400 |folded|    |         |
+ 9|D  Daniel Levine            |   90550 |     400 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/22/19 11:02:29! Dealing a new hand
+! 02/22/19 11:02:29! Everyone antes $400
+! 02/22/19 11:02:29! ADB Jaeger blinds $1600
+! 02/22/19 11:02:29! Big Bobby Dollar blinds $3200
+! 02/22/19 11:22:07! fich folds
+! 02/22/19 12:34:25! EricL folds
+! 02/22/19 12:59:06! dubldown folds
+! 02/22/19 12:59:06! Jason Feng calls 
+! 02/22/19 16:15:09! rAmAk calls 
+! 02/22/19 16:15:09! TracyB folds
+! 02/22/19 16:15:09! Daniel Levine folds
+! 02/22/19 17:16:38! ADB Jaeger calls 
+! 02/22/19 17:31:02! Big Bobby Dollar checks
+
+! 02/22/19 17:31:02! Pot right ($16400), flopping/dealing/drawing cards
+! 02/22/19 17:31:02! 4 players
+! 02/22/19 17:31:02! Flopped cards: 3c 3s Qh
+! 02/22/19 20:21:08! ADB Jaeger checks
+! 02/22/19 20:27:08! Big Bobby Dollar bets $6000 
+! 02/22/19 20:28:35! Jason Feng calls 
+! 02/22/19 21:13:21! rAmAk folds
+! 02/23/19 03:46:44! ADB Jaeger folds
+
+! 02/23/19 03:46:44! Pot right ($28400), flopping/dealing/drawing cards
+! 02/23/19 03:46:44! 2 players
+! 02/23/19 03:46:44! Flopped card: 6h
+! 02/23/19 06:30:29! Big Bobby Dollar bets $12300 
+! 02/23/19 10:56:48! Jason Feng raises $28775 to $41075 total and is all in
+! 02/23/19 10:57:27! Big Bobby Dollar calls 
+
+! 02/23/19 10:57:27! Pot right ($110550), flopping/dealing/drawing cards
+! 02/23/19 10:57:27! 2 players, 1 all in
+! 02/23/19 10:57:27! Flopped card: 8c
+! Hand over, current board is:  3c 3s Qh 6h 8c
+! Big Bobby Dollar         has: 3h 5c
+! Jason Feng               has: Kc Qc
+! Big Bobby Dollar wins $110550 (net $59875) with Three of a Kind (3 3 3 Q 8)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  ADB Jaeger               |  290950 |         |      |    |         |
+ 2|>  Big Bobby Dollar         |  306900 |         |      |    |         |
+ 3|   fich                     |   61475 |         |      |    |         |
+ 4|   EricL                    |  172500 |         |      |    |         |
+ 5|   dubldown                 |  111100 |         |      |    |         |
+ 7|   rAmAk                    |  150100 |         |      |    |         |
+ 8|   TracyB                   |  122875 |         |      |    |         |
+ 9|   Daniel Levine            |   90550 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Jason Feng is eliminated!
+! 190 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d16.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 7
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

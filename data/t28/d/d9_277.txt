@@ -1,0 +1,110 @@
+Subject: [d9.10239] Holdem Game Broadcast Message(*)
+
+! Table d9, Hand 277, Day 108
+
+! Theodore Chipmunk checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  Polar85                  |  114650 |   20000 |      |    |         |
+ 2|   BBLWOG                   |   88175 |    3600 |folded|    |         |
+ 3|   dchizzle41               |  189875 |     400 |folded|    |         |
+ 4|   TomasL                   |  162700 |     400 |folded|    |         |
+ 5|   Ed Fernandez             |  279400 |     400 |folded|    |         |
+ 6|   WhyImHere                |  134450 |     400 |folded|    |         |
+ 7|   jasong                   |  175950 |     400 |folded|    |         |
+ 8|   Stubey                   |  327400 |       0 |New   |    |         |
+ 9|D  Theodore Chipmunk        |  135325 |   20000 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/27/19 07:58:55! Dealing a new hand
+! 02/27/19 07:58:55! Everyone antes $400
+! 02/27/19 07:58:55! Polar85 blinds $1600
+! 02/27/19 07:58:55! BBLWOG blinds $3200
+! 02/27/19 08:15:36! dchizzle41 folds
+! 02/27/19 08:26:42! TomasL folds
+! 02/27/19 08:26:42! Ed Fernandez folds
+! 02/27/19 08:26:42! WhyImHere folds
+! 02/27/19 08:26:42! jasong folds
+! 02/27/19 08:28:06! Theodore Chipmunk raises $6400 to $9600 total 
+! 02/27/19 08:55:06! New player added to the table: Stubey
+! 02/27/19 09:12:16! Polar85 calls 
+! 02/27/19 09:12:16! BBLWOG folds
+
+! 02/27/19 09:12:16! Pot right ($25600), flopping/dealing/drawing cards
+! 02/27/19 09:12:16! 2 players
+! 02/27/19 09:12:16! Flopped cards: Kh 8h 2d
+! 02/27/19 09:12:47! Polar85 checks
+! 02/27/19 09:32:11! Theodore Chipmunk checks
+
+! 02/27/19 09:32:11! Pot right ($25600), flopping/dealing/drawing cards
+! 02/27/19 09:32:11! 2 players
+! 02/27/19 09:32:11! Flopped card: Qc
+! 02/27/19 10:03:39! Polar85 checks
+! 02/27/19 10:12:33! Theodore Chipmunk bets $10000 
+! 02/27/19 10:13:30! Polar85 calls 
+
+! 02/27/19 10:13:30! Pot right ($45600), flopping/dealing/drawing cards
+! 02/27/19 10:13:30! 2 players
+! 02/27/19 10:13:30! Flopped card: As
+! 02/27/19 10:14:00! Polar85 checks
+! 02/27/19 10:14:22! Theodore Chipmunk checks
+! Hand over, current board is:  Kh 8h 2d Qc As
+! Polar85                  has: Ad 10d
+! Theodore Chipmunk        has: 7s 7h
+! Polar85 wins $45600 (net $25600) with One Pair (A A K Q 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D> Polar85                  |  160250 |         |      |    |         |
+ 2|   BBLWOG                   |   88175 |         |      |    |         |
+ 3|   dchizzle41               |  189875 |         |      |    |         |
+ 4|   TomasL                   |  162700 |         |      |    |         |
+ 5|   Ed Fernandez             |  279400 |         |      |    |         |
+ 6|   WhyImHere                |  134450 |         |      |    |         |
+ 7|   jasong                   |  175950 |         |      |    |         |
+ 8|   Stubey                   |  327400 |         |      |    |         |
+ 9|   Theodore Chipmunk        |  135325 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 174 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d9.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

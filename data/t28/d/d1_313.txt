@@ -1,0 +1,114 @@
+Subject: [d1.10595] Holdem Game Broadcast Message(*)
+
+! Table d1, Hand 313, Day 124
+
+! SunnyGirl calls 
+! JohnnyMac folds
+! Pot right ($218000), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 8s
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  rAmAk                    |  148000 |     600 |folded|    |         |
+ 2|   ADB Foldem               |  283325 |    2600 |folded|    |         |
+ 3|   BrownTrout               |       0 |   90200 |all-in|    |         |
+ 4|   MTpotts                  |   71900 |    4600 |folded|    |         |
+ 5|>  SunnyGirl                |  346400 |   90200 |      |    |         |
+ 6|   Spidurman                |  292400 |     600 |folded|    |         |
+ 7|   JohnnyMac                |  241400 |   28000 |folded|    |         |
+ 8|   Alvin Chipmunk           |  480325 |     600 |folded|    |         |
+ 9|V  TennisGeek               |  443625 |     600 |<Gone>|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/14/19 14:17:13! Dealing a new hand
+! 03/14/19 14:17:13! Everyone antes $600
+! 03/14/19 14:17:13! ADB Foldem blinds $2000
+! 03/14/19 14:17:13! BrownTrout blinds $4000
+! 03/14/19 14:49:13! MTpotts calls 
+! 03/14/19 16:57:00! SunnyGirl calls 
+! 03/14/19 16:57:00! Spidurman folds
+! 03/14/19 17:56:21! JohnnyMac raises $23400 to $27400 total 
+! 03/14/19 19:07:42! Alvin Chipmunk folds
+! 03/14/19 19:07:42! TennisGeek is on vacation and folds
+! 03/14/19 21:14:40! rAmAk folds
+! 03/14/19 21:14:40! ADB Foldem folds
+! 03/14/19 23:44:51! BrownTrout calls 
+! 03/15/19 04:51:34! MTpotts folds
+! 03/15/19 09:18:03! SunnyGirl calls 
+
+! 03/15/19 09:18:03! Pot right ($93600), flopping/dealing/drawing cards
+! 03/15/19 09:18:03! 3 players
+! 03/15/19 09:18:03! Flopped cards: 5h 8h 6h
+! 03/15/19 09:35:01! BrownTrout checks
+! 03/15/19 09:35:59! SunnyGirl checks
+! 03/15/19 09:40:47! JohnnyMac checks
+
+! 03/15/19 09:40:47! Pot right ($93600), flopping/dealing/drawing cards
+! 03/15/19 09:40:47! 3 players
+! 03/15/19 09:40:47! Flopped card: Js
+! 03/15/19 09:45:55! BrownTrout bets $62200 and is all in
+! 03/15/19 09:49:19! SunnyGirl calls 
+! 03/15/19 09:49:19! JohnnyMac folds
+
+! 03/15/19 09:49:19! Pot right ($218000), flopping/dealing/drawing cards
+! 03/15/19 09:49:19! 2 players, 1 all in
+! 03/15/19 09:49:19! Flopped card: 8s
+! Hand over, current board is:  5h 8h 6h Js 8s
+! BrownTrout               has: 4d 3d
+! SunnyGirl                has: Kh 10h
+! SunnyGirl wins $218000 (net $127800) with Heart Flush (K 10 8 6 5)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   rAmAk                    |  148000 |         |      |    |         |
+ 2|D  ADB Foldem               |  283325 |         |      |    |         |
+ 4|   MTpotts                  |   71900 |         |      |    |         |
+ 5|>  SunnyGirl                |  564400 |         |      |    |         |
+ 6|   Spidurman                |  292400 |         |      |    |         |
+ 7|   JohnnyMac                |  241400 |         |      |    |         |
+ 8|   Alvin Chipmunk           |  480325 |         |      |    |         |
+ 9|V  TennisGeek               |  443625 |         |<Gone>|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! BrownTrout is eliminated!
+! 107 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d1.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

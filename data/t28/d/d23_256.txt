@@ -1,0 +1,94 @@
+Subject: [d23.10041] Holdem Game Broadcast Message(*)
+
+! Table d23, Hand 256, Day 100
+
+! zipper folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  Joe Nadeau               |  243650 |   19900 |      |    |         |
+ 2|   Rkal                     |   87350 |     400 |folded|    |         |
+ 3|   Paul Ant                 |   44375 |     400 |folded|    |         |
+ 4|V  Billco                   |  158000 |     400 |<AWOL>|    |         |
+ 5|D  Darse Billings           |   48875 |     400 |folded|    |         |
+ 7|   EricL                    |  184500 |    2000 |folded|    |         |
+ 8|   zipper                   |   11950 |    7900 |folded|    |         |
+ 9|   Mike Litoris             |  117725 |     400 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/18/19 07:18:48! Dealing a new hand
+! 02/18/19 07:18:48! Everyone antes $400
+! 02/18/19 07:18:48! EricL blinds $1600
+! 02/18/19 07:18:48! zipper blinds $3200
+! 02/18/19 14:56:42! Mike Litoris folds
+! 02/18/19 14:58:10! Joe Nadeau raises $4300 to $7500 total 
+! 02/18/19 14:58:10! Rkal folds
+! 02/18/19 15:06:36! Paul Ant folds
+! 02/18/19 15:06:36! Billco is on vacation and folds
+! 02/19/19 03:49:42! Darse Billings folds
+! 02/19/19 03:49:42! EricL folds
+! 02/19/19 04:26:23! zipper calls 
+
+! 02/19/19 04:26:23! Pot right ($19800), flopping/dealing/drawing cards
+! 02/19/19 04:26:23! 2 players
+! 02/19/19 04:26:23! Flopped cards: 3d Kh Kd
+! 02/19/19 10:39:46! zipper checks
+! 02/19/19 10:41:14! Joe Nadeau bets $12000 
+! 02/19/19 11:52:32! zipper folds
+! Hand over, no showdown
+! Current board is:  3d Kh Kd ? ?
+! Joe Nadeau wins $31800 (net $11900)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  Joe Nadeau               |  275450 |         |      |    |         |
+ 2|   Rkal                     |   87350 |         |      |    |         |
+ 3|   Paul Ant                 |   44375 |         |      |    |         |
+ 4|V  Billco                   |  158000 |         |<AWOL>|    |         |
+ 5|   Darse Billings           |   48875 |         |      |    |         |
+ 7|D  EricL                    |  184500 |         |      |    |         |
+ 8|   zipper                   |   11950 |         |      |    |         |
+ 9|   Mike Litoris             |  117725 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 210 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d23.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 4
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

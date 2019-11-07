@@ -1,0 +1,105 @@
+Subject: [d19.10413] Holdem Game Broadcast Message(*)
+
+! Table d19, Hand 296, Day 107
+
+! TwelveSeven calls 
+! Pot right ($71550), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: Qs
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   bert_ofcl                |  213750 |     400 |folded|    |         |
+ 2|D> TwelveSeven              |  234125 |   33975 |      |    |         |
+ 5|   Ken Anderson             |  504450 |    2000 |folded|    |         |
+ 6|   zipper                   |       0 |   33975 |all-in|    |         |
+ 7|   Sir Barlow               |  128700 |     400 |folded|    |         |
+ 8|   Walter Hunt              |   68000 |     400 |folded|    |         |
+ 9|   Matt Matros              |  104550 |     400 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/26/19 12:52:11! Dealing a new hand
+! 02/26/19 12:52:11! Everyone antes $400
+! 02/26/19 12:52:11! Ken Anderson blinds $1600
+! 02/26/19 12:52:11! zipper blinds $3200
+! 02/26/19 12:52:40! Sir Barlow folds
+! 02/26/19 12:56:09! Walter Hunt folds
+! 02/26/19 12:58:10! Matt Matros folds
+! 02/26/19 12:58:10! bert_ofcl folds
+! 02/26/19 12:59:10! TwelveSeven raises $5300 to $8500 total 
+! 02/26/19 13:02:30! Ken Anderson folds
+! 02/26/19 14:16:45! zipper calls 
+
+! 02/26/19 14:16:45! Pot right ($21400), flopping/dealing/drawing cards
+! 02/26/19 14:16:45! 2 players
+! 02/26/19 14:16:45! Flopped cards: 9c 2s 8d
+! 02/26/19 14:20:10! zipper checks
+! 02/26/19 14:23:34! TwelveSeven bets $14000 
+! 02/26/19 14:50:50! zipper calls 
+
+! 02/26/19 14:50:50! Pot right ($49400), flopping/dealing/drawing cards
+! 02/26/19 14:50:50! 2 players
+! 02/26/19 14:50:50! Flopped card: 3s
+! 02/26/19 14:56:58! zipper bets $11075 and is all in
+! 02/26/19 15:06:54! TwelveSeven calls 
+
+! 02/26/19 15:06:54! Pot right ($71550), flopping/dealing/drawing cards
+! 02/26/19 15:06:54! 2 players, 1 all in
+! 02/26/19 15:06:54! Flopped card: Qs
+! Hand over, current board is:  9c 2s 8d 3s Qs
+! TwelveSeven              has: 8c 7c
+! zipper                   has: Ad Qc
+! zipper wins $71550 (net $37575) with One Pair (Q Q A 9 8)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   bert_ofcl                |  213750 |         |      |    |         |
+ 2|>  TwelveSeven              |  234125 |         |      |    |         |
+ 5|D  Ken Anderson             |  504450 |         |      |    |         |
+ 6|   zipper                   |   71550 |         |      |    |         |
+ 7|   Sir Barlow               |  128700 |         |      |    |         |
+ 8|   Walter Hunt              |   68000 |         |      |    |         |
+ 9|   Matt Matros              |  104550 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 179 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d19.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 12
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

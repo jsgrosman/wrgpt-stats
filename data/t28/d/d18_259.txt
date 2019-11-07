@@ -1,0 +1,108 @@
+Subject: [d18.10090] Holdem Game Broadcast Message(*)
+
+! Table d18, Hand 259, Day 98
+
+! StingRay folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   SCSI                     |       0 |   81475 |all-in|    |         |
+ 2|   delbaeth                 |   67400 |     300 |folded|    |         |
+ 3|>  StingRay                 |  175000 |   32100 |folded|    |         |
+ 4|   JZK                      |  175725 |     300 |folded|    |         |
+ 5|   JohnnyMac                |  122225 |     300 |folded|    |         |
+ 6|   Ryan Thomas              |  129250 |     300 |folded|    |         |
+ 7|   Dan Driscoll             |   41950 |     300 |folded|    |         |
+ 8|D  Josh Moore               |  147850 |     300 |folded|    |         |
+ 9|   Deets                    |   54500 |    1300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/16/19 19:32:29! Dealing a new hand
+! 02/16/19 19:32:29! Everyone antes $300
+! 02/16/19 19:32:29! Deets blinds $1000
+! 02/16/19 19:32:29! SCSI blinds $2000
+! 02/16/19 19:39:57! delbaeth folds
+! 02/16/19 19:44:55! StingRay raises $4800 to $6800 total 
+! 02/17/19 04:00:49! JZK folds
+! 02/17/19 04:03:20! JohnnyMac folds
+! 02/17/19 04:03:20! Ryan Thomas folds
+! 02/17/19 08:12:12! Dan Driscoll folds
+! 02/17/19 08:12:12! Josh Moore folds
+! 02/17/19 08:12:12! Deets folds
+! 02/17/19 08:14:10! SCSI calls 
+
+! 02/17/19 08:14:10! Pot right ($17300), flopping/dealing/drawing cards
+! 02/17/19 08:14:10! 2 players
+! 02/17/19 08:14:10! Flopped cards: 8s Jh 10s
+! 02/17/19 08:15:09! SCSI bets $9000 
+! 02/17/19 09:47:48! StingRay calls 
+
+! 02/17/19 09:47:48! Pot right ($35300), flopping/dealing/drawing cards
+! 02/17/19 09:47:48! 2 players
+! 02/17/19 09:47:48! Flopped card: Kd
+! 02/17/19 09:49:04! SCSI bets $16000 
+! 02/17/19 09:59:36! StingRay calls 
+
+! 02/17/19 09:59:36! Pot right ($67300), flopping/dealing/drawing cards
+! 02/17/19 09:59:36! 2 players
+! 02/17/19 09:59:36! Flopped card: 2h
+! 02/17/19 10:26:13! SCSI bets $49375 and is all in
+! 02/17/19 11:17:03! StingRay folds
+! Hand over, no showdown
+! Current board is:  8s Jh 10s Kd 2h
+! SCSI wins $116675 (net $35200)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   SCSI                     |  116675 |         |      |    |         |
+ 2|   delbaeth                 |   67400 |         |      |    |         |
+ 3|>  StingRay                 |  175000 |         |      |    |         |
+ 4|   JZK                      |  175725 |         |      |    |         |
+ 5|   JohnnyMac                |  122225 |         |      |    |         |
+ 6|   Ryan Thomas              |  129250 |         |      |    |         |
+ 7|   Dan Driscoll             |   41950 |         |      |    |         |
+ 8|   Josh Moore               |  147850 |         |      |    |         |
+ 9|D  Deets                    |   54500 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 214 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d18.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,110 @@
+Subject: [d2.10205] Holdem Game Broadcast Message(*)
+
+! Table d2, Hand 275, Day 110
+
+! Mrstcao folds
+! Pot right ($226050), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 6h
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   zzzrbt                   |       0 |   99275 |all-in|    |         |
+ 2|>  DocOber                  |  234000 |   99275 |      |    |         |
+ 3|   PMD                      |   41250 |     400 |folded|    |         |
+ 4|   SpiderTribe              |   68100 |     400 |folded|    |         |
+ 5|   Steve B                  |   88350 |     400 |folded|    |         |
+ 6|   Poker Coach              |   86100 |     400 |folded|    |         |
+ 8|D  Mrstcao                  |  346500 |   23900 |folded|    |         |
+ 9|   TrayRacer                |   92100 |    2000 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/01/19 08:46:00! Dealing a new hand
+! 03/01/19 08:46:00! Everyone antes $400
+! 03/01/19 08:46:00! TrayRacer blinds $1600
+! 03/01/19 08:46:00! zzzrbt blinds $3200
+! 03/01/19 08:55:32! DocOber raises $6300 to $9500 total 
+! 03/01/19 10:16:27! PMD folds
+! 03/01/19 10:16:27! SpiderTribe folds
+! 03/01/19 10:16:27! Steve B folds
+! 03/01/19 10:16:27! Poker Coach folds
+! 03/01/19 10:32:12! Mrstcao calls 
+! 03/01/19 10:32:12! TrayRacer folds
+! 03/01/19 11:50:48! zzzrbt calls 
+
+! 03/01/19 11:50:48! Pot right ($33300), flopping/dealing/drawing cards
+! 03/01/19 11:50:48! 3 players
+! 03/01/19 11:50:48! Flopped cards: Kh Qc 8d
+! 03/01/19 11:51:31! zzzrbt checks
+! 03/01/19 11:56:20! DocOber bets $14000 
+! 03/01/19 13:05:59! Mrstcao calls 
+! 03/01/19 13:11:58! zzzrbt calls 
+
+! 03/01/19 13:11:58! Pot right ($75300), flopping/dealing/drawing cards
+! 03/01/19 13:11:58! 3 players
+! 03/01/19 13:11:58! Flopped card: 7d
+! 03/01/19 13:27:55! zzzrbt bets $75375 and is all in
+! 03/01/19 13:43:26! DocOber calls 
+! 03/01/19 13:44:08! Mrstcao folds
+
+! 03/01/19 13:44:08! Pot right ($226050), flopping/dealing/drawing cards
+! 03/01/19 13:44:08! 2 players, 1 all in
+! 03/01/19 13:44:08! Flopped card: 6h
+! Hand over, current board is:  Kh Qc 8d 7d 6h
+! zzzrbt                   has: Jd 10d
+! DocOber                  has: Ac Kc
+! DocOber wins $226050 (net $126775) with One Pair (K K A Q 8)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|>  DocOber                  |  460050 |         |      |    |         |
+ 3|   PMD                      |   41250 |         |      |    |         |
+ 4|   SpiderTribe              |   68100 |         |      |    |         |
+ 5|   Steve B                  |   88350 |         |      |    |         |
+ 6|   Poker Coach              |   86100 |         |      |    |         |
+ 8|   Mrstcao                  |  346500 |         |      |    |         |
+ 9|D  TrayRacer                |   92100 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! zzzrbt is eliminated!
+! 164 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d2.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

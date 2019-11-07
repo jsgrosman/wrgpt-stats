@@ -1,0 +1,119 @@
+Subject: [e4.10249] Holdem Game Broadcast Message(*)
+
+% Probably a mistake.
+! -- ADB Foldem --
+_____________________________________________________________________________
+
+! Table e4, Hand 376, Day 145
+
+! ADB Foldem calls - side pot
+! Pot right ($1036625), flopping/dealing/drawing cards
+! 3 players, 3 all in
+! Flopped cards: 5c Kd 9d
+! Flopped card: 8c
+! Flopped card: 2h
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   JohnnyMac                |       0 |  242100 |all-in|  3 |  744300 |
+ 2|   Tooner                   |  297750 |    1000 |folded|    |         |
+ 3|D  AlbinoSmurf              |  893700 |    1000 |folded|    |         |
+ 4|   DaveKal                  |       0 |  513700 |all-in|  1 |  250875 |
+ 5|   heffmike                 |  549250 |   13000 |folded|    |         |
+ 6|   EWalk                    |  204550 |    1000 |folded|    |         |
+ 7|   TennisGeek               |   73375 |    1000 |folded|    |         |
+ 8|   CAB                      |  316125 |    1000 |folded|    |         |
+ 9|>  ADB Foldem               |       0 |  262825 |all-in|  2 |   41450 |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 04/05/19 07:49:33! Dealing a new hand
+! 04/05/19 07:49:33! Everyone antes $1000
+! 04/05/19 07:49:33! DaveKal blinds $6000
+! 04/05/19 07:49:33! heffmike blinds $12000
+! 04/05/19 08:44:43! EWalk folds
+! 04/05/19 08:44:43! TennisGeek folds
+! 04/05/19 09:33:32! CAB folds
+! 04/05/19 11:04:30! ADB Foldem raises $18000 to $30000 total 
+! 04/05/19 11:35:23! JohnnyMac raises $211100 to $241100 total and is all in
+! 04/05/19 12:10:56! Tooner folds
+! 04/05/19 12:18:14! AlbinoSmurf folds
+! 04/05/19 12:18:14! DaveKal raises $271600 to $512700 total and is all in
+! 04/05/19 12:24:09! heffmike folds
+_____________________________________________________________________________
+
+! Probably a mistake.
+! -- ADB Foldem --
+_____________________________________________________________________________
+
+! 04/05/19 12:27:24! ADB Foldem calls - side pot
+
+! 04/05/19 12:27:24! Pot right ($1036625), flopping/dealing/drawing cards
+! 04/05/19 12:27:24! 3 players, 3 all in
+! 04/05/19 12:27:24! Flopped cards: 5c Kd 9d
+! 04/05/19 12:27:24! Flopped card: 8c
+! 04/05/19 12:27:24! Flopped card: 2h
+! Hand over, current board is:  5c Kd 9d 8c 2h
+! JohnnyMac                has: 4h Ad
+! DaveKal                  has: Ah Ac
+! ADB Foldem               has: 10s 10d
+! Pot 1: uncalled $250875 returned to DaveKal
+! Pot 2: DaveKal wins $41450 with One Pair (A A K 9 8)
+! Pot 3: DaveKal wins $744300 with One Pair (A A K 9 8)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|   Tooner                   |  297750 |         |      |    |         |
+ 3|   AlbinoSmurf              |  893700 |         |      |    |         |
+ 4|D  DaveKal                  | 1036625 |         |      |    |         |
+ 5|   heffmike                 |  549250 |         |      |    |         |
+ 6|   EWalk                    |  204550 |         |      |    |         |
+ 7|   TennisGeek               |   73375 |         |      |    |         |
+ 8|   CAB                      |  316125 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! JohnnyMac is eliminated!
+! ADB Foldem is eliminated!
+! 60 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/e/e4.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+We are down to few enough tables that players
+may be moved to rebalance tables when there
+are not enough empty seats to break a table.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 1
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

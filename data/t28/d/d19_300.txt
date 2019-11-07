@@ -1,0 +1,116 @@
+Subject: [d19.10457] Holdem Game Broadcast Message(*)
+
+! Table d19, Hand 300, Day 108
+
+! Fish Doctor calls 
+! Pot right ($136200), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: Qh
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   bert_ofcl                |  208950 |    3600 |folded|    |         |
+ 2|   TwelveSeven              |  232525 |     400 |folded|    |         |
+ 3|   David Kuznick            |  115900 |     400 |folded|    |         |
+ 4|>  Fish Doctor              |   85775 |   59250 |      |    |         |
+ 5|   Ken Anderson             |  495350 |     400 |folded|    |         |
+ 6|V  zipper                   |  144300 |     400 |<AWOL>|    |         |
+ 7|   Sir Barlow               |       0 |   59250 |all-in|    |         |
+ 8|D  Walter Hunt              |   61600 |     400 |folded|    |         |
+ 9|   Matt Matros              |  107450 |   12100 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/27/19 13:11:11! Dealing a new hand
+! 02/27/19 13:11:11! Everyone antes $400
+! 02/27/19 13:11:11! Matt Matros blinds $1600
+! 02/27/19 13:11:11! bert_ofcl blinds $3200
+! 02/27/19 13:36:07! TwelveSeven folds
+! 02/27/19 13:36:07! David Kuznick folds
+! 02/27/19 14:06:32! Fish Doctor calls 
+! 02/27/19 14:06:32! Ken Anderson folds
+! 02/27/19 14:06:32! zipper is on vacation and folds
+! 02/27/19 14:08:06! Sir Barlow calls 
+! 02/27/19 14:08:06! Walter Hunt folds
+! 02/27/19 14:12:48! Matt Matros calls 
+! 02/27/19 14:12:48! bert_ofcl checks
+
+! 02/27/19 14:12:48! Pot right ($16400), flopping/dealing/drawing cards
+! 02/27/19 14:12:48! 4 players
+! 02/27/19 14:12:48! Flopped cards: 3d Kc 3c
+! 02/27/19 14:13:33! Matt Matros checks
+! 02/27/19 14:13:33! bert_ofcl checks
+! 02/27/19 14:25:46! Fish Doctor checks
+! 02/27/19 15:16:03! Sir Barlow checks
+
+! 02/27/19 15:16:03! Pot right ($16400), flopping/dealing/drawing cards
+! 02/27/19 15:16:03! 4 players
+! 02/27/19 15:16:03! Flopped card: 6d
+! 02/27/19 15:18:46! Matt Matros bets $8500 
+! 02/27/19 15:18:46! bert_ofcl folds
+! 02/27/19 16:02:35! Fish Doctor calls 
+! 02/27/19 16:21:36! Sir Barlow raises $47150 to $55650 total and is all in
+! 02/27/19 16:22:21! Matt Matros folds
+! 02/27/19 16:23:33! Fish Doctor calls 
+
+! 02/27/19 16:23:33! Pot right ($136200), flopping/dealing/drawing cards
+! 02/27/19 16:23:33! 2 players, 1 all in
+! 02/27/19 16:23:33! Flopped card: Qh
+! Hand over, current board is:  3d Kc 3c 6d Qh
+! Fish Doctor              has: Ks 3s
+! Sir Barlow               has: Qs Qc
+! Sir Barlow wins $136200 (net $76950) with Full House (Q Q Q 3 3)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   bert_ofcl                |  208950 |         |      |    |         |
+ 2|   TwelveSeven              |  232525 |         |      |    |         |
+ 3|   David Kuznick            |  115900 |         |      |    |         |
+ 4|>  Fish Doctor              |   85775 |         |      |    |         |
+ 5|   Ken Anderson             |  495350 |         |      |    |         |
+ 6|V  zipper                   |  144300 |         |<AWOL>|    |         |
+ 7|   Sir Barlow               |  136200 |         |      |    |         |
+ 8|   Walter Hunt              |   61600 |         |      |    |         |
+ 9|D  Matt Matros              |  107450 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 173 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d19.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,107 @@
+Subject: [c29.10600] Holdem Game Broadcast Message(*)
+
+! Table c29, Hand 197, Day 94
+
+! jasong folds
+! Pot right ($91450), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped cards: 6c 3c Jc
+! Flopped card: 9d
+! Flopped card: 2d
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   ChipRider                |   76200 |    4600 |folded|    |         |
+ 2|   tarigojaergihioahdged    |  110750 |     300 |folded|    |         |
+ 3|   jasong                   |  169250 |    4600 |folded|    |         |
+ 4|   Pooper                   |   54050 |     300 |folded|    |         |
+ 5|D  I_Bluff_Rivers           |       0 |   38875 |all-in|    |         |
+ 6|   sendlo                   |   67100 |    1300 |folded|    |         |
+ 7|   Isaac Newton             |   64925 |    2300 |folded|    |         |
+ 8|   TomasL                   |  211500 |     300 |folded|    |         |
+ 9|>  BillB                    |   36775 |   38875 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/12/19 15:04:47! Dealing a new hand
+! 02/12/19 15:04:47! Everyone antes $300
+! 02/12/19 15:04:47! sendlo blinds $1000
+! 02/12/19 15:04:47! Isaac Newton blinds $2000
+! 02/12/19 21:11:39! TomasL folds
+! 02/12/19 21:30:10! BillB raises $2300 to $4300 total 
+! 02/13/19 04:17:12! ChipRider calls 
+! 02/13/19 04:17:12! tarigojaergihioahdged folds
+! 02/13/19 05:01:43! jasong calls 
+! 02/13/19 05:01:43! Pooper folds
+! 02/13/19 06:38:15! I_Bluff_Rivers raises $34275 to $38575 total and is all in
+! 02/13/19 08:26:37! sendlo folds
+! 02/13/19 09:42:23! Isaac Newton folds
+! 02/13/19 10:10:55! BillB calls 
+! 02/13/19 10:12:40! ChipRider folds
+! 02/13/19 10:32:42! jasong folds
+
+! 02/13/19 10:32:42! Pot right ($91450), flopping/dealing/drawing cards
+! 02/13/19 10:32:42! 2 players, 1 all in
+! 02/13/19 10:32:42! Flopped cards: 6c 3c Jc
+! 02/13/19 10:32:42! Flopped card: 9d
+! 02/13/19 10:32:42! Flopped card: 2d
+! Hand over, current board is:  6c 3c Jc 9d 2d
+! I_Bluff_Rivers           has: As Qd
+! BillB                    has: 10s Ac
+! I_Bluff_Rivers wins $91450 (net $52575) with No Pair (A Q J 9 6)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   ChipRider                |   76200 |         |      |    |         |
+ 2|   tarigojaergihioahdged    |  110750 |         |      |    |         |
+ 3|   jasong                   |  169250 |         |      |    |         |
+ 4|   Pooper                   |   54050 |         |      |    |         |
+ 5|   I_Bluff_Rivers           |   91450 |         |      |    |         |
+ 6|D  sendlo                   |   67100 |         |      |    |         |
+ 7|   Isaac Newton             |   64925 |         |      |    |         |
+ 8|   TomasL                   |  211500 |         |      |    |         |
+ 9|>  BillB                    |   36775 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 223 players left in the tournament 
+! Table finished, waiting to redraw seats.
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c29.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+The c round is ending.  Finish your current hand so
+that the new d round can be drawn.
+Thanks.  Good luck.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 38
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

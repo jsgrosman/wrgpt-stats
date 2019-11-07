@@ -1,0 +1,111 @@
+Subject: [d3.10253] Holdem Game Broadcast Message(*)
+
+! Table d3, Hand 274, Day 105
+
+! Camo checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Brian Crowley            |  478525 |     400 |folded|    |         |
+ 2|   drjeys                   |  274550 |     400 |folded|    |         |
+ 3|   Ben Buchwald             |  181525 |   13200 |      |    |         |
+ 5|V  Diputsur                 |   21825 |     400 |<AWOL>|    |         |
+ 6|   CAB                      |  295625 |     400 |folded|    |         |
+ 7|D  Camo                     |   96425 |   13200 |      |    |         |
+ 8|   What Beats What Again    |   42700 |    2000 |folded|    |         |
+ 9|>  Mike Litoris             |  237575 |   13200 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/23/19 08:54:35! Dealing a new hand
+! 02/23/19 08:54:35! Everyone antes $400
+! 02/23/19 08:54:35! What Beats What Again blinds $1600
+! 02/23/19 08:54:35! Mike Litoris blinds $3200
+! 02/23/19 09:56:35! Brian Crowley folds
+! 02/23/19 09:56:35! drjeys folds
+! 02/23/19 17:25:44! Ben Buchwald raises $3200 to $6400 total 
+! 02/23/19 17:25:44! Diputsur is on vacation and folds
+! 02/23/19 17:25:44! CAB folds
+! 02/23/19 17:34:58! Camo calls 
+! 02/23/19 18:12:21! What Beats What Again folds
+! 02/23/19 18:28:21! Mike Litoris calls 
+
+! 02/23/19 18:28:21! Pot right ($24000), flopping/dealing/drawing cards
+! 02/23/19 18:28:21! 3 players
+! 02/23/19 18:28:21! Flopped cards: 9c 4s 10d
+! 02/23/19 19:02:32! Mike Litoris checks
+! 02/24/19 05:49:44! Ben Buchwald checks
+! 02/24/19 08:25:01! Camo checks
+
+! 02/24/19 08:25:01! Pot right ($24000), flopping/dealing/drawing cards
+! 02/24/19 08:25:01! 3 players
+! 02/24/19 08:25:01! Flopped card: 8d
+! 02/24/19 09:07:50! Mike Litoris checks
+! 02/24/19 09:08:48! Ben Buchwald bets $6400 
+! 02/24/19 09:22:08! Camo calls 
+! 02/24/19 09:36:23! Mike Litoris calls 
+
+! 02/24/19 09:36:23! Pot right ($43200), flopping/dealing/drawing cards
+! 02/24/19 09:36:23! 3 players
+! 02/24/19 09:36:23! Flopped card: 8s
+! 02/24/19 09:37:06! Mike Litoris checks
+! 02/24/19 12:41:04! Ben Buchwald checks
+! 02/24/19 12:44:59! Camo checks
+! Hand over, current board is:  9c 4s 10d 8d 8s
+! Ben Buchwald             has: As Jh
+! Camo                     has: Qd Ac
+! Mike Litoris             has: Qh 4d
+! Mike Litoris wins $43200 (net $30000) with Two Pair (8 8 4 4 Q)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Brian Crowley            |  478525 |         |      |    |         |
+ 2|   drjeys                   |  274550 |         |      |    |         |
+ 3|   Ben Buchwald             |  181525 |         |      |    |         |
+ 5|V  Diputsur                 |   21825 |         |<AWOL>|    |         |
+ 6|   CAB                      |  295625 |         |      |    |         |
+ 7|   Camo                     |   96425 |         |      |    |         |
+ 8|D  What Beats What Again    |   42700 |         |      |    |         |
+ 9|>  Mike Litoris             |  280775 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 188 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d3.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 10
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

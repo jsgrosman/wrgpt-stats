@@ -1,0 +1,108 @@
+Subject: [d16.10052] Holdem Game Broadcast Message(*)
+
+! Table d16, Hand 256, Day 101
+
+! rAmAk folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   ADB Jaeger               |  132950 |     400 |folded|    |         |
+ 2|   Big Bobby Dollar         |  311675 |     400 |folded|    |         |
+ 3|   fich                     |   63075 |     400 |folded|    |         |
+ 4|   Xaralambous              |   27850 |     400 |folded|    |         |
+ 5|D  dubldown                 |  104700 |     400 |folded|    |         |
+ 6|>  Jason Feng               |   36875 |    8600 |      |    |         |
+ 7|   rAmAk                    |   63850 |    3600 |folded|    |         |
+ 8|   TracyB                   |  263625 |     400 |folded|    |         |
+ 9|   Daniel Levine            |  113950 |     400 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/19/19 11:00:07! Dealing a new hand
+! 02/19/19 11:00:07! Everyone antes $400
+! 02/19/19 11:00:07! Jason Feng blinds $1600
+! 02/19/19 11:00:07! rAmAk blinds $3200
+! 02/19/19 13:37:51! TracyB folds
+! 02/19/19 13:37:51! Daniel Levine folds
+! 02/19/19 18:19:14! ADB Jaeger folds
+! 02/19/19 18:24:19! Big Bobby Dollar folds
+! 02/19/19 18:24:19! fich folds
+! 02/19/19 23:39:47! Xaralambous folds
+! 02/20/19 05:41:23! dubldown folds
+! 02/20/19 05:41:23! Jason Feng calls 
+! 02/20/19 05:49:43! rAmAk checks
+
+! 02/20/19 05:49:43! Pot right ($10000), flopping/dealing/drawing cards
+! 02/20/19 05:49:43! 2 players
+! 02/20/19 05:49:43! Flopped cards: 5h 8h Qd
+! 02/20/19 09:51:15! Jason Feng checks
+! 02/20/19 09:53:20! rAmAk checks
+
+! 02/20/19 09:53:20! Pot right ($10000), flopping/dealing/drawing cards
+! 02/20/19 09:53:20! 2 players
+! 02/20/19 09:53:20! Flopped card: 4c
+! 02/20/19 10:21:33! Jason Feng checks
+! 02/20/19 10:58:48! rAmAk checks
+
+! 02/20/19 10:58:48! Pot right ($10000), flopping/dealing/drawing cards
+! 02/20/19 10:58:48! 2 players
+! 02/20/19 10:58:48! Flopped card: 7d
+! 02/20/19 11:13:05! Jason Feng bets $5000 
+! 02/20/19 11:38:57! rAmAk folds
+! Hand over, no showdown
+! Current board is:  5h 8h Qd 4c 7d
+! Jason Feng wins $15000 (net $6400)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   ADB Jaeger               |  132950 |         |      |    |         |
+ 2|   Big Bobby Dollar         |  311675 |         |      |    |         |
+ 3|   fich                     |   63075 |         |      |    |         |
+ 4|   Xaralambous              |   27850 |         |      |    |         |
+ 5|   dubldown                 |  104700 |         |      |    |         |
+ 6|D> Jason Feng               |   51875 |         |      |    |         |
+ 7|   rAmAk                    |   63850 |         |      |    |         |
+ 8|   TracyB                   |  263625 |         |      |    |         |
+ 9|   Daniel Levine            |  113950 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 206 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d16.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 12
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,115 @@
+Subject: [d14.10072] Holdem Game Broadcast Message(*)
+
+! Table d14, Hand 258, Day 99
+
+! Richard Rognlie checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   SmBoatDrinks             |  200175 |    8300 |folded|    |         |
+ 2|   bluecandy                |   44250 |    2300 |folded|    |         |
+ 3|   DotMatrix                |   18750 |     300 |folded|    |         |
+ 4|>  Barton                   |  242400 |   48075 |      |    |         |
+ 5|   Bob R                    |  185625 |     300 |folded|    |         |
+ 6|   Endrju                   |  140800 |     300 |folded|    |         |
+ 7|D  Richard Rognlie          |  109550 |   48075 |      |    |         |
+ 8|   Ira Agins                |   61850 |    1300 |folded|    |         |
+ 9|   Stephen Mack             |  119725 |    2300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/17/19 20:31:21! Dealing a new hand
+! 02/17/19 20:31:21! Everyone antes $300
+! 02/17/19 20:31:21! Ira Agins blinds $1000
+! 02/17/19 20:31:21! Stephen Mack blinds $2000
+! 02/17/19 20:32:37! SmBoatDrinks calls 
+! 02/17/19 23:19:09! bluecandy calls 
+! 02/18/19 08:05:52! DotMatrix folds
+! 02/18/19 08:12:24! Barton raises $6000 to $8000 total 
+! 02/18/19 08:12:24! Bob R folds
+! 02/18/19 08:54:51! Endrju folds
+! 02/18/19 10:35:04! Richard Rognlie calls 
+! 02/18/19 10:35:04! Ira Agins folds
+! 02/18/19 10:42:09! Stephen Mack folds
+! 02/18/19 10:52:03! SmBoatDrinks calls 
+! 02/18/19 10:52:03! bluecandy folds
+
+! 02/18/19 10:52:03! Pot right ($31700), flopping/dealing/drawing cards
+! 02/18/19 10:52:03! 3 players
+! 02/18/19 10:52:03! Flopped cards: Kh 5c 5s
+! 02/18/19 14:16:16! SmBoatDrinks checks
+! 02/18/19 14:52:31! Barton bets $12775 
+! 02/18/19 15:42:29! Richard Rognlie calls 
+! 02/18/19 15:43:48! SmBoatDrinks folds
+
+! 02/18/19 15:43:48! Pot right ($57250), flopping/dealing/drawing cards
+! 02/18/19 15:43:48! 2 players
+! 02/18/19 15:43:48! Flopped card: 6d
+! 02/18/19 16:20:08! Barton checks
+! 02/18/19 17:47:31! Richard Rognlie bets $27000 
+! 02/18/19 18:41:23! Barton calls 
+
+! 02/18/19 18:41:23! Pot right ($111250), flopping/dealing/drawing cards
+! 02/18/19 18:41:23! 2 players
+! 02/18/19 18:41:23! Flopped card: 8h
+! 02/18/19 18:42:28! Barton checks
+! 02/18/19 19:15:04! Richard Rognlie checks
+! Hand over, current board is:  Kh 5c 5s 6d 8h
+! Barton                   has: 9h 9d
+! Richard Rognlie          has: Ks Qh
+! Richard Rognlie wins $111250 (net $63175) with Two Pair (K K 5 5 Q)
+! Antes and blinds go up
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   SmBoatDrinks             |  200175 |         |      |    |         |
+ 2|   bluecandy                |   44250 |         |      |    |         |
+ 3|   DotMatrix                |   18750 |         |      |    |         |
+ 4|>  Barton                   |  242400 |         |      |    |         |
+ 5|   Bob R                    |  185625 |         |      |    |         |
+ 6|   Endrju                   |  140800 |         |      |    |         |
+ 7|   Richard Rognlie          |  220800 |         |      |    |         |
+ 8|D  Ira Agins                |   61850 |         |      |    |         |
+ 9|   Stephen Mack             |  119725 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 212 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d14.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 3
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,113 @@
+Subject: [d19.10056] Holdem Game Broadcast Message(*)
+
+! Table d19, Hand 256, Day 97
+
+! Ken Anderson calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   bert_ofcl                |   68450 |     300 |folded|    |         |
+ 2|   TwelveSeven              |  231100 |    5800 |folded|    |         |
+ 3|   Rollo                    |   25950 |     300 |folded|    |         |
+ 4|   The Rabid Moose          |   53225 |     300 |folded|    |         |
+ 5|D  Ken Anderson             |  374550 |   38300 |      |    |         |
+ 6|   Mike B                   |   32900 |    1300 |folded|    |         |
+ 7|>  Sir Barlow               |  150175 |   38300 |      |    |         |
+ 8|   Walter Hunt              |   55300 |     300 |folded|    |         |
+ 9|   Matt Matros              |  187775 |     300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/15/19 16:25:11! Dealing a new hand
+! 02/15/19 16:25:11! Everyone antes $300
+! 02/15/19 16:25:11! Mike B blinds $1000
+! 02/15/19 16:25:11! Sir Barlow blinds $2000
+! 02/15/19 16:31:25! Walter Hunt folds
+! 02/15/19 16:35:53! Matt Matros folds
+! 02/15/19 16:35:53! bert_ofcl folds
+! 02/15/19 17:19:12! TwelveSeven raises $3500 to $5500 total 
+! 02/15/19 20:03:51! Rollo folds
+! 02/15/19 20:03:51! The Rabid Moose folds
+! 02/15/19 20:03:51! Ken Anderson calls 
+! 02/15/19 20:03:51! Mike B folds
+! 02/15/19 20:40:01! Sir Barlow calls 
+
+! 02/15/19 20:40:01! Pot right ($20200), flopping/dealing/drawing cards
+! 02/15/19 20:40:01! 3 players
+! 02/15/19 20:40:01! Flopped cards: Qh Jd 10d
+! 02/15/19 20:40:55! Sir Barlow checks
+! 02/15/19 20:41:31! TwelveSeven checks
+! 02/15/19 21:25:49! Ken Anderson bets $12500 
+! 02/16/19 07:42:21! Sir Barlow calls 
+! 02/16/19 08:54:40! TwelveSeven folds
+
+! 02/16/19 08:54:40! Pot right ($45200), flopping/dealing/drawing cards
+! 02/16/19 08:54:40! 2 players
+! 02/16/19 08:54:40! Flopped card: Ac
+! 02/16/19 10:59:26! Sir Barlow bets $10000 
+! 02/16/19 10:59:26! Ken Anderson calls 
+
+! 02/16/19 10:59:26! Pot right ($65200), flopping/dealing/drawing cards
+! 02/16/19 10:59:26! 2 players
+! 02/16/19 10:59:26! Flopped card: Qc
+! 02/16/19 11:00:05! Sir Barlow bets $10000 
+! 02/16/19 11:08:29! Ken Anderson calls 
+! Hand over, current board is:  Qh Jd 10d Ac Qc
+! Ken Anderson             has: Ad 6c
+! Sir Barlow               has: Ah 2h
+! Ken Anderson wins $42600 (net $4300) with Two Pair (A A Q Q J)
+! Sir Barlow wins $42600 (net $4300) with Two Pair (A A Q Q J)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   bert_ofcl                |   68450 |         |      |    |         |
+ 2|   TwelveSeven              |  231100 |         |      |    |         |
+ 3|   Rollo                    |   25950 |         |      |    |         |
+ 4|   The Rabid Moose          |   53225 |         |      |    |         |
+ 5|   Ken Anderson             |  417150 |         |      |    |         |
+ 6|D  Mike B                   |   32900 |         |      |    |         |
+ 7|>  Sir Barlow               |  192775 |         |      |    |         |
+ 8|   Walter Hunt              |   55300 |         |      |    |         |
+ 9|   Matt Matros              |  187775 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 218 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d19.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 5
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,112 @@
+Subject: [d16.10264] Holdem Game Broadcast Message(*)
+
+! Table d16, Hand 274, Day 114
+
+! rAmAk bets $15000 
+! dubldown folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   ADB Jaeger               |  225550 |     600 |folded|    |         |
+ 2|   Big Bobby Dollar         |  365900 |     600 |folded|    |         |
+ 3|   fich                     |   75875 |     600 |folded|    |         |
+ 4|   EricL                    |  191300 |     600 |folded|    |         |
+ 5|D  dubldown                 |  127650 |   30000 |folded|    |         |
+ 6|   Larry W                  |   92825 |   12000 |folded|    |         |
+ 7|>  rAmAk                    |  117700 |   45000 |      |    |         |
+ 8|   TracyB                   |  157275 |     600 |folded|    |         |
+ 9|   Sir Barlow               |   97400 |     600 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/04/19 15:29:25! Dealing a new hand
+! 03/04/19 15:29:25! Everyone antes $600
+! 03/04/19 15:29:25! Larry W blinds $2000
+! 03/04/19 15:29:25! rAmAk blinds $4000
+! 03/04/19 16:06:49! TracyB folds
+! 03/04/19 16:10:22! Sir Barlow folds
+! 03/04/19 16:28:17! ADB Jaeger folds
+! 03/04/19 16:30:19! Big Bobby Dollar folds
+! 03/04/19 16:59:25! fich folds
+! 03/04/19 18:06:15! EricL folds
+! 03/04/19 18:53:32! dubldown raises $7400 to $11400 total 
+! 03/04/19 22:46:24! Larry W calls 
+! 03/04/19 23:38:12! rAmAk calls 
+
+! 03/04/19 23:38:12! Pot right ($39600), flopping/dealing/drawing cards
+! 03/04/19 23:38:12! 3 players
+! 03/04/19 23:38:12! Flopped cards: Jc 2c 5d
+! 03/04/19 23:47:19! Larry W checks
+! 03/05/19 02:48:35! rAmAk bets $6000 
+! 03/05/19 03:52:30! dubldown raises $12000 to $18000 total 
+! 03/05/19 07:13:14! Larry W folds
+! 03/05/19 07:44:07! rAmAk calls 
+
+! 03/05/19 07:44:07! Pot right ($75600), flopping/dealing/drawing cards
+! 03/05/19 07:44:07! 2 players
+! 03/05/19 07:44:07! Flopped card: 4s
+! 03/05/19 07:44:54! rAmAk checks
+! 03/05/19 11:46:02! dubldown checks
+
+! 03/05/19 11:46:02! Pot right ($75600), flopping/dealing/drawing cards
+! 03/05/19 11:46:02! 2 players
+! 03/05/19 11:46:02! Flopped card: 2h
+! 03/05/19 11:49:25! rAmAk bets $15000 
+! 03/05/19 11:49:25! dubldown folds
+! Hand over, no showdown
+! Current board is:  Jc 2c 5d 4s 2h
+! rAmAk wins $90600 (net $45600)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   ADB Jaeger               |  225550 |         |      |    |         |
+ 2|   Big Bobby Dollar         |  365900 |         |      |    |         |
+ 3|   fich                     |   75875 |         |      |    |         |
+ 4|   EricL                    |  191300 |         |      |    |         |
+ 5|   dubldown                 |  127650 |         |      |    |         |
+ 6|D  Larry W                  |   92825 |         |      |    |         |
+ 7|>  rAmAk                    |  208300 |         |      |    |         |
+ 8|   TracyB                   |  157275 |         |      |    |         |
+ 9|   Sir Barlow               |   97400 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! dubldown timed out during this hand
+! 145 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d16.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

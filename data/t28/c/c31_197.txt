@@ -1,0 +1,107 @@
+Subject: [c31.10622] Holdem Game Broadcast Message(*)
+
+! Table c31, Hand 197, Day 86
+
+! BigBlind folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Swamper_Shirley          |   48825 |     300 |folded|    |         |
+ 2|   D-man                    |       0 |   99600 |all-in|    |         |
+ 3|   Isaac Newton             |   85525 |     300 |folded|    |         |
+ 4|   zipper                   |   28250 |       0 |New   |    |         |
+ 5|>  BigBlind                 |   59650 |   72200 |folded|    |         |
+ 6|D  feodor                   |  170700 |     300 |folded|    |         |
+ 7|   TomnyO                   |   47825 |    1300 |folded|    |         |
+ 8|   TennisGeek               |  218025 |    2300 |folded|    |         |
+ 9|   SCSI                     |   81875 |     300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/05/19 06:03:08! Dealing a new hand
+! 02/05/19 06:03:08! Everyone antes $300
+! 02/05/19 06:03:08! TomnyO blinds $1000
+! 02/05/19 06:03:08! TennisGeek blinds $2000
+! 02/05/19 06:23:54! SCSI folds
+! 02/05/19 06:25:54! Swamper_Shirley folds
+! 02/05/19 06:55:11! New player added to the table: zipper
+! 02/05/19 07:27:37! D-man raises $3500 to $5500 total 
+! 02/05/19 07:27:37! Isaac Newton folds
+! 02/05/19 07:37:29! BigBlind calls 
+! 02/05/19 07:37:29! feodor folds
+! 02/05/19 08:31:55! TomnyO folds
+! 02/05/19 08:32:27! TennisGeek folds
+
+! 02/05/19 08:32:27! Pot right ($16400), flopping/dealing/drawing cards
+! 02/05/19 08:32:27! 2 players
+! 02/05/19 08:32:27! Flopped cards: 5d Js Qs
+! 02/05/19 10:15:15! D-man bets $16400 
+! 02/05/19 10:37:36! BigBlind calls 
+
+! 02/05/19 10:37:36! Pot right ($49200), flopping/dealing/drawing cards
+! 02/05/19 10:37:36! 2 players
+! 02/05/19 10:37:36! Flopped card: 4h
+! 02/05/19 11:37:51! D-man bets $50000 
+! 02/05/19 11:43:25! BigBlind calls 
+
+! 02/05/19 11:43:25! Pot right ($149200), flopping/dealing/drawing cards
+! 02/05/19 11:43:25! 2 players
+! 02/05/19 11:43:25! Flopped card: 8h
+! 02/05/19 11:45:24! D-man bets $27400 and is all in
+! 02/05/19 11:48:03! BigBlind folds
+! Hand over, no showdown
+! Current board is:  5d Js Qs 4h 8h
+! D-man wins $176600 (net $77000)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Swamper_Shirley          |   48825 |         |      |    |         |
+ 2|   D-man                    |  176600 |         |      |    |         |
+ 3|   Isaac Newton             |   85525 |         |      |    |         |
+ 4|   zipper                   |   28250 |         |      |    |         |
+ 5|>  BigBlind                 |   59650 |         |      |    |         |
+ 6|   feodor                   |  170700 |         |      |    |         |
+ 7|D  TomnyO                   |   47825 |         |      |    |         |
+ 8|   TennisGeek               |  218025 |         |      |    |         |
+ 9|   SCSI                     |   81875 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 264 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c31.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 5
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

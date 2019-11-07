@@ -1,0 +1,109 @@
+Subject: [d11.10133] Holdem Game Broadcast Message(*)
+
+! Table d11, Hand 262, Day 101
+
+! Sam Parazette calls 
+! Pot right ($71000), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: Jh
+! Flopped card: 7h
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Chris Danek              |  163200 |     400 |folded|    |         |
+ 2|D  Mark Ballinger           |   63950 |     400 |folded|    |         |
+ 3|>  Sam Parazette            |  153100 |   30900 |      |    |         |
+ 4|   Russ Bryan               |   60300 |    3600 |folded|    |         |
+ 5|   Morgan                   |  128550 |     400 |folded|    |         |
+ 6|   Krushinski               |       0 |   30900 |all-in|    |         |
+ 7|   Mother Speaks            |   65050 |     400 |folded|    |         |
+ 8|   BaconPancakes            |   52750 |     400 |folded|    |         |
+ 9|   SteedCarson              |  298900 |    3600 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/20/19 10:47:50! Dealing a new hand
+! 02/20/19 10:47:50! Everyone antes $400
+! 02/20/19 10:47:50! Sam Parazette blinds $1600
+! 02/20/19 10:47:50! Russ Bryan blinds $3200
+! 02/20/19 11:20:01! Morgan folds
+! 02/20/19 14:15:07! Krushinski calls 
+! 02/20/19 14:15:07! Mother Speaks folds
+! 02/20/19 14:15:07! BaconPancakes folds
+! 02/20/19 14:37:12! SteedCarson calls 
+! 02/20/19 14:37:12! Chris Danek folds
+! 02/20/19 14:37:12! Mark Ballinger folds
+! 02/20/19 14:49:28! Sam Parazette calls 
+! 02/20/19 15:01:51! Russ Bryan checks
+
+! 02/20/19 15:01:51! Pot right ($16400), flopping/dealing/drawing cards
+! 02/20/19 15:01:51! 4 players
+! 02/20/19 15:01:51! Flopped cards: 2h 9d 7c
+! 02/20/19 15:03:30! Sam Parazette bets $15000 
+! 02/20/19 15:04:56! Russ Bryan folds
+! 02/20/19 15:54:46! Krushinski raises $12300 to $27300 total and is all in
+! 02/20/19 16:40:17! SteedCarson folds
+! 02/20/19 16:51:32! Sam Parazette calls 
+
+! 02/20/19 16:51:32! Pot right ($71000), flopping/dealing/drawing cards
+! 02/20/19 16:51:32! 2 players, 1 all in
+! 02/20/19 16:51:32! Flopped card: Jh
+! 02/20/19 16:51:32! Flopped card: 7h
+! Hand over, current board is:  2h 9d 7c Jh 7h
+! Sam Parazette            has: 6s Kd
+! Krushinski               has: 8d 6d
+! Sam Parazette wins $71000 (net $40100) with One Pair (7 7 K J 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Chris Danek              |  163200 |         |      |    |         |
+ 2|   Mark Ballinger           |   63950 |         |      |    |         |
+ 3|D> Sam Parazette            |  224100 |         |      |    |         |
+ 4|   Russ Bryan               |   60300 |         |      |    |         |
+ 5|   Morgan                   |  128550 |         |      |    |         |
+ 7|   Mother Speaks            |   65050 |         |      |    |         |
+ 8|   BaconPancakes            |   52750 |         |      |    |         |
+ 9|   SteedCarson              |  298900 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Krushinski is eliminated!
+! 204 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d11.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 13
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

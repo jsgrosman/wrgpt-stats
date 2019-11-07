@@ -1,0 +1,102 @@
+Subject: [d9.10534] Holdem Game Broadcast Message(*)
+
+! Table d9, Hand 302, Day 123
+
+! Stubey folds
+! Pot right ($1070450), flopping/dealing/drawing cards
+! 3 players, 3 all in
+! Flopped cards: 3c 3h Kd
+! Flopped card: 7h
+! Flopped card: 4d
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Polar85                  |       0 |   64250 |all-in|  4 |  259400 |
+ 2|   BBLWOG                   |  167375 |     600 |folded|    |         |
+ 3|   dchizzle41               |  193575 |     600 |folded|    |         |
+ 5|   Ed Fernandez             |  578425 |     600 |folded|    |         |
+ 6|   delbaeth                 |  209200 |     600 |folded|    |         |
+ 7|   jasong                   |       0 |   83350 |all-in|  3 |   57300 |
+ 8|D> Stubey                   |  377800 |   83350 |folded|    |         |
+ 9|   Steve Zagieboylo         |       0 |  837100 |all-in|  1 |  753750 |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/13/19 18:05:11! Dealing a new hand
+! 03/13/19 18:05:11! Everyone antes $600
+! 03/13/19 18:05:11! Steve Zagieboylo blinds $2000
+! 03/13/19 18:05:11! Polar85 blinds $4000
+! 03/13/19 19:47:45! BBLWOG folds
+! 03/13/19 20:19:03! dchizzle41 folds
+! 03/13/19 20:19:03! Ed Fernandez folds
+! 03/13/19 20:19:03! delbaeth folds
+! 03/13/19 20:19:03! jasong raises $78750 to $82750 total and is all in
+! 03/13/19 20:23:23! Stubey calls 
+! 03/13/19 21:35:59! Steve Zagieboylo raises $753750 to $836500 total and is all in
+! 03/13/19 21:35:59! Polar85 calls - side pot
+! 03/14/19 04:38:57! Stubey folds
+
+! 03/14/19 04:38:57! Pot right ($1070450), flopping/dealing/drawing cards
+! 03/14/19 04:38:57! 3 players, 3 all in
+! 03/14/19 04:38:57! Flopped cards: 3c 3h Kd
+! 03/14/19 04:38:57! Flopped card: 7h
+! 03/14/19 04:38:57! Flopped card: 4d
+! Hand over, current board is:  3c 3h Kd 7h 4d
+! Polar85                  has: As 5s
+! jasong                   has: Ad Ac
+! Steve Zagieboylo         has: Qs Qd
+! Pot 1: uncalled $753750 returned to Steve Zagieboylo
+! Pot 3: jasong wins $57300 with Two Pair (A A 3 3 K)
+! Pot 4: jasong wins $259400 with Two Pair (A A 3 3 K)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|   BBLWOG                   |  167375 |         |      |    |         |
+ 3|   dchizzle41               |  193575 |         |      |    |         |
+ 5|   Ed Fernandez             |  578425 |         |      |    |         |
+ 6|   delbaeth                 |  209200 |         |      |    |         |
+ 7|   jasong                   |  316700 |         |      |    |         |
+ 8|>  Stubey                   |  377800 |         |      |    |         |
+ 9|D  Steve Zagieboylo         |  753750 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Polar85 is eliminated!
+! 110 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d9.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

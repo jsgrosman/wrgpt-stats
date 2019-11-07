@@ -1,0 +1,110 @@
+Subject: [d5.10516] Holdem Game Broadcast Message(*)
+
+! Table d5, Hand 297, Day 123
+
+! DazedAndConfused checks
+! Bob Brewster checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   AveCat                   |  624200 |     600 |folded|    |         |
+ 2|D  Bob Brewster             |   60775 |    4600 |      |    |         |
+ 3|   the cake is a pie        |  201250 |    2600 |folded|    |         |
+ 4|>  fich                     |  160950 |    4600 |      |    |         |
+ 5|   Deets                    |   71200 |     600 |folded|    |         |
+ 6|   zipper                   |  114300 |     600 |folded|    |         |
+ 7|   GwynnInTheHall           |  189800 |     600 |folded|    |         |
+ 8|   DazedAndConfused         |  331125 |    4600 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/13/19 11:42:03! Dealing a new hand
+! 03/13/19 11:42:03! Everyone antes $600
+! 03/13/19 11:42:03! the cake is a pie blinds $2000
+! 03/13/19 11:42:03! fich blinds $4000
+! 03/13/19 11:54:37! Deets folds
+! 03/13/19 12:40:13! zipper folds
+! 03/13/19 15:15:47! GwynnInTheHall folds
+! 03/13/19 15:15:47! DazedAndConfused calls 
+! 03/13/19 15:15:47! AveCat folds
+! 03/13/19 15:19:28! Bob Brewster calls 
+! 03/13/19 15:19:28! the cake is a pie folds
+! 03/13/19 16:37:37! fich checks
+
+! 03/13/19 16:37:37! Pot right ($18800), flopping/dealing/drawing cards
+! 03/13/19 16:37:37! 3 players
+! 03/13/19 16:37:37! Flopped cards: 3h Qs 6h
+! 03/13/19 16:38:05! fich checks
+! 03/13/19 17:07:37! DazedAndConfused checks
+! 03/13/19 17:08:29! Bob Brewster checks
+
+! 03/13/19 17:08:29! Pot right ($18800), flopping/dealing/drawing cards
+! 03/13/19 17:08:29! 3 players
+! 03/13/19 17:08:29! Flopped card: Qd
+! 03/13/19 17:39:40! fich checks
+! 03/13/19 17:39:40! DazedAndConfused checks
+! 03/13/19 17:42:12! Bob Brewster checks
+
+! 03/13/19 17:42:12! Pot right ($18800), flopping/dealing/drawing cards
+! 03/13/19 17:42:12! 3 players
+! 03/13/19 17:42:12! Flopped card: 5h
+! 03/13/19 17:43:31! fich checks
+! 03/14/19 00:15:21! DazedAndConfused checks
+! 03/14/19 00:15:21! Bob Brewster checks
+! Hand over, current board is:  3h Qs 6h Qd 5h
+! Bob Brewster             has: 10c 7c
+! fich                     has: Kh 5d
+! DazedAndConfused         has: Jh 9d
+! fich wins $18800 (net $14200) with Two Pair (Q Q 5 5 K)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   AveCat                   |  624200 |         |      |    |         |
+ 2|   Bob Brewster             |   60775 |         |      |    |         |
+ 3|D  the cake is a pie        |  201250 |         |      |    |         |
+ 4|>  fich                     |  179750 |         |      |    |         |
+ 5|   Deets                    |   71200 |         |      |    |         |
+ 6|   zipper                   |  114300 |         |      |    |         |
+ 7|   GwynnInTheHall           |  189800 |         |      |    |         |
+ 8|   DazedAndConfused         |  331125 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 111 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d5.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

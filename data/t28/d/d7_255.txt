@@ -1,0 +1,111 @@
+Subject: [d7.10049] Holdem Game Broadcast Message(*)
+
+! Table d7, Hand 255, Day 99
+
+! Peter Gozinya folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Felix Leiter             |  205900 |     300 |folded|    |         |
+ 2|   Thomas Sims              |  136900 |     300 |folded|    |         |
+ 3|   Isaac Newton             |  101225 |     300 |folded|    |         |
+ 4|D  Reggie Miller            |  149600 |     300 |folded|    |         |
+ 5|   Kentr                    |   85350 |    2300 |folded|    |         |
+ 6|   The Llama                |       0 |   65800 |all-in|    |         |
+ 7|>  Peter Gozinya            |   42650 |    4300 |folded|    |         |
+ 8|   Fredrik Westerlund       |   69675 |     300 |folded|    |         |
+ 9|   Ninetensuited            |   61100 |     300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/16/19 21:57:25! Dealing a new hand
+! 02/16/19 21:57:25! Everyone antes $300
+! 02/16/19 21:57:25! Kentr blinds $1000
+! 02/16/19 21:57:25! The Llama blinds $2000
+! 02/16/19 23:38:43! Peter Gozinya calls 
+! 02/16/19 23:38:43! Fredrik Westerlund folds
+! 02/17/19 03:50:18! Ninetensuited folds
+! 02/17/19 04:20:22! Felix Leiter folds
+! 02/17/19 04:20:22! Thomas Sims folds
+! 02/17/19 05:01:14! Isaac Newton folds
+! 02/18/19 04:28:38! Reggie Miller folds
+! 02/18/19 09:17:55! Kentr calls 
+! 02/18/19 09:17:55! The Llama checks
+
+! 02/18/19 09:17:55! Pot right ($8700), flopping/dealing/drawing cards
+! 02/18/19 09:17:55! 3 players
+! 02/18/19 09:17:55! Flopped cards: 9h 9s Qh
+! 02/18/19 09:18:48! Kentr checks
+! 02/18/19 10:05:44! The Llama bets $2000 
+! 02/18/19 10:10:00! Peter Gozinya calls 
+! 02/18/19 10:12:27! Kentr folds
+
+! 02/18/19 10:12:27! Pot right ($12700), flopping/dealing/drawing cards
+! 02/18/19 10:12:27! 2 players
+! 02/18/19 10:12:27! Flopped card: Qs
+! 02/18/19 10:18:30! The Llama checks
+! 02/18/19 10:27:10! Peter Gozinya checks
+
+! 02/18/19 10:27:10! Pot right ($12700), flopping/dealing/drawing cards
+! 02/18/19 10:27:10! 2 players
+! 02/18/19 10:27:10! Flopped card: 10h
+! 02/18/19 10:33:54! The Llama bets $61500 and is all in
+! 02/18/19 11:28:56! Peter Gozinya folds
+! Hand over, no showdown
+! Current board is:  9h 9s Qh Qs 10h
+! The Llama wins $74200 (net $8400)
+! Antes and blinds go up
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Felix Leiter             |  205900 |         |      |    |         |
+ 2|   Thomas Sims              |  136900 |         |      |    |         |
+ 3|   Isaac Newton             |  101225 |         |      |    |         |
+ 4|   Reggie Miller            |  149600 |         |      |    |         |
+ 5|D  Kentr                    |   85350 |         |      |    |         |
+ 6|   The Llama                |   74200 |         |      |    |         |
+ 7|>  Peter Gozinya            |   42650 |         |      |    |         |
+ 8|   Fredrik Westerlund       |   69675 |         |      |    |         |
+ 9|   Ninetensuited            |   61100 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 215 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d7.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 10
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

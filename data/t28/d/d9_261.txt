@@ -1,0 +1,110 @@
+Subject: [d9.10103] Holdem Game Broadcast Message(*)
+
+! Table d9, Hand 261, Day 101
+
+! WhyImHere checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  Polar85                  |  122650 |     400 |folded|    |         |
+ 2|   BBLWOG                   |   85775 |    2000 |folded|    |         |
+ 3|>  ThinkingPokerAndrew      |   34575 |   20600 |      |    |         |
+ 4|   TomasL                   |  230700 |     400 |folded|    |         |
+ 5|   Ed Fernandez             |  172300 |     400 |folded|    |         |
+ 6|   WhyImHere                |   88450 |   20600 |      |    |         |
+ 7|   jasong                   |  195550 |     400 |folded|    |         |
+ 8|   StewieG                  |   75900 |     400 |folded|    |         |
+ 9|   Theodore Chipmunk        |   80350 |     400 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/20/19 13:37:28! Dealing a new hand
+! 02/20/19 13:37:28! Everyone antes $400
+! 02/20/19 13:37:28! BBLWOG blinds $1600
+! 02/20/19 13:37:28! ThinkingPokerAndrew blinds $3200
+! 02/20/19 13:38:18! TomasL folds
+! 02/20/19 15:33:53! Ed Fernandez folds
+! 02/20/19 15:39:06! WhyImHere raises $7000 to $10200 total 
+! 02/20/19 15:39:06! jasong folds
+! 02/20/19 15:39:06! StewieG folds
+! 02/20/19 15:39:06! Theodore Chipmunk folds
+! 02/20/19 15:39:06! Polar85 folds
+! 02/20/19 16:06:26! BBLWOG folds
+! 02/20/19 16:13:18! ThinkingPokerAndrew calls 
+
+! 02/20/19 16:13:18! Pot right ($25600), flopping/dealing/drawing cards
+! 02/20/19 16:13:18! 2 players
+! 02/20/19 16:13:18! Flopped cards: 5c Qc Js
+! 02/20/19 16:16:23! ThinkingPokerAndrew checks
+! 02/20/19 16:17:28! WhyImHere checks
+
+! 02/20/19 16:17:28! Pot right ($25600), flopping/dealing/drawing cards
+! 02/20/19 16:17:28! 2 players
+! 02/20/19 16:17:28! Flopped card: Kh
+! 02/20/19 17:15:40! ThinkingPokerAndrew checks
+! 02/20/19 17:16:47! WhyImHere bets $10000 
+! 02/20/19 17:21:26! ThinkingPokerAndrew calls 
+
+! 02/20/19 17:21:26! Pot right ($45600), flopping/dealing/drawing cards
+! 02/20/19 17:21:26! 2 players
+! 02/20/19 17:21:26! Flopped card: 2c
+! 02/20/19 19:23:27! ThinkingPokerAndrew checks
+! 02/20/19 19:25:09! WhyImHere checks
+! Hand over, current board is:  5c Qc Js Kh 2c
+! ThinkingPokerAndrew      has: Ks 10s
+! WhyImHere                has: Qd Jc
+! WhyImHere wins $45600 (net $25000) with Two Pair (Q Q J J K)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Polar85                  |  122650 |         |      |    |         |
+ 2|D  BBLWOG                   |   85775 |         |      |    |         |
+ 3|>  ThinkingPokerAndrew      |   34575 |         |      |    |         |
+ 4|   TomasL                   |  230700 |         |      |    |         |
+ 5|   Ed Fernandez             |  172300 |         |      |    |         |
+ 6|   WhyImHere                |  134050 |         |      |    |         |
+ 7|   jasong                   |  195550 |         |      |    |         |
+ 8|   StewieG                  |   75900 |         |      |    |         |
+ 9|   Theodore Chipmunk        |   80350 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 203 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d9.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 15
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

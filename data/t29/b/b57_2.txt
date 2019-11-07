@@ -1,0 +1,132 @@
+Subject: [b57.10040] Holdem Game Broadcast Message(*)
+
+% Good overpair or quads? Let's see.
+% On Mon, Nov 4, 2019, 6:58 PM <dealer@wrgpt.org> wrote:
+% (dealer suppressed lines starting with '>' or ':')
+! -- asypta --
+_____________________________________________________________________________
+
+! Table b57, Hand 2, Day 1
+
+! asypta calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Redbird                  |   50000 |       0 |folded|    |         |
+ 2|D> Skippy                   |   31575 |   18350 |      |    |         |
+ 3|   asypta                   |   31500 |   18350 |      |    |         |
+ 4|   D Martin                 |   49850 |     150 |folded|    |         |
+ 5|   SmBoatDrinks             |   50000 |       0 |folded|    |         |
+ 6|   danthefan                |   50000 |       0 |folded|    |         |
+ 7|   BluffaloBill             |   49700 |     150 |folded|    |         |
+ 8|   Jpchiefs58               |   51825 |       0 |folded|    |         |
+ 9|   Chew On Deez             |   48550 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/04/19 16:00:39! Dealing a new hand
+! 11/04/19 16:00:39! No ante
+! 11/04/19 16:00:39! asypta blinds $75
+! 11/04/19 16:00:39! D Martin blinds $150
+! 11/04/19 16:07:46! SmBoatDrinks folds
+! 11/04/19 16:23:26! danthefan folds
+! 11/04/19 16:24:48! BluffaloBill calls 
+! 11/04/19 16:24:48! Jpchiefs58 folds
+! 11/04/19 17:24:30! Chew On Deez folds
+! 11/04/19 17:25:25! Redbird folds
+! 11/04/19 17:50:24! Skippy calls 
+! 11/04/19 17:50:24! asypta calls 
+! 11/04/19 17:56:41! D Martin checks
+
+! 11/04/19 17:56:41! Pot right ($600), flopping/dealing/drawing cards
+! 11/04/19 17:56:41! 4 players
+! 11/04/19 17:56:41! Flopped cards: 9h 8d 8c
+! 11/04/19 18:18:01! asypta bets $800 
+! 11/04/19 18:44:39! D Martin folds
+! 11/04/19 18:44:39! BluffaloBill folds
+! 11/04/19 18:48:26! Skippy calls 
+
+! 11/04/19 18:48:26! Pot right ($2200), flopping/dealing/drawing cards
+! 11/04/19 18:48:26! 2 players
+! 11/04/19 18:48:26! Flopped card: 8s
+! 11/04/19 18:49:30! asypta bets $1250 
+! 11/04/19 18:51:28! Skippy raises $1650 to $2900 total 
+! 11/04/19 18:54:12! asypta calls 
+
+! 11/04/19 18:54:12! Pot right ($8000), flopping/dealing/drawing cards
+! 11/04/19 18:54:12! 2 players
+! 11/04/19 18:54:12! Flopped card: 7h
+! 11/04/19 18:55:19! asypta bets $4000 
+! 11/04/19 18:58:24! Skippy raises $10500 to $14500 total 
+_____________________________________________________________________________
+
+! Good overpair or quads? Let's see.
+! On Mon, Nov 4, 2019, 6:58 PM <dealer@wrgpt.org> wrote:
+! (dealer suppressed lines starting with '>' or ':')
+! -- asypta --
+_____________________________________________________________________________
+
+! 11/04/19 18:59:52! asypta calls 
+! Hand over, current board is:  9h 8d 8c 8s 7h
+! Skippy                   has: 8h 10c
+! asypta                   has: Kd 9c
+! Skippy wins $37000 (net $18650) with Four of a Kind (8 8 8 8 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Redbird                  |   50000 |         |      |    |         |
+ 2|>  Skippy                   |   68575 |         |      |    |         |
+ 3|D  asypta                   |   31500 |         |      |    |         |
+ 4|   D Martin                 |   49850 |         |      |    |         |
+ 5|   SmBoatDrinks             |   50000 |         |      |    |         |
+ 6|   danthefan                |   50000 |         |      |    |         |
+ 7|   BluffaloBill             |   49700 |         |      |    |         |
+ 8|   Jpchiefs58               |   51825 |         |      |    |         |
+ 9|   Chew On Deez             |   48550 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 543 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b57.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+This is the REAL WRGPT29.
+Changes to office hours and email addresses do not carry over from the
+practice round.
+You have been assigned a new ID and the round is "b".
+
+Good luck.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 2
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,118 @@
+Subject: [b22.10075] Holdem Game Broadcast Message(*)
+
+! Table b22, Hand 4, Day 4
+
+! stannius calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   UConn                    |   50000 |       0 |folded|    |         |
+ 2|   Russ Fox                 |   49550 |       0 |folded|    |         |
+ 3|   stannius                 |   43550 |    5550 |      |    |         |
+ 4|D  Alvin Chipmunk           |   42175 |       0 |folded|    |         |
+ 5|   mrstcao                  |   50050 |     450 |folded|    |         |
+ 6|>  gilette                  |   41100 |    5550 |      |    |         |
+ 7|   Claudia M                |   63125 |       0 |folded|    |         |
+ 8|   underdog                 |   49550 |       0 |folded|    |         |
+ 9|   Charlie Tuna             |   49350 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/06/19 12:50:07! Dealing a new hand
+! 11/06/19 12:50:07! No ante
+! 11/06/19 12:50:07! mrstcao blinds $75
+! 11/06/19 12:50:07! gilette blinds $150
+! 11/06/19 13:19:41! Claudia M folds
+! 11/06/19 13:19:54! underdog folds
+! 11/06/19 14:54:00! Charlie Tuna folds
+! 11/06/19 14:54:00! UConn folds
+! 11/06/19 15:51:33! Russ Fox folds
+! 11/06/19 16:11:56! stannius raises $300 to $450 total 
+! 11/06/19 16:11:56! Alvin Chipmunk folds
+! 11/06/19 16:13:01! mrstcao calls 
+! 11/06/19 16:47:00! gilette calls 
+
+! 11/06/19 16:47:00! Pot right ($1350), flopping/dealing/drawing cards
+! 11/06/19 16:47:00! 3 players
+! 11/06/19 16:47:00! Flopped cards: Ks 9s Qd
+! 11/06/19 20:49:02! mrstcao checks
+! 11/06/19 22:06:26! gilette checks
+! 11/06/19 22:08:03! stannius bets $600 
+! 11/06/19 22:08:03! mrstcao folds
+! 11/06/19 22:10:04! gilette calls 
+
+! 11/06/19 22:10:04! Pot right ($2550), flopping/dealing/drawing cards
+! 11/06/19 22:10:04! 2 players
+! 11/06/19 22:10:04! Flopped card: 8h
+! 11/06/19 22:32:41! gilette checks
+! 11/06/19 22:43:52! stannius bets $750 
+! 11/07/19 05:43:27! gilette calls 
+
+! 11/07/19 05:43:27! Pot right ($4050), flopping/dealing/drawing cards
+! 11/07/19 05:43:27! 2 players
+! 11/07/19 05:43:27! Flopped card: Jh
+! 11/07/19 05:45:30! gilette bets $3750 
+! 11/07/19 06:36:21! stannius calls 
+! Hand over, current board is:  Ks 9s Qd 8h Jh
+! stannius                 has: Qs Kc
+! gilette                  has: Ad 3c
+! stannius wins $11550 (net $6000) with Two Pair (K K Q Q J)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   UConn                    |   50000 |         |      |    |         |
+ 2|   Russ Fox                 |   49550 |         |      |    |         |
+ 3|   stannius                 |   55100 |         |      |    |         |
+ 4|   Alvin Chipmunk           |   42175 |         |      |    |         |
+ 5|D  mrstcao                  |   50050 |         |      |    |         |
+ 6|>  gilette                  |   41100 |         |      |    |         |
+ 7|   Claudia M                |   63125 |         |      |    |         |
+ 8|   underdog                 |   49550 |         |      |    |         |
+ 9|   Charlie Tuna             |   49350 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 536 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b22.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+This is the REAL WRGPT29.
+Changes to office hours and email addresses do not carry over from the
+practice round.
+You have been assigned a new ID and the round is "b".
+
+Good luck.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,104 @@
+Subject: [c11.10623] Holdem Game Broadcast Message(*)
+
+! Table c11, Hand 210, Day 87
+
+! AlbinoSmurf folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Keith Troell             |  137075 |     300 |folded|    |         |
+ 2|   lektoraj                 |  135300 |     300 |folded|    |         |
+ 3|   UConn2004                |  316975 |     300 |folded|    |         |
+ 4|D  Julie Greenberg          |  102175 |     300 |folded|    |         |
+ 5|   Ira Agins                |   59050 |    1300 |folded|    |         |
+ 6|>  AlbinoSmurf              |  287150 |   26300 |folded|    |         |
+ 7|   Mike Sager               |       0 |   92150 |all-in|    |         |
+ 8|   Mrstcao                  |  229825 |     300 |folded|    |         |
+ 9|   GKinz54                  |   98375 |     300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/06/19 04:31:18! Dealing a new hand
+! 02/06/19 04:31:18! Everyone antes $300
+! 02/06/19 04:31:18! Ira Agins blinds $1000
+! 02/06/19 04:31:18! AlbinoSmurf blinds $2000
+! 02/06/19 06:35:59! Mike Sager calls 
+! 02/06/19 06:35:59! Mrstcao folds
+! 02/06/19 06:35:59! GKinz54 folds
+! 02/06/19 07:17:45! Keith Troell folds
+! 02/06/19 07:32:32! lektoraj folds
+! 02/06/19 07:32:32! UConn2004 folds
+! 02/06/19 07:32:32! Julie Greenberg folds
+! 02/06/19 07:32:32! Ira Agins folds
+! 02/06/19 08:59:17! AlbinoSmurf raises $6000 to $8000 total 
+! 02/06/19 09:02:37! Mike Sager calls 
+
+! 02/06/19 09:02:37! Pot right ($19700), flopping/dealing/drawing cards
+! 02/06/19 09:02:37! 2 players
+! 02/06/19 09:02:37! Flopped cards: Qc 5h 4s
+! 02/06/19 09:10:09! AlbinoSmurf bets $9000 
+! 02/06/19 09:18:08! Mike Sager raises $9000 to $18000 total 
+! 02/06/19 09:22:21! AlbinoSmurf calls 
+
+! 02/06/19 09:22:21! Pot right ($55700), flopping/dealing/drawing cards
+! 02/06/19 09:22:21! 2 players
+! 02/06/19 09:22:21! Flopped card: 9c
+! 02/06/19 09:25:35! AlbinoSmurf checks
+! 02/06/19 09:29:06! Mike Sager bets $65850 and is all in
+! 02/06/19 09:29:47! AlbinoSmurf folds
+! Hand over, no showdown
+! Current board is:  Qc 5h 4s 9c ?
+! Mike Sager wins $121550 (net $29400)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Keith Troell             |  137075 |         |      |    |         |
+ 2|   lektoraj                 |  135300 |         |      |    |         |
+ 3|   UConn2004                |  316975 |         |      |    |         |
+ 4|   Julie Greenberg          |  102175 |         |      |    |         |
+ 5|D  Ira Agins                |   59050 |         |      |    |         |
+ 6|>  AlbinoSmurf              |  287150 |         |      |    |         |
+ 7|   Mike Sager               |  121550 |         |      |    |         |
+ 8|   Mrstcao                  |  229825 |         |      |    |         |
+ 9|   GKinz54                  |   98375 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 257 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c11.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 4
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

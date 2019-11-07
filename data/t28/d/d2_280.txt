@@ -1,0 +1,113 @@
+Subject: [d2.10254] Holdem Game Broadcast Message(*)
+
+! Table d2, Hand 280, Day 113
+
+! DocOber checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   EWalk                    |  156050 |       0 |New   |    |         |
+ 2|   DocOber                  |  460950 |   11600 |      |    |         |
+ 3|   Pooper                   |   92300 |       0 |New   |    |         |
+ 4|D  SpiderTribe              |   64100 |     400 |folded|    |         |
+ 5|>  Steve B                  |   62950 |   11600 |      |    |         |
+ 6|   Poker Coach              |   84500 |    7600 |folded|    |         |
+ 7|   Ken Anderson             |  505850 |     400 |folded|    |         |
+ 8|   Mrstcao                  |  388650 |     400 |folded|    |         |
+ 9|   TrayRacer                |   90100 |     400 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/03/19 16:36:27! Dealing a new hand
+! 03/03/19 16:36:27! Everyone antes $400
+! 03/03/19 16:36:27! Steve B blinds $1600
+! 03/03/19 16:36:27! Poker Coach blinds $3200
+! 03/03/19 16:40:39! Ken Anderson folds
+! 03/03/19 16:41:58! Mrstcao folds
+! 03/03/19 16:41:58! TrayRacer folds
+! 03/04/19 02:56:52! DocOber raises $4000 to $7200 total 
+! 03/04/19 04:40:41! SpiderTribe folds
+! 03/04/19 06:57:54! Steve B calls 
+! 03/04/19 08:52:03! Poker Coach calls 
+
+! 03/04/19 08:52:03! Pot right ($24400), flopping/dealing/drawing cards
+! 03/04/19 08:52:03! 3 players
+! 03/04/19 08:52:03! Flopped cards: 6c 2h 7s
+! 03/04/19 09:25:10! New player added to the table: EWalk
+! 03/04/19 09:25:20! New player added to the table: Pooper
+! 03/04/19 09:25:23! Steve B checks
+! 03/04/19 09:26:03! Poker Coach checks
+! 03/04/19 09:26:03! DocOber bets $4000 
+! 03/04/19 09:26:35! Steve B calls 
+! 03/04/19 09:31:28! Poker Coach folds
+
+! 03/04/19 09:31:28! Pot right ($32400), flopping/dealing/drawing cards
+! 03/04/19 09:31:28! 2 players
+! 03/04/19 09:31:28! Flopped card: 4d
+! 03/04/19 09:35:20! Steve B checks
+! 03/04/19 09:36:18! DocOber checks
+
+! 03/04/19 09:36:18! Pot right ($32400), flopping/dealing/drawing cards
+! 03/04/19 09:36:18! 2 players
+! 03/04/19 09:36:18! Flopped card: 9s
+! 03/04/19 09:46:47! Steve B checks
+! 03/04/19 10:05:18! DocOber checks
+! Hand over, current board is:  6c 2h 7s 4d 9s
+! DocOber                  has: 4h Ac
+! Steve B                  has: Ks Qd
+! DocOber wins $32400 (net $20800) with One Pair (4 4 A 9 7)
+! Antes and blinds go up
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   EWalk                    |  156050 |         |      |    |         |
+ 2|   DocOber                  |  493350 |         |      |    |         |
+ 3|   Pooper                   |   92300 |         |      |    |         |
+ 4|   SpiderTribe              |   64100 |         |      |    |         |
+ 5|D> Steve B                  |   62950 |         |      |    |         |
+ 6|   Poker Coach              |   84500 |         |      |    |         |
+ 7|   Ken Anderson             |  505850 |         |      |    |         |
+ 8|   Mrstcao                  |  388650 |         |      |    |         |
+ 9|   TrayRacer                |   90100 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 151 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d2.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 2
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

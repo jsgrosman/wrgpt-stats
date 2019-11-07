@@ -1,0 +1,110 @@
+Subject: [e4.10112] Holdem Game Broadcast Message(*)
+
+! Table e4, Hand 360, Day 138
+
+! AlbinoSmurf calls - side pot
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   JohnnyMac                |  371100 |    1000 |folded|    |         |
+ 2|   Tooner                   |  243750 |    1000 |folded|    |         |
+ 3|   AlbinoSmurf              |       0 |  390000 |all-in|  2 |  808000 |
+ 4|   DaveKal                  |  217850 |    1000 |folded|    |         |
+ 5|D  Richard Rognlie          |  119700 |    1000 |folded|    |         |
+ 6|   EWalk                    |  238550 |    4000 |folded|    |         |
+ 7|>  TennisGeek               |  216225 |  484000 |      |  1 |   94000 |
+ 8|   CAB                      |  296125 |   19000 |folded|    |         |
+ 9|   ADB Foldem               |  279825 |    1000 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/28/19 14:29:27! Dealing a new hand
+! 03/28/19 14:29:27! Everyone antes $1000
+! 03/28/19 14:29:27! EWalk blinds $3000
+! 03/28/19 14:29:27! TennisGeek blinds $6000
+! 03/28/19 14:33:38! CAB raises $12000 to $18000 total 
+! 03/28/19 15:06:47! ADB Foldem folds
+! 03/28/19 15:07:29! JohnnyMac folds
+! 03/28/19 15:58:21! Tooner folds
+! 03/28/19 15:59:16! AlbinoSmurf calls 
+! 03/28/19 15:59:16! DaveKal folds
+! 03/28/19 18:45:55! Richard Rognlie folds
+! 03/28/19 18:45:55! EWalk folds
+! 03/28/19 20:05:02! TennisGeek calls 
+
+! 03/28/19 20:05:02! Pot right ($66000), flopping/dealing/drawing cards
+! 03/28/19 20:05:02! 3 players
+! 03/28/19 20:05:02! Flopped cards: 7c 9d 8s
+! 03/28/19 20:06:41! TennisGeek bets $50000 
+! 03/28/19 20:19:44! CAB folds
+! 03/28/19 20:57:47! AlbinoSmurf calls 
+
+! 03/28/19 20:57:47! Pot right ($166000), flopping/dealing/drawing cards
+! 03/28/19 20:57:47! 2 players
+! 03/28/19 20:57:47! Flopped card: 9h
+! 03/29/19 08:10:39! TennisGeek bets $83000 
+! 03/29/19 08:57:26! AlbinoSmurf calls 
+
+! 03/29/19 08:57:26! Pot right ($332000), flopping/dealing/drawing cards
+! 03/29/19 08:57:26! 2 players
+! 03/29/19 08:57:26! Flopped card: 6h
+! 03/29/19 09:03:45! TennisGeek bets $332000 
+! 03/29/19 09:04:25! AlbinoSmurf calls - side pot
+! Hand over, current board is:  7c 9d 8s 9h 6h
+! AlbinoSmurf              has: 8d 8c
+! TennisGeek               has: 10s 9s
+! Pot 1: uncalled $94000 returned to TennisGeek
+! Pot 2: AlbinoSmurf wins $808000 with Full House (8 8 8 9 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   JohnnyMac                |  371100 |         |      |    |         |
+ 2|   Tooner                   |  243750 |         |      |    |         |
+ 3|   AlbinoSmurf              |  808000 |         |      |    |         |
+ 4|   DaveKal                  |  217850 |         |      |    |         |
+ 5|   Richard Rognlie          |  119700 |         |      |    |         |
+ 6|D  EWalk                    |  238550 |         |      |    |         |
+ 7|>  TennisGeek               |  310225 |         |      |    |         |
+ 8|   CAB                      |  296125 |         |      |    |         |
+ 9|   ADB Foldem               |  279825 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 74 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/e/e4.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,105 @@
+Subject: [d12.10444] Holdem Game Broadcast Message(*)
+
+! Table d12, Hand 295, Day 123
+
+! Tom Abraham folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Donald Neilson           |  118375 |    2600 |folded|    |         |
+ 2|>  Tom Abraham              |  436850 |  117600 |folded|    |         |
+ 3|   shinsook                 |  240825 |     600 |folded|    |         |
+ 4|   BillDaBear               |       0 |  289500 |all-in|    |         |
+ 5|   Neil Boyce               |  246300 |     600 |folded|    |         |
+ 6|   poohbear                 |  318950 |     600 |folded|    |         |
+ 7|   DadSaysDOH               |  205175 |     600 |folded|    |         |
+ 9|D  Steb                     |   85325 |     600 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/14/19 09:41:26! Dealing a new hand
+! 03/14/19 09:41:26! Everyone antes $600
+! 03/14/19 09:41:26! Donald Neilson blinds $2000
+! 03/14/19 09:41:26! Tom Abraham blinds $4000
+! 03/14/19 11:08:04! shinsook folds
+! 03/14/19 11:39:10! BillDaBear raises $6000 to $10000 total 
+! 03/14/19 11:39:10! Neil Boyce folds
+! 03/14/19 11:39:10! poohbear folds
+! 03/14/19 11:39:10! DadSaysDOH folds
+! 03/14/19 11:39:10! Steb folds
+! 03/14/19 11:47:56! Donald Neilson folds
+! 03/14/19 11:58:39! Tom Abraham calls 
+
+! 03/14/19 11:58:39! Pot right ($26800), flopping/dealing/drawing cards
+! 03/14/19 11:58:39! 2 players
+! 03/14/19 11:58:39! Flopped cards: 5h 3h Kd
+! 03/14/19 13:14:22! Tom Abraham bets $12000 
+! 03/14/19 14:55:53! BillDaBear calls 
+
+! 03/14/19 14:55:53! Pot right ($50800), flopping/dealing/drawing cards
+! 03/14/19 14:55:53! 2 players
+! 03/14/19 14:55:53! Flopped card: 7c
+! 03/14/19 18:45:10! Tom Abraham bets $45000 
+! 03/14/19 19:05:06! BillDaBear calls 
+
+! 03/14/19 19:05:06! Pot right ($140800), flopping/dealing/drawing cards
+! 03/14/19 19:05:06! 2 players
+! 03/14/19 19:05:06! Flopped card: 7d
+! 03/14/19 19:07:09! Tom Abraham bets $50000 
+! 03/14/19 19:08:10! BillDaBear raises $171900 to $221900 total and is all in
+! 03/14/19 19:09:26! Tom Abraham folds
+! Hand over, no showdown
+! Current board is:  5h 3h Kd 7c 7d
+! BillDaBear wins $412700 (net $123200)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  Donald Neilson           |  118375 |         |      |    |         |
+ 2|>  Tom Abraham              |  436850 |         |      |    |         |
+ 3|   shinsook                 |  240825 |         |      |    |         |
+ 4|   BillDaBear               |  412700 |         |      |    |         |
+ 5|   Neil Boyce               |  246300 |         |      |    |         |
+ 6|   poohbear                 |  318950 |         |      |    |         |
+ 7|   DadSaysDOH               |  205175 |         |      |    |         |
+ 9|   Steb                     |   85325 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 109 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d12.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

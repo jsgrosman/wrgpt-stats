@@ -1,0 +1,113 @@
+Subject: [d17.10281] Holdem Game Broadcast Message(*)
+
+! Table d17, Hand 279, Day 115
+
+! Tom Abraham folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D> Tom Abraham              |  219475 |   19600 |folded|    |         |
+ 2|   MOVED Virginia Slims     |       0 |    4600 |folded|    |         |
+ 3|   MOVED sltLonghorn        |       0 |    4600 |folded|    |         |
+ 4|   MOVED Not66              |       0 |     600 |folded|    |         |
+ 5|   Steb                     |       0 |   76525 |all-in|    |         |
+ 6|   MOVED SunnyGirl          |       0 |     600 |folded|    |         |
+ 7|   MOVED Kurt Kirner        |       0 |     600 |folded|    |         |
+ 8|   MOVED rtroll             |       0 |     600 |folded|    |         |
+ 9|   MOVED Russ Fox           |       0 |     600 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/04/19 19:00:08! Dealing a new hand
+! 03/04/19 19:00:08! Everyone antes $600
+! 03/04/19 19:00:08! Virginia Slims blinds $2000
+! 03/04/19 19:00:08! sltLonghorn blinds $4000
+! 03/04/19 20:12:38! Not66 folds
+! 03/05/19 05:37:16! Steb calls 
+! 03/05/19 05:37:16! SunnyGirl folds
+! 03/05/19 05:37:16! Kurt Kirner is on vacation and folds
+! 03/05/19 06:46:55! rtroll folds
+! 03/05/19 07:05:47! Russ Fox folds
+! 03/05/19 07:20:31! Tom Abraham calls 
+! 03/05/19 07:20:31! Virginia Slims calls 
+! 03/05/19 07:32:32! sltLonghorn checks
+
+! 03/05/19 07:32:32! Pot right ($21400), flopping/dealing/drawing cards
+! 03/05/19 07:32:32! 4 players
+! 03/05/19 07:32:32! Flopped cards: 5c 8h 2h
+! 03/05/19 07:48:02! Virginia Slims checks
+! 03/05/19 07:59:13! sltLonghorn checks
+! 03/05/19 08:22:47! Steb checks
+! 03/05/19 08:30:55! Tom Abraham checks
+
+! 03/05/19 08:30:55! Pot right ($21400), flopping/dealing/drawing cards
+! 03/05/19 08:30:55! 4 players
+! 03/05/19 08:30:55! Flopped card: Ac
+! 03/05/19 08:51:02! Virginia Slims checks
+! 03/05/19 12:52:02! sltLonghorn checks
+! 03/05/19 13:06:42! Steb bets $15000 
+! 03/05/19 14:51:15! Tom Abraham calls 
+! 03/05/19 14:55:02! Player leaving table: rtroll
+! 03/05/19 14:55:06! Player leaving table: Kurt Kirner
+! 03/05/19 14:55:08! Player leaving table: Not66
+! 03/05/19 14:55:10! Player leaving table: SunnyGirl
+! 03/05/19 14:55:12! Player leaving table: Russ Fox
+! 03/05/19 15:05:05! Virginia Slims folds
+! 03/05/19 15:25:04! Player leaving table: Virginia Slims
+! 03/05/19 15:31:00! sltLonghorn folds
+
+! 03/05/19 15:31:00! Pot right ($51400), flopping/dealing/drawing cards
+! 03/05/19 15:31:00! 2 players
+! 03/05/19 15:31:00! Flopped card: 8c
+! 03/05/19 15:55:04! Player leaving table: sltLonghorn
+! 03/05/19 16:09:49! Steb bets $56925 and is all in
+! 03/06/19 06:15:51! Tom Abraham folds
+! Hand over, no showdown
+! Current board is:  5c 8h 2h Ac 8c
+! Steb wins $108325 (net $31800)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D> Tom Abraham              |  219475 |         |      |    |         |
+ 5|   Steb                     |  108325 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 140 players left in the tournament 
+! Table waiting for live reshuffle
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d17.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 13
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,104 @@
+Subject: [d14.10437] Holdem Game Broadcast Message(*)
+
+! Table d14, Hand 300, Day 122
+
+! rtroll folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Billco                   |       0 |  377975 |all-in|    |         |
+ 2|   MOVED put_it_good        |       0 |     600 |folded|    |         |
+ 3|   MOVED DotMatrix          |       0 |     600 |folded|    |         |
+ 4|   MOVED Barton             |       0 |     600 |folded|    |         |
+ 5|D  MOVED Bob R              |       0 |     600 |folded|    |         |
+ 6|   MOVED Deets              |       0 |    2600 |folded|    |         |
+ 7|   Richard Rognlie          |   58050 |   12600 |folded|    |         |
+ 8|   MOVED Ira Agins          |       0 |     600 |folded|    |         |
+ 9|>  rtroll                   |   94925 |   37600 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/12/19 15:51:06! Dealing a new hand
+! 03/12/19 15:51:06! Everyone antes $600
+! 03/12/19 15:51:06! Deets blinds $2000
+! 03/12/19 15:51:06! Richard Rognlie blinds $4000
+! 03/12/19 15:58:04! Ira Agins folds
+! 03/12/19 16:55:02! Player leaving table: Ira Agins
+! 03/12/19 16:57:00! rtroll raises $8000 to $12000 total 
+! 03/12/19 18:08:21! Billco calls 
+! 03/12/19 18:08:21! put_it_good folds
+! 03/12/19 18:08:21! DotMatrix folds
+! 03/12/19 18:25:03! Player leaving table: DotMatrix
+! 03/12/19 18:25:08! Player leaving table: put_it_good
+! 03/12/19 18:37:36! Barton folds
+! 03/12/19 18:55:02! Player leaving table: Barton
+! 03/12/19 19:48:40! Bob R folds
+! 03/12/19 19:48:40! Deets folds
+! 03/12/19 19:48:40! Richard Rognlie calls 
+
+! 03/12/19 19:48:40! Pot right ($43400), flopping/dealing/drawing cards
+! 03/12/19 19:48:40! 3 players
+! 03/12/19 19:48:40! Flopped cards: Qs 4s Kh
+! 03/12/19 19:55:02! Player leaving table: Bob R
+! 03/12/19 19:55:05! Player leaving table: Deets
+! 03/13/19 04:19:34! Richard Rognlie checks
+! 03/13/19 06:47:51! rtroll bets $25000 
+! 03/13/19 06:52:30! Billco raises $340375 to $365375 total and is all in
+_____________________________________________________________________________
+
+! There are 4 ways to play Jacks.  They're all wrong.
+! -- Richard Rognlie --
+_____________________________________________________________________________
+
+! 03/13/19 06:57:18! Richard Rognlie folds
+! 03/13/19 06:58:41! rtroll folds
+! Hand over, no showdown
+! Current board is:  Qs 4s Kh ? ?
+! Billco wins $433775 (net $55800)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Billco                   |  433775 |         |      |    |         |
+ 7|   Richard Rognlie          |   58050 |         |      |    |         |
+ 9|>  rtroll                   |   94925 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 114 players left in the tournament 
+! Table waiting for live reshuffle
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d14.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 12
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

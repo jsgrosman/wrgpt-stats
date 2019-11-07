@@ -1,0 +1,107 @@
+Subject: [d1.10377] Holdem Game Broadcast Message(*)
+
+! Table d1, Hand 291, Day 114
+
+! JohnnyMac folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Josh Moore               |  127700 |     600 |folded|    |         |
+ 2|   ADB Foldem               |  236125 |     600 |folded|    |         |
+ 3|   tristero                 |  109550 |     600 |folded|    |         |
+ 4|   MTpotts                  |   98900 |     600 |folded|    |         |
+ 5|D  Loudlion                 |   27425 |     600 |folded|    |         |
+ 6|   Spidurman                |       0 |   90600 |all-in|    |         |
+ 7|>  JohnnyMac                |  353125 |   30700 |folded|    |         |
+ 8|   Alvin Chipmunk           |  267225 |     600 |folded|    |         |
+ 9|   TennisGeek               |  286325 |     600 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/05/19 07:46:00! Dealing a new hand
+! 03/05/19 07:46:00! Everyone antes $600
+! 03/05/19 07:46:00! Spidurman blinds $2000
+! 03/05/19 07:46:00! JohnnyMac blinds $4000
+! 03/05/19 07:51:46! Alvin Chipmunk folds
+! 03/05/19 08:28:20! TennisGeek folds
+! 03/05/19 08:51:01! Josh Moore folds
+! 03/05/19 09:24:15! ADB Foldem folds
+! 03/05/19 09:24:15! tristero folds
+! 03/05/19 10:38:43! MTpotts folds
+! 03/05/19 10:38:43! Loudlion folds
+! 03/05/19 10:39:38! Spidurman calls 
+! 03/05/19 10:40:46! JohnnyMac checks
+
+! 03/05/19 10:40:46! Pot right ($13400), flopping/dealing/drawing cards
+! 03/05/19 10:40:46! 2 players
+! 03/05/19 10:40:46! Flopped cards: 10c 5d Jc
+! 03/05/19 10:43:24! Spidurman bets $7500 
+! 03/05/19 10:44:11! JohnnyMac calls 
+
+! 03/05/19 10:44:11! Pot right ($28400), flopping/dealing/drawing cards
+! 03/05/19 10:44:11! 2 players
+! 03/05/19 10:44:11! Flopped card: 9h
+! 03/05/19 10:50:52! Spidurman bets $18600 
+! 03/05/19 10:51:42! JohnnyMac calls 
+
+! 03/05/19 10:51:42! Pot right ($65600), flopping/dealing/drawing cards
+! 03/05/19 10:51:42! 2 players
+! 03/05/19 10:51:42! Flopped card: 4d
+! 03/05/19 11:08:12! Spidurman bets $59900 and is all in
+! 03/05/19 11:08:41! JohnnyMac folds
+! Hand over, no showdown
+! Current board is:  10c 5d Jc 9h 4d
+! Spidurman wins $125500 (net $34900)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Josh Moore               |  127700 |         |      |    |         |
+ 2|   ADB Foldem               |  236125 |         |      |    |         |
+ 3|   tristero                 |  109550 |         |      |    |         |
+ 4|   MTpotts                  |   98900 |         |      |    |         |
+ 5|   Loudlion                 |   27425 |         |      |    |         |
+ 6|D  Spidurman                |  125500 |         |      |    |         |
+ 7|>  JohnnyMac                |  353125 |         |      |    |         |
+ 8|   Alvin Chipmunk           |  267225 |         |      |    |         |
+ 9|   TennisGeek               |  286325 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 145 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d1.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

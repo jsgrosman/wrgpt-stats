@@ -1,0 +1,128 @@
+Subject: [b22.10025] Holdem Game Broadcast Message(*)
+
+! Table b22, Hand 1, Day 2
+
+! gilette calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  UConn                    |   50000 |       0 |folded|    |         |
+ 2|   Russ Fox                 |   49550 |     450 |folded|    |         |
+ 3|   stannius                 |   49550 |     450 |folded|    |         |
+ 4|   Alvin Chipmunk           |   50000 |       0 |folded|    |         |
+ 5|   mrstcao                  |   50000 |       0 |folded|    |         |
+ 6|   gilette                  |   46650 |    3350 |      |    |         |
+ 7|>  Claudia M                |   46650 |    3350 |      |    |         |
+ 8|   underdog                 |   49550 |     450 |folded|    |         |
+ 9|V  Charlie Tuna             |   50000 |       0 | NoSho|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/04/19 05:15:30! mrstcao is back from vacation
+! 11/04/19 05:20:39! UConn is back from vacation
+! 11/04/19 05:22:19! gilette is back from vacation
+! 11/04/19 06:01:08! Claudia M is back from vacation
+! 11/04/19 06:37:51! stannius is back from vacation
+! 11/04/19 06:50:53! Russ Fox is back from vacation
+! 11/04/19 06:58:31! Alvin Chipmunk is back from vacation
+! 11/04/19 09:20:06! underdog is back from vacation
+! 11/05/19 00:01:16! Dealing a new hand
+! 11/05/19 00:01:16! No ante
+! 11/05/19 00:01:16! Russ Fox blinds $75
+! 11/05/19 00:01:16! stannius blinds $150
+! 11/05/19 05:42:25! Alvin Chipmunk folds
+! 11/05/19 05:43:28! mrstcao folds
+! 11/05/19 05:54:45! gilette raises $300 to $450 total 
+! 11/05/19 07:25:21! Claudia M calls 
+! 11/05/19 07:25:21! underdog calls 
+! 11/05/19 07:25:21! Charlie Tuna is on vacation and folds
+! 11/05/19 07:25:21! UConn folds
+! 11/05/19 08:53:59! Russ Fox calls 
+! 11/05/19 08:53:59! stannius calls 
+
+! 11/05/19 08:53:59! Pot right ($2250), flopping/dealing/drawing cards
+! 11/05/19 08:53:59! 5 players
+! 11/05/19 08:53:59! Flopped cards: 5h 6c Ah
+! 11/05/19 09:02:17! Russ Fox checks
+! 11/05/19 09:05:20! stannius checks
+! 11/05/19 09:06:23! gilette bets $1400 
+! 11/05/19 09:46:23! Claudia M calls 
+! 11/05/19 09:46:23! underdog folds
+! 11/05/19 10:23:19! Russ Fox folds
+! 11/05/19 10:26:07! stannius folds
+
+! 11/05/19 10:26:07! Pot right ($5050), flopping/dealing/drawing cards
+! 11/05/19 10:26:07! 2 players
+! 11/05/19 10:26:07! Flopped card: 2s
+! 11/05/19 12:18:33! gilette checks
+! 11/05/19 13:18:41! Claudia M checks
+
+! 11/05/19 13:18:41! Pot right ($5050), flopping/dealing/drawing cards
+! 11/05/19 13:18:41! 2 players
+! 11/05/19 13:18:41! Flopped card: 2d
+! 11/05/19 13:38:15! gilette checks
+! 11/05/19 13:57:46! Claudia M bets $1500 
+! 11/05/19 14:21:46! gilette calls 
+! Hand over, current board is:  5h 6c Ah 2s 2d
+! gilette                  has: Kh Jh
+! Claudia M                has: 9d 6d
+! Claudia M wins $8050 (net $4700) with Two Pair (6 6 2 2 A)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   UConn                    |   50000 |         |      |    |         |
+ 2|D  Russ Fox                 |   49550 |         |      |    |         |
+ 3|   stannius                 |   49550 |         |      |    |         |
+ 4|   Alvin Chipmunk           |   50000 |         |      |    |         |
+ 5|   mrstcao                  |   50000 |         |      |    |         |
+ 6|   gilette                  |   46650 |         |      |    |         |
+ 7|>  Claudia M                |   54700 |         |      |    |         |
+ 8|   underdog                 |   49550 |         |      |    |         |
+ 9|V  Charlie Tuna             |   50000 |         | NoSho|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 539 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b22.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+This is the REAL WRGPT29.
+Changes to office hours and email addresses do not carry over from the
+practice round.
+You have been assigned a new ID and the round is "b".
+
+Good luck.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

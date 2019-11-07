@@ -1,0 +1,111 @@
+Subject: [d11.10781] Holdem Game Broadcast Message(*)
+
+! Table d11, Hand 319, Day 123
+
+! SteedCarson calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   bert_ofcl                |  244250 |    9100 |folded|    |         |
+ 2|>  put_it_good              |  160250 |   76600 |      |    |         |
+ 3|   Sam Parazette            |  505400 |     600 |folded|    |         |
+ 4|   Sir Barlow               |  112900 |     600 |folded|    |         |
+ 5|V  tarigojaergihioahdged    |  295875 |     600 |<Gone>|    |         |
+ 6|   sltLonghorn              |  168950 |     600 |folded|    |         |
+ 7|   Mother Speaks            |  167500 |     600 |folded|    |         |
+ 8|D  TracyB                   |  294350 |     600 |folded|    |         |
+ 9|   SteedCarson              |  146350 |   76600 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/14/19 07:47:24! Dealing a new hand
+! 03/14/19 07:47:24! Everyone antes $600
+! 03/14/19 07:47:24! SteedCarson blinds $2000
+! 03/14/19 07:47:24! bert_ofcl blinds $4000
+! 03/14/19 08:37:50! put_it_good raises $4500 to $8500 total 
+! 03/14/19 08:37:50! Sam Parazette folds
+! 03/14/19 08:41:31! Sir Barlow folds
+! 03/14/19 08:41:31! tarigojaergihioahdged is on vacation and folds
+! 03/14/19 08:42:29! sltLonghorn folds
+! 03/14/19 08:42:29! Mother Speaks folds
+! 03/14/19 09:51:46! TracyB folds
+! 03/14/19 10:01:04! SteedCarson calls 
+! 03/14/19 10:01:44! bert_ofcl calls 
+
+! 03/14/19 10:01:44! Pot right ($30900), flopping/dealing/drawing cards
+! 03/14/19 10:01:44! 3 players
+! 03/14/19 10:01:44! Flopped cards: 8s 6h 2s
+! 03/14/19 10:07:54! SteedCarson checks
+! 03/14/19 10:09:01! bert_ofcl checks
+! 03/14/19 11:02:56! put_it_good checks
+
+! 03/14/19 11:02:56! Pot right ($30900), flopping/dealing/drawing cards
+! 03/14/19 11:02:56! 3 players
+! 03/14/19 11:02:56! Flopped card: 9h
+! 03/14/19 11:07:30! SteedCarson bets $19000 
+! 03/14/19 11:08:07! bert_ofcl folds
+! 03/14/19 11:17:17! put_it_good calls 
+
+! 03/14/19 11:17:17! Pot right ($68900), flopping/dealing/drawing cards
+! 03/14/19 11:17:17! 2 players
+! 03/14/19 11:17:17! Flopped card: Kc
+! 03/14/19 11:52:07! SteedCarson checks
+! 03/14/19 12:58:32! put_it_good bets $48500 
+! 03/14/19 13:19:20! SteedCarson calls 
+! Hand over, current board is:  8s 6h 2s 9h Kc
+! put_it_good              has: Js 10s
+! SteedCarson              has: 5h 6c
+! SteedCarson wins $165900 (net $89300) with One Pair (6 6 K 9 8)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   bert_ofcl                |  244250 |         |      |    |         |
+ 2|>  put_it_good              |  160250 |         |      |    |         |
+ 3|   Sam Parazette            |  505400 |         |      |    |         |
+ 4|   Sir Barlow               |  112900 |         |      |    |         |
+ 5|V  tarigojaergihioahdged    |  295875 |         |<Gone>|    |         |
+ 6|   sltLonghorn              |  168950 |         |      |    |         |
+ 7|   Mother Speaks            |  167500 |         |      |    |         |
+ 8|   TracyB                   |  294350 |         |      |    |         |
+ 9|D  SteedCarson              |  312250 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 109 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d11.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 7
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

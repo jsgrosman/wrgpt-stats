@@ -1,0 +1,113 @@
+Subject: [d1.10417] Holdem Game Broadcast Message(*)
+
+! Table d1, Hand 295, Day 115
+
+! JohnnyMac calls 
+! Pot right ($229900), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 7d
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|   ADB Foldem               |  227725 |    2600 |folded|    |         |
+ 3|   tristero                 |       0 |  110150 |all-in|    |         |
+ 4|   MTpotts                  |   96500 |     600 |folded|    |         |
+ 5|   Loudlion                 |   25025 |     600 |folded|    |         |
+ 6|   Spidurman                |  123100 |     600 |folded|    |         |
+ 7|>  JohnnyMac                |  227175 |  110150 |      |    |         |
+ 8|   Alvin Chipmunk           |  416125 |     600 |folded|    |         |
+ 9|D  TennisGeek               |  286325 |    4600 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/06/19 12:29:56! Dealing a new hand
+! 03/06/19 12:29:56! Everyone antes $600
+! 03/06/19 12:29:56! ADB Foldem blinds $2000
+! 03/06/19 12:29:56! tristero blinds $4000
+! 03/06/19 12:39:08! MTpotts folds
+! 03/06/19 12:40:50! Loudlion folds
+! 03/06/19 13:00:25! Spidurman folds
+! 03/06/19 13:00:25! JohnnyMac calls 
+! 03/06/19 13:00:25! Alvin Chipmunk folds
+_____________________________________________________________________________
+
+! I was lucky.
+! -- TennisGeek --
+_____________________________________________________________________________
+
+! 03/06/19 13:20:02! TennisGeek calls 
+! 03/06/19 13:20:02! ADB Foldem folds
+! 03/06/19 13:20:02! tristero checks
+
+! 03/06/19 13:20:02! Pot right ($18800), flopping/dealing/drawing cards
+! 03/06/19 13:20:02! 3 players
+! 03/06/19 13:20:02! Flopped cards: 9h 8h 4d
+! 03/06/19 13:21:08! tristero bets $20000 
+! 03/06/19 13:32:24! JohnnyMac calls 
+! 03/06/19 13:32:45! TennisGeek folds
+
+! 03/06/19 13:32:45! Pot right ($58800), flopping/dealing/drawing cards
+! 03/06/19 13:32:45! 2 players
+! 03/06/19 13:32:45! Flopped card: 2h
+! 03/06/19 13:44:54! tristero bets $85550 and is all in
+! 03/06/19 13:48:21! JohnnyMac calls 
+
+! 03/06/19 13:48:21! Pot right ($229900), flopping/dealing/drawing cards
+! 03/06/19 13:48:21! 2 players, 1 all in
+! 03/06/19 13:48:21! Flopped card: 7d
+! Hand over, current board is:  9h 8h 4d 2h 7d
+! tristero                 has: As 4c
+! JohnnyMac                has: Js 10h
+! JohnnyMac wins $229900 (net $119750) with Straight (J 10 9 8 7)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|D  ADB Foldem               |  227725 |         |      |    |         |
+ 4|   MTpotts                  |   96500 |         |      |    |         |
+ 5|   Loudlion                 |   25025 |         |      |    |         |
+ 6|   Spidurman                |  123100 |         |      |    |         |
+ 7|>  JohnnyMac                |  457075 |         |      |    |         |
+ 8|   Alvin Chipmunk           |  416125 |         |      |    |         |
+ 9|   TennisGeek               |  286325 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! tristero is eliminated!
+! 136 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d1.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 7
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

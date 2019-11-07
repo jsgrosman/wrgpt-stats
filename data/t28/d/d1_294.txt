@@ -1,0 +1,108 @@
+Subject: [d1.10407] Holdem Game Broadcast Message(*)
+
+! Table d1, Hand 294, Day 115
+
+! Alvin Chipmunk calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|   ADB Foldem               |  230325 |    4600 |folded|    |         |
+ 3|   tristero                 |  110150 |     600 |folded|    |         |
+ 4|   MTpotts                  |   97100 |     600 |folded|    |         |
+ 5|   Loudlion                 |   25625 |     600 |folded|    |         |
+ 6|   Spidurman                |  123700 |     600 |folded|    |         |
+ 7|   JohnnyMac                |  337325 |   12600 |folded|    |         |
+ 8|D  Alvin Chipmunk           |  332325 |   74600 |      |    |         |
+ 9|>  TennisGeek               |  206525 |   74600 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/06/19 07:26:42! Dealing a new hand
+! 03/06/19 07:26:42! Everyone antes $600
+! 03/06/19 07:26:42! TennisGeek blinds $2000
+! 03/06/19 07:26:42! ADB Foldem blinds $4000
+! 03/06/19 07:30:05! tristero folds
+! 03/06/19 07:43:43! TennisGeek is back from vacation
+! 03/06/19 09:20:33! MTpotts folds
+! 03/06/19 09:20:33! Loudlion folds
+! 03/06/19 09:20:33! Spidurman folds
+! 03/06/19 09:30:51! JohnnyMac raises $8000 to $12000 total 
+! 03/06/19 09:42:11! Alvin Chipmunk calls 
+! 03/06/19 09:50:06! TennisGeek calls 
+! 03/06/19 09:50:06! ADB Foldem folds
+
+! 03/06/19 09:50:06! Pot right ($44800), flopping/dealing/drawing cards
+! 03/06/19 09:50:06! 3 players
+! 03/06/19 09:50:06! Flopped cards: 2c Qc 6s
+! 03/06/19 09:50:54! TennisGeek bets $32000 
+! 03/06/19 09:52:05! JohnnyMac folds
+! 03/06/19 09:54:19! Alvin Chipmunk calls 
+
+! 03/06/19 09:54:19! Pot right ($108800), flopping/dealing/drawing cards
+! 03/06/19 09:54:19! 2 players
+! 03/06/19 09:54:19! Flopped card: Ad
+! 03/06/19 11:04:18! TennisGeek checks
+! 03/06/19 11:15:11! Alvin Chipmunk checks
+
+! 03/06/19 11:15:11! Pot right ($108800), flopping/dealing/drawing cards
+! 03/06/19 11:15:11! 2 players
+! 03/06/19 11:15:11! Flopped card: 2s
+! 03/06/19 12:11:07! TennisGeek bets $30000 
+! 03/06/19 12:29:54! Alvin Chipmunk calls 
+! Hand over, current board is:  2c Qc 6s Ad 2s
+! Alvin Chipmunk           has: Kh Qd
+! TennisGeek               has: Qs Jd
+! Alvin Chipmunk wins $84400 (net $9800) with Two Pair (Q Q 2 2 A)
+! TennisGeek wins $84400 (net $9800) with Two Pair (Q Q 2 2 A)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|   ADB Foldem               |  230325 |         |      |    |         |
+ 3|   tristero                 |  110150 |         |      |    |         |
+ 4|   MTpotts                  |   97100 |         |      |    |         |
+ 5|   Loudlion                 |   25625 |         |      |    |         |
+ 6|   Spidurman                |  123700 |         |      |    |         |
+ 7|   JohnnyMac                |  337325 |         |      |    |         |
+ 8|   Alvin Chipmunk           |  416725 |         |      |    |         |
+ 9|D> TennisGeek               |  290925 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 137 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d1.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 7
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

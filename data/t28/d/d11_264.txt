@@ -1,0 +1,116 @@
+Subject: [d11.10167] Holdem Game Broadcast Message(*)
+
+! Table d11, Hand 264, Day 102
+
+! Sam Parazette checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Chris Danek              |  179400 |     400 |folded|    |         |
+ 2|   Mark Ballinger           |   48950 |   14600 |folded|    |         |
+ 3|   Sam Parazette            |  179100 |   44600 |      |    |         |
+ 4|D  Russ Bryan               |   57900 |     400 |folded|    |         |
+ 5|   Morgan                   |  122950 |    2000 |folded|    |         |
+ 6|   D-man                    |  136300 |   14600 |folded|    |         |
+ 7|   Mother Speaks            |   64250 |     400 |folded|    |         |
+ 8|   BaconPancakes            |   42950 |     400 |folded|    |         |
+ 9|>  SteedCarson              |  253900 |   44600 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/21/19 07:46:02! Dealing a new hand
+! 02/21/19 07:46:02! Everyone antes $400
+! 02/21/19 07:46:02! Morgan blinds $1600
+! 02/21/19 07:46:02! D-man blinds $3200
+! 02/21/19 07:56:57! Mother Speaks folds
+! 02/21/19 07:56:57! BaconPancakes folds
+! 02/21/19 08:03:22! SteedCarson raises $3900 to $7100 total 
+! 02/21/19 08:35:28! Chris Danek folds
+! 02/21/19 09:11:23! Mark Ballinger calls 
+! 02/21/19 09:33:40! Sam Parazette raises $7100 to $14200 total 
+! 02/21/19 09:33:40! Russ Bryan folds
+! 02/21/19 09:34:19! Morgan folds
+! 02/21/19 09:48:34! D-man calls 
+! 02/21/19 09:59:07! SteedCarson calls 
+! 02/21/19 11:13:51! Mark Ballinger calls 
+
+! 02/21/19 11:13:51! Pot right ($62000), flopping/dealing/drawing cards
+! 02/21/19 11:13:51! 4 players
+! 02/21/19 11:13:51! Flopped cards: Qc 10s 6c
+! 02/21/19 11:17:07! D-man checks
+! 02/21/19 11:24:24! SteedCarson checks
+! 02/21/19 11:28:14! Mark Ballinger checks
+! 02/21/19 12:46:09! Sam Parazette bets $30000 
+! 02/21/19 13:02:26! D-man folds
+! 02/21/19 13:21:59! SteedCarson calls 
+! 02/21/19 13:26:15! Mark Ballinger folds
+
+! 02/21/19 13:26:15! Pot right ($122000), flopping/dealing/drawing cards
+! 02/21/19 13:26:15! 2 players
+! 02/21/19 13:26:15! Flopped card: Kh
+! 02/21/19 13:46:26! SteedCarson checks
+! 02/21/19 13:48:32! Sam Parazette checks
+
+! 02/21/19 13:48:32! Pot right ($122000), flopping/dealing/drawing cards
+! 02/21/19 13:48:32! 2 players
+! 02/21/19 13:48:32! Flopped card: 5s
+! 02/21/19 14:13:58! SteedCarson checks
+! 02/21/19 14:20:58! Sam Parazette checks
+! Hand over, current board is:  Qc 10s 6c Kh 5s
+! Sam Parazette            has: 9s 9c
+! SteedCarson              has: 7c 5c
+! Sam Parazette wins $122000 (net $77400) with One Pair (9 9 K Q 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Chris Danek              |  179400 |         |      |    |         |
+ 2|   Mark Ballinger           |   48950 |         |      |    |         |
+ 3|   Sam Parazette            |  301100 |         |      |    |         |
+ 4|   Russ Bryan               |   57900 |         |      |    |         |
+ 5|D  Morgan                   |  122950 |         |      |    |         |
+ 6|   D-man                    |  136300 |         |      |    |         |
+ 7|   Mother Speaks            |   64250 |         |      |    |         |
+ 8|   BaconPancakes            |   42950 |         |      |    |         |
+ 9|>  SteedCarson              |  253900 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 198 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d11.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

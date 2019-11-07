@@ -1,0 +1,111 @@
+Subject: [d9.10550] Holdem Game Broadcast Message(*)
+
+! Table d9, Hand 303, Day 123
+
+! jasong checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|   BBLWOG                   |  154775 |   12600 |folded|    |         |
+ 3|   dchizzle41               |  192975 |     600 |folded|    |         |
+ 5|>  Ed Fernandez             |  497825 |   80600 |      |    |         |
+ 6|   delbaeth                 |  208600 |     600 |folded|    |         |
+ 7|   jasong                   |  236100 |   80600 |      |    |         |
+ 8|   Stubey                   |  377200 |     600 |folded|    |         |
+ 9|D  Steve Zagieboylo         |  753150 |     600 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/14/19 04:38:59! Dealing a new hand
+! 03/14/19 04:38:59! Everyone antes $600
+! 03/14/19 04:38:59! BBLWOG blinds $4000
+! 03/14/19 05:30:27! dchizzle41 folds
+! 03/14/19 06:51:27! Ed Fernandez raises $8000 to $12000 total 
+! 03/14/19 10:19:34! delbaeth folds
+! 03/14/19 10:45:42! jasong calls 
+! 03/14/19 10:45:42! Stubey folds
+_____________________________________________________________________________
+
+! Nice hand, Jason; your patience paid off. Stubey, did you have a king?
+! -- Steve Zagieboylo --
+_____________________________________________________________________________
+
+! 03/14/19 10:45:42! Steve Zagieboylo folds
+! 03/14/19 11:08:51! BBLWOG calls 
+
+! 03/14/19 11:08:51! Pot right ($40200), flopping/dealing/drawing cards
+! 03/14/19 11:08:51! 3 players
+! 03/14/19 11:08:51! Flopped cards: 5s As 10c
+! 03/14/19 11:09:43! BBLWOG checks
+! 03/14/19 15:49:36! Ed Fernandez bets $18000 
+! 03/14/19 15:51:55! jasong raises $20000 to $38000 total 
+! 03/14/19 16:22:05! BBLWOG folds
+! 03/14/19 16:25:36! Ed Fernandez calls 
+
+! 03/14/19 16:25:36! Pot right ($116200), flopping/dealing/drawing cards
+! 03/14/19 16:25:36! 2 players
+! 03/14/19 16:25:36! Flopped card: 2h
+! 03/14/19 16:28:39! Ed Fernandez checks
+! 03/14/19 16:29:46! jasong bets $30000 
+! 03/14/19 16:40:52! Ed Fernandez calls 
+
+! 03/14/19 16:40:52! Pot right ($176200), flopping/dealing/drawing cards
+! 03/14/19 16:40:52! 2 players
+! 03/14/19 16:40:52! Flopped card: 9h
+! 03/14/19 16:41:25! Ed Fernandez checks
+! 03/14/19 16:43:46! jasong checks
+! Hand over, current board is:  5s As 10c 2h 9h
+! Ed Fernandez             has: Qs 10s
+! jasong                   has: Ad 7d
+! jasong wins $176200 (net $95600) with One Pair (A A 10 9 7)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|   BBLWOG                   |  154775 |         |      |    |         |
+ 3|   dchizzle41               |  192975 |         |      |    |         |
+ 5|>  Ed Fernandez             |  497825 |         |      |    |         |
+ 6|   delbaeth                 |  208600 |         |      |    |         |
+ 7|   jasong                   |  412300 |         |      |    |         |
+ 8|   Stubey                   |  377200 |         |      |    |         |
+ 9|D  Steve Zagieboylo         |  753150 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 109 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d9.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,112 @@
+Subject: [d21.10103] Holdem Game Broadcast Message(*)
+
+! Table d21, Hand 258, Day 100
+
+! Stubey calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   David Kuznick            |   56650 |     400 |folded|    |         |
+ 2|   Fish Doctor              |  135225 |     400 |folded|    |         |
+ 3|   Mike Sager               |  100050 |     400 |folded|    |         |
+ 4|   Deryl Garland            |   42450 |    6800 |folded|    |         |
+ 5|   Mybanjo                  |   36000 |     400 |folded|    |         |
+ 6|   bozo                     |  251125 |     400 |folded|    |         |
+ 7|D  Stubey                   |   87500 |   60800 |      |    |         |
+ 8|   Chevy                    |  237525 |    6800 |folded|    |         |
+ 9|>  Byfthalone               |  140250 |   60800 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/19/19 06:10:41! Dealing a new hand
+! 02/19/19 06:10:41! Everyone antes $400
+! 02/19/19 06:10:41! Chevy blinds $1600
+! 02/19/19 06:10:41! Byfthalone blinds $3200
+! 02/19/19 06:23:21! David Kuznick folds
+! 02/19/19 06:37:16! Fish Doctor folds
+! 02/19/19 06:41:30! Mike Sager folds
+! 02/19/19 06:47:05! Deryl Garland raises $3200 to $6400 total 
+! 02/19/19 10:16:19! Mybanjo folds
+! 02/19/19 10:16:19! bozo folds
+! 02/19/19 10:42:38! Stubey calls 
+! 02/19/19 12:18:21! Chevy calls 
+! 02/19/19 12:46:07! Byfthalone calls 
+
+! 02/19/19 12:46:07! Pot right ($29200), flopping/dealing/drawing cards
+! 02/19/19 12:46:07! 4 players
+! 02/19/19 12:46:07! Flopped cards: 3c 5h Jd
+! 02/19/19 14:56:48! Chevy checks
+! 02/19/19 15:23:55! Byfthalone bets $11000 
+! 02/19/19 15:27:21! Deryl Garland folds
+! 02/19/19 16:23:40! Stubey calls 
+! 02/19/19 16:23:40! Chevy folds
+
+! 02/19/19 16:23:40! Pot right ($51200), flopping/dealing/drawing cards
+! 02/19/19 16:23:40! 2 players
+! 02/19/19 16:23:40! Flopped card: 10h
+! 02/19/19 16:32:28! Byfthalone bets $13000 
+! 02/19/19 16:33:50! Stubey calls 
+
+! 02/19/19 16:33:50! Pot right ($77200), flopping/dealing/drawing cards
+! 02/19/19 16:33:50! 2 players
+! 02/19/19 16:33:50! Flopped card: 4h
+! 02/19/19 16:34:37! Byfthalone bets $30000 
+! 02/19/19 16:36:06! Stubey calls 
+! Hand over, current board is:  3c 5h Jd 10h 4h
+! Stubey                   has: Kh Kc
+! Byfthalone               has: 6d Qc
+! Stubey wins $137200 (net $76400) with One Pair (K K J 10 5)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   David Kuznick            |   56650 |         |      |    |         |
+ 2|   Fish Doctor              |  135225 |         |      |    |         |
+ 3|   Mike Sager               |  100050 |         |      |    |         |
+ 4|   Deryl Garland            |   42450 |         |      |    |         |
+ 5|   Mybanjo                  |   36000 |         |      |    |         |
+ 6|   bozo                     |  251125 |         |      |    |         |
+ 7|   Stubey                   |  224700 |         |      |    |         |
+ 8|D  Chevy                    |  237525 |         |      |    |         |
+ 9|>  Byfthalone               |  140250 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 207 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d21.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 7
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

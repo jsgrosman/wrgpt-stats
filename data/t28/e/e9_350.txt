@@ -1,0 +1,111 @@
+Subject: [e9.10045] Holdem Game Broadcast Message(*)
+
+! Table e9, Hand 350, Day 134
+
+! Pooper checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Joe Nadeau               |  919100 |    1000 |folded|    |         |
+ 2|   Mrstcao                  |  519975 |    1000 |folded|    |         |
+ 3|   TracyB                   |  173550 |    1000 |folded|    |         |
+ 4|D  sltLonghorn              |  533250 |    1000 |folded|    |         |
+ 5|   heffmike                 |  512750 |    4000 |folded|    |         |
+ 6|>  Steb                     |  104700 |   96000 |      |    |         |
+ 7|   GwynnInTheHall           |  434600 |    1000 |folded|    |         |
+ 8|   Pooper                   |   25500 |   96000 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/25/19 10:07:00! Dealing a new hand
+! 03/25/19 10:07:00! Everyone antes $1000
+! 03/25/19 10:07:00! heffmike blinds $3000
+! 03/25/19 10:07:00! Steb blinds $6000
+! 03/25/19 11:43:54! GwynnInTheHall folds
+! 03/25/19 11:47:54! Pooper raises $19000 to $25000 total 
+! 03/25/19 11:47:54! Joe Nadeau folds
+! 03/25/19 11:47:54! Mrstcao folds
+! 03/25/19 11:47:54! TracyB folds
+! 03/25/19 12:10:14! sltLonghorn folds
+! 03/25/19 12:25:39! heffmike folds
+! 03/25/19 13:06:22! Steb calls 
+
+! 03/25/19 13:06:22! Pot right ($61000), flopping/dealing/drawing cards
+! 03/25/19 13:06:22! 2 players
+! 03/25/19 13:06:22! Flopped cards: Kh Ad 9d
+! 03/25/19 14:02:31! Steb bets $20000 
+! 03/25/19 14:59:44! Pooper calls 
+
+! 03/25/19 14:59:44! Pot right ($101000), flopping/dealing/drawing cards
+! 03/25/19 14:59:44! 2 players
+! 03/25/19 14:59:44! Flopped card: 10h
+! 03/25/19 15:20:39! Steb checks
+! 03/25/19 15:45:07! Pooper bets $50000 
+! 03/25/19 16:35:43! Steb calls 
+
+! 03/25/19 16:35:43! Pot right ($201000), flopping/dealing/drawing cards
+! 03/25/19 16:35:43! 2 players
+! 03/25/19 16:35:43! Flopped card: As
+! 03/25/19 16:38:12! Steb checks
+! 03/25/19 16:43:55! Pooper checks
+! Hand over, current board is:  Kh Ad 9d 10h As
+! Steb                     has: 9h 2h
+! Pooper                   has: Qh Qc
+! Pooper wins $201000 (net $105000) with Two Pair (A A Q Q K)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Joe Nadeau               |  919100 |         |      |    |         |
+ 2|   Mrstcao                  |  519975 |         |      |    |         |
+ 3|   TracyB                   |  173550 |         |      |    |         |
+ 4|   sltLonghorn              |  533250 |         |      |    |         |
+ 5|D  heffmike                 |  512750 |         |      |    |         |
+ 6|>  Steb                     |  104700 |         |      |    |         |
+ 7|   GwynnInTheHall           |  434600 |         |      |    |         |
+ 8|   Pooper                   |  226500 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 78 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/e/e9.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+We have played more than 30 days of round d.  Now
+we will play until one table gets to five or fewer
+players at which time we will do a full redraw
+to start the e round.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 2
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

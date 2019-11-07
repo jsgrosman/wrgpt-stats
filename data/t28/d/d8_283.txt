@@ -1,0 +1,116 @@
+Subject: [d8.10339] Holdem Game Broadcast Message(*)
+
+! Table d8, Hand 283, Day 120
+
+! mark gray checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Not66                    |   65350 |     600 |folded|    |         |
+ 2|   Joe Nadeau               |  581250 |     600 |folded|    |         |
+ 3|   Eric Brassell            |  344400 |     600 |folded|    |         |
+ 4|   mark gray                |   46875 |    4600 |      |    |         |
+ 5|D  Paul Ant                 |  108950 |     600 |folded|    |         |
+ 6|>  AlbinoSmurf              |  428750 |    4600 |      |    |         |
+ 7|   Piojos                   |  534550 |    4600 |      |    |         |
+ 8|   dubldown                 |  124650 |     600 |folded|    |         |
+ 9|   BigElmo                  |  159700 |    4600 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/09/19 10:15:08! Dealing a new hand
+! 03/09/19 10:15:08! Everyone antes $600
+! 03/09/19 10:15:08! AlbinoSmurf blinds $2000
+! 03/09/19 10:15:08! Piojos blinds $4000
+! 03/09/19 11:00:47! dubldown folds
+! 03/09/19 11:02:10! BigElmo calls 
+! 03/09/19 11:26:10! Not66 folds
+! 03/09/19 11:31:03! Joe Nadeau folds
+! 03/09/19 12:39:10! Eric Brassell folds
+! 03/10/19 05:12:46! mark gray calls 
+! 03/10/19 05:12:46! Paul Ant folds
+! 03/10/19 09:11:50! AlbinoSmurf calls 
+! 03/10/19 09:25:24! Piojos checks
+
+! 03/10/19 09:25:24! Pot right ($21400), flopping/dealing/drawing cards
+! 03/10/19 09:25:24! 4 players
+! 03/10/19 09:25:24! Flopped cards: 6d Kh Jd
+! 03/10/19 11:04:09! AlbinoSmurf checks
+! 03/10/19 13:19:25! Piojos checks
+! 03/10/19 13:43:26! BigElmo checks
+! 03/10/19 16:44:16! mark gray checks
+
+! 03/10/19 16:44:16! Pot right ($21400), flopping/dealing/drawing cards
+! 03/10/19 16:44:16! 4 players
+! 03/10/19 16:44:16! Flopped card: 10c
+! 03/10/19 18:08:05! AlbinoSmurf checks
+! 03/10/19 18:26:10! Piojos checks
+! 03/10/19 18:34:21! BigElmo checks
+! 03/11/19 02:34:07! mark gray checks
+
+! 03/11/19 02:34:07! Pot right ($21400), flopping/dealing/drawing cards
+! 03/11/19 02:34:07! 4 players
+! 03/11/19 02:34:07! Flopped card: 7h
+! 03/11/19 06:51:23! AlbinoSmurf checks
+! 03/11/19 06:56:28! Piojos checks
+! 03/11/19 07:59:35! BigElmo checks
+! 03/11/19 08:07:16! mark gray checks
+! Hand over, current board is:  6d Kh Jd 10c 7h
+! mark gray                has: Ah 5h
+! AlbinoSmurf              has: 6s Qh
+! Piojos                   has: 2h 9d
+! BigElmo                  has: As 10h
+! BigElmo wins $21400 (net $16800) with One Pair (10 10 A K J)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Not66                    |   65350 |         |      |    |         |
+ 2|   Joe Nadeau               |  581250 |         |      |    |         |
+ 3|   Eric Brassell            |  344400 |         |      |    |         |
+ 4|   mark gray                |   46875 |         |      |    |         |
+ 5|   Paul Ant                 |  108950 |         |      |    |         |
+ 6|D> AlbinoSmurf              |  428750 |         |      |    |         |
+ 7|   Piojos                   |  534550 |         |      |    |         |
+ 8|   dubldown                 |  124650 |         |      |    |         |
+ 9|   BigElmo                  |  181100 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 124 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d8.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 2
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,103 @@
+Subject: [e9.10113] Holdem Game Broadcast Message(*)
+
+! Table e9, Hand 356, Day 138
+
+! Joe Nadeau checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Joe Nadeau               |  977300 |   40500 |      |    |         |
+ 2|D  Mrstcao                  |  538975 |    1000 |folded|    |         |
+ 3|   TracyB                   |  432100 |    4000 |folded|    |         |
+ 4|>  sltLonghorn              |  487750 |   40500 |      |    |         |
+ 5|   heffmike                 |  506750 |    1000 |folded|    |         |
+ 7|   GwynnInTheHall           |  181050 |    1000 |folded|    |         |
+ 8|   Pooper                   |  211500 |    1000 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/28/19 16:11:31! Dealing a new hand
+! 03/28/19 16:11:31! Everyone antes $1000
+! 03/28/19 16:11:31! TracyB blinds $3000
+! 03/28/19 16:11:31! sltLonghorn blinds $6000
+! 03/28/19 16:52:26! heffmike folds
+! 03/28/19 17:09:01! GwynnInTheHall folds
+! 03/28/19 17:09:01! Pooper folds
+! 03/28/19 18:56:17! Joe Nadeau raises $8500 to $14500 total 
+! 03/28/19 18:56:17! Mrstcao folds
+! 03/29/19 03:20:17! TracyB folds
+! 03/29/19 07:34:38! sltLonghorn calls 
+
+! 03/29/19 07:34:38! Pot right ($39000), flopping/dealing/drawing cards
+! 03/29/19 07:34:38! 2 players
+! 03/29/19 07:34:38! Flopped cards: 6d 3d Kd
+! 03/29/19 08:34:16! sltLonghorn checks
+! 03/29/19 09:03:51! Joe Nadeau bets $25000 
+! 03/29/19 09:05:05! sltLonghorn calls 
+
+! 03/29/19 09:05:05! Pot right ($89000), flopping/dealing/drawing cards
+! 03/29/19 09:05:05! 2 players
+! 03/29/19 09:05:05! Flopped card: 8h
+! 03/29/19 09:11:52! sltLonghorn checks
+! 03/29/19 09:13:05! Joe Nadeau checks
+
+! 03/29/19 09:13:05! Pot right ($89000), flopping/dealing/drawing cards
+! 03/29/19 09:13:05! 2 players
+! 03/29/19 09:13:05! Flopped card: Qd
+! 03/29/19 09:16:28! sltLonghorn checks
+! 03/29/19 09:17:15! Joe Nadeau checks
+! Hand over, current board is:  6d 3d Kd 8h Qd
+! Joe Nadeau               has: 5d Ac
+! sltLonghorn              has: As 10d
+! sltLonghorn wins $89000 (net $48500) with Diamond Flush (K Q 10 6 3)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Joe Nadeau               |  977300 |         |      |    |         |
+ 2|   Mrstcao                  |  538975 |         |      |    |         |
+ 3|D  TracyB                   |  432100 |         |      |    |         |
+ 4|>  sltLonghorn              |  576750 |         |      |    |         |
+ 5|   heffmike                 |  506750 |         |      |    |         |
+ 7|   GwynnInTheHall           |  181050 |         |      |    |         |
+ 8|   Pooper                   |  211500 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 74 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/e/e9.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

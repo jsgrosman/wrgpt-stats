@@ -1,0 +1,99 @@
+Subject: [d1.10726] Holdem Game Broadcast Message(*)
+
+! Table d1, Hand 331, Day 130
+
+! Alvin Chipmunk folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|   ADB Foldem               |  294425 |    1000 |folded|    |         |
+ 5|D  SunnyGirl                |  716100 |    1000 |folded|    |         |
+ 6|>  Spidurman                |  292200 |   22000 |      |    |         |
+ 7|   JohnnyMac                |  288000 |    7000 |folded|    |         |
+ 8|   Alvin Chipmunk           |  463425 |    7000 |folded|    |         |
+ 9|   TennisGeek               |  432225 |    1000 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/20/19 10:28:27! Dealing a new hand
+! 03/20/19 10:28:27! Everyone antes $1000
+! 03/20/19 10:28:27! Spidurman blinds $3000
+! 03/20/19 10:28:27! JohnnyMac blinds $6000
+! 03/20/19 10:30:48! Alvin Chipmunk calls 
+! 03/20/19 10:54:47! TennisGeek folds
+! 03/20/19 10:54:47! ADB Foldem folds
+! 03/20/19 17:27:48! SunnyGirl folds
+! 03/20/19 18:28:49! Spidurman calls 
+! 03/20/19 18:46:50! JohnnyMac checks
+
+! 03/20/19 18:46:50! Pot right ($24000), flopping/dealing/drawing cards
+! 03/20/19 18:46:50! 3 players
+! 03/20/19 18:46:50! Flopped cards: As Ad 4d
+! 03/20/19 18:49:23! Spidurman checks
+! 03/20/19 18:50:05! JohnnyMac checks
+! 03/20/19 18:52:33! Alvin Chipmunk checks
+
+! 03/20/19 18:52:33! Pot right ($24000), flopping/dealing/drawing cards
+! 03/20/19 18:52:33! 3 players
+! 03/20/19 18:52:33! Flopped card: 6s
+! 03/20/19 19:21:35! Spidurman bets $15000 
+! 03/21/19 03:26:33! JohnnyMac folds
+! 03/21/19 05:44:04! Alvin Chipmunk folds
+! Hand over, no showdown
+! Current board is:  As Ad 4d 6s ?
+! Spidurman wins $39000 (net $17000)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|   ADB Foldem               |  294425 |         |      |    |         |
+ 5|   SunnyGirl                |  716100 |         |      |    |         |
+ 6|D> Spidurman                |  331200 |         |      |    |         |
+ 7|   JohnnyMac                |  288000 |         |      |    |         |
+ 8|   Alvin Chipmunk           |  463425 |         |      |    |         |
+ 9|   TennisGeek               |  432225 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 93 players left in the tournament, 2 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d1.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+We have played more than 30 days of round d.  Now
+we will play until one table gets to five or fewer
+players at which time we will do a full redraw
+to start the e round.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 15
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

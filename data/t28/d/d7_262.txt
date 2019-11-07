@@ -1,0 +1,108 @@
+Subject: [d7.10113] Holdem Game Broadcast Message(*)
+
+! Table d7, Hand 262, Day 102
+
+! Thomas Sims calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Felix Leiter             |  190900 |     400 |folded|    |         |
+ 2|D  Thomas Sims              |  108500 |   36600 |      |    |         |
+ 3|>  Isaac Newton             |   47025 |   36600 |      |    |         |
+ 4|   Reggie Miller            |  152000 |    3600 |folded|    |         |
+ 5|   Kentr                    |  106150 |     400 |folded|    |         |
+ 6|   The Llama                |   34400 |     400 |folded|    |         |
+ 7|   Peter Gozinya            |  149950 |     400 |folded|    |         |
+ 8|   Fredrik Westerlund       |   58875 |     400 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/20/19 16:37:14! Dealing a new hand
+! 02/20/19 16:37:14! Everyone antes $400
+! 02/20/19 16:37:14! Isaac Newton blinds $1600
+! 02/20/19 16:37:14! Reggie Miller blinds $3200
+! 02/20/19 16:40:10! Kentr folds
+! 02/20/19 16:42:21! The Llama folds
+! 02/20/19 16:42:21! Peter Gozinya folds
+! 02/20/19 21:21:03! Fredrik Westerlund folds
+! 02/20/19 21:21:03! Felix Leiter folds
+! 02/20/19 21:38:40! Thomas Sims raises $5000 to $8200 total 
+! 02/20/19 21:44:43! Isaac Newton calls 
+! 02/21/19 02:40:35! Reggie Miller folds
+
+! 02/21/19 02:40:35! Pot right ($22800), flopping/dealing/drawing cards
+! 02/21/19 02:40:35! 2 players
+! 02/21/19 02:40:35! Flopped cards: Ah 7s Kd
+! 02/21/19 04:27:37! Isaac Newton checks
+! 02/21/19 07:14:11! Thomas Sims bets $7000 
+! 02/21/19 07:32:52! Isaac Newton calls 
+
+! 02/21/19 07:32:52! Pot right ($36800), flopping/dealing/drawing cards
+! 02/21/19 07:32:52! 2 players
+! 02/21/19 07:32:52! Flopped card: Qh
+! 02/21/19 07:34:18! Isaac Newton bets $7000 
+! 02/21/19 07:36:00! Thomas Sims raises $7000 to $14000 total 
+! 02/21/19 07:37:00! Isaac Newton calls 
+
+! 02/21/19 07:37:00! Pot right ($64800), flopping/dealing/drawing cards
+! 02/21/19 07:37:00! 2 players
+! 02/21/19 07:37:00! Flopped card: Jc
+! 02/21/19 07:38:11! Isaac Newton bets $7000 
+! 02/21/19 07:39:27! Thomas Sims calls 
+! Hand over, current board is:  Ah 7s Kd Qh Jc
+! Thomas Sims              has: 2h Ac
+! Isaac Newton             has: Ks 10c
+! Isaac Newton wins $78800 (net $42200) with Straight (A K Q J 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Felix Leiter             |  190900 |         |      |    |         |
+ 2|   Thomas Sims              |  108500 |         |      |    |         |
+ 3|D> Isaac Newton             |  125825 |         |      |    |         |
+ 4|   Reggie Miller            |  152000 |         |      |    |         |
+ 5|   Kentr                    |  106150 |         |      |    |         |
+ 6|   The Llama                |   34400 |         |      |    |         |
+ 7|   Peter Gozinya            |  149950 |         |      |    |         |
+ 8|   Fredrik Westerlund       |   58875 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 199 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d7.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,117 @@
+Subject: [d4.10364] Holdem Game Broadcast Message(*)
+
+! Table d4, Hand 293, Day 118
+
+! JPP calls - side pot
+! Pot right ($468650), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped card: 4c
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|V  sgranen                  |  206700 |     600 |12 Mar|    |         |
+ 2|   Larry W                  |  122425 |     600 |folded|    |         |
+ 3|   heffmike                 |  279225 |    4600 |folded|    |         |
+ 4|   Jeff Goff                |   75200 |    4600 |folded|    |         |
+ 5|>  JPP                      |       0 |  143425 |all-in|  2 |  311050 |
+ 6|D  ddppmm                   |  167200 |    4600 |folded|    |         |
+ 7|   Mike Sager               |    7550 |    4600 |folded|    |         |
+ 8|   Keith Troell             |   83875 |    4600 |folded|    |         |
+ 9|   Poker Dog                |       0 |  301025 |all-in|  1 |  157600 |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/08/19 08:23:37! Dealing a new hand
+! 03/08/19 08:23:37! Everyone antes $600
+! 03/08/19 08:23:37! Mike Sager blinds $2000
+! 03/08/19 08:23:37! Keith Troell blinds $4000
+! 03/08/19 08:35:16! Poker Dog calls 
+! 03/08/19 08:35:16! sgranen is on vacation and folds
+! 03/08/19 08:42:52! Larry W folds
+! 03/08/19 09:15:07! heffmike calls 
+! 03/08/19 10:08:28! Jeff Goff calls 
+! 03/08/19 10:41:34! JPP calls 
+! 03/08/19 12:00:32! ddppmm calls 
+! 03/08/19 13:43:11! Mike Sager calls 
+! 03/08/19 13:43:11! Keith Troell checks
+
+! 03/08/19 13:43:11! Pot right ($33400), flopping/dealing/drawing cards
+! 03/08/19 13:43:11! 7 players
+! 03/08/19 13:43:11! Flopped cards: 3s 3d 8d
+! 03/08/19 13:43:51! Mike Sager checks
+! 03/08/19 14:27:05! Keith Troell checks
+! 03/08/19 14:30:53! Poker Dog bets $33000 
+! 03/09/19 12:32:44! heffmike folds
+! 03/09/19 12:32:44! Jeff Goff folds
+! 03/09/19 13:09:30! JPP calls 
+! 03/09/19 13:09:30! ddppmm folds
+! 03/09/19 13:14:28! Mike Sager folds
+! 03/09/19 13:14:28! Keith Troell folds
+
+! 03/09/19 13:14:28! Pot right ($99400), flopping/dealing/drawing cards
+! 03/09/19 13:14:28! 2 players
+! 03/09/19 13:14:28! Flopped card: 6c
+! 03/09/19 13:14:28! Poker Dog bets $263425 and is all in
+! 03/09/19 13:46:19! JPP calls - side pot
+
+! 03/09/19 13:46:19! Pot right ($468650), flopping/dealing/drawing cards
+! 03/09/19 13:46:19! 2 players, 2 all in
+! 03/09/19 13:46:19! Flopped card: 4c
+! Hand over, current board is:  3s 3d 8d 6c 4c
+! JPP                      has: 9d 9c
+! Poker Dog                has: Ad 6d
+! Pot 1: uncalled $157600 returned to Poker Dog
+! Pot 2: JPP wins $311050 with Two Pair (9 9 3 3 8)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|V  sgranen                  |  206700 |         |12 Mar|    |         |
+ 2|   Larry W                  |  122425 |         |      |    |         |
+ 3|   heffmike                 |  279225 |         |      |    |         |
+ 4|   Jeff Goff                |   75200 |         |      |    |         |
+ 5|>  JPP                      |  311050 |         |      |    |         |
+ 6|   ddppmm                   |  167200 |         |      |    |         |
+ 7|D  Mike Sager               |    7550 |         |      |    |         |
+ 8|   Keith Troell             |   83875 |         |      |    |         |
+ 9|   Poker Dog                |  157600 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 125 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d4.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 10
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

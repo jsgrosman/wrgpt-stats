@@ -1,0 +1,113 @@
+Subject: [d5.10114] Holdem Game Broadcast Message(*)
+
+! Table d5, Hand 261, Day 103
+
+! AveCat checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  AveCat                   |  126175 |   45325 |      |    |         |
+ 2|>  Bob Brewster             |  251975 |   45325 |      |    |         |
+ 3|   the cake is a pie        |  196250 |    3600 |folded|    |         |
+ 4|   Olof Siverbo             |   76100 |     400 |folded|    |         |
+ 5|   Jeff Palmucci            |       0 |   45325 |all-in|    |         |
+ 6|   kettledrum               |   37600 |     400 |folded|    |         |
+ 7|   GwynnInTheHall           |  140500 |     400 |folded|    |         |
+ 8|   DazedAndConfused         |  199100 |     400 |folded|    |         |
+ 9|   breyercalvert            |  137450 |     400 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/22/19 08:33:54! Dealing a new hand
+! 02/22/19 08:33:54! Everyone antes $400
+! 02/22/19 08:33:54! Bob Brewster blinds $1600
+! 02/22/19 08:33:54! the cake is a pie blinds $3200
+! 02/22/19 09:18:13! Olof Siverbo folds
+! 02/22/19 09:40:14! Jeff Palmucci raises $4800 to $8000 total 
+! 02/22/19 09:40:14! kettledrum folds
+! 02/22/19 09:40:14! GwynnInTheHall folds
+! 02/22/19 10:25:23! DazedAndConfused folds
+! 02/22/19 10:25:23! breyercalvert folds
+! 02/22/19 10:44:09! AveCat calls 
+! 02/22/19 11:43:33! Bob Brewster calls 
+! 02/22/19 11:43:33! the cake is a pie folds
+
+! 02/22/19 11:43:33! Pot right ($30800), flopping/dealing/drawing cards
+! 02/22/19 11:43:33! 3 players
+! 02/22/19 11:43:33! Flopped cards: Ad 10h 7h
+! 02/22/19 11:44:16! Bob Brewster bets $5000 
+! 02/22/19 11:46:47! Jeff Palmucci raises $31925 to $36925 total and is all in
+! 02/22/19 12:56:35! AveCat calls 
+! 02/22/19 12:57:37! Bob Brewster calls 
+
+! 02/22/19 12:57:37! Pot right ($141575), flopping/dealing/drawing cards
+! 02/22/19 12:57:37! 3 players, 1 all in
+! 02/22/19 12:57:37! Flopped card: 2s
+! 02/22/19 12:58:09! Bob Brewster checks
+! 02/22/19 13:04:02! AveCat checks
+
+! 02/22/19 13:04:02! Pot right ($141575), flopping/dealing/drawing cards
+! 02/22/19 13:04:02! 3 players, 1 all in
+! 02/22/19 13:04:02! Flopped card: 7s
+! 02/22/19 13:04:53! Bob Brewster checks
+! 02/22/19 13:05:19! AveCat checks
+! Hand over, current board is:  Ad 10h 7h 2s 7s
+! AveCat                   has: As Qc
+! Bob Brewster             has: Kh 8h
+! Jeff Palmucci            has: Qs Ac
+! AveCat wins $70775 (net $25450) with Two Pair (A A 7 7 Q)
+! Jeff Palmucci wins $70800 (net $25475) with Two Pair (A A 7 7 Q)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   AveCat                   |  196950 |         |      |    |         |
+ 2|D> Bob Brewster             |  251975 |         |      |    |         |
+ 3|   the cake is a pie        |  196250 |         |      |    |         |
+ 4|   Olof Siverbo             |   76100 |         |      |    |         |
+ 5|   Jeff Palmucci            |   70800 |         |      |    |         |
+ 6|   kettledrum               |   37600 |         |      |    |         |
+ 7|   GwynnInTheHall           |  140500 |         |      |    |         |
+ 8|   DazedAndConfused         |  199100 |         |      |    |         |
+ 9|   breyercalvert            |  137450 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 192 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d5.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

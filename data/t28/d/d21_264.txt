@@ -1,0 +1,113 @@
+Subject: [d21.10179] Holdem Game Broadcast Message(*)
+
+! Table d21, Hand 264, Day 104
+
+! lektoraj checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   David Kuznick            |   99500 |     400 |folded|    |         |
+ 2|   Fish Doctor              |  169025 |     400 |folded|    |         |
+ 3|   Mike Sager               |  104050 |     400 |folded|    |         |
+ 4|D  lektoraj                 |  319150 |   27600 |      |    |         |
+ 5|   Mybanjo                  |       0 |   27600 |all-in|    |         |
+ 6|   bozo                     |  239125 |    3600 |folded|    |         |
+ 7|   Stubey                   |  207700 |    3600 |folded|    |         |
+ 8|>  Chevy                    |  181525 |   27600 |      |    |         |
+ 9|   Byfthalone               |  161050 |     400 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/22/19 07:55:25! Dealing a new hand
+! 02/22/19 07:55:25! Everyone antes $400
+! 02/22/19 07:55:25! Mybanjo blinds $1600
+! 02/22/19 07:55:25! bozo blinds $3200
+! 02/22/19 08:09:19! Stubey calls 
+! 02/22/19 08:34:18! Chevy calls 
+! 02/22/19 08:34:18! Byfthalone folds
+! 02/22/19 08:56:42! David Kuznick folds
+! 02/22/19 08:56:42! Fish Doctor folds
+! 02/22/19 08:56:42! Mike Sager folds
+! 02/22/19 09:34:17! lektoraj raises $10800 to $14000 total 
+! 02/22/19 10:09:45! Mybanjo raises $13200 to $27200 total and is all in
+! 02/22/19 10:32:32! bozo folds
+! 02/22/19 10:51:41! Stubey folds
+! 02/22/19 12:33:55! Chevy calls 
+! 02/22/19 12:40:59! lektoraj calls 
+
+! 02/22/19 12:40:59! Pot right ($91600), flopping/dealing/drawing cards
+! 02/22/19 12:40:59! 3 players, 1 all in
+! 02/22/19 12:40:59! Flopped cards: 7c 6c 4d
+! 02/22/19 12:40:59! Chevy checks
+! 02/22/19 17:00:33! lektoraj checks
+
+! 02/22/19 17:00:33! Pot right ($91600), flopping/dealing/drawing cards
+! 02/22/19 17:00:33! 3 players, 1 all in
+! 02/22/19 17:00:33! Flopped card: 5d
+! 02/23/19 03:56:53! Chevy checks
+! 02/23/19 03:56:53! lektoraj checks
+
+! 02/23/19 03:56:53! Pot right ($91600), flopping/dealing/drawing cards
+! 02/23/19 03:56:53! 3 players, 1 all in
+! 02/23/19 03:56:53! Flopped card: 8c
+! 02/23/19 04:01:28! Chevy checks
+! 02/23/19 04:03:43! lektoraj checks
+! Hand over, current board is:  7c 6c 4d 5d 8c
+! lektoraj                 has: Qd Jc
+! Mybanjo                  has: As 9s
+! Chevy                    has: 2h Ad
+! Mybanjo wins $91600 (net $64000) with Straight (9 8 7 6 5)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   David Kuznick            |   99500 |         |      |    |         |
+ 2|   Fish Doctor              |  169025 |         |      |    |         |
+ 3|   Mike Sager               |  104050 |         |      |    |         |
+ 4|   lektoraj                 |  319150 |         |      |    |         |
+ 5|D  Mybanjo                  |   91600 |         |      |    |         |
+ 6|   bozo                     |  239125 |         |      |    |         |
+ 7|   Stubey                   |  207700 |         |      |    |         |
+ 8|>  Chevy                    |  181525 |         |      |    |         |
+ 9|   Byfthalone               |  161050 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 191 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d21.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 7
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

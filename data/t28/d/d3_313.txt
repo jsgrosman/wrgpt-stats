@@ -1,0 +1,97 @@
+Subject: [d3.10598] Holdem Game Broadcast Message(*)
+
+! Table d3, Hand 313, Day 122
+
+! ADB Jaeger folds
+! CAB folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Brian Crowley            |  369675 |     600 |folded|    |         |
+ 2|   DotMatrix                |   10425 |       0 |New   |    |         |
+ 3|DV Ben Buchwald             |  208325 |     600 |Mar 16|    |         |
+ 4|>  Byfthalone               |  404500 |   11000 |      |    |         |
+ 5|   ADB Jaeger               |  185450 |    4600 |folded|    |         |
+ 6|   CAB                      |  395775 |    4600 |folded|    |         |
+ 7|   Camo                     |  162850 |     600 |folded|    |         |
+ 8|   Barton                   |  569175 |       0 |New   |    |         |
+ 9|   Mike Litoris             |  340175 |     600 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/12/19 16:01:12! Dealing a new hand
+! 03/12/19 16:01:12! Everyone antes $600
+! 03/12/19 16:01:12! Byfthalone blinds $2000
+! 03/12/19 16:01:12! ADB Jaeger blinds $4000
+! 03/12/19 16:33:19! CAB calls 
+! 03/12/19 16:33:19! Camo folds
+! 03/12/19 17:22:41! Mike Litoris folds
+! 03/12/19 17:22:41! Brian Crowley folds
+! 03/12/19 17:22:41! Ben Buchwald is on vacation and folds
+! 03/12/19 17:39:26! Byfthalone calls 
+! 03/12/19 17:41:28! ADB Jaeger checks
+
+! 03/12/19 17:41:28! Pot right ($16200), flopping/dealing/drawing cards
+! 03/12/19 17:41:28! 3 players
+! 03/12/19 17:41:28! Flopped cards: 6s Ac 2c
+! 03/12/19 18:25:05! New player added to the table: DotMatrix
+! 03/12/19 18:55:03! New player added to the table: Barton
+! 03/12/19 18:57:11! Byfthalone bets $6400 
+! 03/13/19 03:45:56! ADB Jaeger folds
+! 03/13/19 03:45:56! CAB folds
+! Hand over, no showdown
+! Current board is:  6s Ac 2c ? ?
+! Byfthalone wins $22600 (net $11600)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Brian Crowley            |  369675 |         |      |    |         |
+ 2|   DotMatrix                |   10425 |         |      |    |         |
+ 3|V  Ben Buchwald             |  208325 |         |Mar 16|    |         |
+ 4|D> Byfthalone               |  427100 |         |      |    |         |
+ 5|   ADB Jaeger               |  185450 |         |      |    |         |
+ 6|   CAB                      |  395775 |         |      |    |         |
+ 7|   Camo                     |  162850 |         |      |    |         |
+ 8|   Barton                   |  569175 |         |      |    |         |
+ 9|   Mike Litoris             |  340175 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 118 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d3.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 11
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

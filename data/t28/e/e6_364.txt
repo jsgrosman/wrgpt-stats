@@ -1,0 +1,96 @@
+Subject: [e6.10206] Holdem Game Broadcast Message(*)
+
+! Table e6, Hand 364, Day 141
+
+! Billco folds
+! Pot right ($281375), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped cards: 4d 5h 5s
+! Flopped card: 10d
+! Flopped card: 8d
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|D  sgranen                  |  118425 |    1000 |folded|    |         |
+ 3|   the cake is a pie        |       0 |  154900 |all-in|  1 |   45425 |
+ 4|>  Billco                   |  780825 |   13000 |folded|    |         |
+ 5|   Steve Zagieboylo         |  392775 |    1000 |folded|    |         |
+ 6|   poohbear                 |  656625 |    1000 |folded|    |         |
+ 7|   Bob Brewster             |  266500 |    1000 |folded|    |         |
+ 9|   David Weiss              |       0 |  109475 |all-in|  2 |  235950 |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 04/01/19 08:01:22! Dealing a new hand
+! 04/01/19 08:01:22! Everyone antes $1000
+! 04/01/19 08:01:22! the cake is a pie blinds $6000
+! 04/01/19 08:01:22! Billco blinds $12000
+! 04/01/19 08:01:56! Steve Zagieboylo folds
+! 04/01/19 08:33:11! poohbear folds
+! 04/01/19 09:00:06! Bob Brewster folds
+! 04/01/19 09:00:06! David Weiss raises $96475 to $108475 total and is all in
+! 04/01/19 11:19:09! sgranen folds
+! 04/01/19 11:42:13! the cake is a pie raises $45425 to $153900 total and is all in
+! 04/01/19 11:47:33! Billco folds
+
+! 04/01/19 11:47:33! Pot right ($281375), flopping/dealing/drawing cards
+! 04/01/19 11:47:33! 2 players, 2 all in
+! 04/01/19 11:47:33! Flopped cards: 4d 5h 5s
+! 04/01/19 11:47:33! Flopped card: 10d
+! 04/01/19 11:47:33! Flopped card: 8d
+! Hand over, current board is:  4d 5h 5s 10d 8d
+! the cake is a pie        has: Qh Jh
+! David Weiss              has: Js Kd
+! Pot 1: uncalled $45425 returned to the cake is a pie
+! Pot 2: David Weiss wins $235950 with One Pair (5 5 K J 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|   sgranen                  |  118425 |         |      |    |         |
+ 3|D  the cake is a pie        |   45425 |         |      |    |         |
+ 4|>  Billco                   |  780825 |         |      |    |         |
+ 5|   Steve Zagieboylo         |  392775 |         |      |    |         |
+ 6|   poohbear                 |  656625 |         |      |    |         |
+ 7|   Bob Brewster             |  266500 |         |      |    |         |
+ 9|   David Weiss              |  235950 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 72 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/e/e6.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 10
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

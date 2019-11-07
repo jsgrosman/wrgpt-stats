@@ -1,0 +1,109 @@
+Subject: [e6.10158] Holdem Game Broadcast Message(*)
+
+! Table e6, Hand 359, Day 139
+
+! Steve Zagieboylo calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Ryan Thomas              |  170525 |    1000 |folded|    |         |
+ 2|   sgranen                  |  110425 |    1000 |folded|    |         |
+ 3|   the cake is a pie        |  164900 |    1000 |folded|    |         |
+ 4|>  Billco                   |  703825 |   63000 |      |    |         |
+ 5|D  Steve Zagieboylo         |  391375 |   63000 |      |    |         |
+ 6|   poohbear                 |  463500 |    7000 |folded|    |         |
+ 7|   Bob Brewster             |  207500 |    7000 |folded|    |         |
+ 9|   David Weiss              |  140475 |    1000 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/29/19 13:01:19! Dealing a new hand
+! 03/29/19 13:01:19! Everyone antes $1000
+! 03/29/19 13:01:19! poohbear blinds $3000
+! 03/29/19 13:01:19! Bob Brewster blinds $6000
+! 03/29/19 13:09:33! David Weiss folds
+! 03/29/19 13:34:06! Ryan Thomas folds
+! 03/29/19 13:34:06! sgranen folds
+! 03/29/19 13:34:06! the cake is a pie folds
+! 03/29/19 21:49:14! Billco calls 
+! 03/29/19 23:35:14! Steve Zagieboylo calls 
+! 03/30/19 00:38:28! poohbear calls 
+! 03/30/19 00:39:56! Bob Brewster checks
+
+! 03/30/19 00:39:56! Pot right ($32000), flopping/dealing/drawing cards
+! 03/30/19 00:39:56! 4 players
+! 03/30/19 00:39:56! Flopped cards: 4s Qs 6d
+! 03/30/19 02:02:06! poohbear checks
+! 03/30/19 11:36:32! Bob Brewster checks
+! 03/30/19 11:40:33! Billco bets $21000 
+! 03/30/19 11:44:45! Steve Zagieboylo calls 
+! 03/30/19 13:37:46! poohbear folds
+! 03/30/19 13:37:46! Bob Brewster folds
+
+! 03/30/19 13:37:46! Pot right ($74000), flopping/dealing/drawing cards
+! 03/30/19 13:37:46! 2 players
+! 03/30/19 13:37:46! Flopped card: Kh
+! 03/30/19 13:42:00! Billco bets $10000 
+! 03/30/19 14:34:06! Steve Zagieboylo calls 
+
+! 03/30/19 14:34:06! Pot right ($94000), flopping/dealing/drawing cards
+! 03/30/19 14:34:06! 2 players
+! 03/30/19 14:34:06! Flopped card: Qc
+! 03/30/19 14:44:28! Billco bets $25000 
+! 03/30/19 14:45:59! Steve Zagieboylo calls 
+! Hand over, current board is:  4s Qs 6d Kh Qc
+! Billco                   has: Qh 9d
+! Steve Zagieboylo         has: Qd 8d
+! Billco wins $144000 (net $81000) with Three of a Kind (Q Q Q K 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Ryan Thomas              |  170525 |         |      |    |         |
+ 2|   sgranen                  |  110425 |         |      |    |         |
+ 3|   the cake is a pie        |  164900 |         |      |    |         |
+ 4|>  Billco                   |  847825 |         |      |    |         |
+ 5|   Steve Zagieboylo         |  391375 |         |      |    |         |
+ 6|D  poohbear                 |  463500 |         |      |    |         |
+ 7|   Bob Brewster             |  207500 |         |      |    |         |
+ 9|   David Weiss              |  140475 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 74 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/e/e6.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

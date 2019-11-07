@@ -1,0 +1,115 @@
+Subject: [b21.10049] Holdem Game Broadcast Message(*)
+
+! Table b21, Hand 3, Day 3
+
+! Regis checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Poker Coach              |   50000 |       0 |folded|    |         |
+ 2|   Regis                    |   48975 |     950 |      |    |         |
+ 3|D  MikeD                    |   62100 |       0 |folded|    |         |
+ 4|>  Camo                     |   36200 |     950 |      |    |         |
+ 5|   John Cairns              |   49850 |     150 |folded|    |         |
+ 6|   Ed Baker                 |   54175 |       0 |folded|    |         |
+ 7|   caj                      |   47025 |       0 |folded|    |         |
+ 8|   rktsci                   |   49625 |       0 |folded|    |         |
+ 9|   DrSayre                  |   50000 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/05/19 15:06:18! Dealing a new hand
+! 11/05/19 15:06:18! No ante
+! 11/05/19 15:06:18! Camo blinds $75
+! 11/05/19 15:06:18! John Cairns blinds $150
+! 11/05/19 15:45:19! Ed Baker folds
+! 11/05/19 15:45:19! caj folds
+! 11/05/19 18:41:18! rktsci folds
+! 11/06/19 07:46:22! DrSayre folds
+! 11/06/19 07:46:22! Poker Coach folds
+! 11/06/19 08:00:49! Regis raises $300 to $450 total 
+! 11/06/19 08:00:49! MikeD folds
+! 11/06/19 08:39:02! Camo calls 
+! 11/06/19 08:39:02! John Cairns folds
+
+! 11/06/19 08:39:02! Pot right ($1050), flopping/dealing/drawing cards
+! 11/06/19 08:39:02! 2 players
+! 11/06/19 08:39:02! Flopped cards: 9d 6s 10h
+! 11/06/19 08:39:46! Camo checks
+! 11/06/19 09:01:40! Regis bets $500 
+! 11/06/19 09:02:54! Camo calls 
+
+! 11/06/19 09:02:54! Pot right ($2050), flopping/dealing/drawing cards
+! 11/06/19 09:02:54! 2 players
+! 11/06/19 09:02:54! Flopped card: 7s
+! 11/06/19 09:05:21! Camo checks
+! 11/06/19 09:09:17! Regis checks
+
+! 11/06/19 09:09:17! Pot right ($2050), flopping/dealing/drawing cards
+! 11/06/19 09:09:17! 2 players
+! 11/06/19 09:09:17! Flopped card: 2d
+! 11/06/19 09:10:17! Camo checks
+! 11/06/19 09:15:46! Regis checks
+! Hand over, current board is:  9d 6s 10h 7s 2d
+! Regis                    has: Ac 9c
+! Camo                     has: 9s Kd
+! Regis wins $2050 (net $1100) with One Pair (9 9 A 10 7)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Poker Coach              |   50000 |         |      |    |         |
+ 2|   Regis                    |   51025 |         |      |    |         |
+ 3|   MikeD                    |   62100 |         |      |    |         |
+ 4|D> Camo                     |   36200 |         |      |    |         |
+ 5|   John Cairns              |   49850 |         |      |    |         |
+ 6|   Ed Baker                 |   54175 |         |      |    |         |
+ 7|   caj                      |   47025 |         |      |    |         |
+ 8|   rktsci                   |   49625 |         |      |    |         |
+ 9|   DrSayre                  |   50000 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 538 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b21.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+This is the REAL WRGPT29.
+Changes to office hours and email addresses do not carry over from the
+practice round.
+You have been assigned a new ID and the round is "b".
+
+Good luck.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 7
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

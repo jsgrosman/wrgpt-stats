@@ -1,0 +1,117 @@
+Subject: [d3.10118] Holdem Game Broadcast Message(*)
+
+! Table d3, Hand 261, Day 100
+
+! drjeys checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Brian Crowley            |  540025 |     400 |folded|    |         |
+ 2|D  drjeys                   |   96750 |   78600 |      |    |         |
+ 3|   Ben Buchwald             |  112725 |    2000 |folded|    |         |
+ 4|   Scot Wolfington          |   92800 |    3600 |folded|    |         |
+ 5|V  Diputsur                 |   28225 |     400 |<AWOL>|    |         |
+ 6|   CAB                      |  183975 |     400 |folded|    |         |
+ 7|   Camo                     |  137225 |     400 |folded|    |         |
+ 8|>  What Beats What Again    |   57500 |   78600 |      |    |         |
+ 9|   Kyle Stein               |   47400 |   18600 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/18/19 18:23:56! Dealing a new hand
+! 02/18/19 18:23:56! Everyone antes $400
+! 02/18/19 18:23:56! Ben Buchwald blinds $1600
+! 02/18/19 18:23:56! Scot Wolfington blinds $3200
+! 02/18/19 18:23:56! Diputsur is on vacation and folds
+! 02/18/19 18:28:41! CAB folds
+! 02/18/19 18:54:18! Camo folds
+! 02/18/19 19:39:02! What Beats What Again calls 
+! 02/18/19 19:40:08! Kyle Stein calls 
+! 02/19/19 03:22:25! Brian Crowley folds
+! 02/19/19 04:39:38! drjeys calls 
+! 02/19/19 04:39:38! Ben Buchwald folds
+! 02/19/19 04:52:05! Scot Wolfington checks
+
+! 02/19/19 04:52:05! Pot right ($18000), flopping/dealing/drawing cards
+! 02/19/19 04:52:05! 4 players
+! 02/19/19 04:52:05! Flopped cards: 8d 3h 10h
+! 02/19/19 05:25:42! Scot Wolfington checks
+! 02/19/19 06:21:52! What Beats What Again checks
+! 02/19/19 06:32:42! Kyle Stein checks
+! 02/19/19 06:42:24! drjeys bets $15000 
+! 02/19/19 06:56:44! Scot Wolfington folds
+! 02/19/19 06:57:24! What Beats What Again calls 
+! 02/19/19 06:59:43! Kyle Stein calls 
+
+! 02/19/19 06:59:43! Pot right ($63000), flopping/dealing/drawing cards
+! 02/19/19 06:59:43! 3 players
+! 02/19/19 06:59:43! Flopped card: 4d
+! 02/19/19 07:00:43! What Beats What Again checks
+! 02/19/19 07:01:27! Kyle Stein checks
+! 02/19/19 07:03:05! drjeys bets $60000 
+! 02/19/19 07:08:05! What Beats What Again calls 
+! 02/19/19 07:44:38! Kyle Stein folds
+
+! 02/19/19 07:44:38! Pot right ($183000), flopping/dealing/drawing cards
+! 02/19/19 07:44:38! 2 players
+! 02/19/19 07:44:38! Flopped card: Ac
+! 02/19/19 07:51:45! What Beats What Again checks
+! 02/19/19 08:00:12! drjeys checks
+! Hand over, current board is:  8d 3h 10h 4d Ac
+! drjeys                   has: Ks Kd
+! What Beats What Again    has: 9d 7d
+! drjeys wins $183000 (net $104400) with One Pair (K K A 10 8)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Brian Crowley            |  540025 |         |      |    |         |
+ 2|   drjeys                   |  279750 |         |      |    |         |
+ 3|D  Ben Buchwald             |  112725 |         |      |    |         |
+ 4|   Scot Wolfington          |   92800 |         |      |    |         |
+ 5|V  Diputsur                 |   28225 |         |<AWOL>|    |         |
+ 6|   CAB                      |  183975 |         |      |    |         |
+ 7|   Camo                     |  137225 |         |      |    |         |
+ 8|>  What Beats What Again    |   57500 |         |      |    |         |
+ 9|   Kyle Stein               |   47400 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 211 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d3.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 4
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

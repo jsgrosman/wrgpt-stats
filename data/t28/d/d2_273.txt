@@ -1,0 +1,101 @@
+Subject: [d2.10186] Holdem Game Broadcast Message(*)
+
+! Table d2, Hand 273, Day 109
+
+! Mrstcao raises $263300 to $313250 total and is all in
+! Pot right ($372400), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped card: 10d
+! Flopped card: 3d
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   zzzrbt                   |   92475 |     400 |folded|    |         |
+ 2|   DocOber                  |  333675 |     400 |folded|    |         |
+ 3|   PMD                      |   42050 |     400 |folded|    |         |
+ 6|D  Poker Coach              |   86900 |     400 |folded|    |         |
+ 7|   DroogieDroog             |       0 |   53550 |all-in|  2 |  109100 |
+ 8|>  Mrstcao                  |       0 |  316850 |all-in|  1 |  263300 |
+ 9|   TrayRacer                |   97700 |     400 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/28/19 12:32:32! Dealing a new hand
+! 02/28/19 12:32:32! Everyone antes $400
+! 02/28/19 12:32:32! DroogieDroog blinds $1600
+! 02/28/19 12:32:32! Mrstcao blinds $3200
+! 02/28/19 14:49:43! TrayRacer folds
+! 02/28/19 14:55:59! zzzrbt folds
+! 02/28/19 14:55:59! DocOber folds
+! 02/28/19 18:33:53! PMD folds
+! 02/28/19 18:33:53! Poker Coach folds
+! 02/28/19 18:33:53! DroogieDroog calls 
+! 02/28/19 18:35:03! Mrstcao checks
+
+! 02/28/19 18:35:03! Pot right ($9200), flopping/dealing/drawing cards
+! 02/28/19 18:35:03! 2 players
+! 02/28/19 18:35:03! Flopped cards: 8c 10h 8s
+! 02/28/19 18:44:08! DroogieDroog bets $49950 and is all in
+! 02/28/19 18:44:39! Mrstcao raises $263300 to $313250 total and is all in
+
+! 02/28/19 18:44:39! Pot right ($372400), flopping/dealing/drawing cards
+! 02/28/19 18:44:39! 2 players, 2 all in
+! 02/28/19 18:44:39! Flopped card: 10d
+! 02/28/19 18:44:39! Flopped card: 3d
+! Hand over, current board is:  8c 10h 8s 10d 3d
+! DroogieDroog             has: As Qd
+! Mrstcao                  has: 4h 8d
+! Pot 1: uncalled $263300 returned to Mrstcao
+! Pot 2: Mrstcao wins $109100 with Full House (8 8 8 10 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   zzzrbt                   |   92475 |         |      |    |         |
+ 2|   DocOber                  |  333675 |         |      |    |         |
+ 3|   PMD                      |   42050 |         |      |    |         |
+ 6|D  Poker Coach              |   86900 |         |      |    |         |
+ 8|>  Mrstcao                  |  372400 |         |      |    |         |
+ 9|   TrayRacer                |   97700 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! DroogieDroog is eliminated!
+! 170 players left in the tournament, 2 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d2.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 11
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

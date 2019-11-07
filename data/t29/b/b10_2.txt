@@ -1,0 +1,117 @@
+Subject: [b10.10033] Holdem Game Broadcast Message(*)
+
+! Table b10, Hand 2, Day 2
+
+! Jim O calls - side pot
+! Pot right ($151225), flopping/dealing/drawing cards
+! 3 players, 3 all in
+! Flopped card: 10d
+! Flopped card: Ac
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Unlimited                |   50000 |       0 |folded|    |         |
+ 2|D  quas2000                 |   49000 |       0 |folded|    |         |
+ 3|   eldiablo505              |   49775 |      75 |folded|    |         |
+ 4|   Luxtizer                 |       0 |   50000 |all-in|  3 |  150075 |
+ 5|>  Jim O                    |       0 |   50000 |all-in|  3 |  150075 |
+ 6|   zonko                    |       0 |   51150 |all-in|  1 |    1150 |
+ 7|   Jascha                   |   50000 |       0 |folded|    |         |
+ 8|   Virginia Slims           |   50000 |       0 |folded|    |         |
+ 9|   1985 M Building Champ    |   50000 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/04/19 13:43:52! Dealing a new hand
+! 11/04/19 13:43:52! No ante
+! 11/04/19 13:43:52! eldiablo505 blinds $75
+! 11/04/19 13:43:52! Luxtizer blinds $150
+! 11/04/19 14:07:13! Jim O calls 
+! 11/04/19 14:09:20! zonko raises $1850 to $2000 total 
+! 11/04/19 14:18:39! Jascha folds
+! 11/04/19 14:25:37! Virginia Slims folds
+! 11/04/19 14:25:37! 1985 M Building Champ folds
+! 11/04/19 14:30:39! Unlimited folds
+! 11/04/19 14:35:03! quas2000 folds
+! 11/04/19 14:48:38! eldiablo505 folds
+! 11/04/19 15:16:20! Luxtizer calls 
+! 11/04/19 15:16:20! Jim O calls 
+
+! 11/04/19 15:16:20! Pot right ($6075), flopping/dealing/drawing cards
+! 11/04/19 15:16:20! 3 players
+! 11/04/19 15:16:20! Flopped cards: 4h Jh As
+! 11/04/19 15:16:56! Luxtizer bets $6000 
+! 11/04/19 19:03:27! Jim O raises $18075 to $24075 total 
+! 11/04/19 20:17:48! zonko raises $25075 to $49150 total and is all in
+! 11/04/19 21:12:29! Luxtizer calls - side pot
+! 11/05/19 05:49:41! Jim O calls - side pot
+
+! 11/05/19 05:49:41! Pot right ($151225), flopping/dealing/drawing cards
+! 11/05/19 05:49:41! 3 players, 3 all in
+! 11/05/19 05:49:41! Flopped card: 10d
+! 11/05/19 05:49:41! Flopped card: Ac
+! Hand over, current board is:  4h Jh As 10d Ac
+! Luxtizer                 has: Qh 10h
+! Jim O                    has: Ad 4c
+! zonko                    has: 9s 4d
+! Pot 1: uncalled $1150 returned to zonko
+! Pot 3: Jim O wins $150075 with Full House (A A A 4 4)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Unlimited                |   50000 |         |      |    |         |
+ 2|   quas2000                 |   49000 |         |      |    |         |
+ 3|D  eldiablo505              |   49775 |         |      |    |         |
+ 5|>  Jim O                    |  150075 |         |      |    |         |
+ 6|   zonko                    |    1150 |         |      |    |         |
+ 7|   Jascha                   |   50000 |         |      |    |         |
+ 8|   Virginia Slims           |   50000 |         |      |    |         |
+ 9|   1985 M Building Champ    |   50000 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Luxtizer is eliminated!
+! 540 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b10.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+This is the REAL WRGPT29.
+Changes to office hours and email addresses do not carry over from the
+practice round.
+You have been assigned a new ID and the round is "b".
+
+Good luck.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 4
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

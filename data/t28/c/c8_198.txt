@@ -1,0 +1,109 @@
+Subject: [c8.10561] Holdem Game Broadcast Message(*)
+
+! Table c8, Hand 198, Day 86
+
+! Loudlion calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|V  Options Dee              |   33425 |     300 |<AWOL>|    |         |
+ 2|   Ed Baker                 |   56350 |     300 |folded|    |         |
+ 3|   SteedCarson              |  223000 |     300 |folded|    |         |
+ 4|   Loudlion                 |  117425 |   16900 |      |    |         |
+ 5|V  P0k3Y                    |   21500 |     300 |<AWOL>|    |         |
+ 6|   Stephen Mack             |  173825 |     300 |folded|    |         |
+ 7|D  TracyB                   |  230125 |     300 |folded|    |         |
+ 8|   Josh Goldshlag           |  182075 |    1300 |folded|    |         |
+ 9|>  BigElmo                  |   55000 |   16900 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/05/19 05:44:16! Dealing a new hand
+! 02/05/19 05:44:16! Everyone antes $300
+! 02/05/19 05:44:16! Josh Goldshlag blinds $1000
+! 02/05/19 05:44:16! BigElmo blinds $2000
+! 02/05/19 05:44:16! Options Dee is on vacation and folds
+! 02/05/19 05:47:07! Ed Baker folds
+! 02/05/19 07:32:17! SteedCarson folds
+! 02/05/19 07:35:25! Loudlion calls 
+! 02/05/19 07:35:25! P0k3Y is on vacation and folds
+! 02/05/19 07:36:28! Stephen Mack folds
+! 02/05/19 07:36:28! TracyB folds
+! 02/05/19 11:38:02! Josh Goldshlag folds
+! 02/05/19 11:55:44! BigElmo checks
+
+! 02/05/19 11:55:44! Pot right ($7700), flopping/dealing/drawing cards
+! 02/05/19 11:55:44! 2 players
+! 02/05/19 11:55:44! Flopped cards: 3s 5c 5d
+! 02/05/19 12:00:06! BigElmo checks
+! 02/05/19 12:01:30! Loudlion checks
+
+! 02/05/19 12:01:30! Pot right ($7700), flopping/dealing/drawing cards
+! 02/05/19 12:01:30! 2 players
+! 02/05/19 12:01:30! Flopped card: 8s
+! 02/05/19 12:27:56! BigElmo bets $3350 
+! 02/05/19 12:29:31! Loudlion calls 
+
+! 02/05/19 12:29:31! Pot right ($14400), flopping/dealing/drawing cards
+! 02/05/19 12:29:31! 2 players
+! 02/05/19 12:29:31! Flopped card: Ad
+! 02/05/19 12:35:24! BigElmo bets $11250 
+! 02/05/19 12:50:14! Loudlion calls 
+! Hand over, current board is:  3s 5c 5d 8s Ad
+! Loudlion                 has: Qs Ac
+! BigElmo                  has: 5s 4h
+! BigElmo wins $36900 (net $20000) with Three of a Kind (5 5 5 A 8)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|V  Options Dee              |   33425 |         |<AWOL>|    |         |
+ 2|   Ed Baker                 |   56350 |         |      |    |         |
+ 3|   SteedCarson              |  223000 |         |      |    |         |
+ 4|   Loudlion                 |  117425 |         |      |    |         |
+ 5|V  P0k3Y                    |   21500 |         |<AWOL>|    |         |
+ 6|   Stephen Mack             |  173825 |         |      |    |         |
+ 7|   TracyB                   |  230125 |         |      |    |         |
+ 8|D  Josh Goldshlag           |  182075 |         |      |    |         |
+ 9|>  BigElmo                  |   91900 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Josh Goldshlag timed out during this hand
+! 264 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c8.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

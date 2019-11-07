@@ -1,0 +1,110 @@
+Subject: [d16.10216] Holdem Game Broadcast Message(*)
+
+! Table d16, Hand 270, Day 111
+
+! ADB Jaeger folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  ADB Jaeger               |  235750 |   33400 |folded|    |         |
+ 2|>  Big Bobby Dollar         |  259100 |   63400 |      |    |         |
+ 3|   fich                     |   58875 |    3600 |folded|    |         |
+ 4|   EricL                    |  198700 |    8400 |folded|    |         |
+ 5|   dubldown                 |  165250 |     400 |folded|    |         |
+ 6|   Larry W                  |  118425 |     400 |folded|    |         |
+ 7|   rAmAk                    |  152900 |     400 |folded|    |         |
+ 8|   TracyB                   |  135075 |    8400 |folded|    |         |
+ 9|   Sir Barlow               |   99600 |       0 |New   |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/01/19 12:43:26! Dealing a new hand
+! 03/01/19 12:43:26! Everyone antes $400
+! 03/01/19 12:43:26! Big Bobby Dollar blinds $1600
+! 03/01/19 12:43:26! fich blinds $3200
+! 03/01/19 12:54:15! EricL raises $4800 to $8000 total 
+! 03/01/19 12:59:08! dubldown folds
+! 03/01/19 13:42:21! Larry W folds
+! 03/01/19 20:28:00! rAmAk folds
+! 03/02/19 07:58:05! TracyB calls 
+! 03/02/19 08:05:59! ADB Jaeger calls 
+! 03/02/19 08:36:35! Big Bobby Dollar calls 
+! 03/02/19 11:25:16! New player added to the table: Sir Barlow
+! 03/02/19 11:31:55! fich folds
+
+! 03/02/19 11:31:55! Pot right ($38400), flopping/dealing/drawing cards
+! 03/02/19 11:31:55! 4 players
+! 03/02/19 11:31:55! Flopped cards: Qd Qs 8d
+! 03/02/19 12:13:14! Big Bobby Dollar bets $10000 
+! 03/02/19 12:37:48! EricL folds
+! 03/02/19 15:23:30! TracyB folds
+! 03/02/19 16:00:04! ADB Jaeger calls 
+
+! 03/02/19 16:00:04! Pot right ($58400), flopping/dealing/drawing cards
+! 03/02/19 16:00:04! 2 players
+! 03/02/19 16:00:04! Flopped card: 10s
+! 03/02/19 16:13:22! Big Bobby Dollar bets $15000 
+! 03/02/19 16:14:35! ADB Jaeger calls 
+
+! 03/02/19 16:14:35! Pot right ($88400), flopping/dealing/drawing cards
+! 03/02/19 16:14:35! 2 players
+! 03/02/19 16:14:35! Flopped card: 6h
+! 03/02/19 16:16:03! Big Bobby Dollar bets $30000 
+! 03/02/19 17:27:44! ADB Jaeger folds
+! Hand over, no showdown
+! Current board is:  Qd Qs 8d 10s 6h
+! Big Bobby Dollar wins $118400 (net $55000)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   ADB Jaeger               |  235750 |         |      |    |         |
+ 2|D> Big Bobby Dollar         |  377500 |         |      |    |         |
+ 3|   fich                     |   58875 |         |      |    |         |
+ 4|   EricL                    |  198700 |         |      |    |         |
+ 5|   dubldown                 |  165250 |         |      |    |         |
+ 6|   Larry W                  |  118425 |         |      |    |         |
+ 7|   rAmAk                    |  152900 |         |      |    |         |
+ 8|   TracyB                   |  135075 |         |      |    |         |
+ 9|   Sir Barlow               |   99600 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 159 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d16.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 3
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,104 @@
+Subject: [d18.10039] Holdem Game Broadcast Message(*)
+
+! Table d18, Hand 255, Day 96
+
+! JohnnyMac raises $129625 to $158625 total and is all in
+! Ryan Thomas folds
+! Pot right ($192325), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped cards: 2s 9s 6d
+! Flopped card: 5c
+! Flopped card: 3c
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   SCSI                     |   82375 |     300 |folded|    |         |
+ 2|   delbaeth                 |   73600 |     300 |folded|    |         |
+ 3|   StingRay                 |  167500 |     300 |folded|    |         |
+ 4|D  JZK                      |  167225 |     300 |folded|    |         |
+ 5|   JohnnyMac                |       0 |  158925 |all-in|  1 |  129625 |
+ 6|>  Ryan Thomas              |  148350 |    2300 |folded|    |         |
+ 7|   Dan Driscoll             |   47150 |     300 |folded|    |         |
+ 8|   Josh Moore               |  152050 |     300 |folded|    |         |
+ 9|   Deets                    |       0 |   29300 |all-in|  2 |   62700 |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/15/19 11:34:26! Dealing a new hand
+! 02/15/19 11:34:26! Everyone antes $300
+! 02/15/19 11:34:26! JohnnyMac blinds $1000
+! 02/15/19 11:34:26! Ryan Thomas blinds $2000
+! 02/15/19 11:50:38! Dan Driscoll folds
+! 02/15/19 13:13:53! Josh Moore folds
+! 02/15/19 13:13:53! Deets raises $27000 to $29000 total and is all in
+! 02/15/19 13:15:18! SCSI folds
+! 02/15/19 13:18:12! delbaeth folds
+! 02/15/19 13:20:37! StingRay folds
+! 02/15/19 13:31:33! JZK folds
+! 02/15/19 13:36:36! JohnnyMac raises $129625 to $158625 total and is all in
+! 02/15/19 13:36:36! Ryan Thomas folds
+
+! 02/15/19 13:36:36! Pot right ($192325), flopping/dealing/drawing cards
+! 02/15/19 13:36:36! 2 players, 2 all in
+! 02/15/19 13:36:36! Flopped cards: 2s 9s 6d
+! 02/15/19 13:36:36! Flopped card: 5c
+! 02/15/19 13:36:36! Flopped card: 3c
+! Hand over, current board is:  2s 9s 6d 5c 3c
+! JohnnyMac                has: Qh Ac
+! Deets                    has: 7h 7d
+! Pot 1: uncalled $129625 returned to JohnnyMac
+! Pot 2: Deets wins $62700 with One Pair (7 7 9 6 5)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   SCSI                     |   82375 |         |      |    |         |
+ 2|   delbaeth                 |   73600 |         |      |    |         |
+ 3|   StingRay                 |  167500 |         |      |    |         |
+ 4|   JZK                      |  167225 |         |      |    |         |
+ 5|D  JohnnyMac                |  129625 |         |      |    |         |
+ 6|>  Ryan Thomas              |  148350 |         |      |    |         |
+ 7|   Dan Driscoll             |   47150 |         |      |    |         |
+ 8|   Josh Moore               |  152050 |         |      |    |         |
+ 9|   Deets                    |   62700 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 220 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d18.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 3
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

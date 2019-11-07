@@ -1,0 +1,133 @@
+Subject: [d11.10090] Holdem Game Broadcast Message(*)
+
+% Hey every other terrible call I've made has worked out. Why not this one
+% On Mon, Feb 18, 2019, 9:30 PM <dealer@wrgpt.org wrote:
+% (dealer suppressed lines starting with '>' or ':')
+! -- Russ Bryan --
+_____________________________________________________________________________
+
+! Table d11, Hand 258, Day 99
+
+! Russ Bryan calls 
+! Pot right ($191600), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 5h
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Chris Danek              |  169600 |     300 |folded|    |         |
+ 2|   Mark Ballinger           |   70350 |     300 |folded|    |         |
+ 3|   Sam Parazette            |       0 |   74250 |all-in|    |         |
+ 4|>  Russ Bryan               |   56700 |   74250 |      |    |         |
+ 5|   Morgan                   |  112150 |     300 |folded|    |         |
+ 6|   Krushinski               |   35300 |   17300 |folded|    |         |
+ 7|D  Mother Speaks            |  116050 |     300 |folded|    |         |
+ 8|   BaconPancakes            |   54350 |    7300 |folded|    |         |
+ 9|   SteedCarson              |  250700 |   17300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/17/19 20:55:21! Dealing a new hand
+! 02/17/19 20:55:21! Everyone antes $300
+! 02/17/19 20:55:21! BaconPancakes blinds $1000
+! 02/17/19 20:55:21! SteedCarson blinds $2000
+! 02/18/19 08:00:11! Chris Danek folds
+! 02/18/19 08:00:11! Mark Ballinger folds
+! 02/18/19 08:06:10! Sam Parazette calls 
+! 02/18/19 08:11:38! Russ Bryan raises $5000 to $7000 total 
+! 02/18/19 08:21:42! Morgan folds
+! 02/18/19 09:24:22! Krushinski calls 
+! 02/18/19 09:24:22! Mother Speaks folds
+! 02/18/19 09:29:38! BaconPancakes calls 
+! 02/18/19 09:44:25! SteedCarson calls 
+! 02/18/19 09:51:36! Sam Parazette raises $10000 to $17000 total 
+! 02/18/19 09:53:40! Russ Bryan calls 
+! 02/18/19 10:34:22! Krushinski calls 
+! 02/18/19 13:24:51! BaconPancakes folds
+! 02/18/19 14:22:26! SteedCarson calls 
+
+! 02/18/19 14:22:26! Pot right ($77700), flopping/dealing/drawing cards
+! 02/18/19 14:22:26! 4 players
+! 02/18/19 14:22:26! Flopped cards: 9c 8h Jd
+! 02/18/19 14:23:44! SteedCarson checks
+! 02/18/19 14:25:30! Sam Parazette bets $20000 
+! 02/18/19 14:37:58! Russ Bryan calls 
+! 02/18/19 16:56:40! Krushinski folds
+! 02/18/19 18:13:09! SteedCarson folds
+
+! 02/18/19 18:13:09! Pot right ($117700), flopping/dealing/drawing cards
+! 02/18/19 18:13:09! 2 players
+! 02/18/19 18:13:09! Flopped card: 6h
+! 02/18/19 18:30:16! Sam Parazette bets $36950 and is all in
+_____________________________________________________________________________
+
+! Hey every other terrible call I've made has worked out. Why not this one
+! On Mon, Feb 18, 2019, 9:30 PM <dealer@wrgpt.org wrote:
+! (dealer suppressed lines starting with '>' or ':')
+! -- Russ Bryan --
+_____________________________________________________________________________
+
+! 02/18/19 19:25:58! Russ Bryan calls 
+
+! 02/18/19 19:25:58! Pot right ($191600), flopping/dealing/drawing cards
+! 02/18/19 19:25:58! 2 players, 1 all in
+! 02/18/19 19:25:58! Flopped card: 5h
+! Hand over, current board is:  9c 8h Jd 6h 5h
+! Sam Parazette            has: Kd Kc
+! Russ Bryan               has: As 10s
+! Sam Parazette wins $191600 (net $117350) with One Pair (K K J 9 8)
+! Antes and blinds go up
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Chris Danek              |  169600 |         |      |    |         |
+ 2|   Mark Ballinger           |   70350 |         |      |    |         |
+ 3|   Sam Parazette            |  191600 |         |      |    |         |
+ 4|>  Russ Bryan               |   56700 |         |      |    |         |
+ 5|   Morgan                   |  112150 |         |      |    |         |
+ 6|   Krushinski               |   35300 |         |      |    |         |
+ 7|   Mother Speaks            |  116050 |         |      |    |         |
+ 8|D  BaconPancakes            |   54350 |         |      |    |         |
+ 9|   SteedCarson              |  250700 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 212 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d11.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 3
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

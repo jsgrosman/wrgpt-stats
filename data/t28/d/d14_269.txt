@@ -1,0 +1,104 @@
+Subject: [d14.10154] Holdem Game Broadcast Message(*)
+
+! Table d14, Hand 269, Day 104
+
+! Billco raises $114150 to $149200 total and is all in
+! Pot right ($187850), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped cards: 7s 5s 9c
+! Flopped card: Js
+! Flopped card: 10s
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  Billco                   |       0 |  149600 |all-in|  1 |  114150 |
+ 2|   bluecandy                |       0 |   35450 |all-in|  2 |   73700 |
+ 3|   DotMatrix                |   72650 |     400 |folded|    |         |
+ 4|   Barton                   |  399475 |     400 |folded|    |         |
+ 5|   Bob R                    |  192825 |     400 |folded|    |         |
+ 6|   Endrju                   |  156400 |     400 |folded|    |         |
+ 7|   Richard Rognlie          |  222400 |     400 |folded|    |         |
+ 8|   Ira Agins                |   52650 |     400 |folded|    |         |
+ 9|D  Stephen Mack             |  106525 |     400 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/23/19 09:59:06! Dealing a new hand
+! 02/23/19 09:59:06! Everyone antes $400
+! 02/23/19 09:59:06! Billco blinds $1600
+! 02/23/19 09:59:06! bluecandy blinds $3200
+! 02/23/19 10:04:39! DotMatrix folds
+! 02/23/19 10:08:40! Barton folds
+! 02/23/19 14:21:34! Bob R folds
+! 02/23/19 14:25:00! Endrju folds
+! 02/23/19 14:25:00! Richard Rognlie folds
+! 02/23/19 14:25:00! Ira Agins folds
+! 02/23/19 14:25:00! Stephen Mack folds
+! 02/23/19 14:27:04! Billco raises $10000 to $13200 total 
+! 02/23/19 15:25:27! bluecandy raises $21850 to $35050 total and is all in
+! 02/23/19 15:40:00! Billco raises $114150 to $149200 total and is all in
+
+! 02/23/19 15:40:00! Pot right ($187850), flopping/dealing/drawing cards
+! 02/23/19 15:40:00! 2 players, 2 all in
+! 02/23/19 15:40:00! Flopped cards: 7s 5s 9c
+! 02/23/19 15:40:00! Flopped card: Js
+! 02/23/19 15:40:00! Flopped card: 10s
+! Hand over, current board is:  7s 5s 9c Js 10s
+! Billco                   has: As Jd
+! bluecandy                has: Ks Jc
+! Pot 1: uncalled $114150 returned to Billco
+! Pot 2: Billco wins $73700 with Spade Flush (A J 10 7 5)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D> Billco                   |  187850 |         |      |    |         |
+ 3|   DotMatrix                |   72650 |         |      |    |         |
+ 4|   Barton                   |  399475 |         |      |    |         |
+ 5|   Bob R                    |  192825 |         |      |    |         |
+ 6|   Endrju                   |  156400 |         |      |    |         |
+ 7|   Richard Rognlie          |  222400 |         |      |    |         |
+ 8|   Ira Agins                |   52650 |         |      |    |         |
+ 9|   Stephen Mack             |  106525 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! bluecandy is eliminated!
+! 188 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d14.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

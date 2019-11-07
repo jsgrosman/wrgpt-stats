@@ -1,0 +1,107 @@
+Subject: [d14.10300] Holdem Game Broadcast Message(*)
+
+! Table d14, Hand 287, Day 114
+
+! Billco raises $271225 to $317500 total and is all in
+! Pot right ($403175), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped card: 4s
+! Flopped card: Qd
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D> Billco                   |       0 |  332100 |all-in|  1 |  271225 |
+ 2|   put_it_good              |  112925 |    2600 |folded|    |         |
+ 3|   DotMatrix                |   39450 |    4600 |folded|    |         |
+ 4|   Barton                   |  555450 |     600 |folded|    |         |
+ 5|   Bob R                    |  191075 |     600 |folded|    |         |
+ 6|   Deets                    |   88800 |     600 |folded|    |         |
+ 7|   Richard Rognlie          |   29750 |     600 |folded|    |         |
+ 8|   Ira Agins                |  162750 |     600 |folded|    |         |
+ 9|   Fish Doctor              |       0 |   60875 |all-in|  2 |  131950 |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/04/19 22:23:17! Dealing a new hand
+! 03/04/19 22:23:17! Everyone antes $600
+! 03/04/19 22:23:17! put_it_good blinds $2000
+! 03/04/19 22:23:17! DotMatrix blinds $4000
+! 03/05/19 02:46:16! Barton folds
+! 03/05/19 08:10:58! Bob R folds
+! 03/05/19 08:10:58! Deets folds
+! 03/05/19 08:10:58! Richard Rognlie folds
+! 03/05/19 08:10:58! Ira Agins folds
+! 03/05/19 12:56:14! Fish Doctor calls 
+! 03/05/19 12:57:19! Billco raises $10000 to $14000 total 
+! 03/05/19 12:57:19! put_it_good folds
+! 03/05/19 13:34:42! DotMatrix folds
+! 03/05/19 13:36:24! Fish Doctor calls 
+
+! 03/05/19 13:36:24! Pot right ($39400), flopping/dealing/drawing cards
+! 03/05/19 13:36:24! 2 players
+! 03/05/19 13:36:24! Flopped cards: As 10s 2h
+! 03/05/19 13:37:35! Fish Doctor bets $46275 and is all in
+! 03/05/19 13:38:46! Billco raises $271225 to $317500 total and is all in
+
+! 03/05/19 13:38:46! Pot right ($403175), flopping/dealing/drawing cards
+! 03/05/19 13:38:46! 2 players, 2 all in
+! 03/05/19 13:38:46! Flopped card: 4s
+! 03/05/19 13:38:46! Flopped card: Qd
+! Hand over, current board is:  As 10s 2h 4s Qd
+! Billco                   has: Ad 7c
+! Fish Doctor              has: Ah 3c
+! Pot 1: uncalled $271225 returned to Billco
+! Pot 2: Billco wins $131950 with One Pair (A A Q 10 7)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  Billco                   |  403175 |         |      |    |         |
+ 2|D  put_it_good              |  112925 |         |      |    |         |
+ 3|   DotMatrix                |   39450 |         |      |    |         |
+ 4|   Barton                   |  555450 |         |      |    |         |
+ 5|   Bob R                    |  191075 |         |      |    |         |
+ 6|   Deets                    |   88800 |         |      |    |         |
+ 7|   Richard Rognlie          |   29750 |         |      |    |         |
+ 8|   Ira Agins                |  162750 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Fish Doctor is eliminated!
+! 143 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d14.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

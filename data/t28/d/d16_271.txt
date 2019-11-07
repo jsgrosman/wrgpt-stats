@@ -1,0 +1,117 @@
+Subject: [d16.10232] Holdem Game Broadcast Message(*)
+
+! Table d16, Hand 271, Day 113
+
+! Larry W checks
+! TracyB checks
+! ADB Jaeger checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   ADB Jaeger               |  227350 |    8400 |      |    |         |
+ 2|D  Big Bobby Dollar         |  377100 |     400 |folded|    |         |
+ 3|   fich                     |   56875 |    2000 |folded|    |         |
+ 4|   EricL                    |  195100 |    3600 |folded|    |         |
+ 5|   dubldown                 |  164850 |     400 |folded|    |         |
+ 6|>  Larry W                  |  110025 |    8400 |      |    |         |
+ 7|   rAmAk                    |  152500 |     400 |folded|    |         |
+ 8|   TracyB                   |  126675 |    8400 |      |    |         |
+ 9|   Sir Barlow               |   99200 |     400 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/02/19 17:27:45! Dealing a new hand
+! 03/02/19 17:27:45! Everyone antes $400
+! 03/02/19 17:27:45! fich blinds $1600
+! 03/02/19 17:27:45! EricL blinds $3200
+! 03/03/19 07:34:09! dubldown folds
+! 03/03/19 08:11:24! Larry W calls 
+! 03/03/19 11:29:24! rAmAk folds
+! 03/03/19 11:43:17! TracyB raises $4800 to $8000 total 
+! 03/03/19 12:00:45! Sir Barlow folds
+! 03/03/19 12:32:10! ADB Jaeger calls 
+! 03/03/19 12:32:59! Big Bobby Dollar folds
+! 03/03/19 12:38:39! fich folds
+! 03/03/19 13:32:15! EricL folds
+! 03/03/19 13:32:15! Larry W calls 
+
+! 03/03/19 13:32:15! Pot right ($32400), flopping/dealing/drawing cards
+! 03/03/19 13:32:15! 3 players
+! 03/03/19 13:32:15! Flopped cards: 9c 2h Ac
+! 03/03/19 15:54:26! Larry W checks
+! 03/03/19 15:55:44! TracyB checks
+! 03/03/19 15:55:44! ADB Jaeger checks
+
+! 03/03/19 15:55:44! Pot right ($32400), flopping/dealing/drawing cards
+! 03/03/19 15:55:44! 3 players
+! 03/03/19 15:55:44! Flopped card: Ah
+! 03/03/19 16:06:17! Larry W checks
+! 03/03/19 16:15:40! TracyB checks
+! 03/04/19 04:33:08! ADB Jaeger checks
+
+! 03/04/19 04:33:08! Pot right ($32400), flopping/dealing/drawing cards
+! 03/04/19 04:33:08! 3 players
+! 03/04/19 04:33:08! Flopped card: 4d
+! 03/04/19 08:07:36! Larry W checks
+! 03/04/19 08:07:36! TracyB checks
+! 03/04/19 08:07:36! ADB Jaeger checks
+! Hand over, current board is:  9c 2h Ac Ah 4d
+! ADB Jaeger               has: Qh Jh
+! Larry W                  has: 8h 5h
+! TracyB                   has: 7h 7c
+! TracyB wins $32400 (net $24000) with Two Pair (A A 7 7 9)
+! Antes and blinds go up
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   ADB Jaeger               |  227350 |         |      |    |         |
+ 2|   Big Bobby Dollar         |  377100 |         |      |    |         |
+ 3|D  fich                     |   56875 |         |      |    |         |
+ 4|   EricL                    |  195100 |         |      |    |         |
+ 5|   dubldown                 |  164850 |         |      |    |         |
+ 6|>  Larry W                  |  110025 |         |      |    |         |
+ 7|   rAmAk                    |  152500 |         |      |    |         |
+ 8|   TracyB                   |  159075 |         |      |    |         |
+ 9|   Sir Barlow               |   99200 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 152 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d16.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 10
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

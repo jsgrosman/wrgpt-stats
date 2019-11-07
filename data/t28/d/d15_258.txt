@@ -1,0 +1,108 @@
+Subject: [d15.10079] Holdem Game Broadcast Message(*)
+
+! Table d15, Hand 258, Day 97
+
+! Statistical Tie checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   dgr                      |   40700 |     300 |folded|    |         |
+ 2|   DaveKal                  |  118325 |     300 |folded|    |         |
+ 4|V  Hossein                  |  117225 |     300 |<AWOL>|    |         |
+ 5|   Statistical Tie          |   73925 |   23000 |      |    |         |
+ 6|   Neil Boyce               |  206425 |     300 |folded|    |         |
+ 7|D  Steve Zagieboylo         |  491275 |     300 |folded|    |         |
+ 8|   Otto                     |  178025 |    1300 |folded|    |         |
+ 9|>  reelbigbeagles           |  117900 |   23000 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/15/19 20:05:20! Dealing a new hand
+! 02/15/19 20:05:20! Everyone antes $300
+! 02/15/19 20:05:20! Otto blinds $1000
+! 02/15/19 20:05:20! reelbigbeagles blinds $2000
+! 02/15/19 21:02:15! dgr folds
+! 02/15/19 21:02:15! DaveKal folds
+! 02/15/19 21:02:15! Hossein is on vacation and folds
+! 02/15/19 22:33:37! Statistical Tie raises $2700 to $4700 total 
+! 02/15/19 22:33:37! Neil Boyce folds
+! 02/16/19 09:37:24! Steve Zagieboylo folds
+! 02/16/19 09:37:24! Otto folds
+! 02/16/19 10:42:35! reelbigbeagles calls 
+
+! 02/16/19 10:42:35! Pot right ($12800), flopping/dealing/drawing cards
+! 02/16/19 10:42:35! 2 players
+! 02/16/19 10:42:35! Flopped cards: Jd 2h 3d
+! 02/16/19 10:43:13! reelbigbeagles checks
+! 02/16/19 10:45:49! Statistical Tie bets $6000 
+! 02/16/19 10:47:22! reelbigbeagles calls 
+
+! 02/16/19 10:47:22! Pot right ($24800), flopping/dealing/drawing cards
+! 02/16/19 10:47:22! 2 players
+! 02/16/19 10:47:22! Flopped card: 10c
+! 02/16/19 10:47:52! reelbigbeagles checks
+! 02/16/19 10:51:05! Statistical Tie bets $12000 
+! 02/16/19 10:52:29! reelbigbeagles calls 
+
+! 02/16/19 10:52:29! Pot right ($48800), flopping/dealing/drawing cards
+! 02/16/19 10:52:29! 2 players
+! 02/16/19 10:52:29! Flopped card: Kc
+! 02/16/19 10:52:59! reelbigbeagles checks
+! 02/16/19 11:00:30! Statistical Tie checks
+! Hand over, current board is:  Jd 2h 3d 10c Kc
+! Statistical Tie          has: Ks Jh
+! reelbigbeagles           has: Qc Jc
+! Statistical Tie wins $48800 (net $25800) with Two Pair (K K J J 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   dgr                      |   40700 |         |      |    |         |
+ 2|   DaveKal                  |  118325 |         |      |    |         |
+ 4|V  Hossein                  |  117225 |         |<AWOL>|    |         |
+ 5|   Statistical Tie          |  122725 |         |      |    |         |
+ 6|   Neil Boyce               |  206425 |         |      |    |         |
+ 7|   Steve Zagieboylo         |  491275 |         |      |    |         |
+ 8|D  Otto                     |  178025 |         |      |    |         |
+ 9|>  reelbigbeagles           |  117900 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 218 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d15.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 5
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

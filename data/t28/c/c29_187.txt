@@ -1,0 +1,120 @@
+Subject: [c29.10476] Holdem Game Broadcast Message(*)
+
+! Table c29, Hand 187, Day 87
+
+! I_Bluff_Rivers calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   ChipRider                |   37200 |     300 |folded|    |         |
+ 2|   tarigojaergihioahdged    |  104050 |     300 |folded|    |         |
+ 3|   jasong                   |  204550 |     300 |folded|    |         |
+ 4|D  Pooper                   |   54350 |     300 |folded|    |         |
+ 5|   I_Bluff_Rivers           |   47575 |   15700 |      |    |         |
+ 6|   sendlo                   |   76900 |    2300 |folded|    |         |
+ 7|   Isaac Newton             |   90625 |       0 |New   |    |         |
+ 8|   TomasL                   |  173400 |    2300 |folded|    |         |
+ 9|>  BillB                    |   56150 |   15700 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/05/19 12:57:12! Dealing a new hand
+! 02/05/19 12:57:12! Everyone antes $300
+! 02/05/19 12:57:12! I_Bluff_Rivers blinds $1000
+! 02/05/19 12:57:12! sendlo blinds $2000
+! 02/05/19 13:03:21! TomasL calls 
+! 02/05/19 14:20:18! BillB calls 
+! 02/05/19 15:16:21! ChipRider folds
+! 02/05/19 15:16:21! tarigojaergihioahdged folds
+_____________________________________________________________________________
+
+! Tough beat, sorry. I don't know if I could have folded KQs in that
+! spot either. Good game.
+! -- jasong --
+_____________________________________________________________________________
+
+! 02/05/19 15:16:21! jasong folds
+! 02/05/19 15:16:21! Pooper folds
+! 02/05/19 15:51:06! I_Bluff_Rivers calls 
+! 02/05/19 16:06:45! sendlo checks
+
+! 02/05/19 16:06:45! Pot right ($10400), flopping/dealing/drawing cards
+! 02/05/19 16:06:45! 4 players
+! 02/05/19 16:06:45! Flopped cards: Ad As Ks
+! 02/05/19 16:09:22! I_Bluff_Rivers checks
+! 02/05/19 16:09:25! sendlo checks
+! 02/05/19 21:04:52! TomasL checks
+! 02/05/19 21:10:03! BillB checks
+
+! 02/05/19 21:10:03! Pot right ($10400), flopping/dealing/drawing cards
+! 02/05/19 21:10:03! 4 players
+! 02/05/19 21:10:03! Flopped card: 10d
+! 02/06/19 04:41:51! I_Bluff_Rivers bets $4000 
+! 02/06/19 07:47:32! sendlo folds
+! 02/06/19 07:47:32! TomasL folds
+! 02/06/19 07:55:04! New player added to the table: Isaac Newton
+! 02/06/19 08:17:40! BillB calls 
+
+! 02/06/19 08:17:40! Pot right ($18400), flopping/dealing/drawing cards
+! 02/06/19 08:17:40! 2 players
+! 02/06/19 08:17:40! Flopped card: 8d
+! 02/06/19 10:08:14! I_Bluff_Rivers checks
+! 02/06/19 10:09:43! BillB bets $9400 
+! 02/06/19 10:33:17! I_Bluff_Rivers calls 
+! Hand over, current board is:  Ad As Ks 10d 8d
+! I_Bluff_Rivers           has: 5s Ah
+! BillB                    has: Qd 9d
+! BillB wins $37200 (net $21500) with Diamond Flush (A Q 10 9 8)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   ChipRider                |   37200 |         |      |    |         |
+ 2|   tarigojaergihioahdged    |  104050 |         |      |    |         |
+ 3|   jasong                   |  204550 |         |      |    |         |
+ 4|   Pooper                   |   54350 |         |      |    |         |
+ 5|D  I_Bluff_Rivers           |   47575 |         |      |    |         |
+ 6|   sendlo                   |   76900 |         |      |    |         |
+ 7|   Isaac Newton             |   90625 |         |      |    |         |
+ 8|   TomasL                   |  173400 |         |      |    |         |
+ 9|>  BillB                    |   93350 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 257 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c29.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 4
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

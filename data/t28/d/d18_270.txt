@@ -1,0 +1,100 @@
+Subject: [d18.10199] Holdem Game Broadcast Message(*)
+
+! Table d18, Hand 270, Day 100
+
+! StingRay folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  SCSI                     |   80075 |     400 |folded|    |         |
+ 2|   delbaeth                 |  116000 |    2000 |folded|    |         |
+ 3|   StingRay                 |  227100 |    9900 |folded|    |         |
+ 4|   JZK                      |  111725 |     400 |folded|    |         |
+ 5|>  JohnnyMac                |  119025 |   19900 |      |    |         |
+ 6|   Ryan Thomas              |  120450 |     400 |folded|    |         |
+ 8|   Josh Moore               |  176700 |     400 |folded|    |         |
+ 9|   Deets                    |   45700 |     400 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/19/19 14:37:13! Dealing a new hand
+! 02/19/19 14:37:13! Everyone antes $400
+! 02/19/19 14:37:13! delbaeth blinds $1600
+! 02/19/19 14:37:13! StingRay blinds $3200
+! 02/19/19 14:55:50! JZK folds
+! 02/19/19 15:25:58! JohnnyMac raises $6300 to $9500 total 
+! 02/19/19 15:40:37! Ryan Thomas folds
+! 02/19/19 15:41:36! Josh Moore folds
+! 02/19/19 15:41:36! Deets folds
+! 02/19/19 15:41:36! SCSI folds
+! 02/19/19 16:35:20! delbaeth folds
+! 02/19/19 17:06:17! StingRay calls 
+
+! 02/19/19 17:06:17! Pot right ($23800), flopping/dealing/drawing cards
+! 02/19/19 17:06:17! 2 players
+! 02/19/19 17:06:17! Flopped cards: 9h 6h 10c
+! 02/19/19 17:07:04! StingRay checks
+! 02/19/19 17:07:45! JohnnyMac checks
+
+! 02/19/19 17:07:45! Pot right ($23800), flopping/dealing/drawing cards
+! 02/19/19 17:07:45! 2 players
+! 02/19/19 17:07:45! Flopped card: 10s
+! 02/19/19 17:09:57! StingRay checks
+! 02/19/19 17:10:33! JohnnyMac bets $10000 
+! 02/19/19 17:13:55! StingRay folds
+! Hand over, no showdown
+! Current board is:  9h 6h 10c 10s ?
+! JohnnyMac wins $33800 (net $13900)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   SCSI                     |   80075 |         |      |    |         |
+ 2|D  delbaeth                 |  116000 |         |      |    |         |
+ 3|   StingRay                 |  227100 |         |      |    |         |
+ 4|   JZK                      |  111725 |         |      |    |         |
+ 5|>  JohnnyMac                |  152825 |         |      |    |         |
+ 6|   Ryan Thomas              |  120450 |         |      |    |         |
+ 8|   Josh Moore               |  176700 |         |      |    |         |
+ 9|   Deets                    |   45700 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 207 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d18.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

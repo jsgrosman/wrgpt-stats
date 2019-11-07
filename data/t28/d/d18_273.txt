@@ -1,0 +1,110 @@
+Subject: [d18.10232] Holdem Game Broadcast Message(*)
+
+! Table d18, Hand 273, Day 101
+
+! JZK calls - side pot
+! Pot right ($210225), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped card: 8d
+! Flopped card: Jc
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   SCSI                     |   78875 |     400 |folded|    |         |
+ 2|   delbaeth                 |       0 |  104000 |all-in|  1 |    4975 |
+ 3|   StingRay                 |  240300 |     400 |folded|    |         |
+ 4|D> JZK                      |       0 |   99025 |all-in|  2 |  205250 |
+ 5|   JohnnyMac                |  171525 |    2000 |folded|    |         |
+ 6|   Ryan Thomas              |  112850 |    3600 |folded|    |         |
+ 7|   EWalk                    |  136475 |       0 |New   |    |         |
+ 8|   Josh Moore               |  172300 |     400 |folded|    |         |
+ 9|   Deets                    |   44500 |     400 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/20/19 09:06:16! Dealing a new hand
+! 02/20/19 09:06:16! Everyone antes $400
+! 02/20/19 09:06:16! JohnnyMac blinds $1600
+! 02/20/19 09:06:16! Ryan Thomas blinds $3200
+! 02/20/19 09:07:19! Josh Moore folds
+! 02/20/19 09:09:04! Deets folds
+! 02/20/19 09:09:04! SCSI folds
+! 02/20/19 09:22:46! delbaeth raises $4800 to $8000 total 
+! 02/20/19 09:24:26! StingRay folds
+! 02/20/19 09:25:07! New player added to the table: EWalk
+! 02/20/19 09:32:17! JZK raises $11000 to $19000 total 
+! 02/20/19 09:34:20! JohnnyMac folds
+! 02/20/19 09:34:20! Ryan Thomas folds
+! 02/20/19 09:51:19! delbaeth calls 
+
+! 02/20/19 09:51:19! Pot right ($46000), flopping/dealing/drawing cards
+! 02/20/19 09:51:19! 2 players
+! 02/20/19 09:51:19! Flopped cards: 9h 5d 10c
+! 02/20/19 09:57:16! delbaeth checks
+! 02/20/19 09:58:18! JZK bets $17000 
+! 02/20/19 10:00:22! delbaeth raises $67600 to $84600 total and is all in
+! 02/20/19 10:01:14! JZK calls - side pot
+
+! 02/20/19 10:01:14! Pot right ($210225), flopping/dealing/drawing cards
+! 02/20/19 10:01:14! 2 players, 2 all in
+! 02/20/19 10:01:14! Flopped card: 8d
+! 02/20/19 10:01:14! Flopped card: Jc
+! Hand over, current board is:  9h 5d 10c 8d Jc
+! delbaeth                 has: As 10s
+! JZK                      has: Qs Ah
+! Pot 1: uncalled $4975 returned to delbaeth
+! Pot 2: JZK wins $205250 with Straight (Q J 10 9 8)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   SCSI                     |   78875 |         |      |    |         |
+ 2|   delbaeth                 |    4975 |         |      |    |         |
+ 3|   StingRay                 |  240300 |         |      |    |         |
+ 4|>  JZK                      |  205250 |         |      |    |         |
+ 5|D  JohnnyMac                |  171525 |         |      |    |         |
+ 6|   Ryan Thomas              |  112850 |         |      |    |         |
+ 7|   EWalk                    |  136475 |         |      |    |         |
+ 8|   Josh Moore               |  172300 |         |      |    |         |
+ 9|   Deets                    |   44500 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 208 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d18.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 10
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

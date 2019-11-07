@@ -1,0 +1,103 @@
+Subject: [d2.10179] Holdem Game Broadcast Message(*)
+
+! Table d2, Hand 272, Day 109
+
+! Mrstcao folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   zzzrbt                   |   92875 |     400 |folded|    |         |
+ 2|   DocOber                  |       0 |  232875 |all-in|    |         |
+ 3|D  PMD                      |   42450 |     400 |folded|    |         |
+ 6|   Poker Coach              |   87300 |    2000 |folded|    |         |
+ 7|   DroogieDroog             |   53550 |    3600 |folded|    |         |
+ 8|>  Mrstcao                  |  316850 |   94400 |folded|    |         |
+ 9|   TrayRacer                |   98100 |     400 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/27/19 14:12:14! Dealing a new hand
+! 02/27/19 14:12:14! Everyone antes $400
+! 02/27/19 14:12:14! Poker Coach blinds $1600
+! 02/27/19 14:12:14! DroogieDroog blinds $3200
+! 02/27/19 14:14:28! Mrstcao raises $4800 to $8000 total 
+! 02/27/19 14:15:50! TrayRacer folds
+! 02/27/19 15:39:45! zzzrbt folds
+! 02/27/19 22:40:45! DocOber calls 
+! 02/28/19 11:40:23! PMD folds
+! 02/28/19 11:40:23! Poker Coach folds
+! 02/28/19 11:40:23! DroogieDroog folds
+
+! 02/28/19 11:40:23! Pot right ($23600), flopping/dealing/drawing cards
+! 02/28/19 11:40:23! 2 players
+! 02/28/19 11:40:23! Flopped cards: 6h 7s 3c
+! 02/28/19 11:54:12! Mrstcao bets $28000 
+! 02/28/19 11:55:16! DocOber calls 
+
+! 02/28/19 11:55:16! Pot right ($79600), flopping/dealing/drawing cards
+! 02/28/19 11:55:16! 2 players
+! 02/28/19 11:55:16! Flopped card: 10d
+! 02/28/19 12:28:01! Mrstcao checks
+! 02/28/19 12:28:45! DocOber checks
+
+! 02/28/19 12:28:45! Pot right ($79600), flopping/dealing/drawing cards
+! 02/28/19 12:28:45! 2 players
+! 02/28/19 12:28:45! Flopped card: 10s
+! 02/28/19 12:30:36! Mrstcao bets $58000 
+! 02/28/19 12:32:07! DocOber raises $138475 to $196475 total and is all in
+! 02/28/19 12:32:30! Mrstcao folds
+! Hand over, no showdown
+! Current board is:  6h 7s 3c 10d 10s
+! DocOber wins $334075 (net $101200)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   zzzrbt                   |   92875 |         |      |    |         |
+ 2|   DocOber                  |  334075 |         |      |    |         |
+ 3|   PMD                      |   42450 |         |      |    |         |
+ 6|D  Poker Coach              |   87300 |         |      |    |         |
+ 7|   DroogieDroog             |   53550 |         |      |    |         |
+ 8|>  Mrstcao                  |  316850 |         |      |    |         |
+ 9|   TrayRacer                |   98100 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 171 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d2.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

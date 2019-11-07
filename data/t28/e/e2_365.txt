@@ -1,0 +1,105 @@
+Subject: [e2.10194] Holdem Game Broadcast Message(*)
+
+! Table e2, Hand 365, Day 144
+
+! lektoraj folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   AveCat                   |  435625 |    1000 |folded|    |         |
+ 2|D> lektoraj                 |  148850 |   81000 |folded|    |         |
+ 4|   Tom Abraham              |  895725 |    7000 |folded|    |         |
+ 5|   Brian Crowley            |       0 |  495275 |all-in|    |         |
+ 6|   Neil Boyce               |  197200 |    1000 |folded|    |         |
+ 8|   GKinz54                  |  367450 |    1000 |folded|    |         |
+ 9|   DazedAndConfused         |  313050 |    1000 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 04/04/19 05:38:29! Dealing a new hand
+! 04/04/19 05:38:30! Everyone antes $1000
+! 04/04/19 05:38:30! Tom Abraham blinds $6000
+! 04/04/19 05:38:30! Brian Crowley blinds $12000
+! 04/04/19 07:02:26! Neil Boyce folds
+! 04/04/19 07:02:26! GKinz54 folds
+! 04/04/19 07:02:26! DazedAndConfused folds
+! 04/04/19 07:02:26! AveCat folds
+! 04/04/19 08:06:27! lektoraj raises $18000 to $30000 total 
+! 04/04/19 08:06:27! Tom Abraham folds
+! 04/04/19 09:40:47! Brian Crowley calls 
+
+! 04/04/19 09:40:47! Pot right ($73000), flopping/dealing/drawing cards
+! 04/04/19 09:40:47! 2 players
+! 04/04/19 09:40:47! Flopped cards: 10d Qh 6s
+! 04/04/19 09:42:07! Brian Crowley bets $50000 
+! 04/04/19 11:24:28! lektoraj calls 
+
+! 04/04/19 11:24:28! Pot right ($173000), flopping/dealing/drawing cards
+! 04/04/19 11:24:28! 2 players
+! 04/04/19 11:24:28! Flopped card: 2s
+! 04/04/19 12:19:25! Brian Crowley checks
+! 04/04/19 14:19:08! lektoraj checks
+
+! 04/04/19 14:19:08! Pot right ($173000), flopping/dealing/drawing cards
+! 04/04/19 14:19:08! 2 players
+! 04/04/19 14:19:08! Flopped card: Qs
+! 04/04/19 15:54:37! Brian Crowley bets $414275 and is all in
+! 04/04/19 20:56:44! lektoraj folds
+! Hand over, no showdown
+! Current board is:  10d Qh 6s 2s Qs
+! Brian Crowley wins $587275 (net $92000)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   AveCat                   |  435625 |         |      |    |         |
+ 2|>  lektoraj                 |  148850 |         |      |    |         |
+ 4|D  Tom Abraham              |  895725 |         |      |    |         |
+ 5|   Brian Crowley            |  587275 |         |      |    |         |
+ 6|   Neil Boyce               |  197200 |         |      |    |         |
+ 8|   GKinz54                  |  367450 |         |      |    |         |
+ 9|   DazedAndConfused         |  313050 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 64 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/e/e2.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+We are down to few enough tables that players
+may be moved to rebalance tables when there
+are not enough empty seats to break a table.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

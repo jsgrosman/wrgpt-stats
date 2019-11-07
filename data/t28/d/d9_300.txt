@@ -1,0 +1,110 @@
+Subject: [d9.10515] Holdem Game Broadcast Message(*)
+
+! Table d9, Hand 300, Day 122
+
+! Ed Fernandez raises $198025 to $323725 total and is all in
+! Pot right ($579625), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped card: Ad
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Polar85                  |   64850 |     600 |folded|    |         |
+ 2|   BBLWOG                   |  168575 |     600 |folded|    |         |
+ 3|   dchizzle41               |  194775 |     600 |folded|    |         |
+ 4|   TomasL                   |       0 |  185700 |all-in|  2 |  381600 |
+ 5|>  Ed Fernandez             |       0 |  383725 |all-in|  1 |  198025 |
+ 6|D  delbaeth                 |  169600 |     600 |folded|    |         |
+ 7|   jasong                   |   83950 |    2600 |folded|    |         |
+ 8|   Stubey                   |  487750 |    4600 |folded|    |         |
+ 9|   Steve Zagieboylo         |  847700 |     600 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/13/19 00:45:00! Dealing a new hand
+! 03/13/19 00:45:00! Everyone antes $600
+! 03/13/19 00:45:00! jasong blinds $2000
+! 03/13/19 00:45:00! Stubey blinds $4000
+! 03/13/19 04:44:01! Steve Zagieboylo folds
+! 03/13/19 06:01:33! Polar85 folds
+! 03/13/19 06:02:50! BBLWOG folds
+! 03/13/19 06:05:28! dchizzle41 folds
+! 03/13/19 06:06:11! TomasL raises $15400 to $19400 total 
+! 03/13/19 09:34:35! Ed Fernandez calls 
+! 03/13/19 09:34:35! delbaeth folds
+! 03/13/19 09:34:35! jasong folds
+! 03/13/19 09:39:30! Stubey folds
+
+! 03/13/19 09:39:30! Pot right ($50200), flopping/dealing/drawing cards
+! 03/13/19 09:39:30! 2 players
+! 03/13/19 09:39:30! Flopped cards: 4c 9d 4d
+! 03/13/19 09:41:23! TomasL bets $40000 
+! 03/13/19 10:59:17! Ed Fernandez calls 
+
+! 03/13/19 10:59:17! Pot right ($130200), flopping/dealing/drawing cards
+! 03/13/19 10:59:17! 2 players
+! 03/13/19 10:59:17! Flopped card: 5h
+! 03/13/19 11:32:45! TomasL bets $125700 and is all in
+! 03/13/19 12:13:40! Ed Fernandez raises $198025 to $323725 total and is all in
+
+! 03/13/19 12:13:40! Pot right ($579625), flopping/dealing/drawing cards
+! 03/13/19 12:13:40! 2 players, 2 all in
+! 03/13/19 12:13:40! Flopped card: Ad
+! Hand over, current board is:  4c 9d 4d 5h Ad
+! TomasL                   has: Ks Kd
+! Ed Fernandez             has: 5s 4s
+! Pot 1: uncalled $198025 returned to Ed Fernandez
+! Pot 2: Ed Fernandez wins $381600 with Full House (4 4 4 5 5)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Polar85                  |   64850 |         |      |    |         |
+ 2|   BBLWOG                   |  168575 |         |      |    |         |
+ 3|   dchizzle41               |  194775 |         |      |    |         |
+ 5|>  Ed Fernandez             |  579625 |         |      |    |         |
+ 6|   delbaeth                 |  169600 |         |      |    |         |
+ 7|D  jasong                   |   83950 |         |      |    |         |
+ 8|   Stubey                   |  487750 |         |      |    |         |
+ 9|   Steve Zagieboylo         |  847700 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! TomasL is eliminated!
+! 112 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d9.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 4
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

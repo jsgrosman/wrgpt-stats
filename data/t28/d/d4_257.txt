@@ -1,0 +1,113 @@
+Subject: [d4.10061] Holdem Game Broadcast Message(*)
+
+! Table d4, Hand 257, Day 100
+
+! micwso calls and is all in
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|V  sgranen                  |  243500 |     400 |12 Mar|    |         |
+ 2|   Johnny Ice               |   77975 |     400 |folded|    |         |
+ 3|   heffmike                 |  119600 |     400 |folded|    |         |
+ 4|   Jeff Goff                |   17750 |     400 |folded|    |         |
+ 5|   JPP                      |   94025 |     400 |folded|    |         |
+ 6|D  ddppmm                   |   59250 |     400 |folded|    |         |
+ 7|   micwso                   |       0 |   39900 |all-in|    |         |
+ 8|>  Rick Brown               |   53500 |   39900 |      |    |         |
+ 9|V  Poker Dog                |  246675 |     400 |foldAA|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/18/19 12:54:30! Dealing a new hand
+! 02/18/19 12:54:30! Everyone antes $400
+! 02/18/19 12:54:30! micwso blinds $1600
+! 02/18/19 12:54:30! Rick Brown blinds $3200
+! 02/18/19 12:54:30! Poker Dog is on vacation and folds
+! 02/18/19 12:54:30! sgranen is on vacation and folds
+! 02/18/19 12:59:28! Johnny Ice folds
+! 02/18/19 12:59:28! heffmike folds
+! 02/18/19 13:02:07! Jeff Goff folds
+! 02/18/19 14:52:44! JPP folds
+! 02/18/19 14:52:44! ddppmm folds
+! 02/18/19 20:52:34! micwso raises $3200 to $6400 total 
+! 02/18/19 21:11:05! Rick Brown calls 
+
+! 02/18/19 21:11:05! Pot right ($16400), flopping/dealing/drawing cards
+! 02/18/19 21:11:05! 2 players
+! 02/18/19 21:11:05! Flopped cards: 2s 9h Jh
+! 02/18/19 21:36:56! micwso checks
+! 02/18/19 21:46:36! Rick Brown bets $5000 
+! 02/18/19 21:56:04! micwso calls 
+
+! 02/18/19 21:56:04! Pot right ($26400), flopping/dealing/drawing cards
+! 02/18/19 21:56:04! 2 players
+! 02/18/19 21:56:04! Flopped card: Qd
+! 02/18/19 21:57:28! micwso checks
+! 02/19/19 06:13:00! Rick Brown bets $10000 
+! 02/19/19 10:48:08! micwso calls 
+
+! 02/19/19 10:48:08! Pot right ($46400), flopping/dealing/drawing cards
+! 02/19/19 10:48:08! 2 players
+! 02/19/19 10:48:08! Flopped card: 6s
+! 02/19/19 10:50:23! micwso checks
+! 02/19/19 11:38:24! Rick Brown bets $18100 
+! 02/19/19 11:43:58! micwso calls and is all in
+! Hand over, current board is:  2s 9h Jh Qd 6s
+! micwso                   has: Ad Jd
+! Rick Brown               has: Ac Jc
+! micwso wins $41300 (net $1400) with One Pair (J J A Q 9)
+! Rick Brown wins $41300 (net $1400) with One Pair (J J A Q 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|V  sgranen                  |  243500 |         |12 Mar|    |         |
+ 2|   Johnny Ice               |   77975 |         |      |    |         |
+ 3|   heffmike                 |  119600 |         |      |    |         |
+ 4|   Jeff Goff                |   17750 |         |      |    |         |
+ 5|   JPP                      |   94025 |         |      |    |         |
+ 6|   ddppmm                   |   59250 |         |      |    |         |
+ 7|D  micwso                   |   41300 |         |      |    |         |
+ 8|>  Rick Brown               |   94800 |         |      |    |         |
+ 9|V  Poker Dog                |  246675 |         |foldAA|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 211 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d4.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 4
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

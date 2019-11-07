@@ -1,0 +1,93 @@
+Subject: [d3.10754] Holdem Game Broadcast Message(*)
+
+! Table d3, Hand 331, Day 131
+
+! Mike Litoris folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Brian Crowley            |  340275 |    1000 |folded|    |         |
+ 3|   Ben Buchwald             |  178925 |    1000 |folded|    |         |
+ 5|D  ADB Jaeger               |  186625 |    1000 |folded|    |         |
+ 6|   CAB                      |  422625 |    4000 |folded|    |         |
+ 8|   Barton                   |       0 | 1239500 |all-in|    |         |
+ 9|>  Mike Litoris             |  217000 |   77000 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/22/19 07:58:54! Dealing a new hand
+! 03/22/19 07:58:54! Everyone antes $1000
+! 03/22/19 07:58:54! CAB blinds $3000
+! 03/22/19 07:58:54! Barton blinds $6000
+! 03/22/19 14:39:37! Mike Litoris raises $7000 to $13000 total 
+! 03/22/19 14:39:37! Brian Crowley folds
+! 03/22/19 14:39:37! Ben Buchwald folds
+! 03/22/19 14:52:26! ADB Jaeger folds
+! 03/22/19 15:15:56! CAB folds
+! 03/22/19 16:00:59! Barton calls 
+
+! 03/22/19 16:00:59! Pot right ($35000), flopping/dealing/drawing cards
+! 03/22/19 16:00:59! 2 players
+! 03/22/19 16:00:59! Flopped cards: 7d Kc 9c
+! 03/22/19 16:02:59! Barton bets $26000 
+! 03/22/19 16:58:45! Mike Litoris raises $37000 to $63000 total 
+! 03/22/19 17:20:36! Barton raises $1162500 to $1225500 total and is all in
+! 03/22/19 17:25:22! Mike Litoris folds
+! Hand over, no showdown
+! Current board is:  7d Kc 9c ? ?
+! Barton wins $1323500 (net $84000)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Brian Crowley            |  340275 |         |      |    |         |
+ 3|   Ben Buchwald             |  178925 |         |      |    |         |
+ 5|   ADB Jaeger               |  186625 |         |      |    |         |
+ 6|D  CAB                      |  422625 |         |      |    |         |
+ 8|   Barton                   | 1323500 |         |      |    |         |
+ 9|>  Mike Litoris             |  217000 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 85 players left in the tournament, 3 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d3.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+We have played more than 30 days of round d.  Now
+we will play until one table gets to five or fewer
+players at which time we will do a full redraw
+to start the e round.
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 23
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

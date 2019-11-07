@@ -1,0 +1,111 @@
+Subject: [d14.10329] Holdem Game Broadcast Message(*)
+
+! Table d14, Hand 289, Day 116
+
+! DotMatrix checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Billco                   |  401975 |     600 |folded|    |         |
+ 2|   put_it_good              |  111725 |     600 |folded|    |         |
+ 3|D  DotMatrix                |   10250 |   24600 |      |    |         |
+ 4|   Barton                   |  567050 |    4600 |folded|    |         |
+ 5|>  Bob R                    |  165875 |   24600 |      |    |         |
+ 6|   Deets                    |   83600 |     600 |folded|    |         |
+ 7|   Richard Rognlie          |   24550 |     600 |folded|    |         |
+ 8|   Ira Agins                |  161550 |     600 |folded|    |         |
+ 9|   rtroll                   |  133125 |     600 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 03/06/19 07:36:02! Dealing a new hand
+! 03/06/19 07:36:02! Everyone antes $600
+! 03/06/19 07:36:02! Barton blinds $2000
+! 03/06/19 07:36:02! Bob R blinds $4000
+! 03/06/19 07:39:28! Deets folds
+! 03/06/19 07:50:35! Richard Rognlie folds
+! 03/06/19 07:51:33! Ira Agins folds
+! 03/06/19 08:29:15! rtroll folds
+! 03/06/19 08:29:15! Billco folds
+! 03/06/19 08:29:15! put_it_good folds
+! 03/06/19 09:18:36! DotMatrix calls 
+! 03/06/19 10:50:05! Barton calls 
+! 03/06/19 10:50:05! Bob R checks
+
+! 03/06/19 10:50:05! Pot right ($17400), flopping/dealing/drawing cards
+! 03/06/19 10:50:05! 3 players
+! 03/06/19 10:50:05! Flopped cards: 3s Kh 6c
+! 03/06/19 10:53:10! Barton checks
+! 03/06/19 10:55:43! Bob R checks
+! 03/06/19 13:37:45! DotMatrix bets $8000 
+! 03/07/19 01:47:27! Barton folds
+! 03/07/19 01:47:27! Bob R calls 
+
+! 03/07/19 01:47:27! Pot right ($33400), flopping/dealing/drawing cards
+! 03/07/19 01:47:27! 2 players
+! 03/07/19 01:47:27! Flopped card: 8d
+! 03/07/19 07:15:25! Bob R bets $12000 
+! 03/07/19 08:00:13! DotMatrix calls 
+
+! 03/07/19 08:00:13! Pot right ($57400), flopping/dealing/drawing cards
+! 03/07/19 08:00:13! 2 players
+! 03/07/19 08:00:13! Flopped card: 7s
+! 03/07/19 08:01:27! Bob R checks
+! 03/07/19 08:51:38! DotMatrix checks
+! Hand over, current board is:  3s Kh 6c 8d 7s
+! DotMatrix                has: 8s 9h
+! Bob R                    has: As 3c
+! DotMatrix wins $57400 (net $32800) with One Pair (8 8 K 9 7)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Billco                   |  401975 |         |      |    |         |
+ 2|   put_it_good              |  111725 |         |      |    |         |
+ 3|   DotMatrix                |   67650 |         |      |    |         |
+ 4|D  Barton                   |  567050 |         |      |    |         |
+ 5|>  Bob R                    |  165875 |         |      |    |         |
+ 6|   Deets                    |   83600 |         |      |    |         |
+ 7|   Richard Rognlie          |   24550 |         |      |    |         |
+ 8|   Ira Agins                |  161550 |         |      |    |         |
+ 9|   rtroll                   |  133125 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 133 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d14.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 2
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

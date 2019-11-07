@@ -1,0 +1,100 @@
+Subject: [d13.10039] Holdem Game Broadcast Message(*)
+
+! Table d13, Hand 255, Day 99
+
+! Oaktowndad folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|V  Options Dee              |   17225 |     300 |<AWOL>|    |         |
+ 2|   Chris Aporta             |   87025 |    5600 |folded|    |         |
+ 3|   Bluffmaster              |   40525 |     300 |folded|    |         |
+ 4|D  LetsGoRedSox             |  203800 |    5600 |folded|    |         |
+ 5|   sendlo                   |   42900 |    1300 |folded|    |         |
+ 6|   lawrence s               |   39300 |    2300 |folded|    |         |
+ 7|   Kahomono                 |  125575 |       0 |New   |    |         |
+ 8|   Oaktowndad               |  190250 |    5600 |folded|    |         |
+ 9|>  David Weiss              |   59525 |   19600 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/17/19 09:38:22! Dealing a new hand
+! 02/17/19 09:38:22! Everyone antes $300
+! 02/17/19 09:38:22! sendlo blinds $1000
+! 02/17/19 09:38:22! lawrence s blinds $2000
+! 02/17/19 09:41:30! Oaktowndad raises $3300 to $5300 total 
+! 02/17/19 11:51:16! David Weiss calls 
+! 02/17/19 11:51:16! Options Dee is on vacation and folds
+! 02/17/19 14:39:07! Chris Aporta calls 
+! 02/17/19 20:27:16! Bluffmaster folds
+! 02/17/19 20:36:39! LetsGoRedSox calls 
+! 02/17/19 20:36:39! sendlo folds
+! 02/17/19 20:36:39! lawrence s folds
+
+! 02/17/19 20:36:39! Pot right ($26600), flopping/dealing/drawing cards
+! 02/17/19 20:36:39! 4 players
+! 02/17/19 20:36:39! Flopped cards: Ks 7h 5c
+! 02/17/19 20:50:41! Oaktowndad checks
+! 02/18/19 02:29:06! David Weiss bets $14000 
+! 02/18/19 11:25:09! New player added to the table: Kahomono
+! 02/18/19 14:31:26! Chris Aporta folds
+! 02/18/19 14:31:26! LetsGoRedSox folds
+! 02/18/19 14:45:16! Oaktowndad folds
+! Hand over, no showdown
+! Current board is:  Ks 7h 5c ? ?
+! David Weiss wins $40600 (net $21000)
+! Antes and blinds go up
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|V  Options Dee              |   17225 |         |<AWOL>|    |         |
+ 2|   Chris Aporta             |   87025 |         |      |    |         |
+ 3|   Bluffmaster              |   40525 |         |      |    |         |
+ 4|   LetsGoRedSox             |  203800 |         |      |    |         |
+ 5|D  sendlo                   |   42900 |         |      |    |         |
+ 6|   lawrence s               |   39300 |         |      |    |         |
+ 7|   Kahomono                 |  125575 |         |      |    |         |
+ 8|   Oaktowndad               |  190250 |         |      |    |         |
+ 9|>  David Weiss              |  100125 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 212 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d13.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 3
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

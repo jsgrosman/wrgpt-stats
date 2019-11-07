@@ -1,0 +1,102 @@
+Subject: [d1.10032] Holdem Game Broadcast Message(*)
+
+! Table d1, Hand 254, Day 96
+
+! ADB Foldem folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Ed Baker                 |   86450 |     300 |folded|    |         |
+ 2|   ADB Foldem               |  155725 |    8300 |folded|    |         |
+ 3|D  tristero                 |  109050 |     300 |folded|    |         |
+ 4|   MTpotts                  |   81700 |    1300 |folded|    |         |
+ 5|>  Loudlion                 |   37725 |   16300 |      |    |         |
+ 6|   TheTwizz                 |   23250 |     300 |folded|    |         |
+ 7|   Tom Bayz                 |  146225 |     300 |folded|    |         |
+ 8|   Alvin Chipmunk           |  178000 |     300 |folded|    |         |
+ 9|   TennisGeek               |  225025 |     300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/15/19 11:26:30! Dealing a new hand
+! 02/15/19 11:26:30! Everyone antes $300
+! 02/15/19 11:26:30! MTpotts blinds $1000
+! 02/15/19 11:26:30! Loudlion blinds $2000
+! 02/15/19 11:27:20! TheTwizz folds
+! 02/15/19 11:28:28! Tom Bayz folds
+! 02/15/19 11:44:25! Alvin Chipmunk folds
+! 02/15/19 11:44:25! TennisGeek folds
+! 02/15/19 11:44:25! Ed Baker folds
+! 02/15/19 11:54:37! ADB Foldem raises $3000 to $5000 total 
+! 02/15/19 11:54:37! tristero folds
+! 02/15/19 11:56:09! MTpotts folds
+! 02/15/19 11:57:51! Loudlion calls 
+
+! 02/15/19 11:57:51! Pot right ($13700), flopping/dealing/drawing cards
+! 02/15/19 11:57:51! 2 players
+! 02/15/19 11:57:51! Flopped cards: Ah Js Kc
+! 02/15/19 11:59:35! Loudlion bets $3000 
+! 02/15/19 12:34:46! ADB Foldem calls 
+
+! 02/15/19 12:34:46! Pot right ($19700), flopping/dealing/drawing cards
+! 02/15/19 12:34:46! 2 players
+! 02/15/19 12:34:46! Flopped card: 3d
+! 02/15/19 12:53:49! Loudlion bets $8000 
+! 02/15/19 13:07:27! ADB Foldem folds
+! Hand over, no showdown
+! Current board is:  Ah Js Kc 3d ?
+! Loudlion wins $27700 (net $11400)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Ed Baker                 |   86450 |         |      |    |         |
+ 2|   ADB Foldem               |  155725 |         |      |    |         |
+ 3|   tristero                 |  109050 |         |      |    |         |
+ 4|D  MTpotts                  |   81700 |         |      |    |         |
+ 5|>  Loudlion                 |   65425 |         |      |    |         |
+ 6|   TheTwizz                 |   23250 |         |      |    |         |
+ 7|   Tom Bayz                 |  146225 |         |      |    |         |
+ 8|   Alvin Chipmunk           |  178000 |         |      |    |         |
+ 9|   TennisGeek               |  225025 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 220 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/d/d1.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+Welcome to the d round.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 3
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman28@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer
