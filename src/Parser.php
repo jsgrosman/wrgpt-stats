@@ -204,7 +204,7 @@ class Parser
 
 
         $turn = new TurnModel();
-            $turn->tournamentNum = $this->getTournamentNumber($phpDate);
+        $turn->tournamentNum = $this->getTournamentNumber($phpDate);
         $turn->tableName = $tableName;
         $turn->handNum = $handNum;
         $turn->turnId = $turnId;
@@ -384,8 +384,8 @@ class Parser
 
     private function getTournamentNumber($handDate)
     {
-        $currentTournament = 28;
-        for ($year = 2018; $year >= 2008; $year--)
+        $currentTournament = 29;
+        for ($year = 2019; $year >= 2008; $year--)
         {
             if ($handDate > strtotime($year . "-09-01"))
             {
