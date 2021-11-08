@@ -1,0 +1,125 @@
+Subject: [c11.10402] Holdem Game Broadcast Message(*)
+
+! Table c11, Hand 172, Day 88
+
+! Nightshift6 calls 
+! Pot right ($116950), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: Qd
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  Zerksauce                |   61750 |    2300 |folded|    |         |
+ 2|   Clark Olson              |   28225 |    2300 |folded|    |         |
+ 3|   Dalai Pookah             |       0 |   49425 |all-in|    |         |
+ 4|   denimmined               |   77050 |     300 |folded|    |         |
+ 5|   Slimbob                  |   81800 |     300 |folded|    |         |
+ 6|   not66                    |   81625 |     300 |folded|    |         |
+ 7|   Tony Gurney              |   98450 |   12300 |folded|    |         |
+ 8|>  Nightshift6              |   15525 |   49425 |      |    |         |
+ 9|   All In a daze work       |  206375 |     300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/28/20 13:27:33! Dealing a new hand
+! 01/28/20 13:27:33! Everyone antes $300
+! 01/28/20 13:27:33! Clark Olson blinds $1000
+! 01/28/20 13:27:33! Dalai Pookah blinds $2000
+! 01/28/20 13:27:33! denimmined is on vacation and folds
+! 01/28/20 13:56:14! Slimbob folds
+! 01/28/20 14:00:59! not66 folds
+! 01/28/20 16:21:37! denimmined is back from vacation
+! 01/29/20 02:05:05! Tony Gurney calls 
+! 01/29/20 06:54:11! Nightshift6 calls 
+! 01/29/20 06:56:23! All In a daze work folds
+! 01/29/20 07:26:45! Zerksauce calls 
+! 01/29/20 07:27:55! Clark Olson calls 
+! 01/29/20 11:29:02! Dalai Pookah checks
+
+! 01/29/20 11:29:02! Pot right ($12700), flopping/dealing/drawing cards
+! 01/29/20 11:29:02! 5 players
+! 01/29/20 11:29:02! Flopped cards: 3d 7h 2c
+! 01/29/20 11:33:43! Clark Olson checks
+! 01/29/20 11:33:43! Dalai Pookah checks
+! 01/29/20 14:55:01! Tony Gurney bets $5000 
+! 01/29/20 15:28:42! Nightshift6 calls 
+! 01/29/20 16:14:55! Zerksauce folds
+! 01/29/20 16:14:55! Clark Olson folds
+! 01/29/20 19:03:11! Dalai Pookah calls 
+
+! 01/29/20 19:03:11! Pot right ($27700), flopping/dealing/drawing cards
+! 01/29/20 19:03:11! 3 players
+! 01/29/20 19:03:11! Flopped card: 8h
+! 01/29/20 19:04:14! Dalai Pookah checks
+! 01/29/20 23:50:06! Tony Gurney bets $5000 
+! 01/30/20 04:20:45! Nightshift6 calls 
+! 01/30/20 06:08:23! Dalai Pookah raises $37125 to $42125 total and is all in
+! 01/30/20 06:16:21! Tony Gurney folds
+! 01/30/20 06:17:42! Nightshift6 calls 
+
+! 01/30/20 06:17:42! Pot right ($116950), flopping/dealing/drawing cards
+! 01/30/20 06:17:42! 2 players, 1 all in
+! 01/30/20 06:17:42! Flopped card: Qd
+! Hand over, current board is:  3d 7h 2c 8h Qd
+! Dalai Pookah             has: 6h 2h
+! Nightshift6              has: 7s 7d
+! Nightshift6 wins $116950 (net $67525) with Three of a Kind (7 7 7 Q 8)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Zerksauce                |   61750 |         |      |    |         |
+ 2|D  Clark Olson              |   28225 |         |      |    |         |
+ 4|   denimmined               |   77050 |         |      |    |         |
+ 5|   Slimbob                  |   81800 |         |      |    |         |
+ 6|   not66                    |   81625 |         |      |    |         |
+ 7|   Tony Gurney              |   98450 |         |      |    |         |
+ 8|>  Nightshift6              |  132475 |         |      |    |         |
+ 9|   All In a daze work       |  206375 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Dalai Pookah is eliminated!
+! 228 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c11.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 5
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

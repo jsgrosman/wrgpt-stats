@@ -1,0 +1,113 @@
+Subject: [c31.10315] Holdem Game Broadcast Message(*)
+
+! Table c31, Hand 173, Day 74
+
+! shinsook calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   SJL                      |   59750 |     200 |folded|    |         |
+ 2|   Tom A                    |  207300 |     200 |folded|    |         |
+ 3|   Dario                    |  160475 |     200 |folded|    |         |
+ 4|   quas2000                 |   22325 |     200 |folded|    |         |
+ 5|D  altidude6202             |  342425 |     200 |folded|    |         |
+ 7|   shinsook                 |  148550 |   17500 |      |    |         |
+ 8|   Andyd                    |   67175 |    1400 |folded|    |         |
+ 9|>  beacon bot               |  250025 |   17500 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/15/20 20:58:02! Dealing a new hand
+! 01/15/20 20:58:02! Everyone antes $200
+! 01/15/20 20:58:02! shinsook blinds $600
+! 01/15/20 20:58:02! Andyd blinds $1200
+! 01/16/20 04:56:05! beacon bot raises $2100 to $3300 total 
+! 01/16/20 04:56:05! SJL folds
+! 01/16/20 06:11:38! Tom A folds
+! 01/16/20 06:11:38! Dario folds
+! 01/16/20 07:19:54! quas2000 folds
+! 01/16/20 07:19:54! altidude6202 folds
+! 01/16/20 08:39:07! shinsook calls 
+! 01/16/20 08:39:07! Andyd folds
+
+! 01/16/20 08:39:07! Pot right ($9400), flopping/dealing/drawing cards
+! 01/16/20 08:39:07! 2 players
+! 01/16/20 08:39:07! Flopped cards: 4s 7c 7d
+! 01/16/20 09:21:59! shinsook checks
+! 01/16/20 09:34:52! beacon bot bets $5000 
+! 01/16/20 09:52:48! shinsook calls 
+
+! 01/16/20 09:52:48! Pot right ($19400), flopping/dealing/drawing cards
+! 01/16/20 09:52:48! 2 players
+! 01/16/20 09:52:48! Flopped card: 7s
+! 01/16/20 09:57:48! shinsook checks
+! 01/16/20 10:08:58! beacon bot checks
+
+! 01/16/20 10:08:58! Pot right ($19400), flopping/dealing/drawing cards
+! 01/16/20 10:08:58! 2 players
+! 01/16/20 10:08:58! Flopped card: 8s
+! 01/16/20 10:23:47! shinsook checks
+! 01/16/20 10:53:16! beacon bot bets $9000 
+! 01/16/20 11:30:31! shinsook calls 
+! Hand over, current board is:  4s 7c 7d 7s 8s
+! shinsook                 has: Ks Ad
+! beacon bot               has: Ah Qd
+! shinsook wins $37400 (net $19900) with Three of a Kind (7 7 7 A K)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   SJL                      |   59750 |         |      |    |         |
+ 2|   Tom A                    |  207300 |         |      |    |         |
+ 3|   Dario                    |  160475 |         |      |    |         |
+ 4|   quas2000                 |   22325 |         |      |    |         |
+ 5|   altidude6202             |  342425 |         |      |    |         |
+ 7|D  shinsook                 |  185950 |         |      |    |         |
+ 8|   Andyd                    |   67175 |         |      |    |         |
+ 9|>  beacon bot               |  250025 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 295 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c31.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

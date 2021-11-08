@@ -1,0 +1,119 @@
+Subject: [c12.10133] Holdem Game Broadcast Message(*)
+
+! Table c12, Hand 155, Day 65
+
+! docdanger calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Stephen Wong             |   95375 |     100 |folded|    |         |
+ 2|   Srfndoc                  |   84850 |     600 |folded|    |         |
+ 3|D  docdanger                |   73375 |   67650 |      |    |         |
+ 4|   Zbigniew                 |   27225 |     350 |folded|    |         |
+ 5|>  grizz                    |  210950 |   67650 |      |    |         |
+ 6|   Chris Leslie             |   52200 |     100 |folded|    |         |
+ 7|   Brian Cooper             |   45000 |     100 |folded|    |         |
+ 8|   Donald Neilson           |   74050 |       0 |New   |    |         |
+ 9|   jasong                   |  107075 |     100 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/07/20 12:39:21! Dealing a new hand
+! 01/07/20 12:39:21! Everyone antes $100
+! 01/07/20 12:39:21! Zbigniew blinds $250
+! 01/07/20 12:39:21! grizz blinds $500
+! 01/07/20 13:32:31! Chris Leslie folds
+! 01/07/20 13:32:31! Brian Cooper folds
+! 01/07/20 13:32:31! jasong folds
+! 01/07/20 13:51:01! Stephen Wong folds
+! 01/07/20 13:54:50! Srfndoc calls 
+! 01/07/20 13:55:42! docdanger calls 
+! 01/07/20 14:39:21! Zbigniew folds
+! 01/07/20 14:40:32! grizz checks
+
+! 01/07/20 14:40:32! Pot right ($2550), flopping/dealing/drawing cards
+! 01/07/20 14:40:32! 3 players
+! 01/07/20 14:40:32! Flopped cards: 9d 4d Ah
+! 01/07/20 14:40:56! grizz checks
+! 01/07/20 15:03:39! Srfndoc checks
+! 01/07/20 15:20:40! docdanger bets $1500 
+! 01/07/20 15:28:19! grizz calls 
+! 01/07/20 15:29:30! Srfndoc folds
+
+! 01/07/20 15:29:30! Pot right ($5550), flopping/dealing/drawing cards
+! 01/07/20 15:29:30! 2 players
+! 01/07/20 15:29:30! Flopped card: 9c
+! 01/07/20 15:31:29! grizz checks
+! 01/07/20 15:42:54! docdanger bets $5000 
+! 01/07/20 15:45:15! grizz raises $15000 to $20000 total 
+! 01/07/20 16:41:39! docdanger calls 
+
+! 01/07/20 16:41:39! Pot right ($45550), flopping/dealing/drawing cards
+! 01/07/20 16:41:39! 2 players
+! 01/07/20 16:41:39! Flopped card: 7s
+! 01/07/20 16:46:15! grizz bets $45550 
+! 01/07/20 17:15:05! New player added to the table: Donald Neilson
+! 01/07/20 17:33:47! docdanger calls 
+! Hand over, current board is:  9d 4d Ah 9c 7s
+! docdanger                has: 7h Ad
+! grizz                    has: 9s Jh
+! grizz wins $136650 (net $69000) with Three of a Kind (9 9 9 A J)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Stephen Wong             |   95375 |         |      |    |         |
+ 2|   Srfndoc                  |   84850 |         |      |    |         |
+ 3|   docdanger                |   73375 |         |      |    |         |
+ 4|D  Zbigniew                 |   27225 |         |      |    |         |
+ 5|>  grizz                    |  347600 |         |      |    |         |
+ 6|   Chris Leslie             |   52200 |         |      |    |         |
+ 7|   Brian Cooper             |   45000 |         |      |    |         |
+ 8|   Donald Neilson           |   74050 |         |      |    |         |
+ 9|   jasong                   |  107075 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 335 players left in the tournament, 2 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c12.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 13
+Live redraw in progress:
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

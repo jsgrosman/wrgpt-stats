@@ -416,7 +416,7 @@ SQL;
         }, $result);
     }
 
-    public function getPercentageToShowdown()
+    public function     getPercentageToShowdown()
     {
         $conn = DBConn::getConnection();
 
@@ -442,7 +442,7 @@ SQL;
         $flopCount = $flopResult[0]['flopCount'];
 
         if ($flopCount > 0) {
-            return number_format(($showdownCount / $flopCount * 100), 2) . '%';
+                return number_format(($showdownCount / $flopCount * 100), 2) . '%';
         }
         else {
             return '0%';
@@ -462,7 +462,7 @@ and tournament_id = ?
 order by hand_began
 SQL;
 
-        $result = $conn->queryFetchAll($sql, [$this->player, 28]);
+        $result = $conn->queryFetchAll($sql, [$this->player, 30]);
         return array_map(function($r) { return intval($r['chips']);}, $result);
     }
 

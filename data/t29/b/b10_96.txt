@@ -1,0 +1,119 @@
+Subject: [b10.11496] Holdem Game Broadcast Message(*)
+
+! Table b10, Hand 96, Day 43
+
+! Jim O calls - side pot
+! Pot right ($106425), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 9d
+! Flopped card: 4s
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   sgranen                  |   43000 |     175 |folded|    |         |
+ 2|>  quas2000                 |     875 |   65500 |      |  1 |   27900 |
+ 3|   eldiablo505              |   48675 |      25 |folded|    |         |
+ 4|   docdanger                |  115975 |      25 |folded|    |         |
+ 5|   Jim O                    |       0 |   37600 |all-in|  2 |   78525 |
+ 6|   Polar85                  |   29550 |      25 |folded|    |         |
+ 7|   Jascha                   |   76325 |     325 |folded|    |         |
+ 8|   Virginia Slims           |   82425 |      25 |folded|    |         |
+ 9|D  1985 M Building Champ    |   74000 |    2725 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/15/19 20:49:14! Dealing a new hand
+! 12/15/19 20:49:14! Everyone antes $25
+! 12/15/19 20:49:14! sgranen blinds $150
+! 12/15/19 20:49:14! quas2000 blinds $300
+! 12/15/19 22:28:55! eldiablo505 folds
+! 12/16/19 05:17:41! docdanger folds
+! 12/16/19 05:36:01! Jim O calls 
+! 12/16/19 05:36:01! Polar85 folds
+! 12/16/19 06:22:18! Jascha calls 
+! 12/16/19 06:22:18! Virginia Slims folds
+! 12/16/19 06:22:18! 1985 M Building Champ raises $500 to $800 total 
+! 12/16/19 06:37:36! sgranen folds
+! 12/16/19 07:22:58! quas2000 raises $1900 to $2700 total 
+! 12/16/19 07:31:48! Jim O calls 
+! 12/16/19 08:43:02! Jascha folds
+! 12/16/19 08:50:10! 1985 M Building Champ calls 
+
+! 12/16/19 08:50:10! Pot right ($8775), flopping/dealing/drawing cards
+! 12/16/19 08:50:10! 3 players
+! 12/16/19 08:50:10! Flopped cards: 10h 7c 9h
+! 12/16/19 09:45:39! quas2000 bets $7775 
+! 12/16/19 09:57:26! Jim O raises $24325 to $32100 total 
+! 12/16/19 11:06:33! 1985 M Building Champ folds
+! 12/16/19 11:08:06! quas2000 raises $30675 to $62775 total 
+! 12/16/19 11:22:54! Jim O calls - side pot
+
+! 12/16/19 11:22:54! Pot right ($106425), flopping/dealing/drawing cards
+! 12/16/19 11:22:54! 2 players, 1 all in
+! 12/16/19 11:22:54! Flopped card: 9d
+! 12/16/19 11:22:54! Flopped card: 4s
+! Hand over, current board is:  10h 7c 9h 9d 4s
+! quas2000                 has: Ah Ac
+! Jim O                    has: 8h 10c
+! Pot 1: uncalled $27900 returned to quas2000
+! Pot 2: quas2000 wins $78525 with Two Pair (A A 9 9 10)
+! Antes and blinds go up
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  sgranen                  |   43000 |         |      |    |         |
+ 2|>  quas2000                 |  107300 |         |      |    |         |
+ 3|   eldiablo505              |   48675 |         |      |    |         |
+ 4|   docdanger                |  115975 |         |      |    |         |
+ 6|   Polar85                  |   29550 |         |      |    |         |
+ 7|   Jascha                   |   76325 |         |      |    |         |
+ 8|   Virginia Slims           |   82425 |         |      |    |         |
+ 9|   1985 M Building Champ    |   74000 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Jim O is eliminated!
+! 406 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b10.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables for 45 days 
+will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 7
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

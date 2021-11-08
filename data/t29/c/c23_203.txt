@@ -1,0 +1,110 @@
+Subject: [c23.10640] Holdem Game Broadcast Message(*)
+
+! Table c23, Hand 203, Day 99
+
+! Fredrik Westerlund folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Couchtater               |   74150 |    2300 |folded|    |         |
+ 2|>  Joshua                   |  101450 |   42300 |      |    |         |
+ 4|   dstebs                   |  187300 |     300 |folded|    |         |
+ 5|   Fredrik Westerlund       |   92450 |   12300 |folded|    |         |
+ 6|   Sam Parazette            |   46750 |     300 |folded|    |         |
+ 7|D  Home_Brew_Boy            |   87350 |     300 |folded|    |         |
+ 8|   CoachMatt13              |  125475 |    1300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/09/20 09:27:47! Dealing a new hand
+! 02/09/20 09:27:47! Everyone antes $300
+! 02/09/20 09:27:47! CoachMatt13 blinds $1000
+! 02/09/20 09:27:47! Couchtater blinds $2000
+! 02/09/20 09:32:56! Joshua raises $2000 to $4000 total 
+! 02/09/20 11:39:04! dstebs folds
+! 02/09/20 21:13:17! Fredrik Westerlund raises $8000 to $12000 total 
+! 02/10/20 06:17:29! Sam Parazette folds
+! 02/10/20 06:17:29! Home_Brew_Boy folds
+! 02/10/20 06:47:10! CoachMatt13 folds
+! 02/10/20 06:47:10! Couchtater folds
+! 02/10/20 06:49:44! Joshua calls 
+
+! 02/10/20 06:49:44! Pot right ($29100), flopping/dealing/drawing cards
+! 02/10/20 06:49:44! 2 players
+! 02/10/20 06:49:44! Flopped cards: As 9d 9c
+! 02/10/20 06:51:02! Joshua checks
+! 02/10/20 07:55:05! Fredrik Westerlund checks
+
+! 02/10/20 07:55:05! Pot right ($29100), flopping/dealing/drawing cards
+! 02/10/20 07:55:05! 2 players
+! 02/10/20 07:55:05! Flopped card: 8c
+! 02/10/20 08:00:44! Joshua bets $30000 
+! 02/10/20 08:15:10! Fredrik Westerlund folds
+! Hand over, no showdown
+! Current board is:  As 9d 9c 8c ?
+! Joshua wins $59100 (net $16800)
+! Antes and blinds go up
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Couchtater               |   74150 |         |      |    |         |
+ 2|>  Joshua                   |  160550 |         |      |    |         |
+ 4|   dstebs                   |  187300 |         |      |    |         |
+ 5|   Fredrik Westerlund       |   92450 |         |      |    |         |
+ 6|   Sam Parazette            |   46750 |         |      |    |         |
+ 7|   Home_Brew_Boy            |   87350 |         |      |    |         |
+ 8|D  CoachMatt13              |  125475 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 187 players left in the tournament, 2 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c23.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+We are now over 30 days in round "c".  Automatic
+table breaking and live redraws have been disabled.
+We will play until one or more tables gets below six
+players.  When that happens all tables will finish
+the current hand and a full redraw will occur into
+the "d" round.
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 29
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

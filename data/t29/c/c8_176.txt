@@ -1,0 +1,120 @@
+Subject: [c8.10404] Holdem Game Broadcast Message(*)
+
+! Table c8, Hand 176, Day 80
+
+! Ed Barrett checks
+! Andyd checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Cruella                  |   75200 |     200 |folded|    |         |
+ 2|   Michael Proteau          |  247900 |     200 |folded|    |         |
+ 3|   Andyd                    |  109150 |   10900 |      |    |         |
+ 4|   kmommy                   |   56525 |    1400 |folded|    |         |
+ 5|   SJL                      |   57550 |       0 |New   |    |         |
+ 6|D  Zipper                   |   61400 |    1400 |folded|    |         |
+ 7|   smak                     |   47600 |     800 |folded|    |         |
+ 8|   OldKingKohl              |  344600 |    1400 |folded|    |         |
+ 9|>  Ed Barrett               |   88700 |   10900 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/22/20 13:53:33! Dealing a new hand
+! 01/22/20 13:53:33! Everyone antes $200
+! 01/22/20 13:53:33! smak blinds $600
+! 01/22/20 13:53:33! OldKingKohl blinds $1200
+! 01/22/20 14:27:14! Ed Barrett calls 
+! 01/22/20 14:27:14! Cruella folds
+! 01/22/20 14:55:03! New player added to the table: SJL
+! 01/22/20 15:56:40! Michael Proteau folds
+! 01/22/20 16:08:38! Andyd calls 
+! 01/22/20 16:31:59! kmommy calls 
+! 01/22/20 17:00:23! Zipper calls 
+! 01/22/20 17:00:23! smak folds
+! 01/22/20 17:32:07! OldKingKohl checks
+
+! 01/22/20 17:32:07! Pot right ($8200), flopping/dealing/drawing cards
+! 01/22/20 17:32:07! 5 players
+! 01/22/20 17:32:07! Flopped cards: Jh 8c Kh
+! 01/22/20 17:33:03! OldKingKohl checks
+! 01/22/20 17:43:02! Ed Barrett checks
+! 01/22/20 18:32:46! Andyd bets $3500 
+! 01/22/20 18:32:46! kmommy folds
+! 01/22/20 19:07:19! Zipper folds
+! 01/22/20 19:07:19! OldKingKohl folds
+! 01/22/20 19:07:19! Ed Barrett calls 
+
+! 01/22/20 19:07:19! Pot right ($15200), flopping/dealing/drawing cards
+! 01/22/20 19:07:19! 2 players
+! 01/22/20 19:07:19! Flopped card: Kd
+! 01/22/20 19:45:48! Ed Barrett bets $6000 
+! 01/22/20 19:54:52! Andyd calls 
+
+! 01/22/20 19:54:52! Pot right ($27200), flopping/dealing/drawing cards
+! 01/22/20 19:54:52! 2 players
+! 01/22/20 19:54:52! Flopped card: 5s
+! 01/22/20 20:08:37! Ed Barrett checks
+! 01/22/20 20:08:37! Andyd checks
+! Hand over, current board is:  Jh 8c Kh Kd 5s
+! Andyd                    has: Ah 9h
+! Ed Barrett               has: Ac Jc
+! Ed Barrett wins $27200 (net $16300) with Two Pair (K K J J A)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Cruella                  |   75200 |         |      |    |         |
+ 2|   Michael Proteau          |  247900 |         |      |    |         |
+ 3|   Andyd                    |  109150 |         |      |    |         |
+ 4|   kmommy                   |   56525 |         |      |    |         |
+ 5|   SJL                      |   57550 |         |      |    |         |
+ 6|   Zipper                   |   61400 |         |      |    |         |
+ 7|D  smak                     |   47600 |         |      |    |         |
+ 8|   OldKingKohl              |  344600 |         |      |    |         |
+ 9|>  Ed Barrett               |  115900 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 266 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c8.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 4
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

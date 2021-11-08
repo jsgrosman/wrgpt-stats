@@ -1,0 +1,118 @@
+Subject: [c20.10068] Holdem Game Broadcast Message(*)
+
+! Table c20, Hand 150, Day 67
+
+! Britney raises $79675 to $117900 total and is all in
+! Pot right ($164575), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped card: Ah
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   The Rabid Moose          |       0 |   41725 |all-in|  2 |   84900 |
+ 2|   JohnnyMac                |  105175 |     100 |folded|    |         |
+ 3|   Cowabunga                |   42225 |     100 |folded|    |         |
+ 4|   BluffaloBill             |   38850 |     100 |folded|    |         |
+ 5|   Sandy                    |   37700 |     100 |folded|    |         |
+ 6|D> Britney                  |       0 |  121400 |all-in|  1 |   79675 |
+ 7|   Baldgriff                |   97375 |     350 |folded|    |         |
+ 8|   PMD                      |   45600 |     600 |folded|    |         |
+ 9|   Mr Generic               |  117300 |     100 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/08/20 18:34:59! Dealing a new hand
+! 01/08/20 18:34:59! Everyone antes $100
+! 01/08/20 18:34:59! Baldgriff blinds $250
+! 01/08/20 18:34:59! PMD blinds $500
+! 01/08/20 18:38:04! Mr Generic folds
+! 01/08/20 23:22:38! The Rabid Moose raises $900 to $1400 total 
+! 01/08/20 23:22:38! JohnnyMac folds
+! 01/08/20 23:22:38! Cowabunga folds
+! 01/09/20 05:03:35! BluffaloBill folds
+! 01/09/20 07:25:54! Sandy folds
+! 01/09/20 08:01:27! Britney calls 
+! 01/09/20 08:06:12! Baldgriff folds
+! 01/09/20 12:30:25! PMD folds
+
+! 01/09/20 12:30:25! Pot right ($4450), flopping/dealing/drawing cards
+! 01/09/20 12:30:25! 2 players
+! 01/09/20 12:30:25! Flopped cards: 3c 6c 2d
+! 01/09/20 12:34:39! The Rabid Moose bets $2000 
+! 01/09/20 12:38:36! Britney calls 
+
+! 01/09/20 12:38:36! Pot right ($8450), flopping/dealing/drawing cards
+! 01/09/20 12:38:36! 2 players
+! 01/09/20 12:38:36! Flopped card: 4h
+! 01/09/20 12:40:03! The Rabid Moose bets $4000 
+! 01/09/20 12:42:27! Britney raises $6000 to $10000 total 
+! 01/09/20 13:00:24! The Rabid Moose raises $28225 to $38225 total and is all in
+! 01/09/20 13:05:42! Britney raises $79675 to $117900 total and is all in
+
+! 01/09/20 13:05:42! Pot right ($164575), flopping/dealing/drawing cards
+! 01/09/20 13:05:42! 2 players, 2 all in
+! 01/09/20 13:05:42! Flopped card: Ah
+! Hand over, current board is:  3c 6c 2d 4h Ah
+! The Rabid Moose          has: 7d 6d
+! Britney                  has: Qc 5c
+! Pot 1: uncalled $79675 returned to Britney
+! Pot 2: Britney wins $84900 with Straight (6 5 4 3 2)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|   JohnnyMac                |  105175 |         |      |    |         |
+ 3|   Cowabunga                |   42225 |         |      |    |         |
+ 4|   BluffaloBill             |   38850 |         |      |    |         |
+ 5|   Sandy                    |   37700 |         |      |    |         |
+ 6|>  Britney                  |  164575 |         |      |    |         |
+ 7|D  Baldgriff                |   97375 |         |      |    |         |
+ 8|   PMD                      |   45600 |         |      |    |         |
+ 9|   Mr Generic               |  117300 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! The Rabid Moose is eliminated!
+! 323 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c20.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 15
+Live redraw in progress:
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

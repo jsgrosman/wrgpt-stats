@@ -1,0 +1,119 @@
+Subject: [b18.10623] Holdem Game Broadcast Message(*)
+
+! Table b18, Hand 51, Day 32
+
+! Stray Taoist folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Ken Doss                 |   48725 |      25 |folded|    |         |
+ 2|   Blackcove                |  100800 |     825 |folded|    |         |
+ 3|   BustedYourMom            |   47525 |      25 |folded|    |         |
+ 4|   Aardvark                 |   68100 |      25 |folded|    |         |
+ 5|   Clark Olson              |   39425 |     825 |folded|    |         |
+ 6|D  anjampie                 |   43325 |      25 |folded|    |         |
+ 7|   Bugsy                    |   51975 |     175 |folded|    |         |
+ 8|   Stray Taoist             |   63625 |     825 |folded|    |         |
+ 9|>  Amanjyaku                |   31525 |    3550 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/04/19 14:25:17! Dealing a new hand
+! 12/04/19 14:25:17! Everyone antes $25
+! 12/04/19 14:25:17! Bugsy blinds $150
+! 12/04/19 14:25:17! Stray Taoist blinds $300
+! 12/04/19 17:11:31! Amanjyaku calls 
+! 12/04/19 17:11:31! Ken Doss folds
+! 12/04/19 17:45:38! Blackcove calls 
+! 12/04/19 18:00:21! BustedYourMom folds
+! 12/04/19 18:00:21! Aardvark folds
+! 12/04/19 18:00:21! Clark Olson calls 
+! 12/04/19 23:02:25! anjampie folds
+! 12/04/19 23:02:25! Bugsy folds
+! 12/04/19 23:25:20! Stray Taoist raises $500 to $800 total 
+! 12/05/19 05:50:16! Amanjyaku calls 
+! 12/05/19 05:50:16! Blackcove calls 
+! 12/05/19 10:52:08! Clark Olson calls 
+
+! 12/05/19 10:52:08! Pot right ($3575), flopping/dealing/drawing cards
+! 12/05/19 10:52:08! 4 players
+! 12/05/19 10:52:08! Flopped cards: 7c Kd 9c
+! 12/05/19 13:58:06! Stray Taoist checks
+_____________________________________________________________________________
+
+! Common commands: - WHAT for status
+! Basic advance actions:
+! BET $x | CALL $x | CALL * | FOLD | MAKE $x
+! RAISE $x | POT | CHECK | JAM | UNDO | GONE
+! -- Amanjyaku --
+_____________________________________________________________________________
+
+! 12/05/19 14:01:01! Amanjyaku bets $2725 
+! 12/05/19 14:04:32! Blackcove folds
+! 12/05/19 14:09:21! Clark Olson folds
+! 12/05/19 23:35:57! Stray Taoist folds
+! Hand over, no showdown
+! Current board is:  7c Kd 9c ? ?
+! Amanjyaku wins $6300 (net $2750)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Ken Doss                 |   48725 |         |      |    |         |
+ 2|   Blackcove                |  100800 |         |      |    |         |
+ 3|   BustedYourMom            |   47525 |         |      |    |         |
+ 4|   Aardvark                 |   68100 |         |      |    |         |
+ 5|   Clark Olson              |   39425 |         |      |    |         |
+ 6|   anjampie                 |   43325 |         |      |    |         |
+ 7|D  Bugsy                    |   51975 |         |      |    |         |
+ 8|   Stray Taoist             |   63625 |         |      |    |         |
+ 9|>  Amanjyaku                |   37825 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 452 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b18.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that have not come to the table by the end
+of day 30 will be removed.
+
+Players that are away from the tables for 45 days 
+will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 7
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

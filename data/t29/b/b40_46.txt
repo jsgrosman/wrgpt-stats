@@ -1,0 +1,123 @@
+Subject: [b40.10537] Holdem Game Broadcast Message(*)
+
+! Table b40, Hand 46, Day 29
+
+! docober calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  Dupe                     |   27800 |     875 |folded|    |         |
+ 2|   Frank O                  |   65450 |     875 |folded|    |         |
+ 3|   JoeBou4860               |   48325 |     300 |folded|    |         |
+ 4|   Barrett                  |       0 |   30725 |all-in|    |         |
+ 5|   Poohbear                 |   49550 |       0 |folded|    |         |
+ 6|   Joshua                   |   85675 |       0 |folded|    |         |
+ 7|   Bridgeman                |  128600 |       0 |folded|    |         |
+ 8|   MichaelJ                 |   51675 |       0 |folded|    |         |
+ 9|>  docober                  |   23300 |   30725 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/30/19 15:16:08! Dealing a new hand
+! 11/30/19 15:16:08! No ante
+! 11/30/19 15:16:08! Frank O blinds $150
+! 11/30/19 15:16:08! JoeBou4860 blinds $300
+! 11/30/19 15:54:48! Barrett raises $575 to $875 total 
+! 11/30/19 15:54:48! Poohbear folds
+! 11/30/19 15:54:48! Joshua folds
+! 11/30/19 15:54:48! Bridgeman folds
+! 11/30/19 15:54:48! MichaelJ folds
+! 11/30/19 22:03:57! docober calls 
+! 12/01/19 06:39:56! Dupe calls 
+! 12/01/19 07:58:22! Frank O calls 
+! 12/01/19 07:58:22! JoeBou4860 folds
+
+! 12/01/19 07:58:22! Pot right ($3800), flopping/dealing/drawing cards
+! 12/01/19 07:58:22! 4 players
+! 12/01/19 07:58:22! Flopped cards: 6s Ad 3d
+! 12/01/19 07:59:24! Frank O checks
+! 12/01/19 10:00:49! Barrett bets $2250 
+! 12/01/19 10:07:26! docober raises $5500 to $7750 total 
+! 12/01/19 10:29:13! Dupe folds
+! 12/01/19 11:53:22! Frank O folds
+! 12/01/19 12:46:06! Barrett calls 
+
+! 12/01/19 12:46:06! Pot right ($19300), flopping/dealing/drawing cards
+! 12/01/19 12:46:06! 2 players
+! 12/01/19 12:46:06! Flopped card: Qd
+! 12/01/19 12:47:04! Barrett checks
+! 12/01/19 20:26:09! docober bets $8000 
+! 12/02/19 03:04:11! Barrett calls 
+
+! 12/02/19 03:04:11! Pot right ($35300), flopping/dealing/drawing cards
+! 12/02/19 03:04:11! 2 players
+! 12/02/19 03:04:11! Flopped card: 8h
+! 12/02/19 03:05:19! Barrett bets $14100 and is all in
+! 12/02/19 03:49:04! docober calls 
+! Hand over, current board is:  6s Ad 3d Qd 8h
+! Barrett                  has: Ac Qc
+! docober                  has: As 3s
+! Barrett wins $63500 (net $32775) with Two Pair (A A Q Q 8)
+! Antes and blinds go up
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Dupe                     |   27800 |         |      |    |         |
+ 2|D  Frank O                  |   65450 |         |      |    |         |
+ 3|   JoeBou4860               |   48325 |         |      |    |         |
+ 4|   Barrett                  |   63500 |         |      |    |         |
+ 5|   Poohbear                 |   49550 |         |      |    |         |
+ 6|   Joshua                   |   85675 |         |      |    |         |
+ 7|   Bridgeman                |  128600 |         |      |    |         |
+ 8|   MichaelJ                 |   51675 |         |      |    |         |
+ 9|>  docober                  |   23300 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 471 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b40.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that have not come to the table by the end
+of day 30 will be removed.
+
+Players that are away from the tables for 45 days 
+will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

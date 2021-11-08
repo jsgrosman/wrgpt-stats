@@ -1,0 +1,122 @@
+Subject: [c5.10540] Holdem Game Broadcast Message(*)
+
+! Table c5, Hand 204, Day 93
+
+! Dave Palm checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   lawrence s               |   37400 |     300 |folded|    |         |
+ 2|   Statistical Tie          |  136050 |     300 |folded|    |         |
+ 3|   Dave Palm                |  104475 |    8900 |      |    |         |
+ 4|   shinsook                 |  176250 |     300 |folded|    |         |
+ 5|   PMedhurst                |   65850 |     300 |folded|    |         |
+ 6|   Bob R                    |  170650 |     300 |folded|    |         |
+ 7|D  shaneless                |  151175 |     300 |folded|    |         |
+ 8|   Axel Foley               |  132100 |    1300 |folded|    |         |
+ 9|>  Julie Greenberg          |   28300 |    8900 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/04/20 07:44:54! Dealing a new hand
+! 02/04/20 07:44:54! Everyone antes $300
+! 02/04/20 07:44:54! Axel Foley blinds $1000
+! 02/04/20 07:44:54! Julie Greenberg blinds $2000
+! 02/04/20 07:45:34! lawrence s folds
+! 02/04/20 07:52:36! Statistical Tie folds
+! 02/04/20 07:55:46! Dave Palm raises $2600 to $4600 total 
+! 02/04/20 10:26:30! shinsook folds
+! 02/04/20 11:32:39! PMedhurst folds
+! 02/04/20 12:05:51! Bob R folds
+! 02/04/20 12:05:51! shaneless folds
+! 02/04/20 12:22:22! Axel Foley folds
+! 02/04/20 12:26:14! Julie Greenberg calls 
+
+! 02/04/20 12:26:14! Pot right ($12900), flopping/dealing/drawing cards
+! 02/04/20 12:26:14! 2 players
+! 02/04/20 12:26:14! Flopped cards: 9s 10d 5h
+! 02/04/20 12:27:22! Julie Greenberg checks
+! 02/04/20 13:05:23! Dave Palm bets $4000 
+! 02/04/20 13:24:08! Julie Greenberg calls 
+
+! 02/04/20 13:24:08! Pot right ($20900), flopping/dealing/drawing cards
+! 02/04/20 13:24:08! 2 players
+! 02/04/20 13:24:08! Flopped card: 10h
+! 02/04/20 13:24:45! Julie Greenberg checks
+! 02/04/20 13:29:18! Dave Palm checks
+
+! 02/04/20 13:29:18! Pot right ($20900), flopping/dealing/drawing cards
+! 02/04/20 13:29:18! 2 players
+! 02/04/20 13:29:18! Flopped card: 6c
+! 02/04/20 13:42:42! Julie Greenberg checks
+! 02/04/20 13:47:29! Dave Palm checks
+! Hand over, current board is:  9s 10d 5h 10h 6c
+! Dave Palm                has: Kc Qc
+! Julie Greenberg          has: Ah Jh
+! Julie Greenberg wins $20900 (net $12000) with One Pair (10 10 A J 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   lawrence s               |   37400 |         |      |    |         |
+ 2|   Statistical Tie          |  136050 |         |      |    |         |
+ 3|   Dave Palm                |  104475 |         |      |    |         |
+ 4|   shinsook                 |  176250 |         |      |    |         |
+ 5|   PMedhurst                |   65850 |         |      |    |         |
+ 6|   Bob R                    |  170650 |         |      |    |         |
+ 7|   shaneless                |  151175 |         |      |    |         |
+ 8|D  Axel Foley               |  132100 |         |      |    |         |
+ 9|>  Julie Greenberg          |   49200 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 206 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c5.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+We are now over 30 days in round "c".  Automatic
+table breaking and live redraws have been disabled.
+We will play until one or more tables gets below six
+players.  When that happens all tables will finish
+the current hand and a full redraw will occur into
+the "d" round.
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 10
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

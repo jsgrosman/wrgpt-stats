@@ -1,0 +1,123 @@
+Subject: [b26.10731] Holdem Game Broadcast Message(*)
+
+! Table b26, Hand 58, Day 50
+
+! SCSI bets $2000 
+! James Bond folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Tony Gurney              |   75900 |     450 |folded|    |         |
+ 2|   Ronnie Snyder            |   90925 |      50 |folded|    |         |
+ 3|   James Bond               |  121750 |     950 |folded|    |         |
+ 4|D  Zbigniew                 |   33850 |     450 |folded|    |         |
+ 5|   Deborah Abel             |   51150 |     250 |folded|    |         |
+ 6|>  SCSI                     |   33425 |    2950 |      |    |         |
+ 8|   Josh Moore               |   31350 |      50 |folded|    |         |
+ 9|   HK                       |   94175 |      50 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/22/19 11:59:12! Dealing a new hand
+! 12/22/19 11:59:12! Everyone antes $50
+! 12/22/19 11:59:12! Deborah Abel blinds $200
+! 12/22/19 11:59:12! SCSI blinds $400
+! 12/22/19 18:40:42! Josh Moore folds
+! 12/22/19 18:40:42! HK is on vacation and folds
+! 12/22/19 18:40:42! Tony Gurney calls 
+! 12/23/19 04:04:06! HK is back from vacation
+! 12/23/19 07:37:52! Ronnie Snyder folds
+! 12/23/19 07:40:03! James Bond calls 
+! 12/23/19 07:49:22! Zbigniew calls 
+! 12/23/19 08:04:08! Deborah Abel folds
+! 12/23/19 08:05:17! SCSI checks
+
+! 12/23/19 08:05:17! Pot right ($2200), flopping/dealing/drawing cards
+! 12/23/19 08:05:17! 4 players
+! 12/23/19 08:05:17! Flopped cards: Qc 6c 2h
+! 12/23/19 08:05:52! SCSI checks
+! 12/23/19 08:35:32! Tony Gurney checks
+! 12/23/19 08:36:52! James Bond bets $500 
+! 12/23/19 08:36:52! Zbigniew folds
+! 12/23/19 08:37:54! SCSI calls 
+! 12/23/19 08:41:36! Tony Gurney folds
+
+! 12/23/19 08:41:36! Pot right ($3200), flopping/dealing/drawing cards
+! 12/23/19 08:41:36! 2 players
+! 12/23/19 08:41:36! Flopped card: Js
+! 12/23/19 08:43:45! SCSI checks
+! 12/23/19 09:01:53! James Bond checks
+
+! 12/23/19 09:01:53! Pot right ($3200), flopping/dealing/drawing cards
+! 12/23/19 09:01:53! 2 players
+! 12/23/19 09:01:53! Flopped card: 4s
+! 12/23/19 09:03:05! SCSI bets $2000 
+! 12/23/19 09:03:05! James Bond folds
+! Hand over, no showdown
+! Current board is:  Qc 6c 2h Js 4s
+! SCSI wins $5200 (net $2250)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Tony Gurney              |   75900 |         |      |    |         |
+ 2|   Ronnie Snyder            |   90925 |         |      |    |         |
+ 3|   James Bond               |  121750 |         |      |    |         |
+ 4|   Zbigniew                 |   33850 |         |      |    |         |
+ 5|D  Deborah Abel             |   51150 |         |      |    |         |
+ 6|>  SCSI                     |   38625 |         |      |    |         |
+ 8|   Josh Moore               |   31350 |         |      |    |         |
+ 9|   HK                       |   94175 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 379 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b26.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+After day 45 of the tourney there will be no
+more live redraws or breaking tables.  Tables
+will be allowed to run until a table gets to 
+five or fewer players at which time all tables
+will finish the current hand and a full, random
+redraw to all new tables will be done.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 26
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

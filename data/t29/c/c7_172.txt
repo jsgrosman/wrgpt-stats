@@ -1,0 +1,119 @@
+Subject: [c7.10358] Holdem Game Broadcast Message(*)
+
+! Table c7, Hand 172, Day 81
+
+! Piney Boy calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D> 1985 M Building Champ    |   83650 |   13200 |      |    |         |
+ 2|   janie                    |   10450 |     800 |folded|    |         |
+ 3|   Piney Boy                |   63350 |   13200 |      |    |         |
+ 4|   BigElmo                  |   82150 |     200 |folded|    |         |
+ 5|   Dario                    |  119075 |       0 |New   |    |         |
+ 6|   Per Starback             |   63625 |     200 |folded|    |         |
+ 7|   CountFlop                |   71325 |    1400 |folded|    |         |
+ 8|   MTpotts                  |   46250 |     200 |folded|    |         |
+ 9|V  Taki                     |   21975 |     200 |<AWOL>|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/22/20 11:40:24! Dealing a new hand
+! 01/22/20 11:40:24! Everyone antes $200
+! 01/22/20 11:40:24! janie blinds $600
+! 01/22/20 11:40:24! Piney Boy blinds $1200
+! 01/22/20 11:56:56! BigElmo folds
+! 01/22/20 12:08:41! Per Starback folds
+! 01/22/20 12:09:20! CountFlop calls 
+! 01/22/20 14:35:04! New player added to the table: Dario
+! 01/22/20 14:40:23! MTpotts folds
+! 01/22/20 14:40:23! Taki is on vacation and folds
+! 01/22/20 14:40:23! 1985 M Building Champ calls 
+! 01/22/20 14:40:23! janie folds
+! 01/22/20 15:20:40! Piney Boy checks
+
+! 01/22/20 15:20:40! Pot right ($5800), flopping/dealing/drawing cards
+! 01/22/20 15:20:40! 3 players
+! 01/22/20 15:20:40! Flopped cards: 7h 8c 3c
+! 01/22/20 15:41:17! Piney Boy checks
+! 01/22/20 16:26:15! CountFlop checks
+! 01/22/20 16:37:02! 1985 M Building Champ bets $1800 
+! 01/22/20 17:18:28! Piney Boy calls 
+! 01/23/20 06:33:53! CountFlop folds
+
+! 01/23/20 06:33:53! Pot right ($9400), flopping/dealing/drawing cards
+! 01/23/20 06:33:53! 2 players
+! 01/23/20 06:33:53! Flopped card: 4h
+! 01/23/20 06:34:48! Piney Boy checks
+! 01/23/20 07:29:41! 1985 M Building Champ bets $3000 
+! 01/23/20 07:32:53! Piney Boy calls 
+
+! 01/23/20 07:32:53! Pot right ($15400), flopping/dealing/drawing cards
+! 01/23/20 07:32:53! 2 players
+! 01/23/20 07:32:53! Flopped card: Kc
+! 01/23/20 07:33:33! Piney Boy checks
+! 01/23/20 07:40:18! 1985 M Building Champ bets $7000 
+! 01/23/20 07:50:13! Piney Boy calls 
+! Hand over, current board is:  7h 8c 3c 4h Kc
+! 1985 M Building Champ    has: Qh 5c
+! Piney Boy                has: As 6d
+! Piney Boy wins $29400 (net $16200) with No Pair (A K 8 7 6)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  1985 M Building Champ    |   83650 |         |      |    |         |
+ 2|D  janie                    |   10450 |         |      |    |         |
+ 3|   Piney Boy                |   92750 |         |      |    |         |
+ 4|   BigElmo                  |   82150 |         |      |    |         |
+ 5|   Dario                    |  119075 |         |      |    |         |
+ 6|   Per Starback             |   63625 |         |      |    |         |
+ 7|   CountFlop                |   71325 |         |      |    |         |
+ 8|   MTpotts                  |   46250 |         |      |    |         |
+ 9|V  Taki                     |   21975 |         |<AWOL>|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 265 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c7.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 5
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

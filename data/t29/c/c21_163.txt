@@ -1,0 +1,126 @@
+Subject: [c21.10214] Holdem Game Broadcast Message(*)
+
+! Table c21, Hand 163, Day 72
+
+! CRStals calls - side pot
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  CRStals                  |       0 |  124000 |all-in|  2 |  255000 |
+ 2|D  L.A. Johnson             |   75200 |     200 |folded|    |         |
+ 3|   Isaac Newton             |  152200 |    3000 |folded|    |         |
+ 4|   bozo                     |  125350 |    3000 |folded|    |         |
+ 5|V  Cody Jones               |   31950 |     200 |<AWOL>|    |         |
+ 6|   Redbird                  |   94150 |     200 |folded|    |         |
+ 7|   Olof Siverbo             |       0 |  216050 |all-in|  1 |   92050 |
+ 8|   Another player           |   61800 |     200 |folded|    |         |
+ 9|   Dave McVay               |   23725 |     200 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/13/20 07:57:44! Dealing a new hand
+! 01/13/20 07:57:44! Everyone antes $200
+! 01/13/20 07:57:44! Isaac Newton blinds $600
+! 01/13/20 07:57:44! bozo blinds $1200
+! 01/13/20 07:57:44! Cody Jones is on vacation and folds
+! 01/13/20 08:44:14! Redbird folds
+! 01/13/20 08:45:56! Olof Siverbo calls 
+! 01/13/20 08:45:56! Another player folds
+! 01/13/20 08:45:56! Dave McVay folds
+! 01/13/20 08:50:08! CRStals raises $1600 to $2800 total 
+! 01/13/20 08:56:41! L.A. Johnson folds
+! 01/13/20 08:58:07! Isaac Newton calls 
+! 01/13/20 09:14:23! bozo calls 
+! 01/13/20 09:15:32! Olof Siverbo calls 
+
+! 01/13/20 09:15:32! Pot right ($13000), flopping/dealing/drawing cards
+! 01/13/20 09:15:32! 4 players
+! 01/13/20 09:15:32! Flopped cards: Qh 9c 9d
+! 01/13/20 09:36:10! Isaac Newton checks
+! 01/13/20 09:44:38! bozo checks
+! 01/13/20 09:51:58! Olof Siverbo checks
+! 01/13/20 11:40:10! CRStals checks
+
+! 01/13/20 11:40:10! Pot right ($13000), flopping/dealing/drawing cards
+! 01/13/20 11:40:10! 4 players
+! 01/13/20 11:40:10! Flopped card: 8d
+! 01/13/20 12:35:36! Isaac Newton checks
+! 01/13/20 12:49:10! bozo checks
+! 01/13/20 12:59:23! Olof Siverbo checks
+! 01/13/20 13:07:08! CRStals checks
+
+! 01/13/20 13:07:08! Pot right ($13000), flopping/dealing/drawing cards
+! 01/13/20 13:07:08! 4 players
+! 01/13/20 13:07:08! Flopped card: 5d
+! 01/13/20 13:46:06! Isaac Newton checks
+! 01/13/20 13:48:13! bozo checks
+! 01/13/20 23:53:25! Olof Siverbo bets $10000 
+! 01/14/20 03:01:01! CRStals raises $10000 to $20000 total 
+! 01/14/20 03:01:01! Isaac Newton folds
+! 01/14/20 04:57:21! bozo folds
+! 01/14/20 05:18:43! Olof Siverbo raises $193050 to $213050 total and is all in
+! 01/14/20 05:29:03! CRStals calls - side pot
+! Hand over, current board is:  Qh 9c 9d 8d 5d
+! CRStals                  has: Qs Qc
+! Olof Siverbo             has: Ad 3d
+! Pot 1: uncalled $92050 returned to Olof Siverbo
+! Pot 2: CRStals wins $255000 with Full House (Q Q Q 9 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  CRStals                  |  255000 |         |      |    |         |
+ 2|   L.A. Johnson             |   75200 |         |      |    |         |
+ 3|D  Isaac Newton             |  152200 |         |      |    |         |
+ 4|   bozo                     |  125350 |         |      |    |         |
+ 5|V  Cody Jones               |   31950 |         |<AWOL>|    |         |
+ 6|   Redbird                  |   94150 |         |      |    |         |
+ 7|   Olof Siverbo             |   92050 |         |      |    |         |
+ 8|   Another player           |   61800 |         |      |    |         |
+ 9|   Dave McVay               |   23725 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 310 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c21.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 11
+Live redraw in progress:
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

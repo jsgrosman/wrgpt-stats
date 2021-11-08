@@ -1,0 +1,114 @@
+Subject: [c2.11295] Holdem Game Broadcast Message(*)
+
+! Table c2, Hand 271, Day 99
+
+! ERIC C MOORE calls 
+! Pot right ($187000), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped cards: 4h Jc Kc
+! Flopped card: 2d
+! Flopped card: 5h
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  ERIC C MOORE             |  196450 |   90100 |      |    |         |
+ 2|   Tom A                    |  354725 |     300 |folded|    |         |
+ 3|   Greg P                   |   99825 |     300 |folded|    |         |
+ 4|D  Eric Brassell            |       0 |   90100 |all-in|    |         |
+ 5|   Benjamin Irving          |   75475 |    1300 |folded|    |         |
+ 6|   stannius                 |   69650 |    2300 |folded|    |         |
+ 7|   woodstock                |  249575 |     300 |folded|    |         |
+ 8|   DroogieDroog             |  120775 |    2300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/09/20 19:11:23! Dealing a new hand
+! 02/09/20 19:11:23! Everyone antes $300
+! 02/09/20 19:11:23! Benjamin Irving blinds $1000
+! 02/09/20 19:11:23! stannius blinds $2000
+! 02/09/20 19:12:01! woodstock folds
+! 02/09/20 19:26:37! DroogieDroog calls 
+! 02/09/20 19:26:37! ERIC C MOORE raises $48775 to $50775 total 
+! 02/09/20 20:03:22! Tom A folds
+! 02/09/20 20:04:48! Greg P folds
+! 02/10/20 03:24:26! Eric Brassell raises $39025 to $89800 total and is all in
+! 02/10/20 03:24:26! Benjamin Irving folds
+! 02/10/20 03:24:26! stannius folds
+! 02/10/20 03:24:26! DroogieDroog folds
+! 02/10/20 03:55:04! ERIC C MOORE calls 
+
+! 02/10/20 03:55:04! Pot right ($187000), flopping/dealing/drawing cards
+! 02/10/20 03:55:04! 2 players, 1 all in
+! 02/10/20 03:55:04! Flopped cards: 4h Jc Kc
+! 02/10/20 03:55:04! Flopped card: 2d
+! 02/10/20 03:55:04! Flopped card: 5h
+! Hand over, current board is:  4h Jc Kc 2d 5h
+! ERIC C MOORE             has: Kh 10h
+! Eric Brassell            has: As Qc
+! ERIC C MOORE wins $187000 (net $96900) with One Pair (K K J 10 5)
+! Antes and blinds go up
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  ERIC C MOORE             |  383450 |         |      |    |         |
+ 2|   Tom A                    |  354725 |         |      |    |         |
+ 3|   Greg P                   |   99825 |         |      |    |         |
+ 5|D  Benjamin Irving          |   75475 |         |      |    |         |
+ 6|   stannius                 |   69650 |         |      |    |         |
+ 7|   woodstock                |  249575 |         |      |    |         |
+ 8|   DroogieDroog             |  120775 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Eric Brassell is eliminated!
+! 187 players left in the tournament, 2 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c2.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+We are now over 30 days in round "c".  Automatic
+table breaking and live redraws have been disabled.
+We will play until one or more tables gets below six
+players.  When that happens all tables will finish
+the current hand and a full redraw will occur into
+the "d" round.
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 28
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

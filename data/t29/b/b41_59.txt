@@ -1,0 +1,131 @@
+Subject: [b41.10794] Holdem Game Broadcast Message(*)
+
+! Table b41, Hand 59, Day 50
+
+! Plain Ed calls and is all in
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   CountFlop                |   42725 |      50 |folded|    |         |
+ 2|>  Righteous Indignation    |   71350 |   46150 |      |  2 |   19150 |
+ 3|   Kimbo                    |       0 |   36575 |all-in|  3 |  110825 |
+ 4|   Klod                     |  135825 |      50 |folded|    |         |
+ 5|D  dave                     |   86800 |      50 |folded|    |         |
+ 6|   Plain Ed                 |       0 |   46150 |all-in|  2 |   19150 |
+ 7|   jpawloski                |  112275 |     450 |folded|    |         |
+ 8|   Commander Flanders       |   68150 |     450 |folded|    |         |
+ 9|   Vic Vega                 |   88675 |      50 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/22/19 13:16:29! Dealing a new hand
+! 12/22/19 13:16:29! Everyone antes $50
+! 12/22/19 13:16:29! Plain Ed blinds $200
+! 12/22/19 13:16:29! jpawloski blinds $400
+! 12/22/19 13:29:52! Commander Flanders calls 
+! 12/22/19 13:46:01! Vic Vega folds
+! 12/22/19 13:46:01! CountFlop folds
+! 12/22/19 14:31:04! Righteous Indignation raises $800 to $1200 total 
+! 12/22/19 16:45:15! Kimbo calls 
+! 12/23/19 11:02:02! Klod folds
+! 12/23/19 11:02:02! dave folds
+! 12/23/19 11:02:02! Plain Ed raises $3000 to $4200 total 
+! 12/23/19 11:02:02! jpawloski folds
+! 12/23/19 11:02:02! Commander Flanders folds
+! 12/23/19 11:37:52! Righteous Indignation calls 
+! 12/23/19 13:52:43! Kimbo calls 
+
+! 12/23/19 13:52:43! Pot right ($13850), flopping/dealing/drawing cards
+! 12/23/19 13:52:43! 3 players
+! 12/23/19 13:52:43! Flopped cards: Qh Qs 10h
+! 12/23/19 14:43:13! Plain Ed checks
+! 12/23/19 14:45:33! Righteous Indignation checks
+! 12/23/19 16:28:02! Kimbo checks
+
+! 12/23/19 16:28:02! Pot right ($13850), flopping/dealing/drawing cards
+! 12/23/19 16:28:02! 3 players
+! 12/23/19 16:28:02! Flopped card: 4h
+! 12/23/19 16:48:45! Plain Ed bets $4000 
+! 12/23/19 17:35:00! Righteous Indignation calls 
+! 12/23/19 19:54:39! Kimbo raises $28325 to $32325 total and is all in
+! 12/23/19 19:58:07! Plain Ed calls 
+! 12/23/19 20:40:57! Righteous Indignation calls 
+
+! 12/23/19 20:40:57! Pot right ($110825), flopping/dealing/drawing cards
+! 12/23/19 20:40:57! 3 players, 1 all in
+! 12/23/19 20:40:57! Flopped card: 5s
+! 12/23/19 20:56:05! Plain Ed checks
+! 12/23/19 21:09:00! Righteous Indignation bets $9575 
+! 12/23/19 21:11:59! Plain Ed calls and is all in
+! Hand over, current board is:  Qh Qs 10h 4h 5s
+! Righteous Indignation    has: 9h 2h
+! Kimbo                    has: Js 4c
+! Plain Ed                 has: As Ad
+! Pot 2: Righteous Indignation wins $19150 with Heart Flush (Q 10 9 4 2)
+! Pot 3: Righteous Indignation wins $110825 with Heart Flush (Q 10 9 4 2)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   CountFlop                |   42725 |         |      |    |         |
+ 2|>  Righteous Indignation    |  201325 |         |      |    |         |
+ 4|   Klod                     |  135825 |         |      |    |         |
+ 5|D  dave                     |   86800 |         |      |    |         |
+ 7|   jpawloski                |  112275 |         |      |    |         |
+ 8|   Commander Flanders       |   68150 |         |      |    |         |
+ 9|   Vic Vega                 |   88675 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Kimbo is eliminated!
+! Plain Ed is eliminated!
+! 373 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b41.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+After day 45 of the tourney there will be no
+more live redraws or breaking tables.  Tables
+will be allowed to run until a table gets to 
+five or fewer players at which time all tables
+will finish the current hand and a full, random
+redraw to all new tables will be done.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 30
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

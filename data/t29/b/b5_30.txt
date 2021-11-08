@@ -1,0 +1,118 @@
+Subject: [b5.10339] Holdem Game Broadcast Message(*)
+
+! Table b5, Hand 30, Day 22
+
+! kvk checks
+! Boaty McBoatface checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Boaty McBoatface         |   56000 |     600 |      |    |         |
+ 2|   Mr. Rhinelander          |   63625 |       0 |folded|    |         |
+ 3|DV David Paulett            |   48650 |       0 |<AWOL>|    |         |
+ 4|   Omaholic                 |   38300 |     150 |folded|    |         |
+ 5|   Bubbabear                |   59000 |     300 |folded|    |         |
+ 6|   MarinaMan                |  103525 |       0 |folded|    |         |
+ 7|   Cody Jones               |   49275 |       0 |folded|    |         |
+ 8|   ITCs Trips on Trips      |   31900 |       0 |folded|    |         |
+ 9|>  kvk                      |   46975 |     600 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/24/19 12:31:52! Dealing a new hand
+! 11/24/19 12:31:52! No ante
+! 11/24/19 12:31:52! Omaholic blinds $150
+! 11/24/19 12:31:52! Bubbabear blinds $300
+! 11/24/19 15:57:49! MarinaMan folds
+! 11/25/19 05:59:28! Cody Jones folds
+! 11/25/19 05:59:28! ITCs Trips on Trips folds
+! 11/25/19 06:37:10! kvk raises $300 to $600 total 
+! 11/25/19 07:57:41! Boaty McBoatface calls 
+! 11/25/19 07:57:41! Mr. Rhinelander folds
+! 11/25/19 07:57:41! David Paulett is on vacation and folds
+! 11/25/19 08:08:07! Omaholic folds
+! 11/25/19 08:08:07! Bubbabear folds
+
+! 11/25/19 08:08:07! Pot right ($1650), flopping/dealing/drawing cards
+! 11/25/19 08:08:07! 2 players
+! 11/25/19 08:08:07! Flopped cards: 5c 3h As
+! 11/25/19 09:04:38! kvk checks
+! 11/25/19 09:04:38! Boaty McBoatface checks
+
+! 11/25/19 09:04:38! Pot right ($1650), flopping/dealing/drawing cards
+! 11/25/19 09:04:38! 2 players
+! 11/25/19 09:04:38! Flopped card: 9s
+! 11/25/19 09:24:11! kvk checks
+! 11/25/19 09:24:11! Boaty McBoatface checks
+
+! 11/25/19 09:24:11! Pot right ($1650), flopping/dealing/drawing cards
+! 11/25/19 09:24:11! 2 players
+! 11/25/19 09:24:11! Flopped card: Qs
+! 11/25/19 09:50:59! kvk checks
+! 11/25/19 09:50:59! Boaty McBoatface checks
+! Hand over, current board is:  5c 3h As 9s Qs
+! Boaty McBoatface         has: Qc Jc
+! kvk                      has: Kd Jd
+! Boaty McBoatface wins $1650 (net $1050) with One Pair (Q Q A J 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Boaty McBoatface         |   57650 |         |      |    |         |
+ 2|   Mr. Rhinelander          |   63625 |         |      |    |         |
+ 3|V  David Paulett            |   48650 |         |<AWOL>|    |         |
+ 4|D  Omaholic                 |   38300 |         |      |    |         |
+ 5|   Bubbabear                |   59000 |         |      |    |         |
+ 6|   MarinaMan                |  103525 |         |      |    |         |
+ 7|   Cody Jones               |   49275 |         |      |    |         |
+ 8|   ITCs Trips on Trips      |   31900 |         |      |    |         |
+ 9|>  kvk                      |   46975 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 496 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b5.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that have not come to the table by the end
+of day 30 will be removed.
+
+Players that are away from the tables for 45 days 
+will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

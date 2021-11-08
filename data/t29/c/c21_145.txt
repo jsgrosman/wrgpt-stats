@@ -1,0 +1,118 @@
+Subject: [c21.10014] Holdem Game Broadcast Message(*)
+
+! Table c21, Hand 145, Day 62
+
+! underdog calls - side pot
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  CRStals                  |  226225 |     100 |folded|    |         |
+ 2|   L.A. Johnson             |   34550 |     350 |folded|    |         |
+ 3|   Isaac Newton             |       0 |  114200 |all-in|  1 |   67250 |
+ 4|>  underdog                 |       0 |   46950 |all-in|  2 |   96500 |
+ 5|V  Cody Jones               |   35350 |     100 |<AWOL>|    |         |
+ 6|V  Redbird                  |   94200 |     100 |<AWOL>|    |         |
+ 7|   Olof Siverbo             |  125325 |    1750 |folded|    |         |
+ 8|   Another player           |   82650 |     100 |folded|    |         |
+ 9|   Dave McVay               |   26125 |     100 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/03/20 16:58:13! Dealing a new hand
+! 01/03/20 16:58:13! Everyone antes $100
+! 01/03/20 16:58:13! L.A. Johnson blinds $250
+! 01/03/20 16:58:13! Isaac Newton blinds $500
+! 01/03/20 20:16:28! underdog raises $1150 to $1650 total 
+! 01/03/20 20:16:28! Cody Jones is on vacation and folds
+! 01/03/20 20:16:28! Redbird is on vacation and folds
+! 01/04/20 01:06:28! Olof Siverbo calls 
+! 01/04/20 01:06:28! Another player folds
+! 01/04/20 01:06:28! Dave McVay folds
+! 01/04/20 04:08:37! CRStals folds
+! 01/04/20 04:20:06! L.A. Johnson folds
+! 01/04/20 07:14:05! Isaac Newton calls 
+
+! 01/04/20 07:14:05! Pot right ($6100), flopping/dealing/drawing cards
+! 01/04/20 07:14:05! 3 players
+! 01/04/20 07:14:05! Flopped cards: 8h Jh Qd
+! 01/04/20 07:16:56! Isaac Newton checks
+! 01/04/20 08:01:36! underdog bets $3050 
+! 01/04/20 08:04:56! Olof Siverbo folds
+! 01/04/20 13:14:02! Isaac Newton calls 
+
+! 01/04/20 13:14:02! Pot right ($12200), flopping/dealing/drawing cards
+! 01/04/20 13:14:02! 2 players
+! 01/04/20 13:14:02! Flopped card: Qh
+! 01/04/20 13:15:48! Isaac Newton checks
+! 01/04/20 14:31:09! underdog bets $6100 
+! 01/04/20 15:05:25! Isaac Newton calls 
+
+! 01/04/20 15:05:25! Pot right ($24400), flopping/dealing/drawing cards
+! 01/04/20 15:05:25! 2 players
+! 01/04/20 15:05:25! Flopped card: 4c
+! 01/04/20 15:06:11! Isaac Newton bets $103300 and is all in
+! 01/04/20 15:24:56! underdog calls - side pot
+! Hand over, current board is:  8h Jh Qd Qh 4c
+! Isaac Newton             has: Kh 10h
+! underdog                 has: 9h 9d
+! Pot 1: uncalled $67250 returned to Isaac Newton
+! Pot 2: Isaac Newton wins $96500 with Heart Flush (K Q J 10 8)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   CRStals                  |  226225 |         |      |    |         |
+ 2|D  L.A. Johnson             |   34550 |         |      |    |         |
+ 3|   Isaac Newton             |  163750 |         |      |    |         |
+ 5|V  Cody Jones               |   35350 |         |<AWOL>|    |         |
+ 6|V  Redbird                  |   94200 |         |<AWOL>|    |         |
+ 7|   Olof Siverbo             |  125325 |         |      |    |         |
+ 8|   Another player           |   82650 |         |      |    |         |
+ 9|   Dave McVay               |   26125 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! underdog is eliminated!
+! 340 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c21.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 2
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

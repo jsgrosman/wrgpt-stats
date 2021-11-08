@@ -1,0 +1,116 @@
+Subject: [c23.10487] Holdem Game Broadcast Message(*)
+
+! Table c23, Hand 188, Day 92
+
+! scjansen calls 
+! Pot right ($101550), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: Ks
+! Flopped card: 10d
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Couchtater               |       0 |   45725 |all-in|    |         |
+ 2|   Joshua                   |   87050 |     300 |folded|    |         |
+ 3|   Bugsy                    |   81475 |     300 |folded|    |         |
+ 4|   dstebs                   |   71000 |     300 |folded|    |         |
+ 5|   Fredrik Westerlund       |   73650 |     300 |folded|    |         |
+ 6|   Sam Parazette            |   52150 |    4300 |folded|    |         |
+ 7|   Home_Brew_Boy            |  161000 |     300 |folded|    |         |
+ 8|D  CoachMatt13              |  121175 |    4300 |folded|    |         |
+ 9|>  scjansen                 |   24975 |   45725 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/01/20 14:43:48! Dealing a new hand
+! 02/01/20 14:43:48! Everyone antes $300
+! 02/01/20 14:43:48! scjansen blinds $1000
+! 02/01/20 14:43:48! Couchtater blinds $2000
+! 02/01/20 14:44:12! Joshua folds
+! 02/01/20 15:49:06! Bugsy folds
+! 02/01/20 16:14:09! dstebs folds
+! 02/02/20 00:35:54! Fredrik Westerlund folds
+! 02/02/20 07:47:40! Sam Parazette calls 
+! 02/02/20 12:38:30! Home_Brew_Boy folds
+! 02/02/20 15:44:43! CoachMatt13 calls 
+! 02/02/20 15:44:43! scjansen raises $2000 to $4000 total 
+! 02/02/20 20:34:47! Couchtater calls 
+! 02/02/20 22:32:45! Sam Parazette calls 
+! 02/03/20 06:40:05! CoachMatt13 calls 
+
+! 02/03/20 06:40:05! Pot right ($18700), flopping/dealing/drawing cards
+! 02/03/20 06:40:05! 4 players
+! 02/03/20 06:40:05! Flopped cards: 6s 3d 4c
+! 02/03/20 06:41:51! scjansen bets $11000 
+! 02/03/20 08:30:16! Couchtater raises $30425 to $41425 total and is all in
+! 02/03/20 08:30:16! Sam Parazette folds
+! 02/03/20 10:39:20! CoachMatt13 folds
+! 02/03/20 10:40:12! scjansen calls 
+
+! 02/03/20 10:40:12! Pot right ($101550), flopping/dealing/drawing cards
+! 02/03/20 10:40:12! 2 players, 1 all in
+! 02/03/20 10:40:12! Flopped card: Ks
+! 02/03/20 10:40:12! Flopped card: 10d
+! Hand over, current board is:  6s 3d 4c Ks 10d
+! Couchtater               has: 4d 5c
+! scjansen                 has: Ad Qc
+! Couchtater wins $101550 (net $55825) with One Pair (4 4 K 10 6)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Couchtater               |  101550 |         |      |    |         |
+ 2|   Joshua                   |   87050 |         |      |    |         |
+ 3|   Bugsy                    |   81475 |         |      |    |         |
+ 4|   dstebs                   |   71000 |         |      |    |         |
+ 5|   Fredrik Westerlund       |   73650 |         |      |    |         |
+ 6|   Sam Parazette            |   52150 |         |      |    |         |
+ 7|   Home_Brew_Boy            |  161000 |         |      |    |         |
+ 8|   CoachMatt13              |  121175 |         |      |    |         |
+ 9|D> scjansen                 |   24975 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 211 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c23.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 5
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

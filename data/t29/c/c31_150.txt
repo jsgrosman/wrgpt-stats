@@ -1,0 +1,105 @@
+Subject: [c31.10060] Holdem Game Broadcast Message(*)
+
+! Table c31, Hand 150, Day 64
+
+! Bacon folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   SJL                      |   64000 |     100 |folded|    |         |
+ 2|   coming                   |  126850 |     100 |folded|    |         |
+ 4|   Bacon                    |   24800 |    3925 |folded|    |         |
+ 5|>  altidude6202             |  132625 |   10425 |      |    |         |
+ 6|D  Mybanjo                  |   53275 |     100 |folded|    |         |
+ 7|   shinsook                 |  106200 |     350 |folded|    |         |
+ 8|   Andyd                    |   77275 |     600 |folded|    |         |
+ 9|   beacon bot               |  284225 |     100 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/05/20 14:07:02! Dealing a new hand
+! 01/05/20 14:07:02! Everyone antes $100
+! 01/05/20 14:07:02! shinsook blinds $250
+! 01/05/20 14:07:02! Andyd blinds $500
+! 01/05/20 14:11:13! beacon bot folds
+! 01/05/20 14:11:39! SJL folds
+! 01/05/20 15:54:53! coming folds
+! 01/05/20 16:16:30! Bacon raises $1100 to $1600 total 
+! 01/05/20 16:21:24! altidude6202 calls 
+! 01/05/20 16:21:24! Mybanjo folds
+! 01/05/20 17:21:07! shinsook folds
+! 01/05/20 17:21:07! Andyd folds
+
+! 01/05/20 17:21:07! Pot right ($4750), flopping/dealing/drawing cards
+! 01/05/20 17:21:07! 2 players
+! 01/05/20 17:21:07! Flopped cards: 2c 5c Ah
+! 01/05/20 17:36:01! Bacon bets $2225 
+! 01/05/20 17:45:23! altidude6202 calls 
+
+! 01/05/20 17:45:23! Pot right ($9200), flopping/dealing/drawing cards
+! 01/05/20 17:45:23! 2 players
+! 01/05/20 17:45:23! Flopped card: 10h
+! 01/05/20 17:50:34! Bacon checks
+! 01/05/20 18:02:00! altidude6202 bets $6500 
+! 01/06/20 10:53:03! Bacon folds
+! Hand over, no showdown
+! Current board is:  2c 5c Ah 10h ?
+! altidude6202 wins $15700 (net $5275)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   SJL                      |   64000 |         |      |    |         |
+ 2|   coming                   |  126850 |         |      |    |         |
+ 4|   Bacon                    |   24800 |         |      |    |         |
+ 5|>  altidude6202             |  148325 |         |      |    |         |
+ 6|   Mybanjo                  |   53275 |         |      |    |         |
+ 7|D  shinsook                 |  106200 |         |      |    |         |
+ 8|   Andyd                    |   77275 |         |      |    |         |
+ 9|   beacon bot               |  284225 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 336 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c31.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 7
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

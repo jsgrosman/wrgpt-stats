@@ -1,0 +1,121 @@
+Subject: [c21.10667] Holdem Game Broadcast Message(*)
+
+! Table c21, Hand 214, Day 99
+
+! CRStals checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  CRStals                  |  293275 |    8300 |      |  2 |   12900 |
+ 2|   L.A. Johnson             |  221000 |    1300 |folded|    |         |
+ 3|>  mjoseff                  |  251500 |    8300 |      |  2 |   12900 |
+ 4|   gilette                  |  102700 |     300 |folded|    |         |
+ 5|V  Cody Jones               |    4750 |     300 |<AWOL>|    |         |
+ 6|V  Redbird                  |   68350 |     300 |<AWOL>|    |         |
+ 7|   Olof Siverbo             |  175700 |     300 |folded|    |         |
+ 8|   Another player           |       0 |    1850 |all-in|  3 |    8050 |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/08/20 15:04:43! Dealing a new hand
+! 02/08/20 15:04:43! Everyone antes $300
+! 02/08/20 15:04:43! L.A. Johnson blinds $1000
+! 02/08/20 15:04:43! mjoseff blinds $2000
+! 02/08/20 15:43:55! gilette folds
+! 02/08/20 15:43:55! Cody Jones is on vacation and folds
+! 02/08/20 15:43:55! Redbird is on vacation and folds
+! 02/08/20 15:43:55! Olof Siverbo folds
+! 02/08/20 16:37:38! Another player calls - side pot
+! 02/09/20 09:00:04! CRStals raises $6000 to $8000 total 
+! 02/09/20 09:27:21! L.A. Johnson folds
+! 02/09/20 15:44:08! mjoseff calls 
+
+! 02/09/20 15:44:08! Pot right ($20950), flopping/dealing/drawing cards
+! 02/09/20 15:44:08! 3 players, 1 all in
+! 02/09/20 15:44:08! Flopped cards: As 4s Qs
+! 02/09/20 15:44:38! mjoseff checks
+! 02/09/20 17:50:54! CRStals checks
+
+! 02/09/20 17:50:54! Pot right ($20950), flopping/dealing/drawing cards
+! 02/09/20 17:50:54! 3 players, 1 all in
+! 02/09/20 17:50:54! Flopped card: 6h
+! 02/09/20 18:40:04! mjoseff checks
+! 02/09/20 18:52:12! CRStals checks
+
+! 02/09/20 18:52:12! Pot right ($20950), flopping/dealing/drawing cards
+! 02/09/20 18:52:12! 3 players, 1 all in
+! 02/09/20 18:52:12! Flopped card: 10s
+! 02/09/20 19:00:21! mjoseff checks
+! 02/10/20 02:23:06! CRStals checks
+! Hand over, current board is:  As 4s Qs 6h 10s
+! CRStals                  has: 8h 8c
+! mjoseff                  has: 6d Kc
+! Another player           has: Ac Jc
+! Pot 2: CRStals wins $12900 with One Pair (8 8 A Q 10)
+! Pot 3: Another player wins $8050 with One Pair (A A Q J 10)
+! Antes and blinds go up
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   CRStals                  |  306175 |         |      |    |         |
+ 2|D  L.A. Johnson             |  221000 |         |      |    |         |
+ 3|>  mjoseff                  |  251500 |         |      |    |         |
+ 4|   gilette                  |  102700 |         |      |    |         |
+ 5|V  Cody Jones               |    4750 |         |<AWOL>|    |         |
+ 6|V  Redbird                  |   68350 |         |<AWOL>|    |         |
+ 7|   Olof Siverbo             |  175700 |         |      |    |         |
+ 8|   Another player           |    8050 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 188 players left in the tournament, 2 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c21.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+We are now over 30 days in round "c".  Automatic
+table breaking and live redraws have been disabled.
+We will play until one or more tables gets below six
+players.  When that happens all tables will finish
+the current hand and a full redraw will occur into
+the "d" round.
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 28
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,116 @@
+Subject: [c2.10883] Holdem Game Broadcast Message(*)
+
+! Table c2, Hand 233, Day 81
+
+! Dr.Doofenshmirtz calls - side pot
+! Pot right ($268875), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped card: 9h
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   ERIC C MOORE             |  208075 |     800 |folded|    |         |
+ 2|   Tom A                    |       0 |  197800 |all-in|  1 |  128525 |
+ 3|   Greg P                   |  174425 |     200 |folded|    |         |
+ 4|   David Kuznick            |   32775 |     200 |folded|    |         |
+ 5|V  reelbigbeagles           |   32550 |     200 |<AWOL>|    |         |
+ 6|>  Dr.Doofenshmirtz         |       0 |   69275 |all-in|  2 |  140350 |
+ 7|   woodstock                |  222575 |     200 |folded|    |         |
+ 9|D  DMW                      |   67525 |     200 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/23/20 09:46:09! Dealing a new hand
+! 01/23/20 09:46:09! Everyone antes $200
+! 01/23/20 09:46:09! ERIC C MOORE blinds $600
+! 01/23/20 09:46:09! Tom A blinds $1200
+! 01/23/20 09:47:28! Greg P folds
+! 01/23/20 09:50:44! David Kuznick folds
+! 01/23/20 09:50:44! reelbigbeagles is on vacation and folds
+! 01/23/20 09:51:56! Dr.Doofenshmirtz raises $3000 to $4200 total 
+! 01/23/20 10:16:08! woodstock folds
+! 01/23/20 10:16:08! DMW folds
+! 01/23/20 10:30:57! ERIC C MOORE folds
+! 01/23/20 14:07:03! Tom A calls 
+
+! 01/23/20 14:07:03! Pot right ($10600), flopping/dealing/drawing cards
+! 01/23/20 14:07:03! 2 players
+! 01/23/20 14:07:03! Flopped cards: 9c 6s 7s
+! 01/23/20 14:07:30! Tom A checks
+! 01/23/20 14:10:13! Dr.Doofenshmirtz bets $6500 
+! 01/23/20 15:17:01! Tom A calls 
+
+! 01/23/20 15:17:01! Pot right ($23600), flopping/dealing/drawing cards
+! 01/23/20 15:17:01! 2 players
+! 01/23/20 15:17:01! Flopped card: 2d
+! 01/23/20 15:17:33! Tom A checks
+! 01/23/20 15:19:43! Dr.Doofenshmirtz bets $13000 
+! 01/23/20 15:28:24! Tom A raises $173900 to $186900 total and is all in
+! 01/23/20 15:35:25! Dr.Doofenshmirtz calls - side pot
+
+! 01/23/20 15:35:25! Pot right ($268875), flopping/dealing/drawing cards
+! 01/23/20 15:35:25! 2 players, 2 all in
+! 01/23/20 15:35:25! Flopped card: 9h
+! Hand over, current board is:  9c 6s 7s 2d 9h
+! Tom A                    has: 9d 6c
+! Dr.Doofenshmirtz         has: Qd Qc
+! Pot 1: uncalled $128525 returned to Tom A
+! Pot 2: Tom A wins $140350 with Full House (9 9 9 6 6)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  ERIC C MOORE             |  208075 |         |      |    |         |
+ 2|   Tom A                    |  268875 |         |      |    |         |
+ 3|   Greg P                   |  174425 |         |      |    |         |
+ 4|   David Kuznick            |   32775 |         |      |    |         |
+ 5|V  reelbigbeagles           |   32550 |         |<AWOL>|    |         |
+ 7|   woodstock                |  222575 |         |      |    |         |
+ 9|   DMW                      |   67525 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Dr.Doofenshmirtz is eliminated!
+! 260 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c2.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

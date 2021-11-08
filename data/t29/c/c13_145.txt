@@ -1,0 +1,125 @@
+Subject: [c13.10021] Holdem Game Broadcast Message(*)
+
+! Table c13, Hand 145, Day 62
+
+! Boaty McBoatface calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  TommyO                   |   66325 |    1100 |folded|    |         |
+ 2|   BustedYourMom            |   72950 |    1100 |folded|    |         |
+ 3|   Ronnie Snyder            |  105475 |     600 |folded|    |         |
+ 4|>  Boaty McBoatface         |  108100 |   37600 |      |    |         |
+ 5|   Vic Vega                 |   74750 |    1100 |folded|    |         |
+ 6|   Jeff Palmucci            |  210975 |     100 |folded|    |         |
+ 7|   Michael Brennan          |   38600 |     100 |folded|    |         |
+ 8|   Dr. Flush                |       0 |   37600 |all-in|    |         |
+ 9|   sasq                     |   45225 |     100 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/03/20 16:57:49! Dealing a new hand
+! 01/03/20 16:57:49! Everyone antes $100
+! 01/03/20 16:57:49! BustedYourMom blinds $250
+! 01/03/20 16:57:49! Ronnie Snyder blinds $500
+! 01/03/20 17:00:52! Boaty McBoatface calls 
+! 01/03/20 19:38:08! Vic Vega calls 
+! 01/03/20 19:38:08! Jeff Palmucci folds
+! 01/03/20 19:38:08! Michael Brennan folds
+! 01/03/20 19:39:34! Dr. Flush raises $500 to $1000 total 
+! 01/03/20 19:39:34! sasq folds
+! 01/04/20 03:13:25! TommyO calls 
+! 01/04/20 08:17:44! BustedYourMom calls 
+! 01/04/20 08:17:44! Ronnie Snyder folds
+! 01/04/20 09:59:55! Boaty McBoatface calls 
+! 01/04/20 10:20:42! Vic Vega calls 
+
+! 01/04/20 10:20:42! Pot right ($6400), flopping/dealing/drawing cards
+! 01/04/20 10:20:42! 5 players
+! 01/04/20 10:20:42! Flopped cards: 5d Jd Kc
+! 01/04/20 11:00:58! BustedYourMom checks
+! 01/04/20 11:21:18! Boaty McBoatface checks
+! 01/04/20 11:30:32! Vic Vega checks
+! 01/04/20 11:56:54! Dr. Flush bets $2000 
+! 01/04/20 13:05:34! TommyO folds
+! 01/04/20 13:36:43! BustedYourMom folds
+! 01/04/20 15:17:53! Boaty McBoatface calls 
+! 01/04/20 18:05:03! Vic Vega folds
+
+! 01/04/20 18:05:03! Pot right ($10400), flopping/dealing/drawing cards
+! 01/04/20 18:05:03! 2 players
+! 01/04/20 18:05:03! Flopped card: 10s
+! 01/04/20 18:05:38! Boaty McBoatface checks
+! 01/04/20 18:07:39! Dr. Flush bets $5000 
+! 01/04/20 18:08:38! Boaty McBoatface calls 
+
+! 01/04/20 18:08:38! Pot right ($20400), flopping/dealing/drawing cards
+! 01/04/20 18:08:38! 2 players
+! 01/04/20 18:08:38! Flopped card: 9h
+! 01/04/20 18:09:42! Boaty McBoatface bets $14000 
+! 01/04/20 18:12:39! Dr. Flush raises $15500 to $29500 total and is all in
+! 01/04/20 18:13:10! Boaty McBoatface calls 
+! Hand over, current board is:  5d Jd Kc 10s 9h
+! Boaty McBoatface         has: Qc Jc
+! Dr. Flush                has: Qh Qd
+! Boaty McBoatface wins $39700 (net $2100) with Straight (K Q J 10 9)
+! Dr. Flush wins $39700 (net $2100) with Straight (K Q J 10 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   TommyO                   |   66325 |         |      |    |         |
+ 2|D  BustedYourMom            |   72950 |         |      |    |         |
+ 3|   Ronnie Snyder            |  105475 |         |      |    |         |
+ 4|>  Boaty McBoatface         |  147800 |         |      |    |         |
+ 5|   Vic Vega                 |   74750 |         |      |    |         |
+ 6|   Jeff Palmucci            |  210975 |         |      |    |         |
+ 7|   Michael Brennan          |   38600 |         |      |    |         |
+ 8|   Dr. Flush                |   39700 |         |      |    |         |
+ 9|   sasq                     |   45225 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 340 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c13.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 3
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

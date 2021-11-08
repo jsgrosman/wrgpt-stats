@@ -1,0 +1,108 @@
+Subject: [c31.10134] Holdem Game Broadcast Message(*)
+
+! Table c31, Hand 156, Day 66
+
+! beacon bot folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   SJL                      |   63550 |     100 |folded|    |         |
+ 2|D  coming                   |  125500 |     100 |folded|    |         |
+ 5|   altidude6202             |  228200 |    1600 |folded|    |         |
+ 7|>  shinsook                 |   88300 |   20350 |      |    |         |
+ 8|   Andyd                    |   74925 |     100 |folded|    |         |
+ 9|   beacon bot               |  273875 |    8350 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/07/20 16:56:41! Dealing a new hand
+! 01/07/20 16:56:41! Everyone antes $100
+! 01/07/20 16:56:41! altidude6202 blinds $250
+! 01/07/20 16:56:41! shinsook blinds $500
+! 01/07/20 16:57:42! Andyd folds
+! 01/07/20 17:32:56! beacon bot raises $1000 to $1500 total 
+! 01/07/20 17:32:56! SJL folds
+! 01/07/20 18:13:42! coming folds
+! 01/07/20 19:47:18! altidude6202 calls 
+! 01/07/20 20:33:57! shinsook calls 
+
+! 01/07/20 20:33:57! Pot right ($5100), flopping/dealing/drawing cards
+! 01/07/20 20:33:57! 3 players
+! 01/07/20 20:33:57! Flopped cards: Qs 10h 2s
+! 01/07/20 20:51:15! altidude6202 checks
+! 01/07/20 20:52:02! shinsook checks
+! 01/07/20 21:27:16! beacon bot bets $2500 
+! 01/08/20 04:10:55! altidude6202 folds
+! 01/08/20 09:18:19! shinsook calls 
+
+! 01/08/20 09:18:19! Pot right ($10100), flopping/dealing/drawing cards
+! 01/08/20 09:18:19! 2 players
+! 01/08/20 09:18:19! Flopped card: Jh
+! 01/08/20 09:23:53! shinsook checks
+! 01/08/20 10:02:16! beacon bot bets $4250 
+! 01/08/20 10:26:05! shinsook calls 
+
+! 01/08/20 10:26:05! Pot right ($18600), flopping/dealing/drawing cards
+! 01/08/20 10:26:05! 2 players
+! 01/08/20 10:26:05! Flopped card: 2h
+! 01/08/20 10:30:54! shinsook bets $12000 
+! 01/08/20 12:23:13! beacon bot folds
+! Hand over, no showdown
+! Current board is:  Qs 10h 2s Jh 2h
+! shinsook wins $30600 (net $10250)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   SJL                      |   63550 |         |      |    |         |
+ 2|   coming                   |  125500 |         |      |    |         |
+ 5|D  altidude6202             |  228200 |         |      |    |         |
+ 7|>  shinsook                 |  118900 |         |      |    |         |
+ 8|   Andyd                    |   74925 |         |      |    |         |
+ 9|   beacon bot               |  273875 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 325 players left in the tournament, 2 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c31.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 12
+Live redraw in progress:
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

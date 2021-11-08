@@ -1,0 +1,99 @@
+Subject: [c26.10185] Holdem Game Broadcast Message(*)
+
+! Table c26, Hand 159, Day 71
+
+! m13d folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Jim Anderson             |  110150 |     100 |folded|    |         |
+ 2|   m13d                     |   23225 |    1200 |folded|    |         |
+ 3|   Tiltdad                  |   99125 |     100 |folded|    |         |
+ 4|   Nyte                     |   35525 |     100 |folded|    |         |
+ 5|   gilette                  |  151600 |     100 |folded|    |         |
+ 7|D  Barrett                  |   14150 |     100 |folded|    |         |
+ 8|   tekbot                   |   74600 |     350 |folded|    |         |
+ 9|>  GoBig                    |   93425 |    2400 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/12/20 17:13:32! Dealing a new hand
+! 01/12/20 17:13:32! Everyone antes $100
+! 01/12/20 17:13:32! tekbot blinds $250
+! 01/12/20 17:13:32! GoBig blinds $500
+! 01/12/20 17:18:39! Jim Anderson folds
+! 01/12/20 17:28:42! m13d raises $600 to $1100 total 
+! 01/12/20 17:47:37! Tiltdad folds
+! 01/12/20 18:18:57! Nyte folds
+! 01/12/20 21:32:56! gilette folds
+! 01/12/20 21:32:56! Barrett folds
+! 01/12/20 22:09:17! tekbot folds
+! 01/12/20 22:37:12! GoBig calls 
+
+! 01/12/20 22:37:12! Pot right ($3250), flopping/dealing/drawing cards
+! 01/12/20 22:37:12! 2 players
+! 01/12/20 22:37:12! Flopped cards: Ad 10h Kd
+! 01/12/20 22:38:04! GoBig bets $1200 
+! 01/13/20 05:12:54! m13d folds
+! Hand over, no showdown
+! Current board is:  Ad 10h Kd ? ?
+! GoBig wins $4450 (net $2050)
+! Antes and blinds go up
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Jim Anderson             |  110150 |         |      |    |         |
+ 2|   m13d                     |   23225 |         |      |    |         |
+ 3|   Tiltdad                  |   99125 |         |      |    |         |
+ 4|   Nyte                     |   35525 |         |      |    |         |
+ 5|   gilette                  |  151600 |         |      |    |         |
+ 7|   Barrett                  |   14150 |         |      |    |         |
+ 8|D  tekbot                   |   74600 |         |      |    |         |
+ 9|>  GoBig                    |   97875 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 311 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c26.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

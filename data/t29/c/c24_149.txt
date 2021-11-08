@@ -1,0 +1,115 @@
+Subject: [c24.10040] Holdem Game Broadcast Message(*)
+
+! Table c24, Hand 149, Day 64
+
+! Dave Weiss calls 
+! Pot right ($63250), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 9h
+! Flopped card: 2c
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   CharlieM                 |   56100 |     100 |folded|    |         |
+ 2|   Ken Anderson             |   88225 |     100 |folded|    |         |
+ 3|   Fryday                   |   15225 |     100 |folded|    |         |
+ 4|   siona                    |   35075 |     600 |folded|    |         |
+ 5|D  JakeyD                   |    8075 |     100 |folded|    |         |
+ 6|   Spike                    |       0 |   30775 |all-in|    |         |
+ 7|   dave                     |   86850 |     600 |folded|    |         |
+ 8|>  Dave Weiss               |    7050 |   30775 |      |    |         |
+ 9|   Jay Usher                |  152400 |     100 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/06/20 06:58:59! Dealing a new hand
+! 01/06/20 06:58:59! Everyone antes $100
+! 01/06/20 06:58:59! Spike blinds $250
+! 01/06/20 06:58:59! dave blinds $500
+! 01/06/20 07:45:01! Dave Weiss calls 
+! 01/06/20 08:40:13! Jay Usher folds
+! 01/06/20 08:53:44! CharlieM folds
+! 01/06/20 08:53:44! Ken Anderson folds
+! 01/06/20 09:24:51! Fryday folds
+! 01/06/20 09:26:54! siona calls 
+! 01/06/20 09:26:54! JakeyD folds
+! 01/06/20 10:09:59! Spike calls 
+! 01/06/20 10:16:06! dave checks
+
+! 01/06/20 10:16:06! Pot right ($2900), flopping/dealing/drawing cards
+! 01/06/20 10:16:06! 4 players
+! 01/06/20 10:16:06! Flopped cards: 6s 3s 2d
+! 01/06/20 10:29:12! Spike bets $2400 
+! 01/06/20 10:39:42! dave folds
+! 01/06/20 10:43:29! Dave Weiss raises $3600 to $6000 total 
+! 01/06/20 10:49:13! siona folds
+! 01/06/20 11:26:07! Spike raises $24175 to $30175 total and is all in
+! 01/06/20 11:36:30! Dave Weiss calls 
+
+! 01/06/20 11:36:30! Pot right ($63250), flopping/dealing/drawing cards
+! 01/06/20 11:36:30! 2 players, 1 all in
+! 01/06/20 11:36:30! Flopped card: 9h
+! 01/06/20 11:36:30! Flopped card: 2c
+! Hand over, current board is:  6s 3s 2d 9h 2c
+! Spike                    has: 8s 7s
+! Dave Weiss               has: As Ac
+! Dave Weiss wins $63250 (net $32475) with Two Pair (A A 2 2 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   CharlieM                 |   56100 |         |      |    |         |
+ 2|   Ken Anderson             |   88225 |         |      |    |         |
+ 3|   Fryday                   |   15225 |         |      |    |         |
+ 4|   siona                    |   35075 |         |      |    |         |
+ 5|D  JakeyD                   |    8075 |         |      |    |         |
+ 7|   dave                     |   86850 |         |      |    |         |
+ 8|>  Dave Weiss               |   70300 |         |      |    |         |
+ 9|   Jay Usher                |  152400 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Spike is eliminated!
+! 334 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c24.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,128 @@
+Subject: [b11.10838] Holdem Game Broadcast Message(*)
+
+! Table b11, Hand 64, Day 56
+
+! That Guy There calls - side pot
+! Pot right ($196400), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped card: 7d
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D> That Guy There           |       0 |   29075 |all-in|  2 |   60750 |
+ 3|   Butter                   |       0 |  164725 |all-in|  1 |  135650 |
+ 4|   Jim Sokoloff             |   43175 |     450 |folded|    |         |
+ 5|   Monika                   |   41675 |    1000 |folded|    |         |
+ 6|   Mybanjo                  |   58275 |    1000 |folded|    |         |
+ 7|   ThinkingPokerAndrew      |   36900 |      50 |folded|    |         |
+ 8|   Nightshift6              |   40150 |      50 |folded|    |         |
+ 9|V  Abhishek Garg            |   33425 |      50 |<AWOL>|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/27/19 18:13:13! Dealing a new hand
+! 12/27/19 18:13:13! Everyone antes $50
+! 12/27/19 18:13:13! Butter blinds $200
+! 12/27/19 18:13:13! Jim Sokoloff blinds $400
+! 12/28/19 00:30:41! Monika calls 
+! 12/28/19 00:30:41! Mybanjo calls 
+! 12/28/19 04:18:55! ThinkingPokerAndrew folds
+! 12/28/19 12:31:03! Nightshift6 folds
+! 12/28/19 12:31:03! Abhishek Garg is on vacation and folds
+! 12/28/19 13:59:18! That Guy There raises $550 to $950 total 
+! 12/28/19 14:11:15! Butter calls 
+! 12/28/19 17:14:44! Jim Sokoloff folds
+! 12/28/19 23:43:48! Monika calls 
+! 12/28/19 23:43:48! Mybanjo calls 
+
+! 12/28/19 23:43:48! Pot right ($4600), flopping/dealing/drawing cards
+! 12/28/19 23:43:48! 4 players
+! 12/28/19 23:43:48! Flopped cards: 4d 3h 2s
+! 12/29/19 03:16:31! Butter checks
+! 12/29/19 04:22:30! Monika checks
+! 12/29/19 04:22:30! Mybanjo checks
+! 12/29/19 11:58:09! That Guy There checks
+
+! 12/29/19 11:58:09! Pot right ($4600), flopping/dealing/drawing cards
+! 12/29/19 11:58:09! 4 players
+! 12/29/19 11:58:09! Flopped card: 5h
+! 12/29/19 11:59:21! Butter bets $1000 
+! 12/29/19 12:59:50! Monika folds
+! 12/29/19 12:59:50! Mybanjo folds
+! 12/29/19 13:10:37! That Guy There raises $3500 to $4500 total 
+! 12/29/19 13:13:59! Butter raises $159225 to $163725 total and is all in
+! 12/29/19 13:31:49! That Guy There calls - side pot
+
+! 12/29/19 13:31:49! Pot right ($196400), flopping/dealing/drawing cards
+! 12/29/19 13:31:49! 2 players, 2 all in
+! 12/29/19 13:31:49! Flopped card: 7d
+! Hand over, current board is:  4d 3h 2s 5h 7d
+! That Guy There           has: Ks Ah
+! Butter                   has: As 6s
+! Pot 1: uncalled $135650 returned to Butter
+! Pot 2: Butter wins $60750 with Straight (7 6 5 4 3)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 3|D  Butter                   |  196400 |         |      |    |         |
+ 4|   Jim Sokoloff             |   43175 |         |      |    |         |
+ 5|   Monika                   |   41675 |         |      |    |         |
+ 6|   Mybanjo                  |   58275 |         |      |    |         |
+ 7|   ThinkingPokerAndrew      |   36900 |         |      |    |         |
+ 8|   Nightshift6              |   40150 |         |      |    |         |
+ 9|V  Abhishek Garg            |   33425 |         |<AWOL>|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! That Guy There is eliminated!
+! 362 players left in the tournament, 3 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b11.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+After day 45 of the tourney there will be no
+more live redraws or breaking tables.  Tables
+will be allowed to run until a table gets to 
+five or fewer players at which time all tables
+will finish the current hand and a full, random
+redraw to all new tables will be done.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 42
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

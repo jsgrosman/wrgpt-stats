@@ -1,0 +1,113 @@
+Subject: [c11.10547] Holdem Game Broadcast Message(*)
+
+! Table c11, Hand 184, Day 96
+
+! Slimbob folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|   Clark Olson              |  116800 |     300 |folded|    |         |
+ 3|   DaveKal                  |  208125 |     300 |folded|    |         |
+ 4|D  denimmined               |  118300 |     300 |folded|    |         |
+ 5|   Slimbob                  |   31550 |    5300 |folded|    |         |
+ 6|>  not66                    |   62525 |   12800 |      |    |         |
+ 7|   Tony Gurney              |   78025 |     300 |folded|    |         |
+ 8|   Nightshift6              |  117275 |     300 |folded|    |         |
+ 9|   All In a daze work       |  217175 |     300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/07/20 05:14:36! Dealing a new hand
+! 02/07/20 05:14:36! Everyone antes $300
+! 02/07/20 05:14:36! Slimbob blinds $1000
+! 02/07/20 05:14:36! not66 blinds $2000
+! 02/07/20 06:00:29! Tony Gurney folds
+! 02/07/20 06:00:29! Nightshift6 folds
+! 02/07/20 06:17:28! All In a daze work folds
+! 02/07/20 06:34:47! Clark Olson folds
+! 02/07/20 06:34:47! DaveKal folds
+! 02/07/20 06:34:47! denimmined folds
+! 02/07/20 06:37:19! Slimbob calls 
+! 02/07/20 06:39:04! not66 checks
+
+! 02/07/20 06:39:04! Pot right ($6400), flopping/dealing/drawing cards
+! 02/07/20 06:39:04! 2 players
+! 02/07/20 06:39:04! Flopped cards: 5s 7d 3d
+! 02/07/20 08:32:48! Slimbob checks
+! 02/07/20 08:48:24! not66 bets $3000 
+! 02/07/20 09:29:27! Slimbob calls 
+
+! 02/07/20 09:29:27! Pot right ($12400), flopping/dealing/drawing cards
+! 02/07/20 09:29:27! 2 players
+! 02/07/20 09:29:27! Flopped card: Kc
+! 02/07/20 09:29:59! Slimbob checks
+! 02/07/20 10:01:20! not66 bets $7500 
+! 02/07/20 10:21:29! Slimbob folds
+! Hand over, no showdown
+! Current board is:  5s 7d 3d Kc ?
+! not66 wins $19900 (net $7100)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|   Clark Olson              |  116800 |         |      |    |         |
+ 3|   DaveKal                  |  208125 |         |      |    |         |
+ 4|   denimmined               |  118300 |         |      |    |         |
+ 5|D  Slimbob                  |   31550 |         |      |    |         |
+ 6|>  not66                    |   82425 |         |      |    |         |
+ 7|   Tony Gurney              |   78025 |         |      |    |         |
+ 8|   Nightshift6              |  117275 |         |      |    |         |
+ 9|   All In a daze work       |  217175 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 194 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c11.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+We are now over 30 days in round "c".  Automatic
+table breaking and live redraws have been disabled.
+We will play until one or more tables gets below six
+players.  When that happens all tables will finish
+the current hand and a full redraw will occur into
+the "d" round.
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 22
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

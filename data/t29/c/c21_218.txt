@@ -1,0 +1,110 @@
+Subject: [c21.10703] Holdem Game Broadcast Message(*)
+
+! Table c21, Hand 218, Day 100
+
+! Olof Siverbo folds
+! Pot right ($26050), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped cards: 8h 6c Jd
+! Flopped card: 7c
+! Flopped card: 7d
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   CRStals                  |  311325 |     400 |folded|    |         |
+ 2|   L.A. Johnson             |  219400 |     400 |folded|    |         |
+ 3|   mjoseff                  |  210300 |     400 |folded|    |         |
+ 4|D> gilette                  |  138300 |   12400 |      |  1 |    5550 |
+ 6|   Redbird                  |   61950 |    2000 |folded|    |         |
+ 7|   Olof Siverbo             |  170900 |    3600 |folded|    |         |
+ 8|   Another player           |       0 |    6850 |all-in|  2 |   20500 |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/11/20 14:05:36! Dealing a new hand
+! 02/11/20 14:05:36! Everyone antes $400
+! 02/11/20 14:05:36! Redbird blinds $1600
+! 02/11/20 14:05:36! Olof Siverbo blinds $3200
+! 02/11/20 14:37:07! Another player raises $3250 to $6450 total and is all in
+! 02/11/20 15:12:52! CRStals folds
+! 02/11/20 15:29:40! L.A. Johnson folds
+! 02/11/20 16:04:27! mjoseff folds
+! 02/11/20 17:42:24! gilette raises $5550 to $12000 total 
+! 02/11/20 19:28:30! Redbird folds
+! 02/11/20 23:02:59! Olof Siverbo folds
+
+! 02/11/20 23:02:59! Pot right ($26050), flopping/dealing/drawing cards
+! 02/11/20 23:02:59! 2 players, 1 all in
+! 02/11/20 23:02:59! Flopped cards: 8h 6c Jd
+! 02/11/20 23:02:59! Flopped card: 7c
+! 02/11/20 23:02:59! Flopped card: 7d
+! Hand over, current board is:  8h 6c Jd 7c 7d
+! gilette                  has: 6s Ad
+! Another player           has: Ah 6d
+! Pot 1: uncalled $5550 returned to gilette
+! Pot 2: gilette wins $10250 with Two Pair (7 7 6 6 A)
+! Pot 2: Another player wins $10250 with Two Pair (7 7 6 6 A)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   CRStals                  |  311325 |         |      |    |         |
+ 2|   L.A. Johnson             |  219400 |         |      |    |         |
+ 3|   mjoseff                  |  210300 |         |      |    |         |
+ 4|>  gilette                  |  154100 |         |      |    |         |
+ 6|D  Redbird                  |   61950 |         |      |    |         |
+ 7|   Olof Siverbo             |  170900 |         |      |    |         |
+ 8|   Another player           |   10250 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 177 players left in the tournament 
+! Table finished, waiting to redraw seats.
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c21.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+We are now over 30 days in round "c".  Automatic
+table breaking and live redraws have been disabled.
+We will play until one or more tables gets below six
+players.  When that happens all tables will finish
+the current hand and a full redraw will occur into
+the "d" round.
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 39
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

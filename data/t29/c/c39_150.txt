@@ -1,0 +1,115 @@
+Subject: [c39.10054] Holdem Game Broadcast Message(*)
+
+! Table c39, Hand 150, Day 64
+
+! Cruella checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Cowabunga                |   35475 |     100 |folded|    |         |
+ 2|V  Tom A                    |  102350 |     100 |     9|    |         |
+ 3|   bozo                     |  129900 |     100 |folded|    |         |
+ 4|   Cruella                  |   43800 |    1600 |      |    |         |
+ 5|   Ed Baker                 |   93400 |     100 |folded|    |         |
+ 6|D  Stephen Opal             |   13300 |     600 |folded|    |         |
+ 7|>  Donald Neilson           |   71650 |    1600 |      |    |         |
+ 8|   Steve B                  |   33050 |     600 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/06/20 08:01:23! Dealing a new hand
+! 01/06/20 08:01:23! Everyone antes $100
+! 01/06/20 08:01:23! Donald Neilson blinds $250
+! 01/06/20 08:01:23! Steve B blinds $500
+! 01/06/20 08:15:43! Cowabunga folds
+! 01/06/20 08:15:43! Tom A is on vacation and folds
+! 01/06/20 08:17:43! bozo folds
+! 01/06/20 08:29:28! Cruella calls 
+! 01/06/20 09:07:43! Ed Baker folds
+! 01/06/20 09:10:24! Stephen Opal calls 
+! 01/06/20 09:15:04! Donald Neilson calls 
+! 01/06/20 09:16:10! Steve B checks
+
+! 01/06/20 09:16:11! Pot right ($2800), flopping/dealing/drawing cards
+! 01/06/20 09:16:11! 4 players
+! 01/06/20 09:16:11! Flopped cards: 3s Qc 2s
+! 01/06/20 09:17:34! Donald Neilson checks
+! 01/06/20 09:18:01! Steve B checks
+! 01/06/20 09:27:35! Cruella checks
+! 01/06/20 09:52:08! Stephen Opal checks
+
+! 01/06/20 09:52:08! Pot right ($2800), flopping/dealing/drawing cards
+! 01/06/20 09:52:08! 4 players
+! 01/06/20 09:52:08! Flopped card: Qd
+! 01/06/20 09:54:26! Donald Neilson bets $1000 
+! 01/06/20 09:55:09! Steve B folds
+! 01/06/20 09:58:17! Cruella calls 
+! 01/06/20 11:49:35! Stephen Opal folds
+
+! 01/06/20 11:49:35! Pot right ($4800), flopping/dealing/drawing cards
+! 01/06/20 11:49:35! 2 players
+! 01/06/20 11:49:35! Flopped card: 7d
+! 01/06/20 11:59:57! Donald Neilson checks
+! 01/06/20 12:56:41! Cruella checks
+! Hand over, current board is:  3s Qc 2s Qd 7d
+! Cruella                  has: 9h 9d
+! Donald Neilson           has: Kh 4h
+! Cruella wins $4800 (net $3200) with Two Pair (Q Q 9 9 7)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Cowabunga                |   35475 |         |      |    |         |
+ 2|V  Tom A                    |  102350 |         |     9|    |         |
+ 3|   bozo                     |  129900 |         |      |    |         |
+ 4|   Cruella                  |   48600 |         |      |    |         |
+ 5|   Ed Baker                 |   93400 |         |      |    |         |
+ 6|   Stephen Opal             |   13300 |         |      |    |         |
+ 7|D> Donald Neilson           |   71650 |         |      |    |         |
+ 8|   Steve B                  |   33050 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 334 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c39.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

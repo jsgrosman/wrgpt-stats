@@ -1,0 +1,122 @@
+Subject: [c7.10201] Holdem Game Broadcast Message(*)
+
+! Table c7, Hand 159, Day 72
+
+! Claudia M calls 
+! CountFlop folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|V  BertBell                 |   39050 |     200 |<AWOL>|    |         |
+ 2|   janie                    |   59800 |     200 |folded|    |         |
+ 3|   Piney Boy                |   59175 |     200 |folded|    |         |
+ 4|   BigElmo                  |   31600 |    1400 |folded|    |         |
+ 5|   Claudia M                |   45175 |    2800 |      |    |         |
+ 6|D  Per Starback             |   42425 |     200 |folded|    |         |
+ 7|   CountFlop                |   64325 |    1400 |folded|    |         |
+ 8|>  MTpotts                  |   41850 |    2800 |      |    |         |
+ 9|   Taki                     |   28175 |     200 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/14/20 07:49:35! Dealing a new hand
+! 01/14/20 07:49:35! Everyone antes $200
+! 01/14/20 07:49:35! CountFlop blinds $600
+! 01/14/20 07:49:35! MTpotts blinds $1200
+! 01/14/20 08:05:26! Taki folds
+! 01/14/20 08:05:26! BertBell is on vacation and folds
+! 01/14/20 08:18:41! janie folds
+! 01/14/20 08:31:46! Piney Boy folds
+! 01/14/20 08:48:48! BigElmo calls 
+! 01/14/20 08:51:38! Claudia M calls 
+! 01/14/20 08:51:38! Per Starback folds
+! 01/14/20 08:54:39! CountFlop calls 
+! 01/14/20 08:57:11! MTpotts checks
+
+! 01/14/20 08:57:11! Pot right ($6600), flopping/dealing/drawing cards
+! 01/14/20 08:57:11! 4 players
+! 01/14/20 08:57:11! Flopped cards: 10d 10s 9s
+! 01/14/20 08:57:51! CountFlop checks
+! 01/14/20 09:00:17! MTpotts checks
+! 01/14/20 09:27:04! BigElmo checks
+! 01/14/20 13:28:02! Claudia M checks
+
+! 01/14/20 13:28:02! Pot right ($6600), flopping/dealing/drawing cards
+! 01/14/20 13:28:02! 4 players
+! 01/14/20 13:28:02! Flopped card: 5s
+! 01/14/20 13:31:21! CountFlop checks
+! 01/14/20 14:27:28! MTpotts checks
+! 01/14/20 15:19:09! BigElmo checks
+! 01/14/20 15:19:09! Claudia M checks
+
+! 01/14/20 15:19:09! Pot right ($6600), flopping/dealing/drawing cards
+! 01/14/20 15:19:09! 4 players
+! 01/14/20 15:19:09! Flopped card: 3d
+! 01/14/20 15:20:26! CountFlop checks
+! 01/14/20 16:57:58! MTpotts bets $1400 
+! 01/14/20 17:26:16! BigElmo folds
+! 01/14/20 19:32:11! Claudia M calls 
+! 01/14/20 19:32:11! CountFlop folds
+! Hand over, current board is:  10d 10s 9s 5s 3d
+! Claudia M                has: 9h Jd
+! MTpotts                  has: Jh Jc
+! MTpotts wins $9400 (net $6600) with Two Pair (J J 10 10 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|V  BertBell                 |   39050 |         |<AWOL>|    |         |
+ 2|   janie                    |   59800 |         |      |    |         |
+ 3|   Piney Boy                |   59175 |         |      |    |         |
+ 4|   BigElmo                  |   31600 |         |      |    |         |
+ 5|   Claudia M                |   45175 |         |      |    |         |
+ 6|   Per Starback             |   42425 |         |      |    |         |
+ 7|D  CountFlop                |   64325 |         |      |    |         |
+ 8|>  MTpotts                  |   51250 |         |      |    |         |
+ 9|   Taki                     |   28175 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 302 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c7.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

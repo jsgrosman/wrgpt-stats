@@ -1,0 +1,119 @@
+Subject: [b9.10559] Holdem Game Broadcast Message(*)
+
+! Table b9, Hand 51, Day 27
+
+! denimmined calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   altidude6202             |   62500 |       0 |folded|    |         |
+ 2|   hi.seas                  |   32375 |       0 |folded|    |         |
+ 3|   Wrongfellow              |   46100 |       0 |folded|    |         |
+ 4|   GKinz54                  |   27500 |       0 |folded|    |         |
+ 5|   ScoobySnack              |   55275 |       0 |folded|    |         |
+ 6|D  denimmined               |   77850 |    6350 |      |    |         |
+ 7|   James Scharf             |   64025 |     150 |folded|    |         |
+ 8|>  tekbot                   |   47650 |    6350 |      |    |         |
+ 9|   Bwana                    |   23875 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/29/19 12:55:03! Dealing a new hand
+! 11/29/19 12:55:03! No ante
+! 11/29/19 12:55:03! James Scharf blinds $150
+! 11/29/19 12:55:03! tekbot blinds $300
+! 11/29/19 16:39:54! Bwana folds
+! 11/29/19 16:39:54! altidude6202 folds
+! 11/29/19 16:39:54! hi.seas folds
+! 11/29/19 16:39:54! Wrongfellow folds
+! 11/29/19 16:39:54! GKinz54 folds
+! 11/29/19 16:39:54! ScoobySnack folds
+! 11/29/19 16:48:48! denimmined raises $450 to $750 total 
+! 11/29/19 16:48:48! James Scharf folds
+! 11/29/19 18:13:07! tekbot calls 
+
+! 11/29/19 18:13:07! Pot right ($1650), flopping/dealing/drawing cards
+! 11/29/19 18:13:07! 2 players
+! 11/29/19 18:13:07! Flopped cards: 9d 9h Qh
+! 11/29/19 18:14:08! tekbot checks
+! 11/30/19 00:47:10! denimmined bets $800 
+! 11/30/19 10:21:25! tekbot raises $800 to $1600 total 
+! 11/30/19 10:26:17! denimmined calls 
+
+! 11/30/19 10:26:17! Pot right ($4850), flopping/dealing/drawing cards
+! 11/30/19 10:26:17! 2 players
+! 11/30/19 10:26:17! Flopped card: 10s
+! 11/30/19 10:27:20! tekbot bets $2000 
+! 11/30/19 11:11:01! denimmined calls 
+
+! 11/30/19 11:11:01! Pot right ($8850), flopping/dealing/drawing cards
+! 11/30/19 11:11:01! 2 players
+! 11/30/19 11:11:01! Flopped card: Qc
+! 11/30/19 11:14:18! tekbot bets $2000 
+! 11/30/19 11:16:16! denimmined calls 
+! Hand over, current board is:  9d 9h Qh 10s Qc
+! denimmined               has: Jd Kc
+! tekbot                   has: 9c 7c
+! tekbot wins $12850 (net $6500) with Full House (9 9 9 Q Q)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   altidude6202             |   62500 |         |      |    |         |
+ 2|   hi.seas                  |   32375 |         |      |    |         |
+ 3|   Wrongfellow              |   46100 |         |      |    |         |
+ 4|   GKinz54                  |   27500 |         |      |    |         |
+ 5|   ScoobySnack              |   55275 |         |      |    |         |
+ 6|   denimmined               |   77850 |         |      |    |         |
+ 7|D  James Scharf             |   64025 |         |      |    |         |
+ 8|>  tekbot                   |   60500 |         |      |    |         |
+ 9|   Bwana                    |   23875 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 477 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b9.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that have not come to the table by the end
+of day 30 will be removed.
+
+Players that are away from the tables for 45 days 
+will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

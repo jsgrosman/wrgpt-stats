@@ -1,0 +1,114 @@
+Subject: [c6.10584] Holdem Game Broadcast Message(*)
+
+! Table c6, Hand 205, Day 93
+
+! TRC Expert folds
+! Pot right ($93550), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped cards: 6d 7h 4d
+! Flopped card: Jd
+! Flopped card: Kh
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Elmis                    |   80100 |     300 |folded|    |         |
+ 2|D  Dino Bravo               |  135675 |     300 |folded|    |         |
+ 3|   Jim Anderson             |  141250 |    1300 |folded|    |         |
+ 4|   TRC Expert               |   65000 |    2300 |folded|    |         |
+ 5|   James Bond               |  103050 |     300 |folded|    |         |
+ 6|   Samueladams              |       0 |   44225 |all-in|    |         |
+ 7|>  Wrongfellow              |   33625 |   44225 |      |    |         |
+ 8|   jpawloski                |  226025 |     300 |folded|    |         |
+ 9|   Mark Ito                 |   92850 |     300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/04/20 12:22:19! Dealing a new hand
+! 02/04/20 12:22:19! Everyone antes $300
+! 02/04/20 12:22:19! Jim Anderson blinds $1000
+! 02/04/20 12:22:19! TRC Expert blinds $2000
+! 02/04/20 12:32:28! James Bond folds
+! 02/04/20 14:50:32! Samueladams raises $41925 to $43925 total and is all in
+! 02/04/20 15:27:53! Wrongfellow calls 
+! 02/04/20 15:29:50! jpawloski folds
+! 02/04/20 15:29:50! Mark Ito folds
+! 02/04/20 15:29:50! Elmis folds
+! 02/04/20 15:29:50! Dino Bravo folds
+! 02/04/20 15:53:40! Jim Anderson folds
+! 02/04/20 19:25:07! TRC Expert folds
+
+! 02/04/20 19:25:07! Pot right ($93550), flopping/dealing/drawing cards
+! 02/04/20 19:25:07! 2 players, 1 all in
+! 02/04/20 19:25:07! Flopped cards: 6d 7h 4d
+! 02/04/20 19:25:07! Flopped card: Jd
+! 02/04/20 19:25:07! Flopped card: Kh
+! Hand over, current board is:  6d 7h 4d Jd Kh
+! Samueladams              has: Js Jh
+! Wrongfellow              has: Ks Kc
+! Wrongfellow wins $93550 (net $49325) with Three of a Kind (K K K J 7)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Elmis                    |   80100 |         |      |    |         |
+ 2|   Dino Bravo               |  135675 |         |      |    |         |
+ 3|D  Jim Anderson             |  141250 |         |      |    |         |
+ 4|   TRC Expert               |   65000 |         |      |    |         |
+ 5|   James Bond               |  103050 |         |      |    |         |
+ 7|>  Wrongfellow              |  127175 |         |      |    |         |
+ 8|   jpawloski                |  226025 |         |      |    |         |
+ 9|   Mark Ito                 |   92850 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Samueladams is eliminated!
+! 204 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c6.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+We are now over 30 days in round "c".  Automatic
+table breaking and live redraws have been disabled.
+We will play until one or more tables gets below six
+players.  When that happens all tables will finish
+the current hand and a full redraw will occur into
+the "d" round.
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 11
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,116 @@
+Subject: [b15.10064] Holdem Game Broadcast Message(*)
+
+! Table b15, Hand 5, Day 4
+
+! Bob The Butcher folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Floyd H. McKay           |   45225 |       0 |folded|    |         |
+ 2|   bluecandy                |   57100 |       0 |folded|    |         |
+ 3|   BigElmo                  |   49100 |       0 |folded|    |         |
+ 4|   TrayRacer                |   48475 |       0 |folded|    |         |
+ 5|D  JakeyD                   |   50000 |       0 |folded|    |         |
+ 6|   Bob The Butcher          |   47325 |    2000 |folded|    |         |
+ 7|   robo                     |   49850 |     150 |folded|    |         |
+ 8|   Simon McAndrews          |   50950 |     500 |folded|    |         |
+ 9|>  Nyte                     |   42325 |    7000 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/07/19 08:58:41! Dealing a new hand
+! 11/07/19 08:58:41! No ante
+! 11/07/19 08:58:41! Bob The Butcher blinds $75
+! 11/07/19 08:58:41! robo blinds $150
+! 11/07/19 09:12:20! Simon McAndrews raises $350 to $500 total 
+! 11/07/19 10:14:52! Nyte calls 
+! 11/07/19 10:14:52! Floyd H. McKay folds
+! 11/07/19 10:14:52! bluecandy folds
+! 11/07/19 10:14:52! BigElmo folds
+! 11/07/19 10:14:52! TrayRacer folds
+! 11/07/19 10:14:52! JakeyD folds
+! 11/07/19 10:30:00! Bob The Butcher calls 
+! 11/07/19 10:55:30! robo folds
+
+! 11/07/19 10:55:30! Pot right ($1650), flopping/dealing/drawing cards
+! 11/07/19 10:55:30! 3 players
+! 11/07/19 10:55:30! Flopped cards: Ks 7s 9s
+! 11/07/19 11:04:51! Bob The Butcher checks
+! 11/07/19 11:12:21! Simon McAndrews checks
+! 11/07/19 11:19:20! Nyte checks
+
+! 11/07/19 11:19:20! Pot right ($1650), flopping/dealing/drawing cards
+! 11/07/19 11:19:20! 3 players
+! 11/07/19 11:19:20! Flopped card: Kc
+! 11/07/19 11:23:47! Bob The Butcher bets $500 
+! 11/07/19 11:27:35! Simon McAndrews folds
+! 11/07/19 14:27:51! Nyte calls 
+
+! 11/07/19 14:27:51! Pot right ($2650), flopping/dealing/drawing cards
+! 11/07/19 14:27:51! 2 players
+! 11/07/19 14:27:51! Flopped card: 6h
+! 11/07/19 14:28:47! Bob The Butcher bets $1000 
+! 11/07/19 14:31:11! Nyte raises $5000 to $6000 total 
+! 11/07/19 14:34:16! Bob The Butcher folds
+! Hand over, no showdown
+! Current board is:  Ks 7s 9s Kc 6h
+! Nyte wins $9650 (net $2650)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Floyd H. McKay           |   45225 |         |      |    |         |
+ 2|   bluecandy                |   57100 |         |      |    |         |
+ 3|   BigElmo                  |   49100 |         |      |    |         |
+ 4|   TrayRacer                |   48475 |         |      |    |         |
+ 5|   JakeyD                   |   50000 |         |      |    |         |
+ 6|D  Bob The Butcher          |   47325 |         |      |    |         |
+ 7|   robo                     |   49850 |         |      |    |         |
+ 8|   Simon McAndrews          |   50950 |         |      |    |         |
+ 9|>  Nyte                     |   51975 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 536 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b15.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+This is the REAL WRGPT29.
+Changes to office hours and email addresses do not carry over from the
+practice round.
+You have been assigned a new ID and the round is "b".
+
+Good luck.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,119 @@
+Subject: [b13.10668] Holdem Game Broadcast Message(*)
+
+! Table b13, Hand 60, Day 55
+
+! scjansen calls - side pot
+! Pot right ($105150), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped card: 2c
+! Flopped card: 10s
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Kevin Mackey             |       0 |   53525 |all-in|  1 |    8750 |
+ 3|   SJL                      |   61500 |    5250 |folded|    |         |
+ 4|   Tom A                    |   84850 |    1250 |folded|    |         |
+ 5|   Per Starback             |   52300 |      50 |folded|    |         |
+ 6|>  scjansen                 |       0 |   44775 |all-in|  2 |   96400 |
+ 8|D  FFigawi                  |   41250 |      50 |folded|    |         |
+ 9|V  reelbigbeagles           |   45250 |     250 |9 Janu|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/28/19 07:16:43! Dealing a new hand
+! 12/28/19 07:16:43! Everyone antes $50
+! 12/28/19 07:16:43! reelbigbeagles blinds $200
+! 12/28/19 07:16:43! Kevin Mackey blinds $400
+! 12/28/19 07:24:52! SJL raises $800 to $1200 total 
+! 12/28/19 07:37:36! Kevin Mackey is back from vacation
+! 12/28/19 08:41:20! Tom A calls 
+! 12/28/19 08:41:20! Per Starback folds
+! 12/28/19 08:42:32! scjansen calls 
+! 12/28/19 08:42:32! FFigawi folds
+! 12/28/19 08:42:32! reelbigbeagles is on vacation and folds
+! 12/28/19 11:04:50! Kevin Mackey calls 
+
+! 12/28/19 11:04:50! Pot right ($5350), flopping/dealing/drawing cards
+! 12/28/19 11:04:50! 4 players
+! 12/28/19 11:04:50! Flopped cards: 3h Ah As
+! 12/28/19 11:05:35! Kevin Mackey checks
+! 12/28/19 11:19:32! SJL bets $4000 
+! 12/28/19 14:41:31! Tom A folds
+! 12/28/19 14:41:31! scjansen raises $4000 to $8000 total 
+! 12/28/19 15:55:53! Kevin Mackey raises $44275 to $52275 total and is all in
+! 12/28/19 15:57:35! SJL folds
+! 12/28/19 16:56:38! scjansen calls - side pot
+
+! 12/28/19 16:56:38! Pot right ($105150), flopping/dealing/drawing cards
+! 12/28/19 16:56:38! 2 players, 2 all in
+! 12/28/19 16:56:38! Flopped card: 2c
+! 12/28/19 16:56:38! Flopped card: 10s
+! Hand over, current board is:  3h Ah As 2c 10s
+! Kevin Mackey             has: Kh Qh
+! scjansen                 has: 2d Ac
+! Pot 1: uncalled $8750 returned to Kevin Mackey
+! Pot 2: scjansen wins $96400 with Full House (A A A 2 2)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Kevin Mackey             |    8750 |         |      |    |         |
+ 3|   SJL                      |   61500 |         |      |    |         |
+ 4|   Tom A                    |   84850 |         |      |    |         |
+ 5|   Per Starback             |   52300 |         |      |    |         |
+ 6|>  scjansen                 |   96400 |         |      |    |         |
+ 8|   FFigawi                  |   41250 |         |      |    |         |
+ 9|DV reelbigbeagles           |   45250 |         |9 Janu|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 363 players left in the tournament, 3 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b13.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+After day 45 of the tourney there will be no
+more live redraws or breaking tables.  Tables
+will be allowed to run until a table gets to 
+five or fewer players at which time all tables
+will finish the current hand and a full, random
+redraw to all new tables will be done.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 42
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

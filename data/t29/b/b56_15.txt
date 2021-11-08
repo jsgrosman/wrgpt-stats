@@ -1,0 +1,121 @@
+Subject: [b56.10217] Holdem Game Broadcast Message(*)
+
+! Table b56, Hand 15, Day 10
+
+! Lobocs calls - side pot
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   beacon bot               |       0 |   54375 |all-in|  1 |   15150 |
+ 2|   Eight of Spades          |   47825 |     400 |folded|    |         |
+ 3|>  Lobocs                   |       0 |   39225 |all-in|  2 |   81300 |
+ 4|   TheJD                    |   43025 |       0 |folded|    |         |
+ 5|   2fit2fold                |   44750 |     400 |folded|    |         |
+ 6|D  mulligan                 |   50650 |     400 |folded|    |         |
+ 7|   not66                    |   58400 |    1500 |folded|    |         |
+ 8|   ADBHOWLER                |   46625 |     150 |folded|    |         |
+ 9|   Righteous Indignation    |   62275 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/12/19 16:34:53! Dealing a new hand
+! 11/12/19 16:34:53! No ante
+! 11/12/19 16:34:53! not66 blinds $75
+! 11/12/19 16:34:53! ADBHOWLER blinds $150
+! 11/12/19 17:36:07! Righteous Indignation folds
+! 11/12/19 18:58:07! beacon bot raises $250 to $400 total 
+! 11/12/19 19:33:12! Eight of Spades calls 
+! 11/12/19 20:24:47! Lobocs calls 
+! 11/12/19 20:24:47! TheJD folds
+! 11/13/19 06:31:23! 2fit2fold calls 
+! 11/13/19 06:31:23! mulligan calls 
+! 11/13/19 07:08:43! not66 raises $1100 to $1500 total 
+! 11/13/19 07:08:43! ADBHOWLER folds
+! 11/13/19 09:11:53! beacon bot calls 
+! 11/13/19 09:26:53! Eight of Spades folds
+! 11/13/19 09:53:52! Lobocs calls 
+! 11/13/19 13:55:06! 2fit2fold folds
+! 11/13/19 15:12:51! mulligan folds
+
+! 11/13/19 15:12:51! Pot right ($5850), flopping/dealing/drawing cards
+! 11/13/19 15:12:51! 3 players
+! 11/13/19 15:12:51! Flopped cards: Qh 8c Qs
+! 11/13/19 16:09:17! not66 checks
+! 11/13/19 16:53:51! beacon bot bets $3500 
+! 11/13/19 17:33:38! Lobocs calls 
+! 11/13/19 17:34:29! not66 folds
+
+! 11/13/19 17:34:29! Pot right ($12850), flopping/dealing/drawing cards
+! 11/13/19 17:34:29! 2 players
+! 11/13/19 17:34:29! Flopped card: 3s
+! 11/13/19 17:46:04! beacon bot bets $12000 
+! 11/13/19 18:16:28! Lobocs calls 
+
+! 11/13/19 18:16:28! Pot right ($36850), flopping/dealing/drawing cards
+! 11/13/19 18:16:28! 2 players
+! 11/13/19 18:16:28! Flopped card: 10h
+! 11/13/19 18:19:59! beacon bot bets $37375 and is all in
+! 11/13/19 18:26:17! Lobocs calls - side pot
+! Hand over, current board is:  Qh 8c Qs 3s 10h
+! beacon bot               has: Kh Qd
+! Lobocs                   has: 6s 6h
+! Pot 1: uncalled $15150 returned to beacon bot
+! Pot 2: beacon bot wins $81300 with Three of a Kind (Q Q Q K 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   beacon bot               |   96450 |         |      |    |         |
+ 2|   Eight of Spades          |   47825 |         |      |    |         |
+ 4|   TheJD                    |   43025 |         |      |    |         |
+ 5|   2fit2fold                |   44750 |         |      |    |         |
+ 6|   mulligan                 |   50650 |         |      |    |         |
+ 7|D  not66                    |   58400 |         |      |    |         |
+ 8|   ADBHOWLER                |   46625 |         |      |    |         |
+ 9|   Righteous Indignation    |   62275 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Lobocs is eliminated!
+! 528 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b56.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Good luck.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

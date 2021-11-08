@@ -1,0 +1,124 @@
+Subject: [b50.10632] Holdem Game Broadcast Message(*)
+
+! Table b50, Hand 52, Day 32
+
+! Joker calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   sgranen                  |   49600 |      25 |folded|    |         |
+ 2|   Tiltdad                  |   60000 |      25 |folded|    |         |
+ 3|>  Dario                    |   60925 |   19675 |      |    |         |
+ 4|   panfried                 |   80525 |    1175 |folded|    |         |
+ 5|   CharlieM                 |   74250 |      25 |folded|    |         |
+ 6|   Poolshark                |   36500 |      25 |folded|    |         |
+ 7|D  Fredrik Westerlund       |   78025 |    1175 |folded|    |         |
+ 8|   Joker                    |   18100 |   19675 |      |    |         |
+ 9|   GunsNRoses               |   52050 |     325 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/04/19 10:52:06! Dealing a new hand
+! 12/04/19 10:52:06! Everyone antes $25
+! 12/04/19 10:52:06! Joker blinds $150
+! 12/04/19 10:52:06! GunsNRoses blinds $300
+! 12/04/19 10:53:06! sgranen folds
+! 12/04/19 10:58:54! Tiltdad folds
+! 12/04/19 11:12:24! Dario calls 
+! 12/04/19 12:37:31! panfried calls 
+! 12/04/19 12:37:31! CharlieM folds
+! 12/04/19 12:37:31! Poolshark folds
+! 12/04/19 13:16:59! Fredrik Westerlund calls 
+! 12/04/19 14:25:19! Joker raises $850 to $1150 total 
+! 12/04/19 16:07:16! GunsNRoses folds
+! 12/04/19 17:24:15! Dario calls 
+! 12/04/19 17:24:15! panfried calls 
+! 12/04/19 21:16:18! Fredrik Westerlund calls 
+
+! 12/04/19 21:16:18! Pot right ($5125), flopping/dealing/drawing cards
+! 12/04/19 21:16:18! 4 players
+! 12/04/19 21:16:18! Flopped cards: 10d 8h Kh
+! 12/05/19 02:58:09! Joker bets $3500 
+! 12/05/19 08:22:01! Dario calls 
+! 12/05/19 08:22:01! panfried folds
+! 12/05/19 08:22:01! Fredrik Westerlund folds
+
+! 12/05/19 08:22:01! Pot right ($12125), flopping/dealing/drawing cards
+! 12/05/19 08:22:01! 2 players
+! 12/05/19 08:22:01! Flopped card: 3d
+! 12/05/19 08:57:51! Joker checks
+! 12/05/19 09:23:11! Dario bets $5000 
+! 12/05/19 10:02:46! Joker calls 
+
+! 12/05/19 10:02:46! Pot right ($22125), flopping/dealing/drawing cards
+! 12/05/19 10:02:46! 2 players
+! 12/05/19 10:02:46! Flopped card: Qh
+! 12/05/19 10:03:19! Joker checks
+! 12/05/19 10:04:41! Dario bets $10000 
+! 12/05/19 10:08:51! Joker calls 
+! Hand over, current board is:  10d 8h Kh 3d Qh
+! Dario                    has: 10h Kc
+! Joker                    has: Ah Qc
+! Dario wins $42125 (net $22450) with Two Pair (K K 10 10 Q)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   sgranen                  |   49600 |         |      |    |         |
+ 2|   Tiltdad                  |   60000 |         |      |    |         |
+ 3|>  Dario                    |  103050 |         |      |    |         |
+ 4|   panfried                 |   80525 |         |      |    |         |
+ 5|   CharlieM                 |   74250 |         |      |    |         |
+ 6|   Poolshark                |   36500 |         |      |    |         |
+ 7|   Fredrik Westerlund       |   78025 |         |      |    |         |
+ 8|D  Joker                    |   18100 |         |      |    |         |
+ 9|   GunsNRoses               |   52050 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 455 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b50.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that have not come to the table by the end
+of day 30 will be removed.
+
+Players that are away from the tables for 45 days 
+will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 4
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

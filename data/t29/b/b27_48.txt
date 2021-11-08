@@ -1,0 +1,123 @@
+Subject: [b27.10618] Holdem Game Broadcast Message(*)
+
+! Table b27, Hand 48, Day 33
+
+! Ed Fernandez calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   ShortStack               |       0 |   19175 |all-in|    |         |
+ 2|   swamperBengal            |   22350 |      25 |folded|    |         |
+ 3|   Axel Foley               |  119225 |     775 |folded|    |         |
+ 4|D  Steve B                  |   42450 |      25 |folded|    |         |
+ 5|>  Ed Fernandez             |   27925 |   19175 |      |    |         |
+ 6|   OldKingKohl              |  117175 |     775 |folded|    |         |
+ 7|   Quick                    |   63875 |      25 |folded|    |         |
+ 8|   Matt Matros              |   36650 |      25 |folded|    |         |
+ 9|V  L.A. Johnson             |   47200 |      25 |14 Dec|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/05/19 13:44:21! Dealing a new hand
+! 12/05/19 13:44:21! Everyone antes $25
+! 12/05/19 13:44:21! Ed Fernandez blinds $150
+! 12/05/19 13:44:21! OldKingKohl blinds $300
+! 12/05/19 14:39:32! Quick folds
+! 12/05/19 14:39:32! Matt Matros folds
+! 12/05/19 14:39:32! L.A. Johnson is on vacation and folds
+! 12/05/19 14:47:05! ShortStack raises $450 to $750 total 
+! 12/05/19 14:47:05! swamperBengal folds
+! 12/05/19 14:48:11! Axel Foley calls 
+! 12/05/19 14:48:11! Steve B folds
+! 12/05/19 15:11:23! Ed Fernandez calls 
+! 12/05/19 16:58:02! OldKingKohl calls 
+
+! 12/05/19 16:58:02! Pot right ($3225), flopping/dealing/drawing cards
+! 12/05/19 16:58:02! 4 players
+! 12/05/19 16:58:02! Flopped cards: 9d Qs 4s
+! 12/05/19 17:36:24! Ed Fernandez checks
+! 12/05/19 18:46:17! OldKingKohl checks
+! 12/05/19 19:16:17! ShortStack bets $1500 
+! 12/05/19 19:37:16! Axel Foley folds
+! 12/05/19 23:11:28! Ed Fernandez calls 
+! 12/05/19 23:11:28! OldKingKohl folds
+
+! 12/05/19 23:11:28! Pot right ($6225), flopping/dealing/drawing cards
+! 12/05/19 23:11:28! 2 players
+! 12/05/19 23:11:28! Flopped card: Ks
+! 12/05/19 23:16:23! Ed Fernandez checks
+! 12/06/19 02:19:13! ShortStack bets $5000 
+! 12/06/19 10:22:23! Ed Fernandez calls 
+
+! 12/06/19 10:22:23! Pot right ($16225), flopping/dealing/drawing cards
+! 12/06/19 10:22:23! 2 players
+! 12/06/19 10:22:23! Flopped card: 3s
+! 12/06/19 10:23:39! Ed Fernandez checks
+! 12/06/19 10:24:04! ShortStack bets $11900 and is all in
+! 12/06/19 10:36:44! Ed Fernandez calls 
+! Hand over, current board is:  9d Qs 4s Ks 3s
+! ShortStack               has: Ah Jc
+! Ed Fernandez             has: 10h Kc
+! Ed Fernandez wins $40025 (net $20850) with One Pair (K K Q 10 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|   swamperBengal            |   22350 |         |      |    |         |
+ 3|   Axel Foley               |  119225 |         |      |    |         |
+ 4|   Steve B                  |   42450 |         |      |    |         |
+ 5|D> Ed Fernandez             |   67950 |         |      |    |         |
+ 6|   OldKingKohl              |  117175 |         |      |    |         |
+ 7|   Quick                    |   63875 |         |      |    |         |
+ 8|   Matt Matros              |   36650 |         |      |    |         |
+ 9|V  L.A. Johnson             |   47200 |         |14 Dec|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! ShortStack is eliminated!
+! 451 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b27.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that have not come to the table by the end
+of day 30 will be removed.
+
+Players that are away from the tables for 45 days 
+will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 7
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

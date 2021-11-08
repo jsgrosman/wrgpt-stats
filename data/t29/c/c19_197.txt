@@ -1,0 +1,119 @@
+Subject: [c19.10602] Holdem Game Broadcast Message(*)
+
+! Table c19, Hand 197, Day 95
+
+! Nixed checks
+! Richard Rognlie bets $10400 
+! Nixed folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Jason Feng               |   97200 |     300 |folded|    |         |
+ 2|D  Thomas Gabrysch          |  292100 |    2300 |folded|    |         |
+ 3|   Nixed                    |  205500 |    7500 |folded|    |         |
+ 4|   Virginia Slims           |   29825 |    2300 |folded|    |         |
+ 6|   BrownTrout               |   67500 |     300 |folded|    |         |
+ 7|>  Richard Rognlie          |  147775 |   17900 |      |    |         |
+ 8|   Troutboy Garrett         |  302050 |     300 |folded|    |         |
+ 9|   BT                       |  104525 |     300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/05/20 10:25:12! Dealing a new hand
+! 02/05/20 10:25:12! Everyone antes $300
+! 02/05/20 10:25:12! Nixed blinds $1000
+! 02/05/20 10:25:12! Virginia Slims blinds $2000
+! 02/05/20 10:39:43! BrownTrout folds
+! 02/05/20 11:04:46! Richard Rognlie calls 
+! 02/05/20 11:41:16! Troutboy Garrett folds
+! 02/05/20 11:44:42! BT folds
+! 02/05/20 11:44:42! Jason Feng folds
+! 02/05/20 12:16:52! Thomas Gabrysch calls 
+! 02/05/20 13:17:55! Nixed calls 
+! 02/05/20 13:17:55! Virginia Slims checks
+
+! 02/05/20 13:17:55! Pot right ($10400), flopping/dealing/drawing cards
+! 02/05/20 13:17:55! 4 players
+! 02/05/20 13:17:55! Flopped cards: 2c 4s Jh
+! 02/05/20 13:20:55! Nixed checks
+! 02/05/20 13:35:15! Virginia Slims checks
+! 02/05/20 13:55:30! Richard Rognlie bets $5200 
+! 02/05/20 14:00:32! Thomas Gabrysch folds
+! 02/05/20 14:15:30! Nixed calls 
+! 02/05/20 14:15:30! Virginia Slims folds
+
+! 02/05/20 14:15:30! Pot right ($20800), flopping/dealing/drawing cards
+! 02/05/20 14:15:30! 2 players
+! 02/05/20 14:15:30! Flopped card: 8s
+! 02/06/20 08:16:05! Nixed checks
+! 02/06/20 08:16:05! Richard Rognlie bets $10400 
+! 02/06/20 08:16:05! Nixed folds
+! Hand over, no showdown
+! Current board is:  2c 4s Jh 8s ?
+! Richard Rognlie wins $31200 (net $13300)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Jason Feng               |   97200 |         |      |    |         |
+ 2|   Thomas Gabrysch          |  292100 |         |      |    |         |
+ 3|D  Nixed                    |  205500 |         |      |    |         |
+ 4|   Virginia Slims           |   29825 |         |      |    |         |
+ 6|   BrownTrout               |   67500 |         |      |    |         |
+ 7|>  Richard Rognlie          |  178975 |         |      |    |         |
+ 8|   Troutboy Garrett         |  302050 |         |      |    |         |
+ 9|   BT                       |  104525 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Nixed timed out during this hand
+! 197 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c19.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+We are now over 30 days in round "c".  Automatic
+table breaking and live redraws have been disabled.
+We will play until one or more tables gets below six
+players.  When that happens all tables will finish
+the current hand and a full redraw will occur into
+the "d" round.
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 19
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

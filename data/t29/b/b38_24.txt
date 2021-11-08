@@ -1,0 +1,117 @@
+Subject: [b38.10345] Holdem Game Broadcast Message(*)
+
+! Table b38, Hand 24, Day 15
+
+! Bob checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Brian Crowley            |   22075 |       0 |folded|    |         |
+ 2|   Htr                      |   64175 |    1125 |folded|    |         |
+ 3|   sasq                     |   57800 |       0 |folded|    |         |
+ 4|   Motown                   |   53500 |       0 |folded|    |         |
+ 5|>  byfthalone               |   50750 |    2625 |      |    |         |
+ 6|D  Bob                      |   59025 |    2625 |      |    |         |
+ 7|   Rich Guidoboni           |   44900 |      75 |folded|    |         |
+ 8|   Tooner                   |   45250 |     150 |folded|    |         |
+ 9|   G R E E N                |   45925 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/17/19 16:18:30! Dealing a new hand
+! 11/17/19 16:18:30! No ante
+! 11/17/19 16:18:30! Rich Guidoboni blinds $75
+! 11/17/19 16:18:30! Tooner blinds $150
+! 11/17/19 16:19:30! G R E E N folds
+! 11/18/19 03:03:58! Brian Crowley folds
+! 11/18/19 04:19:09! Htr raises $300 to $450 total 
+! 11/18/19 04:19:09! sasq folds
+! 11/18/19 04:19:09! Motown folds
+! 11/18/19 05:00:33! byfthalone raises $675 to $1125 total 
+! 11/18/19 05:13:21! Bob calls 
+! 11/18/19 05:13:21! Rich Guidoboni folds
+! 11/18/19 06:44:26! Tooner folds
+! 11/18/19 06:55:34! Htr calls 
+
+! 11/18/19 06:55:34! Pot right ($3600), flopping/dealing/drawing cards
+! 11/18/19 06:55:34! 3 players
+! 11/18/19 06:55:34! Flopped cards: 8s 8c 5h
+! 11/18/19 07:26:49! Htr checks
+! 11/18/19 07:29:46! byfthalone bets $1500 
+! 11/18/19 09:43:44! Bob calls 
+! 11/18/19 10:20:16! Htr folds
+
+! 11/18/19 10:20:16! Pot right ($6600), flopping/dealing/drawing cards
+! 11/18/19 10:20:16! 2 players
+! 11/18/19 10:20:16! Flopped card: Qh
+! 11/18/19 10:37:37! byfthalone checks
+! 11/18/19 10:57:11! Bob checks
+
+! 11/18/19 10:57:11! Pot right ($6600), flopping/dealing/drawing cards
+! 11/18/19 10:57:11! 2 players
+! 11/18/19 10:57:11! Flopped card: 5s
+! 11/18/19 11:59:48! byfthalone checks
+! 11/18/19 12:57:29! Bob checks
+! Hand over, current board is:  8s 8c 5h Qh 5s
+! byfthalone               has: Jh Jc
+! Bob                      has: 4d 4c
+! byfthalone wins $6600 (net $3975) with Two Pair (J J 8 8 Q)
+! Antes and blinds go up
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Brian Crowley            |   22075 |         |      |    |         |
+ 2|   Htr                      |   64175 |         |      |    |         |
+ 3|   sasq                     |   57800 |         |      |    |         |
+ 4|   Motown                   |   53500 |         |      |    |         |
+ 5|>  byfthalone               |   57350 |         |      |    |         |
+ 6|   Bob                      |   59025 |         |      |    |         |
+ 7|D  Rich Guidoboni           |   44900 |         |      |    |         |
+ 8|   Tooner                   |   45250 |         |      |    |         |
+ 9|   G R E E N                |   45925 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 513 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b38.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Good luck.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

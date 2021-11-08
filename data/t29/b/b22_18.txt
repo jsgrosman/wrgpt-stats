@@ -1,0 +1,123 @@
+Subject: [b22.10262] Holdem Game Broadcast Message(*)
+
+! Table b22, Hand 18, Day 15
+
+! stannius raises $8900 to $52925 total and is all in
+! Pot right ($100775), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped card: 6h
+! Flopped card: 8s
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   UConn                    |   55000 |      75 |folded|    |         |
+ 2|   Russ Fox                 |   49100 |     150 |folded|    |         |
+ 3|>  stannius                 |       0 |   54725 |all-in|  1 |    8900 |
+ 4|   Alvin Chipmunk           |       0 |   45825 |all-in|  2 |   91875 |
+ 5|   mrstcao                  |   46600 |       0 |folded|    |         |
+ 6|   gilette                  |   54725 |       0 |folded|    |         |
+ 7|   Claudia M                |   58325 |       0 |folded|    |         |
+ 8|   underdog                 |   37600 |       0 |folded|    |         |
+ 9|D  Charlie Tuna             |   47875 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/17/19 08:05:15! Dealing a new hand
+! 11/17/19 08:05:15! No ante
+! 11/17/19 08:05:15! UConn blinds $75
+! 11/17/19 08:05:15! Russ Fox blinds $150
+! 11/17/19 08:10:01! stannius raises $300 to $450 total 
+! 11/17/19 13:26:36! Alvin Chipmunk raises $550 to $1000 total 
+! 11/17/19 13:26:36! mrstcao folds
+! 11/17/19 13:26:36! gilette folds
+! 11/17/19 14:23:38! Claudia M folds
+! 11/17/19 14:23:38! underdog folds
+! 11/18/19 00:47:26! Charlie Tuna folds
+! 11/18/19 00:47:26! UConn folds
+! 11/18/19 06:27:12! Russ Fox folds
+! 11/18/19 06:27:12! stannius raises $800 to $1800 total 
+! 11/18/19 06:37:36! Alvin Chipmunk calls 
+
+! 11/18/19 06:37:36! Pot right ($3825), flopping/dealing/drawing cards
+! 11/18/19 06:37:36! 2 players
+! 11/18/19 06:37:36! Flopped cards: 6d Ks As
+! 11/18/19 06:49:30! stannius bets $1500 
+! 11/18/19 06:56:25! Alvin Chipmunk raises $5000 to $6500 total 
+! 11/18/19 07:01:34! stannius raises $10000 to $16500 total 
+_____________________________________________________________________________
+
+! Let's just get this over with
+! -- Alvin Chipmunk --
+_____________________________________________________________________________
+
+! 11/18/19 07:05:20! Alvin Chipmunk raises $27525 to $44025 total and is all in
+! 11/18/19 07:06:22! stannius raises $8900 to $52925 total and is all in
+
+! 11/18/19 07:06:22! Pot right ($100775), flopping/dealing/drawing cards
+! 11/18/19 07:06:22! 2 players, 2 all in
+! 11/18/19 07:06:22! Flopped card: 6h
+! 11/18/19 07:06:22! Flopped card: 8s
+! Hand over, current board is:  6d Ks As 6h 8s
+! stannius                 has: Ah Ac
+! Alvin Chipmunk           has: Kd Kc
+! Pot 1: uncalled $8900 returned to stannius
+! Pot 2: stannius wins $91875 with Full House (A A A 6 6)
+! Antes and blinds go up
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  UConn                    |   55000 |         |      |    |         |
+ 2|   Russ Fox                 |   49100 |         |      |    |         |
+ 3|>  stannius                 |  100775 |         |      |    |         |
+ 5|   mrstcao                  |   46600 |         |      |    |         |
+ 6|   gilette                  |   54725 |         |      |    |         |
+ 7|   Claudia M                |   58325 |         |      |    |         |
+ 8|   underdog                 |   37600 |         |      |    |         |
+ 9|   Charlie Tuna             |   47875 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Alvin Chipmunk is eliminated!
+! 514 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b22.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Good luck.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

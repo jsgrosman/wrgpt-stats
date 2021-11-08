@@ -1,0 +1,114 @@
+Subject: [c26.10512] Holdem Game Broadcast Message(*)
+
+! Table c26, Hand 187, Day 88
+
+! GoBig calls 
+! Pot right ($38350), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 4h
+! Flopped card: Jd
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Jim Anderson             |  127550 |    2300 |folded|    |         |
+ 2|   DaveKal                  |  180725 |     300 |folded|    |         |
+ 3|   Tiltdad                  |   75700 |     300 |folded|    |         |
+ 4|   Nyte                     |       0 |   17125 |all-in|    |         |
+ 5|   gilette                  |  143400 |     300 |folded|    |         |
+ 6|   Vodka on the rocks       |  190250 |     300 |folded|    |         |
+ 7|   Barrett                  |  105200 |     300 |folded|    |         |
+ 8|D  tekbot                   |  102050 |     300 |folded|    |         |
+ 9|>  GoBig                    |   97150 |   17125 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/29/20 13:57:00! Dealing a new hand
+! 01/29/20 13:57:00! Everyone antes $300
+! 01/29/20 13:57:00! GoBig blinds $1000
+! 01/29/20 13:57:00! Jim Anderson blinds $2000
+! 01/29/20 13:57:23! Tiltdad is back from vacation
+! 01/29/20 14:17:06! DaveKal folds
+! 01/29/20 16:29:28! Tiltdad folds
+! 01/29/20 16:37:31! Nyte calls 
+! 01/29/20 17:01:59! gilette folds
+! 01/29/20 17:01:59! Vodka on the rocks folds
+! 01/29/20 17:01:59! Barrett folds
+! 01/29/20 17:48:17! tekbot folds
+! 01/29/20 22:09:16! GoBig calls 
+! 01/30/20 01:30:18! Jim Anderson checks
+
+! 01/30/20 01:30:18! Pot right ($8700), flopping/dealing/drawing cards
+! 01/30/20 01:30:18! 3 players
+! 01/30/20 01:30:18! Flopped cards: Jh 9s 6c
+! 01/30/20 02:48:09! GoBig bets $3000 
+! 01/30/20 04:47:15! Jim Anderson folds
+! 01/30/20 07:09:05! Nyte raises $11825 to $14825 total and is all in
+! 01/30/20 07:16:22! GoBig calls 
+
+! 01/30/20 07:16:22! Pot right ($38350), flopping/dealing/drawing cards
+! 01/30/20 07:16:22! 2 players, 1 all in
+! 01/30/20 07:16:22! Flopped card: 4h
+! 01/30/20 07:16:22! Flopped card: Jd
+! Hand over, current board is:  Jh 9s 6c 4h Jd
+! Nyte                     has: 4s 4c
+! GoBig                    has: Qh Qc
+! Nyte wins $38350 (net $21225) with Full House (4 4 4 J J)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Jim Anderson             |  127550 |         |      |    |         |
+ 2|   DaveKal                  |  180725 |         |      |    |         |
+ 3|   Tiltdad                  |   75700 |         |      |    |         |
+ 4|   Nyte                     |   38350 |         |      |    |         |
+ 5|   gilette                  |  143400 |         |      |    |         |
+ 6|   Vodka on the rocks       |  190250 |         |      |    |         |
+ 7|   Barrett                  |  105200 |         |      |    |         |
+ 8|   tekbot                   |  102050 |         |      |    |         |
+ 9|D> GoBig                    |   97150 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 228 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c26.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

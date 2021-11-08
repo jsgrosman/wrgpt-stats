@@ -1,0 +1,121 @@
+Subject: [c13.10775] Holdem Game Broadcast Message(*)
+
+! Table c13, Hand 209, Day 98
+
+! Bobby the Worm calls - side pot
+! Pot right ($425125), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped card: 5h
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  TommyO                   |  159525 |    7300 |folded|    |         |
+ 3|   Ronnie Snyder            |   85250 |    1300 |folded|    |         |
+ 4|   Boaty McBoatface         |       0 |  253900 |all-in|  1 |   92175 |
+ 5|>  Bobby the Worm           |       0 |  161725 |all-in|  2 |  332950 |
+ 6|   Jeff Palmucci            |  240375 |     300 |folded|    |         |
+ 8|   Dr. Flush                |   87800 |     300 |folded|    |         |
+ 9|   Jpchiefs58               |   19200 |     300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/08/20 20:26:28! Dealing a new hand
+! 02/08/20 20:26:28! Everyone antes $300
+! 02/08/20 20:26:28! Ronnie Snyder blinds $1000
+! 02/08/20 20:26:28! Boaty McBoatface blinds $2000
+! 02/08/20 21:03:08! Bobby the Worm raises $5000 to $7000 total 
+! 02/09/20 04:35:32! Jeff Palmucci folds
+! 02/09/20 04:35:32! Dr. Flush folds
+! 02/09/20 04:35:32! Jpchiefs58 folds
+! 02/09/20 11:51:30! TommyO calls 
+! 02/09/20 11:51:30! Ronnie Snyder folds
+! 02/09/20 12:01:00! Boaty McBoatface calls 
+
+! 02/09/20 12:01:00! Pot right ($24100), flopping/dealing/drawing cards
+! 02/09/20 12:01:00! 3 players
+! 02/09/20 12:01:00! Flopped cards: Kh 6c As
+! 02/09/20 13:44:57! Boaty McBoatface checks
+! 02/09/20 14:02:09! Bobby the Worm bets $20000 
+! 02/09/20 14:08:02! TommyO folds
+! 02/09/20 15:43:58! Boaty McBoatface calls 
+
+! 02/09/20 15:43:58! Pot right ($64100), flopping/dealing/drawing cards
+! 02/09/20 15:43:58! 2 players
+! 02/09/20 15:43:58! Flopped card: 3d
+! 02/09/20 16:33:10! Boaty McBoatface checks
+! 02/09/20 17:22:14! Bobby the Worm bets $40000 
+! 02/09/20 17:23:08! Boaty McBoatface raises $186600 to $226600 total and is all in
+! 02/09/20 17:37:28! Bobby the Worm calls - side pot
+
+! 02/09/20 17:37:28! Pot right ($425125), flopping/dealing/drawing cards
+! 02/09/20 17:37:28! 2 players, 2 all in
+! 02/09/20 17:37:28! Flopped card: 5h
+! Hand over, current board is:  Kh 6c As 3d 5h
+! Boaty McBoatface         has: Jh Ad
+! Bobby the Worm           has: Qh Ac
+! Pot 1: uncalled $92175 returned to Boaty McBoatface
+! Pot 2: Bobby the Worm wins $332950 with One Pair (A A K Q 6)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   TommyO                   |  159525 |         |      |    |         |
+ 3|D  Ronnie Snyder            |   85250 |         |      |    |         |
+ 4|   Boaty McBoatface         |   92175 |         |      |    |         |
+ 5|>  Bobby the Worm           |  332950 |         |      |    |         |
+ 6|   Jeff Palmucci            |  240375 |         |      |    |         |
+ 8|   Dr. Flush                |   87800 |         |      |    |         |
+ 9|   Jpchiefs58               |   19200 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 188 players left in the tournament, 2 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c13.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+We are now over 30 days in round "c".  Automatic
+table breaking and live redraws have been disabled.
+We will play until one or more tables gets below six
+players.  When that happens all tables will finish
+the current hand and a full redraw will occur into
+the "d" round.
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 28
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

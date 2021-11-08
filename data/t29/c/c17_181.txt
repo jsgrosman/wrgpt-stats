@@ -1,0 +1,116 @@
+Subject: [c17.10454] Holdem Game Broadcast Message(*)
+
+! Table c17, Hand 181, Day 82
+
+! Htr folds
+! Pot right ($129950), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: Kd
+! Flopped card: 5s
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Bigjimmf1                |   33375 |     200 |folded|    |         |
+ 2|   Rich Guidoboni           |  266250 |    3775 |folded|    |         |
+ 3|   Boiling Frog             |  108525 |     200 |folded|    |         |
+ 4|D> JRX                      |  105150 |   83850 |      |  1 |   64975 |
+ 5|   Thumper                  |       0 |   18875 |all-in|  3 |   64975 |
+ 6|   EricL                    |  114025 |    3775 |folded|    |         |
+ 7|   Bryan Currie             |   77350 |     200 |folded|    |         |
+ 8|   Ken Doss                 |   93350 |     200 |folded|    |         |
+ 9|   Htr                      |  144500 |   18875 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/23/20 15:58:19! Dealing a new hand
+! 01/23/20 15:58:19! Everyone antes $200
+! 01/23/20 15:58:19! Thumper blinds $600
+! 01/23/20 15:58:19! EricL blinds $1200
+! 01/23/20 16:05:13! Bryan Currie folds
+! 01/23/20 16:31:06! Ken Doss folds
+! 01/23/20 17:42:29! Htr raises $2375 to $3575 total 
+! 01/23/20 17:43:47! Bigjimmf1 folds
+! 01/23/20 18:29:34! Rich Guidoboni calls 
+! 01/23/20 18:29:34! Boiling Frog folds
+! 01/23/20 19:38:18! JRX calls 
+! 01/23/20 20:16:28! Thumper calls 
+! 01/23/20 20:31:52! EricL calls 
+
+! 01/23/20 20:31:52! Pot right ($19675), flopping/dealing/drawing cards
+! 01/23/20 20:31:52! 5 players
+! 01/23/20 20:31:52! Flopped cards: Jc 3c Qh
+! 01/23/20 20:42:04! Thumper bets $15100 and is all in
+! 01/24/20 03:58:45! EricL folds
+! 01/24/20 04:45:31! Htr calls 
+! 01/24/20 04:45:31! Rich Guidoboni folds
+! 01/24/20 08:19:34! JRX raises $64975 to $80075 total 
+! 01/24/20 09:27:56! Htr folds
+
+! 01/24/20 09:27:56! Pot right ($129950), flopping/dealing/drawing cards
+! 01/24/20 09:27:56! 2 players, 1 all in
+! 01/24/20 09:27:56! Flopped card: Kd
+! 01/24/20 09:27:56! Flopped card: 5s
+! Hand over, current board is:  Jc 3c Qh Kd 5s
+! JRX                      has: Qc 7c
+! Thumper                  has: Ac 2c
+! Pot 1: uncalled $64975 returned to JRX
+! Pot 3: JRX wins $64975 with One Pair (Q Q K J 7)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Bigjimmf1                |   33375 |         |      |    |         |
+ 2|   Rich Guidoboni           |  266250 |         |      |    |         |
+ 3|   Boiling Frog             |  108525 |         |      |    |         |
+ 4|D> JRX                      |  235100 |         |      |    |         |
+ 6|   EricL                    |  114025 |         |      |    |         |
+ 7|   Bryan Currie             |   77350 |         |      |    |         |
+ 8|   Ken Doss                 |   93350 |         |      |    |         |
+ 9|   Htr                      |  144500 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Thumper is eliminated!
+! 258 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c17.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 11
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

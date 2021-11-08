@@ -1,0 +1,118 @@
+Subject: [b5.10075] Holdem Game Broadcast Message(*)
+
+! Table b5, Hand 5, Day 5
+
+! Mr. Rhinelander checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   MrBookworm               |   49150 |     500 |folded|    |         |
+ 2|   Mr. Rhinelander          |   47625 |    2300 |      |    |         |
+ 3|V  David Paulett            |   49775 |       0 |<AWOL>|    |         |
+ 4|   Omaholic                 |   39225 |       0 |folded|    |         |
+ 5|D  Bubbabear                |   61325 |       0 |folded|    |         |
+ 6|   MarinaMan                |   50675 |      75 |folded|    |         |
+ 7|>  Cody Jones               |   46850 |    2300 |      |    |         |
+ 8|   ITCs Trips on Trips      |   50350 |       0 |folded|    |         |
+ 9|   kvk                      |   49850 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/07/19 12:42:22! Dealing a new hand
+! 11/07/19 12:42:22! No ante
+! 11/07/19 12:42:22! MarinaMan blinds $75
+! 11/07/19 12:42:22! Cody Jones blinds $150
+! 11/07/19 12:44:28! ITCs Trips on Trips folds
+! 11/07/19 12:44:28! kvk folds
+! 11/07/19 12:55:06! MrBookworm raises $175 to $325 total 
+! 11/07/19 18:23:42! Mr. Rhinelander raises $175 to $500 total 
+! 11/07/19 18:23:42! David Paulett is on vacation and folds
+! 11/07/19 18:24:30! Omaholic folds
+! 11/07/19 18:25:27! Bubbabear folds
+! 11/08/19 06:32:22! MarinaMan folds
+! 11/08/19 07:25:25! Cody Jones calls 
+! 11/08/19 07:29:39! MrBookworm calls 
+
+! 11/08/19 07:29:39! Pot right ($1575), flopping/dealing/drawing cards
+! 11/08/19 07:29:39! 3 players
+! 11/08/19 07:29:39! Flopped cards: Jd 8d 9h
+! 11/08/19 07:31:45! Cody Jones checks
+! 11/08/19 09:58:20! MrBookworm checks
+! 11/08/19 10:07:59! Mr. Rhinelander bets $1800 
+! 11/08/19 10:09:53! Cody Jones calls 
+! 11/08/19 10:18:59! MrBookworm folds
+
+! 11/08/19 10:18:59! Pot right ($5175), flopping/dealing/drawing cards
+! 11/08/19 10:18:59! 2 players
+! 11/08/19 10:18:59! Flopped card: Js
+! 11/08/19 10:19:33! Cody Jones checks
+! 11/08/19 14:20:02! Mr. Rhinelander checks
+
+! 11/08/19 14:20:02! Pot right ($5175), flopping/dealing/drawing cards
+! 11/08/19 14:20:02! 2 players
+! 11/08/19 14:20:02! Flopped card: 6c
+! 11/08/19 15:49:26! Cody Jones checks
+! 11/08/19 19:37:50! Mr. Rhinelander checks
+! Hand over, current board is:  Jd 8d 9h Js 6c
+! Mr. Rhinelander          has: Ad Kd
+! Cody Jones               has: Ks Jh
+! Cody Jones wins $5175 (net $2875) with Three of a Kind (J J J K 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   MrBookworm               |   49150 |         |      |    |         |
+ 2|   Mr. Rhinelander          |   47625 |         |      |    |         |
+ 3|V  David Paulett            |   49775 |         |<AWOL>|    |         |
+ 4|   Omaholic                 |   39225 |         |      |    |         |
+ 5|   Bubbabear                |   61325 |         |      |    |         |
+ 6|D  MarinaMan                |   50675 |         |      |    |         |
+ 7|>  Cody Jones               |   52025 |         |      |    |         |
+ 8|   ITCs Trips on Trips      |   50350 |         |      |    |         |
+ 9|   kvk                      |   49850 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 534 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b5.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+This is the REAL WRGPT29.
+Changes to office hours and email addresses do not carry over from the
+practice round.
+You have been assigned a new ID and the round is "b".
+
+Good luck.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 3
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

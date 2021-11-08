@@ -1,0 +1,119 @@
+Subject: [b7.10139] Holdem Game Broadcast Message(*)
+
+! Table b7, Hand 11, Day 13
+
+! fattychubs calls 
+! Pot right ($89125), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: As
+! Flopped card: 6c
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|V  Michigan                 |   49775 |       0 | NoSho|    |         |
+ 2|D> fattychubs               |   15800 |   43475 |      |    |         |
+ 3|V  Rick Brown               |   49250 |      75 |<Gone>|    |         |
+ 4|   Michael Proteau          |   41475 |     150 |folded|    |         |
+ 5|   Svante Wester            |   45275 |    1950 |folded|    |         |
+ 6|   d-alamo                  |   60250 |       0 |folded|    |         |
+ 7|   Dragon                   |   49275 |       0 |folded|    |         |
+ 8|   Andrew Nelson            |       0 |   43475 |all-in|    |         |
+ 9|V  coming                   |   49775 |       0 |25 nov|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/14/19 14:52:05! Dealing a new hand
+! 11/14/19 14:52:05! No ante
+! 11/14/19 14:52:05! Rick Brown blinds $75
+! 11/14/19 14:52:05! Michael Proteau blinds $150
+! 11/14/19 14:56:27! Svante Wester calls 
+! 11/14/19 17:35:13! fattychubs is back from vacation
+! 11/14/19 17:37:57! d-alamo folds
+! 11/15/19 09:38:28! Dragon folds
+! 11/15/19 09:46:01! Andrew Nelson raises $500 to $650 total 
+! 11/15/19 09:46:01! coming is on vacation and folds
+! 11/15/19 09:46:01! Michigan is on vacation and folds
+! 11/15/19 10:00:19! fattychubs raises $1300 to $1950 total 
+! 11/15/19 10:00:19! Rick Brown is on vacation and folds
+! 11/15/19 10:05:56! Michael Proteau folds
+! 11/15/19 23:49:40! Svante Wester calls 
+! 11/16/19 04:58:08! Andrew Nelson calls 
+
+! 11/16/19 04:58:08! Pot right ($6075), flopping/dealing/drawing cards
+! 11/16/19 04:58:08! 3 players
+! 11/16/19 04:58:08! Flopped cards: 7h Jc 2d
+! 11/16/19 06:17:16! Svante Wester checks
+! 11/16/19 07:55:21! Andrew Nelson checks
+! 11/16/19 07:55:21! fattychubs bets $4200 
+! 11/16/19 08:33:12! Svante Wester folds
+! 11/16/19 08:39:54! Andrew Nelson raises $5800 to $10000 total 
+! 11/16/19 10:04:18! fattychubs raises $10000 to $20000 total 
+! 11/16/19 10:35:39! Andrew Nelson raises $21525 to $41525 total and is all in
+! 11/16/19 11:10:34! fattychubs calls 
+
+! 11/16/19 11:10:34! Pot right ($89125), flopping/dealing/drawing cards
+! 11/16/19 11:10:34! 2 players, 1 all in
+! 11/16/19 11:10:34! Flopped card: As
+! 11/16/19 11:10:34! Flopped card: 6c
+! Hand over, current board is:  7h Jc 2d As 6c
+! fattychubs               has: 7d 7c
+! Andrew Nelson            has: Qs Kd
+! fattychubs wins $89125 (net $45650) with Three of a Kind (7 7 7 A J)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|V  Michigan                 |   49775 |         | NoSho|    |         |
+ 2|>  fattychubs               |  104925 |         |      |    |         |
+ 3|DV Rick Brown               |   49250 |         |<Gone>|    |         |
+ 4|   Michael Proteau          |   41475 |         |      |    |         |
+ 5|   Svante Wester            |   45275 |         |      |    |         |
+ 6|   d-alamo                  |   60250 |         |      |    |         |
+ 7|   Dragon                   |   49275 |         |      |    |         |
+ 9|V  coming                   |   49775 |         |25 nov|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Andrew Nelson is eliminated!
+! 519 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b7.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Good luck.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,121 @@
+Subject: [b22.10320] Holdem Game Broadcast Message(*)
+
+! Table b22, Hand 23, Day 18
+
+! underdog calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   UConn                    |   54700 |       0 |folded|    |         |
+ 2|   Russ Fox                 |   50000 |       0 |folded|    |         |
+ 3|   stannius                 |   81525 |       0 |folded|    |         |
+ 4|   Crush_me                 |   27950 |       0 |folded|    |         |
+ 5|D> mrstcao                  |   42975 |   14675 |      |    |         |
+ 6|   gilette                  |   70725 |     150 |folded|    |         |
+ 7|   Claudia M                |   57425 |     300 |folded|    |         |
+ 8|   underdog                 |   22925 |   14675 |      |    |         |
+ 9|   Charlie Tuna             |   47875 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/20/19 22:01:06! Dealing a new hand
+! 11/20/19 22:01:06! No ante
+! 11/20/19 22:01:06! gilette blinds $150
+! 11/20/19 22:01:06! Claudia M blinds $300
+! 11/21/19 04:07:08! underdog raises $600 to $900 total 
+! 11/21/19 04:07:08! Charlie Tuna folds
+! 11/21/19 07:57:03! UConn folds
+! 11/21/19 07:57:03! Russ Fox folds
+! 11/21/19 07:57:03! stannius folds
+! 11/21/19 07:57:03! Crush_me folds
+! 11/21/19 07:57:49! mrstcao calls 
+! 11/21/19 07:57:49! gilette folds
+! 11/21/19 11:59:03! Claudia M folds
+
+! 11/21/19 11:59:03! Pot right ($2250), flopping/dealing/drawing cards
+! 11/21/19 11:59:03! 2 players
+! 11/21/19 11:59:03! Flopped cards: Jh 4d 4h
+! 11/21/19 12:27:19! underdog bets $1125 
+! 11/21/19 12:45:51! mrstcao raises $2500 to $3625 total 
+! 11/21/19 13:33:29! underdog calls 
+
+! 11/21/19 13:33:29! Pot right ($9500), flopping/dealing/drawing cards
+! 11/21/19 13:33:29! 2 players
+! 11/21/19 13:33:29! Flopped card: 7s
+! 11/21/19 13:34:09! underdog checks
+! 11/21/19 13:40:03! mrstcao bets $2400 
+! 11/21/19 13:42:09! underdog calls 
+
+! 11/21/19 13:42:09! Pot right ($14300), flopping/dealing/drawing cards
+! 11/21/19 13:42:09! 2 players
+! 11/21/19 13:42:09! Flopped card: 4c
+! 11/21/19 13:42:43! underdog checks
+! 11/21/19 13:55:32! mrstcao bets $7750 
+! 11/21/19 13:57:32! underdog calls 
+! Hand over, current board is:  Jh 4d 4h 7s 4c
+! mrstcao                  has: Kh Qh
+! underdog                 has: As 10h
+! underdog wins $29800 (net $15125) with Three of a Kind (4 4 4 A J)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   UConn                    |   54700 |         |      |    |         |
+ 2|   Russ Fox                 |   50000 |         |      |    |         |
+ 3|   stannius                 |   81525 |         |      |    |         |
+ 4|   Crush_me                 |   27950 |         |      |    |         |
+ 5|>  mrstcao                  |   42975 |         |      |    |         |
+ 6|D  gilette                  |   70725 |         |      |    |         |
+ 7|   Claudia M                |   57425 |         |      |    |         |
+ 8|   underdog                 |   52725 |         |      |    |         |
+ 9|   Charlie Tuna             |   47875 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Claudia M timed out during this hand
+! 505 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b22.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that have not come to the table by the end
+of day 30 will be removed.
+
+Players that are away from the tables for 45 days 
+will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

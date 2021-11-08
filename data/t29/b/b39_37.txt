@@ -1,0 +1,130 @@
+Subject: [b39.10504] Holdem Game Broadcast Message(*)
+
+! Table b39, Hand 37, Day 33
+
+! mshulm1 folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Bobby the Worm           |   69550 |     325 |folded|    |         |
+ 2|   beacon bot               |  114025 |      25 |folded|    |         |
+ 3|D  Larry Stone              |  156300 |      25 |folded|    |         |
+ 4|   BillB                    |   56725 |    1275 |folded|    |         |
+ 5|   Chris Danek              |   80050 |     325 |folded|    |         |
+ 6|   mshulm1                  |   51000 |    1275 |folded|    |         |
+ 7|   Swamper BFJ              |   32800 |     325 |folded|    |         |
+ 8|   BlindMonkey              |   46975 |      25 |folded|    |         |
+ 9|>  Eight of Spades          |   51725 |    1575 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/05/19 12:42:08! Dealing a new hand
+! 12/05/19 12:42:08! Everyone antes $25
+! 12/05/19 12:42:08! BillB blinds $150
+! 12/05/19 12:42:08! Chris Danek blinds $300
+! 12/05/19 13:02:40! mshulm1 calls 
+! 12/05/19 13:23:29! Swamper BFJ calls 
+! 12/05/19 13:29:15! BlindMonkey folds
+! 12/05/19 13:29:56! Eight of Spades calls 
+! 12/05/19 17:10:44! Bobby the Worm calls 
+! 12/06/19 06:28:53! beacon bot folds
+! 12/06/19 06:28:53! Larry Stone folds
+! 12/06/19 06:30:30! BillB calls 
+! 12/06/19 07:35:43! Chris Danek checks
+
+! 12/06/19 07:35:43! Pot right ($2025), flopping/dealing/drawing cards
+! 12/06/19 07:35:43! 6 players
+! 12/06/19 07:35:43! Flopped cards: 6h Js 8c
+! 12/06/19 07:37:56! BillB checks
+! 12/06/19 07:37:56! Chris Danek checks
+! 12/06/19 07:48:24! mshulm1 checks
+! 12/06/19 07:49:27! Swamper BFJ checks
+! 12/06/19 07:54:45! Eight of Spades bets $300 
+! 12/06/19 09:19:30! Bobby the Worm folds
+! 12/06/19 09:20:29! BillB calls 
+! 12/06/19 09:20:29! Chris Danek folds
+! 12/06/19 11:57:04! mshulm1 calls 
+! 12/06/19 11:57:04! Swamper BFJ folds
+
+! 12/06/19 11:57:04! Pot right ($2925), flopping/dealing/drawing cards
+! 12/06/19 11:57:04! 3 players
+! 12/06/19 11:57:04! Flopped card: Qc
+! 12/06/19 12:25:03! BillB checks
+! 12/06/19 14:14:15! mshulm1 checks
+! 12/06/19 14:29:56! Eight of Spades bets $650 
+! 12/06/19 14:33:41! BillB calls 
+! 12/06/19 14:59:27! mshulm1 calls 
+
+! 12/06/19 14:59:27! Pot right ($4875), flopping/dealing/drawing cards
+! 12/06/19 14:59:27! 3 players
+! 12/06/19 14:59:27! Flopped card: Jh
+! 12/06/19 15:22:12! BillB checks
+! 12/06/19 16:58:35! mshulm1 checks
+! 12/06/19 18:50:35! Eight of Spades bets $300 
+! 12/06/19 18:55:01! BillB folds
+! 12/06/19 19:16:51! mshulm1 folds
+! Hand over, no showdown
+! Current board is:  6h Js 8c Qc Jh
+! Eight of Spades wins $5175 (net $3600)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Bobby the Worm           |   69550 |         |      |    |         |
+ 2|   beacon bot               |  114025 |         |      |    |         |
+ 3|   Larry Stone              |  156300 |         |      |    |         |
+ 4|D  BillB                    |   56725 |         |      |    |         |
+ 5|   Chris Danek              |   80050 |         |      |    |         |
+ 6|   mshulm1                  |   51000 |         |      |    |         |
+ 7|   Swamper BFJ              |   32800 |         |      |    |         |
+ 8|   BlindMonkey              |   46975 |         |      |    |         |
+ 9|>  Eight of Spades          |   56900 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 450 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b39.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that have not come to the table by the end
+of day 30 will be removed.
+
+Players that are away from the tables for 45 days 
+will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

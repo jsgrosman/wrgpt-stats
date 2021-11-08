@@ -1,0 +1,135 @@
+Subject: [b53.10313] Holdem Game Broadcast Message(*)
+
+% Fearing the k9
+% (dealer suppressed lines starting with '>' or ':')
+! -- ADB Jaeger --
+_____________________________________________________________________________
+
+! Table b53, Hand 25, Day 23
+
+! ADB Jaeger calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Mike Sager               |  101250 |       0 |folded|    |         |
+ 2|   ThunderRd                |   46850 |     300 |folded|    |         |
+ 3|>  calliope                 |   24850 |    6950 |      |    |         |
+ 4|   ADB Jaeger               |   82550 |    6950 |      |    |         |
+ 5|   ShortStack               |   23750 |       0 |folded|    |         |
+ 6|   Billco                   |    3525 |       0 |folded|    |         |
+ 7|D  Chris Danek              |   75175 |    1950 |folded|    |         |
+ 8|   Dave Palm                |   41150 |     150 |folded|    |         |
+ 9|   funjon                   |   34300 |     300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/25/19 03:19:27! Dealing a new hand
+! 11/25/19 03:19:27! No ante
+! 11/25/19 03:19:27! Dave Palm blinds $150
+! 11/25/19 03:19:27! funjon blinds $300
+! 11/25/19 06:06:09! Mike Sager folds
+! 11/25/19 06:06:09! ThunderRd calls 
+! 11/25/19 06:06:09! calliope calls 
+! 11/25/19 06:19:38! ADB Jaeger calls 
+! 11/25/19 06:19:38! ShortStack folds
+! 11/25/19 07:51:25! Billco folds
+! 11/25/19 07:58:37! Chris Danek calls 
+! 11/25/19 07:58:37! Dave Palm folds
+! 11/25/19 09:47:51! funjon checks
+
+! 11/25/19 09:47:51! Pot right ($1650), flopping/dealing/drawing cards
+! 11/25/19 09:47:51! 5 players
+! 11/25/19 09:47:51! Flopped cards: 7c Kd 8h
+! 11/25/19 09:48:41! funjon checks
+! 11/25/19 16:46:24! ThunderRd checks
+! 11/26/19 06:02:43! calliope bets $1650 
+! 11/26/19 08:46:33! ADB Jaeger calls 
+! 11/26/19 08:52:26! Chris Danek calls 
+! 11/26/19 09:26:56! funjon folds
+! 11/26/19 09:26:56! ThunderRd folds
+
+! 11/26/19 09:26:56! Pot right ($6600), flopping/dealing/drawing cards
+! 11/26/19 09:26:56! 3 players
+! 11/26/19 09:26:56! Flopped card: Kc
+! 11/26/19 09:28:14! calliope bets $2000 
+! 11/26/19 09:46:30! ADB Jaeger calls 
+! 11/26/19 09:46:30! Chris Danek folds
+
+! 11/26/19 09:46:30! Pot right ($10600), flopping/dealing/drawing cards
+! 11/26/19 09:46:30! 2 players
+! 11/26/19 09:46:30! Flopped card: 9s
+! 11/26/19 09:46:30! calliope bets $3000 
+_____________________________________________________________________________
+
+! Fearing the k9
+! (dealer suppressed lines starting with '>' or ':')
+! -- ADB Jaeger --
+_____________________________________________________________________________
+
+! 11/26/19 09:49:56! ADB Jaeger calls 
+! Hand over, current board is:  7c Kd 8h Kc 9s
+! calliope                 has: 6c 5c
+! ADB Jaeger               has: Kh Jd
+! calliope wins $16600 (net $9650) with Straight (9 8 7 6 5)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Mike Sager               |  101250 |         |      |    |         |
+ 2|   ThunderRd                |   46850 |         |      |    |         |
+ 3|>  calliope                 |   41450 |         |      |    |         |
+ 4|   ADB Jaeger               |   82550 |         |      |    |         |
+ 5|   ShortStack               |   23750 |         |      |    |         |
+ 6|   Billco                   |    3525 |         |      |    |         |
+ 7|   Chris Danek              |   75175 |         |      |    |         |
+ 8|D  Dave Palm                |   41150 |         |      |    |         |
+ 9|   funjon                   |   34300 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 491 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b53.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that have not come to the table by the end
+of day 30 will be removed.
+
+Players that are away from the tables for 45 days 
+will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 4
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

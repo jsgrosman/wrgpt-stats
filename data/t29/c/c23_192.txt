@@ -1,0 +1,110 @@
+Subject: [c23.10531] Holdem Game Broadcast Message(*)
+
+! Table c23, Hand 192, Day 94
+
+! Couchtater folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  Couchtater               |   70350 |   24300 |folded|    |         |
+ 2|   Joshua                   |       0 |  104550 |all-in|    |         |
+ 3|D  Bugsy                    |   91350 |     300 |folded|    |         |
+ 4|   dstebs                   |   63800 |    4300 |folded|    |         |
+ 5|   Fredrik Westerlund       |   58450 |   14300 |folded|    |         |
+ 6|   Sam Parazette            |   50950 |     300 |folded|    |         |
+ 7|   Home_Brew_Boy            |  159800 |     300 |folded|    |         |
+ 8|   CoachMatt13              |  130675 |     300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/04/20 12:57:07! Dealing a new hand
+! 02/04/20 12:57:07! Everyone antes $300
+! 02/04/20 12:57:07! dstebs blinds $1000
+! 02/04/20 12:57:07! Fredrik Westerlund blinds $2000
+! 02/04/20 13:01:41! Sam Parazette folds
+! 02/04/20 13:48:16! Home_Brew_Boy folds
+! 02/04/20 13:50:20! CoachMatt13 folds
+! 02/04/20 14:06:08! Couchtater raises $2000 to $4000 total 
+! 02/04/20 14:26:08! Joshua calls 
+! 02/04/20 14:26:08! Bugsy folds
+! 02/04/20 16:31:17! dstebs calls 
+! 02/04/20 21:34:11! Fredrik Westerlund calls 
+
+! 02/04/20 21:34:11! Pot right ($18400), flopping/dealing/drawing cards
+! 02/04/20 21:34:11! 4 players
+! 02/04/20 21:34:11! Flopped cards: Ac Js Ah
+! 02/05/20 02:37:36! dstebs checks
+! 02/05/20 02:41:34! Fredrik Westerlund bets $10000 
+! 02/05/20 07:17:24! Couchtater raises $10000 to $20000 total 
+! 02/05/20 07:24:34! Joshua raises $80250 to $100250 total and is all in
+! 02/05/20 07:31:55! dstebs folds
+! 02/05/20 07:34:03! Fredrik Westerlund folds
+! 02/05/20 07:35:37! Couchtater folds
+! Hand over, no showdown
+! Current board is:  Ac Js Ah ? ?
+! Joshua wins $148650 (net $44100)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  Couchtater               |   70350 |         |      |    |         |
+ 2|   Joshua                   |  148650 |         |      |    |         |
+ 3|   Bugsy                    |   91350 |         |      |    |         |
+ 4|D  dstebs                   |   63800 |         |      |    |         |
+ 5|   Fredrik Westerlund       |   58450 |         |      |    |         |
+ 6|   Sam Parazette            |   50950 |         |      |    |         |
+ 7|   Home_Brew_Boy            |  159800 |         |      |    |         |
+ 8|   CoachMatt13              |  130675 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 203 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c23.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+We are now over 30 days in round "c".  Automatic
+table breaking and live redraws have been disabled.
+We will play until one or more tables gets below six
+players.  When that happens all tables will finish
+the current hand and a full redraw will occur into
+the "d" round.
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 13
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

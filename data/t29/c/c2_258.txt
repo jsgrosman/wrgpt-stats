@@ -1,0 +1,126 @@
+Subject: [c2.11166] Holdem Game Broadcast Message(*)
+
+! Table c2, Hand 258, Day 93
+
+! Benjamin Irving calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  ERIC C MOORE             |  203250 |   38850 |      |    |         |
+ 2|   Tom A                    |  330625 |     300 |folded|    |         |
+ 3|   Greg P                   |   93125 |     300 |folded|    |         |
+ 4|   Eric Brassell            |   88000 |     300 |folded|    |         |
+ 5|   Benjamin Irving          |   57975 |   38850 |      |    |         |
+ 6|   stannius                 |  107550 |    2300 |folded|    |         |
+ 7|   woodstock                |  256475 |     300 |folded|    |         |
+ 8|D  DroogieDroog             |   91825 |    2300 |folded|    |         |
+ 9|   DMW                      |   38850 |    2300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/03/20 13:40:25! Dealing a new hand
+! 02/03/20 13:40:25! Everyone antes $300
+! 02/03/20 13:40:25! DMW blinds $1000
+! 02/03/20 13:40:25! ERIC C MOORE blinds $2000
+! 02/03/20 13:41:32! Tom A folds
+! 02/03/20 14:18:20! Greg P folds
+! 02/03/20 14:18:20! Eric Brassell folds
+! 02/03/20 14:29:32! Benjamin Irving calls 
+! 02/03/20 14:29:32! stannius calls 
+! 02/03/20 14:29:32! woodstock folds
+! 02/04/20 06:26:07! DroogieDroog calls 
+! 02/04/20 06:26:07! DMW calls 
+! 02/04/20 06:28:00! ERIC C MOORE checks
+
+! 02/04/20 06:28:00! Pot right ($12700), flopping/dealing/drawing cards
+! 02/04/20 06:28:00! 5 players
+! 02/04/20 06:28:00! Flopped cards: Jc 2h 7d
+! 02/04/20 10:34:38! DMW checks
+! 02/04/20 10:46:01! ERIC C MOORE bets $6775 
+! 02/04/20 10:50:44! Benjamin Irving calls 
+! 02/04/20 10:59:04! stannius folds
+! 02/04/20 10:59:04! DroogieDroog folds
+! 02/04/20 13:41:55! DMW folds
+
+! 02/04/20 13:41:55! Pot right ($26250), flopping/dealing/drawing cards
+! 02/04/20 13:41:55! 2 players
+! 02/04/20 13:41:55! Flopped card: Qd
+! 02/04/20 13:47:05! ERIC C MOORE checks
+! 02/04/20 13:53:44! Benjamin Irving bets $10000 
+! 02/04/20 14:00:38! ERIC C MOORE calls 
+
+! 02/04/20 14:00:38! Pot right ($46250), flopping/dealing/drawing cards
+! 02/04/20 14:00:38! 2 players
+! 02/04/20 14:00:38! Flopped card: 8h
+! 02/04/20 14:02:14! ERIC C MOORE bets $19775 
+! 02/04/20 14:22:33! Benjamin Irving calls 
+! Hand over, current board is:  Jc 2h 7d Qd 8h
+! ERIC C MOORE             has: Js 8s
+! Benjamin Irving          has: Jd Kc
+! ERIC C MOORE wins $85800 (net $46950) with Two Pair (J J 8 8 Q)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  ERIC C MOORE             |  289050 |         |      |    |         |
+ 2|   Tom A                    |  330625 |         |      |    |         |
+ 3|   Greg P                   |   93125 |         |      |    |         |
+ 4|   Eric Brassell            |   88000 |         |      |    |         |
+ 5|   Benjamin Irving          |   57975 |         |      |    |         |
+ 6|   stannius                 |  107550 |         |      |    |         |
+ 7|   woodstock                |  256475 |         |      |    |         |
+ 8|   DroogieDroog             |   91825 |         |      |    |         |
+ 9|D  DMW                      |   38850 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 206 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c2.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+We are now over 30 days in round "c".  Automatic
+table breaking and live redraws have been disabled.
+We will play until one or more tables gets below six
+players.  When that happens all tables will finish
+the current hand and a full redraw will occur into
+the "d" round.
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 10
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

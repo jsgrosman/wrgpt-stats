@@ -1,0 +1,128 @@
+Subject: [c8.10020] Holdem Game Broadcast Message(*)
+
+! Table c8, Hand 145, Day 64
+
+! kmommy bets $6000 
+! TennisGeek calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  TennisGeek               |   28625 |   21600 |      |    |         |
+ 2|   Michael Proteau          |   75100 |     600 |folded|    |         |
+ 3|   DouglasT                 |  114925 |     600 |folded|    |         |
+ 4|>  kmommy                   |   38075 |   21600 |      |    |         |
+ 5|   Kinda Gamey              |   30025 |     600 |folded|    |         |
+ 6|   Zipper                   |   75200 |     100 |folded|    |         |
+ 7|   smak                     |   72300 |     100 |folded|    |         |
+ 8|   OldKingKohl              |  188550 |     600 |folded|    |         |
+ 9|   Ed Fernandez             |  103875 |     600 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/03/20 16:57:33! Dealing a new hand
+! 01/03/20 16:57:33! Everyone antes $100
+! 01/03/20 16:57:33! Michael Proteau blinds $250
+! 01/03/20 16:57:33! DouglasT blinds $500
+! 01/03/20 17:44:41! kmommy calls 
+! 01/03/20 17:48:44! Kinda Gamey calls 
+! 01/03/20 18:38:11! Zipper folds
+! 01/03/20 18:38:11! smak folds
+! 01/03/20 19:30:48! OldKingKohl calls 
+! 01/03/20 21:14:44! Ed Fernandez calls 
+! 01/04/20 09:31:12! TennisGeek calls 
+! 01/04/20 09:56:39! Michael Proteau calls 
+! 01/04/20 09:56:39! DouglasT checks
+
+! 01/04/20 09:56:39! Pot right ($4400), flopping/dealing/drawing cards
+! 01/04/20 09:56:39! 7 players
+! 01/04/20 09:56:39! Flopped cards: Kh Qd 6h
+! 01/04/20 09:57:46! Michael Proteau checks
+! 01/04/20 09:57:46! DouglasT checks
+! 01/04/20 10:26:35! kmommy checks
+! 01/04/20 10:39:01! Kinda Gamey checks
+! 01/04/20 12:49:16! OldKingKohl checks
+! 01/04/20 13:16:39! Ed Fernandez checks
+! 01/05/20 09:44:30! TennisGeek bets $4500 
+! 01/05/20 09:44:30! Michael Proteau folds
+! 01/05/20 09:44:30! DouglasT folds
+! 01/05/20 10:01:35! kmommy raises $4500 to $9000 total 
+! 01/05/20 10:01:35! Kinda Gamey folds
+! 01/05/20 10:02:47! OldKingKohl folds
+! 01/05/20 14:09:44! Ed Fernandez folds
+! 01/06/20 06:52:26! TennisGeek calls 
+
+! 01/06/20 06:52:26! Pot right ($22400), flopping/dealing/drawing cards
+! 01/06/20 06:52:26! 2 players
+! 01/06/20 06:52:26! Flopped card: 3s
+! 01/06/20 06:55:13! kmommy bets $6000 
+! 01/06/20 09:48:58! TennisGeek calls 
+
+! 01/06/20 09:48:58! Pot right ($34400), flopping/dealing/drawing cards
+! 01/06/20 09:48:58! 2 players
+! 01/06/20 09:48:58! Flopped card: 9s
+! 01/06/20 09:54:28! kmommy bets $6000 
+! 01/06/20 09:54:28! TennisGeek calls 
+! Hand over, current board is:  Kh Qd 6h 3s 9s
+! TennisGeek               has: Ks 10h
+! kmommy                   has: Qh Kd
+! kmommy wins $46400 (net $24800) with Two Pair (K K Q Q 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   TennisGeek               |   28625 |         |      |    |         |
+ 2|D  Michael Proteau          |   75100 |         |      |    |         |
+ 3|   DouglasT                 |  114925 |         |      |    |         |
+ 4|>  kmommy                   |   84475 |         |      |    |         |
+ 5|   Kinda Gamey              |   30025 |         |      |    |         |
+ 6|   Zipper                   |   75200 |         |      |    |         |
+ 7|   smak                     |   72300 |         |      |    |         |
+ 8|   OldKingKohl              |  188550 |         |      |    |         |
+ 9|   Ed Fernandez             |  103875 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! DouglasT went on vacation until <Gone>
+! 336 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c8.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 7
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

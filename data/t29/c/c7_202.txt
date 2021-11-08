@@ -1,0 +1,107 @@
+Subject: [c7.10666] Holdem Game Broadcast Message(*)
+
+! Table c7, Hand 202, Day 99
+
+! Dario folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   1985 M Building Champ    |   83750 |     300 |folded|    |         |
+ 2|   janie                    |   80200 |    6300 |folded|    |         |
+ 3|   Piney Boy                |   81550 |     300 |folded|    |         |
+ 4|   BigElmo                  |   60150 |     300 |folded|    |         |
+ 5|D> Dario                    |  105575 |    6300 |folded|    |         |
+ 6|   Per Starback             |       0 |   81625 |all-in|    |         |
+ 7|   CountFlop                |   65225 |    2300 |folded|    |         |
+ 9|V  Taki                     |   17075 |     300 |  busy|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/09/20 21:42:26! Dealing a new hand
+! 02/09/20 21:42:26! Everyone antes $300
+! 02/09/20 21:42:26! Per Starback blinds $1000
+! 02/09/20 21:42:26! CountFlop blinds $2000
+! 02/09/20 21:42:26! Taki is on vacation and folds
+! 02/09/20 21:50:51! 1985 M Building Champ folds
+! 02/09/20 22:18:34! janie raises $4000 to $6000 total 
+! 02/10/20 03:24:48! Piney Boy folds
+! 02/10/20 03:24:48! BigElmo folds
+! 02/10/20 06:46:58! Dario calls 
+! 02/10/20 07:08:49! Per Starback calls 
+! 02/10/20 07:12:46! CountFlop folds
+
+! 02/10/20 07:12:46! Pot right ($22400), flopping/dealing/drawing cards
+! 02/10/20 07:12:46! 3 players
+! 02/10/20 07:12:46! Flopped cards: Ad 6s Kc
+! 02/10/20 07:18:31! Per Starback bets $75325 and is all in
+! 02/10/20 07:39:09! janie folds
+! 02/10/20 10:09:34! Dario folds
+! Hand over, no showdown
+! Current board is:  Ad 6s Kc ? ?
+! Per Starback wins $97725 (net $16100)
+! Antes and blinds go up
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   1985 M Building Champ    |   83750 |         |      |    |         |
+ 2|   janie                    |   80200 |         |      |    |         |
+ 3|   Piney Boy                |   81550 |         |      |    |         |
+ 4|   BigElmo                  |   60150 |         |      |    |         |
+ 5|>  Dario                    |  105575 |         |      |    |         |
+ 6|D  Per Starback             |   97725 |         |      |    |         |
+ 7|   CountFlop                |   65225 |         |      |    |         |
+ 9|V  Taki                     |   17075 |         |  busy|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 187 players left in the tournament, 2 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c7.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+We are now over 30 days in round "c".  Automatic
+table breaking and live redraws have been disabled.
+We will play until one or more tables gets below six
+players.  When that happens all tables will finish
+the current hand and a full redraw will occur into
+the "d" round.
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 29
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

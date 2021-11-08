@@ -1,0 +1,119 @@
+Subject: [c17.10811] Holdem Game Broadcast Message(*)
+
+! Table c17, Hand 211, Day 100
+
+! Bryan Currie calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Lana OBrien              |  259100 |    6900 |folded|    |         |
+ 2|   Rich Guidoboni           |  461750 |     400 |folded|    |         |
+ 4|   JRX                      |  210750 |     400 |folded|    |         |
+ 5|   Buggzilla                |   97125 |     400 |folded|    |         |
+ 6|   EricL                    |   86825 |     400 |folded|    |         |
+ 7|   Bryan Currie             |  133400 |   58900 |      |    |         |
+ 8|D  Ken Doss                 |   62000 |     400 |folded|    |         |
+ 9|>  Htr                      |   65075 |   58900 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/10/20 18:35:59! Dealing a new hand
+! 02/10/20 18:35:59! Everyone antes $400
+! 02/10/20 18:35:59! Htr blinds $1600
+! 02/10/20 18:35:59! Lana OBrien blinds $3200
+! 02/10/20 18:49:51! Rich Guidoboni folds
+! 02/10/20 18:49:51! JRX folds
+! 02/10/20 19:07:14! Buggzilla folds
+! 02/10/20 19:07:14! EricL folds
+! 02/10/20 19:14:29! Bryan Currie raises $3300 to $6500 total 
+! 02/10/20 19:14:29! Ken Doss folds
+! 02/10/20 19:29:29! Htr calls 
+! 02/10/20 19:35:35! Lana OBrien calls 
+
+! 02/10/20 19:35:35! Pot right ($22700), flopping/dealing/drawing cards
+! 02/10/20 19:35:35! 3 players
+! 02/10/20 19:35:35! Flopped cards: As 3d 9d
+! 02/10/20 21:43:08! Htr bets $9000 
+! 02/11/20 04:26:36! Lana OBrien folds
+! 02/11/20 05:02:29! Bryan Currie calls 
+
+! 02/11/20 05:02:29! Pot right ($40700), flopping/dealing/drawing cards
+! 02/11/20 05:02:29! 2 players
+! 02/11/20 05:02:29! Flopped card: 4c
+! 02/11/20 05:11:51! Htr bets $18000 
+! 02/11/20 05:14:35! Bryan Currie calls 
+
+! 02/11/20 05:14:35! Pot right ($76700), flopping/dealing/drawing cards
+! 02/11/20 05:14:35! 2 players
+! 02/11/20 05:14:35! Flopped card: 4s
+! 02/11/20 05:32:49! Htr bets $25000 
+! 02/11/20 06:16:30! Bryan Currie calls 
+! Hand over, current board is:  As 3d 9d 4c 4s
+! Bryan Currie             has: Kd 9c
+! Htr                      has: Qd Ac
+! Htr wins $126700 (net $67800) with Two Pair (A A 4 4 Q)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Lana OBrien              |  259100 |         |      |    |         |
+ 2|   Rich Guidoboni           |  461750 |         |      |    |         |
+ 4|   JRX                      |  210750 |         |      |    |         |
+ 5|   Buggzilla                |   97125 |         |      |    |         |
+ 6|   EricL                    |   86825 |         |      |    |         |
+ 7|   Bryan Currie             |  133400 |         |      |    |         |
+ 8|   Ken Doss                 |   62000 |         |      |    |         |
+ 9|D> Htr                      |  191775 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 182 players left in the tournament, 3 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c17.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+We are now over 30 days in round "c".  Automatic
+table breaking and live redraws have been disabled.
+We will play until one or more tables gets below six
+players.  When that happens all tables will finish
+the current hand and a full redraw will occur into
+the "d" round.
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 34
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

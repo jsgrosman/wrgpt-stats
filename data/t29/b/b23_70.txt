@@ -1,0 +1,131 @@
+Subject: [b23.10912] Holdem Game Broadcast Message(*)
+
+! Table b23, Hand 70, Day 60
+
+! jtk folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Twench                   |   72600 |    1100 |folded|    |         |
+ 2|   shinsook                 |  105900 |    6100 |folded|    |         |
+ 3|   Siri play Nickelback     |   93650 |     100 |folded|    |         |
+ 4|   Ed Barrett               |  125850 |     100 |folded|    |         |
+ 5|   jtk                      |   19925 |    6100 |folded|    |         |
+ 6|>  Sam Parazette            |   85000 |   16100 |      |    |         |
+ 7|   Larry Weinberg           |   44125 |     100 |folded|    |         |
+ 8|   Bryan Juliano            |   46575 |     100 |folded|    |         |
+ 9|D  heffmike                 |   51700 |   16100 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/01/20 10:22:54! Dealing a new hand
+! 01/01/20 10:22:54! Everyone antes $100
+! 01/01/20 10:22:54! Twench blinds $250
+! 01/01/20 10:22:54! shinsook blinds $500
+! 01/01/20 10:42:54! Siri play Nickelback folds
+! 01/01/20 10:42:54! Ed Barrett folds
+! 01/01/20 11:04:57! jtk calls 
+! 01/01/20 11:31:22! Sam Parazette raises $500 to $1000 total 
+! 01/01/20 11:59:07! Larry Weinberg folds
+! 01/01/20 11:59:07! Bryan Juliano folds
+! 01/01/20 12:06:42! heffmike calls 
+! 01/01/20 12:12:54! Twench calls 
+! 01/01/20 13:03:36! shinsook calls 
+! 01/01/20 13:07:06! jtk calls 
+
+! 01/01/20 13:07:06! Pot right ($5900), flopping/dealing/drawing cards
+! 01/01/20 13:07:06! 5 players
+! 01/01/20 13:07:06! Flopped cards: 2d 3d 4c
+! 01/01/20 13:26:35! Twench checks
+! 01/01/20 16:04:13! shinsook checks
+! 01/01/20 16:27:31! jtk checks
+! 01/01/20 16:28:42! Sam Parazette bets $5000 
+! 01/01/20 16:46:21! heffmike calls 
+! 01/01/20 18:24:47! Twench folds
+! 01/01/20 20:04:39! shinsook calls 
+! 01/01/20 20:22:08! jtk calls 
+
+! 01/01/20 20:22:08! Pot right ($25900), flopping/dealing/drawing cards
+! 01/01/20 20:22:08! 4 players
+! 01/01/20 20:22:08! Flopped card: 9c
+! 01/01/20 22:16:25! shinsook checks
+! 01/01/20 22:16:56! jtk checks
+! 01/01/20 22:18:15! Sam Parazette checks
+! 01/02/20 03:36:44! heffmike checks
+
+! 01/02/20 03:36:44! Pot right ($25900), flopping/dealing/drawing cards
+! 01/02/20 03:36:44! 4 players
+! 01/02/20 03:36:44! Flopped card: 2h
+! 01/02/20 12:48:42! shinsook checks
+! 01/02/20 14:31:14! jtk checks
+! 01/02/20 14:37:39! Sam Parazette bets $10000 
+! 01/02/20 17:15:59! heffmike calls 
+! 01/02/20 22:03:22! shinsook folds
+! 01/02/20 22:13:34! jtk folds
+! Hand over, current board is:  2d 3d 4c 9c 2h
+! Sam Parazette            has: Ah 2c
+! heffmike                 has: 5h 4h
+! Sam Parazette wins $45900 (net $29800) with Three of a Kind (2 2 2 A 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  Twench                   |   72600 |         |      |    |         |
+ 2|   shinsook                 |  105900 |         |      |    |         |
+ 3|   Siri play Nickelback     |   93650 |         |      |    |         |
+ 4|   Ed Barrett               |  125850 |         |      |    |         |
+ 5|   jtk                      |   19925 |         |      |    |         |
+ 6|>  Sam Parazette            |  130900 |         |      |    |         |
+ 7|   Larry Weinberg           |   44125 |         |      |    |         |
+ 8|   Bryan Juliano            |   46575 |         |      |    |         |
+ 9|   heffmike                 |   51700 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 343 players left in the tournament 
+! Table finished, waiting to redraw seats.
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b23.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+Tables still playing round "b" will finish
+the current hand.  Then a full redraw to "c"
+tables will be done.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 62
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

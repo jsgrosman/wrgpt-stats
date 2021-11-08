@@ -1,0 +1,109 @@
+Subject: [c1.10695] Holdem Game Broadcast Message(*)
+
+! Table c1, Hand 208, Day 91
+
+! BBLWOG calls 
+! Pot right ($247900), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 10h
+! Flopped card: 2s
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Nyte                     |   33250 |     300 |folded|    |         |
+ 3|>  BBLWOG                   |   14450 |  121550 |      |    |         |
+ 4|   Ryan Thomas              |  156700 |     300 |folded|    |         |
+ 5|D  Blackcove                |       0 |  121550 |all-in|    |         |
+ 6|V  Charlie Tuna             |  154750 |    1300 | 2 FEB|    |         |
+ 7|   Shari Silk               |  159000 |    2300 |folded|    |         |
+ 8|   Frank Russomanno         |  253900 |     300 |folded|    |         |
+ 9|   Frank O                  |  236825 |     300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/02/20 09:18:10! Dealing a new hand
+! 02/02/20 09:18:10! Everyone antes $300
+! 02/02/20 09:18:10! Charlie Tuna blinds $1000
+! 02/02/20 09:18:10! Shari Silk blinds $2000
+! 02/02/20 09:18:43! Frank Russomanno folds
+! 02/02/20 09:44:47! Frank O folds
+! 02/02/20 09:44:47! Nyte folds
+! 02/02/20 11:54:44! BBLWOG raises $6000 to $8000 total 
+! 02/02/20 12:08:09! Ryan Thomas folds
+! 02/02/20 12:32:00! Blackcove calls 
+! 02/02/20 12:32:00! Charlie Tuna is on vacation and folds
+! 02/02/20 12:36:40! Shari Silk folds
+
+! 02/02/20 12:36:40! Pot right ($21400), flopping/dealing/drawing cards
+! 02/02/20 12:36:40! 2 players
+! 02/02/20 12:36:40! Flopped cards: 6d Kh 9d
+! 02/02/20 14:31:06! BBLWOG bets $15000 
+! 02/02/20 14:45:24! Blackcove raises $98250 to $113250 total and is all in
+! 02/02/20 18:10:41! BBLWOG calls 
+
+! 02/02/20 18:10:41! Pot right ($247900), flopping/dealing/drawing cards
+! 02/02/20 18:10:41! 2 players, 1 all in
+! 02/02/20 18:10:41! Flopped card: 10h
+! 02/02/20 18:10:41! Flopped card: 2s
+! Hand over, current board is:  6d Kh 9d 10h 2s
+! BBLWOG                   has: Ad Jd
+! Blackcove                has: 5d 2d
+! Blackcove wins $247900 (net $126350) with One Pair (2 2 K 10 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Nyte                     |   33250 |         |      |    |         |
+ 3|>  BBLWOG                   |   14450 |         |      |    |         |
+ 4|   Ryan Thomas              |  156700 |         |      |    |         |
+ 5|   Blackcove                |  247900 |         |      |    |         |
+ 6|DV Charlie Tuna             |  154750 |         | 2 FEB|    |         |
+ 7|   Shari Silk               |  159000 |         |      |    |         |
+ 8|   Frank Russomanno         |  253900 |         |      |    |         |
+ 9|   Frank O                  |  236825 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 214 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c1.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 11
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

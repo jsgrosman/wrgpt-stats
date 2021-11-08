@@ -1,0 +1,121 @@
+Subject: [b41.10331] Holdem Game Broadcast Message(*)
+
+! Table b41, Hand 21, Day 21
+
+! jpawloski raises $36025 to $58650 total and is all in
+! Pot right ($131975), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped card: Qs
+! Flopped card: 4c
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   CountFlop                |   49825 |       0 |folded|    |         |
+ 2|   MacBond21                |       0 |   39375 |all-in|  2 |   95950 |
+ 3|D  DazedAndConfused         |   18800 |   16750 |folded|    |         |
+ 4|   Klod                     |  114275 |     150 |folded|    |         |
+ 5|   RunGoodRob               |   30975 |     300 |folded|    |         |
+ 6|   Rapidj                   |   50000 |       0 |folded|    |         |
+ 7|>  jpawloski                |       0 |   75400 |all-in|  1 |   36025 |
+ 8|   Commander Flanders       |   55075 |       0 |folded|    |         |
+ 9|   Vic Vega                 |   61875 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/23/19 15:32:13! Dealing a new hand
+! 11/23/19 15:32:13! No ante
+! 11/23/19 15:32:13! Klod blinds $150
+! 11/23/19 15:32:13! RunGoodRob blinds $300
+! 11/23/19 16:10:14! Rapidj folds
+! 11/23/19 16:12:22! jpawloski raises $900 to $1200 total 
+! 11/24/19 04:48:40! Commander Flanders folds
+! 11/24/19 04:48:40! Vic Vega folds
+! 11/24/19 04:48:40! CountFlop folds
+! 11/24/19 04:49:23! MacBond21 calls 
+! 11/24/19 04:49:23! DazedAndConfused raises $4050 to $5250 total 
+! 11/24/19 04:49:23! Klod folds
+! 11/24/19 06:46:13! RunGoodRob folds
+! 11/24/19 13:09:50! jpawloski calls 
+! 11/24/19 13:28:41! MacBond21 raises $11500 to $16750 total 
+! 11/24/19 15:25:49! DazedAndConfused calls 
+! 11/24/19 15:26:25! jpawloski calls 
+
+! 11/24/19 15:26:25! Pot right ($50700), flopping/dealing/drawing cards
+! 11/24/19 15:26:25! 3 players
+! 11/24/19 15:26:25! Flopped cards: Qc Kc 4h
+! 11/24/19 15:27:00! jpawloski checks
+! 11/24/19 15:37:28! MacBond21 bets $22625 and is all in
+! 11/24/19 15:37:28! DazedAndConfused folds
+! 11/24/19 15:37:53! jpawloski raises $36025 to $58650 total and is all in
+
+! 11/24/19 15:37:53! Pot right ($131975), flopping/dealing/drawing cards
+! 11/24/19 15:37:53! 2 players, 2 all in
+! 11/24/19 15:37:53! Flopped card: Qs
+! 11/24/19 15:37:53! Flopped card: 4c
+! Hand over, current board is:  Qc Kc 4h Qs 4c
+! MacBond21                has: Ah Ac
+! jpawloski                has: Ks Qh
+! Pot 1: uncalled $36025 returned to jpawloski
+! Pot 2: jpawloski wins $95950 with Full House (Q Q Q K K)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   CountFlop                |   49825 |         |      |    |         |
+ 3|   DazedAndConfused         |   18800 |         |      |    |         |
+ 4|D  Klod                     |  114275 |         |      |    |         |
+ 5|   RunGoodRob               |   30975 |         |      |    |         |
+ 6|   Rapidj                   |   50000 |         |      |    |         |
+ 7|>  jpawloski                |  131975 |         |      |    |         |
+ 8|   Commander Flanders       |   55075 |         |      |    |         |
+ 9|   Vic Vega                 |   61875 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! MacBond21 is eliminated!
+! 499 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b41.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that have not come to the table by the end
+of day 30 will be removed.
+
+Players that are away from the tables for 45 days 
+will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 4
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

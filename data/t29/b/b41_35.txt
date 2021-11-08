@@ -1,0 +1,124 @@
+Subject: [b41.10517] Holdem Game Broadcast Message(*)
+
+! Table b41, Hand 35, Day 33
+
+! DazedAndConfused calls 
+! Pot right ($94025), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: Ah
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   CountFlop                |   47050 |     325 |folded|    |         |
+ 2|   Righteous Indignation    |   53200 |      25 |folded|    |         |
+ 3|>  DazedAndConfused         |   13025 |   46625 |      |    |         |
+ 4|   Klod                     |  156200 |      25 |folded|    |         |
+ 5|   dave                     |   77350 |      25 |folded|    |         |
+ 6|   Plain Ed                 |   41275 |      25 |folded|    |         |
+ 7|   jpawloski                |  109550 |      25 |folded|    |         |
+ 8|D  Commander Flanders       |       0 |   46625 |all-in|    |         |
+ 9|   Vic Vega                 |  101100 |     325 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/05/19 16:04:04! Dealing a new hand
+! 12/05/19 16:04:04! Everyone antes $25
+! 12/05/19 16:04:04! Vic Vega blinds $150
+! 12/05/19 16:04:04! CountFlop blinds $300
+! 12/05/19 16:09:34! Righteous Indignation folds
+! 12/06/19 00:23:04! DazedAndConfused calls 
+! 12/06/19 00:23:04! Klod folds
+! 12/06/19 00:23:04! dave folds
+! 12/06/19 00:23:04! Plain Ed folds
+! 12/06/19 00:23:04! jpawloski folds
+! 12/06/19 04:45:51! Commander Flanders calls 
+! 12/06/19 05:44:42! Vic Vega calls 
+! 12/06/19 05:59:32! CountFlop checks
+
+! 12/06/19 05:59:32! Pot right ($1425), flopping/dealing/drawing cards
+! 12/06/19 05:59:32! 4 players
+! 12/06/19 05:59:32! Flopped cards: Qh 10h Kc
+! 12/06/19 06:06:07! Vic Vega checks
+! 12/06/19 06:14:31! CountFlop checks
+! 12/06/19 08:29:37! DazedAndConfused bets $1425 
+! 12/06/19 10:01:21! Commander Flanders calls 
+! 12/06/19 10:01:21! Vic Vega folds
+! 12/06/19 10:01:54! CountFlop folds
+
+! 12/06/19 10:01:54! Pot right ($4275), flopping/dealing/drawing cards
+! 12/06/19 10:01:54! 2 players
+! 12/06/19 10:01:54! Flopped card: 3s
+! 12/06/19 10:11:56! DazedAndConfused bets $4275 
+! 12/06/19 10:48:35! Commander Flanders raises $40600 to $44875 total and is all in
+! 12/06/19 11:06:32! DazedAndConfused calls 
+
+! 12/06/19 11:06:32! Pot right ($94025), flopping/dealing/drawing cards
+! 12/06/19 11:06:32! 2 players, 1 all in
+! 12/06/19 11:06:32! Flopped card: Ah
+! Hand over, current board is:  Qh 10h Kc 3s Ah
+! DazedAndConfused         has: 10s Kd
+! Commander Flanders       has: Jd Qc
+! Commander Flanders wins $94025 (net $47400) with Straight (A K Q J 10)
+! Klod                     reveals  5s 9d
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   CountFlop                |   47050 |         |      |    |         |
+ 2|   Righteous Indignation    |   53200 |         |      |    |         |
+ 3|>  DazedAndConfused         |   13025 |         |      |    |         |
+ 4|   Klod                     |  156200 |         |      |    |         |
+ 5|   dave                     |   77350 |         |      |    |         |
+ 6|   Plain Ed                 |   41275 |         |      |    |         |
+ 7|   jpawloski                |  109550 |         |      |    |         |
+ 8|   Commander Flanders       |   94025 |         |      |    |         |
+ 9|D  Vic Vega                 |  101100 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 451 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b41.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that have not come to the table by the end
+of day 30 will be removed.
+
+Players that are away from the tables for 45 days 
+will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

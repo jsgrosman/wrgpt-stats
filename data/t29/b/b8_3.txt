@@ -1,0 +1,118 @@
+Subject: [b8.10049] Holdem Game Broadcast Message(*)
+
+! Table b8, Hand 3, Day 4
+
+! TedTab checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   DublDown                 |   50000 |       0 |folded|    |         |
+ 2|   Theodore Chipmunk        |   49600 |       0 |folded|    |         |
+ 3|D  Dave McVay               |   49775 |       0 |folded|    |         |
+ 4|>  Michael Hunter           |   47900 |    1950 |      |    |         |
+ 5|   TedTab                   |   42250 |    1950 |      |    |         |
+ 6|   Sir Barlow               |   49150 |     450 |folded|    |         |
+ 7|   Mejjad                   |   49850 |     150 |folded|    |         |
+ 8|   Paul Stine               |   56975 |       0 |folded|    |         |
+ 9|   se4wong4                 |   50000 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/06/19 10:51:04! Dealing a new hand
+! 11/06/19 10:51:04! No ante
+! 11/06/19 10:51:04! Michael Hunter blinds $75
+! 11/06/19 10:51:04! TedTab blinds $150
+! 11/06/19 11:07:07! Sir Barlow calls 
+! 11/06/19 11:08:33! Mejjad calls 
+! 11/06/19 11:08:33! Paul Stine folds
+! 11/06/19 13:51:45! se4wong4 folds
+! 11/06/19 13:51:45! DublDown folds
+! 11/06/19 13:51:45! Theodore Chipmunk folds
+! 11/06/19 13:51:45! Dave McVay folds
+! 11/06/19 14:00:11! Michael Hunter calls 
+! 11/06/19 14:41:53! TedTab checks
+
+! 11/06/19 14:41:53! Pot right ($600), flopping/dealing/drawing cards
+! 11/06/19 14:41:53! 4 players
+! 11/06/19 14:41:53! Flopped cards: 5h 6s Jc
+! 11/06/19 15:01:03! Michael Hunter bets $300 
+! 11/06/19 15:49:16! TedTab calls 
+! 11/06/19 15:53:47! Sir Barlow calls 
+! 11/06/19 20:46:58! Mejjad folds
+
+! 11/06/19 20:46:58! Pot right ($1500), flopping/dealing/drawing cards
+! 11/06/19 20:46:58! 3 players
+! 11/06/19 20:46:58! Flopped card: 3h
+! 11/06/19 21:10:58! Michael Hunter checks
+! 11/07/19 05:26:57! TedTab bets $1500 
+! 11/07/19 06:53:48! Sir Barlow folds
+! 11/07/19 07:19:22! Michael Hunter calls 
+
+! 11/07/19 07:19:22! Pot right ($4500), flopping/dealing/drawing cards
+! 11/07/19 07:19:22! 2 players
+! 11/07/19 07:19:22! Flopped card: Jh
+! 11/07/19 12:10:46! Michael Hunter checks
+! 11/07/19 13:00:57! TedTab checks
+! Hand over, current board is:  5h 6s Jc 3h Jh
+! Michael Hunter           has: Js 10c
+! TedTab                   has: 6h 9d
+! Michael Hunter wins $4500 (net $2550) with Three of a Kind (J J J 10 6)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   DublDown                 |   50000 |         |      |    |         |
+ 2|   Theodore Chipmunk        |   49600 |         |      |    |         |
+ 3|   Dave McVay               |   49775 |         |      |    |         |
+ 4|D> Michael Hunter           |   52400 |         |      |    |         |
+ 5|   TedTab                   |   42250 |         |      |    |         |
+ 6|   Sir Barlow               |   49150 |         |      |    |         |
+ 7|   Mejjad                   |   49850 |         |      |    |         |
+ 8|   Paul Stine               |   56975 |         |      |    |         |
+ 9|   se4wong4                 |   50000 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 536 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b8.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+This is the REAL WRGPT29.
+Changes to office hours and email addresses do not carry over from the
+practice round.
+You have been assigned a new ID and the round is "b".
+
+Good luck.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

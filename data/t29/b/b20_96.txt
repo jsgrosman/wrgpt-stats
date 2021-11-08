@@ -1,0 +1,107 @@
+Subject: [b20.11217] Holdem Game Broadcast Message(*)
+
+! Table b20, Hand 96, Day 60
+
+! CRStals folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   jasong                   |  103425 |     350 |folded|    |         |
+ 2|   Elmis                    |   94600 |    1600 |folded|    |         |
+ 4|>  Ben Buchwald             |   35975 |    9600 |      |    |         |
+ 6|   Jim Anderson             |  112250 |     100 |folded|    |         |
+ 8|   cedwards170              |  106225 |     100 |folded|    |         |
+ 9|D  CRStals                  |  226325 |    3600 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/01/20 12:20:04! Dealing a new hand
+! 01/01/20 12:20:04! Everyone antes $100
+! 01/01/20 12:20:04! jasong blinds $250
+! 01/01/20 12:20:04! Elmis blinds $500
+! 01/01/20 13:10:05! Ben Buchwald raises $1000 to $1500 total 
+! 01/01/20 13:55:46! Jim Anderson folds
+! 01/01/20 19:35:34! cedwards170 folds
+! 01/01/20 19:41:14! CRStals calls 
+! 01/01/20 19:41:14! jasong folds
+! 01/02/20 00:06:51! Elmis calls 
+
+! 01/02/20 00:06:51! Pot right ($5350), flopping/dealing/drawing cards
+! 01/02/20 00:06:51! 3 players
+! 01/02/20 00:06:51! Flopped cards: 8d Ks 9c
+! 01/02/20 00:07:27! Elmis checks
+! 01/02/20 05:17:21! Ben Buchwald bets $2000 
+! 01/02/20 06:43:26! CRStals calls 
+! 01/02/20 07:00:17! Elmis folds
+
+! 01/02/20 07:00:17! Pot right ($9350), flopping/dealing/drawing cards
+! 01/02/20 07:00:17! 2 players
+! 01/02/20 07:00:17! Flopped card: Kc
+! 01/02/20 08:42:46! Ben Buchwald bets $6000 
+! 01/02/20 08:59:32! CRStals folds
+! Hand over, no showdown
+! Current board is:  8d Ks 9c Kc ?
+! Ben Buchwald wins $15350 (net $5750)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  jasong                   |  103425 |         |      |    |         |
+ 2|   Elmis                    |   94600 |         |      |    |         |
+ 4|>  Ben Buchwald             |   51325 |         |      |    |         |
+ 6|   Jim Anderson             |  112250 |         |      |    |         |
+ 8|   cedwards170              |  106225 |         |      |    |         |
+ 9|   CRStals                  |  226325 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 344 players left in the tournament 
+! Table finished, waiting to redraw seats.
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b20.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+After day 45 of the tourney there will be no
+more live redraws or breaking tables.  Tables
+will be allowed to run until a table gets to 
+five or fewer players at which time all tables
+will finish the current hand and a full, random
+redraw to all new tables will be done.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 61
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

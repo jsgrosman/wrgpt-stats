@@ -1,0 +1,119 @@
+Subject: [b3.10236] Holdem Game Broadcast Message(*)
+
+! Table b3, Hand 18, Day 12
+
+! beowulf calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   beowulf                  |   37175 |    8075 |      |    |         |
+ 2|   JohnnyMac                |   65925 |     150 |folded|    |         |
+ 3|>  Robert Christ            |   41100 |    8075 |      |    |         |
+ 4|   Anonymous                |   58000 |    1075 |folded|    |         |
+ 5|   Dave Weiss               |   48050 |       0 |folded|    |         |
+ 6|   Kit Woolsey              |   47500 |       0 |folded|    |         |
+ 7|   Another player           |   43475 |       0 |folded|    |         |
+ 8|   Otto                     |   39900 |    1075 |folded|    |         |
+ 9|D  Dj Coates                |   50425 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/15/19 06:18:10! Dealing a new hand
+! 11/15/19 06:18:10! No ante
+! 11/15/19 06:18:10! beowulf blinds $75
+! 11/15/19 06:18:10! JohnnyMac blinds $150
+! 11/15/19 09:04:49! Robert Christ raises $300 to $450 total 
+! 11/15/19 10:58:28! Anonymous calls 
+! 11/15/19 10:58:28! Dave Weiss folds
+! 11/15/19 13:29:58! Kit Woolsey folds
+! 11/15/19 13:29:58! Another player folds
+! 11/15/19 13:33:06! Otto calls 
+! 11/15/19 13:33:06! Dj Coates folds
+! 11/15/19 14:58:57! beowulf raises $625 to $1075 total 
+! 11/15/19 14:58:57! JohnnyMac folds
+! 11/15/19 15:16:04! Robert Christ calls 
+! 11/15/19 15:17:54! Anonymous calls 
+! 11/15/19 15:52:34! Otto calls 
+
+! 11/15/19 15:52:34! Pot right ($4450), flopping/dealing/drawing cards
+! 11/15/19 15:52:34! 4 players
+! 11/15/19 15:52:34! Flopped cards: 9c 4h 4d
+! 11/15/19 15:57:33! beowulf bets $1000 
+! 11/15/19 16:03:22! Robert Christ calls 
+! 11/15/19 16:03:22! Anonymous folds
+! 11/15/19 16:26:47! Otto folds
+
+! 11/15/19 16:26:47! Pot right ($6450), flopping/dealing/drawing cards
+! 11/15/19 16:26:47! 2 players
+! 11/15/19 16:26:47! Flopped card: 6c
+! 11/15/19 16:36:25! beowulf bets $1000 
+! 11/15/19 16:39:41! Robert Christ calls 
+
+! 11/15/19 16:39:41! Pot right ($8450), flopping/dealing/drawing cards
+! 11/15/19 16:39:41! 2 players
+! 11/15/19 16:39:41! Flopped card: 7c
+! 11/15/19 16:40:50! beowulf checks
+! 11/15/19 16:42:07! Robert Christ bets $5000 
+! 11/15/19 16:46:42! beowulf calls 
+! Hand over, current board is:  9c 4h 4d 6c 7c
+! beowulf                  has: 10s 10c
+! Robert Christ            has: Kc Jc
+! Robert Christ wins $18450 (net $10375) with Club Flush (K J 9 7 6)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  beowulf                  |   37175 |         |      |    |         |
+ 2|   JohnnyMac                |   65925 |         |      |    |         |
+ 3|>  Robert Christ            |   59550 |         |      |    |         |
+ 4|   Anonymous                |   58000 |         |      |    |         |
+ 5|   Dave Weiss               |   48050 |         |      |    |         |
+ 6|   Kit Woolsey              |   47500 |         |      |    |         |
+ 7|   Another player           |   43475 |         |      |    |         |
+ 8|   Otto                     |   39900 |         |      |    |         |
+ 9|   Dj Coates                |   50425 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 520 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b3.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Good luck.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

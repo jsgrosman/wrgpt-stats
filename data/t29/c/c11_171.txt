@@ -1,0 +1,115 @@
+Subject: [c11.10381] Holdem Game Broadcast Message(*)
+
+! Table c11, Hand 171, Day 86
+
+! All In a daze work calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Zerksauce                |   64050 |    1300 |folded|    |         |
+ 2|>  Clark Olson              |   30525 |   23300 |      |    |         |
+ 3|   Dalai Pookah             |   49425 |     300 |folded|    |         |
+ 4|   denimmined               |   77350 |     300 |folded|    |         |
+ 5|   Slimbob                  |   82100 |     300 |folded|    |         |
+ 6|   not66                    |   81925 |     300 |folded|    |         |
+ 7|   Tony Gurney              |  110750 |     300 |folded|    |         |
+ 8|   Nightshift6              |   64950 |     300 |folded|    |         |
+ 9|D  All In a daze work       |  156975 |   23300 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/28/20 07:00:16! Dealing a new hand
+! 01/28/20 07:00:16! Everyone antes $300
+! 01/28/20 07:00:16! Zerksauce blinds $1000
+! 01/28/20 07:00:16! Clark Olson blinds $2000
+! 01/28/20 07:22:06! Dalai Pookah folds
+! 01/28/20 11:24:02! denimmined folds
+! 01/28/20 11:24:02! Slimbob folds
+! 01/28/20 11:24:02! not66 folds
+! 01/28/20 11:24:02! Tony Gurney folds
+! 01/28/20 11:25:09! Nightshift6 folds
+! 01/28/20 12:42:40! All In a daze work raises $3000 to $5000 total 
+! 01/28/20 12:42:40! Zerksauce folds
+! 01/28/20 13:04:00! Clark Olson calls 
+
+! 01/28/20 13:04:00! Pot right ($13700), flopping/dealing/drawing cards
+! 01/28/20 13:04:00! 2 players
+! 01/28/20 13:04:00! Flopped cards: Ad Qs Qc
+! 01/28/20 13:04:53! Clark Olson checks
+! 01/28/20 13:07:45! All In a daze work checks
+
+! 01/28/20 13:07:45! Pot right ($13700), flopping/dealing/drawing cards
+! 01/28/20 13:07:45! 2 players
+! 01/28/20 13:07:45! Flopped card: Jh
+! 01/28/20 13:21:09! Clark Olson bets $6000 
+! 01/28/20 13:21:43! All In a daze work calls 
+
+! 01/28/20 13:21:43! Pot right ($25700), flopping/dealing/drawing cards
+! 01/28/20 13:21:43! 2 players
+! 01/28/20 13:21:43! Flopped card: 2h
+! 01/28/20 13:26:04! Clark Olson bets $12000 
+! 01/28/20 13:27:32! All In a daze work calls 
+! Hand over, current board is:  Ad Qs Qc Jh 2h
+! Clark Olson              has: Ks 7d
+! All In a daze work       has: As 3h
+! All In a daze work wins $49700 (net $26400) with Two Pair (A A Q Q J)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  Zerksauce                |   64050 |         |      |    |         |
+ 2|>  Clark Olson              |   30525 |         |      |    |         |
+ 3|   Dalai Pookah             |   49425 |         |      |    |         |
+ 4|   denimmined               |   77350 |         |      |    |         |
+ 5|   Slimbob                  |   82100 |         |      |    |         |
+ 6|   not66                    |   81925 |         |      |    |         |
+ 7|   Tony Gurney              |  110750 |         |      |    |         |
+ 8|   Nightshift6              |   64950 |         |      |    |         |
+ 9|   All In a daze work       |  206675 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! denimmined timed out during this hand
+! 236 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c11.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 7
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

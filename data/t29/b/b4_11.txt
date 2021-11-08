@@ -1,0 +1,110 @@
+Subject: [b4.10130] Holdem Game Broadcast Message(*)
+
+! Table b4, Hand 11, Day 11
+
+! Jason Feng calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Cruella                  |   69700 |       0 |folded|    |         |
+ 2|D  ActionBob                |   49700 |       0 |folded|    |         |
+ 4|>  Brent Moore              |   52525 |    2700 |      |    |         |
+ 5|   Jason Feng               |   47300 |    2700 |      |    |         |
+ 6|   Dalai Pookah             |   48225 |       0 |folded|    |         |
+ 7|   ADB Foldem               |   44475 |       0 |folded|    |         |
+ 8|   khudwrx03                |   32725 |       0 |folded|    |         |
+ 9|   Nixed                    |   50550 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/13/19 12:12:33! Dealing a new hand
+! 11/13/19 12:12:33! No ante
+! 11/13/19 12:12:33! Brent Moore blinds $75
+! 11/13/19 12:12:33! Jason Feng blinds $150
+! 11/13/19 12:41:45! Dalai Pookah folds
+! 11/13/19 16:16:38! ADB Foldem folds
+! 11/13/19 16:32:42! khudwrx03 folds
+! 11/14/19 05:23:43! Nixed folds
+! 11/14/19 05:23:43! Cruella folds
+! 11/14/19 05:23:43! ActionBob folds
+! 11/14/19 05:49:13! Brent Moore raises $150 to $300 total 
+! 11/14/19 07:01:54! Jason Feng calls 
+
+! 11/14/19 07:01:54! Pot right ($600), flopping/dealing/drawing cards
+! 11/14/19 07:01:54! 2 players
+! 11/14/19 07:01:54! Flopped cards: 3h 2h Ad
+! 11/14/19 08:03:53! Brent Moore checks
+! 11/14/19 08:14:48! Jason Feng checks
+
+! 11/14/19 08:14:48! Pot right ($600), flopping/dealing/drawing cards
+! 11/14/19 08:14:48! 2 players
+! 11/14/19 08:14:48! Flopped card: 10h
+! 11/14/19 08:24:33! Brent Moore bets $600 
+! 11/14/19 09:19:24! Jason Feng calls 
+
+! 11/14/19 09:19:24! Pot right ($1800), flopping/dealing/drawing cards
+! 11/14/19 09:19:24! 2 players
+! 11/14/19 09:19:24! Flopped card: As
+! 11/14/19 09:59:57! Brent Moore bets $1800 
+! 11/14/19 11:01:02! Jason Feng calls 
+! Hand over, current board is:  3h 2h Ad 10h As
+! Brent Moore              has: 2s 8c
+! Jason Feng               has: Qs Kd
+! Brent Moore wins $5400 (net $2700) with Two Pair (A A 2 2 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Cruella                  |   69700 |         |      |    |         |
+ 2|   ActionBob                |   49700 |         |      |    |         |
+ 4|D> Brent Moore              |   57925 |         |      |    |         |
+ 5|   Jason Feng               |   47300 |         |      |    |         |
+ 6|   Dalai Pookah             |   48225 |         |      |    |         |
+ 7|   ADB Foldem               |   44475 |         |      |    |         |
+ 8|   khudwrx03                |   32725 |         |      |    |         |
+ 9|   Nixed                    |   50550 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 526 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b4.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Good luck.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 3
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

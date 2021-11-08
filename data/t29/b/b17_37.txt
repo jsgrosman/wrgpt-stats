@@ -1,0 +1,117 @@
+Subject: [b17.10582] Holdem Game Broadcast Message(*)
+
+! Table b17, Hand 37, Day 36
+
+! toronado13 calls - side pot
+! Pot right ($214050), flopping/dealing/drawing cards
+! 3 players, 3 all in
+! Flopped cards: 8h 8s 5s
+! Flopped card: 8c
+! Flopped card: Jc
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  Spidurman                |       0 |   45725 |all-in|  3 |  137625 |
+ 2|   Jeff Palmucci            |       0 |  101275 |all-in|  1 |   34675 |
+ 3|   Ian Collier              |   44175 |     325 |folded|    |         |
+ 4|>  toronado13               |       0 |   66600 |all-in|  2 |   41750 |
+ 5|   ebock                    |   98250 |      25 |folded|    |         |
+ 6|   Mr Generic               |   94150 |      25 |folded|    |         |
+ 7|   Kurt Kirner              |   49650 |      25 |folded|    |         |
+ 8|   Samuel L. Bronkowitz     |   43225 |      25 |folded|    |         |
+ 9|   Slimbob                  |   75975 |      25 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/08/19 11:03:35! Dealing a new hand
+! 12/08/19 11:03:35! Everyone antes $25
+! 12/08/19 11:03:35! Jeff Palmucci blinds $150
+! 12/08/19 11:03:35! Ian Collier blinds $300
+! 12/09/19 04:34:10! toronado13 calls 
+! 12/09/19 04:34:10! ebock folds
+! 12/09/19 06:31:42! Mr Generic folds
+! 12/09/19 06:31:42! Kurt Kirner folds
+! 12/09/19 06:31:42! Samuel L. Bronkowitz folds
+! 12/09/19 06:31:42! Slimbob folds
+! 12/09/19 06:56:09! Spidurman raises $800 to $1100 total 
+! 12/09/19 08:23:41! Jeff Palmucci raises $2050 to $3150 total 
+! 12/09/19 08:34:03! Ian Collier folds
+! 12/09/19 08:40:41! toronado13 calls 
+! 12/09/19 11:39:19! Spidurman raises $42550 to $45700 total and is all in
+! 12/09/19 11:44:07! Jeff Palmucci raises $55550 to $101250 total and is all in
+! 12/09/19 11:48:49! toronado13 calls - side pot
+
+! 12/09/19 11:48:49! Pot right ($214050), flopping/dealing/drawing cards
+! 12/09/19 11:48:49! 3 players, 3 all in
+! 12/09/19 11:48:49! Flopped cards: 8h 8s 5s
+! 12/09/19 11:48:49! Flopped card: 8c
+! 12/09/19 11:48:49! Flopped card: Jc
+! Hand over, current board is:  8h 8s 5s 8c Jc
+! Spidurman                has: As Qh
+! Jeff Palmucci            has: Ah Ac
+! toronado13               has: Qs Qc
+! Pot 1: uncalled $34675 returned to Jeff Palmucci
+! Pot 2: Jeff Palmucci wins $41750 with Full House (8 8 8 A A)
+! Pot 3: Jeff Palmucci wins $137625 with Full House (8 8 8 A A)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|D  Jeff Palmucci            |  214050 |         |      |    |         |
+ 3|   Ian Collier              |   44175 |         |      |    |         |
+ 5|   ebock                    |   98250 |         |      |    |         |
+ 6|   Mr Generic               |   94150 |         |      |    |         |
+ 7|   Kurt Kirner              |   49650 |         |      |    |         |
+ 8|   Samuel L. Bronkowitz     |   43225 |         |      |    |         |
+ 9|   Slimbob                  |   75975 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Spidurman is eliminated!
+! toronado13 is eliminated!
+! 441 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b17.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that have not come to the table by the end
+of day 30 will be removed.
+
+Players that are away from the tables for 45 days 
+will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,128 @@
+Subject: [b13.10536] Holdem Game Broadcast Message(*)
+
+! Table b13, Hand 44, Day 45
+
+! reelbigbeagles checks
+! Per Starback checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Kevin Mackey             |   52775 |     450 |folded|    |         |
+ 2|   Krystian 321adniak       |   86450 |      50 |folded|    |         |
+ 3|   SJL                      |   72750 |     450 |folded|    |         |
+ 4|   Tom A                    |   90100 |     450 |folded|    |         |
+ 5|   Per Starback             |   23050 |    9450 |      |    |         |
+ 6|   scjansen                 |   35775 |     450 |folded|    |         |
+ 7|   Guyute                   |  120175 |     450 |folded|    |         |
+ 8|D  FFigawi                  |   45350 |      50 |folded|    |         |
+ 9|>  reelbigbeagles           |   48450 |    9450 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/17/19 11:59:04! Dealing a new hand
+! 12/17/19 11:59:04! Everyone antes $50
+! 12/17/19 11:59:04! reelbigbeagles blinds $200
+! 12/17/19 11:59:04! Kevin Mackey blinds $400
+! 12/17/19 12:08:52! Krystian 321adniak folds
+! 12/17/19 12:09:29! SJL calls 
+! 12/17/19 14:30:57! Tom A calls 
+! 12/17/19 14:44:28! Per Starback calls 
+! 12/17/19 14:44:28! scjansen calls 
+! 12/17/19 18:46:15! Guyute calls 
+! 12/17/19 18:51:45! FFigawi folds
+! 12/18/19 09:36:16! reelbigbeagles calls 
+! 12/18/19 09:46:21! Kevin Mackey checks
+
+! 12/18/19 09:46:21! Pot right ($3250), flopping/dealing/drawing cards
+! 12/18/19 09:46:21! 7 players
+! 12/18/19 09:46:21! Flopped cards: 6s 6d 6c
+! 12/18/19 10:25:13! reelbigbeagles bets $2000 
+! 12/18/19 10:54:57! Kevin Mackey folds
+! 12/18/19 10:55:34! SJL folds
+! 12/18/19 11:06:37! Tom A folds
+! 12/18/19 11:12:04! Per Starback raises $7000 to $9000 total 
+! 12/18/19 11:15:35! scjansen folds
+! 12/18/19 13:10:17! Guyute folds
+! 12/18/19 13:27:46! reelbigbeagles calls 
+
+! 12/18/19 13:27:46! Pot right ($21250), flopping/dealing/drawing cards
+! 12/18/19 13:27:46! 2 players
+! 12/18/19 13:27:46! Flopped card: 9c
+! 12/18/19 13:28:24! reelbigbeagles checks
+! 12/18/19 13:50:04! Per Starback checks
+
+! 12/18/19 13:50:04! Pot right ($21250), flopping/dealing/drawing cards
+! 12/18/19 13:50:04! 2 players
+! 12/18/19 13:50:04! Flopped card: 7s
+! 12/18/19 14:30:42! reelbigbeagles checks
+! 12/18/19 14:30:42! Per Starback checks
+! Hand over, current board is:  6s 6d 6c 9c 7s
+! Per Starback             has: 3h 3c
+! reelbigbeagles           has: 2h 2d
+! Per Starback wins $21250 (net $11800) with Full House (6 6 6 3 3)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Kevin Mackey             |   52775 |         |      |    |         |
+ 2|   Krystian 321adniak       |   86450 |         |      |    |         |
+ 3|   SJL                      |   72750 |         |      |    |         |
+ 4|   Tom A                    |   90100 |         |      |    |         |
+ 5|   Per Starback             |   44300 |         |      |    |         |
+ 6|   scjansen                 |   35775 |         |      |    |         |
+ 7|   Guyute                   |  120175 |         |      |    |         |
+ 8|   FFigawi                  |   45350 |         |      |    |         |
+ 9|D> reelbigbeagles           |   48450 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 397 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b13.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+After day 45 of the tourney there will be no
+more live redraws or breaking tables.  Tables
+will be allowed to run until a table gets to 
+five or fewer players at which time all tables
+will finish the current hand and a full, random
+redraw to all new tables will be done.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

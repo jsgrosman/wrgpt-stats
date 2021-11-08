@@ -1,0 +1,115 @@
+Subject: [c19.10662] Holdem Game Broadcast Message(*)
+
+! Table c19, Hand 203, Day 98
+
+! Virginia Slims checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Jason Feng               |   92400 |    1300 |folded|    |         |
+ 2|>  Thomas Gabrysch          |  320800 |    2300 |      |    |         |
+ 3|   Nixed                    |  203700 |     300 |folded|    |         |
+ 4|   Virginia Slims           |   39650 |    2300 |      |    |         |
+ 7|   Richard Rognlie          |  174175 |     300 |folded|    |         |
+ 8|   Troutboy Garrett         |  340125 |     300 |folded|    |         |
+ 9|D  BT                       |   99725 |     300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/08/20 19:17:31! Dealing a new hand
+! 02/08/20 19:17:31! Everyone antes $300
+! 02/08/20 19:17:31! Jason Feng blinds $1000
+! 02/08/20 19:17:31! Thomas Gabrysch blinds $2000
+! 02/08/20 20:24:09! Nixed folds
+! 02/08/20 20:38:42! Virginia Slims calls 
+! 02/08/20 20:38:42! Richard Rognlie folds
+! 02/08/20 21:26:53! Troutboy Garrett folds
+! 02/09/20 09:29:08! BT folds
+! 02/09/20 09:29:08! Jason Feng folds
+! 02/09/20 09:48:57! Thomas Gabrysch checks
+
+! 02/09/20 09:48:57! Pot right ($7100), flopping/dealing/drawing cards
+! 02/09/20 09:48:57! 2 players
+! 02/09/20 09:48:57! Flopped cards: 5d 8h 8d
+! 02/09/20 09:50:21! Thomas Gabrysch checks
+! 02/09/20 10:13:43! Virginia Slims checks
+
+! 02/09/20 10:13:43! Pot right ($7100), flopping/dealing/drawing cards
+! 02/09/20 10:13:43! 2 players
+! 02/09/20 10:13:43! Flopped card: Kc
+! 02/09/20 10:17:52! Thomas Gabrysch checks
+! 02/09/20 10:18:17! Virginia Slims checks
+
+! 02/09/20 10:18:17! Pot right ($7100), flopping/dealing/drawing cards
+! 02/09/20 10:18:17! 2 players
+! 02/09/20 10:18:17! Flopped card: 6h
+! 02/09/20 10:20:39! Thomas Gabrysch checks
+! 02/09/20 13:37:55! Virginia Slims checks
+! Hand over, current board is:  5d 8h 8d Kc 6h
+! Thomas Gabrysch          has: As 7h
+! Virginia Slims           has: Js Ad
+! Virginia Slims wins $7100 (net $4800) with One Pair (8 8 A K J)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  Jason Feng               |   92400 |         |      |    |         |
+ 2|>  Thomas Gabrysch          |  320800 |         |      |    |         |
+ 3|   Nixed                    |  203700 |         |      |    |         |
+ 4|   Virginia Slims           |   46750 |         |      |    |         |
+ 7|   Richard Rognlie          |  174175 |         |      |    |         |
+ 8|   Troutboy Garrett         |  340125 |         |      |    |         |
+ 9|   BT                       |   99725 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 188 players left in the tournament, 2 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c19.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+We are now over 30 days in round "c".  Automatic
+table breaking and live redraws have been disabled.
+We will play until one or more tables gets below six
+players.  When that happens all tables will finish
+the current hand and a full redraw will occur into
+the "d" round.
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 28
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

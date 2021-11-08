@@ -1,0 +1,132 @@
+Subject: [c5.10173] Holdem Game Broadcast Message(*)
+
+% :(
+% On Mon, Jan 13, 2020 at 9:31 AM <dealer@wrgpt.org> wrote:
+% (dealer suppressed lines starting with '>' or ':')
+! -- Morgan --
+_____________________________________________________________________________
+
+! Table c5, Hand 163, Day 71
+
+! Morgan folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  lawrence s               |   39100 |    1600 |folded|    |         |
+ 2|   Statistical Tie          |   69850 |     350 |folded|    |         |
+ 3|>  Dave Palm                |   75075 |   42200 |      |    |         |
+ 4|   Morgan                   |   40900 |   21100 |folded|    |         |
+ 5|   PMedhurst                |   77250 |     100 |folded|    |         |
+ 6|   Bob R                    |   77000 |     100 |folded|    |         |
+ 7|   shaneless                |   95875 |     100 |folded|    |         |
+ 8|   Axel Foley               |  162200 |     100 |folded|    |         |
+ 9|   FFigawi                  |   88700 |     100 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/12/20 11:27:51! Dealing a new hand
+! 01/12/20 11:27:51! Everyone antes $100
+! 01/12/20 11:27:51! Statistical Tie blinds $250
+! 01/12/20 11:27:51! Dave Palm blinds $500
+! 01/12/20 12:28:28! Morgan raises $1000 to $1500 total 
+! 01/12/20 16:30:09! PMedhurst folds
+! 01/12/20 16:30:09! Bob R folds
+! 01/12/20 16:30:09! shaneless folds
+! 01/12/20 16:30:09! Axel Foley folds
+! 01/12/20 16:30:09! FFigawi folds
+! 01/12/20 18:43:58! lawrence s calls 
+! 01/12/20 18:43:58! Statistical Tie folds
+! 01/12/20 21:21:39! Dave Palm calls 
+
+! 01/12/20 21:21:39! Pot right ($5650), flopping/dealing/drawing cards
+! 01/12/20 21:21:39! 3 players
+! 01/12/20 21:21:39! Flopped cards: 3s 10s Jd
+! 01/12/20 21:22:20! Dave Palm checks
+! 01/13/20 02:07:49! Morgan bets $3000 
+! 01/13/20 04:19:01! lawrence s folds
+! 01/13/20 05:05:45! Dave Palm calls 
+
+! 01/13/20 05:05:45! Pot right ($11650), flopping/dealing/drawing cards
+! 01/13/20 05:05:45! 2 players
+! 01/13/20 05:05:45! Flopped card: 5s
+! 01/13/20 05:06:40! Dave Palm checks
+! 01/13/20 05:25:13! Morgan bets $6000 
+! 01/13/20 05:28:16! Dave Palm raises $10500 to $16500 total 
+! 01/13/20 05:33:42! Morgan calls 
+
+! 01/13/20 05:33:42! Pot right ($44650), flopping/dealing/drawing cards
+! 01/13/20 05:33:42! 2 players
+! 01/13/20 05:33:42! Flopped card: 2h
+! 01/13/20 05:39:54! Dave Palm bets $21100 
+_____________________________________________________________________________
+
+! :(
+! On Mon, Jan 13, 2020 at 9:31 AM <dealer@wrgpt.org> wrote:
+! (dealer suppressed lines starting with '>' or ':')
+! -- Morgan --
+_____________________________________________________________________________
+
+! 01/13/20 07:30:43! Morgan folds
+! Hand over, no showdown
+! Current board is:  3s 10s Jd 5s 2h
+! Dave Palm wins $65750 (net $23550)
+! Antes and blinds go up
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   lawrence s               |   39100 |         |      |    |         |
+ 2|D  Statistical Tie          |   69850 |         |      |    |         |
+ 3|>  Dave Palm                |  140825 |         |      |    |         |
+ 4|   Morgan                   |   40900 |         |      |    |         |
+ 5|   PMedhurst                |   77250 |         |      |    |         |
+ 6|   Bob R                    |   77000 |         |      |    |         |
+ 7|   shaneless                |   95875 |         |      |    |         |
+ 8|   Axel Foley               |  162200 |         |      |    |         |
+ 9|   FFigawi                  |   88700 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 311 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c5.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

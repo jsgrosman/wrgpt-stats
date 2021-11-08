@@ -1,0 +1,114 @@
+Subject: [c21.10391] Holdem Game Broadcast Message(*)
+
+! Table c21, Hand 182, Day 80
+
+! L.A. Johnson calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   CRStals                  |  263850 |     200 |folded|    |         |
+ 2|   L.A. Johnson             |  199400 |    4700 |      |    |         |
+ 3|D  Isaac Newton             |   57500 |     200 |folded|    |         |
+ 4|>  bozo                     |  100300 |    4700 |      |    |         |
+ 5|V  Cody Jones               |   23350 |    1400 |<AWOL>|    |         |
+ 6|V  Redbird                  |   86750 |     200 |26 Jan|    |         |
+ 7|   Olof Siverbo             |   93750 |     200 |folded|    |         |
+ 8|   Another player           |   55200 |     200 |folded|    |         |
+ 9|   Dave McVay               |   19325 |     200 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/22/20 06:57:08! Dealing a new hand
+! 01/22/20 06:57:08! Everyone antes $200
+! 01/22/20 06:57:08! bozo blinds $600
+! 01/22/20 06:57:08! Cody Jones blinds $1200
+! 01/22/20 06:57:08! Redbird is on vacation and folds
+! 01/22/20 07:30:26! Olof Siverbo folds
+! 01/22/20 07:30:26! Another player folds
+! 01/22/20 07:35:19! Dave McVay folds
+! 01/22/20 08:18:43! CRStals folds
+! 01/22/20 09:04:52! L.A. Johnson raises $1300 to $2500 total 
+! 01/22/20 09:39:44! Isaac Newton folds
+! 01/22/20 09:41:35! bozo calls 
+! 01/22/20 09:41:35! Cody Jones is on vacation and folds
+
+! 01/22/20 09:41:35! Pot right ($8000), flopping/dealing/drawing cards
+! 01/22/20 09:41:35! 2 players
+! 01/22/20 09:41:35! Flopped cards: Ah Kh 5h
+! 01/22/20 09:42:03! bozo checks
+! 01/22/20 12:18:43! L.A. Johnson checks
+
+! 01/22/20 12:18:43! Pot right ($8000), flopping/dealing/drawing cards
+! 01/22/20 12:18:43! 2 players
+! 01/22/20 12:18:43! Flopped card: Kd
+! 01/22/20 12:20:10! bozo checks
+! 01/22/20 12:38:55! L.A. Johnson checks
+
+! 01/22/20 12:38:55! Pot right ($8000), flopping/dealing/drawing cards
+! 01/22/20 12:38:55! 2 players
+! 01/22/20 12:38:55! Flopped card: 3c
+! 01/22/20 12:39:43! bozo bets $2000 
+! 01/22/20 12:49:56! L.A. Johnson calls 
+! Hand over, current board is:  Ah Kh 5h Kd 3c
+! L.A. Johnson             has: 7s 7d
+! bozo                     has: 8d 6d
+! L.A. Johnson wins $12000 (net $7300) with Two Pair (K K 7 7 A)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   CRStals                  |  263850 |         |      |    |         |
+ 2|   L.A. Johnson             |  211400 |         |      |    |         |
+ 3|   Isaac Newton             |   57500 |         |      |    |         |
+ 4|D> bozo                     |  100300 |         |      |    |         |
+ 5|V  Cody Jones               |   23350 |         |<AWOL>|    |         |
+ 6|V  Redbird                  |   86750 |         |26 Jan|    |         |
+ 7|   Olof Siverbo             |   93750 |         |      |    |         |
+ 8|   Another player           |   55200 |         |      |    |         |
+ 9|   Dave McVay               |   19325 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 267 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c21.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 11
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

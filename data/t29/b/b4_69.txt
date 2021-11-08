@@ -1,0 +1,123 @@
+Subject: [b4.10753] Holdem Game Broadcast Message(*)
+
+! Table b4, Hand 69, Day 50
+
+! ADB Foldem checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Cruella                  |   48600 |     450 |folded|    |         |
+ 2|   TomasL                   |  100825 |      50 |folded|    |         |
+ 3|   Neurosion                |   76525 |      50 |folded|    |         |
+ 4|   Brent Moore              |  129575 |      50 |folded|    |         |
+ 5|   Jason Feng               |   41925 |      50 |folded|    |         |
+ 6|   Dalai Pookah             |   43975 |      50 |folded|    |         |
+ 7|   ADB Foldem               |   39100 |    7100 |      |    |         |
+ 8|D  BluffaloBill             |   40100 |      50 |folded|    |         |
+ 9|>  Nixed                    |   57225 |    7100 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/22/19 10:39:21! Dealing a new hand
+! 12/22/19 10:39:21! Everyone antes $50
+! 12/22/19 10:39:21! Nixed blinds $200
+! 12/22/19 10:39:21! Cruella blinds $400
+! 12/22/19 10:44:32! TomasL folds
+! 12/22/19 11:35:42! Neurosion folds
+! 12/22/19 11:35:42! Brent Moore folds
+! 12/22/19 12:16:27! Jason Feng folds
+! 12/22/19 12:25:21! Dalai Pookah folds
+! 12/22/19 12:31:55! ADB Foldem raises $650 to $1050 total 
+! 12/22/19 16:14:37! BluffaloBill folds
+! 12/22/19 16:19:16! Nixed calls 
+! 12/22/19 16:19:16! Cruella folds
+
+! 12/22/19 16:19:16! Pot right ($2950), flopping/dealing/drawing cards
+! 12/22/19 16:19:16! 2 players
+! 12/22/19 16:19:16! Flopped cards: 7h 10d 10s
+! 12/22/19 20:57:49! Nixed checks
+! 12/22/19 21:01:43! ADB Foldem bets $2000 
+! 12/23/19 01:34:40! Nixed calls 
+
+! 12/23/19 01:34:40! Pot right ($6950), flopping/dealing/drawing cards
+! 12/23/19 01:34:40! 2 players
+! 12/23/19 01:34:40! Flopped card: 2s
+! 12/23/19 01:36:13! Nixed checks
+! 12/23/19 01:46:41! ADB Foldem bets $4000 
+! 12/23/19 02:33:41! Nixed calls 
+
+! 12/23/19 02:33:41! Pot right ($14950), flopping/dealing/drawing cards
+! 12/23/19 02:33:41! 2 players
+! 12/23/19 02:33:41! Flopped card: 9s
+! 12/23/19 02:34:49! Nixed checks
+! 12/23/19 09:50:27! ADB Foldem checks
+! Hand over, current board is:  7h 10d 10s 2s 9s
+! ADB Foldem               has: Qs Qh
+! Nixed                    has: 4d 4c
+! ADB Foldem wins $14950 (net $7850) with Two Pair (Q Q 10 10 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Cruella                  |   48600 |         |      |    |         |
+ 2|   TomasL                   |  100825 |         |      |    |         |
+ 3|   Neurosion                |   76525 |         |      |    |         |
+ 4|   Brent Moore              |  129575 |         |      |    |         |
+ 5|   Jason Feng               |   41925 |         |      |    |         |
+ 6|   Dalai Pookah             |   43975 |         |      |    |         |
+ 7|   ADB Foldem               |   54050 |         |      |    |         |
+ 8|   BluffaloBill             |   40100 |         |      |    |         |
+ 9|D> Nixed                    |   57225 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 379 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b4.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+After day 45 of the tourney there will be no
+more live redraws or breaking tables.  Tables
+will be allowed to run until a table gets to 
+five or fewer players at which time all tables
+will finish the current hand and a full, random
+redraw to all new tables will be done.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 26
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

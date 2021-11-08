@@ -1,0 +1,138 @@
+Subject: [b14.10823] Holdem Game Broadcast Message(*)
+
+% Not what I was drawing for,
+% but I sort of made a hand.
+% .
+% .
+% .
+% I'm going to call and hope
+% you're betting one pair.
+! -- grizz --
+_____________________________________________________________________________
+
+! Table b14, Hand 62, Day 44
+
+! grizz calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Benjamin Irving          |   61675 |     450 |folded|    |         |
+ 2|   Frank Lujack             |   53100 |      50 |folded|    |         |
+ 3|   FeedTheHerd              |   31075 |      50 |folded|    |         |
+ 4|   TBMeyer42                |       0 |   49900 |all-in|    |         |
+ 5|   Frank Irwin              |   37675 |      50 |folded|    |         |
+ 7|   fuhzee                   |   32975 |      50 |folded|    |         |
+ 8|D  Jokerdpo                 |   81050 |    1250 |folded|    |         |
+ 9|>  grizz                    |   50750 |   49900 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/16/19 18:33:28! Dealing a new hand
+! 12/16/19 18:33:28! Everyone antes $50
+! 12/16/19 18:33:28! grizz blinds $200
+! 12/16/19 18:33:28! Benjamin Irving blinds $400
+! 12/16/19 18:42:25! Frank Lujack folds
+! 12/16/19 18:42:25! FeedTheHerd folds
+! 12/16/19 18:42:25! TBMeyer42 calls 
+! 12/16/19 18:42:25! Frank Irwin folds
+! 12/16/19 21:06:47! fuhzee folds
+! 12/17/19 04:00:58! Jokerdpo raises $800 to $1200 total 
+! 12/17/19 04:53:21! grizz calls 
+! 12/17/19 08:05:15! Benjamin Irving folds
+! 12/17/19 08:22:38! TBMeyer42 calls 
+
+! 12/17/19 08:22:38! Pot right ($4400), flopping/dealing/drawing cards
+! 12/17/19 08:22:38! 3 players
+! 12/17/19 08:22:38! Flopped cards: 10d 2h Qd
+! 12/17/19 08:30:01! grizz checks
+! 12/17/19 08:30:01! TBMeyer42 bets $8000 
+! 12/17/19 08:35:19! Jokerdpo folds
+! 12/17/19 08:47:45! grizz calls 
+
+! 12/17/19 08:47:45! Pot right ($20400), flopping/dealing/drawing cards
+! 12/17/19 08:47:45! 2 players
+! 12/17/19 08:47:45! Flopped card: 5h
+! 12/17/19 08:49:24! grizz checks
+! 12/17/19 08:52:39! TBMeyer42 bets $16000 
+! 12/17/19 10:18:12! grizz calls 
+
+! 12/17/19 10:18:12! Pot right ($52400), flopping/dealing/drawing cards
+! 12/17/19 10:18:12! 2 players
+! 12/17/19 10:18:12! Flopped card: 4h
+! 12/17/19 10:18:57! grizz checks
+! 12/17/19 12:44:05! TBMeyer42 bets $24650 and is all in
+_____________________________________________________________________________
+
+! Not what I was drawing for,
+! but I sort of made a hand.
+! .
+! .
+! .
+! I'm going to call and hope
+! you're betting one pair.
+! -- grizz --
+_____________________________________________________________________________
+
+! 12/17/19 12:48:08! grizz calls 
+! Hand over, current board is:  10d 2h Qd 5h 4h
+! TBMeyer42                has: Js Ad
+! grizz                    has: 5d 4d
+! grizz wins $101700 (net $51800) with Two Pair (5 5 4 4 Q)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Benjamin Irving          |   61675 |         |      |    |         |
+ 2|   Frank Lujack             |   53100 |         |      |    |         |
+ 3|   FeedTheHerd              |   31075 |         |      |    |         |
+ 5|   Frank Irwin              |   37675 |         |      |    |         |
+ 7|   fuhzee                   |   32975 |         |      |    |         |
+ 8|   Jokerdpo                 |   81050 |         |      |    |         |
+ 9|D> grizz                    |  152450 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! TBMeyer42 is eliminated!
+! 401 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b14.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables for 45 days 
+will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 12
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

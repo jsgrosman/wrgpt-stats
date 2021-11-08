@@ -1,0 +1,123 @@
+Subject: [b7.10068] Holdem Game Broadcast Message(*)
+
+! Table b7, Hand 5, Day 6
+
+! Svante Wester checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|V  Michigan                 |   50000 |       0 | NoSho|    |         |
+ 2|   fattychubs               |   49775 |       0 |folded|    |         |
+ 3|   Rick Brown               |   50075 |       0 |folded|    |         |
+ 4|   Michael Proteau          |   49325 |     450 |folded|    |         |
+ 5|D  Svante Wester            |   46925 |    1350 |      |    |         |
+ 6|>  d-alamo                  |   50525 |    1350 |      |    |         |
+ 7|   Dragon                   |   49775 |     450 |folded|    |         |
+ 8|   Andrew Nelson            |   50000 |       0 |folded|    |         |
+ 9|   coming                   |   50000 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/08/19 05:14:08! Dealing a new hand
+! 11/08/19 05:14:08! No ante
+! 11/08/19 05:14:08! d-alamo blinds $75
+! 11/08/19 05:14:08! Dragon blinds $150
+! 11/08/19 05:15:06! Andrew Nelson folds
+! 11/08/19 05:15:06! coming is on vacation and folds
+! 11/08/19 05:15:06! Michigan is on vacation and folds
+! 11/08/19 05:56:48! fattychubs folds
+! 11/08/19 05:56:48! Rick Brown folds
+! 11/08/19 09:02:45! Michael Proteau raises $300 to $450 total 
+! 11/08/19 09:03:47! Svante Wester calls 
+! 11/08/19 11:56:49! d-alamo calls 
+! 11/08/19 12:07:28! Dragon calls 
+
+! 11/08/19 12:07:28! Pot right ($1800), flopping/dealing/drawing cards
+! 11/08/19 12:07:28! 4 players
+! 11/08/19 12:07:28! Flopped cards: 10d 7s 5h
+! 11/08/19 12:31:31! d-alamo checks
+! 11/08/19 14:01:47! Dragon checks
+! 11/08/19 16:09:46! Michael Proteau checks
+! 11/08/19 16:14:59! Svante Wester checks
+
+! 11/08/19 16:14:59! Pot right ($1800), flopping/dealing/drawing cards
+! 11/08/19 16:14:59! 4 players
+! 11/08/19 16:14:59! Flopped card: Ac
+! 11/08/19 16:25:22! coming is back from vacation
+! 11/08/19 16:36:27! d-alamo checks
+! 11/08/19 17:37:41! Dragon checks
+! 11/08/19 18:45:47! Michael Proteau checks
+! 11/08/19 18:45:47! Svante Wester bets $900 
+! 11/08/19 18:49:14! d-alamo calls 
+! 11/08/19 18:54:43! Dragon folds
+! 11/08/19 19:19:46! Michael Proteau folds
+
+! 11/08/19 19:19:46! Pot right ($3600), flopping/dealing/drawing cards
+! 11/08/19 19:19:46! 2 players
+! 11/08/19 19:19:46! Flopped card: 5c
+! 11/09/19 08:01:32! d-alamo checks
+! 11/09/19 09:11:26! Svante Wester checks
+! Hand over, current board is:  10d 7s 5h Ac 5c
+! Svante Wester            has: As 3d
+! d-alamo                  has: Qs Ah
+! d-alamo wins $3600 (net $2250) with Two Pair (A A 5 5 Q)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|V  Michigan                 |   50000 |         | NoSho|    |         |
+ 2|   fattychubs               |   49775 |         |      |    |         |
+ 3|   Rick Brown               |   50075 |         |      |    |         |
+ 4|   Michael Proteau          |   49325 |         |      |    |         |
+ 5|   Svante Wester            |   46925 |         |      |    |         |
+ 6|D> d-alamo                  |   54125 |         |      |    |         |
+ 7|   Dragon                   |   49775 |         |      |    |         |
+ 8|   Andrew Nelson            |   50000 |         |      |    |         |
+ 9|   coming                   |   50000 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! coming went on vacation until 25 nov
+! 534 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b7.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+This is the REAL WRGPT29.
+Changes to office hours and email addresses do not carry over from the
+practice round.
+You have been assigned a new ID and the round is "b".
+
+Good luck.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 3
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

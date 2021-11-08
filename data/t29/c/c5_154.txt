@@ -1,0 +1,118 @@
+Subject: [c5.10084] Holdem Game Broadcast Message(*)
+
+! Table c5, Hand 154, Day 66
+
+! shaneless checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  lawrence s               |   39150 |    1350 |folded|    |         |
+ 2|>  Statistical Tie          |   66200 |   22350 |      |    |         |
+ 3|   Dave Palm                |  116675 |     600 |folded|    |         |
+ 4|   Morgan                   |   64800 |     100 |folded|    |         |
+ 5|   PMedhurst                |   75900 |     100 |folded|    |         |
+ 6|   Bob R                    |   78900 |     100 |folded|    |         |
+ 7|   shaneless                |   48975 |   22350 |      |    |         |
+ 8|   Axel Foley               |  171900 |     100 |folded|    |         |
+ 9|   FFigawi                  |   82050 |     100 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/08/20 08:15:49! Dealing a new hand
+! 01/08/20 08:15:49! Everyone antes $100
+! 01/08/20 08:15:49! Statistical Tie blinds $250
+! 01/08/20 08:15:49! Dave Palm blinds $500
+! 01/08/20 09:38:04! Morgan folds
+! 01/08/20 10:15:56! PMedhurst folds
+! 01/08/20 10:15:56! Bob R folds
+! 01/08/20 10:17:09! shaneless raises $750 to $1250 total 
+! 01/08/20 10:21:29! Axel Foley folds
+! 01/08/20 10:21:29! FFigawi folds
+! 01/08/20 10:21:29! lawrence s calls 
+! 01/08/20 10:57:46! Statistical Tie raises $4000 to $5250 total 
+! 01/08/20 11:08:34! Dave Palm folds
+! 01/08/20 11:26:28! shaneless calls 
+! 01/08/20 11:26:28! lawrence s folds
+
+! 01/08/20 11:26:28! Pot right ($13150), flopping/dealing/drawing cards
+! 01/08/20 11:26:28! 2 players
+! 01/08/20 11:26:28! Flopped cards: Ad 3s 8h
+! 01/08/20 11:40:41! Statistical Tie checks
+! 01/08/20 11:42:22! shaneless bets $7000 
+! 01/08/20 11:43:16! Statistical Tie calls 
+
+! 01/08/20 11:43:16! Pot right ($27150), flopping/dealing/drawing cards
+! 01/08/20 11:43:16! 2 players
+! 01/08/20 11:43:16! Flopped card: Qc
+! 01/08/20 11:44:04! Statistical Tie checks
+! 01/08/20 11:49:21! shaneless bets $10000 
+! 01/08/20 11:50:24! Statistical Tie calls 
+
+! 01/08/20 11:50:24! Pot right ($47150), flopping/dealing/drawing cards
+! 01/08/20 11:50:24! 2 players
+! 01/08/20 11:50:24! Flopped card: 4h
+! 01/08/20 11:51:03! Statistical Tie checks
+! 01/08/20 11:53:30! shaneless checks
+! Hand over, current board is:  Ad 3s 8h Qc 4h
+! Statistical Tie          has: Kd Kc
+! shaneless                has: As 7h
+! shaneless wins $47150 (net $24800) with One Pair (A A Q 8 7)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   lawrence s               |   39150 |         |      |    |         |
+ 2|D> Statistical Tie          |   66200 |         |      |    |         |
+ 3|   Dave Palm                |  116675 |         |      |    |         |
+ 4|   Morgan                   |   64800 |         |      |    |         |
+ 5|   PMedhurst                |   75900 |         |      |    |         |
+ 6|   Bob R                    |   78900 |         |      |    |         |
+ 7|   shaneless                |   96125 |         |      |    |         |
+ 8|   Axel Foley               |  171900 |         |      |    |         |
+ 9|   FFigawi                  |   82050 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 324 players left in the tournament, 2 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c5.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 12
+Live redraw in progress:
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

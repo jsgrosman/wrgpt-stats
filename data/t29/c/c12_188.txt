@@ -1,0 +1,116 @@
+Subject: [c12.10555] Holdem Game Broadcast Message(*)
+
+! Table c12, Hand 188, Day 78
+
+! grizz checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Stephen Wong             |  229700 |     800 |folded|    |         |
+ 2|   Srfndoc                  |   91550 |    1400 |folded|    |         |
+ 3|   docdanger                |  142800 |     200 |folded|    |         |
+ 4|>  Matthew                  |   75875 |   10975 |      |    |         |
+ 5|   grizz                    |  178850 |   10975 |      |    |         |
+ 6|   Chris Leslie             |   37675 |     200 |folded|    |         |
+ 7|   Brian Cooper             |   51050 |     200 |folded|    |         |
+ 8|   Donald Neilson           |   49875 |     200 |folded|    |         |
+ 9|D  jasong                   |   67975 |     200 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/19/20 15:19:02! Dealing a new hand
+! 01/19/20 15:19:02! Everyone antes $200
+! 01/19/20 15:19:02! Stephen Wong blinds $600
+! 01/19/20 15:19:02! Srfndoc blinds $1200
+! 01/19/20 15:41:21! docdanger folds
+! 01/19/20 16:54:28! Matthew raises $1800 to $3000 total 
+! 01/19/20 21:12:23! grizz calls 
+! 01/19/20 21:12:23! Chris Leslie folds
+! 01/19/20 21:12:23! Brian Cooper folds
+! 01/19/20 21:12:23! Donald Neilson folds
+! 01/19/20 21:12:23! jasong folds
+! 01/19/20 22:02:04! Stephen Wong folds
+! 01/20/20 07:20:31! Srfndoc folds
+
+! 01/20/20 07:20:31! Pot right ($9600), flopping/dealing/drawing cards
+! 01/20/20 07:20:31! 2 players
+! 01/20/20 07:20:31! Flopped cards: 7s 9d 4d
+! 01/20/20 07:31:08! Matthew checks
+! 01/20/20 07:45:35! grizz bets $2775 
+! 01/20/20 08:30:17! Matthew calls 
+
+! 01/20/20 08:30:17! Pot right ($15150), flopping/dealing/drawing cards
+! 01/20/20 08:30:17! 2 players
+! 01/20/20 08:30:17! Flopped card: 10s
+! 01/20/20 08:30:53! Matthew checks
+! 01/20/20 08:35:19! grizz bets $5000 
+! 01/20/20 09:25:55! Matthew calls 
+
+! 01/20/20 09:25:55! Pot right ($25150), flopping/dealing/drawing cards
+! 01/20/20 09:25:55! 2 players
+! 01/20/20 09:25:55! Flopped card: Jc
+! 01/20/20 09:27:21! Matthew checks
+! 01/20/20 09:29:29! grizz checks
+! Hand over, current board is:  7s 9d 4d 10s Jc
+! Matthew                  has: Kh Qc
+! grizz                    has: 9h 9c
+! Matthew wins $25150 (net $14175) with Straight (K Q J 10 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  Stephen Wong             |  229700 |         |      |    |         |
+ 2|   Srfndoc                  |   91550 |         |      |    |         |
+ 3|   docdanger                |  142800 |         |      |    |         |
+ 4|>  Matthew                  |  101025 |         |      |    |         |
+ 5|   grizz                    |  178850 |         |      |    |         |
+ 6|   Chris Leslie             |   37675 |         |      |    |         |
+ 7|   Brian Cooper             |   51050 |         |      |    |         |
+ 8|   Donald Neilson           |   49875 |         |      |    |         |
+ 9|   jasong                   |   67975 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 278 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c12.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

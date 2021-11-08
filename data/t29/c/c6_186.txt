@@ -1,0 +1,116 @@
+Subject: [c6.10428] Holdem Game Broadcast Message(*)
+
+! Table c6, Hand 186, Day 85
+
+! jpawloski checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Elmis                    |   85300 |    2300 |folded|    |         |
+ 2|   Dino Bravo               |  138475 |     300 |folded|    |         |
+ 3|   FingerCramp              |   27850 |    2300 |folded|    |         |
+ 4|   TRC Expert               |   70650 |     300 |folded|    |         |
+ 5|   Neil Boyce               |   36325 |       0 |New   |    |         |
+ 6|   Samueladams              |   44825 |     300 |folded|    |         |
+ 7|   Wrongfellow              |   84650 |     300 |folded|    |         |
+ 8|D  jpawloski                |  109100 |   17300 |      |    |         |
+ 9|>  Mark Ito                 |   96850 |   17300 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/27/20 08:55:35! Dealing a new hand
+! 01/27/20 08:55:35! Everyone antes $300
+! 01/27/20 08:55:35! Mark Ito blinds $1000
+! 01/27/20 08:55:35! Elmis blinds $2000
+! 01/27/20 09:00:10! Dino Bravo folds
+! 01/27/20 09:04:20! FingerCramp calls 
+! 01/27/20 10:57:29! TRC Expert folds
+! 01/27/20 10:57:29! Samueladams folds
+! 01/27/20 13:35:10! New player added to the table: Neil Boyce
+! 01/27/20 14:05:42! Wrongfellow folds
+! 01/27/20 14:06:51! jpawloski calls 
+! 01/27/20 14:06:51! Mark Ito calls 
+! 01/27/20 14:08:13! Elmis checks
+
+! 01/27/20 14:08:13! Pot right ($10400), flopping/dealing/drawing cards
+! 01/27/20 14:08:13! 4 players
+! 01/27/20 14:08:13! Flopped cards: 3s 9h 4c
+! 01/27/20 14:11:07! Mark Ito bets $5000 
+! 01/27/20 14:12:07! Elmis folds
+! 01/27/20 14:13:33! FingerCramp folds
+! 01/27/20 14:15:43! jpawloski calls 
+
+! 01/27/20 14:15:43! Pot right ($20400), flopping/dealing/drawing cards
+! 01/27/20 14:15:43! 2 players
+! 01/27/20 14:15:43! Flopped card: Js
+! 01/27/20 14:17:59! Mark Ito bets $10000 
+! 01/27/20 14:18:34! jpawloski calls 
+
+! 01/27/20 14:18:34! Pot right ($40400), flopping/dealing/drawing cards
+! 01/27/20 14:18:34! 2 players
+! 01/27/20 14:18:34! Flopped card: 4h
+! 01/27/20 14:21:24! Mark Ito checks
+! 01/27/20 14:22:18! jpawloski checks
+! Hand over, current board is:  3s 9h 4c Js 4h
+! jpawloski                has: 9s Kh
+! Mark Ito                 has: Qd 9c
+! jpawloski wins $40400 (net $23100) with Two Pair (9 9 4 4 K)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Elmis                    |   85300 |         |      |    |         |
+ 2|   Dino Bravo               |  138475 |         |      |    |         |
+ 3|   FingerCramp              |   27850 |         |      |    |         |
+ 4|   TRC Expert               |   70650 |         |      |    |         |
+ 5|   Neil Boyce               |   36325 |         |      |    |         |
+ 6|   Samueladams              |   44825 |         |      |    |         |
+ 7|   Wrongfellow              |   84650 |         |      |    |         |
+ 8|   jpawloski                |  149500 |         |      |    |         |
+ 9|D> Mark Ito                 |   96850 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 244 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c6.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 12
+Live redraw in progress:
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

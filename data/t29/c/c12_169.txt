@@ -1,0 +1,126 @@
+Subject: [c12.10321] Holdem Game Broadcast Message(*)
+
+! Table c12, Hand 169, Day 70
+
+! Srfndoc folds
+! Pot right ($473675), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped card: 8h
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Stephen Wong             |       0 |  104450 |all-in|  2 |  226550 |
+ 2|>  Srfndoc                  |   58650 |   12675 |folded|    |         |
+ 3|   docdanger                |   96500 |    1475 |folded|    |         |
+ 4|   Zbigniew                 |   22950 |     100 |folded|    |         |
+ 5|   grizz                    |       0 |  351575 |all-in|  1 |  247125 |
+ 6|   Chris Leslie             |   42525 |    1475 |folded|    |         |
+ 7|   Brian Cooper             |   58550 |     100 |folded|    |         |
+ 8|D  Donald Neilson           |   67325 |    1475 |folded|    |         |
+ 9|   jasong                   |   86575 |     350 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/12/20 09:14:34! Dealing a new hand
+! 01/12/20 09:14:34! Everyone antes $100
+! 01/12/20 09:14:34! jasong blinds $250
+! 01/12/20 09:14:34! Stephen Wong blinds $500
+! 01/12/20 09:15:10! Srfndoc calls 
+! 01/12/20 10:30:25! docdanger calls 
+! 01/12/20 10:30:25! Zbigniew folds
+! 01/12/20 13:10:00! grizz raises $875 to $1375 total 
+! 01/12/20 13:20:11! Chris Leslie calls 
+! 01/12/20 13:20:11! Brian Cooper folds
+! 01/12/20 13:20:51! Donald Neilson calls 
+! 01/12/20 13:20:51! jasong folds
+! 01/12/20 13:27:19! Stephen Wong calls 
+! 01/12/20 13:27:44! Srfndoc calls 
+! 01/12/20 14:05:19! docdanger calls 
+
+! 01/12/20 14:05:19! Pot right ($9400), flopping/dealing/drawing cards
+! 01/12/20 14:05:19! 6 players
+! 01/12/20 14:05:19! Flopped cards: 6d 7s 4c
+! 01/12/20 14:08:12! Stephen Wong checks
+! 01/12/20 14:09:29! Srfndoc bets $1200 
+! 01/12/20 14:27:54! docdanger folds
+! 01/12/20 15:26:23! grizz calls 
+! 01/12/20 16:27:28! Chris Leslie folds
+! 01/12/20 16:45:55! Donald Neilson folds
+! 01/12/20 17:09:33! Stephen Wong calls 
+
+! 01/12/20 17:09:33! Pot right ($13000), flopping/dealing/drawing cards
+! 01/12/20 17:09:33! 3 players
+! 01/12/20 17:09:33! Flopped card: Ac
+! 01/12/20 17:11:20! Stephen Wong bets $10000 
+! 01/12/20 17:57:40! Srfndoc calls 
+! 01/12/20 18:03:37! grizz raises $338900 to $348900 total and is all in
+! 01/12/20 19:25:36! Stephen Wong calls - side pot
+! 01/12/20 20:20:13! Srfndoc folds
+
+! 01/12/20 20:20:13! Pot right ($473675), flopping/dealing/drawing cards
+! 01/12/20 20:20:13! 2 players, 2 all in
+! 01/12/20 20:20:13! Flopped card: 8h
+! Hand over, current board is:  6d 7s 4c Ac 8h
+! Stephen Wong             has: 6h Ad
+! grizz                    has: As Ks
+! Pot 1: uncalled $247125 returned to grizz
+! Pot 2: Stephen Wong wins $226550 with Two Pair (A A 6 6 8)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Stephen Wong             |  226550 |         |      |    |         |
+ 2|>  Srfndoc                  |   58650 |         |      |    |         |
+ 3|   docdanger                |   96500 |         |      |    |         |
+ 4|   Zbigniew                 |   22950 |         |      |    |         |
+ 5|   grizz                    |  247125 |         |      |    |         |
+ 6|   Chris Leslie             |   42525 |         |      |    |         |
+ 7|   Brian Cooper             |   58550 |         |      |    |         |
+ 8|   Donald Neilson           |   67325 |         |      |    |         |
+ 9|D  jasong                   |   86575 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 311 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c12.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

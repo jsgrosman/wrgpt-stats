@@ -1,0 +1,113 @@
+Subject: [c31.10097] Holdem Game Broadcast Message(*)
+
+! Table c31, Hand 153, Day 65
+
+! beacon bot calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  SJL                      |   42400 |   20900 |      |    |         |
+ 2|   coming                   |  126050 |     600 |folded|    |         |
+ 4|   Bacon                    |   47975 |     100 |folded|    |         |
+ 5|   altidude6202             |  146425 |     100 |folded|    |         |
+ 6|   Mybanjo                  |   32650 |     100 |folded|    |         |
+ 7|   shinsook                 |  108850 |     100 |folded|    |         |
+ 8|   Andyd                    |   76725 |     100 |folded|    |         |
+ 9|D  beacon bot               |  260975 |   20900 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/06/20 20:39:58! Dealing a new hand
+! 01/06/20 20:39:58! Everyone antes $100
+! 01/06/20 20:39:58! SJL blinds $250
+! 01/06/20 20:39:58! coming blinds $500
+! 01/06/20 20:40:58! Bacon folds
+! 01/06/20 21:29:12! altidude6202 folds
+! 01/06/20 21:29:12! Mybanjo folds
+! 01/06/20 21:38:13! shinsook folds
+! 01/06/20 21:39:26! Andyd folds
+! 01/06/20 21:48:06! beacon bot calls 
+! 01/07/20 03:54:37! SJL calls 
+! 01/07/20 03:54:37! coming checks
+
+! 01/07/20 03:54:37! Pot right ($2300), flopping/dealing/drawing cards
+! 01/07/20 03:54:37! 3 players
+! 01/07/20 03:54:37! Flopped cards: 3c 3s Kc
+! 01/07/20 03:55:20! SJL bets $2000 
+! 01/07/20 03:55:20! coming folds
+! 01/07/20 05:11:28! beacon bot calls 
+
+! 01/07/20 05:11:28! Pot right ($6300), flopping/dealing/drawing cards
+! 01/07/20 05:11:28! 2 players
+! 01/07/20 05:11:28! Flopped card: Qs
+! 01/07/20 05:12:32! SJL bets $6300 
+! 01/07/20 05:15:17! beacon bot calls 
+
+! 01/07/20 05:15:17! Pot right ($18900), flopping/dealing/drawing cards
+! 01/07/20 05:15:17! 2 players
+! 01/07/20 05:15:17! Flopped card: Ah
+! 01/07/20 05:18:22! SJL bets $12000 
+! 01/07/20 05:25:38! beacon bot calls 
+! Hand over, current board is:  3c 3s Kc Qs Ah
+! SJL                      has: Kh 8c
+! beacon bot               has: Kd Jc
+! SJL wins $21450 (net $550) with Two Pair (K K 3 3 A)
+! beacon bot wins $21450 (net $550) with Two Pair (K K 3 3 A)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D> SJL                      |   63850 |         |      |    |         |
+ 2|   coming                   |  126050 |         |      |    |         |
+ 4|   Bacon                    |   47975 |         |      |    |         |
+ 5|   altidude6202             |  146425 |         |      |    |         |
+ 6|   Mybanjo                  |   32650 |         |      |    |         |
+ 7|   shinsook                 |  108850 |         |      |    |         |
+ 8|   Andyd                    |   76725 |         |      |    |         |
+ 9|   beacon bot               |  282425 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 334 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c31.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

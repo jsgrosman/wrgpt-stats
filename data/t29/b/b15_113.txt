@@ -1,0 +1,121 @@
+Subject: [b15.11556] Holdem Game Broadcast Message(*)
+
+! Table b15, Hand 113, Day 60
+
+! JakeyD calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Floyd H. McKay           |       0 |   31025 |all-in|    |         |
+ 3|   BigElmo                  |   36575 |     100 |folded|    |         |
+ 4|   TrayRacer                |   87300 |     100 |folded|    |         |
+ 5|D> JakeyD                   |   13425 |   31025 |      |    |         |
+ 6|   Bob The Butcher          |   94550 |    1400 |folded|    |         |
+ 7|   robo                     |   41300 |     600 |folded|    |         |
+ 8|   Simon McAndrews          |    7400 |     100 |folded|    |         |
+ 9|   Nyte                     |   41325 |     100 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/01/20 13:43:32! Dealing a new hand
+! 01/01/20 13:43:32! Everyone antes $100
+! 01/01/20 13:43:32! Bob The Butcher blinds $250
+! 01/01/20 13:43:32! robo blinds $500
+! 01/01/20 13:56:04! Simon McAndrews folds
+! 01/01/20 14:10:40! Nyte folds
+! 01/01/20 14:23:16! Floyd H. McKay calls 
+! 01/01/20 15:10:30! BigElmo folds
+! 01/01/20 15:10:30! TrayRacer folds
+! 01/01/20 15:16:06! JakeyD raises $800 to $1300 total 
+! 01/01/20 17:06:43! Bob The Butcher calls 
+! 01/01/20 19:26:17! robo folds
+! 01/01/20 21:01:44! Floyd H. McKay calls 
+
+! 01/01/20 21:01:44! Pot right ($5200), flopping/dealing/drawing cards
+! 01/01/20 21:01:44! 3 players
+! 01/01/20 21:01:44! Flopped cards: 3h Kc 5d
+! 01/02/20 03:44:20! Bob The Butcher checks
+! 01/02/20 05:11:19! Floyd H. McKay bets $2600 
+! 01/02/20 05:56:32! JakeyD calls 
+! 01/02/20 06:29:22! Bob The Butcher folds
+
+! 01/02/20 06:29:22! Pot right ($10400), flopping/dealing/drawing cards
+! 01/02/20 06:29:22! 2 players
+! 01/02/20 06:29:22! Flopped card: 5c
+! 01/02/20 06:57:45! Floyd H. McKay bets $6050 
+! 01/02/20 06:59:15! JakeyD calls 
+
+! 01/02/20 06:59:15! Pot right ($22500), flopping/dealing/drawing cards
+! 01/02/20 06:59:15! 2 players
+! 01/02/20 06:59:15! Flopped card: 4s
+! 01/02/20 07:04:15! Floyd H. McKay bets $20975 and is all in
+! 01/02/20 07:06:12! JakeyD calls 
+! Hand over, current board is:  3h Kc 5d 5c 4s
+! Floyd H. McKay           has: Ah 5h
+! JakeyD                   has: 10s Kd
+! Floyd H. McKay wins $64450 (net $33425) with Three of a Kind (5 5 5 A K)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Floyd H. McKay           |   64450 |         |      |    |         |
+ 3|   BigElmo                  |   36575 |         |      |    |         |
+ 4|   TrayRacer                |   87300 |         |      |    |         |
+ 5|>  JakeyD                   |   13425 |         |      |    |         |
+ 6|D  Bob The Butcher          |   94550 |         |      |    |         |
+ 7|   robo                     |   41300 |         |      |    |         |
+ 8|   Simon McAndrews          |    7400 |         |      |    |         |
+ 9|   Nyte                     |   41325 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 346 players left in the tournament, 9 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b15.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+After day 45 of the tourney there will be no
+more live redraws or breaking tables.  Tables
+will be allowed to run until a table gets to 
+five or fewer players at which time all tables
+will finish the current hand and a full, random
+redraw to all new tables will be done.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 59
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

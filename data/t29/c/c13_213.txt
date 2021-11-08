@@ -1,0 +1,117 @@
+Subject: [c13.10810] Holdem Game Broadcast Message(*)
+
+! Table c13, Hand 213, Day 99
+
+! Dr. Flush bets $20000 
+! Bobby the Worm folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   TommyO                   |  147125 |    9400 |folded|    |         |
+ 3|   Ronnie Snyder            |   88550 |     400 |folded|    |         |
+ 4|   Boaty McBoatface         |  104875 |     400 |folded|    |         |
+ 5|   Bobby the Worm           |  279550 |   49400 |folded|    |         |
+ 6|D  Jeff Palmucci            |  226375 |    9400 |folded|    |         |
+ 8|>  Dr. Flush                |   14200 |   69400 |      |    |         |
+ 9|   Jpchiefs58               |   14600 |    3600 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/10/20 09:24:46! Dealing a new hand
+! 02/10/20 09:24:46! Everyone antes $400
+! 02/10/20 09:24:46! Dr. Flush blinds $1600
+! 02/10/20 09:24:46! Jpchiefs58 blinds $3200
+! 02/10/20 10:06:51! TommyO raises $5800 to $9000 total 
+! 02/10/20 10:06:51! Ronnie Snyder folds
+! 02/10/20 10:17:43! Boaty McBoatface folds
+! 02/10/20 10:56:32! Bobby the Worm calls 
+! 02/10/20 10:57:18! Jeff Palmucci calls 
+! 02/10/20 11:02:46! Dr. Flush calls 
+! 02/10/20 11:03:41! Jpchiefs58 folds
+
+! 02/10/20 11:03:41! Pot right ($42000), flopping/dealing/drawing cards
+! 02/10/20 11:03:41! 4 players
+! 02/10/20 11:03:41! Flopped cards: 7d Kc 6h
+! 02/10/20 11:08:03! Dr. Flush bets $20000 
+! 02/10/20 11:51:50! TommyO folds
+! 02/10/20 12:54:47! Bobby the Worm calls 
+! 02/10/20 12:54:47! Jeff Palmucci folds
+
+! 02/10/20 12:54:47! Pot right ($82000), flopping/dealing/drawing cards
+! 02/10/20 12:54:47! 2 players
+! 02/10/20 12:54:47! Flopped card: Kd
+! 02/10/20 13:15:31! Dr. Flush bets $20000 
+! 02/10/20 13:39:57! Bobby the Worm calls 
+
+! 02/10/20 13:39:57! Pot right ($122000), flopping/dealing/drawing cards
+! 02/10/20 13:39:57! 2 players
+! 02/10/20 13:39:57! Flopped card: Kh
+! 02/10/20 13:45:06! Dr. Flush bets $20000 
+! 02/10/20 13:45:06! Bobby the Worm folds
+! Hand over, no showdown
+! Current board is:  7d Kc 6h Kd Kh
+! Dr. Flush wins $142000 (net $72600)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   TommyO                   |  147125 |         |      |    |         |
+ 3|   Ronnie Snyder            |   88550 |         |      |    |         |
+ 4|   Boaty McBoatface         |  104875 |         |      |    |         |
+ 5|   Bobby the Worm           |  279550 |         |      |    |         |
+ 6|   Jeff Palmucci            |  226375 |         |      |    |         |
+ 8|D> Dr. Flush                |  156200 |         |      |    |         |
+ 9|   Jpchiefs58               |   14600 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 187 players left in the tournament, 2 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c13.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+We are now over 30 days in round "c".  Automatic
+table breaking and live redraws have been disabled.
+We will play until one or more tables gets below six
+players.  When that happens all tables will finish
+the current hand and a full redraw will occur into
+the "d" round.
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 29
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

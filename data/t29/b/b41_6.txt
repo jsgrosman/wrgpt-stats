@@ -1,0 +1,122 @@
+Subject: [b41.10094] Holdem Game Broadcast Message(*)
+
+! Table b41, Hand 6, Day 4
+
+! CountFlop checks
+! MacBond21 checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   CountFlop                |   48750 |     650 |      |    |         |
+ 2|   MacBond21                |   42675 |     650 |      |    |         |
+ 4|   Klod                     |  107575 |     150 |folded|    |         |
+ 5|   RunGoodRob               |   49375 |       0 |folded|    |         |
+ 6|D  Rapidj                   |   50550 |     150 |folded|    |         |
+ 7|>  jpawloski                |   48950 |     650 |      |    |         |
+ 8|   Commander Flanders       |   49350 |     150 |folded|    |         |
+ 9|   Vic Vega                 |   50375 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/06/19 14:43:12! Dealing a new hand
+! 11/06/19 14:43:12! No ante
+! 11/06/19 14:43:12! jpawloski blinds $75
+! 11/06/19 14:43:12! Commander Flanders blinds $150
+! 11/07/19 06:36:15! Vic Vega folds
+! 11/07/19 06:39:00! CountFlop calls 
+! 11/07/19 06:41:57! MacBond21 calls 
+! 11/07/19 06:41:57! Klod calls 
+! 11/07/19 06:41:57! RunGoodRob folds
+! 11/07/19 08:43:51! Rapidj calls 
+! 11/07/19 11:31:24! jpawloski calls 
+! 11/07/19 11:32:54! Commander Flanders checks
+
+! 11/07/19 11:32:54! Pot right ($900), flopping/dealing/drawing cards
+! 11/07/19 11:32:54! 6 players
+! 11/07/19 11:32:54! Flopped cards: 4c 5c 7s
+! 11/07/19 12:14:45! jpawloski checks
+! 11/07/19 12:32:35! Commander Flanders checks
+! 11/07/19 12:33:15! CountFlop checks
+! 11/07/19 12:48:58! MacBond21 bets $500 
+! 11/07/19 12:48:58! Klod folds
+! 11/07/19 12:57:54! Rapidj folds
+! 11/07/19 13:24:11! jpawloski calls 
+! 11/07/19 15:43:22! Commander Flanders folds
+! 11/07/19 15:51:30! CountFlop calls 
+
+! 11/07/19 15:51:30! Pot right ($2400), flopping/dealing/drawing cards
+! 11/07/19 15:51:30! 3 players
+! 11/07/19 15:51:30! Flopped card: 6s
+! 11/07/19 15:52:07! jpawloski checks
+! 11/07/19 15:53:59! CountFlop checks
+! 11/07/19 16:01:20! MacBond21 checks
+
+! 11/07/19 16:01:20! Pot right ($2400), flopping/dealing/drawing cards
+! 11/07/19 16:01:20! 3 players
+! 11/07/19 16:01:20! Flopped card: Js
+! 11/07/19 16:02:15! jpawloski checks
+! 11/07/19 16:03:30! CountFlop checks
+! 11/07/19 16:03:30! MacBond21 checks
+! Hand over, current board is:  4c 5c 7s 6s Js
+! CountFlop                has: 9h 9c
+! MacBond21                has: Ac 2c
+! jpawloski                has: 9s 8h
+! jpawloski wins $2400 (net $1750) with Straight (9 8 7 6 5)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   CountFlop                |   48750 |         |      |    |         |
+ 2|   MacBond21                |   42675 |         |      |    |         |
+ 4|   Klod                     |  107575 |         |      |    |         |
+ 5|   RunGoodRob               |   49375 |         |      |    |         |
+ 6|   Rapidj                   |   50550 |         |      |    |         |
+ 7|D> jpawloski                |   51350 |         |      |    |         |
+ 8|   Commander Flanders       |   49350 |         |      |    |         |
+ 9|   Vic Vega                 |   50375 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 536 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b41.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+This is the REAL WRGPT29.
+Changes to office hours and email addresses do not carry over from the
+practice round.
+You have been assigned a new ID and the round is "b".
+
+Good luck.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

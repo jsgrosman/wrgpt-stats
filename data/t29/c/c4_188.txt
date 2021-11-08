@@ -1,0 +1,109 @@
+Subject: [c4.10477] Holdem Game Broadcast Message(*)
+
+! Table c4, Hand 188, Day 85
+
+! Sir Barlow calls 
+! Pot right ($59850), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped cards: 9h 5d 7s
+! Flopped card: 6s
+! Flopped card: Jc
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Jeff Okamoto             |   75425 |    1300 |folded|    |         |
+ 2|   Frank Lujack             |       0 |   25875 |all-in|    |         |
+ 3|   Ken Kubey                |   96300 |     300 |folded|    |         |
+ 4|   FruitFoot                |   95850 |    5300 |folded|    |         |
+ 5|   Righteous Indignation    |  223700 |     300 |folded|    |         |
+ 6|   Motown                   |   56375 |     300 |folded|    |         |
+ 7|   dchizzle41               |   37325 |     300 |folded|    |         |
+ 8|   Ben Buchwald             |   56075 |     300 |folded|    |         |
+ 9|D> Sir Barlow               |  183750 |   25875 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/27/20 06:34:05! Dealing a new hand
+! 01/27/20 06:34:05! Everyone antes $300
+! 01/27/20 06:34:05! Jeff Okamoto blinds $1000
+! 01/27/20 06:34:05! Frank Lujack blinds $2000
+! 01/27/20 06:39:49! Ken Kubey folds
+! 01/27/20 06:42:48! FruitFoot raises $3000 to $5000 total 
+! 01/27/20 08:22:54! Righteous Indignation folds
+! 01/27/20 08:22:54! Motown folds
+! 01/27/20 08:49:44! dchizzle41 folds
+! 01/27/20 08:49:44! Ben Buchwald folds
+! 01/27/20 08:50:33! Sir Barlow calls 
+! 01/27/20 08:50:33! Jeff Okamoto folds
+! 01/27/20 08:50:33! Frank Lujack raises $20575 to $25575 total and is all in
+! 01/27/20 08:55:17! FruitFoot folds
+! 01/27/20 08:56:50! Sir Barlow calls 
+
+! 01/27/20 08:56:50! Pot right ($59850), flopping/dealing/drawing cards
+! 01/27/20 08:56:50! 2 players, 1 all in
+! 01/27/20 08:56:50! Flopped cards: 9h 5d 7s
+! 01/27/20 08:56:50! Flopped card: 6s
+! 01/27/20 08:56:50! Flopped card: Jc
+! Hand over, current board is:  9h 5d 7s 6s Jc
+! Frank Lujack             has: Ks 10s
+! Sir Barlow               has: Kh Ad
+! Sir Barlow wins $59850 (net $33975) with No Pair (A K J 9 7)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  Jeff Okamoto             |   75425 |         |      |    |         |
+ 3|   Ken Kubey                |   96300 |         |      |    |         |
+ 4|   FruitFoot                |   95850 |         |      |    |         |
+ 5|   Righteous Indignation    |  223700 |         |      |    |         |
+ 6|   Motown                   |   56375 |         |      |    |         |
+ 7|   dchizzle41               |   37325 |         |      |    |         |
+ 8|   Ben Buchwald             |   56075 |         |      |    |         |
+ 9|>  Sir Barlow               |  243600 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Frank Lujack is eliminated!
+! 243 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c4.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

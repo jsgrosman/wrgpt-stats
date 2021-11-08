@@ -1,0 +1,120 @@
+Subject: [b42.10516] Holdem Game Broadcast Message(*)
+
+! Table b42, Hand 40, Day 29
+
+! Rcheney checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Cowabunga                |   42425 |    1000 |folded|    |         |
+ 2|   shaneless                |   66175 |    1000 |folded|    |         |
+ 3|D  Rcheney                  |   56300 |   12400 |      |    |         |
+ 5|>  Mark-Ed Cards            |  147925 |   12400 |      |    |         |
+ 6|   BT                       |   37975 |     300 |folded|    |         |
+ 7|   Statistical Tie          |   62650 |       0 |folded|    |         |
+ 8|   Redbird                  |   54175 |    1000 |folded|    |         |
+ 9|   Craig Boyle              |   51625 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/30/19 21:39:14! Dealing a new hand
+! 11/30/19 21:39:14! No ante
+! 11/30/19 21:39:14! Mark-Ed Cards blinds $150
+! 11/30/19 21:39:14! BT blinds $300
+! 12/01/19 06:32:14! Statistical Tie folds
+! 12/01/19 13:12:40! Redbird calls 
+! 12/01/19 13:12:40! Craig Boyle folds
+! 12/01/19 13:47:48! Cowabunga calls 
+! 12/01/19 14:04:04! shaneless raises $700 to $1000 total 
+! 12/01/19 14:27:07! Rcheney calls 
+! 12/01/19 14:27:07! Mark-Ed Cards calls 
+! 12/01/19 16:18:49! BT folds
+! 12/02/19 15:43:21! Redbird calls 
+! 12/02/19 15:43:21! Cowabunga calls 
+
+! 12/02/19 15:43:21! Pot right ($5300), flopping/dealing/drawing cards
+! 12/02/19 15:43:21! 5 players
+! 12/02/19 15:43:21! Flopped cards: 3h 4d 8d
+! 12/02/19 16:19:01! Mark-Ed Cards bets $3300 
+! 12/02/19 17:29:53! Redbird folds
+! 12/02/19 18:18:20! Cowabunga folds
+! 12/02/19 18:18:20! shaneless folds
+! 12/02/19 18:20:26! Rcheney calls 
+
+! 12/02/19 18:20:26! Pot right ($11900), flopping/dealing/drawing cards
+! 12/02/19 18:20:26! 2 players
+! 12/02/19 18:20:26! Flopped card: 5h
+! 12/02/19 18:29:43! Mark-Ed Cards bets $8100 
+! 12/02/19 18:57:27! Rcheney calls 
+
+! 12/02/19 18:57:27! Pot right ($28100), flopping/dealing/drawing cards
+! 12/02/19 18:57:27! 2 players
+! 12/02/19 18:57:27! Flopped card: As
+! 12/02/19 19:01:51! Mark-Ed Cards checks
+! 12/02/19 19:02:42! Rcheney checks
+! Hand over, current board is:  3h 4d 8d 5h As
+! Rcheney                  has: Kc 10c
+! Mark-Ed Cards            has: 8h 8c
+! Mark-Ed Cards wins $28100 (net $15700) with Three of a Kind (8 8 8 A 5)
+! Antes and blinds go up
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Cowabunga                |   42425 |         |      |    |         |
+ 2|   shaneless                |   66175 |         |      |    |         |
+ 3|   Rcheney                  |   56300 |         |      |    |         |
+ 5|D> Mark-Ed Cards            |  176025 |         |      |    |         |
+ 6|   BT                       |   37975 |         |      |    |         |
+ 7|   Statistical Tie          |   62650 |         |      |    |         |
+ 8|   Redbird                  |   54175 |         |      |    |         |
+ 9|   Craig Boyle              |   51625 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 469 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b42.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that have not come to the table by the end
+of day 30 will be removed.
+
+Players that are away from the tables for 45 days 
+will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

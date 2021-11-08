@@ -1,0 +1,117 @@
+Subject: [c14.10859] Holdem Game Broadcast Message(*)
+
+! Table c14, Hand 230, Day 100
+
+! Keith Carangelo checks
+! Ken Anderson checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  Keith Carangelo          |   64850 |   17100 |      |    |         |
+ 2|   Ken Anderson             |  246500 |   17100 |      |    |         |
+ 3|D  Bacon Z                  |   88450 |     400 |folded|    |         |
+ 6|   Steve Zagieboylo         |  289050 |    2000 |folded|    |         |
+ 7|   Josh Moore               |  143675 |    3600 |folded|    |         |
+ 8|   Bobby Luckbox            |   43700 |     400 |folded|    |         |
+ 9|   DireWolf                 |  470050 |     400 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/11/20 05:16:21! Dealing a new hand
+! 02/11/20 05:16:21! Everyone antes $400
+! 02/11/20 05:16:21! Steve Zagieboylo blinds $1600
+! 02/11/20 05:16:21! Josh Moore blinds $3200
+! 02/11/20 08:16:09! Bobby Luckbox folds
+! 02/11/20 08:16:09! DireWolf folds
+! 02/11/20 08:19:44! Keith Carangelo raises $4500 to $7700 total 
+! 02/11/20 09:27:29! Ken Anderson calls 
+! 02/11/20 13:29:02! Bacon Z folds
+! 02/11/20 13:29:02! Steve Zagieboylo folds
+! 02/11/20 14:06:56! Josh Moore folds
+
+! 02/11/20 14:06:56! Pot right ($23000), flopping/dealing/drawing cards
+! 02/11/20 14:06:56! 2 players
+! 02/11/20 14:06:56! Flopped cards: Ks 7c Ac
+! 02/11/20 14:22:29! Keith Carangelo bets $9000 
+! 02/11/20 14:22:29! Ken Anderson calls 
+
+! 02/11/20 14:22:29! Pot right ($41000), flopping/dealing/drawing cards
+! 02/11/20 14:22:29! 2 players
+! 02/11/20 14:22:29! Flopped card: Kd
+! 02/11/20 14:24:15! Keith Carangelo checks
+! 02/11/20 14:27:22! Ken Anderson checks
+
+! 02/11/20 14:27:22! Pot right ($41000), flopping/dealing/drawing cards
+! 02/11/20 14:27:22! 2 players
+! 02/11/20 14:27:22! Flopped card: 7s
+! 02/11/20 15:02:54! Keith Carangelo checks
+! 02/11/20 15:02:54! Ken Anderson checks
+! Hand over, current board is:  Ks 7c Ac Kd 7s
+! Keith Carangelo          has: Qs Jh
+! Ken Anderson             has: Ah 6h
+! Ken Anderson wins $41000 (net $23900) with Two Pair (A A K K 7)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  Keith Carangelo          |   64850 |         |      |    |         |
+ 2|   Ken Anderson             |  287500 |         |      |    |         |
+ 3|   Bacon Z                  |   88450 |         |      |    |         |
+ 6|D  Steve Zagieboylo         |  289050 |         |      |    |         |
+ 7|   Josh Moore               |  143675 |         |      |    |         |
+ 8|   Bobby Luckbox            |   43700 |         |      |    |         |
+ 9|   DireWolf                 |  470050 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Bacon Z timed out during this hand
+! 180 players left in the tournament, 4 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c14.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+We are now over 30 days in round "c".  Automatic
+table breaking and live redraws have been disabled.
+We will play until one or more tables gets below six
+players.  When that happens all tables will finish
+the current hand and a full redraw will occur into
+the "d" round.
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 36
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

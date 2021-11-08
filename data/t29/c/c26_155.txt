@@ -1,0 +1,132 @@
+Subject: [c26.10141] Holdem Game Broadcast Message(*)
+
+% Hope I?m not behind with top two
+% (dealer suppressed lines starting with '>' or ':')
+! -- Tiltdad --
+_____________________________________________________________________________
+
+! Table c26, Hand 155, Day 68
+
+! Tiltdad calls 
+! Pot right ($61450), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 8c
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Jim Anderson             |  110550 |     100 |folded|    |         |
+ 2|D  m13d                     |   26725 |     100 |folded|    |         |
+ 3|>  Tiltdad                  |   38075 |   26575 |      |    |         |
+ 4|   Nyte                     |   36175 |     600 |folded|    |         |
+ 5|   gilette                  |  151700 |    1600 |folded|    |         |
+ 6|   Rollo                    |       0 |   26575 |all-in|    |         |
+ 7|   Barrett                  |   16925 |     100 |folded|    |         |
+ 8|   tekbot                   |   68700 |     100 |folded|    |         |
+ 9|   GoBig                    |   95950 |    5700 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/10/20 05:02:22! Dealing a new hand
+! 01/10/20 05:02:22! Everyone antes $100
+! 01/10/20 05:02:22! Tiltdad blinds $250
+! 01/10/20 05:02:22! Nyte blinds $500
+! 01/10/20 06:03:11! gilette calls 
+! 01/10/20 07:54:42! Rollo raises $1000 to $1500 total 
+! 01/10/20 08:10:32! Barrett folds
+! 01/10/20 12:56:43! tekbot folds
+! 01/10/20 13:06:58! GoBig calls 
+! 01/10/20 13:09:20! Jim Anderson folds
+! 01/10/20 13:09:20! m13d folds
+! 01/10/20 13:14:41! Tiltdad calls 
+! 01/10/20 14:48:20! Nyte folds
+! 01/10/20 15:22:23! gilette calls 
+
+! 01/10/20 15:22:23! Pot right ($7400), flopping/dealing/drawing cards
+! 01/10/20 15:22:23! 4 players
+! 01/10/20 15:22:23! Flopped cards: Qs 3h Jh
+! 01/10/20 16:54:12! Tiltdad bets $4100 
+! 01/10/20 17:16:21! gilette folds
+! 01/10/20 17:16:47! Rollo calls 
+! 01/10/20 17:49:16! GoBig calls 
+
+! 01/10/20 17:49:16! Pot right ($19700), flopping/dealing/drawing cards
+! 01/10/20 17:49:16! 3 players
+! 01/10/20 17:49:16! Flopped card: 6d
+! 01/10/20 18:18:27! Tiltdad bets $19700 
+! 01/10/20 18:31:09! Rollo raises $1175 to $20875 total and is all in
+! 01/10/20 18:47:56! GoBig folds
+_____________________________________________________________________________
+
+! Hope I?m not behind with top two
+! (dealer suppressed lines starting with '>' or ':')
+! -- Tiltdad --
+_____________________________________________________________________________
+
+! 01/10/20 19:05:16! Tiltdad calls 
+
+! 01/10/20 19:05:16! Pot right ($61450), flopping/dealing/drawing cards
+! 01/10/20 19:05:16! 2 players, 1 all in
+! 01/10/20 19:05:16! Flopped card: 8c
+! Hand over, current board is:  Qs 3h Jh 6d 8c
+! Tiltdad                  has: Qh Jc
+! Rollo                    has: Ah Kh
+! Tiltdad wins $61450 (net $34875) with Two Pair (Q Q J J 8)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Jim Anderson             |  110550 |         |      |    |         |
+ 2|   m13d                     |   26725 |         |      |    |         |
+ 3|D> Tiltdad                  |   99525 |         |      |    |         |
+ 4|   Nyte                     |   36175 |         |      |    |         |
+ 5|   gilette                  |  151700 |         |      |    |         |
+ 7|   Barrett                  |   16925 |         |      |    |         |
+ 8|   tekbot                   |   68700 |         |      |    |         |
+ 9|   GoBig                    |   95950 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Rollo is eliminated!
+! 316 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c26.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 10
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

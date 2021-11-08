@@ -1,0 +1,115 @@
+Subject: [c11.10459] Holdem Game Broadcast Message(*)
+
+! Table c11, Hand 177, Day 91
+
+! Slimbob calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Zerksauce                |   60250 |     300 |folded|    |         |
+ 2|   Clark Olson              |   59750 |     300 |folded|    |         |
+ 3|   DaveKal                  |  201625 |     300 |folded|    |         |
+ 4|>  denimmined               |   56050 |   16800 |      |    |         |
+ 5|   Slimbob                  |   68400 |   16800 |      |    |         |
+ 6|D  not66                    |   77125 |     300 |folded|    |         |
+ 7|   Tony Gurney              |   75725 |    1300 |folded|    |         |
+ 8|   Nightshift6              |  131375 |    2300 |folded|    |         |
+ 9|   All In a daze work       |  200675 |     300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/02/20 09:26:21! Dealing a new hand
+! 02/02/20 09:26:21! Everyone antes $300
+! 02/02/20 09:26:21! Tony Gurney blinds $1000
+! 02/02/20 09:26:21! Nightshift6 blinds $2000
+! 02/02/20 10:23:47! All In a daze work folds
+! 02/02/20 11:41:12! Zerksauce folds
+! 02/02/20 11:41:12! Clark Olson folds
+! 02/02/20 11:41:12! DaveKal folds
+! 02/02/20 11:43:31! denimmined raises $3000 to $5000 total 
+! 02/02/20 11:50:11! Slimbob calls 
+! 02/02/20 11:50:11! not66 folds
+! 02/02/20 12:15:46! Tony Gurney folds
+! 02/02/20 12:15:46! Nightshift6 folds
+
+! 02/02/20 12:15:46! Pot right ($15700), flopping/dealing/drawing cards
+! 02/02/20 12:15:46! 2 players
+! 02/02/20 12:15:46! Flopped cards: Jh Jc Ah
+! 02/02/20 15:07:55! denimmined checks
+! 02/02/20 16:49:23! Slimbob bets $4500 
+! 02/02/20 16:59:28! denimmined calls 
+
+! 02/02/20 16:59:28! Pot right ($24700), flopping/dealing/drawing cards
+! 02/02/20 16:59:28! 2 players
+! 02/02/20 16:59:28! Flopped card: 2s
+! 02/02/20 16:59:53! denimmined checks
+! 02/02/20 17:31:12! Slimbob checks
+
+! 02/02/20 17:31:12! Pot right ($24700), flopping/dealing/drawing cards
+! 02/02/20 17:31:12! 2 players
+! 02/02/20 17:31:12! Flopped card: 9c
+! 02/02/20 17:37:08! denimmined bets $7000 
+! 02/02/20 17:38:40! Slimbob calls 
+! Hand over, current board is:  Jh Jc Ah 2s 9c
+! denimmined               has: 6h 6d
+! Slimbob                  has: 7h Ac
+! Slimbob wins $38700 (net $21900) with Two Pair (A A J J 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Zerksauce                |   60250 |         |      |    |         |
+ 2|   Clark Olson              |   59750 |         |      |    |         |
+ 3|   DaveKal                  |  201625 |         |      |    |         |
+ 4|>  denimmined               |   56050 |         |      |    |         |
+ 5|   Slimbob                  |  107100 |         |      |    |         |
+ 6|   not66                    |   77125 |         |      |    |         |
+ 7|D  Tony Gurney              |   75725 |         |      |    |         |
+ 8|   Nightshift6              |  131375 |         |      |    |         |
+ 9|   All In a daze work       |  200675 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 214 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c11.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 11
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

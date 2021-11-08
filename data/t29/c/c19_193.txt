@@ -1,0 +1,120 @@
+Subject: [c19.10560] Holdem Game Broadcast Message(*)
+
+! Table c19, Hand 193, Day 93
+
+! Richard Rognlie checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Jason Feng               |  101400 |     300 |folded|    |         |
+ 2|   Thomas Gabrysch          |  285900 |     300 |folded|    |         |
+ 3|>  Nixed                    |  215900 |   36800 |      |    |         |
+ 4|   Virginia Slims           |   34625 |     300 |folded|    |         |
+ 6|   BrownTrout               |   68700 |     300 |folded|    |         |
+ 7|D  Richard Rognlie          |   88175 |   36800 |      |    |         |
+ 8|   Troutboy Garrett         |  297850 |    1300 |folded|    |         |
+ 9|   BT                       |  106725 |    2300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/03/20 12:05:25! Dealing a new hand
+! 02/03/20 12:05:25! Everyone antes $300
+! 02/03/20 12:05:25! Troutboy Garrett blinds $1000
+! 02/03/20 12:05:25! BT blinds $2000
+! 02/03/20 12:48:41! Jason Feng folds
+! 02/03/20 12:48:41! Thomas Gabrysch folds
+! 02/03/20 13:23:57! Nixed raises $2700 to $4700 total 
+! 02/03/20 13:37:01! Virginia Slims folds
+! 02/03/20 13:53:27! BrownTrout folds
+! 02/03/20 16:28:45! Richard Rognlie calls 
+! 02/03/20 16:28:45! Troutboy Garrett folds
+! 02/04/20 03:48:44! BT folds
+
+! 02/04/20 03:48:44! Pot right ($14800), flopping/dealing/drawing cards
+! 02/04/20 03:48:44! 2 players
+! 02/04/20 03:48:44! Flopped cards: 9d 6s As
+! 02/04/20 05:07:16! Nixed bets $6700 
+! 02/04/20 06:20:37! Richard Rognlie raises $6700 to $13400 total 
+! 02/04/20 08:51:59! Nixed calls 
+
+! 02/04/20 08:51:59! Pot right ($41600), flopping/dealing/drawing cards
+! 02/04/20 08:51:59! 2 players
+! 02/04/20 08:51:59! Flopped card: 6h
+! 02/04/20 08:54:26! Nixed checks
+! 02/04/20 08:55:45! Richard Rognlie bets $18400 
+! 02/04/20 09:11:36! Nixed calls 
+
+! 02/04/20 09:11:36! Pot right ($78400), flopping/dealing/drawing cards
+! 02/04/20 09:11:36! 2 players
+! 02/04/20 09:11:36! Flopped card: 6d
+! 02/04/20 09:12:14! Nixed checks
+! 02/04/20 09:18:57! Richard Rognlie checks
+! Hand over, current board is:  9d 6s As 6h 6d
+! Nixed                    has: 10s 10d
+! Richard Rognlie          has: Ks Ac
+! Richard Rognlie wins $78400 (net $41600) with Full House (6 6 6 A A)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Jason Feng               |  101400 |         |      |    |         |
+ 2|   Thomas Gabrysch          |  285900 |         |      |    |         |
+ 3|>  Nixed                    |  215900 |         |      |    |         |
+ 4|   Virginia Slims           |   34625 |         |      |    |         |
+ 6|   BrownTrout               |   68700 |         |      |    |         |
+ 7|   Richard Rognlie          |  166575 |         |      |    |         |
+ 8|D  Troutboy Garrett         |  297850 |         |      |    |         |
+ 9|   BT                       |  106725 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 208 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c19.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+We are now over 30 days in round "c".  Automatic
+table breaking and live redraws have been disabled.
+We will play until one or more tables gets below six
+players.  When that happens all tables will finish
+the current hand and a full redraw will occur into
+the "d" round.
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,114 @@
+Subject: [c12.11188] Holdem Game Broadcast Message(*)
+
+% If I wasn't going to call half-pot I should probably also not call 5x po
+% On Fri, Feb 7, 2020 at 3:37 PM <dealer@wrgpt.org> wrote:
+% (dealer suppressed lines starting with '>' or ':')
+! -- Chris Leslie --
+_____________________________________________________________________________
+
+! Table c12, Hand 247, Day 96
+
+! Chris Leslie folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  Stephen Wong             |   37700 |     300 |folded|    |         |
+ 2|   Srfndoc                  |       0 |  239600 |all-in|    |         |
+ 3|   docdanger                |   84125 |    2300 |folded|    |         |
+ 5|   grizz                    |  367300 |     300 |folded|    |         |
+ 6|>  Chris Leslie             |  163600 |   15300 |folded|    |         |
+ 9|   jasong                   |  127325 |     300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/07/20 11:13:12! Dealing a new hand
+! 02/07/20 11:13:12! Everyone antes $300
+! 02/07/20 11:13:12! Srfndoc blinds $1000
+! 02/07/20 11:13:12! docdanger blinds $2000
+! 02/07/20 11:17:21! grizz folds
+! 02/07/20 11:37:45! Chris Leslie raises $3000 to $5000 total 
+! 02/07/20 11:37:45! jasong folds
+! 02/07/20 12:05:24! Stephen Wong folds
+! 02/07/20 12:11:43! Srfndoc raises $10000 to $15000 total 
+! 02/07/20 12:24:33! docdanger folds
+! 02/07/20 12:32:19! Chris Leslie calls 
+
+! 02/07/20 12:32:19! Pot right ($33800), flopping/dealing/drawing cards
+! 02/07/20 12:32:19! 2 players
+! 02/07/20 12:32:19! Flopped cards: 7d Qh 10s
+! 02/07/20 12:37:03! Srfndoc bets $224300 and is all in
+_____________________________________________________________________________
+
+! If I wasn't going to call half-pot I should probably also not call 5x po
+! On Fri, Feb 7, 2020 at 3:37 PM <dealer@wrgpt.org> wrote:
+! (dealer suppressed lines starting with '>' or ':')
+! -- Chris Leslie --
+_____________________________________________________________________________
+
+! 02/07/20 12:47:43! Chris Leslie folds
+! Hand over, no showdown
+! Current board is:  7d Qh 10s ? ?
+! Srfndoc wins $258100 (net $18500)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Stephen Wong             |   37700 |         |      |    |         |
+ 2|D  Srfndoc                  |  258100 |         |      |    |         |
+ 3|   docdanger                |   84125 |         |      |    |         |
+ 5|   grizz                    |  367300 |         |      |    |         |
+ 6|>  Chris Leslie             |  163600 |         |      |    |         |
+ 9|   jasong                   |  127325 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 193 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c12.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+We are now over 30 days in round "c".  Automatic
+table breaking and live redraws have been disabled.
+We will play until one or more tables gets below six
+players.  When that happens all tables will finish
+the current hand and a full redraw will occur into
+the "d" round.
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 23
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

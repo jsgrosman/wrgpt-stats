@@ -1,0 +1,124 @@
+Subject: [c5.10561] Holdem Game Broadcast Message(*)
+
+! Table c5, Hand 206, Day 94
+
+! Axel Foley calls 
+! Pot right ($98900), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 4s
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   lawrence s               |   33800 |    1300 |folded|    |         |
+ 2|   Statistical Tie          |  133450 |    2300 |folded|    |         |
+ 3|   Dave Palm                |  103875 |     300 |folded|    |         |
+ 4|   shinsook                 |  175650 |     300 |folded|    |         |
+ 5|   PMedhurst                |   65250 |     300 |folded|    |         |
+ 6|   Bob R                    |  170050 |     300 |folded|    |         |
+ 7|   shaneless                |  157275 |     300 |folded|    |         |
+ 8|>  Axel Foley               |   84900 |   46900 |      |    |         |
+ 9|D  Julie Greenberg          |       0 |   46900 |all-in|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/05/20 05:21:59! Dealing a new hand
+! 02/05/20 05:21:59! Everyone antes $300
+! 02/05/20 05:21:59! lawrence s blinds $1000
+! 02/05/20 05:21:59! Statistical Tie blinds $2000
+! 02/05/20 06:10:25! Dave Palm folds
+! 02/05/20 07:35:42! shinsook folds
+! 02/05/20 13:02:02! PMedhurst folds
+! 02/05/20 13:02:02! Bob R folds
+! 02/05/20 13:02:02! shaneless folds
+! 02/05/20 13:05:06! Axel Foley raises $3200 to $5200 total 
+! 02/05/20 13:18:37! Julie Greenberg calls 
+! 02/05/20 13:18:37! lawrence s folds
+! 02/05/20 13:18:37! Statistical Tie folds
+
+! 02/05/20 13:18:37! Pot right ($16100), flopping/dealing/drawing cards
+! 02/05/20 13:18:37! 2 players
+! 02/05/20 13:18:37! Flopped cards: Qh Ah Js
+! 02/05/20 13:59:30! Axel Foley bets $7250 
+! 02/05/20 14:11:30! Julie Greenberg calls 
+
+! 02/05/20 14:11:30! Pot right ($30600), flopping/dealing/drawing cards
+! 02/05/20 14:11:30! 2 players
+! 02/05/20 14:11:30! Flopped card: 10h
+! 02/05/20 14:18:11! Axel Foley checks
+! 02/05/20 14:33:40! Julie Greenberg bets $34150 and is all in
+! 02/05/20 14:38:33! Axel Foley calls 
+
+! 02/05/20 14:38:33! Pot right ($98900), flopping/dealing/drawing cards
+! 02/05/20 14:38:33! 2 players, 1 all in
+! 02/05/20 14:38:33! Flopped card: 4s
+! Hand over, current board is:  Qh Ah Js 10h 4s
+! Axel Foley               has: Qd Qc
+! Julie Greenberg          has: Kh Ac
+! Julie Greenberg wins $98900 (net $52000) with Straight (A K Q J 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  lawrence s               |   33800 |         |      |    |         |
+ 2|   Statistical Tie          |  133450 |         |      |    |         |
+ 3|   Dave Palm                |  103875 |         |      |    |         |
+ 4|   shinsook                 |  175650 |         |      |    |         |
+ 5|   PMedhurst                |   65250 |         |      |    |         |
+ 6|   Bob R                    |  170050 |         |      |    |         |
+ 7|   shaneless                |  157275 |         |      |    |         |
+ 8|>  Axel Foley               |   84900 |         |      |    |         |
+ 9|   Julie Greenberg          |   98900 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! PMedhurst timed out during this hand
+! 199 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c5.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+We are now over 30 days in round "c".  Automatic
+table breaking and live redraws have been disabled.
+We will play until one or more tables gets below six
+players.  When that happens all tables will finish
+the current hand and a full redraw will occur into
+the "d" round.
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 17
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

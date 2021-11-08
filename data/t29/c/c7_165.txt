@@ -1,0 +1,114 @@
+Subject: [c7.10276] Holdem Game Broadcast Message(*)
+
+! Table c7, Hand 165, Day 76
+
+! janie folds
+! Pot right ($22825), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 2h
+! Flopped card: 2c
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   1985 M Building Champ    |   87250 |     200 |folded|    |         |
+ 2|   janie                    |   50525 |    5875 |folded|    |         |
+ 3|D  Piney Boy                |   44775 |     200 |folded|    |         |
+ 4|>  BigElmo                  |   61925 |    9875 |      |  1 |    4000 |
+ 5|   Claudia M                |       0 |    5875 |all-in|  3 |   18825 |
+ 6|   Per Starback             |   53325 |     200 |folded|    |         |
+ 7|   CountFlop                |   76925 |     200 |folded|    |         |
+ 8|   MTpotts                  |   49450 |     200 |folded|    |         |
+ 9|V  Taki                     |   25175 |     200 |<AWOL>|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/17/20 15:58:08! Dealing a new hand
+! 01/17/20 15:58:08! Everyone antes $200
+! 01/17/20 15:58:08! BigElmo blinds $600
+! 01/17/20 15:58:08! Claudia M blinds $1200
+! 01/17/20 22:07:22! Per Starback folds
+! 01/18/20 08:42:26! CountFlop folds
+! 01/18/20 08:42:26! MTpotts folds
+! 01/18/20 08:42:26! Taki is on vacation and folds
+! 01/18/20 08:42:26! 1985 M Building Champ folds
+! 01/18/20 10:45:57! janie raises $1200 to $2400 total 
+! 01/18/20 11:35:50! Piney Boy folds
+! 01/18/20 12:11:52! BigElmo calls 
+! 01/18/20 12:50:05! Claudia M raises $3275 to $5675 total and is all in
+! 01/18/20 14:39:02! janie calls 
+! 01/18/20 15:01:40! BigElmo calls 
+
+! 01/18/20 15:01:40! Pot right ($18825), flopping/dealing/drawing cards
+! 01/18/20 15:01:40! 3 players, 1 all in
+! 01/18/20 15:01:40! Flopped cards: 3h 3d Js
+! 01/18/20 15:03:54! BigElmo bets $4000 
+! 01/18/20 16:26:06! janie folds
+
+! 01/18/20 16:26:06! Pot right ($22825), flopping/dealing/drawing cards
+! 01/18/20 16:26:06! 2 players, 1 all in
+! 01/18/20 16:26:06! Flopped card: 2h
+! 01/18/20 16:26:06! Flopped card: 2c
+! Hand over, current board is:  3h 3d Js 2h 2c
+! BigElmo                  has: Jh Qd
+! Claudia M                has: 7d 6d
+! Pot 1: uncalled $4000 returned to BigElmo
+! Pot 3: BigElmo wins $18825 with Two Pair (J J 3 3 Q)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   1985 M Building Champ    |   87250 |         |      |    |         |
+ 2|   janie                    |   50525 |         |      |    |         |
+ 3|   Piney Boy                |   44775 |         |      |    |         |
+ 4|D> BigElmo                  |   84750 |         |      |    |         |
+ 6|   Per Starback             |   53325 |         |      |    |         |
+ 7|   CountFlop                |   76925 |         |      |    |         |
+ 8|   MTpotts                  |   49450 |         |      |    |         |
+ 9|V  Taki                     |   25175 |         |<AWOL>|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Claudia M is eliminated!
+! 280 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c7.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 14
+Live redraw in progress:
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

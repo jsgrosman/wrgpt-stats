@@ -1,0 +1,135 @@
+Subject: [c1.10767] Holdem Game Broadcast Message(*)
+
+% Me be chicken...
+% On Thu, Feb 6, 2020 at 10:43 AM <dealer@wrgpt.org> wrote:
+% (dealer suppressed lines starting with '>' or ':')
+! -- Blackcove --
+_____________________________________________________________________________
+
+! Table c1, Hand 216, Day 95
+
+! Blackcove checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Nyte                     |   44250 |     300 |folded|    |         |
+ 3|V  Dennis Roberts           |   32825 |     300 |<AWOL>|    |         |
+ 4|   Ryan Thomas              |  151300 |     300 |folded|    |         |
+ 5|D  Blackcove                |  195900 |   47300 |      |    |         |
+ 6|>  Charlie Tuna             |  103350 |   47300 |      |    |         |
+ 7|   Shari Silk               |  163600 |    2300 |folded|    |         |
+ 8|   Frank Russomanno         |  304950 |     300 |folded|    |         |
+ 9|   Frank O                  |  197825 |    2300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/05/20 15:22:58! Dealing a new hand
+! 02/05/20 15:22:58! Everyone antes $300
+! 02/05/20 15:22:58! Charlie Tuna blinds $1000
+! 02/05/20 15:22:58! Shari Silk blinds $2000
+! 02/05/20 19:23:03! Frank Russomanno folds
+! 02/05/20 19:35:22! Frank O calls 
+! 02/05/20 19:46:34! Nyte folds
+! 02/05/20 19:46:34! Dennis Roberts is on vacation and folds
+! 02/05/20 19:46:34! Ryan Thomas folds
+! 02/05/20 20:03:04! Blackcove raises $4600 to $6600 total 
+! 02/05/20 21:52:48! Charlie Tuna raises $14400 to $21000 total 
+! 02/05/20 22:20:54! Shari Silk folds
+! 02/06/20 03:23:16! Frank O folds
+! 02/06/20 06:07:12! Blackcove calls 
+
+! 02/06/20 06:07:12! Pot right ($48400), flopping/dealing/drawing cards
+! 02/06/20 06:07:12! 2 players
+! 02/06/20 06:07:12! Flopped cards: Ac As 10c
+! 02/06/20 07:01:59! Charlie Tuna checks
+! 02/06/20 07:38:16! Blackcove bets $26000 
+! 02/06/20 07:38:16! Charlie Tuna calls 
+
+! 02/06/20 07:38:16! Pot right ($100400), flopping/dealing/drawing cards
+! 02/06/20 07:38:16! 2 players
+! 02/06/20 07:38:16! Flopped card: Jc
+! 02/06/20 07:39:44! Charlie Tuna checks
+! 02/06/20 07:41:48! Blackcove checks
+
+! 02/06/20 07:41:48! Pot right ($100400), flopping/dealing/drawing cards
+! 02/06/20 07:41:48! 2 players
+! 02/06/20 07:41:48! Flopped card: 6h
+! 02/06/20 07:43:03! Charlie Tuna checks
+_____________________________________________________________________________
+
+! Me be chicken...
+! On Thu, Feb 6, 2020 at 10:43 AM <dealer@wrgpt.org> wrote:
+! (dealer suppressed lines starting with '>' or ':')
+! -- Blackcove --
+_____________________________________________________________________________
+
+! 02/06/20 07:46:35! Blackcove checks
+! Hand over, current board is:  Ac As 10c Jc 6h
+! Blackcove                has: 8d 7d
+! Charlie Tuna             has: Ah 4h
+! Charlie Tuna wins $100400 (net $53100) with Three of a Kind (A A A J 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Nyte                     |   44250 |         |      |    |         |
+ 3|V  Dennis Roberts           |   32825 |         |<AWOL>|    |         |
+ 4|   Ryan Thomas              |  151300 |         |      |    |         |
+ 5|   Blackcove                |  195900 |         |      |    |         |
+ 6|D> Charlie Tuna             |  203750 |         |      |    |         |
+ 7|   Shari Silk               |  163600 |         |      |    |         |
+ 8|   Frank Russomanno         |  304950 |         |      |    |         |
+ 9|   Frank O                  |  197825 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 197 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c1.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+We are now over 30 days in round "c".  Automatic
+table breaking and live redraws have been disabled.
+We will play until one or more tables gets below six
+players.  When that happens all tables will finish
+the current hand and a full redraw will occur into
+the "d" round.
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 19
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

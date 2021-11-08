@@ -1,0 +1,127 @@
+Subject: [b26.10081] Holdem Game Broadcast Message(*)
+
+! Table b26, Hand 5, Day 5
+
+! Brian Huss calls - side pot
+! Pot right ($97850), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped card: 3h
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Tony Gurney              |   50900 |     700 |folded|    |         |
+ 2|V  Al Raftis                |   49925 |       0 | NoSho|    |         |
+ 3|   James Bond               |       0 |   49125 |all-in|  1 |    2575 |
+ 4|V  Zbigniew                 |   49775 |       0 |<Gone>|    |         |
+ 5|D> Brian Huss               |       0 |   46550 |all-in|  2 |   95275 |
+ 6|   SCSI                     |   53325 |      75 |folded|    |         |
+ 7|   ChipRider                |   49225 |     700 |folded|    |         |
+ 8|   Josh Moore               |   50000 |       0 |folded|    |         |
+ 9|   HK                       |   49000 |     700 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/07/19 07:58:23! Dealing a new hand
+! 11/07/19 07:58:23! No ante
+! 11/07/19 07:58:23! SCSI blinds $75
+! 11/07/19 07:58:23! ChipRider blinds $150
+! 11/07/19 07:59:19! Josh Moore folds
+! 11/07/19 09:26:05! HK calls 
+! 11/07/19 09:27:59! Tony Gurney calls 
+! 11/07/19 09:27:59! Al Raftis is on vacation and folds
+! 11/07/19 09:31:00! James Bond calls 
+! 11/07/19 09:31:00! Zbigniew is on vacation and folds
+! 11/07/19 10:24:21! Brian Huss raises $550 to $700 total 
+! 11/07/19 10:42:54! SCSI folds
+! 11/07/19 10:50:31! ChipRider calls 
+! 11/07/19 12:05:44! HK calls 
+! 11/07/19 12:26:40! Tony Gurney calls 
+! 11/07/19 13:08:07! James Bond calls 
+
+! 11/07/19 13:08:07! Pot right ($3575), flopping/dealing/drawing cards
+! 11/07/19 13:08:07! 5 players
+! 11/07/19 13:08:07! Flopped cards: 9c Qd 9d
+! 11/07/19 13:21:19! ChipRider checks
+! 11/07/19 13:40:36! HK checks
+! 11/07/19 15:04:28! Tony Gurney checks
+! 11/07/19 15:17:31! James Bond bets $4000 
+! 11/07/19 15:34:37! Brian Huss calls 
+! 11/07/19 16:24:06! ChipRider folds
+! 11/07/19 21:09:34! HK folds
+! 11/08/19 00:05:29! Tony Gurney folds
+
+! 11/08/19 00:05:29! Pot right ($11575), flopping/dealing/drawing cards
+! 11/08/19 00:05:29! 2 players
+! 11/08/19 00:05:29! Flopped card: Ad
+! 11/08/19 06:06:20! James Bond bets $10000 
+! 11/08/19 06:13:13! Brian Huss raises $12000 to $22000 total 
+! 11/08/19 06:17:13! James Bond raises $22425 to $44425 total and is all in
+! 11/08/19 06:18:44! Brian Huss calls - side pot
+
+! 11/08/19 06:18:44! Pot right ($97850), flopping/dealing/drawing cards
+! 11/08/19 06:18:44! 2 players, 2 all in
+! 11/08/19 06:18:44! Flopped card: 3h
+! Hand over, current board is:  9c Qd 9d Ad 3h
+! James Bond               has: Ah 9h
+! Brian Huss               has: 5d 3d
+! Pot 1: uncalled $2575 returned to James Bond
+! Pot 2: James Bond wins $95275 with Full House (9 9 9 A A)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Tony Gurney              |   50900 |         |      |    |         |
+ 2|V  Al Raftis                |   49925 |         | NoSho|    |         |
+ 3|   James Bond               |   97850 |         |      |    |         |
+ 4|V  Zbigniew                 |   49775 |         |<Gone>|    |         |
+ 6|D  SCSI                     |   53325 |         |      |    |         |
+ 7|   ChipRider                |   49225 |         |      |    |         |
+ 8|   Josh Moore               |   50000 |         |      |    |         |
+ 9|   HK                       |   49000 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Brian Huss is eliminated!
+! 535 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b26.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+This is the REAL WRGPT29.
+Changes to office hours and email addresses do not carry over from the
+practice round.
+You have been assigned a new ID and the round is "b".
+
+Good luck.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

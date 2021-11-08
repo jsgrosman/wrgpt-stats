@@ -1,0 +1,123 @@
+Subject: [b16.10459] Holdem Game Broadcast Message(*)
+
+! Table b16, Hand 35, Day 26
+
+! db222 calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Put it good              |   39975 |     150 |folded|    |         |
+ 2|>  Matthew                  |   34775 |   12650 |      |    |         |
+ 3|   TRC Expert               |   47175 |       0 |folded|    |         |
+ 4|   Sandy                    |   59975 |    2900 |folded|    |         |
+ 5|   db222                    |   45875 |   12650 |      |    |         |
+ 6|   Aquarian                 |   59275 |       0 |folded|    |         |
+ 7|   m13d                     |   51050 |     900 |folded|    |         |
+ 8|   SN                       |   49575 |       0 |folded|    |         |
+ 9|D  Home_Brew_Boy            |   91600 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/29/19 00:24:12! Dealing a new hand
+! 11/29/19 00:24:12! No ante
+! 11/29/19 00:24:12! Put it good blinds $150
+! 11/29/19 00:24:12! Matthew blinds $300
+! 11/29/19 09:55:58! TRC Expert folds
+! 11/29/19 09:55:58! Sandy raises $600 to $900 total 
+! 11/29/19 10:34:38! db222 calls 
+! 11/29/19 10:34:38! Aquarian folds
+! 11/29/19 10:55:52! m13d calls 
+! 11/29/19 10:55:52! SN folds
+! 11/29/19 10:55:52! Home_Brew_Boy folds
+! 11/29/19 12:20:53! Put it good folds
+! 11/29/19 12:20:53! Matthew calls 
+
+! 11/29/19 12:20:53! Pot right ($3750), flopping/dealing/drawing cards
+! 11/29/19 12:20:53! 4 players
+! 11/29/19 12:20:53! Flopped cards: 5d 3c 6d
+! 11/29/19 12:37:52! Matthew checks
+! 11/29/19 12:58:29! Sandy bets $2000 
+! 11/29/19 13:36:38! db222 calls 
+! 11/29/19 13:37:20! m13d folds
+! 11/29/19 14:03:25! Matthew calls 
+
+! 11/29/19 14:03:25! Pot right ($9750), flopping/dealing/drawing cards
+! 11/29/19 14:03:25! 3 players
+! 11/29/19 14:03:25! Flopped card: 8s
+! 11/29/19 14:06:56! Matthew checks
+! 11/29/19 14:22:49! Sandy checks
+! 11/29/19 14:40:33! db222 bets $2750 
+! 11/29/19 17:11:18! Matthew calls 
+! 11/29/19 17:35:46! Sandy folds
+
+! 11/29/19 17:35:46! Pot right ($15250), flopping/dealing/drawing cards
+! 11/29/19 17:35:46! 2 players
+! 11/29/19 17:35:46! Flopped card: 9d
+! 11/29/19 17:42:28! Matthew bets $7000 
+! 11/29/19 17:57:50! db222 calls 
+! Hand over, current board is:  5d 3c 6d 8s 9d
+! Matthew                  has: 5h 4h
+! db222                    has: Qh Qd
+! db222 wins $29250 (net $16600) with One Pair (Q Q 9 8 6)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  Put it good              |   39975 |         |      |    |         |
+ 2|>  Matthew                  |   34775 |         |      |    |         |
+ 3|   TRC Expert               |   47175 |         |      |    |         |
+ 4|   Sandy                    |   59975 |         |      |    |         |
+ 5|   db222                    |   75125 |         |      |    |         |
+ 6|   Aquarian                 |   59275 |         |      |    |         |
+ 7|   m13d                     |   51050 |         |      |    |         |
+ 8|   SN                       |   49575 |         |      |    |         |
+ 9|   Home_Brew_Boy            |   91600 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 478 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b16.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that have not come to the table by the end
+of day 30 will be removed.
+
+Players that are away from the tables for 45 days 
+will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

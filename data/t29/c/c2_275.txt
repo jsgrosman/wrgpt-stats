@@ -1,0 +1,113 @@
+Subject: [c2.11331] Holdem Game Broadcast Message(*)
+
+! Table c2, Hand 275, Day 100
+
+! Tom A calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  ERIC C MOORE             |  417325 |   17175 |      |    |         |
+ 2|   Tom A                    |  336350 |   17175 |      |    |         |
+ 3|   Greg P                   |   98225 |     400 |folded|    |         |
+ 5|   Benjamin Irving          |   73875 |     400 |folded|    |         |
+ 7|   woodstock                |  277375 |     400 |folded|    |         |
+ 8|D  DroogieDroog             |  114375 |     400 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/10/20 18:33:30! Dealing a new hand
+! 02/10/20 18:33:30! Everyone antes $400
+! 02/10/20 18:33:30! ERIC C MOORE blinds $1600
+! 02/10/20 18:33:30! Tom A blinds $3200
+! 02/10/20 18:34:44! Greg P folds
+! 02/10/20 19:08:34! Benjamin Irving folds
+! 02/10/20 19:08:34! woodstock folds
+! 02/10/20 19:08:34! DroogieDroog folds
+! 02/10/20 19:12:04! ERIC C MOORE calls 
+! 02/11/20 00:52:12! Tom A raises $8800 to $12000 total 
+! 02/11/20 02:55:30! ERIC C MOORE calls 
+
+! 02/11/20 02:55:30! Pot right ($26400), flopping/dealing/drawing cards
+! 02/11/20 02:55:30! 2 players
+! 02/11/20 02:55:30! Flopped cards: 4h 9d 3h
+! 02/11/20 02:57:58! ERIC C MOORE checks
+! 02/11/20 05:22:49! Tom A checks
+
+! 02/11/20 05:22:49! Pot right ($26400), flopping/dealing/drawing cards
+! 02/11/20 05:22:49! 2 players
+! 02/11/20 05:22:49! Flopped card: 4d
+! 02/11/20 05:30:04! ERIC C MOORE checks
+! 02/11/20 06:57:01! Tom A checks
+
+! 02/11/20 06:57:01! Pot right ($26400), flopping/dealing/drawing cards
+! 02/11/20 06:57:01! 2 players
+! 02/11/20 06:57:01! Flopped card: 6h
+! 02/11/20 07:14:09! ERIC C MOORE bets $4775 
+! 02/11/20 08:04:12! Tom A calls 
+! Hand over, current board is:  4h 9d 3h 4d 6h
+! ERIC C MOORE             has: As Jc
+! Tom A                    has: Kh Ad
+! Tom A wins $35950 (net $18775) with One Pair (4 4 A K 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D> ERIC C MOORE             |  417325 |         |      |    |         |
+ 2|   Tom A                    |  372300 |         |      |    |         |
+ 3|   Greg P                   |   98225 |         |      |    |         |
+ 5|   Benjamin Irving          |   73875 |         |      |    |         |
+ 7|   woodstock                |  277375 |         |      |    |         |
+ 8|   DroogieDroog             |  114375 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 182 players left in the tournament, 3 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c2.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+We are now over 30 days in round "c".  Automatic
+table breaking and live redraws have been disabled.
+We will play until one or more tables gets below six
+players.  When that happens all tables will finish
+the current hand and a full redraw will occur into
+the "d" round.
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 34
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

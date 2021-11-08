@@ -1,0 +1,121 @@
+Subject: [b30.10585] Holdem Game Broadcast Message(*)
+
+! Table b30, Hand 42, Day 60
+
+! Piney Boy calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   NNR13                    |   53775 |     100 |folded|    |         |
+ 2|   Piney Boy                |   56975 |    7000 |      |    |         |
+ 3|   Rollo                    |   19925 |     100 |folded|    |         |
+ 4|   Bob R                    |   79750 |     100 |folded|    |         |
+ 5|   PMD                      |   48100 |     100 |folded|    |         |
+ 7|D  Swamper_Shirley          |  110525 |     100 |folded|    |         |
+ 8|>  DMW                      |   66350 |    7000 |      |    |         |
+ 9|   kmommy                   |   59675 |    1100 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/31/19 15:59:06! Dealing a new hand
+! 12/31/19 15:59:06! Everyone antes $100
+! 12/31/19 15:59:06! DMW blinds $250
+! 12/31/19 15:59:06! kmommy blinds $500
+! 12/31/19 16:14:43! NNR13 folds
+! 01/01/20 08:43:48! Piney Boy raises $500 to $1000 total 
+! 01/01/20 09:03:28! Rollo folds
+! 01/01/20 10:31:43! Bob R folds
+! 01/02/20 09:41:11! PMD folds
+! 01/02/20 09:41:11! Swamper_Shirley folds
+! 01/02/20 09:41:11! DMW calls 
+! 01/02/20 09:48:45! kmommy calls 
+
+! 01/02/20 09:48:45! Pot right ($3800), flopping/dealing/drawing cards
+! 01/02/20 09:48:45! 3 players
+! 01/02/20 09:48:45! Flopped cards: 4h Ah Js
+! 01/02/20 10:04:29! DMW checks
+! 01/02/20 10:11:48! kmommy checks
+! 01/02/20 10:25:18! Piney Boy bets $2000 
+! 01/02/20 10:26:25! DMW calls 
+! 01/02/20 10:33:13! kmommy folds
+
+! 01/02/20 10:33:13! Pot right ($7800), flopping/dealing/drawing cards
+! 01/02/20 10:33:13! 2 players
+! 01/02/20 10:33:13! Flopped card: 9c
+! 01/02/20 10:34:07! DMW checks
+! 01/02/20 10:36:40! Piney Boy checks
+
+! 01/02/20 10:36:40! Pot right ($7800), flopping/dealing/drawing cards
+! 01/02/20 10:36:40! 2 players
+! 01/02/20 10:36:40! Flopped card: 8c
+! 01/02/20 10:39:59! DMW bets $3900 
+! 01/02/20 10:41:27! Piney Boy calls 
+! Hand over, current board is:  4h Ah Js 9c 8c
+! Piney Boy                has: Jc 5c
+! DMW                      has: Kh Qh
+! Piney Boy wins $15600 (net $8600) with One Pair (J J A 9 8)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   NNR13                    |   53775 |         |      |    |         |
+ 2|   Piney Boy                |   72575 |         |      |    |         |
+ 3|   Rollo                    |   19925 |         |      |    |         |
+ 4|   Bob R                    |   79750 |         |      |    |         |
+ 5|   PMD                      |   48100 |         |      |    |         |
+ 7|   Swamper_Shirley          |  110525 |         |      |    |         |
+ 8|D> DMW                      |   66350 |         |      |    |         |
+ 9|   kmommy                   |   59675 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 344 players left in the tournament 
+! Table finished, waiting to redraw seats.
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b30.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+After day 45 of the tourney there will be no
+more live redraws or breaking tables.  Tables
+will be allowed to run until a table gets to 
+five or fewer players at which time all tables
+will finish the current hand and a full, random
+redraw to all new tables will be done.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 61
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

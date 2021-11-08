@@ -1,0 +1,119 @@
+Subject: [b18.10517] Holdem Game Broadcast Message(*)
+
+! Table b18, Hand 44, Day 26
+
+! Bugsy checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Ken Doss                 |   51400 |     300 |folded|    |         |
+ 2|   Blackcove                |   50775 |       0 |folded|    |         |
+ 3|>  BustedYourMom            |   43000 |    5550 |      |    |         |
+ 4|   Aardvark                 |   65275 |       0 |folded|    |         |
+ 5|   Clark Olson              |   43200 |       0 |folded|    |         |
+ 6|   anjampie                 |   40150 |       0 |folded|    |         |
+ 7|   Bugsy                    |   67600 |    5550 |      |    |         |
+ 8|D  TheJD                    |   34150 |       0 |folded|    |         |
+ 9|   Amanjyaku                |   28825 |     150 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/27/19 17:54:44! Dealing a new hand
+! 11/27/19 17:54:44! No ante
+! 11/27/19 17:54:44! Amanjyaku blinds $150
+! 11/27/19 17:54:44! Ken Doss blinds $300
+! 11/27/19 20:21:55! Blackcove folds
+! 11/27/19 22:00:16! BustedYourMom raises $450 to $750 total 
+! 11/27/19 22:00:16! Aardvark folds
+! 11/27/19 22:00:16! Clark Olson folds
+! 11/27/19 22:42:41! anjampie folds
+! 11/28/19 06:58:54! Bugsy calls 
+! 11/28/19 07:13:46! TheJD folds
+! 11/28/19 07:13:46! Amanjyaku folds
+! 11/28/19 16:19:11! Ken Doss folds
+
+! 11/28/19 16:19:11! Pot right ($1950), flopping/dealing/drawing cards
+! 11/28/19 16:19:11! 2 players
+! 11/28/19 16:19:11! Flopped cards: 4d 10h 2h
+! 11/28/19 16:26:07! BustedYourMom checks
+! 11/28/19 16:47:21! Bugsy checks
+
+! 11/28/19 16:47:21! Pot right ($1950), flopping/dealing/drawing cards
+! 11/28/19 16:47:21! 2 players
+! 11/28/19 16:47:21! Flopped card: 2c
+! 11/28/19 16:53:13! BustedYourMom bets $600 
+! 11/28/19 17:21:46! Bugsy raises $1400 to $2000 total 
+! 11/29/19 06:35:12! BustedYourMom raises $2800 to $4800 total 
+! 11/29/19 06:39:37! Bugsy calls 
+
+! 11/29/19 06:39:37! Pot right ($11550), flopping/dealing/drawing cards
+! 11/29/19 06:39:37! 2 players
+! 11/29/19 06:39:37! Flopped card: 2s
+! 11/29/19 06:44:20! BustedYourMom checks
+! 11/29/19 07:53:42! Bugsy checks
+! Hand over, current board is:  4d 10h 2h 2c 2s
+! BustedYourMom            has: As Ah
+! Bugsy                    has: 5h 4h
+! BustedYourMom wins $11550 (net $6000) with Full House (2 2 2 A A)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Ken Doss                 |   51400 |         |      |    |         |
+ 2|   Blackcove                |   50775 |         |      |    |         |
+ 3|>  BustedYourMom            |   54550 |         |      |    |         |
+ 4|   Aardvark                 |   65275 |         |      |    |         |
+ 5|   Clark Olson              |   43200 |         |      |    |         |
+ 6|   anjampie                 |   40150 |         |      |    |         |
+ 7|   Bugsy                    |   67600 |         |      |    |         |
+ 8|   TheJD                    |   34150 |         |      |    |         |
+ 9|D  Amanjyaku                |   28825 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 480 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b18.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that have not come to the table by the end
+of day 30 will be removed.
+
+Players that are away from the tables for 45 days 
+will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

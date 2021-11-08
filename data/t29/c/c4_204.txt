@@ -1,0 +1,121 @@
+Subject: [c4.10653] Holdem Game Broadcast Message(*)
+
+! Table c4, Hand 204, Day 92
+
+! Jeff Okamoto checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Jeff Okamoto             |   56625 |    5300 |      |    |         |
+ 2|   GoBig                    |   94750 |     300 |folded|    |         |
+ 3|   Ken Kubey                |   99300 |     300 |folded|    |         |
+ 4|   FruitFoot                |  126650 |     300 |folded|    |         |
+ 5|   Righteous Indignation    |  210300 |     300 |folded|    |         |
+ 6|   Motown                   |   79100 |     300 |folded|    |         |
+ 7|   Klod                     |  121375 |       0 |New   |    |         |
+ 8|D  Barrett                  |  105500 |     300 |folded|    |         |
+ 9|>  Sir Barlow               |  305075 |    5300 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/02/20 17:16:12! Dealing a new hand
+! 02/02/20 17:16:12! Everyone antes $300
+! 02/02/20 17:16:12! Sir Barlow blinds $1000
+! 02/02/20 17:16:12! Jeff Okamoto blinds $2000
+! 02/02/20 17:46:15! GoBig folds
+_____________________________________________________________________________
+
+! Didn?t want to time out on the last hand.
+! -- Ken Kubey --
+_____________________________________________________________________________
+
+! 02/02/20 19:49:04! Ken Kubey folds
+! 02/02/20 19:49:04! FruitFoot folds
+! 02/03/20 04:15:06! New player added to the table: Klod
+! 02/03/20 06:46:33! Righteous Indignation folds
+! 02/03/20 06:46:33! Motown folds
+! 02/03/20 06:46:33! Barrett folds
+! 02/03/20 06:50:38! Sir Barlow calls 
+! 02/03/20 08:21:24! Jeff Okamoto checks
+
+! 02/03/20 08:21:24! Pot right ($6400), flopping/dealing/drawing cards
+! 02/03/20 08:21:24! 2 players
+! 02/03/20 08:21:24! Flopped cards: 6s 6d Jc
+! 02/03/20 08:22:34! Sir Barlow checks
+! 02/03/20 08:34:14! Jeff Okamoto bets $3000 
+! 02/03/20 08:39:42! Sir Barlow calls 
+
+! 02/03/20 08:39:42! Pot right ($12400), flopping/dealing/drawing cards
+! 02/03/20 08:39:42! 2 players
+! 02/03/20 08:39:42! Flopped card: 7s
+! 02/03/20 08:40:25! Sir Barlow checks
+! 02/03/20 08:50:24! Jeff Okamoto checks
+
+! 02/03/20 08:50:24! Pot right ($12400), flopping/dealing/drawing cards
+! 02/03/20 08:50:24! 2 players
+! 02/03/20 08:50:24! Flopped card: 3h
+! 02/03/20 08:51:32! Sir Barlow checks
+! 02/03/20 08:58:51! Jeff Okamoto checks
+! Hand over, current board is:  6s 6d Jc 7s 3h
+! Jeff Okamoto             has: Kh 9c
+! Sir Barlow               has: Ac 4c
+! Sir Barlow wins $12400 (net $7100) with One Pair (6 6 A J 7)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Jeff Okamoto             |   56625 |         |      |    |         |
+ 2|   GoBig                    |   94750 |         |      |    |         |
+ 3|   Ken Kubey                |   99300 |         |      |    |         |
+ 4|   FruitFoot                |  126650 |         |      |    |         |
+ 5|   Righteous Indignation    |  210300 |         |      |    |         |
+ 6|   Motown                   |   79100 |         |      |    |         |
+ 7|   Klod                     |  121375 |         |      |    |         |
+ 8|   Barrett                  |  105500 |         |      |    |         |
+ 9|D> Sir Barlow               |  317475 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 211 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c4.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 5
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

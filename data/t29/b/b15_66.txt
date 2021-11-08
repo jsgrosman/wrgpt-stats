@@ -1,0 +1,120 @@
+Subject: [b15.10874] Holdem Game Broadcast Message(*)
+
+! Table b15, Hand 66, Day 36
+
+! Nyte calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Floyd H. McKay           |   33600 |      25 |folded|    |         |
+ 2|   bluecandy                |   45075 |      25 |folded|    |         |
+ 3|D  BigElmo                  |   30650 |      25 |folded|    |         |
+ 4|   TrayRacer                |   71725 |     175 |folded|    |         |
+ 5|>  JakeyD                   |   56900 |    2475 |      |    |         |
+ 6|   Bob The Butcher          |   66700 |     325 |folded|    |         |
+ 7|   robo                     |   46075 |      25 |folded|    |         |
+ 8|   Simon McAndrews          |   41850 |      25 |folded|    |         |
+ 9|   Nyte                     |   51850 |    2475 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/08/19 14:19:33! Dealing a new hand
+! 12/08/19 14:19:33! Everyone antes $25
+! 12/08/19 14:19:33! TrayRacer blinds $150
+! 12/08/19 14:19:33! JakeyD blinds $300
+! 12/08/19 14:20:31! Bob The Butcher calls 
+! 12/08/19 14:21:17! robo folds
+! 12/08/19 15:10:22! Simon McAndrews folds
+! 12/08/19 15:17:02! Nyte calls 
+! 12/08/19 15:17:02! Floyd H. McKay folds
+! 12/08/19 21:30:36! bluecandy folds
+! 12/08/19 21:34:31! BigElmo folds
+! 12/08/19 21:38:02! TrayRacer folds
+! 12/09/19 03:49:44! JakeyD checks
+
+! 12/09/19 03:49:44! Pot right ($1275), flopping/dealing/drawing cards
+! 12/09/19 03:49:44! 3 players
+! 12/09/19 03:49:44! Flopped cards: 7d 5s Ks
+! 12/09/19 03:55:29! JakeyD checks
+! 12/09/19 04:20:29! Bob The Butcher checks
+! 12/09/19 04:54:58! Nyte bets $650 
+! 12/09/19 05:06:19! JakeyD calls 
+! 12/09/19 05:07:52! Bob The Butcher folds
+
+! 12/09/19 05:07:52! Pot right ($2575), flopping/dealing/drawing cards
+! 12/09/19 05:07:52! 2 players
+! 12/09/19 05:07:52! Flopped card: 5d
+! 12/09/19 05:15:09! JakeyD checks
+! 12/09/19 05:21:25! Nyte checks
+
+! 12/09/19 05:21:25! Pot right ($2575), flopping/dealing/drawing cards
+! 12/09/19 05:21:25! 2 players
+! 12/09/19 05:21:25! Flopped card: 9d
+! 12/09/19 05:31:05! JakeyD bets $1500 
+! 12/09/19 05:38:54! Nyte calls 
+! Hand over, current board is:  7d 5s Ks 5d 9d
+! JakeyD                   has: Js 5h
+! Nyte                     has: As Kd
+! JakeyD wins $5575 (net $3100) with Three of a Kind (5 5 5 K J)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Floyd H. McKay           |   33600 |         |      |    |         |
+ 2|   bluecandy                |   45075 |         |      |    |         |
+ 3|   BigElmo                  |   30650 |         |      |    |         |
+ 4|D  TrayRacer                |   71725 |         |      |    |         |
+ 5|>  JakeyD                   |   62475 |         |      |    |         |
+ 6|   Bob The Butcher          |   66700 |         |      |    |         |
+ 7|   robo                     |   46075 |         |      |    |         |
+ 8|   Simon McAndrews          |   41850 |         |      |    |         |
+ 9|   Nyte                     |   51850 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 447 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b15.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that have not come to the table by the end
+of day 30 will be removed.
+
+Players that are away from the tables for 45 days 
+will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 12
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

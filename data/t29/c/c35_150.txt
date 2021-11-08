@@ -1,0 +1,116 @@
+Subject: [c35.10076] Holdem Game Broadcast Message(*)
+
+! Table c35, Hand 150, Day 65
+
+! Thumper calls 
+! Pot right ($42600), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 2d
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   StingRay                 |       0 |   20500 |all-in|    |         |
+ 2|   Motown                   |   71725 |     100 |folded|    |         |
+ 3|   Put it good              |   28150 |     100 |folded|    |         |
+ 4|   Jim Sokoloff             |   46875 |     100 |folded|    |         |
+ 5|   panfried                 |   68625 |     600 |folded|    |         |
+ 6|D  eldiablo505              |   45725 |     100 |folded|    |         |
+ 7|   BT                       |   93650 |     600 |folded|    |         |
+ 8|>  Thumper                  |  176850 |   20500 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/06/20 17:57:36! Dealing a new hand
+! 01/06/20 17:57:36! Everyone antes $100
+! 01/06/20 17:57:36! BT blinds $250
+! 01/06/20 17:57:36! Thumper blinds $500
+! 01/06/20 18:18:30! StingRay calls 
+! 01/06/20 19:29:03! Motown folds
+! 01/06/20 23:33:28! Put it good folds
+! 01/07/20 02:30:00! Jim Sokoloff folds
+! 01/07/20 04:27:45! panfried calls 
+! 01/07/20 04:27:45! eldiablo505 folds
+! 01/07/20 05:37:07! BT calls 
+! 01/07/20 05:56:53! Thumper checks
+
+! 01/07/20 05:56:53! Pot right ($2800), flopping/dealing/drawing cards
+! 01/07/20 05:56:53! 4 players
+! 01/07/20 05:56:53! Flopped cards: Jh 7h 2c
+! 01/07/20 05:58:40! BT checks
+! 01/07/20 06:00:51! Thumper bets $1000 
+! 01/07/20 06:04:48! StingRay calls 
+! 01/07/20 06:26:57! panfried folds
+! 01/07/20 06:29:51! BT folds
+
+! 01/07/20 06:29:51! Pot right ($4800), flopping/dealing/drawing cards
+! 01/07/20 06:29:51! 2 players
+! 01/07/20 06:29:51! Flopped card: 10c
+! 01/07/20 06:39:13! Thumper bets $2000 
+! 01/07/20 06:41:12! StingRay raises $16900 to $18900 total and is all in
+! 01/07/20 06:47:23! Thumper calls 
+
+! 01/07/20 06:47:23! Pot right ($42600), flopping/dealing/drawing cards
+! 01/07/20 06:47:23! 2 players, 1 all in
+! 01/07/20 06:47:23! Flopped card: 2d
+! Hand over, current board is:  Jh 7h 2c 10c 2d
+! StingRay                 has: 9c 7c
+! Thumper                  has: Qh Qc
+! Thumper wins $42600 (net $22100) with Two Pair (Q Q 2 2 J)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|   Motown                   |   71725 |         |      |    |         |
+ 3|   Put it good              |   28150 |         |      |    |         |
+ 4|   Jim Sokoloff             |   46875 |         |      |    |         |
+ 5|   panfried                 |   68625 |         |      |    |         |
+ 6|   eldiablo505              |   45725 |         |      |    |         |
+ 7|D  BT                       |   93650 |         |      |    |         |
+ 8|>  Thumper                  |  219450 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! StingRay is eliminated!
+! 333 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c35.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

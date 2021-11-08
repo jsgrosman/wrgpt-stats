@@ -1,0 +1,131 @@
+Subject: [c15.10717] Holdem Game Broadcast Message(*)
+
+! Table c15, Hand 208, Day 99
+
+! Ableseaman calls - side pot
+! Pot right ($287475), flopping/dealing/drawing cards
+! 3 players, 2 all in
+! Flopped card: 7s
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Tiltdad                  |   64550 |     400 |folded|    |         |
+ 2|   Per Landberger           |  149750 |     400 |folded|    |         |
+ 3|D  Rick Brown               |  159850 |     400 |folded|    |         |
+ 4|   ScoobySnack              |  184300 |    3600 |folded|    |         |
+ 5|   Deborah Abel             |       0 |   43400 |all-in|  3 |  135800 |
+ 6|   Ableseaman               |       0 |  119075 |all-in|  2 |  151350 |
+ 7|   Kit Woolsey              |   66900 |     400 |folded|    |         |
+ 8|>  AveCat                   |   79325 |  119400 |      |  1 |     325 |
+ 9|   quas2000                 |   50850 |     400 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/10/20 11:34:08! Dealing a new hand
+! 02/10/20 11:34:08! Everyone antes $400
+! 02/10/20 11:34:08! ScoobySnack blinds $1600
+! 02/10/20 11:34:08! Deborah Abel blinds $3200
+! 02/10/20 12:03:25! Ableseaman calls 
+! 02/10/20 12:03:25! Kit Woolsey folds
+! 02/10/20 12:12:56! AveCat calls 
+! 02/10/20 12:16:37! quas2000 folds
+! 02/10/20 14:44:33! Tiltdad folds
+! 02/10/20 14:44:33! Per Landberger folds
+! 02/10/20 14:44:33! Rick Brown folds
+! 02/10/20 14:44:33! ScoobySnack calls 
+! 02/10/20 14:44:33! Deborah Abel checks
+
+! 02/10/20 14:44:33! Pot right ($16400), flopping/dealing/drawing cards
+! 02/10/20 14:44:33! 4 players
+! 02/10/20 14:44:33! Flopped cards: 3d Qc 4d
+! 02/10/20 14:46:45! ScoobySnack checks
+! 02/10/20 14:47:47! Deborah Abel bets $12000 
+! 02/10/20 15:35:43! Ableseaman calls 
+! 02/10/20 15:41:05! AveCat raises $27800 to $39800 total 
+! 02/10/20 15:41:05! ScoobySnack folds
+! 02/10/20 17:18:19! Deborah Abel calls and is all in
+! 02/10/20 18:05:28! Ableseaman calls 
+
+! 02/10/20 18:05:28! Pot right ($135800), flopping/dealing/drawing cards
+! 02/10/20 18:05:28! 3 players, 1 all in
+! 02/10/20 18:05:28! Flopped card: 5c
+! 02/10/20 18:37:10! Ableseaman bets $25000 
+! 02/10/20 18:39:08! AveCat raises $51000 to $76000 total 
+! 02/10/20 19:12:52! Ableseaman calls - side pot
+
+! 02/10/20 19:12:52! Pot right ($287475), flopping/dealing/drawing cards
+! 02/10/20 19:12:52! 3 players, 2 all in
+! 02/10/20 19:12:52! Flopped card: 7s
+! Hand over, current board is:  3d Qc 4d 5c 7s
+! Deborah Abel             has: Kd 10d
+! Ableseaman               has: Ad Kc
+! AveCat                   has: 8d 8c
+! Pot 1: uncalled $325 returned to AveCat
+! Pot 2: AveCat wins $151350 with One Pair (8 8 Q 7 5)
+! Pot 3: AveCat wins $135800 with One Pair (8 8 Q 7 5)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Tiltdad                  |   64550 |         |      |    |         |
+ 2|   Per Landberger           |  149750 |         |      |    |         |
+ 3|   Rick Brown               |  159850 |         |      |    |         |
+ 4|D  ScoobySnack              |  184300 |         |      |    |         |
+ 7|   Kit Woolsey              |   66900 |         |      |    |         |
+ 8|>  AveCat                   |  366800 |         |      |    |         |
+ 9|   quas2000                 |   50850 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Deborah Abel is eliminated!
+! Ableseaman is eliminated!
+! 183 players left in the tournament, 3 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c15.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+We are now over 30 days in round "c".  Automatic
+table breaking and live redraws have been disabled.
+We will play until one or more tables gets below six
+players.  When that happens all tables will finish
+the current hand and a full redraw will occur into
+the "d" round.
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 31
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

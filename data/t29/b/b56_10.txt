@@ -1,0 +1,102 @@
+Subject: [b56.10141] Holdem Game Broadcast Message(*)
+
+! Table b56, Hand 10, Day 6
+
+! beacon bot folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  beacon bot               |   56325 |    1900 |folded|    |         |
+ 2|   Eight of Spades          |   48150 |      75 |folded|    |         |
+ 3|>  Lobocs                   |   22450 |    4150 |      |    |         |
+ 4|   TheJD                    |   48200 |       0 |folded|    |         |
+ 5|   2fit2fold                |   53875 |       0 |folded|    |         |
+ 6|   mulligan                 |   48900 |       0 |folded|    |         |
+ 7|   not66                    |   54925 |       0 |folded|    |         |
+ 8|   ADBHOWLER                |   48775 |       0 |folded|    |         |
+ 9|   Righteous Indignation    |   62275 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/08/19 18:28:00! Dealing a new hand
+! 11/08/19 18:28:00! No ante
+! 11/08/19 18:28:00! Eight of Spades blinds $75
+! 11/08/19 18:28:00! Lobocs blinds $150
+! 11/08/19 18:28:42! TheJD folds
+! 11/08/19 20:10:54! 2fit2fold folds
+! 11/09/19 05:44:02! mulligan folds
+! 11/09/19 05:44:02! not66 folds
+! 11/09/19 05:44:02! ADBHOWLER folds
+! 11/09/19 05:44:02! Righteous Indignation folds
+! 11/09/19 06:05:36! beacon bot raises $250 to $400 total 
+! 11/09/19 06:17:02! Eight of Spades folds
+! 11/09/19 06:37:34! Lobocs raises $1500 to $1900 total 
+! 11/09/19 09:18:57! beacon bot calls 
+
+! 11/09/19 09:18:57! Pot right ($3875), flopping/dealing/drawing cards
+! 11/09/19 09:18:57! 2 players
+! 11/09/19 09:18:57! Flopped cards: Qd 4h 5s
+! 11/09/19 12:51:27! Lobocs bets $2250 
+! 11/09/19 13:18:30! beacon bot folds
+! Hand over, no showdown
+! Current board is:  Qd 4h 5s ? ?
+! Lobocs wins $6125 (net $1975)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   beacon bot               |   56325 |         |      |    |         |
+ 2|D  Eight of Spades          |   48150 |         |      |    |         |
+ 3|>  Lobocs                   |   28575 |         |      |    |         |
+ 4|   TheJD                    |   48200 |         |      |    |         |
+ 5|   2fit2fold                |   53875 |         |      |    |         |
+ 6|   mulligan                 |   48900 |         |      |    |         |
+ 7|   not66                    |   54925 |         |      |    |         |
+ 8|   ADBHOWLER                |   48775 |         |      |    |         |
+ 9|   Righteous Indignation    |   62275 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 534 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b56.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+This is the REAL WRGPT29.
+Changes to office hours and email addresses do not carry over from the
+practice round.
+You have been assigned a new ID and the round is "b".
+
+Good luck.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 3
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

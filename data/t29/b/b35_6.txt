@@ -1,0 +1,122 @@
+Subject: [b35.10107] Holdem Game Broadcast Message(*)
+
+! Table b35, Hand 6, Day 10
+
+! Mark Ito calls - side pot
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   fich                     |   52625 |       0 |folded|    |         |
+ 2|   Krushinski               |   49925 |       0 |folded|    |         |
+ 3|   MTpotts                  |   40375 |    9400 |folded|    |         |
+ 4|   TennisGeek               |   50600 |       0 |folded|    |         |
+ 5|   drjeys                   |   49100 |       0 |folded|    |         |
+ 6|D  OpinionatedGeek          |       0 |   56450 |all-in|  1 |    3975 |
+ 7|   StraightRaZoR            |   38525 |     900 |folded|    |         |
+ 8|>  Mark Ito                 |       0 |   52475 |all-in|  2 |  116150 |
+ 9|   Pvt_Pyle                 |   48725 |     900 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/11/19 06:01:38! Dealing a new hand
+! 11/11/19 06:01:38! No ante
+! 11/11/19 06:01:38! StraightRaZoR blinds $75
+! 11/11/19 06:01:38! Mark Ito blinds $150
+! 11/11/19 06:47:54! Pvt_Pyle calls 
+! 11/11/19 06:47:54! fich folds
+! 11/11/19 08:30:15! Krushinski folds
+! 11/11/19 10:17:25! MTpotts calls 
+! 11/11/19 10:17:25! TennisGeek folds
+! 11/11/19 13:56:19! drjeys folds
+! 11/11/19 13:57:55! OpinionatedGeek calls 
+! 11/11/19 14:42:12! StraightRaZoR calls 
+! 11/11/19 14:42:12! Mark Ito raises $750 to $900 total 
+! 11/11/19 14:52:47! Pvt_Pyle calls 
+! 11/11/19 16:19:26! MTpotts calls 
+! 11/11/19 23:19:53! OpinionatedGeek calls 
+! 11/11/19 23:19:53! StraightRaZoR calls 
+
+! 11/11/19 23:19:53! Pot right ($4500), flopping/dealing/drawing cards
+! 11/11/19 23:19:53! 5 players
+! 11/11/19 23:19:53! Flopped cards: 7s 4d 7h
+! 11/12/19 07:55:25! StraightRaZoR checks
+! 11/12/19 07:55:25! Mark Ito bets $2500 
+! 11/12/19 08:26:54! Pvt_Pyle folds
+! 11/12/19 10:13:33! MTpotts calls 
+! 11/12/19 10:16:32! OpinionatedGeek calls 
+! 11/12/19 10:27:54! StraightRaZoR folds
+
+! 11/12/19 10:27:54! Pot right ($12000), flopping/dealing/drawing cards
+! 11/12/19 10:27:54! 3 players
+! 11/12/19 10:27:54! Flopped card: Jd
+! 11/12/19 12:43:07! Mark Ito bets $6000 
+! 11/12/19 12:57:05! MTpotts calls 
+! 11/12/19 13:00:08! OpinionatedGeek calls 
+
+! 11/12/19 13:00:08! Pot right ($30000), flopping/dealing/drawing cards
+! 11/12/19 13:00:08! 3 players
+! 11/12/19 13:00:08! Flopped card: 8d
+! 11/12/19 13:07:24! Mark Ito bets $15000 
+! 11/12/19 13:41:21! MTpotts folds
+! 11/12/19 23:18:57! OpinionatedGeek raises $32050 to $47050 total and is all in
+! 11/13/19 00:30:14! Mark Ito calls - side pot
+! Hand over, current board is:  7s 4d 7h Jd 8d
+! OpinionatedGeek          has: 9s 9h
+! Mark Ito                 has: Ah Ad
+! Pot 1: uncalled $3975 returned to OpinionatedGeek
+! Pot 2: Mark Ito wins $116150 with Two Pair (A A 7 7 J)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   fich                     |   52625 |         |      |    |         |
+ 2|   Krushinski               |   49925 |         |      |    |         |
+ 3|   MTpotts                  |   40375 |         |      |    |         |
+ 4|   TennisGeek               |   50600 |         |      |    |         |
+ 5|   drjeys                   |   49100 |         |      |    |         |
+ 6|   OpinionatedGeek          |    3975 |         |      |    |         |
+ 7|D  StraightRaZoR            |   38525 |         |      |    |         |
+ 8|>  Mark Ito                 |  116150 |         |      |    |         |
+ 9|   Pvt_Pyle                 |   48725 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 530 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b35.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Good luck.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 7
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

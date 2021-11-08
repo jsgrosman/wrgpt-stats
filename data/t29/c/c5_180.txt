@@ -1,0 +1,114 @@
+Subject: [c5.10319] Holdem Game Broadcast Message(*)
+
+! Table c5, Hand 180, Day 79
+
+! Morgan calls and is all in
+! Pot right ($89400), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 4c
+! Flopped card: 8h
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   lawrence s               |   32100 |     800 |folded|    |         |
+ 2|>  Statistical Tie          |   59750 |   43700 |      |    |         |
+ 3|   Dave Palm                |  123025 |     200 |folded|    |         |
+ 4|   Morgan                   |       0 |   43700 |all-in|    |         |
+ 5|   PMedhurst                |   67250 |     200 |folded|    |         |
+ 6|   Bob R                    |   64400 |     200 |folded|    |         |
+ 7|   shaneless                |  130275 |     200 |folded|    |         |
+ 8|   Axel Foley               |  143800 |     200 |folded|    |         |
+ 9|D  FFigawi                  |   81700 |     200 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/20/20 20:03:36! Dealing a new hand
+! 01/20/20 20:03:36! Everyone antes $200
+! 01/20/20 20:03:36! lawrence s blinds $600
+! 01/20/20 20:03:36! Statistical Tie blinds $1200
+! 01/20/20 21:02:00! Dave Palm folds
+! 01/21/20 03:23:15! Morgan raises $2300 to $3500 total 
+! 01/21/20 13:02:01! PMedhurst folds
+! 01/21/20 13:02:01! Bob R folds
+! 01/21/20 13:02:01! shaneless folds
+! 01/21/20 13:02:01! Axel Foley folds
+! 01/21/20 13:02:01! FFigawi folds
+! 01/21/20 13:02:01! lawrence s folds
+! 01/21/20 13:02:01! Statistical Tie calls 
+
+! 01/21/20 13:02:01! Pot right ($9400), flopping/dealing/drawing cards
+! 01/21/20 13:02:01! 2 players
+! 01/21/20 13:02:01! Flopped cards: 9h Qd Kd
+! 01/21/20 13:20:40! Statistical Tie checks
+! 01/21/20 13:21:34! Morgan bets $5000 
+! 01/21/20 13:25:58! Statistical Tie raises $35000 to $40000 total 
+! 01/21/20 13:29:36! Morgan calls and is all in
+
+! 01/21/20 13:29:36! Pot right ($89400), flopping/dealing/drawing cards
+! 01/21/20 13:29:36! 2 players, 1 all in
+! 01/21/20 13:29:36! Flopped card: 4c
+! 01/21/20 13:29:36! Flopped card: 8h
+! Hand over, current board is:  9h Qd Kd 4c 8h
+! Statistical Tie          has: 9s 9c
+! Morgan                   has: Qh Ad
+! Statistical Tie wins $89400 (net $45700) with Three of a Kind (9 9 9 K Q)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  lawrence s               |   32100 |         |      |    |         |
+ 2|>  Statistical Tie          |  149150 |         |      |    |         |
+ 3|   Dave Palm                |  123025 |         |      |    |         |
+ 5|   PMedhurst                |   67250 |         |      |    |         |
+ 6|   Bob R                    |   64400 |         |      |    |         |
+ 7|   shaneless                |  130275 |         |      |    |         |
+ 8|   Axel Foley               |  143800 |         |      |    |         |
+ 9|   FFigawi                  |   81700 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Morgan is eliminated!
+! PMedhurst timed out during this hand
+! 273 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c5.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 15
+Live redraw in progress:
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

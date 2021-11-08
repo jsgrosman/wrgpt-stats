@@ -1,0 +1,122 @@
+Subject: [b36.10093] Holdem Game Broadcast Message(*)
+
+! Table b36, Hand 7, Day 5
+
+! sendlo checks
+! JRX checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   FruitFoot                |   50700 |       0 |folded|    |         |
+ 2|>  sendlo                   |   74675 |    5825 |      |    |         |
+ 3|   NotQuiteACISO            |   35425 |       0 |folded|    |         |
+ 4|   Laughter99               |   64725 |       0 |folded|    |         |
+ 5|   Willy Eckerslyke         |   19650 |     150 |folded|    |         |
+ 6|   Duncan                   |   47225 |       0 |folded|    |         |
+ 7|D  JRX                      |   60450 |    5825 |      |    |         |
+ 8|   Mother Speaks            |   34600 |      75 |folded|    |         |
+ 9|   Morgan                   |   50525 |     150 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/07/19 16:05:13! Dealing a new hand
+! 11/07/19 16:05:13! No ante
+! 11/07/19 16:05:13! Mother Speaks blinds $75
+! 11/07/19 16:05:13! Morgan blinds $150
+! 11/07/19 16:13:13! FruitFoot folds
+! 11/07/19 16:23:09! sendlo calls 
+! 11/07/19 16:23:09! NotQuiteACISO folds
+! 11/07/19 16:23:09! Laughter99 folds
+! 11/07/19 19:34:51! Willy Eckerslyke calls 
+! 11/07/19 19:34:51! Duncan folds
+! 11/07/19 19:34:51! JRX calls 
+! 11/07/19 19:34:51! Mother Speaks folds
+! 11/07/19 19:34:51! Morgan checks
+
+! 11/07/19 19:34:51! Pot right ($675), flopping/dealing/drawing cards
+! 11/07/19 19:34:51! 4 players
+! 11/07/19 19:34:51! Flopped cards: 3c 9c 3d
+! 11/07/19 19:34:51! Morgan checks
+! 11/07/19 20:14:56! sendlo checks
+! 11/07/19 22:50:45! Willy Eckerslyke checks
+! 11/08/19 05:22:57! JRX bets $675 
+! 11/08/19 05:22:57! Morgan folds
+! 11/08/19 07:17:46! sendlo calls 
+! 11/08/19 07:17:46! Willy Eckerslyke folds
+
+! 11/08/19 07:17:46! Pot right ($2025), flopping/dealing/drawing cards
+! 11/08/19 07:17:46! 2 players
+! 11/08/19 07:17:46! Flopped card: 4h
+! 11/08/19 07:33:27! sendlo checks
+! 11/08/19 08:40:30! JRX bets $1500 
+! 11/08/19 09:17:22! sendlo raises $3500 to $5000 total 
+! 11/08/19 09:34:49! JRX calls 
+
+! 11/08/19 09:34:49! Pot right ($12025), flopping/dealing/drawing cards
+! 11/08/19 09:34:49! 2 players
+! 11/08/19 09:34:49! Flopped card: 9d
+! 11/08/19 09:50:35! sendlo checks
+! 11/08/19 09:50:35! JRX checks
+! Hand over, current board is:  3c 9c 3d 4h 9d
+! sendlo                   has: 10h 3h
+! JRX                      has: 10c 7c
+! sendlo wins $12025 (net $6200) with Full House (3 3 3 9 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   FruitFoot                |   50700 |         |      |    |         |
+ 2|>  sendlo                   |   86700 |         |      |    |         |
+ 3|   NotQuiteACISO            |   35425 |         |      |    |         |
+ 4|   Laughter99               |   64725 |         |      |    |         |
+ 5|   Willy Eckerslyke         |   19650 |         |      |    |         |
+ 6|   Duncan                   |   47225 |         |      |    |         |
+ 7|   JRX                      |   60450 |         |      |    |         |
+ 8|D  Mother Speaks            |   34600 |         |      |    |         |
+ 9|   Morgan                   |   50525 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 538 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b36.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+This is the REAL WRGPT29.
+Changes to office hours and email addresses do not carry over from the
+practice round.
+You have been assigned a new ID and the round is "b".
+
+Good luck.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 10
+Live redraw in progress:
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

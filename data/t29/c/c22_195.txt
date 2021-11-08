@@ -1,0 +1,124 @@
+Subject: [c22.10512] Holdem Game Broadcast Message(*)
+
+! Table c22, Hand 195, Day 98
+
+! SuprAce calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|   Russ Fox                 |   53250 |     300 |folded|    |         |
+ 3|   Dan Driscoll             |   30500 |     300 |folded|    |         |
+ 4|>  Paul Ant                 |  127400 |   26500 |      |    |         |
+ 5|   jtk                      |   82800 |     300 |folded|    |         |
+ 6|   Bart Tichelman           |   63350 |     300 |folded|    |         |
+ 7|D  Jillian McKillican       |   72550 |     300 |folded|    |         |
+ 8|   SuprAce                  |   78325 |   26500 |      |    |         |
+ 9|   Glenn All-in             |   93550 |    4500 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/07/20 15:13:57! Dealing a new hand
+! 02/07/20 15:13:57! Everyone antes $300
+! 02/07/20 15:13:57! SuprAce blinds $1000
+! 02/07/20 15:13:57! Glenn All-in blinds $2000
+! 02/07/20 15:41:26! Russ Fox folds
+! 02/07/20 16:43:07! Dan Driscoll folds
+! 02/08/20 07:18:31! Paul Ant raises $2200 to $4200 total 
+! 02/08/20 08:11:53! jtk folds
+! 02/08/20 12:33:25! Bart Tichelman folds
+! 02/08/20 12:33:25! Jillian McKillican folds
+! 02/08/20 15:12:06! SuprAce calls 
+! 02/08/20 16:07:55! Glenn All-in calls 
+
+! 02/08/20 16:07:55! Pot right ($15000), flopping/dealing/drawing cards
+! 02/08/20 16:07:55! 3 players
+! 02/08/20 16:07:55! Flopped cards: 7c 9s 4c
+! 02/08/20 18:15:17! SuprAce checks
+! 02/08/20 19:44:41! Glenn All-in checks
+! 02/09/20 00:23:33! Paul Ant checks
+
+! 02/09/20 00:23:33! Pot right ($15000), flopping/dealing/drawing cards
+! 02/09/20 00:23:33! 3 players
+! 02/09/20 00:23:33! Flopped card: 8d
+! 02/09/20 09:43:56! SuprAce checks
+! 02/09/20 09:43:56! Glenn All-in checks
+! 02/09/20 10:28:53! Paul Ant bets $9000 
+! 02/09/20 10:39:47! SuprAce calls 
+! 02/09/20 10:39:47! Glenn All-in folds
+
+! 02/09/20 10:39:47! Pot right ($33000), flopping/dealing/drawing cards
+! 02/09/20 10:39:47! 2 players
+! 02/09/20 10:39:47! Flopped card: 6h
+! 02/09/20 10:40:37! SuprAce checks
+! 02/09/20 11:53:54! Paul Ant bets $13000 
+! 02/09/20 13:46:03! SuprAce calls 
+! Hand over, current board is:  7c 9s 4c 8d 6h
+! Paul Ant                 has: As 10s
+! SuprAce                  has: Qh 10h
+! Paul Ant wins $29500 (net $3000) with Straight (10 9 8 7 6)
+! SuprAce wins $29500 (net $3000) with Straight (10 9 8 7 6)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|   Russ Fox                 |   53250 |         |      |    |         |
+ 3|   Dan Driscoll             |   30500 |         |      |    |         |
+ 4|>  Paul Ant                 |  156900 |         |      |    |         |
+ 5|   jtk                      |   82800 |         |      |    |         |
+ 6|   Bart Tichelman           |   63350 |         |      |    |         |
+ 7|   Jillian McKillican       |   72550 |         |      |    |         |
+ 8|D  SuprAce                  |  107825 |         |      |    |         |
+ 9|   Glenn All-in             |   93550 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 188 players left in the tournament, 2 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c22.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+We are now over 30 days in round "c".  Automatic
+table breaking and live redraws have been disabled.
+We will play until one or more tables gets below six
+players.  When that happens all tables will finish
+the current hand and a full redraw will occur into
+the "d" round.
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 28
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

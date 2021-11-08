@@ -10,13 +10,17 @@ require_once "../vendor/autoload.php";
 use wrgpt\Parser;
 
 $rounds = [
-    'b' => 1,
+//    'b' => 1,
+//    'c' => 152,
+//    'd' => 261,
+//    'e' => 404,
+      'f' => 520
 ];
 
 foreach ($rounds as $roundName => $roundStart)
 {
     print "Round $roundName starting as $roundStart\n";
-    $dir = "../data/t29/$roundName";
+    $dir = "../data/t30/$roundName";
     if (!file_exists($dir))
     {
         mkdir($dir);

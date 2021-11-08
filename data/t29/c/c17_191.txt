@@ -1,0 +1,116 @@
+Subject: [c17.10580] Holdem Game Broadcast Message(*)
+
+! Table c17, Hand 191, Day 88
+
+! Ken Doss calls 
+! Pot right ($173700), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 10h
+! Flopped card: 4s
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Reggie Miller            |   49350 |       0 |New   |    |         |
+ 2|   Rich Guidoboni           |  375100 |     300 |folded|    |         |
+ 3|   Boiling Frog             |   62925 |     300 |folded|    |         |
+ 4|   JRX                      |  182425 |    6800 |folded|    |         |
+ 5|D  Buggzilla                |  176025 |    6800 |folded|    |         |
+ 6|   EricL                    |  111325 |    1300 |folded|    |         |
+ 7|   Bryan Currie             |       0 |   78950 |all-in|    |         |
+ 8|>  Ken Doss                 |   16400 |   78950 |      |    |         |
+ 9|   Htr                      |  141075 |     300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/29/20 15:43:22! Dealing a new hand
+! 01/29/20 15:43:22! Everyone antes $300
+! 01/29/20 15:43:22! EricL blinds $1000
+! 01/29/20 15:43:22! Bryan Currie blinds $2000
+! 01/29/20 16:08:26! Ken Doss calls 
+! 01/29/20 16:08:26! Htr folds
+! 01/29/20 16:33:43! Rich Guidoboni folds
+! 01/29/20 16:33:43! Boiling Frog folds
+! 01/29/20 18:33:05! JRX raises $4500 to $6500 total 
+! 01/29/20 18:38:39! Buggzilla calls 
+! 01/29/20 19:55:04! New player added to the table: Reggie Miller
+! 01/29/20 20:38:51! EricL folds
+! 01/29/20 20:41:25! Bryan Currie calls 
+! 01/30/20 07:31:20! Ken Doss calls 
+
+! 01/30/20 07:31:20! Pot right ($29400), flopping/dealing/drawing cards
+! 01/30/20 07:31:20! 4 players
+! 01/30/20 07:31:20! Flopped cards: Qd Qs Kd
+! 01/30/20 07:41:30! Bryan Currie checks
+! 01/30/20 07:44:43! Ken Doss bets $12000 
+! 01/30/20 08:54:13! JRX folds
+! 01/30/20 08:54:13! Buggzilla folds
+! 01/30/20 09:38:07! Bryan Currie raises $60150 to $72150 total and is all in
+! 01/30/20 09:46:33! Ken Doss calls 
+
+! 01/30/20 09:46:33! Pot right ($173700), flopping/dealing/drawing cards
+! 01/30/20 09:46:33! 2 players, 1 all in
+! 01/30/20 09:46:33! Flopped card: 10h
+! 01/30/20 09:46:33! Flopped card: 4s
+! Hand over, current board is:  Qd Qs Kd 10h 4s
+! Bryan Currie             has: As Jd
+! Ken Doss                 has: Jh Qc
+! Bryan Currie wins $173700 (net $94750) with Straight (A K Q J 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Reggie Miller            |   49350 |         |      |    |         |
+ 2|   Rich Guidoboni           |  375100 |         |      |    |         |
+ 3|   Boiling Frog             |   62925 |         |      |    |         |
+ 4|   JRX                      |  182425 |         |      |    |         |
+ 5|   Buggzilla                |  176025 |         |      |    |         |
+ 6|D  EricL                    |  111325 |         |      |    |         |
+ 7|   Bryan Currie             |  173700 |         |      |    |         |
+ 8|>  Ken Doss                 |   16400 |         |      |    |         |
+ 9|   Htr                      |  141075 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 228 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c17.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

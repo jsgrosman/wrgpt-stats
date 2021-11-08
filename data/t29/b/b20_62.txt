@@ -1,0 +1,117 @@
+Subject: [b20.10818] Holdem Game Broadcast Message(*)
+
+! Table b20, Hand 62, Day 40
+
+! Poolshark calls and is all in
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   jasong                   |  107750 |     175 |folded|    |         |
+ 2|   Elmis                    |   88025 |    2325 |folded|    |         |
+ 3|>  AAJogger                 |   46975 |   36050 |      |    |         |
+ 4|   Ben Buchwald             |   28925 |      25 |folded|    |         |
+ 5|   Jon H Nightingale        |   12375 |      25 |folded|    |         |
+ 6|   Chevy                    |   30125 |      25 |folded|    |         |
+ 7|   ADB Jaeger               |   36725 |      25 |folded|    |         |
+ 8|   cedwards170              |  101350 |      25 |folded|    |         |
+ 9|D  Poolshark                |       0 |   36050 |all-in|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/12/19 14:26:14! Dealing a new hand
+! 12/12/19 14:26:14! Everyone antes $25
+! 12/12/19 14:26:14! jasong blinds $150
+! 12/12/19 14:26:14! Elmis blinds $300
+! 12/12/19 17:03:00! AAJogger raises $2000 to $2300 total 
+! 12/12/19 19:14:14! Ben Buchwald folds
+! 12/12/19 19:14:14! Jon H Nightingale folds
+! 12/12/19 21:42:08! Chevy folds
+! 12/13/19 03:00:40! ADB Jaeger folds
+! 12/13/19 03:00:40! cedwards170 folds
+! 12/13/19 03:00:40! Poolshark calls 
+! 12/13/19 03:00:40! jasong folds
+! 12/13/19 03:23:48! Elmis calls 
+
+! 12/13/19 03:23:48! Pot right ($7275), flopping/dealing/drawing cards
+! 12/13/19 03:23:48! 3 players
+! 12/13/19 03:23:48! Flopped cards: 6c Ad 7d
+! 12/13/19 03:24:30! Elmis checks
+! 12/13/19 04:34:08! AAJogger bets $7275 
+! 12/13/19 05:16:16! Poolshark calls 
+! 12/13/19 05:16:16! Elmis folds
+
+! 12/13/19 05:16:16! Pot right ($21825), flopping/dealing/drawing cards
+! 12/13/19 05:16:16! 2 players
+! 12/13/19 05:16:16! Flopped card: 6s
+! 12/13/19 06:17:49! AAJogger checks
+! 12/13/19 07:09:24! Poolshark bets $5000 
+! 12/13/19 07:57:16! AAJogger calls 
+
+! 12/13/19 07:57:16! Pot right ($31825), flopping/dealing/drawing cards
+! 12/13/19 07:57:16! 2 players
+! 12/13/19 07:57:16! Flopped card: 9h
+! 12/13/19 07:59:33! AAJogger bets $21450 
+! 12/13/19 08:00:17! Poolshark calls and is all in
+! Hand over, current board is:  6c Ad 7d 6s 9h
+! AAJogger                 has: Kh Ac
+! Poolshark                has: 8d 6d
+! Poolshark wins $74725 (net $38675) with Three of a Kind (6 6 6 A 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  jasong                   |  107750 |         |      |    |         |
+ 2|   Elmis                    |   88025 |         |      |    |         |
+ 3|>  AAJogger                 |   46975 |         |      |    |         |
+ 4|   Ben Buchwald             |   28925 |         |      |    |         |
+ 5|   Jon H Nightingale        |   12375 |         |      |    |         |
+ 6|   Chevy                    |   30125 |         |      |    |         |
+ 7|   ADB Jaeger               |   36725 |         |      |    |         |
+ 8|   cedwards170              |  101350 |         |      |    |         |
+ 9|   Poolshark                |   74725 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 423 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b20.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables for 45 days 
+will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

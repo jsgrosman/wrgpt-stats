@@ -1,0 +1,105 @@
+Subject: [c20.10378] Holdem Game Broadcast Message(*)
+
+! Table c20, Hand 179, Day 89
+
+! JohnnyMac calls 
+! Pot right ($64750), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped cards: Ad 8c 3h
+! Flopped card: 7d
+! Flopped card: 6s
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  panfried                 |  316900 |     300 |folded|    |         |
+ 2|>  JohnnyMac                |   54650 |   31475 |      |    |         |
+ 3|   Cowabunga                |       0 |   31475 |all-in|    |         |
+ 4|   BluffaloBill             |   56800 |     300 |folded|    |         |
+ 5|   Sandy                    |   55200 |     300 |folded|    |         |
+ 6|   Britney                  |  114375 |     300 |folded|    |         |
+ 7|   Baldgriff                |   84975 |     300 |folded|    |         |
+ 8|   PMD                      |   75300 |     300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/31/20 09:05:34! Dealing a new hand
+! 01/31/20 09:05:34! Everyone antes $300
+! 01/31/20 09:05:34! JohnnyMac blinds $1000
+! 01/31/20 09:05:34! Cowabunga blinds $2000
+! 01/31/20 09:10:11! BluffaloBill folds
+! 01/31/20 10:11:51! Sandy folds
+! 01/31/20 10:11:51! Britney folds
+! 01/31/20 10:11:51! Baldgriff folds
+! 01/31/20 13:15:58! PMD folds
+! 01/31/20 13:15:58! panfried folds
+! 01/31/20 13:16:40! JohnnyMac raises $6000 to $8000 total 
+! 01/31/20 13:22:07! Cowabunga raises $23175 to $31175 total and is all in
+! 01/31/20 13:41:31! JohnnyMac calls 
+
+! 01/31/20 13:41:31! Pot right ($64750), flopping/dealing/drawing cards
+! 01/31/20 13:41:31! 2 players, 1 all in
+! 01/31/20 13:41:31! Flopped cards: Ad 8c 3h
+! 01/31/20 13:41:31! Flopped card: 7d
+! 01/31/20 13:41:31! Flopped card: 6s
+! Hand over, current board is:  Ad 8c 3h 7d 6s
+! JohnnyMac                has: Qs Jh
+! Cowabunga                has: Ks 8s
+! Cowabunga wins $64750 (net $33275) with One Pair (8 8 A K 7)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   panfried                 |  316900 |         |      |    |         |
+ 2|D> JohnnyMac                |   54650 |         |      |    |         |
+ 3|   Cowabunga                |   64750 |         |      |    |         |
+ 4|   BluffaloBill             |   56800 |         |      |    |         |
+ 5|   Sandy                    |   55200 |         |      |    |         |
+ 6|   Britney                  |  114375 |         |      |    |         |
+ 7|   Baldgriff                |   84975 |         |      |    |         |
+ 8|   PMD                      |   75300 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 223 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c20.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 11
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

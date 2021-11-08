@@ -1,0 +1,113 @@
+Subject: [c1.10178] Holdem Game Broadcast Message(*)
+
+! Table c1, Hand 160, Day 69
+
+! BBLWOG calls - side pot
+! Pot right ($90175), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped card: 9d
+! Flopped card: 4h
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Seanbo                   |  106225 |     100 |folded|    |         |
+ 2|   Derrick Martins          |   66000 |     100 |folded|    |         |
+ 3|>  BBLWOG                   |       0 |   37375 |all-in|  2 |   76200 |
+ 4|   JoeBou4860               |       0 |   51350 |all-in|  1 |   13975 |
+ 5|   Blackcove                |   84250 |     100 |folded|    |         |
+ 6|   Charlie Tuna             |  122750 |     100 |folded|    |         |
+ 7|D  Shari Silk               |  160825 |     100 |folded|    |         |
+ 8|   Frank Russomanno         |   58750 |     350 |folded|    |         |
+ 9|   Joe Nadeau               |   32600 |     600 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/11/20 06:58:27! Dealing a new hand
+! 01/11/20 06:58:27! Everyone antes $100
+! 01/11/20 06:58:27! Frank Russomanno blinds $250
+! 01/11/20 06:58:27! Joe Nadeau blinds $500
+! 01/11/20 07:48:11! Seanbo folds
+! 01/11/20 07:48:11! Derrick Martins folds
+! 01/11/20 08:16:29! BBLWOG raises $2500 to $3000 total 
+! 01/11/20 08:22:09! JoeBou4860 calls 
+! 01/11/20 10:44:22! Blackcove folds
+! 01/11/20 14:42:03! Charlie Tuna folds
+! 01/11/20 14:42:03! Shari Silk folds
+! 01/11/20 14:54:06! Frank Russomanno folds
+! 01/11/20 14:54:06! Joe Nadeau folds
+
+! 01/11/20 14:54:06! Pot right ($7650), flopping/dealing/drawing cards
+! 01/11/20 14:54:06! 2 players
+! 01/11/20 14:54:06! Flopped cards: 3d 3c Jh
+! 01/11/20 16:59:38! BBLWOG bets $10000 
+! 01/11/20 17:02:10! JoeBou4860 raises $38250 to $48250 total and is all in
+! 01/11/20 19:34:03! BBLWOG calls - side pot
+
+! 01/11/20 19:34:03! Pot right ($90175), flopping/dealing/drawing cards
+! 01/11/20 19:34:03! 2 players, 2 all in
+! 01/11/20 19:34:03! Flopped card: 9d
+! 01/11/20 19:34:03! Flopped card: 4h
+! Hand over, current board is:  3d 3c Jh 9d 4h
+! BBLWOG                   has: As Ah
+! JoeBou4860               has: Js Qc
+! Pot 1: uncalled $13975 returned to JoeBou4860
+! Pot 2: BBLWOG wins $76200 with Two Pair (A A 3 3 J)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Seanbo                   |  106225 |         |      |    |         |
+ 2|   Derrick Martins          |   66000 |         |      |    |         |
+ 3|>  BBLWOG                   |   76200 |         |      |    |         |
+ 4|   JoeBou4860               |   13975 |         |      |    |         |
+ 5|   Blackcove                |   84250 |         |      |    |         |
+ 6|   Charlie Tuna             |  122750 |         |      |    |         |
+ 7|   Shari Silk               |  160825 |         |      |    |         |
+ 8|D  Frank Russomanno         |   58750 |         |      |    |         |
+ 9|   Joe Nadeau               |   32600 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 318 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c1.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 13
+Live redraw in progress:
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

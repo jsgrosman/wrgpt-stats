@@ -1,0 +1,117 @@
+Subject: [c6.10216] Holdem Game Broadcast Message(*)
+
+! Table c6, Hand 166, Day 73
+
+! Dino Bravo checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Elmis                    |   92150 |    1400 |folded|    |         |
+ 2|   Dino Bravo               |   72825 |   17900 |      |    |         |
+ 3|   FingerCramp              |   38150 |     200 |folded|    |         |
+ 4|   TRC Expert               |   84550 |     200 |folded|    |         |
+ 5|D  Abhishek Garg            |   53575 |     200 |folded|    |         |
+ 6|   Samueladams              |   54525 |     800 |folded|    |         |
+ 7|>  Wrongfellow              |   60975 |   17900 |      |    |         |
+ 8|   IReilly                  |   23575 |     200 |folded|    |         |
+ 9|   Mark Ito                 |   79650 |    1400 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/14/20 08:25:53! Dealing a new hand
+! 01/14/20 08:25:53! Everyone antes $200
+! 01/14/20 08:25:53! Samueladams blinds $600
+! 01/14/20 08:25:53! Wrongfellow blinds $1200
+! 01/14/20 09:09:11! IReilly folds
+! 01/14/20 09:09:11! Mark Ito calls 
+! 01/14/20 09:31:29! Elmis calls 
+! 01/14/20 09:55:21! Dino Bravo raises $2000 to $3200 total 
+! 01/14/20 09:57:27! FingerCramp folds
+! 01/14/20 09:57:27! TRC Expert folds
+! 01/14/20 10:48:04! Abhishek Garg folds
+! 01/14/20 14:49:02! Samueladams folds
+! 01/14/20 14:50:27! Wrongfellow raises $4500 to $7700 total 
+! 01/14/20 15:53:12! Mark Ito folds
+! 01/15/20 01:11:11! Elmis folds
+! 01/15/20 05:52:19! Dino Bravo calls 
+
+! 01/15/20 05:52:19! Pot right ($20200), flopping/dealing/drawing cards
+! 01/15/20 05:52:19! 2 players
+! 01/15/20 05:52:19! Flopped cards: 4c 7c 5d
+! 01/15/20 07:33:41! Wrongfellow bets $10000 
+! 01/15/20 07:47:57! Dino Bravo calls 
+
+! 01/15/20 07:47:57! Pot right ($40200), flopping/dealing/drawing cards
+! 01/15/20 07:47:57! 2 players
+! 01/15/20 07:47:57! Flopped card: As
+! 01/15/20 07:58:06! Wrongfellow checks
+! 01/15/20 08:22:34! Dino Bravo checks
+
+! 01/15/20 08:22:34! Pot right ($40200), flopping/dealing/drawing cards
+! 01/15/20 08:22:34! 2 players
+! 01/15/20 08:22:34! Flopped card: Qc
+! 01/15/20 09:01:50! Wrongfellow checks
+! 01/15/20 09:39:54! Dino Bravo checks
+! Hand over, current board is:  4c 7c 5d As Qc
+! Dino Bravo               has: Qd 10d
+! Wrongfellow              has: Ks Kc
+! Wrongfellow wins $40200 (net $22300) with One Pair (K K A Q 7)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Elmis                    |   92150 |         |      |    |         |
+ 2|   Dino Bravo               |   72825 |         |      |    |         |
+ 3|   FingerCramp              |   38150 |         |      |    |         |
+ 4|   TRC Expert               |   84550 |         |      |    |         |
+ 5|   Abhishek Garg            |   53575 |         |      |    |         |
+ 6|D  Samueladams              |   54525 |         |      |    |         |
+ 7|>  Wrongfellow              |  101175 |         |      |    |         |
+ 8|   IReilly                  |   23575 |         |      |    |         |
+ 9|   Mark Ito                 |   79650 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 301 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c6.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 10
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

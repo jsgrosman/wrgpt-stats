@@ -1,0 +1,118 @@
+Subject: [c6.10607] Holdem Game Broadcast Message(*)
+
+! Table c6, Hand 208, Day 94
+
+! Mark Ito calls - side pot
+! Pot right ($320475), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped card: Qd
+! Flopped card: 9d
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Elmis                    |   79200 |     300 |folded|    |         |
+ 2|   Dino Bravo               |  145575 |     300 |folded|    |         |
+ 3|   Jim Anderson             |  140350 |     300 |folded|    |         |
+ 4|   TRC Expert               |   63100 |     300 |folded|    |         |
+ 5|D  James Bond               |   99150 |     300 |folded|    |         |
+ 7|   Wrongfellow              |  123275 |    1300 |folded|    |         |
+ 8|   jpawloski                |       0 |  225425 |all-in|  1 |  133175 |
+ 9|>  Mark Ito                 |       0 |   92250 |all-in|  2 |  187300 |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/05/20 05:47:06! Dealing a new hand
+! 02/05/20 05:47:06! Everyone antes $300
+! 02/05/20 05:47:06! Wrongfellow blinds $1000
+! 02/05/20 05:47:06! jpawloski blinds $2000
+! 02/05/20 06:18:37! Mark Ito raises $7400 to $9400 total 
+! 02/05/20 06:19:27! Elmis folds
+! 02/05/20 09:40:41! Dino Bravo folds
+! 02/05/20 09:40:41! Jim Anderson folds
+! 02/05/20 10:51:01! TRC Expert folds
+! 02/05/20 11:08:04! James Bond folds
+! 02/05/20 11:08:04! Wrongfellow folds
+! 02/05/20 12:48:33! jpawloski calls 
+
+! 02/05/20 12:48:33! Pot right ($22200), flopping/dealing/drawing cards
+! 02/05/20 12:48:33! 2 players
+! 02/05/20 12:48:33! Flopped cards: 6h 4c 5c
+! 02/05/20 13:35:17! jpawloski checks
+! 02/05/20 13:38:43! Mark Ito bets $11100 
+! 02/05/20 13:44:03! jpawloski raises $204625 to $215725 total and is all in
+! 02/05/20 14:06:40! Mark Ito calls - side pot
+
+! 02/05/20 14:06:40! Pot right ($320475), flopping/dealing/drawing cards
+! 02/05/20 14:06:40! 2 players, 2 all in
+! 02/05/20 14:06:40! Flopped card: Qd
+! 02/05/20 14:06:40! Flopped card: 9d
+! Hand over, current board is:  6h 4c 5c Qd 9d
+! jpawloski                has: Qs Qh
+! Mark Ito                 has: Kh Ac
+! Pot 1: uncalled $133175 returned to jpawloski
+! Pot 2: jpawloski wins $187300 with Three of a Kind (Q Q Q 9 6)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Elmis                    |   79200 |         |      |    |         |
+ 2|   Dino Bravo               |  145575 |         |      |    |         |
+ 3|   Jim Anderson             |  140350 |         |      |    |         |
+ 4|   TRC Expert               |   63100 |         |      |    |         |
+ 5|   James Bond               |   99150 |         |      |    |         |
+ 7|D  Wrongfellow              |  123275 |         |      |    |         |
+ 8|   jpawloski                |  320475 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Mark Ito is eliminated!
+! 200 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c6.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+We are now over 30 days in round "c".  Automatic
+table breaking and live redraws have been disabled.
+We will play until one or more tables gets below six
+players.  When that happens all tables will finish
+the current hand and a full redraw will occur into
+the "d" round.
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 15
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

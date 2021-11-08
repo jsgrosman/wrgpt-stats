@@ -1,0 +1,120 @@
+Subject: [c21.10688] Holdem Game Broadcast Message(*)
+
+! Table c21, Hand 216, Day 99
+
+! gilette calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   CRStals                  |  305375 |     400 |folded|    |         |
+ 2|   L.A. Johnson             |  220200 |     400 |folded|    |         |
+ 3|D> mjoseff                  |  211100 |   46400 |      |    |         |
+ 4|   gilette                  |   52700 |   46400 |      |    |         |
+ 5|V  Cody Jones               |     750 |    3600 |<AWOL>|    |         |
+ 6|   Redbird                  |   67550 |     400 |folded|    |         |
+ 7|   Olof Siverbo             |  174900 |     400 |folded|    |         |
+ 8|   Another player           |    7250 |     400 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/10/20 06:36:42! Dealing a new hand
+! 02/10/20 06:36:42! Everyone antes $400
+! 02/10/20 06:36:42! gilette blinds $1600
+! 02/10/20 06:36:42! Cody Jones blinds $3200
+! 02/10/20 11:11:20! Redbird folds
+! 02/10/20 11:11:20! Olof Siverbo folds
+! 02/10/20 11:11:20! Another player folds
+! 02/10/20 11:24:56! CRStals folds
+! 02/10/20 13:57:03! L.A. Johnson folds
+! 02/10/20 15:50:31! mjoseff raises $5000 to $8200 total 
+! 02/10/20 16:37:37! gilette calls 
+! 02/10/20 16:37:37! Cody Jones is on vacation and folds
+
+! 02/10/20 16:37:37! Pot right ($22800), flopping/dealing/drawing cards
+! 02/10/20 16:37:37! 2 players
+! 02/10/20 16:37:37! Flopped cards: 3c 10h 5c
+! 02/10/20 16:40:03! gilette checks
+! 02/10/20 16:51:30! mjoseff bets $5000 
+! 02/10/20 16:59:36! gilette calls 
+
+! 02/10/20 16:59:36! Pot right ($32800), flopping/dealing/drawing cards
+! 02/10/20 16:59:36! 2 players
+! 02/10/20 16:59:36! Flopped card: 4s
+! 02/10/20 17:00:11! gilette checks
+! 02/10/20 17:10:32! mjoseff checks
+
+! 02/10/20 17:10:32! Pot right ($32800), flopping/dealing/drawing cards
+! 02/10/20 17:10:32! 2 players
+! 02/10/20 17:10:32! Flopped card: Qd
+! 02/10/20 17:24:07! gilette checks
+! 02/10/20 17:30:02! mjoseff bets $32800 
+! 02/10/20 17:42:54! gilette calls 
+! Hand over, current board is:  3c 10h 5c 4s Qd
+! mjoseff                  has: Jd Kc
+! gilette                  has: 5d 6c
+! gilette wins $98400 (net $52000) with One Pair (5 5 Q 10 6)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   CRStals                  |  305375 |         |      |    |         |
+ 2|   L.A. Johnson             |  220200 |         |      |    |         |
+ 3|>  mjoseff                  |  211100 |         |      |    |         |
+ 4|D  gilette                  |  151100 |         |      |    |         |
+ 5|V  Cody Jones               |     750 |         |<AWOL>|    |         |
+ 6|   Redbird                  |   67550 |         |      |    |         |
+ 7|   Olof Siverbo             |  174900 |         |      |    |         |
+ 8|   Another player           |    7250 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 186 players left in the tournament, 2 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c21.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+We are now over 30 days in round "c".  Automatic
+table breaking and live redraws have been disabled.
+We will play until one or more tables gets below six
+players.  When that happens all tables will finish
+the current hand and a full redraw will occur into
+the "d" round.
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 30
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

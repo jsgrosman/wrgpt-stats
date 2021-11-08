@@ -1,0 +1,108 @@
+Subject: [c31.10343] Holdem Game Broadcast Message(*)
+
+! Table c31, Hand 175, Day 75
+
+! Andyd folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   SJL                      |   55750 |    3800 |folded|    |         |
+ 2|   Tom A                    |  206900 |     200 |folded|    |         |
+ 3|   Dario                    |  222075 |     200 |folded|    |         |
+ 4|   quas2000                 |   21925 |     200 |folded|    |         |
+ 5|   altidude6202             |  342025 |     200 |folded|    |         |
+ 6|   Tom Bayz                 |   57550 |       0 |New   |    |         |
+ 7|   shinsook                 |  185550 |     200 |folded|    |         |
+ 8|D  Andyd                    |   56975 |    8800 |folded|    |         |
+ 9|>  beacon bot               |  169825 |   20800 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/16/20 19:33:36! Dealing a new hand
+! 01/16/20 19:33:36! Everyone antes $200
+! 01/16/20 19:33:36! beacon bot blinds $600
+! 01/16/20 19:33:36! SJL blinds $1200
+! 01/17/20 06:55:14! New player added to the table: Tom Bayz
+! 01/17/20 07:12:14! Tom A folds
+! 01/17/20 07:12:14! Dario folds
+! 01/17/20 08:00:59! quas2000 folds
+! 01/17/20 08:00:59! altidude6202 folds
+! 01/17/20 09:37:36! shinsook folds
+! 01/17/20 09:37:36! Andyd raises $2400 to $3600 total 
+! 01/17/20 09:41:40! beacon bot calls 
+! 01/17/20 09:48:38! SJL calls 
+
+! 01/17/20 09:48:38! Pot right ($12400), flopping/dealing/drawing cards
+! 01/17/20 09:48:38! 3 players
+! 01/17/20 09:48:38! Flopped cards: 5s Jh 10d
+! 01/17/20 09:55:28! beacon bot bets $5000 
+! 01/17/20 10:00:52! SJL folds
+! 01/17/20 10:34:04! Andyd calls 
+
+! 01/17/20 10:34:04! Pot right ($22400), flopping/dealing/drawing cards
+! 01/17/20 10:34:04! 2 players
+! 01/17/20 10:34:04! Flopped card: 2h
+! 01/17/20 11:14:00! beacon bot bets $12000 
+! 01/17/20 11:16:02! Andyd folds
+! Hand over, no showdown
+! Current board is:  5s Jh 10d 2h ?
+! beacon bot wins $34400 (net $13600)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   SJL                      |   55750 |         |      |    |         |
+ 2|   Tom A                    |  206900 |         |      |    |         |
+ 3|   Dario                    |  222075 |         |      |    |         |
+ 4|   quas2000                 |   21925 |         |      |    |         |
+ 5|   altidude6202             |  342025 |         |      |    |         |
+ 6|   Tom Bayz                 |   57550 |         |      |    |         |
+ 7|   shinsook                 |  185550 |         |      |    |         |
+ 8|   Andyd                    |   56975 |         |      |    |         |
+ 9|D> beacon bot               |  204225 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 289 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c31.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,120 @@
+Subject: [b39.10580] Holdem Game Broadcast Message(*)
+
+! Table b39, Hand 43, Day 38
+
+! mshulm1 folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Bobby the Worm           |   68200 |     925 |folded|    |         |
+ 2|>  beacon bot               |  104475 |    9425 |      |    |         |
+ 3|   Larry Stone              |  161275 |      25 |folded|    |         |
+ 4|   BillB                    |   54675 |    1925 |folded|    |         |
+ 5|   Chris Danek              |   79750 |      25 |folded|    |         |
+ 6|   mshulm1                  |   38075 |    4425 |folded|    |         |
+ 7|   Swamper BFJ              |   38625 |      25 |folded|    |         |
+ 8|   BlindMonkey              |   43750 |      25 |folded|    |         |
+ 9|D  Eight of Spades          |   58675 |      25 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/10/19 15:26:35! Dealing a new hand
+! 12/10/19 15:26:35! Everyone antes $25
+! 12/10/19 15:26:35! Bobby the Worm blinds $150
+! 12/10/19 15:26:35! beacon bot blinds $300
+! 12/10/19 18:12:06! Larry Stone folds
+! 12/10/19 18:20:09! BillB raises $600 to $900 total 
+! 12/10/19 20:51:28! Chris Danek folds
+! 12/11/19 05:06:14! mshulm1 calls 
+! 12/11/19 05:21:53! Swamper BFJ folds
+! 12/11/19 06:06:36! BlindMonkey folds
+! 12/11/19 06:06:36! Eight of Spades folds
+! 12/11/19 07:13:53! Bobby the Worm calls 
+! 12/11/19 07:21:24! beacon bot calls 
+
+! 12/11/19 07:21:24! Pot right ($3825), flopping/dealing/drawing cards
+! 12/11/19 07:21:24! 4 players
+! 12/11/19 07:21:24! Flopped cards: 8c 7c 5s
+! 12/11/19 07:36:08! Bobby the Worm checks
+! 12/11/19 07:40:18! beacon bot bets $1000 
+! 12/11/19 07:54:43! BillB calls 
+! 12/11/19 07:57:39! mshulm1 calls 
+! 12/11/19 08:08:45! Bobby the Worm folds
+
+! 12/11/19 08:08:45! Pot right ($6825), flopping/dealing/drawing cards
+! 12/11/19 08:08:45! 3 players
+! 12/11/19 08:08:45! Flopped card: 2s
+! 12/11/19 09:11:33! beacon bot bets $2500 
+! 12/11/19 09:14:44! BillB folds
+! 12/11/19 09:19:02! mshulm1 calls 
+
+! 12/11/19 09:19:02! Pot right ($11825), flopping/dealing/drawing cards
+! 12/11/19 09:19:02! 2 players
+! 12/11/19 09:19:02! Flopped card: 6d
+! 12/11/19 09:21:40! beacon bot bets $5000 
+! 12/11/19 09:29:16! mshulm1 folds
+! Hand over, no showdown
+! Current board is:  8c 7c 5s 2s 6d
+! beacon bot wins $16825 (net $7400)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  Bobby the Worm           |   68200 |         |      |    |         |
+ 2|>  beacon bot               |  121300 |         |      |    |         |
+ 3|   Larry Stone              |  161275 |         |      |    |         |
+ 4|   BillB                    |   54675 |         |      |    |         |
+ 5|   Chris Danek              |   79750 |         |      |    |         |
+ 6|   mshulm1                  |   38075 |         |      |    |         |
+ 7|   Swamper BFJ              |   38625 |         |      |    |         |
+ 8|   BlindMonkey              |   43750 |         |      |    |         |
+ 9|   Eight of Spades          |   58675 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 433 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b39.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that have not come to the table by the end
+of day 30 will be removed.
+
+Players that are away from the tables for 45 days 
+will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,117 @@
+Subject: [c26.10052] Holdem Game Broadcast Message(*)
+
+! Table c26, Hand 148, Day 64
+
+! GoBig checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Jim Anderson             |  111850 |     100 |folded|    |         |
+ 2|   m13d                     |   74675 |     100 |folded|    |         |
+ 3|   Tiltdad                  |   59650 |     100 |folded|    |         |
+ 4|D  Nyte                     |   37375 |     600 |folded|    |         |
+ 5|>  gilette                  |  151100 |    5700 |      |    |         |
+ 6|   Rollo                    |   22175 |     600 |folded|    |         |
+ 7|   Barrett                  |   27025 |     100 |folded|    |         |
+ 8|   tekbot                   |   71100 |     100 |folded|    |         |
+ 9|   GoBig                    |   38200 |    5700 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/05/20 15:17:32! Dealing a new hand
+! 01/05/20 15:17:32! Everyone antes $100
+! 01/05/20 15:17:32! gilette blinds $250
+! 01/05/20 15:17:32! Rollo blinds $500
+! 01/05/20 15:18:40! Barrett folds
+! 01/05/20 15:26:34! tekbot folds
+! 01/05/20 18:23:01! GoBig calls 
+! 01/05/20 19:11:13! Jim Anderson folds
+! 01/05/20 19:11:13! m13d folds
+! 01/06/20 03:28:56! Tiltdad folds
+! 01/06/20 04:40:56! Nyte calls 
+! 01/06/20 07:03:01! gilette calls 
+! 01/06/20 08:11:53! Rollo checks
+
+! 01/06/20 08:11:53! Pot right ($2900), flopping/dealing/drawing cards
+! 01/06/20 08:11:53! 4 players
+! 01/06/20 08:11:53! Flopped cards: 3c 8c Jh
+! 01/06/20 08:36:34! gilette bets $1600 
+! 01/06/20 08:53:55! Rollo folds
+! 01/06/20 09:43:00! GoBig calls 
+! 01/06/20 09:43:00! Nyte folds
+
+! 01/06/20 09:43:00! Pot right ($6100), flopping/dealing/drawing cards
+! 01/06/20 09:43:00! 2 players
+! 01/06/20 09:43:00! Flopped card: 6c
+! 01/06/20 12:26:37! gilette checks
+! 01/06/20 13:36:38! GoBig bets $3500 
+! 01/06/20 14:18:33! gilette calls 
+
+! 01/06/20 14:18:33! Pot right ($13100), flopping/dealing/drawing cards
+! 01/06/20 14:18:33! 2 players
+! 01/06/20 14:18:33! Flopped card: 9h
+! 01/06/20 14:19:08! gilette checks
+! 01/06/20 15:46:56! GoBig checks
+! Hand over, current board is:  3c 8c Jh 6c 9h
+! gilette                  has: 5h Jc
+! GoBig                    has: Qd Jd
+! GoBig wins $13100 (net $7400) with One Pair (J J Q 9 8)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Jim Anderson             |  111850 |         |      |    |         |
+ 2|   m13d                     |   74675 |         |      |    |         |
+ 3|   Tiltdad                  |   59650 |         |      |    |         |
+ 4|   Nyte                     |   37375 |         |      |    |         |
+ 5|D> gilette                  |  151100 |         |      |    |         |
+ 6|   Rollo                    |   22175 |         |      |    |         |
+ 7|   Barrett                  |   27025 |         |      |    |         |
+ 8|   tekbot                   |   71100 |         |      |    |         |
+ 9|   GoBig                    |   51300 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 334 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c26.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

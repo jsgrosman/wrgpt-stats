@@ -1,0 +1,117 @@
+Subject: [c9.10108] Holdem Game Broadcast Message(*)
+
+! Table c9, Hand 152, Day 67
+
+! JZo calls 
+! Pot right ($36750), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 5s
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   BeastSlayer              |  100800 |     600 |folded|    |         |
+ 2|   ThinkingPokerAndrew      |    4600 |     100 |folded|    |         |
+ 3|   docober                  |       0 |   17225 |all-in|    |         |
+ 4|   Poohbear                 |   73475 |     100 |folded|    |         |
+ 5|   newtonheath              |  117925 |     100 |folded|    |         |
+ 6|   Loboc                    |   94450 |     100 |folded|    |         |
+ 7|D> JZo                      |   17700 |   17225 |      |    |         |
+ 9|   Pvt_Pyle                 |  125525 |    1300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/08/20 15:46:42! Dealing a new hand
+! 01/08/20 15:46:42! Everyone antes $100
+! 01/08/20 15:46:42! Pvt_Pyle blinds $250
+! 01/08/20 15:46:42! BeastSlayer blinds $500
+! 01/08/20 15:50:56! ThinkingPokerAndrew folds
+! 01/08/20 20:32:10! docober raises $700 to $1200 total 
+! 01/08/20 20:32:10! Poohbear folds
+! 01/09/20 03:36:20! newtonheath folds
+! 01/09/20 03:36:20! Loboc folds
+! 01/09/20 08:20:01! JZo calls 
+! 01/09/20 08:47:54! Pvt_Pyle calls 
+! 01/09/20 09:33:10! BeastSlayer folds
+
+! 01/09/20 09:33:10! Pot right ($4900), flopping/dealing/drawing cards
+! 01/09/20 09:33:10! 3 players
+! 01/09/20 09:33:10! Flopped cards: 7d 2c 9h
+! 01/09/20 09:50:08! Pvt_Pyle checks
+! 01/09/20 09:55:25! docober bets $1500 
+! 01/09/20 10:04:35! JZo raises $3500 to $5000 total 
+! 01/09/20 10:09:20! Pvt_Pyle folds
+! 01/09/20 10:11:04! docober calls 
+
+! 01/09/20 10:11:04! Pot right ($14900), flopping/dealing/drawing cards
+! 01/09/20 10:11:04! 2 players
+! 01/09/20 10:11:04! Flopped card: 5h
+! 01/09/20 10:11:55! docober checks
+! 01/09/20 10:23:09! JZo bets $8000 
+! 01/09/20 10:24:09! docober raises $2925 to $10925 total and is all in
+! 01/09/20 10:25:01! JZo calls 
+
+! 01/09/20 10:25:01! Pot right ($36750), flopping/dealing/drawing cards
+! 01/09/20 10:25:01! 2 players, 1 all in
+! 01/09/20 10:25:01! Flopped card: 5s
+! Hand over, current board is:  7d 2c 9h 5h 5s
+! docober                  has: 7s 7h
+! JZo                      has: 8h 8d
+! docober wins $36750 (net $19525) with Full House (7 7 7 5 5)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   BeastSlayer              |  100800 |         |      |    |         |
+ 2|   ThinkingPokerAndrew      |    4600 |         |      |    |         |
+ 3|   docober                  |   36750 |         |      |    |         |
+ 4|   Poohbear                 |   73475 |         |      |    |         |
+ 5|   newtonheath              |  117925 |         |      |    |         |
+ 6|   Loboc                    |   94450 |         |      |    |         |
+ 7|>  JZo                      |   17700 |         |      |    |         |
+ 9|D  Pvt_Pyle                 |  125525 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 325 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c9.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 14
+Live redraw in progress:
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

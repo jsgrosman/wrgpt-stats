@@ -1,0 +1,134 @@
+Subject: [b30.10458] Holdem Game Broadcast Message(*)
+
+! Table b30, Hand 31, Day 47
+
+! kmommy calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   NNR13                    |   60225 |     450 |folded|    |         |
+ 2|V  Piney Boy                |   66475 |      50 |<AWOL>|    |         |
+ 3|>  Rollo                    |   16075 |   12700 |      |    |         |
+ 4|D  Bob R                    |   70200 |      50 |folded|    |         |
+ 5|   PMD                      |   46800 |     450 |folded|    |         |
+ 6|   TheLlama                 |   26850 |    2900 |folded|    |         |
+ 7|   Swamper_Shirley          |  115375 |      50 |folded|    |         |
+ 8|   DMW                      |   46550 |      50 |folded|    |         |
+ 9|   kmommy                   |   32725 |   12700 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/18/19 08:58:53! Dealing a new hand
+! 12/18/19 08:58:53! Everyone antes $50
+! 12/18/19 08:58:53! PMD blinds $200
+! 12/18/19 08:58:53! TheLlama blinds $400
+! 12/18/19 10:14:31! Swamper_Shirley folds
+! 12/18/19 10:14:31! DMW folds
+! 12/18/19 13:54:58! kmommy calls 
+! 12/18/19 13:54:58! NNR13 calls 
+! 12/18/19 13:54:58! Piney Boy is on vacation and folds
+! 12/18/19 14:02:17! Rollo calls 
+! 12/18/19 14:02:17! Bob R folds
+! 12/18/19 17:03:38! PMD calls 
+! 12/18/19 17:03:38! TheLlama checks
+
+! 12/18/19 17:03:38! Pot right ($2450), flopping/dealing/drawing cards
+! 12/18/19 17:03:38! 5 players
+! 12/18/19 17:03:38! Flopped cards: Qh 3h Kh
+! 12/19/19 10:58:54! PMD checks
+! 12/19/19 10:58:54! TheLlama checks
+! 12/19/19 11:14:04! kmommy checks
+! 12/19/19 11:14:04! NNR13 checks
+! 12/19/19 11:37:33! Rollo checks
+
+! 12/19/19 11:37:33! Pot right ($2450), flopping/dealing/drawing cards
+! 12/19/19 11:37:33! 5 players
+! 12/19/19 11:37:33! Flopped card: Jc
+! 12/19/19 15:32:56! PMD checks
+! 12/19/19 15:38:27! TheLlama checks
+! 12/19/19 16:11:07! kmommy checks
+! 12/19/19 16:11:07! NNR13 checks
+! 12/19/19 16:21:52! Rollo bets $2450 
+! 12/20/19 10:16:55! PMD folds
+! 12/20/19 14:03:00! TheLlama calls 
+! 12/20/19 14:08:06! kmommy calls 
+! 12/20/19 14:08:06! NNR13 folds
+
+! 12/20/19 14:08:06! Pot right ($9800), flopping/dealing/drawing cards
+! 12/20/19 14:08:06! 3 players
+! 12/20/19 14:08:06! Flopped card: Ac
+! 12/20/19 14:30:29! TheLlama checks
+! 12/20/19 14:31:24! kmommy checks
+! 12/20/19 14:57:58! Rollo bets $9800 
+! 12/20/19 15:07:13! TheLlama folds
+! 12/20/19 16:15:24! kmommy calls 
+! Hand over, current board is:  Qh 3h Kh Jc Ac
+! Rollo                    has: 8s 7s
+! kmommy                   has: 10d Qc
+! kmommy wins $29400 (net $16700) with Straight (A K Q J 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   NNR13                    |   60225 |         |      |    |         |
+ 2|V  Piney Boy                |   66475 |         |<AWOL>|    |         |
+ 3|>  Rollo                    |   16075 |         |      |    |         |
+ 4|   Bob R                    |   70200 |         |      |    |         |
+ 5|D  PMD                      |   46800 |         |      |    |         |
+ 6|   TheLlama                 |   26850 |         |      |    |         |
+ 7|   Swamper_Shirley          |  115375 |         |      |    |         |
+ 8|   DMW                      |   46550 |         |      |    |         |
+ 9|   kmommy                   |   62125 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 382 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b30.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+After day 45 of the tourney there will be no
+more live redraws or breaking tables.  Tables
+will be allowed to run until a table gets to 
+five or fewer players at which time all tables
+will finish the current hand and a full, random
+redraw to all new tables will be done.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 22
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

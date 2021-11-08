@@ -1,0 +1,111 @@
+Subject: [b4.10098] Holdem Game Broadcast Message(*)
+
+! Table b4, Hand 8, Day 8
+
+! Cruella calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Cruella                  |   32200 |   18400 |      |    |         |
+ 2|   ActionBob                |   49925 |       0 |folded|    |         |
+ 4|   Brent Moore              |   55375 |       0 |folded|    |         |
+ 5|   Jason Feng               |   50000 |       0 |folded|    |         |
+ 6|   Dalai Pookah             |   48225 |     700 |folded|    |         |
+ 7|   ADB Foldem               |   45825 |       0 |folded|    |         |
+ 8|D> khudwrx03                |   31150 |   18400 |      |    |         |
+ 9|   Nixed                    |   50325 |      75 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/11/19 05:32:22! Dealing a new hand
+! 11/11/19 05:32:22! No ante
+! 11/11/19 05:32:22! Nixed blinds $75
+! 11/11/19 05:32:22! Cruella blinds $150
+! 11/11/19 11:18:51! ActionBob folds
+! 11/11/19 11:18:51! Brent Moore folds
+! 11/11/19 11:18:51! Jason Feng folds
+! 11/11/19 11:48:46! Dalai Pookah raises $200 to $350 total 
+! 11/11/19 11:48:46! ADB Foldem folds
+! 11/11/19 12:00:54! khudwrx03 raises $350 to $700 total 
+! 11/11/19 12:24:10! Nixed folds
+! 11/11/19 12:39:18! Cruella calls 
+! 11/11/19 13:19:47! Dalai Pookah calls 
+
+! 11/11/19 13:19:47! Pot right ($2175), flopping/dealing/drawing cards
+! 11/11/19 13:19:47! 3 players
+! 11/11/19 13:19:47! Flopped cards: 6h Qd 6s
+! 11/11/19 13:37:14! Cruella bets $1000 
+! 11/11/19 14:33:19! Dalai Pookah folds
+! 11/11/19 15:01:32! khudwrx03 calls 
+
+! 11/11/19 15:01:32! Pot right ($4175), flopping/dealing/drawing cards
+! 11/11/19 15:01:32! 2 players
+! 11/11/19 15:01:32! Flopped card: Qh
+! 11/11/19 15:32:19! Cruella checks
+! 11/11/19 15:33:34! khudwrx03 bets $4175 
+! 11/11/19 15:46:31! Cruella calls 
+
+! 11/11/19 15:46:31! Pot right ($12525), flopping/dealing/drawing cards
+! 11/11/19 15:46:31! 2 players
+! 11/11/19 15:46:31! Flopped card: Ah
+! 11/11/19 15:47:03! Cruella checks
+! 11/11/19 16:00:28! khudwrx03 bets $12525 
+! 11/11/19 16:02:29! Cruella calls 
+! Hand over, current board is:  6h Qd 6s Qh Ah
+! Cruella                  has: 10s Qc
+! khudwrx03                has: Kd Ac
+! Cruella wins $37575 (net $19175) with Full House (Q Q Q 6 6)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Cruella                  |   69775 |         |      |    |         |
+ 2|   ActionBob                |   49925 |         |      |    |         |
+ 4|   Brent Moore              |   55375 |         |      |    |         |
+ 5|   Jason Feng               |   50000 |         |      |    |         |
+ 6|   Dalai Pookah             |   48225 |         |      |    |         |
+ 7|   ADB Foldem               |   45825 |         |      |    |         |
+ 8|>  khudwrx03                |   31150 |         |      |    |         |
+ 9|D  Nixed                    |   50325 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 533 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b4.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Good luck.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 4
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

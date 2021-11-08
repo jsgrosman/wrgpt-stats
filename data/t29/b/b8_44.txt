@@ -1,0 +1,127 @@
+Subject: [b8.10515] Holdem Game Broadcast Message(*)
+
+! Table b8, Hand 44, Day 32
+
+! Mejjad checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   DublDown                 |   52075 |     175 |folded|    |         |
+ 2|   Theodore Chipmunk        |    4950 |     325 |folded|    |         |
+ 3|   Dave McVay               |   52725 |      25 |folded|    |         |
+ 4|>  Poulsboy                 |   29225 |    2325 |      |    |         |
+ 5|   TedTab                   |   27225 |     325 |folded|    |         |
+ 6|   Sir Barlow               |   83575 |    2325 |      |    |         |
+ 7|   Mejjad                   |   53200 |    2325 |      |    |         |
+ 8|   Paul Stine               |   67100 |      25 |folded|    |         |
+ 9|D  se4wong4                 |   46025 |      25 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/05/19 06:47:13! Dealing a new hand
+! 12/05/19 06:47:13! Everyone antes $25
+! 12/05/19 06:47:13! DublDown blinds $150
+! 12/05/19 06:47:13! Theodore Chipmunk blinds $300
+! 12/05/19 07:16:21! Dave McVay folds
+! 12/05/19 07:56:25! Poulsboy calls 
+! 12/05/19 08:58:04! TedTab calls 
+! 12/05/19 09:00:01! Sir Barlow calls 
+! 12/05/19 09:01:41! Mejjad calls 
+! 12/05/19 09:01:41! Paul Stine folds
+! 12/05/19 09:01:41! se4wong4 folds
+! 12/05/19 09:01:41! DublDown folds
+! 12/05/19 09:01:41! Theodore Chipmunk checks
+
+! 12/05/19 09:01:41! Pot right ($1875), flopping/dealing/drawing cards
+! 12/05/19 09:01:41! 5 players
+! 12/05/19 09:01:41! Flopped cards: 2d 9h 4h
+! 12/05/19 09:01:41! Theodore Chipmunk checks
+! 12/05/19 09:12:30! Poulsboy checks
+! 12/05/19 09:36:43! TedTab checks
+! 12/05/19 09:46:34! Sir Barlow bets $1000 
+! 12/05/19 09:47:20! Mejjad calls 
+! 12/05/19 09:47:20! Theodore Chipmunk folds
+! 12/05/19 11:46:31! Poulsboy calls 
+! 12/05/19 11:51:55! TedTab folds
+
+! 12/05/19 11:51:55! Pot right ($4875), flopping/dealing/drawing cards
+! 12/05/19 11:51:55! 3 players
+! 12/05/19 11:51:55! Flopped card: 9d
+! 12/05/19 13:05:43! Poulsboy checks
+! 12/05/19 13:06:34! Sir Barlow bets $1000 
+! 12/05/19 13:13:39! Mejjad calls 
+! 12/05/19 14:05:22! Poulsboy calls 
+
+! 12/05/19 14:05:22! Pot right ($7875), flopping/dealing/drawing cards
+! 12/05/19 14:05:22! 3 players
+! 12/05/19 14:05:22! Flopped card: 3h
+! 12/05/19 14:05:59! Poulsboy checks
+! 12/05/19 14:08:39! Sir Barlow checks
+! 12/05/19 16:11:58! Mejjad checks
+! Hand over, current board is:  2d 9h 4h 9d 3h
+! Poulsboy                 has: Jh 8h
+! Sir Barlow               has: 10s 5c
+! Mejjad                   has: Js Jc
+! Poulsboy wins $7875 (net $5550) with Heart Flush (J 9 8 4 3)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  DublDown                 |   52075 |         |      |    |         |
+ 2|   Theodore Chipmunk        |    4950 |         |      |    |         |
+ 3|   Dave McVay               |   52725 |         |      |    |         |
+ 4|>  Poulsboy                 |   37100 |         |      |    |         |
+ 5|   TedTab                   |   27225 |         |      |    |         |
+ 6|   Sir Barlow               |   83575 |         |      |    |         |
+ 7|   Mejjad                   |   53200 |         |      |    |         |
+ 8|   Paul Stine               |   67100 |         |      |    |         |
+ 9|   se4wong4                 |   46025 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 453 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b8.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that have not come to the table by the end
+of day 30 will be removed.
+
+Players that are away from the tables for 45 days 
+will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

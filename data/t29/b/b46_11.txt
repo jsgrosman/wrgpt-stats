@@ -1,0 +1,116 @@
+Subject: [b46.10192] Holdem Game Broadcast Message(*)
+
+! Table b46, Hand 11, Day 9
+
+! TomasL checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Jim Anderson             |   42350 |       0 |folded|    |         |
+ 2|D  TomasL                   |   98950 |    4175 |      |  3 |    3000 |
+ 3|   Indiansquib              |       0 |    3175 |all-in|  4 |   12850 |
+ 4|   Dwayne Martins           |   52325 |     150 |folded|    |         |
+ 5|>  Kimbo                    |   93050 |    4175 |      |  3 |    3000 |
+ 7|   Britney                  |   46750 |       0 |folded|    |         |
+ 8|   dgr                      |   44975 |       0 |folded|    |         |
+ 9|   NNR13                    |   50425 |    4175 |      |  3 |    3000 |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/12/19 06:44:47! Dealing a new hand
+! 11/12/19 06:44:47! No ante
+! 11/12/19 06:44:47! Indiansquib blinds $75
+! 11/12/19 06:44:47! Dwayne Martins blinds $150
+! 11/12/19 06:50:55! Kimbo calls 
+! 11/12/19 07:22:26! Britney folds
+! 11/12/19 07:22:26! dgr folds
+! 11/12/19 08:05:02! NNR13 raises $300 to $450 total 
+! 11/12/19 08:05:02! Jim Anderson folds
+! 11/12/19 09:19:39! TomasL calls 
+! 11/12/19 09:19:39! Indiansquib raises $2725 to $3175 total and is all in
+! 11/12/19 10:42:50! Dwayne Martins folds
+! 11/12/19 11:29:36! Kimbo calls 
+! 11/12/19 11:29:36! NNR13 calls 
+! 11/12/19 12:44:39! TomasL calls 
+
+! 11/12/19 12:44:39! Pot right ($12850), flopping/dealing/drawing cards
+! 11/12/19 12:44:39! 4 players, 1 all in
+! 11/12/19 12:44:39! Flopped cards: 10s 9c 7h
+! 11/12/19 12:58:25! Kimbo checks
+! 11/12/19 12:58:25! NNR13 checks
+! 11/12/19 12:59:42! TomasL checks
+
+! 11/12/19 12:59:42! Pot right ($12850), flopping/dealing/drawing cards
+! 11/12/19 12:59:42! 4 players, 1 all in
+! 11/12/19 12:59:42! Flopped card: Qc
+! 11/12/19 14:27:05! Kimbo bets $1000 
+! 11/12/19 14:33:45! NNR13 calls 
+! 11/12/19 14:38:00! TomasL calls 
+
+! 11/12/19 14:38:00! Pot right ($15850), flopping/dealing/drawing cards
+! 11/12/19 14:38:00! 4 players, 1 all in
+! 11/12/19 14:38:00! Flopped card: Kh
+! 11/12/19 14:48:52! Kimbo checks
+! 11/12/19 15:24:28! NNR13 checks
+! 11/12/19 15:31:47! TomasL checks
+! Hand over, current board is:  10s 9c 7h Qc Kh
+! TomasL                   has: 10h 8c
+! Indiansquib              has: Ks Qd
+! Kimbo                    has: 9s Qh
+! NNR13                    has: Qs Js
+! Pot 3: NNR13 wins $3000 with Straight (K Q J 10 9)
+! Pot 4: NNR13 wins $12850 with Straight (K Q J 10 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Jim Anderson             |   42350 |         |      |    |         |
+ 2|D  TomasL                   |   98950 |         |      |    |         |
+ 4|   Dwayne Martins           |   52325 |         |      |    |         |
+ 5|>  Kimbo                    |   93050 |         |      |    |         |
+ 7|   Britney                  |   46750 |         |      |    |         |
+ 8|   dgr                      |   44975 |         |      |    |         |
+ 9|   NNR13                    |   66275 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Indiansquib is eliminated!
+! 531 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b46.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Good luck.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 5
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

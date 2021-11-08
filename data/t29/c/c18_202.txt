@@ -1,0 +1,121 @@
+Subject: [c18.10593] Holdem Game Broadcast Message(*)
+
+! Table c18, Hand 202, Day 93
+
+! 888 folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   888                      |   61200 |   23800 |folded|    |         |
+ 2|   Bob The Butcher          |  136050 |     300 |folded|    |         |
+ 3|   db222                    |   33775 |     300 |folded|    |         |
+ 4|D  danthefan                |  127300 |     300 |folded|    |         |
+ 5|   Sunnygirl318             |   71000 |    1300 |folded|    |         |
+ 6|>  Butter                   |  296425 |   43800 |      |    |         |
+ 7|   beacon bot               |  128500 |     300 |folded|    |         |
+ 8|V  Oldbloke                 |  102125 |     300 |<Gone>|    |         |
+ 9|   Robert Christ            |  141850 |     300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/03/20 15:24:22! Dealing a new hand
+! 02/03/20 15:24:22! Everyone antes $300
+! 02/03/20 15:24:22! Sunnygirl318 blinds $1000
+! 02/03/20 15:24:22! Butter blinds $2000
+! 02/03/20 15:27:40! beacon bot folds
+! 02/03/20 15:27:40! Oldbloke is on vacation and folds
+! 02/03/20 15:54:47! Robert Christ folds
+! 02/03/20 19:05:22! 888 raises $3500 to $5500 total 
+! 02/04/20 04:04:26! Bob The Butcher folds
+! 02/04/20 04:44:18! db222 folds
+! 02/04/20 04:45:11! danthefan folds
+! 02/04/20 04:45:11! Sunnygirl318 folds
+! 02/04/20 05:15:56! Butter calls 
+
+! 02/04/20 05:15:56! Pot right ($14700), flopping/dealing/drawing cards
+! 02/04/20 05:15:56! 2 players
+! 02/04/20 05:15:56! Flopped cards: Jd 7s 8h
+! 02/04/20 05:19:44! Butter checks
+! 02/04/20 07:38:53! 888 bets $6000 
+! 02/04/20 07:40:08! Butter calls 
+
+! 02/04/20 07:40:08! Pot right ($26700), flopping/dealing/drawing cards
+! 02/04/20 07:40:08! 2 players
+! 02/04/20 07:40:08! Flopped card: Qd
+! 02/04/20 07:42:29! Butter bets $12000 
+! 02/04/20 07:43:44! 888 calls 
+
+! 02/04/20 07:43:44! Pot right ($50700), flopping/dealing/drawing cards
+! 02/04/20 07:43:44! 2 players
+! 02/04/20 07:43:44! Flopped card: Ad
+! 02/04/20 07:44:51! Butter bets $20000 
+! 02/04/20 07:54:07! 888 folds
+! Hand over, no showdown
+! Current board is:  Jd 7s 8h Qd Ad
+! Butter wins $70700 (net $26900)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   888                      |   61200 |         |      |    |         |
+ 2|   Bob The Butcher          |  136050 |         |      |    |         |
+ 3|   db222                    |   33775 |         |      |    |         |
+ 4|   danthefan                |  127300 |         |      |    |         |
+ 5|D  Sunnygirl318             |   71000 |         |      |    |         |
+ 6|>  Butter                   |  367125 |         |      |    |         |
+ 7|   beacon bot               |  128500 |         |      |    |         |
+ 8|V  Oldbloke                 |  102125 |         |<Gone>|    |         |
+ 9|   Robert Christ            |  141850 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 209 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c18.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+We are now over 30 days in round "c".  Automatic
+table breaking and live redraws have been disabled.
+We will play until one or more tables gets below six
+players.  When that happens all tables will finish
+the current hand and a full redraw will occur into
+the "d" round.
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 7
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

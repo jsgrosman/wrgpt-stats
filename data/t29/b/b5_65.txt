@@ -1,0 +1,125 @@
+Subject: [b5.10761] Holdem Game Broadcast Message(*)
+
+! Table b5, Hand 65, Day 48
+
+! Mr. Rhinelander checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Boaty McBoatface         |  130050 |      50 |folded|    |         |
+ 2|D  Mr. Rhinelander          |   25775 |   23050 |      |    |         |
+ 3|   MOVED David Paulett      |       0 |     250 |folded|    |         |
+ 4|   calliope                 |   26575 |     450 |folded|    |         |
+ 5|>  Fredrik Westerlund       |   87725 |   23050 |      |    |         |
+ 6|   MarinaMan                |  135900 |      50 |folded|    |         |
+ 7|   Cody Jones               |   41150 |      50 |folded|    |         |
+ 8|   Zerksauce                |   42975 |      50 |folded|    |         |
+ 9|   kvk                      |   76275 |    3050 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/20/19 09:00:52! Dealing a new hand
+! 12/20/19 09:00:52! Everyone antes $50
+! 12/20/19 09:00:52! David Paulett blinds $200
+! 12/20/19 09:00:52! calliope blinds $400
+! 12/20/19 11:07:11! Fredrik Westerlund raises $800 to $1200 total 
+! 12/20/19 12:23:32! MarinaMan folds
+! 12/20/19 15:49:10! Cody Jones folds
+! 12/20/19 15:49:10! Zerksauce folds
+! 12/20/19 16:03:39! kvk calls 
+! 12/20/19 16:03:39! Boaty McBoatface folds
+! 12/20/19 16:03:39! Mr. Rhinelander raises $1800 to $3000 total 
+! 12/20/19 16:03:39! David Paulett is on vacation and folds
+! 12/20/19 16:03:39! calliope folds
+! 12/20/19 16:15:03! Player leaving table: David Paulett
+! 12/20/19 22:42:40! Fredrik Westerlund calls 
+! 12/21/19 05:43:45! kvk calls 
+
+! 12/21/19 05:43:45! Pot right ($10050), flopping/dealing/drawing cards
+! 12/21/19 05:43:45! 3 players
+! 12/21/19 05:43:45! Flopped cards: 3h Kd 4c
+! 12/21/19 06:03:06! Fredrik Westerlund bets $5000 
+! 12/21/19 06:20:38! kvk folds
+! 12/21/19 07:53:04! Mr. Rhinelander calls 
+
+! 12/21/19 07:53:04! Pot right ($20050), flopping/dealing/drawing cards
+! 12/21/19 07:53:04! 2 players
+! 12/21/19 07:53:04! Flopped card: 10s
+! 12/21/19 09:00:48! Fredrik Westerlund bets $5000 
+! 12/21/19 09:02:47! Mr. Rhinelander raises $10000 to $15000 total 
+! 12/21/19 09:18:20! Fredrik Westerlund calls 
+
+! 12/21/19 09:18:21! Pot right ($50050), flopping/dealing/drawing cards
+! 12/21/19 09:18:21! 2 players
+! 12/21/19 09:18:21! Flopped card: Qh
+! 12/21/19 09:19:04! Fredrik Westerlund checks
+! 12/21/19 09:26:54! Mr. Rhinelander checks
+! Hand over, current board is:  3h Kd 4c 10s Qh
+! Mr. Rhinelander          has: Ah Kh
+! Fredrik Westerlund       has: 2h Ac
+! Mr. Rhinelander wins $50050 (net $27000) with One Pair (K K A Q 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Boaty McBoatface         |  130050 |         |      |    |         |
+ 2|D  Mr. Rhinelander          |   75825 |         |      |    |         |
+ 4|   calliope                 |   26575 |         |      |    |         |
+ 5|>  Fredrik Westerlund       |   87725 |         |      |    |         |
+ 6|   MarinaMan                |  135900 |         |      |    |         |
+ 7|   Cody Jones               |   41150 |         |      |    |         |
+ 8|   Zerksauce                |   42975 |         |      |    |         |
+ 9|   kvk                      |   76275 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 381 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b5.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+After day 45 of the tourney there will be no
+more live redraws or breaking tables.  Tables
+will be allowed to run until a table gets to 
+five or fewer players at which time all tables
+will finish the current hand and a full, random
+redraw to all new tables will be done.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 24
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

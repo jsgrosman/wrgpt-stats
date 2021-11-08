@@ -1,0 +1,116 @@
+Subject: [c11.10012] Holdem Game Broadcast Message(*)
+
+! Table c11, Hand 145, Day 62
+
+! asypta checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  Zerksauce                |   87900 |     100 |folded|    |         |
+ 2|>  Clark Olson              |   35525 |    1200 |      |    |         |
+ 3|   asypta                   |   67450 |    1200 |      |    |         |
+ 4|   denimmined               |   93950 |     100 |folded|    |         |
+ 5|   Slimbob                  |   75650 |     100 |folded|    |         |
+ 6|   not66                    |   87625 |     100 |folded|    |         |
+ 7|   Tony Gurney              |   86650 |     600 |folded|    |         |
+ 8|   Nightshift6              |   36050 |     100 |folded|    |         |
+ 9|   All In a daze work       |  147275 |     100 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/03/20 16:57:43! Dealing a new hand
+! 01/03/20 16:57:43! Everyone antes $100
+! 01/03/20 16:57:43! Clark Olson blinds $250
+! 01/03/20 16:57:43! asypta blinds $500
+! 01/03/20 20:01:10! denimmined folds
+! 01/03/20 20:01:10! Slimbob folds
+! 01/03/20 20:01:10! not66 folds
+! 01/04/20 02:00:11! Tony Gurney calls 
+! 01/04/20 07:37:39! Nightshift6 folds
+! 01/04/20 08:01:36! All In a daze work folds
+! 01/04/20 08:01:36! Zerksauce folds
+! 01/04/20 08:05:13! Clark Olson calls 
+! 01/04/20 08:05:13! asypta checks
+
+! 01/04/20 08:05:13! Pot right ($2400), flopping/dealing/drawing cards
+! 01/04/20 08:05:13! 3 players
+! 01/04/20 08:05:13! Flopped cards: 2h 8h Qd
+! 01/04/20 08:06:36! Clark Olson checks
+! 01/04/20 08:07:15! asypta bets $600 
+! 01/04/20 11:02:01! Tony Gurney folds
+! 01/04/20 11:18:38! Clark Olson calls 
+
+! 01/04/20 11:18:38! Pot right ($3600), flopping/dealing/drawing cards
+! 01/04/20 11:18:38! 2 players
+! 01/04/20 11:18:38! Flopped card: 3d
+! 01/04/20 11:19:20! Clark Olson checks
+! 01/04/20 11:40:54! asypta checks
+
+! 01/04/20 11:40:54! Pot right ($3600), flopping/dealing/drawing cards
+! 01/04/20 11:40:54! 2 players
+! 01/04/20 11:40:54! Flopped card: 7s
+! 01/04/20 11:40:54! Clark Olson checks
+! 01/04/20 11:49:46! asypta checks
+! Hand over, current board is:  2h 8h Qd 3d 7s
+! Clark Olson              has: 6s 6h
+! asypta                   has: 3s Ad
+! Clark Olson wins $3600 (net $2400) with One Pair (6 6 Q 8 7)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Zerksauce                |   87900 |         |      |    |         |
+ 2|D> Clark Olson              |   39125 |         |      |    |         |
+ 3|   asypta                   |   67450 |         |      |    |         |
+ 4|   denimmined               |   93950 |         |      |    |         |
+ 5|   Slimbob                  |   75650 |         |      |    |         |
+ 6|   not66                    |   87625 |         |      |    |         |
+ 7|   Tony Gurney              |   86650 |         |      |    |         |
+ 8|   Nightshift6              |   36050 |         |      |    |         |
+ 9|   All In a daze work       |  147275 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 342 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c11.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 1
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

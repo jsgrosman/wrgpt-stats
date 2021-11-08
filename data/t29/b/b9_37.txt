@@ -1,0 +1,121 @@
+Subject: [b9.10420] Holdem Game Broadcast Message(*)
+
+! Table b9, Hand 37, Day 21
+
+! Bwana calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  altidude6202             |   53600 |       0 |folded|    |         |
+ 2|   hi.seas                  |   33025 |    2100 |folded|    |         |
+ 3|   Wrongfellow              |   48500 |     300 |folded|    |         |
+ 4|   GKinz54                  |   46950 |       0 |folded|    |         |
+ 5|   ScoobySnack              |   51675 |       0 |folded|    |         |
+ 6|   denimmined               |   62750 |       0 |folded|    |         |
+ 7|   James Scharf             |   64925 |       0 |folded|    |         |
+ 8|   tekbot                   |       0 |   31150 |all-in|    |         |
+ 9|>  Bwana                    |   23875 |   31150 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/23/19 21:26:19! Dealing a new hand
+! 11/23/19 21:26:19! No ante
+! 11/23/19 21:26:19! hi.seas blinds $150
+! 11/23/19 21:26:19! Wrongfellow blinds $300
+! 11/23/19 21:26:47! GKinz54 folds
+! 11/23/19 22:16:55! ScoobySnack folds
+! 11/24/19 01:09:09! denimmined folds
+! 11/24/19 08:26:32! James Scharf folds
+! 11/24/19 10:13:13! tekbot raises $600 to $900 total 
+! 11/24/19 11:34:42! Bwana raises $1200 to $2100 total 
+! 11/24/19 11:52:57! altidude6202 folds
+! 11/24/19 13:31:28! hi.seas calls 
+! 11/24/19 13:31:28! Wrongfellow folds
+! 11/24/19 13:41:25! tekbot calls 
+
+! 11/24/19 13:41:25! Pot right ($6600), flopping/dealing/drawing cards
+! 11/24/19 13:41:25! 3 players
+! 11/24/19 13:41:25! Flopped cards: Jh Js As
+! 11/24/19 14:13:10! hi.seas checks
+! 11/24/19 14:14:16! tekbot checks
+! 11/24/19 14:16:46! Bwana bets $4600 
+! 11/24/19 14:41:10! hi.seas folds
+! 11/24/19 16:33:35! tekbot calls 
+
+! 11/24/19 16:33:35! Pot right ($15800), flopping/dealing/drawing cards
+! 11/24/19 16:33:35! 2 players
+! 11/24/19 16:33:35! Flopped card: 3s
+! 11/24/19 16:34:37! tekbot bets $10000 
+! 11/24/19 18:14:45! Bwana calls 
+
+! 11/24/19 18:14:45! Pot right ($35800), flopping/dealing/drawing cards
+! 11/24/19 18:14:45! 2 players
+! 11/24/19 18:14:45! Flopped card: 6s
+! 11/24/19 18:20:55! tekbot bets $14450 and is all in
+! 11/24/19 20:39:02! Bwana calls 
+! Hand over, current board is:  Jh Js As 3s 6s
+! tekbot                   has: Qd Jd
+! Bwana                    has: Ac Qc
+! tekbot wins $64700 (net $33550) with Three of a Kind (J J J A Q)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   altidude6202             |   53600 |         |      |    |         |
+ 2|D  hi.seas                  |   33025 |         |      |    |         |
+ 3|   Wrongfellow              |   48500 |         |      |    |         |
+ 4|   GKinz54                  |   46950 |         |      |    |         |
+ 5|   ScoobySnack              |   51675 |         |      |    |         |
+ 6|   denimmined               |   62750 |         |      |    |         |
+ 7|   James Scharf             |   64925 |         |      |    |         |
+ 8|   tekbot                   |   64700 |         |      |    |         |
+ 9|>  Bwana                    |   23875 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 498 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b9.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that have not come to the table by the end
+of day 30 will be removed.
+
+Players that are away from the tables for 45 days 
+will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

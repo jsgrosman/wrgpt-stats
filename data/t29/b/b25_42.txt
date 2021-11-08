@@ -1,0 +1,127 @@
+Subject: [b25.10561] Holdem Game Broadcast Message(*)
+
+! Table b25, Hand 42, Day 33
+
+! newtonheath checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   newtonheath              |   80500 |    5575 |      |    |         |
+ 2|   ArikK                    |       0 |    5575 |all-in|    |         |
+ 3|   dchizzle41               |   33700 |      25 |folded|    |         |
+ 4|   Kinda Gamey              |   52450 |    1075 |folded|    |         |
+ 5|   Kevin Behrens            |   49425 |      25 |folded|    |         |
+ 6|D  TheOldThug               |   38675 |    1075 |folded|    |         |
+ 7|>  Marcus S                 |  111850 |    5575 |      |    |         |
+ 8|   Stefan Dios              |   99025 |     325 |folded|    |         |
+ 9|   Couchtater               |   55175 |      25 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/05/19 15:18:47! Dealing a new hand
+! 12/05/19 15:18:47! Everyone antes $25
+! 12/05/19 15:18:47! Marcus S blinds $150
+! 12/05/19 15:18:47! Stefan Dios blinds $300
+! 12/05/19 16:01:35! Couchtater folds
+! 12/05/19 20:46:01! newtonheath calls 
+! 12/06/19 06:42:51! ArikK calls 
+! 12/06/19 06:47:35! dchizzle41 folds
+! 12/06/19 06:55:50! Kinda Gamey calls 
+! 12/06/19 07:12:04! Kevin Behrens folds
+! 12/06/19 08:52:55! TheOldThug calls 
+! 12/06/19 08:52:55! Marcus S raises $750 to $1050 total 
+! 12/06/19 08:52:55! Stefan Dios folds
+! 12/06/19 09:14:18! newtonheath calls 
+! 12/06/19 09:26:31! ArikK calls 
+! 12/06/19 10:23:25! Kinda Gamey calls 
+! 12/06/19 10:45:02! TheOldThug calls 
+
+! 12/06/19 10:45:02! Pot right ($5775), flopping/dealing/drawing cards
+! 12/06/19 10:45:02! 5 players
+! 12/06/19 10:45:02! Flopped cards: 9h 7c 9s
+! 12/06/19 11:03:23! Marcus S bets $2500 
+! 12/06/19 11:20:32! newtonheath calls 
+! 12/06/19 11:34:35! ArikK raises $2000 to $4500 total and is all in
+! 12/06/19 12:00:43! Kinda Gamey folds
+! 12/06/19 12:42:18! TheOldThug folds
+! 12/06/19 13:29:26! Marcus S calls 
+! 12/06/19 13:36:23! newtonheath calls 
+
+! 12/06/19 13:36:23! Pot right ($19275), flopping/dealing/drawing cards
+! 12/06/19 13:36:23! 3 players, 1 all in
+! 12/06/19 13:36:23! Flopped card: 10h
+! 12/06/19 13:38:13! Marcus S checks
+! 12/06/19 13:46:27! newtonheath checks
+
+! 12/06/19 13:46:27! Pot right ($19275), flopping/dealing/drawing cards
+! 12/06/19 13:46:27! 3 players, 1 all in
+! 12/06/19 13:46:27! Flopped card: Kc
+! 12/06/19 13:51:21! Marcus S checks
+! 12/06/19 14:06:50! newtonheath checks
+! Hand over, current board is:  9h 7c 9s 10h Kc
+! newtonheath              has: Js 7s
+! ArikK                    has: 10d Jc
+! Marcus S                 has: 5s 5h
+! ArikK wins $19275 (net $13700) with Two Pair (10 10 9 9 K)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   newtonheath              |   80500 |         |      |    |         |
+ 2|   ArikK                    |   19275 |         |      |    |         |
+ 3|   dchizzle41               |   33700 |         |      |    |         |
+ 4|   Kinda Gamey              |   52450 |         |      |    |         |
+ 5|   Kevin Behrens            |   49425 |         |      |    |         |
+ 6|   TheOldThug               |   38675 |         |      |    |         |
+ 7|D> Marcus S                 |  111850 |         |      |    |         |
+ 8|   Stefan Dios              |   99025 |         |      |    |         |
+ 9|   Couchtater               |   55175 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 451 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b25.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that have not come to the table by the end
+of day 30 will be removed.
+
+Players that are away from the tables for 45 days 
+will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

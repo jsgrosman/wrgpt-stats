@@ -33,6 +33,7 @@ class Parser
         'Flopped card',
         'Player leaving table',
         'New player added to the table',
+        'Player cancelled protest'
     ];
 
     public function parseHand($url)
@@ -351,7 +352,7 @@ class Parser
                 $playerNamePos = strpos($line, $playerName);
                 if ($playerNamePos > 0) {
                     $tokens = explode('|', $line);
-                    return trim($tokens[2]);
+                    return (int) filter_var(trim($tokens[2]), FILTER_SANITIZE_NUMBER_INT);
                 }
             }
         }
@@ -384,8 +385,8 @@ class Parser
 
     private function getTournamentNumber($handDate)
     {
-        $currentTournament = 29;
-        for ($year = 2019; $year >= 2008; $year--)
+        $currentTournament = 30;
+        for ($year = 2020; $year >= 2008; $year--)
         {
             if ($handDate > strtotime($year . "-09-01"))
             {

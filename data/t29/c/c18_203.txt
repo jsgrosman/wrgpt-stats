@@ -1,0 +1,111 @@
+Subject: [c18.10603] Holdem Game Broadcast Message(*)
+
+! Table c18, Hand 203, Day 93
+
+! db222 folds
+! Butter folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   888                      |   60900 |     300 |folded|    |         |
+ 2|   Bob The Butcher          |  135750 |     300 |folded|    |         |
+ 3|   db222                    |   31475 |    2300 |folded|    |         |
+ 4|   danthefan                |  127000 |     300 |folded|    |         |
+ 5|D  Sunnygirl318             |   70700 |     300 |folded|    |         |
+ 6|   Butter                   |  364825 |    2300 |folded|    |         |
+ 7|>  beacon bot               |  121200 |    7300 |      |    |         |
+ 8|V  Oldbloke                 |  101825 |     300 |<Gone>|    |         |
+ 9|   Robert Christ            |  141550 |     300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/04/20 07:54:08! Dealing a new hand
+! 02/04/20 07:54:08! Everyone antes $300
+! 02/04/20 07:54:08! Butter blinds $1000
+! 02/04/20 07:54:08! beacon bot blinds $2000
+! 02/04/20 07:54:08! Oldbloke is on vacation and folds
+! 02/04/20 07:59:06! Robert Christ folds
+! 02/04/20 07:59:58! 888 folds
+! 02/04/20 07:59:58! Bob The Butcher folds
+! 02/04/20 08:28:37! db222 calls 
+! 02/04/20 08:28:37! danthefan folds
+! 02/04/20 08:55:16! Sunnygirl318 folds
+! 02/04/20 08:58:54! Butter calls 
+! 02/04/20 09:03:07! beacon bot checks
+
+! 02/04/20 09:03:07! Pot right ($8700), flopping/dealing/drawing cards
+! 02/04/20 09:03:07! 3 players
+! 02/04/20 09:03:07! Flopped cards: Jc 2s 3s
+! 02/04/20 09:05:19! Butter checks
+! 02/04/20 09:08:49! beacon bot bets $5000 
+! 02/04/20 09:13:03! db222 folds
+! 02/04/20 09:13:03! Butter folds
+! Hand over, no showdown
+! Current board is:  Jc 2s 3s ? ?
+! beacon bot wins $13700 (net $6400)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   888                      |   60900 |         |      |    |         |
+ 2|   Bob The Butcher          |  135750 |         |      |    |         |
+ 3|   db222                    |   31475 |         |      |    |         |
+ 4|   danthefan                |  127000 |         |      |    |         |
+ 5|   Sunnygirl318             |   70700 |         |      |    |         |
+ 6|D  Butter                   |  364825 |         |      |    |         |
+ 7|>  beacon bot               |  134900 |         |      |    |         |
+ 8|V  Oldbloke                 |  101825 |         |<Gone>|    |         |
+ 9|   Robert Christ            |  141550 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 208 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c18.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+We are now over 30 days in round "c".  Automatic
+table breaking and live redraws have been disabled.
+We will play until one or more tables gets below six
+players.  When that happens all tables will finish
+the current hand and a full redraw will occur into
+the "d" round.
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

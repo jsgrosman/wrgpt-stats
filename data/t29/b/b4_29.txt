@@ -1,0 +1,134 @@
+Subject: [b4.10314] Holdem Game Broadcast Message(*)
+
+% Sigh. OK, I'll bite.
+% On Wed, Nov 27, 2019 at 1:31 PM <dealer@wrgpt.org> wrote:
+% (dealer suppressed lines starting with '>' or ':')
+! -- Neurosion --
+_____________________________________________________________________________
+
+! Table b4, Hand 29, Day 24
+
+! Neurosion calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Cruella                  |   70025 |       0 |folded|    |         |
+ 2|   ActionBob                |   55000 |       0 |folded|    |         |
+ 3|   Neurosion                |   75550 |    9550 |      |    |         |
+ 4|D  Brent Moore              |   62725 |       0 |folded|    |         |
+ 5|   Jason Feng               |   76200 |     150 |folded|    |         |
+ 6|   Dalai Pookah             |   48075 |     750 |folded|    |         |
+ 7|   ADB Foldem               |   48300 |       0 |folded|    |         |
+ 8|   BluffaloBill             |   50950 |       0 |folded|    |         |
+ 9|>  Nixed                    |   30175 |    9550 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/26/19 11:27:28! Dealing a new hand
+! 11/26/19 11:27:28! No ante
+! 11/26/19 11:27:28! Jason Feng blinds $150
+! 11/26/19 11:27:28! Dalai Pookah blinds $300
+! 11/26/19 11:37:05! ADB Foldem folds
+! 11/26/19 11:37:05! BluffaloBill folds
+! 11/26/19 11:43:17! Nixed raises $450 to $750 total 
+! 11/26/19 11:52:03! Cruella folds
+! 11/26/19 11:52:03! ActionBob folds
+! 11/26/19 11:52:11! Neurosion calls 
+! 11/26/19 12:08:03! Brent Moore folds
+! 11/26/19 13:16:12! Jason Feng folds
+! 11/26/19 13:42:16! Dalai Pookah calls 
+
+! 11/26/19 13:42:16! Pot right ($2400), flopping/dealing/drawing cards
+! 11/26/19 13:42:16! 3 players
+! 11/26/19 13:42:16! Flopped cards: 8h 10d Qc
+! 11/26/19 13:44:04! Dalai Pookah checks
+! 11/26/19 20:33:37! Nixed bets $1400 
+! 11/27/19 06:12:28! Neurosion raises $2000 to $3400 total 
+! 11/27/19 06:38:09! Dalai Pookah folds
+! 11/27/19 06:49:07! Nixed calls 
+
+! 11/27/19 06:49:07! Pot right ($9200), flopping/dealing/drawing cards
+! 11/27/19 06:49:07! 2 players
+! 11/27/19 06:49:07! Flopped card: 7s
+! 11/27/19 06:50:11! Nixed checks
+! 11/27/19 06:53:08! Neurosion checks
+
+! 11/27/19 06:53:08! Pot right ($9200), flopping/dealing/drawing cards
+! 11/27/19 06:53:08! 2 players
+! 11/27/19 06:53:08! Flopped card: 7h
+! 11/27/19 10:24:42! Nixed bets $5400 
+_____________________________________________________________________________
+
+! Sigh. OK, I'll bite.
+! On Wed, Nov 27, 2019 at 1:31 PM <dealer@wrgpt.org> wrote:
+! (dealer suppressed lines starting with '>' or ':')
+! -- Neurosion --
+_____________________________________________________________________________
+
+! 11/27/19 10:35:21! Neurosion calls 
+! Hand over, current board is:  8h 10d Qc 7s 7h
+! Neurosion                has: Js Jd
+! Nixed                    has: Ah Qh
+! Nixed wins $20000 (net $10450) with Two Pair (Q Q 7 7 A)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Cruella                  |   70025 |         |      |    |         |
+ 2|   ActionBob                |   55000 |         |      |    |         |
+ 3|   Neurosion                |   75550 |         |      |    |         |
+ 4|   Brent Moore              |   62725 |         |      |    |         |
+ 5|D  Jason Feng               |   76200 |         |      |    |         |
+ 6|   Dalai Pookah             |   48075 |         |      |    |         |
+ 7|   ADB Foldem               |   48300 |         |      |    |         |
+ 8|   BluffaloBill             |   50950 |         |      |    |         |
+ 9|>  Nixed                    |   50175 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 487 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b4.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that have not come to the table by the end
+of day 30 will be removed.
+
+Players that are away from the tables for 45 days 
+will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

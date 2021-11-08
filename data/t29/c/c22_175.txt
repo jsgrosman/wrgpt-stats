@@ -1,0 +1,114 @@
+Subject: [c22.10299] Holdem Game Broadcast Message(*)
+
+! Table c22, Hand 175, Day 82
+
+! Glenn All-in calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Daryl                    |   80500 |     200 |folded|    |         |
+ 2|   Russ Fox                 |   43250 |     200 |folded|    |         |
+ 3|   Dan Driscoll             |   71300 |       0 |New   |    |         |
+ 4|D  Paul Ant                 |   50150 |     200 |folded|    |         |
+ 5|   jtk                      |   82300 |     800 |folded|    |         |
+ 6|   Bart Tichelman           |   50150 |    1400 |folded|    |         |
+ 7|>  calliope                 |   22450 |   14200 |      |    |         |
+ 8|   SuprAce                  |   72525 |     200 |folded|    |         |
+ 9|   Glenn All-in             |   60150 |   14200 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/24/20 07:24:29! Dealing a new hand
+! 01/24/20 07:24:29! Everyone antes $200
+! 01/24/20 07:24:29! jtk blinds $600
+! 01/24/20 07:24:29! Bart Tichelman blinds $1200
+! 01/24/20 07:30:29! calliope raises $2400 to $3600 total 
+! 01/24/20 08:14:07! SuprAce folds
+! 01/24/20 08:14:07! Glenn All-in calls 
+! 01/24/20 09:34:54! Daryl folds
+! 01/24/20 09:34:54! Russ Fox folds
+! 01/24/20 09:34:54! Paul Ant folds
+! 01/24/20 09:35:17! New player added to the table: Dan Driscoll
+! 01/24/20 10:01:56! jtk folds
+! 01/24/20 10:21:50! Bart Tichelman folds
+
+! 01/24/20 10:21:50! Pot right ($10600), flopping/dealing/drawing cards
+! 01/24/20 10:21:50! 2 players
+! 01/24/20 10:21:50! Flopped cards: 7h 3c Js
+! 01/24/20 11:31:38! calliope bets $2400 
+! 01/24/20 13:19:15! Glenn All-in calls 
+
+! 01/24/20 13:19:15! Pot right ($15400), flopping/dealing/drawing cards
+! 01/24/20 13:19:15! 2 players
+! 01/24/20 13:19:15! Flopped card: 7s
+! 01/24/20 13:22:36! calliope bets $3000 
+! 01/24/20 13:26:28! Glenn All-in calls 
+
+! 01/24/20 13:26:28! Pot right ($21400), flopping/dealing/drawing cards
+! 01/24/20 13:26:28! 2 players
+! 01/24/20 13:26:28! Flopped card: 3s
+! 01/24/20 13:27:35! calliope bets $5000 
+! 01/24/20 13:28:38! Glenn All-in calls 
+! Hand over, current board is:  7h 3c Js 7s 3s
+! calliope                 has: Ah 2c
+! Glenn All-in             has: 9s 9c
+! Glenn All-in wins $31400 (net $17200) with Two Pair (9 9 7 7 J)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Daryl                    |   80500 |         |      |    |         |
+ 2|   Russ Fox                 |   43250 |         |      |    |         |
+ 3|   Dan Driscoll             |   71300 |         |      |    |         |
+ 4|   Paul Ant                 |   50150 |         |      |    |         |
+ 5|D  jtk                      |   82300 |         |      |    |         |
+ 6|   Bart Tichelman           |   50150 |         |      |    |         |
+ 7|>  calliope                 |   22450 |         |      |    |         |
+ 8|   SuprAce                  |   72525 |         |      |    |         |
+ 9|   Glenn All-in             |   91550 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 257 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c22.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 4
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

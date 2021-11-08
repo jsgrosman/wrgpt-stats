@@ -1,0 +1,113 @@
+Subject: [c21.10571] Holdem Game Broadcast Message(*)
+
+! Table c21, Hand 202, Day 91
+
+! Dave McVay raises $9250 to $101450 total and is all in
+! Pot right ($217850), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped card: Kc
+! Flopped card: 10d
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   CRStals                  |  238525 |     300 |folded|    |         |
+ 2|   L.A. Johnson             |  262600 |     300 |folded|    |         |
+ 3|   mjoseff                  |       0 |  101900 |all-in|  2 |  208600 |
+ 4|   gilette                  |  130900 |       0 |New   |    |         |
+ 5|DV Cody Jones               |   11350 |     300 |<AWOL>|    |         |
+ 6|V  Redbird                  |   74950 |    1300 |<AWOL>|    |         |
+ 7|   Olof Siverbo             |  109650 |    2300 |folded|    |         |
+ 8|   Another player           |   92400 |     300 |folded|    |         |
+ 9|>  Dave McVay               |       0 |  111150 |all-in|  1 |    9250 |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/01/20 08:43:25! Dealing a new hand
+! 02/01/20 08:43:25! Everyone antes $300
+! 02/01/20 08:43:25! Redbird blinds $1000
+! 02/01/20 08:43:25! Olof Siverbo blinds $2000
+! 02/01/20 09:10:40! Another player folds
+! 02/01/20 10:35:10! New player added to the table: gilette
+! 02/01/20 12:10:35! Dave McVay raises $7400 to $9400 total 
+! 02/01/20 17:39:59! CRStals folds
+! 02/01/20 17:39:59! L.A. Johnson folds
+! 02/01/20 20:54:04! mjoseff calls 
+! 02/01/20 20:54:04! Cody Jones is on vacation and folds
+! 02/01/20 20:54:04! Redbird is on vacation and folds
+! 02/02/20 01:08:58! Olof Siverbo folds
+
+! 02/02/20 01:08:58! Pot right ($24200), flopping/dealing/drawing cards
+! 02/02/20 01:08:58! 2 players
+! 02/02/20 01:08:58! Flopped cards: Qc 9d Js
+! 02/02/20 04:24:14! Dave McVay bets $24200 
+! 02/02/20 05:12:02! mjoseff raises $68000 to $92200 total and is all in
+! 02/02/20 05:17:14! Dave McVay raises $9250 to $101450 total and is all in
+
+! 02/02/20 05:17:14! Pot right ($217850), flopping/dealing/drawing cards
+! 02/02/20 05:17:14! 2 players, 2 all in
+! 02/02/20 05:17:14! Flopped card: Kc
+! 02/02/20 05:17:14! Flopped card: 10d
+! Hand over, current board is:  Qc 9d Js Kc 10d
+! mjoseff                  has: Qs Ah
+! Dave McVay               has: 10s 8s
+! Pot 1: uncalled $9250 returned to Dave McVay
+! Pot 2: mjoseff wins $208600 with Straight (A K Q J 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   CRStals                  |  238525 |         |      |    |         |
+ 2|   L.A. Johnson             |  262600 |         |      |    |         |
+ 3|   mjoseff                  |  208600 |         |      |    |         |
+ 4|   gilette                  |  130900 |         |      |    |         |
+ 5|V  Cody Jones               |   11350 |         |<AWOL>|    |         |
+ 6|DV Redbird                  |   74950 |         |<AWOL>|    |         |
+ 7|   Olof Siverbo             |  109650 |         |      |    |         |
+ 8|   Another player           |   92400 |         |      |    |         |
+ 9|>  Dave McVay               |    9250 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 217 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c21.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

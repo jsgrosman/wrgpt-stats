@@ -1,0 +1,122 @@
+Subject: [b32.11090] Holdem Game Broadcast Message(*)
+
+! Table b32, Hand 85, Day 45
+
+! Thumper calls 
+! Pot right ($70550), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 7h
+! Flopped card: 2s
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   BillDaBear               |   96000 |      50 |folded|    |         |
+ 2|   DireWolf                 |   89625 |      50 |folded|    |         |
+ 3|   Stephen Wong             |   57675 |      50 |folded|    |         |
+ 4|>  Thumper                  |   60725 |   34800 |      |    |         |
+ 5|D  Chris Sims               |       0 |   34800 |all-in|    |         |
+ 6|   JZo                      |   90175 |     250 |folded|    |         |
+ 7|   Ira Agins                |   47575 |     450 |folded|    |         |
+ 8|   Dr. Evil                 |   18475 |      50 |folded|    |         |
+ 9|   Shari Silk               |   89175 |      50 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/18/19 08:34:29! Dealing a new hand
+! 12/18/19 08:34:29! Everyone antes $50
+! 12/18/19 08:34:29! JZo blinds $200
+! 12/18/19 08:34:29! Ira Agins blinds $400
+! 12/18/19 08:36:27! Dr. Evil folds
+! 12/18/19 08:36:33! Shari Silk folds
+! 12/18/19 09:01:36! BillDaBear folds
+! 12/18/19 09:44:19! DireWolf folds
+! 12/18/19 12:12:18! Stephen Wong folds
+! 12/18/19 12:17:38! Thumper raises $400 to $800 total 
+! 12/18/19 12:32:03! Chris Sims raises $3700 to $4500 total 
+! 12/18/19 14:07:18! JZo folds
+! 12/18/19 14:07:18! Ira Agins folds
+! 12/18/19 14:22:14! Thumper calls 
+
+! 12/18/19 14:22:14! Pot right ($10050), flopping/dealing/drawing cards
+! 12/18/19 14:22:14! 2 players
+! 12/18/19 14:22:14! Flopped cards: 4h 2h Qd
+! 12/18/19 14:23:08! Thumper checks
+! 12/18/19 14:32:04! Chris Sims bets $10050 
+! 12/18/19 14:38:36! Thumper raises $14950 to $25000 total 
+! 12/18/19 14:52:43! Chris Sims raises $5250 to $30250 total and is all in
+! 12/18/19 14:59:40! Thumper calls 
+
+! 12/18/19 14:59:40! Pot right ($70550), flopping/dealing/drawing cards
+! 12/18/19 14:59:40! 2 players, 1 all in
+! 12/18/19 14:59:40! Flopped card: 7h
+! 12/18/19 14:59:40! Flopped card: 2s
+! Hand over, current board is:  4h 2h Qd 7h 2s
+! Thumper                  has: Qs Qc
+! Chris Sims               has: Kh Kc
+! Thumper wins $70550 (net $35750) with Full House (Q Q Q 2 2)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   BillDaBear               |   96000 |         |      |    |         |
+ 2|   DireWolf                 |   89625 |         |      |    |         |
+ 3|   Stephen Wong             |   57675 |         |      |    |         |
+ 4|>  Thumper                  |  131275 |         |      |    |         |
+ 6|D  JZo                      |   90175 |         |      |    |         |
+ 7|   Ira Agins                |   47575 |         |      |    |         |
+ 8|   Dr. Evil                 |   18475 |         |      |    |         |
+ 9|   Shari Silk               |   89175 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Chris Sims is eliminated!
+! 396 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b32.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+After day 45 of the tourney there will be no
+more live redraws or breaking tables.  Tables
+will be allowed to run until a table gets to 
+five or fewer players at which time all tables
+will finish the current hand and a full, random
+redraw to all new tables will be done.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,126 @@
+Subject: [b3.10445] Holdem Game Broadcast Message(*)
+
+! Table b3, Hand 33, Day 23
+
+! Anonymous calls 
+! Pot right ($60450), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 3d
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   beowulf                  |   38575 |       0 |folded|    |         |
+ 2|   JohnnyMac                |   93725 |     300 |folded|    |         |
+ 3|   Robert Christ            |   57950 |       0 |folded|    |         |
+ 4|>  Anonymous                |   30625 |   27400 |      |    |         |
+ 5|   Dave Weiss               |       0 |   27400 |all-in|    |         |
+ 6|DV Kit Woolsey              |   45525 |       0 |<Gone>|    |         |
+ 7|   Another player           |   64750 |     150 |folded|    |         |
+ 8|   Otto                     |   22150 |    5200 |folded|    |         |
+ 9|   Dj Coates                |   36250 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/25/19 13:35:56! Dealing a new hand
+! 11/25/19 13:35:56! No ante
+! 11/25/19 13:35:56! Another player blinds $150
+! 11/25/19 13:35:56! Otto blinds $300
+! 11/25/19 14:07:05! Dj Coates folds
+! 11/25/19 14:07:05! beowulf folds
+! 11/25/19 14:07:52! JohnnyMac calls 
+! 11/25/19 16:25:50! Robert Christ folds
+! 11/25/19 16:36:52! Anonymous raises $300 to $600 total 
+! 11/25/19 16:36:52! Dave Weiss raises $600 to $1200 total 
+! 11/25/19 16:36:52! Kit Woolsey is on vacation and folds
+! 11/25/19 20:45:37! Another player folds
+! 11/26/19 06:36:06! Otto calls 
+! 11/26/19 06:36:06! JohnnyMac folds
+! 11/26/19 08:45:00! Anonymous calls 
+
+! 11/26/19 08:45:00! Pot right ($4050), flopping/dealing/drawing cards
+! 11/26/19 08:45:00! 3 players
+! 11/26/19 08:45:00! Flopped cards: 5c 10h 6h
+! 11/26/19 08:49:39! Otto checks
+! 11/26/19 08:52:24! Anonymous checks
+! 11/26/19 08:53:43! Dave Weiss bets $4000 
+! 11/26/19 08:57:44! Otto calls 
+! 11/26/19 09:04:24! Anonymous calls 
+
+! 11/26/19 09:04:24! Pot right ($16050), flopping/dealing/drawing cards
+! 11/26/19 09:04:24! 3 players
+! 11/26/19 09:04:24! Flopped card: 6d
+! 11/26/19 09:09:29! Otto checks
+! 11/26/19 09:23:08! Anonymous bets $4000 
+! 11/26/19 10:30:22! Dave Weiss raises $18200 to $22200 total and is all in
+! 11/26/19 10:43:33! Otto folds
+! 11/26/19 13:05:44! Anonymous calls 
+
+! 11/26/19 13:05:44! Pot right ($60450), flopping/dealing/drawing cards
+! 11/26/19 13:05:44! 2 players, 1 all in
+! 11/26/19 13:05:44! Flopped card: 3d
+! Hand over, current board is:  5c 10h 6h 6d 3d
+! Anonymous                has: 10s Ah
+! Dave Weiss               has: Qs Qd
+! Dave Weiss wins $60450 (net $33050) with Two Pair (Q Q 6 6 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   beowulf                  |   38575 |         |      |    |         |
+ 2|   JohnnyMac                |   93725 |         |      |    |         |
+ 3|   Robert Christ            |   57950 |         |      |    |         |
+ 4|>  Anonymous                |   30625 |         |      |    |         |
+ 5|   Dave Weiss               |   60450 |         |      |    |         |
+ 6|V  Kit Woolsey              |   45525 |         |<Gone>|    |         |
+ 7|D  Another player           |   64750 |         |      |    |         |
+ 8|   Otto                     |   22150 |         |      |    |         |
+ 9|   Dj Coates                |   36250 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 490 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b3.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that have not come to the table by the end
+of day 30 will be removed.
+
+Players that are away from the tables for 45 days 
+will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 5
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

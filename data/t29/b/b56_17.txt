@@ -1,0 +1,111 @@
+Subject: [b56.10241] Holdem Game Broadcast Message(*)
+
+! Table b56, Hand 17, Day 11
+
+! beacon bot folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   beacon bot               |   92850 |    3600 |folded|    |         |
+ 2|   Eight of Spades          |   47825 |       0 |folded|    |         |
+ 3|   db222                    |   47050 |       0 |folded|    |         |
+ 4|   TheJD                    |   43025 |       0 |folded|    |         |
+ 5|>  2fit2fold                |   33925 |   10825 |      |    |         |
+ 6|   mulligan                 |   50650 |       0 |folded|    |         |
+ 7|   not66                    |   58400 |       0 |folded|    |         |
+ 8|D  ADBHOWLER                |   46375 |     400 |folded|    |         |
+ 9|   Righteous Indignation    |   61725 |     400 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/14/19 06:46:50! Dealing a new hand
+! 11/14/19 06:46:50! No ante
+! 11/14/19 06:46:50! Righteous Indignation blinds $75
+! 11/14/19 06:46:50! beacon bot blinds $150
+! 11/14/19 07:08:28! Eight of Spades folds
+! 11/14/19 07:18:28! db222 folds
+! 11/14/19 07:18:28! TheJD folds
+! 11/14/19 10:04:41! 2fit2fold raises $250 to $400 total 
+! 11/14/19 10:04:41! mulligan folds
+! 11/14/19 10:04:41! not66 folds
+! 11/14/19 10:13:27! ADBHOWLER calls 
+! 11/14/19 10:17:16! Righteous Indignation calls 
+! 11/14/19 10:49:32! beacon bot calls 
+
+! 11/14/19 10:49:32! Pot right ($1600), flopping/dealing/drawing cards
+! 11/14/19 10:49:32! 4 players
+! 11/14/19 10:49:32! Flopped cards: 5s 8h 10h
+! 11/14/19 10:54:43! Righteous Indignation checks
+! 11/14/19 11:10:06! beacon bot bets $1000 
+! 11/14/19 11:13:40! 2fit2fold raises $2200 to $3200 total 
+! 11/14/19 11:36:55! ADBHOWLER folds
+! 11/14/19 11:41:25! Righteous Indignation folds
+! 11/14/19 14:06:47! beacon bot calls 
+
+! 11/14/19 14:06:47! Pot right ($8000), flopping/dealing/drawing cards
+! 11/14/19 14:06:47! 2 players
+! 11/14/19 14:06:47! Flopped card: 2c
+! 11/14/19 14:07:59! beacon bot checks
+! 11/14/19 14:16:25! 2fit2fold bets $7225 
+! 11/14/19 15:03:45! beacon bot folds
+! Hand over, no showdown
+! Current board is:  5s 8h 10h 2c ?
+! 2fit2fold wins $15225 (net $4400)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   beacon bot               |   92850 |         |      |    |         |
+ 2|   Eight of Spades          |   47825 |         |      |    |         |
+ 3|   db222                    |   47050 |         |      |    |         |
+ 4|   TheJD                    |   43025 |         |      |    |         |
+ 5|>  2fit2fold                |   49150 |         |      |    |         |
+ 6|   mulligan                 |   50650 |         |      |    |         |
+ 7|   not66                    |   58400 |         |      |    |         |
+ 8|   ADBHOWLER                |   46375 |         |      |    |         |
+ 9|D  Righteous Indignation    |   61725 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 526 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b56.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Good luck.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 3
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

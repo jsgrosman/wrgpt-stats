@@ -1,0 +1,119 @@
+Subject: [b17.10108] Holdem Game Broadcast Message(*)
+
+! Table b17, Hand 6, Day 7
+
+! Mr Generic calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Spidurman                |   49375 |       0 |folded|    |         |
+ 2|   Sensitive Brian          |   49925 |       0 |folded|    |         |
+ 3|   Ian Collier              |   49700 |       0 |folded|    |         |
+ 4|   toronado13               |   54925 |    2000 |folded|    |         |
+ 5|>  rAmAk                    |   39700 |    8000 |      |    |         |
+ 6|D  Mr Generic               |   42550 |    8000 |      |    |         |
+ 7|V  Bill White               |   49775 |      75 | NoSho|    |         |
+ 8|   Samuel L. Bronkowitz     |   49850 |     150 |folded|    |         |
+ 9|   Slimbob                  |   45975 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/08/19 12:24:40! Dealing a new hand
+! 11/08/19 12:24:40! No ante
+! 11/08/19 12:24:40! Bill White blinds $75
+! 11/08/19 12:24:40! Samuel L. Bronkowitz blinds $150
+! 11/08/19 15:31:43! Slimbob folds
+! 11/08/19 15:31:43! Spidurman folds
+! 11/08/19 15:31:43! Sensitive Brian folds
+! 11/08/19 15:31:43! Ian Collier folds
+! 11/08/19 16:17:51! toronado13 calls 
+! 11/08/19 23:09:06! rAmAk raises $850 to $1000 total 
+! 11/08/19 23:10:02! Mr Generic calls 
+! 11/08/19 23:10:02! Bill White is on vacation and folds
+! 11/09/19 08:37:08! Samuel L. Bronkowitz folds
+! 11/09/19 14:25:19! toronado13 calls 
+
+! 11/09/19 14:25:19! Pot right ($3225), flopping/dealing/drawing cards
+! 11/09/19 14:25:19! 3 players
+! 11/09/19 14:25:19! Flopped cards: Qd Jh 6h
+! 11/09/19 14:26:08! toronado13 checks
+! 11/10/19 02:11:52! rAmAk bets $1000 
+! 11/10/19 06:02:18! Mr Generic calls 
+! 11/10/19 06:09:04! toronado13 calls 
+
+! 11/10/19 06:09:04! Pot right ($6225), flopping/dealing/drawing cards
+! 11/10/19 06:09:04! 3 players
+! 11/10/19 06:09:04! Flopped card: 3h
+! 11/10/19 07:28:19! toronado13 checks
+! 11/10/19 08:50:35! rAmAk bets $2500 
+! 11/10/19 09:16:13! Mr Generic calls 
+! 11/10/19 09:22:52! toronado13 folds
+
+! 11/10/19 09:22:52! Pot right ($11225), flopping/dealing/drawing cards
+! 11/10/19 09:22:52! 2 players
+! 11/10/19 09:22:52! Flopped card: 2d
+! 11/10/19 10:15:29! rAmAk bets $3500 
+! 11/10/19 10:20:14! Mr Generic calls 
+! Hand over, current board is:  Qd Jh 6h 3h 2d
+! rAmAk                    has: 7h 7c
+! Mr Generic               has: Qs Kh
+! Mr Generic wins $18225 (net $10225) with One Pair (Q Q K J 6)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Spidurman                |   49375 |         |      |    |         |
+ 2|   Sensitive Brian          |   49925 |         |      |    |         |
+ 3|   Ian Collier              |   49700 |         |      |    |         |
+ 4|   toronado13               |   54925 |         |      |    |         |
+ 5|>  rAmAk                    |   39700 |         |      |    |         |
+ 6|   Mr Generic               |   60775 |         |      |    |         |
+ 7|DV Bill White               |   49775 |         | NoSho|    |         |
+ 8|   Samuel L. Bronkowitz     |   49850 |         |      |    |         |
+ 9|   Slimbob                  |   45975 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 534 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b17.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+This is the REAL WRGPT29.
+Changes to office hours and email addresses do not carry over from the
+practice round.
+You have been assigned a new ID and the round is "b".
+
+Good luck.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 3
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,119 @@
+Subject: [b39.10412] Holdem Game Broadcast Message(*)
+
+! Table b39, Hand 30, Day 29
+
+! Swamper BFJ checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Bobby the Worm           |   59100 |       0 |folded|    |         |
+ 2|   beacon bot               |  110475 |       0 |folded|    |         |
+ 3|D  Larry Stone              |  136575 |     300 |folded|    |         |
+ 4|>  BillB                    |   59650 |    1150 |      |    |         |
+ 6|   mshulm1                  |   55075 |     300 |folded|    |         |
+ 7|   Swamper BFJ              |   34075 |    1150 |      |    |         |
+ 8|   BlindMonkey              |   57525 |       0 |New   |    |         |
+ 9|   Your Boy DB              |    1725 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/30/19 14:14:17! Dealing a new hand
+! 11/30/19 14:14:17! No ante
+! 11/30/19 14:14:17! BillB blinds $150
+! 11/30/19 14:14:17! mshulm1 blinds $300
+! 11/30/19 14:20:04! Swamper BFJ calls 
+! 11/30/19 14:32:11! Your Boy DB folds
+! 11/30/19 16:55:05! New player added to the table: BlindMonkey
+! 11/30/19 17:16:49! Bobby the Worm folds
+! 11/30/19 17:16:49! beacon bot folds
+! 11/30/19 17:18:03! Larry Stone calls 
+! 11/30/19 17:40:52! BillB calls 
+! 12/01/19 11:19:54! mshulm1 checks
+
+! 12/01/19 11:19:54! Pot right ($1200), flopping/dealing/drawing cards
+! 12/01/19 11:19:54! 4 players
+! 12/01/19 11:19:54! Flopped cards: 7h 4c 4s
+! 12/01/19 14:33:38! BillB checks
+! 12/01/19 14:33:38! mshulm1 checks
+! 12/01/19 15:18:11! Swamper BFJ checks
+! 12/01/19 18:06:50! Larry Stone checks
+
+! 12/01/19 18:06:50! Pot right ($1200), flopping/dealing/drawing cards
+! 12/01/19 18:06:50! 4 players
+! 12/01/19 18:06:50! Flopped card: 5c
+! 12/01/19 19:12:28! BillB bets $850 
+! 12/01/19 19:12:28! mshulm1 folds
+! 12/02/19 04:53:23! Swamper BFJ calls 
+! 12/02/19 04:53:23! Larry Stone folds
+
+! 12/02/19 04:53:23! Pot right ($2900), flopping/dealing/drawing cards
+! 12/02/19 04:53:23! 2 players
+! 12/02/19 04:53:23! Flopped card: As
+! 12/02/19 04:58:08! BillB checks
+! 12/02/19 07:13:52! Swamper BFJ checks
+! Hand over, current board is:  7h 4c 4s 5c As
+! BillB                    has: Ks 5s
+! Swamper BFJ              has: 3h 2h
+! Swamper BFJ wins $2900 (net $1750) with Straight (5 4 3 2 A)
+! Antes and blinds go up
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Bobby the Worm           |   59100 |         |      |    |         |
+ 2|   beacon bot               |  110475 |         |      |    |         |
+ 3|   Larry Stone              |  136575 |         |      |    |         |
+ 4|D> BillB                    |   59650 |         |      |    |         |
+ 6|   mshulm1                  |   55075 |         |      |    |         |
+ 7|   Swamper BFJ              |   36975 |         |      |    |         |
+ 8|   BlindMonkey              |   57525 |         |      |    |         |
+ 9|   Your Boy DB              |    1725 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 471 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b39.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that have not come to the table by the end
+of day 30 will be removed.
+
+Players that are away from the tables for 45 days 
+will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

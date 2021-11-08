@@ -1,0 +1,112 @@
+Subject: [b10.11856] Holdem Game Broadcast Message(*)
+
+! Table b10, Hand 123, Day 55
+
+! Jascha folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   sgranen                  |   40725 |      50 |folded|    |         |
+ 2|D  quas2000                 |   97450 |      50 |folded|    |         |
+ 3|   eldiablo505              |       0 |   43625 |all-in|    |         |
+ 4|   docdanger                |  139975 |     450 |folded|    |         |
+ 5|   dgr                      |  127350 |      50 |folded|    |         |
+ 7|>  Jascha                   |   43425 |    4850 |folded|    |         |
+ 8|   Virginia Slims           |  101425 |    1050 |folded|    |         |
+ 9|   1985 M Building Champ    |   63400 |      50 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/27/19 21:55:20! Dealing a new hand
+! 12/27/19 21:55:20! Everyone antes $50
+! 12/27/19 21:55:20! eldiablo505 blinds $200
+! 12/27/19 21:55:20! docdanger blinds $400
+! 12/27/19 22:06:12! dgr folds
+! 12/28/19 04:35:11! Jascha raises $600 to $1000 total 
+! 12/28/19 04:41:03! Virginia Slims calls 
+! 12/28/19 08:18:04! 1985 M Building Champ folds
+! 12/28/19 14:17:07! sgranen folds
+! 12/28/19 14:44:09! quas2000 folds
+! 12/28/19 15:29:27! eldiablo505 calls 
+! 12/28/19 15:29:27! docdanger folds
+
+! 12/28/19 15:29:27! Pot right ($3800), flopping/dealing/drawing cards
+! 12/28/19 15:29:27! 3 players
+! 12/28/19 15:29:27! Flopped cards: 5h 3d 2s
+! 12/28/19 15:53:48! eldiablo505 bets $3800 
+! 12/28/19 16:06:28! Jascha calls 
+! 12/28/19 16:30:28! Virginia Slims folds
+
+! 12/28/19 16:30:28! Pot right ($11400), flopping/dealing/drawing cards
+! 12/28/19 16:30:28! 2 players
+! 12/28/19 16:30:28! Flopped card: 3s
+! 12/28/19 16:43:26! eldiablo505 bets $38775 and is all in
+! 12/28/19 16:47:01! Jascha folds
+! Hand over, no showdown
+! Current board is:  5h 3d 2s 3s ?
+! eldiablo505 wins $50175 (net $6550)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   sgranen                  |   40725 |         |      |    |         |
+ 2|   quas2000                 |   97450 |         |      |    |         |
+ 3|D  eldiablo505              |   50175 |         |      |    |         |
+ 4|   docdanger                |  139975 |         |      |    |         |
+ 5|   dgr                      |  127350 |         |      |    |         |
+ 7|>  Jascha                   |   43425 |         |      |    |         |
+ 8|   Virginia Slims           |  101425 |         |      |    |         |
+ 9|   1985 M Building Champ    |   63400 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 363 players left in the tournament, 3 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b10.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+After day 45 of the tourney there will be no
+more live redraws or breaking tables.  Tables
+will be allowed to run until a table gets to 
+five or fewer players at which time all tables
+will finish the current hand and a full, random
+redraw to all new tables will be done.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 42
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

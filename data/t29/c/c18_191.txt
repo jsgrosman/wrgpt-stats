@@ -1,0 +1,115 @@
+Subject: [c18.10477] Holdem Game Broadcast Message(*)
+
+! Table c18, Hand 191, Day 89
+
+! Sunnygirl318 calls 
+! Pot right ($153900), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 9d
+! Flopped card: 4c
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   888                      |   61800 |     300 |folded|    |         |
+ 2|D  Bob The Butcher          |  159150 |     300 |folded|    |         |
+ 3|   db222                    |   88025 |    5500 |folded|    |         |
+ 4|   danthefan                |       0 |   73300 |all-in|    |         |
+ 5|>  Sunnygirl318             |    7950 |   73300 |      |    |         |
+ 6|   Butter                   |  272225 |     300 |folded|    |         |
+ 7|   beacon bot               |  161300 |     300 |folded|    |         |
+ 8|   Oldbloke                 |  108425 |     300 |folded|    |         |
+ 9|   Robert Christ            |  156150 |     300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/31/20 15:59:30! Dealing a new hand
+! 01/31/20 15:59:30! Everyone antes $300
+! 01/31/20 15:59:30! db222 blinds $1000
+! 01/31/20 15:59:30! danthefan blinds $2000
+! 01/31/20 16:58:47! Sunnygirl318 raises $3200 to $5200 total 
+! 01/31/20 16:58:47! Butter folds
+! 01/31/20 18:25:15! beacon bot folds
+! 01/31/20 18:25:15! Oldbloke folds
+! 01/31/20 18:25:15! Robert Christ folds
+! 01/31/20 18:25:15! 888 folds
+! 01/31/20 18:25:15! Bob The Butcher folds
+! 01/31/20 18:28:29! db222 calls 
+! 01/31/20 18:30:52! danthefan calls 
+
+! 01/31/20 18:30:52! Pot right ($18300), flopping/dealing/drawing cards
+! 01/31/20 18:30:52! 3 players
+! 01/31/20 18:30:52! Flopped cards: 3s 8d 9s
+! 01/31/20 18:48:11! db222 checks
+! 01/31/20 18:48:11! danthefan checks
+! 01/31/20 19:22:07! Sunnygirl318 bets $10400 
+! 01/31/20 19:47:52! db222 folds
+! 01/31/20 20:25:20! danthefan raises $57400 to $67800 total and is all in
+! 01/31/20 20:31:35! Sunnygirl318 calls 
+
+! 01/31/20 20:31:35! Pot right ($153900), flopping/dealing/drawing cards
+! 01/31/20 20:31:35! 2 players, 1 all in
+! 01/31/20 20:31:35! Flopped card: 9d
+! 01/31/20 20:31:35! Flopped card: 4c
+! Hand over, current board is:  3s 8d 9s 9d 4c
+! danthefan                has: 3h Kd
+! Sunnygirl318             has: As Qs
+! danthefan wins $153900 (net $80600) with Two Pair (9 9 3 3 K)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   888                      |   61800 |         |      |    |         |
+ 2|   Bob The Butcher          |  159150 |         |      |    |         |
+ 3|D  db222                    |   88025 |         |      |    |         |
+ 4|   danthefan                |  153900 |         |      |    |         |
+ 5|>  Sunnygirl318             |    7950 |         |      |    |         |
+ 6|   Butter                   |  272225 |         |      |    |         |
+ 7|   beacon bot               |  161300 |         |      |    |         |
+ 8|   Oldbloke                 |  108425 |         |      |    |         |
+ 9|   Robert Christ            |  156150 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 223 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c18.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 11
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,126 @@
+Subject: [b33.10641] Holdem Game Broadcast Message(*)
+
+! Table b33, Hand 46, Day 46
+
+! Skippy checks
+! Per Landberger checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Per Landberger           |   50975 |   18050 |      |    |         |
+ 2|D  Dan Driscoll             |   42175 |      50 |folded|    |         |
+ 3|   Stephen Opal             |   35950 |     250 |folded|    |         |
+ 4|   ThunderRd                |   60100 |     450 |folded|    |         |
+ 5|V  Boomerman                |  179050 |      50 |<AWOL>|    |         |
+ 6|   Zipper                   |   64550 |      50 |folded|    |         |
+ 7|   Srfndoc                  |   91475 |      50 |folded|    |         |
+ 8|   Julie Greenberg          |   63650 |      50 |folded|    |         |
+ 9|>  Skippy                   |   64600 |   18050 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/18/19 04:28:21! Dealing a new hand
+! 12/18/19 04:28:21! Everyone antes $50
+! 12/18/19 04:28:21! Stephen Opal blinds $200
+! 12/18/19 04:28:21! ThunderRd blinds $400
+! 12/18/19 04:28:21! Boomerman is on vacation and folds
+! 12/18/19 05:09:54! Zipper folds
+! 12/18/19 05:38:30! Srfndoc folds
+! 12/18/19 05:38:30! Julie Greenberg folds
+! 12/18/19 06:16:04! Skippy raises $900 to $1300 total 
+! 12/18/19 10:07:36! Per Landberger raises $1200 to $2500 total 
+! 12/18/19 11:56:45! Dan Driscoll folds
+! 12/18/19 12:02:53! Stephen Opal folds
+! 12/18/19 12:02:53! ThunderRd folds
+! 12/18/19 12:17:41! Skippy calls 
+
+! 12/18/19 12:17:41! Pot right ($6050), flopping/dealing/drawing cards
+! 12/18/19 12:17:41! 2 players
+! 12/18/19 12:17:41! Flopped cards: 6h 2h 5s
+! 12/18/19 12:18:16! Skippy checks
+! 12/18/19 13:38:53! Per Landberger bets $2500 
+! 12/18/19 13:57:26! Skippy calls 
+
+! 12/18/19 13:57:26! Pot right ($11050), flopping/dealing/drawing cards
+! 12/18/19 13:57:26! 2 players
+! 12/18/19 13:57:26! Flopped card: 6c
+! 12/18/19 13:58:03! Skippy checks
+! 12/18/19 22:41:46! Per Landberger bets $5000 
+! 12/19/19 04:46:42! Skippy raises $8000 to $13000 total 
+! 12/19/19 06:33:03! Per Landberger calls 
+
+! 12/19/19 06:33:03! Pot right ($37050), flopping/dealing/drawing cards
+! 12/19/19 06:33:03! 2 players
+! 12/19/19 06:33:03! Flopped card: 10s
+! 12/19/19 06:52:20! Skippy checks
+! 12/19/19 06:52:20! Per Landberger checks
+! Hand over, current board is:  6h 2h 5s 6c 10s
+! Per Landberger           has: As Ad
+! Skippy                   has: 9s 9c
+! Per Landberger wins $37050 (net $19000) with Two Pair (A A 6 6 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Per Landberger           |   88025 |         |      |    |         |
+ 2|   Dan Driscoll             |   42175 |         |      |    |         |
+ 3|D  Stephen Opal             |   35950 |         |      |    |         |
+ 4|   ThunderRd                |   60100 |         |      |    |         |
+ 5|V  Boomerman                |  179050 |         |<AWOL>|    |         |
+ 6|   Zipper                   |   64550 |         |      |    |         |
+ 7|   Srfndoc                  |   91475 |         |      |    |         |
+ 8|   Julie Greenberg          |   63650 |         |      |    |         |
+ 9|>  Skippy                   |   64600 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 394 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b33.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+After day 45 of the tourney there will be no
+more live redraws or breaking tables.  Tables
+will be allowed to run until a table gets to 
+five or fewer players at which time all tables
+will finish the current hand and a full, random
+redraw to all new tables will be done.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 10
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

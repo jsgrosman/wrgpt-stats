@@ -1,0 +1,118 @@
+Subject: [c31.10232] Holdem Game Broadcast Message(*)
+
+! Table c31, Hand 166, Day 70
+
+! Dario calls 
+! Pot right ($61850), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 8c
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   SJL                      |   61300 |     600 |folded|    |         |
+ 2|   coming                   |  123900 |     600 |folded|    |         |
+ 3|>  Dario                    |  106625 |   29950 |      |    |         |
+ 4|   quas2000                 |   35725 |     100 |folded|    |         |
+ 5|   altidude6202             |  212775 |     100 |folded|    |         |
+ 6|   ThunderRd                |       0 |   29950 |all-in|    |         |
+ 7|   shinsook                 |  143250 |     100 |folded|    |         |
+ 8|D  Andyd                    |   69675 |     100 |folded|    |         |
+ 9|   beacon bot               |  272825 |     350 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/11/20 16:52:06! Dealing a new hand
+! 01/11/20 16:52:06! Everyone antes $100
+! 01/11/20 16:52:06! beacon bot blinds $250
+! 01/11/20 16:52:06! SJL blinds $500
+! 01/11/20 16:59:26! coming calls 
+! 01/11/20 18:12:55! Dario calls 
+! 01/11/20 18:21:05! quas2000 folds
+! 01/11/20 18:21:05! altidude6202 folds
+! 01/11/20 18:55:57! ThunderRd raises $950 to $1450 total 
+! 01/11/20 18:55:57! shinsook folds
+! 01/11/20 18:55:57! Andyd folds
+! 01/11/20 18:55:57! beacon bot folds
+! 01/11/20 21:37:15! SJL folds
+! 01/11/20 21:37:15! coming folds
+! 01/11/20 21:37:15! Dario calls 
+
+! 01/11/20 21:37:15! Pot right ($5050), flopping/dealing/drawing cards
+! 01/11/20 21:37:15! 2 players
+! 01/11/20 21:37:15! Flopped cards: 5d 10d 8h
+! 01/11/20 22:26:21! Dario bets $5000 
+! 01/11/20 22:29:17! ThunderRd calls 
+
+! 01/11/20 22:29:17! Pot right ($15050), flopping/dealing/drawing cards
+! 01/11/20 22:29:17! 2 players
+! 01/11/20 22:29:17! Flopped card: 5h
+! 01/12/20 07:04:12! Dario bets $10000 
+! 01/12/20 07:06:33! ThunderRd raises $13400 to $23400 total and is all in
+! 01/12/20 08:57:24! Dario calls 
+
+! 01/12/20 08:57:24! Pot right ($61850), flopping/dealing/drawing cards
+! 01/12/20 08:57:24! 2 players, 1 all in
+! 01/12/20 08:57:24! Flopped card: 8c
+! Hand over, current board is:  5d 10d 8h 5h 8c
+! Dario                    has: Js 10s
+! ThunderRd                has: Ah Ad
+! ThunderRd wins $61850 (net $31900) with Two Pair (A A 8 8 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   SJL                      |   61300 |         |      |    |         |
+ 2|   coming                   |  123900 |         |      |    |         |
+ 3|>  Dario                    |  106625 |         |      |    |         |
+ 4|   quas2000                 |   35725 |         |      |    |         |
+ 5|   altidude6202             |  212775 |         |      |    |         |
+ 6|   ThunderRd                |   61850 |         |      |    |         |
+ 7|   shinsook                 |  143250 |         |      |    |         |
+ 8|   Andyd                    |   69675 |         |      |    |         |
+ 9|D  beacon bot               |  272825 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 311 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c31.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

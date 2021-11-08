@@ -1,0 +1,112 @@
+Subject: [b36.10252] Holdem Game Broadcast Message(*)
+
+! Table b36, Hand 22, Day 11
+
+! sendlo checks
+! NotQuiteACISO checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   FruitFoot                |   43700 |       0 |folded|    |         |
+ 2|>  sendlo                   |   27625 |     900 |      |    |         |
+ 3|   NotQuiteACISO            |   28825 |     900 |      |    |         |
+ 4|D  Laughter99               |   69550 |       0 |folded|    |         |
+ 6|   Duncan                   |   64425 |     150 |folded|    |         |
+ 7|   JRX                      |  133075 |       0 |folded|    |         |
+ 8|   Mother Speaks            |   29625 |       0 |folded|    |         |
+ 9|   Morgan                   |   51225 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/14/19 15:31:48! Dealing a new hand
+! 11/14/19 15:31:48! No ante
+! 11/14/19 15:31:48! Duncan blinds $150
+! 11/14/19 15:45:49! JRX folds
+! 11/14/19 15:46:11! Mother Speaks folds
+! 11/14/19 15:57:42! Morgan folds
+! 11/14/19 15:57:42! FruitFoot folds
+! 11/14/19 16:29:01! sendlo calls 
+! 11/14/19 16:48:50! NotQuiteACISO raises $325 to $475 total 
+! 11/14/19 16:48:50! Laughter99 folds
+! 11/14/19 17:03:17! Duncan folds
+! 11/14/19 17:22:24! sendlo calls 
+
+! 11/14/19 17:22:24! Pot right ($1100), flopping/dealing/drawing cards
+! 11/14/19 17:22:24! 2 players
+! 11/14/19 17:22:24! Flopped cards: Qs 8c 6c
+! 11/14/19 17:26:49! sendlo checks
+! 11/14/19 17:32:47! NotQuiteACISO bets $425 
+! 11/14/19 18:31:00! sendlo calls 
+
+! 11/14/19 18:31:00! Pot right ($1950), flopping/dealing/drawing cards
+! 11/14/19 18:31:00! 2 players
+! 11/14/19 18:31:00! Flopped card: 4h
+! 11/14/19 19:06:14! sendlo checks
+! 11/14/19 21:57:41! NotQuiteACISO checks
+
+! 11/14/19 21:57:41! Pot right ($1950), flopping/dealing/drawing cards
+! 11/14/19 21:57:41! 2 players
+! 11/14/19 21:57:41! Flopped card: Jd
+! 11/14/19 22:42:27! sendlo checks
+! 11/14/19 22:42:27! NotQuiteACISO checks
+! Hand over, current board is:  Qs 8c 6c 4h Jd
+! sendlo                   has: Jh 8d
+! NotQuiteACISO            has: 3h 3c
+! sendlo wins $1950 (net $1050) with Two Pair (J J 8 8 Q)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   FruitFoot                |   43700 |         |      |    |         |
+ 2|>  sendlo                   |   29575 |         |      |    |         |
+ 3|   NotQuiteACISO            |   28825 |         |      |    |         |
+ 4|D  Laughter99               |   69550 |         |      |    |         |
+ 6|   Duncan                   |   64425 |         |      |    |         |
+ 7|   JRX                      |  133075 |         |      |    |         |
+ 8|   Mother Speaks            |   29625 |         |      |    |         |
+ 9|   Morgan                   |   51225 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 525 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b36.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Good luck.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 4
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,123 @@
+Subject: [b4.10818] Holdem Game Broadcast Message(*)
+
+! Table b4, Hand 75, Day 53
+
+! TomasL calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Cruella                  |   48100 |      50 |folded|    |         |
+ 2|   TomasL                   |   83175 |   19250 |      |    |         |
+ 3|   Neurosion                |   75225 |      50 |folded|    |         |
+ 4|>  Brent Moore              |  116875 |   19250 |      |    |         |
+ 5|D  Jason Feng               |   35525 |      50 |folded|    |         |
+ 6|   Dalai Pookah             |   44525 |     250 |folded|    |         |
+ 7|   ADB Foldem               |   53350 |     450 |folded|    |         |
+ 8|   BluffaloBill             |   36200 |      50 |folded|    |         |
+ 9|   Nixed                    |   60375 |      50 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/26/19 06:32:23! Dealing a new hand
+! 12/26/19 06:32:23! Everyone antes $50
+! 12/26/19 06:32:23! Dalai Pookah blinds $200
+! 12/26/19 06:32:23! ADB Foldem blinds $400
+! 12/26/19 06:34:59! BluffaloBill folds
+! 12/26/19 08:25:36! Nixed folds
+! 12/26/19 08:25:36! Cruella folds
+! 12/26/19 08:26:56! TomasL raises $600 to $1000 total 
+! 12/26/19 08:35:47! Neurosion folds
+! 12/26/19 09:24:02! Brent Moore calls 
+! 12/26/19 10:40:57! Jason Feng folds
+! 12/26/19 10:40:57! Dalai Pookah folds
+! 12/26/19 11:12:53! ADB Foldem folds
+
+! 12/26/19 11:12:53! Pot right ($3050), flopping/dealing/drawing cards
+! 12/26/19 11:12:53! 2 players
+! 12/26/19 11:12:53! Flopped cards: 8d As 10h
+! 12/26/19 11:17:36! TomasL bets $2000 
+! 12/26/19 11:34:05! Brent Moore raises $3050 to $5050 total 
+! 12/26/19 11:51:46! TomasL calls 
+
+! 12/26/19 11:51:46! Pot right ($13150), flopping/dealing/drawing cards
+! 12/26/19 11:51:46! 2 players
+! 12/26/19 11:51:46! Flopped card: 9c
+! 12/26/19 11:52:34! TomasL checks
+! 12/26/19 12:08:24! Brent Moore checks
+
+! 12/26/19 12:08:24! Pot right ($13150), flopping/dealing/drawing cards
+! 12/26/19 12:08:24! 2 players
+! 12/26/19 12:08:24! Flopped card: 10d
+! 12/26/19 12:10:38! TomasL bets $5000 
+! 12/26/19 12:17:42! Brent Moore raises $8150 to $13150 total 
+! 12/26/19 13:13:40! TomasL calls 
+! Hand over, current board is:  8d As 10h 9c 10d
+! TomasL                   has: Ah Kh
+! Brent Moore              has: Jd 10c
+! Brent Moore wins $39450 (net $20200) with Three of a Kind (10 10 10 A J)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Cruella                  |   48100 |         |      |    |         |
+ 2|   TomasL                   |   83175 |         |      |    |         |
+ 3|   Neurosion                |   75225 |         |      |    |         |
+ 4|>  Brent Moore              |  156325 |         |      |    |         |
+ 5|   Jason Feng               |   35525 |         |      |    |         |
+ 6|D  Dalai Pookah             |   44525 |         |      |    |         |
+ 7|   ADB Foldem               |   53350 |         |      |    |         |
+ 8|   BluffaloBill             |   36200 |         |      |    |         |
+ 9|   Nixed                    |   60375 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 368 players left in the tournament, 3 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b4.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+After day 45 of the tourney there will be no
+more live redraws or breaking tables.  Tables
+will be allowed to run until a table gets to 
+five or fewer players at which time all tables
+will finish the current hand and a full, random
+redraw to all new tables will be done.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 37
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

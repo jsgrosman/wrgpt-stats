@@ -1,0 +1,116 @@
+Subject: [c17.10637] Holdem Game Broadcast Message(*)
+
+! Table c17, Hand 196, Day 91
+
+! Htr checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  Reggie Miller            |   44850 |     300 |folded|    |         |
+ 2|   Rich Guidoboni           |  370600 |    1300 |folded|    |         |
+ 3|   Boiling Frog             |   45625 |    2300 |folded|    |         |
+ 4|V  JRX                      |  180925 |     300 |<Gone>|    |         |
+ 5|>  Buggzilla                |  141225 |   30300 |      |    |         |
+ 6|   EricL                    |  109825 |     300 |folded|    |         |
+ 7|   Bryan Currie             |  185900 |     300 |folded|    |         |
+ 8|   Ken Doss                 |   37100 |     300 |folded|    |         |
+ 9|   Htr                      |  106575 |   30300 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/01/20 07:34:17! Dealing a new hand
+! 02/01/20 07:34:17! Everyone antes $300
+! 02/01/20 07:34:17! Rich Guidoboni blinds $1000
+! 02/01/20 07:34:17! Boiling Frog blinds $2000
+! 02/01/20 07:34:17! JRX is on vacation and folds
+! 02/01/20 08:24:52! Buggzilla calls 
+! 02/01/20 12:39:08! EricL folds
+! 02/01/20 12:42:00! Bryan Currie folds
+! 02/01/20 12:42:00! Ken Doss folds
+! 02/01/20 15:15:08! Htr raises $3000 to $5000 total 
+! 02/01/20 15:15:08! Reggie Miller folds
+! 02/01/20 15:15:08! Rich Guidoboni folds
+! 02/01/20 15:27:03! Boiling Frog folds
+! 02/01/20 18:25:48! Buggzilla calls 
+
+! 02/01/20 18:25:48! Pot right ($15700), flopping/dealing/drawing cards
+! 02/01/20 18:25:48! 2 players
+! 02/01/20 18:25:48! Flopped cards: 10h 2d 5h
+! 02/01/20 19:11:06! Buggzilla bets $10000 
+! 02/01/20 21:31:31! Htr raises $15000 to $25000 total 
+! 02/02/20 07:19:11! Buggzilla calls 
+
+! 02/02/20 07:19:11! Pot right ($65700), flopping/dealing/drawing cards
+! 02/02/20 07:19:11! 2 players
+! 02/02/20 07:19:11! Flopped card: 7h
+! 02/02/20 07:20:32! Buggzilla checks
+! 02/02/20 07:23:46! Htr checks
+
+! 02/02/20 07:23:46! Pot right ($65700), flopping/dealing/drawing cards
+! 02/02/20 07:23:46! 2 players
+! 02/02/20 07:23:46! Flopped card: 4c
+! 02/02/20 07:44:07! Buggzilla checks
+! 02/02/20 08:21:25! Htr checks
+! Hand over, current board is:  10h 2d 5h 7h 4c
+! Buggzilla                has: Ks 10c
+! Htr                      has: 10s Ah
+! Htr wins $65700 (net $35400) with One Pair (10 10 A 7 5)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Reggie Miller            |   44850 |         |      |    |         |
+ 2|D  Rich Guidoboni           |  370600 |         |      |    |         |
+ 3|   Boiling Frog             |   45625 |         |      |    |         |
+ 4|V  JRX                      |  180925 |         |<Gone>|    |         |
+ 5|>  Buggzilla                |  141225 |         |      |    |         |
+ 6|   EricL                    |  109825 |         |      |    |         |
+ 7|   Bryan Currie             |  185900 |         |      |    |         |
+ 8|   Ken Doss                 |   37100 |         |      |    |         |
+ 9|   Htr                      |  172275 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 217 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c17.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

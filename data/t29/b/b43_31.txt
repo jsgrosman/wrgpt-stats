@@ -1,0 +1,122 @@
+Subject: [b43.10412] Holdem Game Broadcast Message(*)
+
+! Table b43, Hand 31, Day 28
+
+! Joe Nadeau calls 
+! Pot right ($60350), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 10h
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Fun Time                 |   64100 |       0 |folded|    |         |
+ 2|   sqrrrl                   |       0 |   29950 |all-in|    |         |
+ 3|>  Joe Nadeau               |   22525 |   29950 |      |    |         |
+ 4|D  Dezza                    |   26425 |       0 |folded|    |         |
+ 5|   Kevmath                  |   37450 |     150 |folded|    |         |
+ 6|V  ADB DaVoice              |   56425 |     300 |02 DEC|    |         |
+ 7|   BeastSlayer              |  108600 |       0 |folded|    |         |
+ 8|V  Sean Weinberg            |   48875 |       0 | NoSho|    |         |
+ 9|   Alectric                 |   25250 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/30/19 14:17:31! Dealing a new hand
+! 11/30/19 14:17:31! No ante
+! 11/30/19 14:17:31! Kevmath blinds $150
+! 11/30/19 14:17:31! ADB DaVoice blinds $300
+! 11/30/19 15:34:31! BeastSlayer folds
+! 11/30/19 15:34:31! Sean Weinberg is on vacation and folds
+! 11/30/19 16:23:07! Alectric folds
+! 11/30/19 16:23:07! Fun Time folds
+! 11/30/19 18:23:47! sqrrrl raises $450 to $750 total 
+! 11/30/19 19:03:25! Joe Nadeau raises $1500 to $2250 total 
+! 12/01/19 01:37:58! Dezza folds
+! 12/01/19 11:39:48! Kevmath folds
+! 12/01/19 11:39:48! ADB DaVoice is on vacation and folds
+! 12/01/19 11:56:59! sqrrrl calls 
+
+! 12/01/19 11:56:59! Pot right ($4950), flopping/dealing/drawing cards
+! 12/01/19 11:56:59! 2 players
+! 12/01/19 11:56:59! Flopped cards: Qh Ac 7d
+! 12/01/19 11:57:57! sqrrrl checks
+! 12/01/19 13:21:49! Joe Nadeau bets $1500 
+! 12/01/19 14:33:15! sqrrrl calls 
+
+! 12/01/19 14:33:15! Pot right ($7950), flopping/dealing/drawing cards
+! 12/01/19 14:33:15! 2 players
+! 12/01/19 14:33:15! Flopped card: 9h
+! 12/01/19 14:34:14! sqrrrl bets $5000 
+! 12/01/19 14:36:33! Joe Nadeau raises $8000 to $13000 total 
+! 12/01/19 14:40:31! sqrrrl raises $13200 to $26200 total and is all in
+! 12/01/19 14:41:57! Joe Nadeau calls 
+
+! 12/01/19 14:41:57! Pot right ($60350), flopping/dealing/drawing cards
+! 12/01/19 14:41:57! 2 players, 1 all in
+! 12/01/19 14:41:57! Flopped card: 10h
+! Hand over, current board is:  Qh Ac 7d 9h 10h
+! sqrrrl                   has: Ah 7h
+! Joe Nadeau               has: Qd Qc
+! sqrrrl wins $60350 (net $30400) with Heart Flush (A Q 10 9 7)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Fun Time                 |   64100 |         |      |    |         |
+ 2|   sqrrrl                   |   60350 |         |      |    |         |
+ 3|>  Joe Nadeau               |   22525 |         |      |    |         |
+ 4|   Dezza                    |   26425 |         |      |    |         |
+ 5|D  Kevmath                  |   37450 |         |      |    |         |
+ 6|V  ADB DaVoice              |   56425 |         |02 DEC|    |         |
+ 7|   BeastSlayer              |  108600 |         |      |    |         |
+ 8|V  Sean Weinberg            |   48875 |         | NoSho|    |         |
+ 9|   Alectric                 |   25250 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 474 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b43.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that have not come to the table by the end
+of day 30 will be removed.
+
+Players that are away from the tables for 45 days 
+will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 3
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

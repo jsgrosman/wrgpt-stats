@@ -1,0 +1,112 @@
+Subject: [b16.10663] Holdem Game Broadcast Message(*)
+
+! Table b16, Hand 50, Day 40
+
+! Matthew checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Put it good              |   28500 |      25 |folded|    |         |
+ 2|   Matthew                  |   41850 |    7025 |      |    |         |
+ 3|   TRC Expert               |   73500 |      25 |folded|    |         |
+ 4|   Sandy                    |   44100 |      25 |folded|    |         |
+ 5|   db222                    |   86575 |      25 |folded|    |         |
+ 7|D  m13d                     |   55600 |    1025 |folded|    |         |
+ 8|>  SN                       |   46250 |    7025 |      |    |         |
+ 9|   Home_Brew_Boy            |  116650 |     325 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/13/19 09:09:15! Dealing a new hand
+! 12/13/19 09:09:15! Everyone antes $25
+! 12/13/19 09:09:15! SN blinds $150
+! 12/13/19 09:09:15! Home_Brew_Boy blinds $300
+! 12/13/19 09:39:38! Put it good folds
+! 12/13/19 09:39:38! Matthew raises $700 to $1000 total 
+! 12/13/19 09:39:38! TRC Expert folds
+! 12/13/19 10:39:31! Sandy folds
+! 12/13/19 10:39:31! db222 folds
+! 12/13/19 10:52:02! m13d calls 
+! 12/13/19 11:39:42! SN calls 
+! 12/13/19 11:41:15! Home_Brew_Boy folds
+
+! 12/13/19 11:41:15! Pot right ($3500), flopping/dealing/drawing cards
+! 12/13/19 11:41:15! 3 players
+! 12/13/19 11:41:15! Flopped cards: 3h 6h Js
+! 12/13/19 11:43:59! SN bets $3000 
+! 12/13/19 12:20:31! Matthew calls 
+! 12/13/19 13:03:04! m13d folds
+
+! 12/13/19 13:03:04! Pot right ($9500), flopping/dealing/drawing cards
+! 12/13/19 13:03:04! 2 players
+! 12/13/19 13:03:04! Flopped card: 4h
+! 12/13/19 13:28:32! SN bets $3000 
+! 12/13/19 13:36:02! Matthew calls 
+
+! 12/13/19 13:36:02! Pot right ($15500), flopping/dealing/drawing cards
+! 12/13/19 13:36:02! 2 players
+! 12/13/19 13:36:02! Flopped card: Ac
+! 12/13/19 13:42:00! SN checks
+! 12/13/19 14:21:28! Matthew checks
+! Hand over, current board is:  3h 6h Js 4h Ac
+! Matthew                  has: Ah Kc
+! SN                       has: Qh Qd
+! Matthew wins $15500 (net $8475) with One Pair (A A K J 6)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Put it good              |   28500 |         |      |    |         |
+ 2|   Matthew                  |   57350 |         |      |    |         |
+ 3|   TRC Expert               |   73500 |         |      |    |         |
+ 4|   Sandy                    |   44100 |         |      |    |         |
+ 5|   db222                    |   86575 |         |      |    |         |
+ 7|   m13d                     |   55600 |         |      |    |         |
+ 8|D> SN                       |   46250 |         |      |    |         |
+ 9|   Home_Brew_Boy            |  116650 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 421 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b16.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables for 45 days 
+will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 11
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

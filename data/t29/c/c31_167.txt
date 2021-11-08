@@ -1,0 +1,122 @@
+Subject: [c31.10246] Holdem Game Broadcast Message(*)
+
+! Table c31, Hand 167, Day 71
+
+! altidude6202 raises $88875 to $165875 total and is all in
+! Pot right ($344925), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped card: Qs
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   SJL                      |   60950 |     350 |folded|    |         |
+ 2|   coming                   |       0 |  123900 |all-in|  2 |  256050 |
+ 3|   Dario                    |  101025 |    5600 |folded|    |         |
+ 4|   quas2000                 |   35625 |     100 |folded|    |         |
+ 5|>  altidude6202             |       0 |  212775 |all-in|  1 |   88875 |
+ 6|   ThunderRd                |   61750 |     100 |folded|    |         |
+ 7|   shinsook                 |  141350 |    1900 |folded|    |         |
+ 8|   Andyd                    |   69575 |     100 |folded|    |         |
+ 9|D  beacon bot               |  272725 |     100 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/12/20 08:57:26! Dealing a new hand
+! 01/12/20 08:57:26! Everyone antes $100
+! 01/12/20 08:57:26! SJL blinds $250
+! 01/12/20 08:57:26! coming blinds $500
+! 01/12/20 08:59:10! Dario calls 
+! 01/12/20 10:45:24! quas2000 folds
+! 01/12/20 10:52:16! altidude6202 raises $1300 to $1800 total 
+! 01/12/20 10:52:16! ThunderRd folds
+! 01/12/20 10:54:26! shinsook calls 
+! 01/12/20 10:54:26! Andyd folds
+! 01/12/20 11:27:27! beacon bot folds
+! 01/12/20 11:27:27! SJL folds
+! 01/12/20 12:13:54! coming raises $3700 to $5500 total 
+! 01/12/20 12:13:54! Dario calls 
+! 01/12/20 12:17:41! altidude6202 raises $41300 to $46800 total 
+! 01/12/20 13:18:37! shinsook folds
+! 01/12/20 13:23:27! coming calls 
+! 01/12/20 23:06:49! Dario folds
+
+! 01/12/20 23:06:49! Pot right ($102050), flopping/dealing/drawing cards
+! 01/12/20 23:06:49! 2 players
+! 01/12/20 23:06:49! Flopped cards: Ks 9h 8s
+! 01/12/20 23:06:49! coming checks
+! 01/13/20 05:01:02! altidude6202 checks
+
+! 01/13/20 05:01:02! Pot right ($102050), flopping/dealing/drawing cards
+! 01/13/20 05:01:02! 2 players
+! 01/13/20 05:01:02! Flopped card: 7s
+! 01/13/20 08:30:38! coming bets $77000 and is all in
+! 01/13/20 08:47:59! altidude6202 raises $88875 to $165875 total and is all in
+
+! 01/13/20 08:47:59! Pot right ($344925), flopping/dealing/drawing cards
+! 01/13/20 08:47:59! 2 players, 2 all in
+! 01/13/20 08:47:59! Flopped card: Qs
+! Hand over, current board is:  Ks 9h 8s 7s Qs
+! coming                   has: 8d 8c
+! altidude6202             has: Kd Kc
+! Pot 1: uncalled $88875 returned to altidude6202
+! Pot 2: altidude6202 wins $256050 with Three of a Kind (K K K Q 9)
+! Antes and blinds go up
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  SJL                      |   60950 |         |      |    |         |
+ 3|   Dario                    |  101025 |         |      |    |         |
+ 4|   quas2000                 |   35625 |         |      |    |         |
+ 5|>  altidude6202             |  344925 |         |      |    |         |
+ 6|   ThunderRd                |   61750 |         |      |    |         |
+ 7|   shinsook                 |  141350 |         |      |    |         |
+ 8|   Andyd                    |   69575 |         |      |    |         |
+ 9|   beacon bot               |  272725 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! coming is eliminated!
+! 310 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c31.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

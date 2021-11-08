@@ -1,0 +1,108 @@
+Subject: [c12.10980] Holdem Game Broadcast Message(*)
+
+! Table c12, Hand 226, Day 90
+
+! Srfndoc calls 
+! Pot right ($47500), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped cards: Ac 4c 4s
+! Flopped card: Qc
+! Flopped card: 2s
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Stephen Wong             |  116825 |     300 |folded|    |         |
+ 2|D> Srfndoc                  |  168950 |   21700 |      |    |         |
+ 3|   docdanger                |       0 |   21700 |all-in|    |         |
+ 4|   Quiet Lion               |  106675 |    2300 |folded|    |         |
+ 5|   grizz                    |  396025 |     300 |folded|    |         |
+ 6|   Chris Leslie             |   99550 |     300 |folded|    |         |
+ 7|   Brian Cooper             |   42050 |     300 |folded|    |         |
+ 8|   Poulsboy                 |   44000 |     300 |folded|    |         |
+ 9|   jasong                   |   16575 |     300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/01/20 12:59:46! Dealing a new hand
+! 02/01/20 12:59:46! Everyone antes $300
+! 02/01/20 12:59:46! docdanger blinds $1000
+! 02/01/20 12:59:46! Quiet Lion blinds $2000
+! 02/01/20 13:16:37! grizz folds
+! 02/01/20 13:18:41! Chris Leslie folds
+! 02/01/20 14:42:17! Brian Cooper folds
+! 02/01/20 14:42:17! Poulsboy folds
+! 02/01/20 15:52:33! jasong folds
+! 02/01/20 16:15:01! Stephen Wong folds
+! 02/01/20 16:16:13! Srfndoc raises $3500 to $5500 total 
+! 02/01/20 17:03:17! docdanger raises $15900 to $21400 total and is all in
+! 02/01/20 17:43:28! Quiet Lion folds
+! 02/01/20 17:44:11! Srfndoc calls 
+
+! 02/01/20 17:44:11! Pot right ($47500), flopping/dealing/drawing cards
+! 02/01/20 17:44:11! 2 players, 1 all in
+! 02/01/20 17:44:11! Flopped cards: Ac 4c 4s
+! 02/01/20 17:44:11! Flopped card: Qc
+! 02/01/20 17:44:11! Flopped card: 2s
+! Hand over, current board is:  Ac 4c 4s Qc 2s
+! Srfndoc                  has: Ks 10c
+! docdanger                has: As Ad
+! docdanger wins $47500 (net $25800) with Full House (A A A 4 4)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Stephen Wong             |  116825 |         |      |    |         |
+ 2|>  Srfndoc                  |  168950 |         |      |    |         |
+ 3|D  docdanger                |   47500 |         |      |    |         |
+ 4|   Quiet Lion               |  106675 |         |      |    |         |
+ 5|   grizz                    |  396025 |         |      |    |         |
+ 6|   Chris Leslie             |   99550 |         |      |    |         |
+ 7|   Brian Cooper             |   42050 |         |      |    |         |
+ 8|   Poulsboy                 |   44000 |         |      |    |         |
+ 9|   jasong                   |   16575 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 219 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c12.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

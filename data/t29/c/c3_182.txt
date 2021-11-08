@@ -1,0 +1,116 @@
+Subject: [c3.10404] Holdem Game Broadcast Message(*)
+
+! Table c3, Hand 182, Day 85
+
+! robo checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   robo                     |   64600 |    1400 |      |    |         |
+ 2|   Ed Baker                 |   46375 |     200 |folded|    |         |
+ 3|   Mother Speaks            |   47275 |     200 |folded|    |         |
+ 4|D  Poker Coach              |   96050 |     200 |folded|    |         |
+ 5|   Bangalore                |   77500 |     800 |folded|    |         |
+ 6|>  Mark Lemon               |   25225 |    1400 |      |    |         |
+ 7|   Josh Goldshlag           |  232575 |     200 |folded|    |         |
+ 8|   RUGRAT                   |   66575 |     200 |folded|    |         |
+ 9|   HK                       |   62675 |     200 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/26/20 09:27:32! Dealing a new hand
+! 01/26/20 09:27:32! Everyone antes $200
+! 01/26/20 09:27:32! Bangalore blinds $600
+! 01/26/20 09:27:32! Mark Lemon blinds $1200
+! 01/26/20 11:27:54! Josh Goldshlag folds
+! 01/26/20 11:32:02! RUGRAT folds
+! 01/27/20 03:21:11! HK folds
+! 01/27/20 03:21:11! robo calls 
+! 01/27/20 03:21:11! Ed Baker folds
+! 01/27/20 03:21:11! Mother Speaks folds
+! 01/27/20 03:21:11! Poker Coach folds
+! 01/27/20 06:43:53! Bangalore folds
+! 01/27/20 06:57:51! Mark Lemon checks
+
+! 01/27/20 06:57:51! Pot right ($4800), flopping/dealing/drawing cards
+! 01/27/20 06:57:51! 2 players
+! 01/27/20 06:57:51! Flopped cards: Jh Jd Ac
+! 01/27/20 06:58:19! Mark Lemon checks
+! 01/27/20 07:17:44! robo checks
+
+! 01/27/20 07:17:44! Pot right ($4800), flopping/dealing/drawing cards
+! 01/27/20 07:17:44! 2 players
+! 01/27/20 07:17:44! Flopped card: Kh
+! 01/27/20 08:21:33! Mark Lemon checks
+! 01/27/20 08:22:06! robo checks
+
+! 01/27/20 08:22:06! Pot right ($4800), flopping/dealing/drawing cards
+! 01/27/20 08:22:06! 2 players
+! 01/27/20 08:22:06! Flopped card: Ah
+! 01/27/20 08:22:38! Mark Lemon checks
+! 01/27/20 08:23:03! robo checks
+! Hand over, current board is:  Jh Jd Ac Kh Ah
+! robo                     has: Qs 6s
+! Mark Lemon               has: 2s 10d
+! robo wins $2400 (net $1000) with Two Pair (A A J J K)
+! Mark Lemon wins $2400 (net $1000) with Two Pair (A A J J K)
+! Antes and blinds go up
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   robo                     |   67000 |         |      |    |         |
+ 2|   Ed Baker                 |   46375 |         |      |    |         |
+ 3|   Mother Speaks            |   47275 |         |      |    |         |
+ 4|   Poker Coach              |   96050 |         |      |    |         |
+ 5|D  Bangalore                |   77500 |         |      |    |         |
+ 6|>  Mark Lemon               |   27625 |         |      |    |         |
+ 7|   Josh Goldshlag           |  232575 |         |      |    |         |
+ 8|   RUGRAT                   |   66575 |         |      |    |         |
+ 9|   HK                       |   62675 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 244 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c3.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

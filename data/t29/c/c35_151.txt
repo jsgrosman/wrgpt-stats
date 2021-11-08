@@ -1,0 +1,114 @@
+Subject: [c35.10093] Holdem Game Broadcast Message(*)
+
+! Table c35, Hand 151, Day 65
+
+! BT checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|>  Motown                   |   69125 |    2600 |      |    |         |
+ 3|   Put it good              |   28050 |     100 |folded|    |         |
+ 4|   Jim Sokoloff             |   46775 |     100 |folded|    |         |
+ 5|   panfried                 |   68025 |     600 |folded|    |         |
+ 6|   eldiablo505              |   45625 |     100 |folded|    |         |
+ 7|D  BT                       |   91050 |    2600 |      |    |         |
+ 8|   Thumper                  |  218850 |     600 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/07/20 06:47:24! Dealing a new hand
+! 01/07/20 06:47:24! Everyone antes $100
+! 01/07/20 06:47:24! Thumper blinds $250
+! 01/07/20 06:47:24! Motown blinds $500
+! 01/07/20 06:48:32! Put it good folds
+! 01/07/20 08:15:48! Jim Sokoloff folds
+! 01/07/20 08:26:52! panfried calls 
+! 01/07/20 08:31:19! eldiablo505 folds
+! 01/07/20 08:38:19! BT calls 
+! 01/07/20 08:39:18! Thumper calls 
+! 01/07/20 08:44:21! Motown checks
+
+! 01/07/20 08:44:21! Pot right ($2700), flopping/dealing/drawing cards
+! 01/07/20 08:44:21! 4 players
+! 01/07/20 08:44:21! Flopped cards: 2d 2h 10h
+! 01/07/20 08:52:01! Thumper checks
+! 01/07/20 08:52:01! Motown checks
+! 01/07/20 09:13:43! panfried checks
+! 01/07/20 09:22:32! BT bets $1000 
+! 01/07/20 09:31:18! Thumper folds
+! 01/07/20 09:31:18! Motown calls 
+! 01/07/20 09:42:48! panfried folds
+
+! 01/07/20 09:42:48! Pot right ($4700), flopping/dealing/drawing cards
+! 01/07/20 09:42:48! 2 players
+! 01/07/20 09:42:48! Flopped card: As
+! 01/07/20 09:42:48! Motown checks
+! 01/07/20 09:59:30! BT bets $1000 
+! 01/07/20 10:01:11! Motown calls 
+
+! 01/07/20 10:01:11! Pot right ($6700), flopping/dealing/drawing cards
+! 01/07/20 10:01:11! 2 players
+! 01/07/20 10:01:11! Flopped card: Qd
+! 01/07/20 10:01:53! Motown checks
+! 01/07/20 10:12:54! BT checks
+! Hand over, current board is:  2d 2h 10h As Qd
+! Motown                   has: 4s 4d
+! BT                       has: Ad Jd
+! BT wins $6700 (net $4100) with Two Pair (A A 2 2 Q)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|>  Motown                   |   69125 |         |      |    |         |
+ 3|   Put it good              |   28050 |         |      |    |         |
+ 4|   Jim Sokoloff             |   46775 |         |      |    |         |
+ 5|   panfried                 |   68025 |         |      |    |         |
+ 6|   eldiablo505              |   45625 |         |      |    |         |
+ 7|   BT                       |   97750 |         |      |    |         |
+ 8|D  Thumper                  |  218850 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 333 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c35.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 10
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

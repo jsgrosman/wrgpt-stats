@@ -1,0 +1,120 @@
+Subject: [c19.10517] Holdem Game Broadcast Message(*)
+
+! Table c19, Hand 189, Day 90
+
+! Jason Feng checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Jason Feng               |   71400 |   10800 |      |    |         |
+ 2|   Thomas Gabrysch          |  287100 |     300 |folded|    |         |
+ 3|D  Nixed                    |  240100 |     300 |folded|    |         |
+ 4|   Virginia Slims           |   35825 |    5800 |folded|    |         |
+ 5|   Crush_me                 |   22550 |    2300 |folded|    |         |
+ 6|>  BrownTrout               |   48650 |   10800 |      |    |         |
+ 7|   Richard Rognlie          |  128875 |     300 |folded|    |         |
+ 8|   Troutboy Garrett         |  302050 |     300 |folded|    |         |
+ 9|   BT                       |  109925 |     300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/31/20 17:22:18! Dealing a new hand
+! 01/31/20 17:22:18! Everyone antes $300
+! 01/31/20 17:22:18! Virginia Slims blinds $1000
+! 01/31/20 17:22:18! Crush_me blinds $2000
+! 01/31/20 17:33:26! BrownTrout calls 
+! 01/31/20 19:18:56! Richard Rognlie folds
+! 01/31/20 19:49:07! Troutboy Garrett folds
+! 02/01/20 04:47:19! BT folds
+! 02/01/20 04:47:19! Jason Feng calls 
+! 02/01/20 04:47:19! Thomas Gabrysch folds
+! 02/01/20 06:08:39! Nixed folds
+! 02/01/20 06:29:47! Virginia Slims calls 
+! 02/01/20 09:00:24! Crush_me checks
+
+! 02/01/20 09:00:24! Pot right ($10700), flopping/dealing/drawing cards
+! 02/01/20 09:00:24! 4 players
+! 02/01/20 09:00:24! Flopped cards: 2s Ac 3d
+! 02/01/20 09:35:32! Virginia Slims checks
+! 02/01/20 09:56:48! Crush_me checks
+! 02/01/20 10:12:48! BrownTrout bets $3500 
+! 02/01/20 12:22:38! Jason Feng calls 
+! 02/01/20 12:50:35! Virginia Slims calls 
+! 02/01/20 12:50:35! Crush_me folds
+
+! 02/01/20 12:50:35! Pot right ($21200), flopping/dealing/drawing cards
+! 02/01/20 12:50:35! 3 players
+! 02/01/20 12:50:35! Flopped card: 8d
+! 02/01/20 13:15:49! Virginia Slims checks
+! 02/01/20 13:29:37! BrownTrout bets $5000 
+! 02/01/20 13:34:00! Jason Feng calls 
+! 02/01/20 15:15:24! Virginia Slims folds
+
+! 02/01/20 15:15:24! Pot right ($31200), flopping/dealing/drawing cards
+! 02/01/20 15:15:24! 2 players
+! 02/01/20 15:15:24! Flopped card: Qd
+! 02/01/20 16:18:35! BrownTrout checks
+! 02/01/20 19:57:46! Jason Feng checks
+! Hand over, current board is:  2s Ac 3d 8d Qd
+! Jason Feng               has: Js Ah
+! BrownTrout               has: As 7s
+! Jason Feng wins $31200 (net $20400) with One Pair (A A Q J 8)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Jason Feng               |  102600 |         |      |    |         |
+ 2|   Thomas Gabrysch          |  287100 |         |      |    |         |
+ 3|   Nixed                    |  240100 |         |      |    |         |
+ 4|D  Virginia Slims           |   35825 |         |      |    |         |
+ 5|   Crush_me                 |   22550 |         |      |    |         |
+ 6|>  BrownTrout               |   48650 |         |      |    |         |
+ 7|   Richard Rognlie          |  128875 |         |      |    |         |
+ 8|   Troutboy Garrett         |  302050 |         |      |    |         |
+ 9|   BT                       |  109925 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 219 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c19.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

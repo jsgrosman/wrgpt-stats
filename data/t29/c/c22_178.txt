@@ -1,0 +1,115 @@
+Subject: [c22.10336] Holdem Game Broadcast Message(*)
+
+! Table c22, Hand 178, Day 85
+
+! Paul Ant calls 
+! Pot right ($52100), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 5c
+! Flopped card: 3s
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Daryl                    |   79800 |     300 |folded|    |         |
+ 2|   Russ Fox                 |   42550 |     300 |folded|    |         |
+ 3|   Dan Driscoll             |   61500 |    6800 |folded|    |         |
+ 4|>  Paul Ant                 |   29500 |   20250 |      |    |         |
+ 5|   jtk                      |   64000 |     300 |folded|    |         |
+ 6|   Bart Tichelman           |   48850 |     300 |folded|    |         |
+ 7|D  calliope                 |       0 |   20250 |all-in|    |         |
+ 8|   SuprAce                  |   93425 |    1300 |folded|    |         |
+ 9|   Glenn All-in             |   92450 |    2300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/27/20 06:56:00! Dealing a new hand
+! 01/27/20 06:56:00! Everyone antes $300
+! 01/27/20 06:56:00! SuprAce blinds $1000
+! 01/27/20 06:56:00! Glenn All-in blinds $2000
+! 01/27/20 07:11:11! Daryl folds
+! 01/27/20 08:22:41! Russ Fox folds
+! 01/27/20 08:57:20! Dan Driscoll calls 
+! 01/27/20 09:18:31! Paul Ant raises $4500 to $6500 total 
+! 01/27/20 09:30:57! jtk folds
+! 01/27/20 09:30:57! Bart Tichelman folds
+! 01/27/20 10:04:43! calliope calls 
+! 01/27/20 10:04:43! SuprAce folds
+! 01/27/20 10:20:21! Glenn All-in folds
+! 01/27/20 10:46:38! Dan Driscoll calls 
+
+! 01/27/20 10:46:38! Pot right ($25200), flopping/dealing/drawing cards
+! 01/27/20 10:46:38! 3 players
+! 01/27/20 10:46:38! Flopped cards: 4s 9h 8h
+! 01/27/20 10:47:15! Dan Driscoll checks
+! 01/27/20 10:54:41! Paul Ant bets $6600 
+! 01/27/20 11:18:21! calliope raises $6850 to $13450 total and is all in
+! 01/27/20 12:46:12! Dan Driscoll folds
+! 01/27/20 13:20:00! Paul Ant calls 
+
+! 01/27/20 13:20:00! Pot right ($52100), flopping/dealing/drawing cards
+! 01/27/20 13:20:00! 2 players, 1 all in
+! 01/27/20 13:20:00! Flopped card: 5c
+! 01/27/20 13:20:00! Flopped card: 3s
+! Hand over, current board is:  4s 9h 8h 5c 3s
+! Paul Ant                 has: As Kc
+! calliope                 has: Ac 10c
+! Paul Ant wins $52100 (net $31850) with No Pair (A K 9 8 5)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Daryl                    |   79800 |         |      |    |         |
+ 2|   Russ Fox                 |   42550 |         |      |    |         |
+ 3|   Dan Driscoll             |   61500 |         |      |    |         |
+ 4|>  Paul Ant                 |   81600 |         |      |    |         |
+ 5|   jtk                      |   64000 |         |      |    |         |
+ 6|   Bart Tichelman           |   48850 |         |      |    |         |
+ 8|D  SuprAce                  |   93425 |         |      |    |         |
+ 9|   Glenn All-in             |   92450 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! calliope is eliminated!
+! 240 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c22.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 11
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

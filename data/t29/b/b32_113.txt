@@ -1,0 +1,116 @@
+Subject: [b32.11471] Holdem Game Broadcast Message(*)
+
+! Table b32, Hand 113, Day 60
+
+! DireWolf calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   BillDaBear               |       0 |   43925 |all-in|    |         |
+ 2|D> DireWolf                 |   31300 |   43925 |      |    |         |
+ 3|   Stephen Wong             |  103125 |     350 |folded|    |         |
+ 4|   Thumper                  |  179050 |    5150 |folded|    |         |
+ 6|   JZo                      |   36375 |     100 |folded|    |         |
+ 9|   Shari Silk               |  176575 |     100 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/01/20 22:36:42! Dealing a new hand
+! 01/01/20 22:36:42! Everyone antes $100
+! 01/01/20 22:36:42! Stephen Wong blinds $250
+! 01/01/20 22:36:42! Thumper blinds $500
+! 01/01/20 23:56:43! JZo folds
+! 01/02/20 06:16:33! Shari Silk folds
+! 01/02/20 06:49:43! BillDaBear raises $1550 to $2050 total 
+! 01/02/20 07:10:08! DireWolf calls 
+! 01/02/20 07:18:04! Stephen Wong folds
+! 01/02/20 08:03:37! Thumper calls 
+
+! 01/02/20 08:03:37! Pot right ($7000), flopping/dealing/drawing cards
+! 01/02/20 08:03:37! 3 players
+! 01/02/20 08:03:37! Flopped cards: 10s Qc 10d
+! 01/02/20 08:44:28! Thumper checks
+! 01/02/20 09:01:28! BillDaBear bets $3000 
+! 01/02/20 09:48:49! DireWolf calls 
+! 01/02/20 10:05:07! Thumper calls 
+
+! 01/02/20 10:05:07! Pot right ($16000), flopping/dealing/drawing cards
+! 01/02/20 10:05:07! 3 players
+! 01/02/20 10:05:07! Flopped card: 2d
+! 01/02/20 10:05:55! Thumper checks
+! 01/02/20 10:33:46! BillDaBear bets $7250 
+! 01/02/20 10:34:40! DireWolf calls 
+! 01/02/20 10:50:31! Thumper folds
+
+! 01/02/20 10:50:31! Pot right ($30500), flopping/dealing/drawing cards
+! 01/02/20 10:50:31! 2 players
+! 01/02/20 10:50:31! Flopped card: Kc
+! 01/02/20 11:11:01! BillDaBear bets $31525 and is all in
+! 01/02/20 11:33:57! DireWolf calls 
+! Hand over, current board is:  10s Qc 10d 2d Kc
+! BillDaBear               has: Jh Jd
+! DireWolf                 has: As Qh
+! DireWolf wins $93550 (net $49625) with Two Pair (Q Q 10 10 A)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|>  DireWolf                 |  124850 |         |      |    |         |
+ 3|D  Stephen Wong             |  103125 |         |      |    |         |
+ 4|   Thumper                  |  179050 |         |      |    |         |
+ 6|   JZo                      |   36375 |         |      |    |         |
+ 9|   Shari Silk               |  176575 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! BillDaBear is eliminated!
+! 343 players left in the tournament 
+! Table finished, waiting to redraw seats.
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b32.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+After day 45 of the tourney there will be no
+more live redraws or breaking tables.  Tables
+will be allowed to run until a table gets to 
+five or fewer players at which time all tables
+will finish the current hand and a full, random
+redraw to all new tables will be done.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 61
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

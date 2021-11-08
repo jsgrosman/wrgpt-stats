@@ -1,0 +1,123 @@
+Subject: [b2.10538] Holdem Game Broadcast Message(*)
+
+! Table b2, Hand 45, Day 39
+
+! Buggzilla checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  Frank Russomanno         |   49400 |     725 |      |    |         |
+ 3|   David Kuznick            |   59375 |     725 |      |    |         |
+ 4|   Crunch                   |   54650 |      25 |folded|    |         |
+ 5|   ferfawksake              |   27675 |     725 |      |    |         |
+ 6|   Stanley Chow             |   54525 |      25 |folded|    |         |
+ 7|   Bowtie                   |   25100 |      25 |folded|    |         |
+ 8|   Buggzilla                |   76825 |     725 |      |    |         |
+ 9|D  janie                    |   58725 |      25 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/10/19 19:02:15! Dealing a new hand
+! 12/10/19 19:02:15! Everyone antes $25
+! 12/10/19 19:02:15! Frank Russomanno blinds $150
+! 12/10/19 19:02:15! David Kuznick blinds $300
+! 12/10/19 20:16:53! Crunch folds
+! 12/11/19 02:18:34! ferfawksake raises $400 to $700 total 
+! 12/11/19 02:18:34! Stanley Chow folds
+! 12/11/19 02:18:34! Bowtie folds
+! 12/11/19 05:14:52! Buggzilla calls 
+! 12/11/19 06:41:20! janie folds
+! 12/11/19 07:38:21! Frank Russomanno calls 
+! 12/11/19 09:04:17! David Kuznick calls 
+
+! 12/11/19 09:04:17! Pot right ($3000), flopping/dealing/drawing cards
+! 12/11/19 09:04:17! 4 players
+! 12/11/19 09:04:17! Flopped cards: 7s 10h 8s
+! 12/11/19 10:20:58! Frank Russomanno checks
+! 12/11/19 11:07:15! David Kuznick checks
+! 12/11/19 14:47:23! ferfawksake checks
+! 12/11/19 15:10:16! Buggzilla checks
+
+! 12/11/19 15:10:16! Pot right ($3000), flopping/dealing/drawing cards
+! 12/11/19 15:10:16! 4 players
+! 12/11/19 15:10:16! Flopped card: 2s
+! 12/11/19 19:12:02! Frank Russomanno checks
+! 12/11/19 19:34:24! David Kuznick checks
+! 12/11/19 21:29:05! ferfawksake checks
+! 12/12/19 03:50:57! Buggzilla checks
+
+! 12/12/19 03:50:57! Pot right ($3000), flopping/dealing/drawing cards
+! 12/12/19 03:50:57! 4 players
+! 12/12/19 03:50:57! Flopped card: 9h
+! 12/12/19 04:50:52! Frank Russomanno checks
+! 12/12/19 06:26:15! David Kuznick checks
+! 12/12/19 07:45:34! ferfawksake checks
+! 12/12/19 08:01:15! Buggzilla checks
+! Hand over, current board is:  7s 10h 8s 2s 9h
+! Frank Russomanno         has: Kd 9d
+! David Kuznick            has: Ad 7d
+! ferfawksake              has: Qh 3h
+! Buggzilla                has: Kh 4c
+! Frank Russomanno wins $3000 (net $2275) with One Pair (9 9 K 10 8)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D> Frank Russomanno         |   52400 |         |      |    |         |
+ 3|   David Kuznick            |   59375 |         |      |    |         |
+ 4|   Crunch                   |   54650 |         |      |    |         |
+ 5|   ferfawksake              |   27675 |         |      |    |         |
+ 6|   Stanley Chow             |   54525 |         |      |    |         |
+ 7|   Bowtie                   |   25100 |         |      |    |         |
+ 8|   Buggzilla                |   76825 |         |      |    |         |
+ 9|   janie                    |   58725 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Stanley Chow went on vacation until dec 16
+! 430 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b2.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that have not come to the table by the end
+of day 30 will be removed.
+
+Players that are away from the tables for 45 days 
+will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 11
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,103 @@
+Subject: [c23.10307] Holdem Game Broadcast Message(*)
+
+! Table c23, Hand 174, Day 81
+
+! Bugsy bets $5000 
+! Fredrik Westerlund folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Couchtater               |   65375 |     200 |folded|    |         |
+ 2|   Joshua                   |   96700 |     200 |folded|    |         |
+ 3|D> Bugsy                    |   53950 |    8800 |      |    |         |
+ 4|   dstebs                   |   42800 |     800 |folded|    |         |
+ 5|   Fredrik Westerlund       |   73050 |    3800 |folded|    |         |
+ 6|   Sam Parazette            |  106750 |     200 |folded|    |         |
+ 7|   Home_Brew_Boy            |  108425 |     200 |folded|    |         |
+ 8|   CoachMatt13              |  149975 |     200 |folded|    |         |
+ 9|   scjansen                 |   62400 |     200 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/23/20 11:06:10! Dealing a new hand
+! 01/23/20 11:06:10! Everyone antes $200
+! 01/23/20 11:06:10! dstebs blinds $600
+! 01/23/20 11:06:10! Fredrik Westerlund blinds $1200
+! 01/23/20 11:54:15! Sam Parazette folds
+! 01/23/20 11:54:15! Home_Brew_Boy folds
+! 01/23/20 12:15:07! CoachMatt13 folds
+! 01/23/20 12:15:07! scjansen folds
+! 01/23/20 12:15:07! Couchtater folds
+! 01/23/20 12:15:07! Joshua folds
+! 01/23/20 12:20:12! Bugsy raises $2400 to $3600 total 
+! 01/23/20 12:20:41! dstebs folds
+! 01/23/20 12:30:16! Fredrik Westerlund calls 
+
+! 01/23/20 12:30:16! Pot right ($9600), flopping/dealing/drawing cards
+! 01/23/20 12:30:16! 2 players
+! 01/23/20 12:30:16! Flopped cards: Kh 5c Kc
+! 01/23/20 12:30:57! Fredrik Westerlund checks
+! 01/23/20 12:44:45! Bugsy bets $5000 
+! 01/23/20 12:44:45! Fredrik Westerlund folds
+! Hand over, no showdown
+! Current board is:  Kh 5c Kc ? ?
+! Bugsy wins $14600 (net $5800)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Couchtater               |   65375 |         |      |    |         |
+ 2|   Joshua                   |   96700 |         |      |    |         |
+ 3|>  Bugsy                    |   68550 |         |      |    |         |
+ 4|D  dstebs                   |   42800 |         |      |    |         |
+ 5|   Fredrik Westerlund       |   73050 |         |      |    |         |
+ 6|   Sam Parazette            |  106750 |         |      |    |         |
+ 7|   Home_Brew_Boy            |  108425 |         |      |    |         |
+ 8|   CoachMatt13              |  149975 |         |      |    |         |
+ 9|   scjansen                 |   62400 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 262 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c23.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

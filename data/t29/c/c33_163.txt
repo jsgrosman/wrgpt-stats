@@ -1,0 +1,112 @@
+Subject: [c33.10214] Holdem Game Broadcast Message(*)
+
+! Table c33, Hand 163, Day 72
+
+! Frank O calls 
+! Pot right ($104350), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 4c
+! Flopped card: Qs
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|V  reelbigbeagles           |   49550 |     200 |<AWOL>|    |         |
+ 2|   Boiling Frog             |   46900 |     200 |folded|    |         |
+ 3|D> Frank O                  |   67250 |   49475 |      |    |         |
+ 4|   D Martin                 |   84750 |     800 |folded|    |         |
+ 5|   TomasL                   |       0 |   49475 |all-in|    |         |
+ 6|   Benjamin Irving          |   44550 |     200 |folded|    |         |
+ 7|   Ian Collier              |   52600 |     200 |folded|    |         |
+ 8|   Mike Sager               |   75550 |    3800 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/13/20 20:53:51! Dealing a new hand
+! 01/13/20 20:53:51! Everyone antes $200
+! 01/13/20 20:53:51! D Martin blinds $600
+! 01/13/20 20:53:51! TomasL blinds $1200
+! 01/14/20 07:08:20! Benjamin Irving folds
+! 01/14/20 07:08:20! Ian Collier folds
+! 01/14/20 07:17:47! Mike Sager calls 
+! 01/14/20 07:17:47! reelbigbeagles is on vacation and folds
+! 01/14/20 08:23:30! Boiling Frog folds
+! 01/14/20 08:31:27! Frank O raises $2400 to $3600 total 
+! 01/14/20 08:33:19! D Martin folds
+! 01/14/20 08:43:31! TomasL calls 
+! 01/14/20 10:02:46! Mike Sager calls 
+
+! 01/14/20 10:02:46! Pot right ($13000), flopping/dealing/drawing cards
+! 01/14/20 10:02:46! 3 players
+! 01/14/20 10:02:46! Flopped cards: Kc 9c Qc
+! 01/14/20 10:04:04! TomasL bets $8000 
+! 01/14/20 10:05:29! Mike Sager folds
+! 01/14/20 10:09:34! Frank O raises $10000 to $18000 total 
+! 01/14/20 10:18:28! TomasL raises $27675 to $45675 total and is all in
+! 01/14/20 10:25:19! Frank O calls 
+
+! 01/14/20 10:25:19! Pot right ($104350), flopping/dealing/drawing cards
+! 01/14/20 10:25:19! 2 players, 1 all in
+! 01/14/20 10:25:19! Flopped card: 4c
+! 01/14/20 10:25:19! Flopped card: Qs
+! Hand over, current board is:  Kc 9c Qc 4c Qs
+! Frank O                  has: As Ac
+! TomasL                   has: Ah Jc
+! Frank O wins $104350 (net $54875) with Club Flush (A K Q 9 4)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|V  reelbigbeagles           |   49550 |         |<AWOL>|    |         |
+ 2|   Boiling Frog             |   46900 |         |      |    |         |
+ 3|>  Frank O                  |  171600 |         |      |    |         |
+ 4|D  D Martin                 |   84750 |         |      |    |         |
+ 6|   Benjamin Irving          |   44550 |         |      |    |         |
+ 7|   Ian Collier              |   52600 |         |      |    |         |
+ 8|   Mike Sager               |   75550 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! TomasL is eliminated!
+! 308 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c33.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 12
+Live redraw in progress:
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

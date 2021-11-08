@@ -1,0 +1,124 @@
+Subject: [c5.10625] Holdem Game Broadcast Message(*)
+
+! Table c5, Hand 212, Day 98
+
+! Bob R checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   lawrence s               |   32000 |     300 |folded|    |         |
+ 2|   Statistical Tie          |  132050 |     300 |folded|    |         |
+ 3|   Dave Palm                |  112775 |     300 |folded|    |         |
+ 4|   shinsook                 |  158450 |     300 |folded|    |         |
+ 5|>  PMedhurst                |   43250 |   14300 |      |    |         |
+ 6|D  Bob R                    |  158950 |   14300 |      |    |         |
+ 7|   shaneless                |  152475 |    1300 |folded|    |         |
+ 8|   Axel Foley               |   99400 |    5300 |folded|    |         |
+ 9|   Julie Greenberg          |   97100 |     300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/07/20 20:13:06! Dealing a new hand
+! 02/07/20 20:13:06! Everyone antes $300
+! 02/07/20 20:13:06! shaneless blinds $1000
+! 02/07/20 20:13:06! Axel Foley blinds $2000
+! 02/07/20 20:31:12! Julie Greenberg folds
+! 02/07/20 20:32:43! lawrence s folds
+! 02/07/20 22:16:20! Statistical Tie folds
+! 02/07/20 22:16:20! Dave Palm folds
+! 02/08/20 01:36:39! shinsook folds
+! 02/08/20 09:46:27! PMedhurst raises $3000 to $5000 total 
+! 02/08/20 12:53:05! Bob R calls 
+! 02/08/20 12:53:05! shaneless folds
+! 02/08/20 12:54:32! Axel Foley calls 
+
+! 02/08/20 12:54:32! Pot right ($18700), flopping/dealing/drawing cards
+! 02/08/20 12:54:32! 3 players
+! 02/08/20 12:54:32! Flopped cards: 3d 9s Ks
+! 02/08/20 12:56:00! Axel Foley checks
+! 02/08/20 15:16:47! PMedhurst checks
+! 02/08/20 15:16:47! Bob R checks
+
+! 02/08/20 15:16:47! Pot right ($18700), flopping/dealing/drawing cards
+! 02/08/20 15:16:47! 3 players
+! 02/08/20 15:16:47! Flopped card: 2s
+! 02/08/20 15:19:39! Axel Foley checks
+! 02/09/20 10:16:18! PMedhurst bets $9000 
+! 02/09/20 10:53:53! Bob R calls 
+! 02/09/20 11:21:34! Axel Foley folds
+
+! 02/09/20 11:21:34! Pot right ($36700), flopping/dealing/drawing cards
+! 02/09/20 11:21:34! 2 players
+! 02/09/20 11:21:34! Flopped card: 2d
+! 02/09/20 13:11:08! PMedhurst checks
+! 02/09/20 13:14:00! Bob R checks
+! Hand over, current board is:  3d 9s Ks 2s 2d
+! PMedhurst                has: As 6d
+! Bob R                    has: Qs Ac
+! Bob R wins $36700 (net $22400) with One Pair (2 2 A K Q)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   lawrence s               |   32000 |         |      |    |         |
+ 2|   Statistical Tie          |  132050 |         |      |    |         |
+ 3|   Dave Palm                |  112775 |         |      |    |         |
+ 4|   shinsook                 |  158450 |         |      |    |         |
+ 5|>  PMedhurst                |   43250 |         |      |    |         |
+ 6|   Bob R                    |  195650 |         |      |    |         |
+ 7|D  shaneless                |  152475 |         |      |    |         |
+ 8|   Axel Foley               |   99400 |         |      |    |         |
+ 9|   Julie Greenberg          |   97100 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 188 players left in the tournament, 2 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c5.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+We are now over 30 days in round "c".  Automatic
+table breaking and live redraws have been disabled.
+We will play until one or more tables gets below six
+players.  When that happens all tables will finish
+the current hand and a full redraw will occur into
+the "d" round.
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 28
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

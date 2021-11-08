@@ -1,0 +1,130 @@
+Subject: [b44.10546] Holdem Game Broadcast Message(*)
+
+! Table b44, Hand 47, Day 38
+
+! Bigjimmf1 folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Andy Bloch               |   34775 |   31850 |      |    |         |
+ 2|DV Options Dee              |   47425 |      25 |<AWOL>|    |         |
+ 3|   RUGRAT                   |   52475 |     850 |folded|    |         |
+ 4|   Bigjimmf1                |   19350 |   11850 |folded|    |         |
+ 5|   Tom Bayz                 |   48000 |     850 |folded|    |         |
+ 6|   SwamperTT                |   44775 |     850 |folded|    |         |
+ 7|   Mrbert                   |   41175 |      25 |folded|    |         |
+ 8|>  Oldbloke                 |   44850 |   31850 |      |    |         |
+ 9|V  Deuces Wild              |   39000 |      25 |<AWOL>|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/09/19 11:41:36! Dealing a new hand
+! 12/09/19 11:41:36! Everyone antes $25
+! 12/09/19 11:41:36! RUGRAT blinds $150
+! 12/09/19 11:41:36! Bigjimmf1 blinds $300
+! 12/09/19 11:52:40! Tom Bayz raises $525 to $825 total 
+! 12/09/19 11:58:48! SwamperTT calls 
+! 12/09/19 12:40:26! Mrbert folds
+! 12/09/19 13:38:32! Oldbloke calls 
+! 12/09/19 13:38:32! Deuces Wild is on vacation and folds
+! 12/09/19 13:56:34! Andy Bloch calls 
+! 12/09/19 13:56:34! Options Dee is on vacation and folds
+! 12/09/19 17:26:16! RUGRAT calls 
+! 12/09/19 17:31:53! Bigjimmf1 calls 
+
+! 12/09/19 17:31:53! Pot right ($5175), flopping/dealing/drawing cards
+! 12/09/19 17:31:53! 6 players
+! 12/09/19 17:31:53! Flopped cards: Jc 10h 5d
+! 12/09/19 18:39:07! RUGRAT checks
+! 12/10/19 04:00:03! Bigjimmf1 checks
+! 12/10/19 04:14:28! Tom Bayz checks
+! 12/10/19 06:50:01! SwamperTT checks
+! 12/10/19 09:42:14! Oldbloke checks
+! 12/10/19 10:08:58! Andy Bloch bets $3000 
+! 12/10/19 10:08:58! RUGRAT folds
+! 12/10/19 12:24:54! Bigjimmf1 calls 
+! 12/10/19 12:24:54! Tom Bayz folds
+! 12/10/19 12:24:54! SwamperTT folds
+! 12/10/19 13:28:55! Oldbloke calls 
+
+! 12/10/19 13:28:55! Pot right ($14175), flopping/dealing/drawing cards
+! 12/10/19 13:28:55! 3 players
+! 12/10/19 13:28:55! Flopped card: Ad
+! 12/10/19 13:32:49! Bigjimmf1 checks
+! 12/10/19 13:50:13! Oldbloke bets $8000 
+! 12/10/19 14:36:38! Andy Bloch calls 
+! 12/11/19 05:54:28! Bigjimmf1 calls 
+
+! 12/11/19 05:54:28! Pot right ($38175), flopping/dealing/drawing cards
+! 12/11/19 05:54:28! 3 players
+! 12/11/19 05:54:28! Flopped card: 9s
+! 12/11/19 05:55:18! Bigjimmf1 checks
+! 12/11/19 05:59:53! Oldbloke bets $20000 
+! 12/11/19 08:09:25! Andy Bloch calls 
+! 12/11/19 08:12:09! Bigjimmf1 folds
+! Hand over, current board is:  Jc 10h 5d Ad 9s
+! Andy Bloch               has: Ah Jh
+! Oldbloke                 has: Ks Qh
+! Oldbloke wins $78175 (net $46325) with Straight (A K Q J 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Andy Bloch               |   34775 |         |      |    |         |
+ 2|V  Options Dee              |   47425 |         |<AWOL>|    |         |
+ 3|D  RUGRAT                   |   52475 |         |      |    |         |
+ 4|   Bigjimmf1                |   19350 |         |      |    |         |
+ 5|   Tom Bayz                 |   48000 |         |      |    |         |
+ 6|   SwamperTT                |   44775 |         |      |    |         |
+ 7|   Mrbert                   |   41175 |         |      |    |         |
+ 8|>  Oldbloke                 |  123025 |         |      |    |         |
+ 9|V  Deuces Wild              |   39000 |         |<AWOL>|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 433 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b44.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that have not come to the table by the end
+of day 30 will be removed.
+
+Players that are away from the tables for 45 days 
+will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

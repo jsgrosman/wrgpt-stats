@@ -1,0 +1,122 @@
+Subject: [c23.10226] Holdem Game Broadcast Message(*)
+
+! Table c23, Hand 167, Day 78
+
+! Home_Brew_Boy calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Couchtater               |   55575 |     200 |folded|    |         |
+ 2|   Joshua                   |  102300 |     200 |folded|    |         |
+ 3|   Bugsy                    |   65750 |    2600 |folded|    |         |
+ 4|   dstebs                   |       0 |   42450 |all-in|    |         |
+ 5|D  Fredrik Westerlund       |   59450 |     200 |folded|    |         |
+ 6|   Sam Parazette            |  132750 |     800 |folded|    |         |
+ 7|>  Home_Brew_Boy            |   75025 |   42450 |      |    |         |
+ 8|   CoachMatt13              |  126775 |     200 |folded|    |         |
+ 9|   scjansen                 |   59600 |    7700 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/18/20 14:26:52! Dealing a new hand
+! 01/18/20 14:26:52! Everyone antes $200
+! 01/18/20 14:26:52! Sam Parazette blinds $600
+! 01/18/20 14:26:52! Home_Brew_Boy blinds $1200
+! 01/18/20 18:23:55! CoachMatt13 folds
+! 01/19/20 04:05:26! scjansen raises $1200 to $2400 total 
+! 01/19/20 04:05:26! Couchtater folds
+! 01/19/20 07:50:35! Joshua folds
+! 01/19/20 08:29:08! Bugsy calls 
+! 01/19/20 09:18:02! dstebs calls 
+! 01/19/20 09:18:02! Fredrik Westerlund folds
+! 01/19/20 12:32:15! Sam Parazette folds
+! 01/19/20 14:18:56! Home_Brew_Boy calls 
+
+! 01/19/20 14:18:56! Pot right ($12000), flopping/dealing/drawing cards
+! 01/19/20 14:18:56! 4 players
+! 01/19/20 14:18:56! Flopped cards: Ah 9s 10s
+! 01/19/20 14:20:23! Home_Brew_Boy bets $2550 
+! 01/19/20 19:33:19! scjansen raises $2550 to $5100 total 
+! 01/19/20 20:46:08! Bugsy folds
+! 01/19/20 20:50:23! dstebs calls 
+! 01/20/20 07:30:32! Home_Brew_Boy calls 
+
+! 01/20/20 07:30:32! Pot right ($27300), flopping/dealing/drawing cards
+! 01/20/20 07:30:32! 3 players
+! 01/20/20 07:30:32! Flopped card: Kc
+! 01/20/20 07:31:42! Home_Brew_Boy checks
+! 01/20/20 07:54:13! scjansen checks
+! 01/20/20 07:55:45! dstebs bets $8000 
+! 01/20/20 09:03:42! Home_Brew_Boy calls 
+! 01/20/20 09:14:28! scjansen folds
+
+! 01/20/20 09:14:28! Pot right ($43300), flopping/dealing/drawing cards
+! 01/20/20 09:14:28! 2 players
+! 01/20/20 09:14:28! Flopped card: 6h
+! 01/20/20 09:30:26! Home_Brew_Boy checks
+! 01/20/20 10:19:02! dstebs bets $26750 and is all in
+! 01/20/20 10:54:52! Home_Brew_Boy calls 
+! Hand over, current board is:  Ah 9s 10s Kc 6h
+! dstebs                   has: Ad Jc
+! Home_Brew_Boy            has: As Jh
+! dstebs wins $48400 (net $5950) with One Pair (A A K J 10)
+! Home_Brew_Boy wins $48400 (net $5950) with One Pair (A A K J 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Couchtater               |   55575 |         |      |    |         |
+ 2|   Joshua                   |  102300 |         |      |    |         |
+ 3|   Bugsy                    |   65750 |         |      |    |         |
+ 4|   dstebs                   |   48400 |         |      |    |         |
+ 5|   Fredrik Westerlund       |   59450 |         |      |    |         |
+ 6|D  Sam Parazette            |  132750 |         |      |    |         |
+ 7|>  Home_Brew_Boy            |  123425 |         |      |    |         |
+ 8|   CoachMatt13              |  126775 |         |      |    |         |
+ 9|   scjansen                 |   59600 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 278 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c23.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,117 @@
+Subject: [c20.10096] Holdem Game Broadcast Message(*)
+
+! Table c20, Hand 152, Day 69
+
+! Britney checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|   JohnnyMac                |  106525 |     600 |folded|    |         |
+ 3|   Cowabunga                |   42025 |     100 |folded|    |         |
+ 4|>  BluffaloBill             |   37450 |    1300 |      |    |         |
+ 5|   Sandy                    |   35800 |    1300 |      |    |         |
+ 6|   Britney                  |  163175 |    1300 |      |    |         |
+ 7|   Baldgriff                |   97175 |     100 |folded|    |         |
+ 8|D  PMD                      |   45150 |     100 |folded|    |         |
+ 9|   Mr Generic               |  116350 |     350 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/10/20 09:37:15! Dealing a new hand
+! 01/10/20 09:37:15! Everyone antes $100
+! 01/10/20 09:37:15! Mr Generic blinds $250
+! 01/10/20 09:37:15! JohnnyMac blinds $500
+! 01/10/20 09:50:38! Cowabunga folds
+! 01/10/20 10:08:59! BluffaloBill calls 
+! 01/10/20 10:29:31! Sandy calls 
+! 01/10/20 10:58:15! Britney raises $700 to $1200 total 
+! 01/10/20 10:58:15! Baldgriff folds
+! 01/10/20 14:31:30! PMD folds
+! 01/10/20 14:31:30! Mr Generic folds
+! 01/10/20 14:31:30! JohnnyMac folds
+! 01/10/20 16:32:35! BluffaloBill calls 
+! 01/10/20 19:07:44! Sandy calls 
+
+! 01/10/20 19:07:44! Pot right ($5150), flopping/dealing/drawing cards
+! 01/10/20 19:07:44! 3 players
+! 01/10/20 19:07:44! Flopped cards: Qh 6s 3h
+! 01/10/20 19:20:41! BluffaloBill checks
+! 01/10/20 19:21:49! Sandy checks
+! 01/10/20 19:27:10! Britney checks
+
+! 01/10/20 19:27:10! Pot right ($5150), flopping/dealing/drawing cards
+! 01/10/20 19:27:10! 3 players
+! 01/10/20 19:27:10! Flopped card: 5d
+! 01/10/20 19:27:10! BluffaloBill checks
+! 01/10/20 20:11:14! Sandy checks
+! 01/11/20 03:42:53! Britney checks
+
+! 01/11/20 03:42:53! Pot right ($5150), flopping/dealing/drawing cards
+! 01/11/20 03:42:53! 3 players
+! 01/11/20 03:42:53! Flopped card: 7d
+! 01/11/20 03:42:53! BluffaloBill checks
+! 01/11/20 05:57:24! Sandy checks
+! 01/11/20 07:24:19! Britney checks
+! Hand over, current board is:  Qh 6s 3h 5d 7d
+! BluffaloBill             has: 7h 9c
+! Sandy                    has: Ks 10c
+! Britney                  has: 7s Ad
+! Britney wins $5150 (net $3850) with One Pair (7 7 A Q 6)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|   JohnnyMac                |  106525 |         |      |    |         |
+ 3|   Cowabunga                |   42025 |         |      |    |         |
+ 4|>  BluffaloBill             |   37450 |         |      |    |         |
+ 5|   Sandy                    |   35800 |         |      |    |         |
+ 6|   Britney                  |  168325 |         |      |    |         |
+ 7|   Baldgriff                |   97175 |         |      |    |         |
+ 8|   PMD                      |   45150 |         |      |    |         |
+ 9|D  Mr Generic               |  116350 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 318 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c20.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 11
+Live redraw in progress:
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

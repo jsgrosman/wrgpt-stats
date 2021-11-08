@@ -1,0 +1,122 @@
+Subject: [c12.11013] Holdem Game Broadcast Message(*)
+
+! Table c12, Hand 229, Day 92
+
+! Srfndoc calls 
+! Pot right ($111900), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: Kc
+! Flopped card: 6c
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Stephen Wong             |  121625 |     300 |folded|    |         |
+ 2|>  Srfndoc                  |  173900 |   46900 |      |    |         |
+ 3|   docdanger                |       0 |   46900 |all-in|    |         |
+ 4|   Quiet Lion               |   58025 |     300 |folded|    |         |
+ 5|D  grizz                    |  385125 |    7300 |folded|    |         |
+ 6|   Chris Leslie             |   89650 |    7300 |folded|    |         |
+ 7|   Brian Cooper             |   39150 |    2300 |folded|    |         |
+ 8|   Poulsboy                 |   43100 |     300 |folded|    |         |
+ 9|   jasong                   |   15675 |     300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/03/20 08:45:07! Dealing a new hand
+! 02/03/20 08:45:07! Everyone antes $300
+! 02/03/20 08:45:07! Chris Leslie blinds $1000
+! 02/03/20 08:45:07! Brian Cooper blinds $2000
+! 02/03/20 10:00:27! Poulsboy folds
+! 02/03/20 10:00:27! jasong folds
+! 02/03/20 10:18:08! Stephen Wong folds
+! 02/03/20 10:22:58! Srfndoc raises $5000 to $7000 total 
+! 02/03/20 10:26:08! docdanger calls 
+! 02/03/20 11:43:02! Quiet Lion folds
+! 02/03/20 11:58:01! grizz calls 
+! 02/03/20 12:11:24! Chris Leslie calls 
+! 02/03/20 12:11:24! Brian Cooper folds
+
+! 02/03/20 12:11:24! Pot right ($32700), flopping/dealing/drawing cards
+! 02/03/20 12:11:24! 4 players
+! 02/03/20 12:11:24! Flopped cards: As 10h 5c
+! 02/03/20 12:31:11! Chris Leslie checks
+! 02/03/20 12:33:00! Srfndoc bets $5000 
+! 02/03/20 13:05:52! docdanger raises $34600 to $39600 total and is all in
+! 02/03/20 13:05:52! grizz folds
+! 02/03/20 13:06:46! Chris Leslie folds
+! 02/03/20 13:22:08! Srfndoc calls 
+
+! 02/03/20 13:22:08! Pot right ($111900), flopping/dealing/drawing cards
+! 02/03/20 13:22:08! 2 players, 1 all in
+! 02/03/20 13:22:08! Flopped card: Kc
+! 02/03/20 13:22:08! Flopped card: 6c
+! Hand over, current board is:  As 10h 5c Kc 6c
+! Srfndoc                  has: Jh Ad
+! docdanger                has: Ac 7c
+! docdanger wins $111900 (net $65000) with Club Flush (A K 7 6 5)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Stephen Wong             |  121625 |         |      |    |         |
+ 2|>  Srfndoc                  |  173900 |         |      |    |         |
+ 3|   docdanger                |  111900 |         |      |    |         |
+ 4|   Quiet Lion               |   58025 |         |      |    |         |
+ 5|   grizz                    |  385125 |         |      |    |         |
+ 6|D  Chris Leslie             |   89650 |         |      |    |         |
+ 7|   Brian Cooper             |   39150 |         |      |    |         |
+ 8|   Poulsboy                 |   43100 |         |      |    |         |
+ 9|   jasong                   |   15675 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 210 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c12.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+We are now over 30 days in round "c".  Automatic
+table breaking and live redraws have been disabled.
+We will play until one or more tables gets below six
+players.  When that happens all tables will finish
+the current hand and a full redraw will occur into
+the "d" round.
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

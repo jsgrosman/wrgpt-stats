@@ -1,0 +1,120 @@
+Subject: [b3.10117] Holdem Game Broadcast Message(*)
+
+! Table b3, Hand 8, Day 6
+
+! Another player folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   beowulf                  |   49250 |     150 |folded|    |         |
+ 2|   JohnnyMac                |   59475 |     600 |folded|    |         |
+ 3|   Robert Christ            |   49775 |       0 |folded|    |         |
+ 4|   Anonymous                |   51375 |       0 |folded|    |         |
+ 5|>  Dave Weiss               |   22400 |   17700 |      |    |         |
+ 6|   Kit Woolsey              |   49375 |       0 |folded|    |         |
+ 7|   Another player           |   41075 |    8700 |folded|    |         |
+ 8|D  Otto                     |   45975 |       0 |folded|    |         |
+ 9|   Dj Coates                |   54075 |      75 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/08/19 18:28:35! Dealing a new hand
+! 11/08/19 18:28:35! No ante
+! 11/08/19 18:28:35! Dj Coates blinds $75
+! 11/08/19 18:28:35! beowulf blinds $150
+! 11/08/19 18:29:52! JohnnyMac calls 
+! 11/08/19 18:39:07! Robert Christ folds
+! 11/08/19 19:07:03! Anonymous folds
+! 11/09/19 02:20:27! Dave Weiss calls 
+! 11/09/19 02:20:27! Kit Woolsey folds
+! 11/09/19 02:20:27! Another player raises $450 to $600 total 
+! 11/09/19 02:20:27! Otto folds
+! 11/09/19 03:41:47! Dj Coates folds
+! 11/09/19 03:41:47! beowulf is on vacation and folds
+! 11/09/19 04:23:27! beowulf is back from vacation
+! 11/09/19 04:24:35! JohnnyMac calls 
+! 11/09/19 04:24:35! Dave Weiss calls 
+
+! 11/09/19 04:24:35! Pot right ($2025), flopping/dealing/drawing cards
+! 11/09/19 04:24:35! 3 players
+! 11/09/19 04:24:35! Flopped cards: 10h 9s 5s
+! 11/09/19 04:25:55! JohnnyMac checks
+! 11/09/19 05:30:33! Dave Weiss checks
+! 11/09/19 06:16:54! Another player bets $2100 
+! 11/09/19 06:26:52! JohnnyMac folds
+! 11/09/19 06:46:34! Dave Weiss calls 
+
+! 11/09/19 06:46:34! Pot right ($6225), flopping/dealing/drawing cards
+! 11/09/19 06:46:34! 2 players
+! 11/09/19 06:46:34! Flopped card: 2s
+! 11/09/19 06:47:29! Dave Weiss checks
+! 11/09/19 06:49:39! Another player bets $6000 
+! 11/09/19 06:58:53! Dave Weiss calls 
+
+! 11/09/19 06:58:53! Pot right ($18225), flopping/dealing/drawing cards
+! 11/09/19 06:58:53! 2 players
+! 11/09/19 06:58:53! Flopped card: Kh
+! 11/09/19 07:00:41! Dave Weiss bets $9000 
+! 11/09/19 07:24:03! Another player folds
+! Hand over, no showdown
+! Current board is:  10h 9s 5s 2s Kh
+! Dave Weiss wins $27225 (net $9525)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   beowulf                  |   49250 |         |      |    |         |
+ 2|   JohnnyMac                |   59475 |         |      |    |         |
+ 3|   Robert Christ            |   49775 |         |      |    |         |
+ 4|   Anonymous                |   51375 |         |      |    |         |
+ 5|>  Dave Weiss               |   49625 |         |      |    |         |
+ 6|   Kit Woolsey              |   49375 |         |      |    |         |
+ 7|   Another player           |   41075 |         |      |    |         |
+ 8|   Otto                     |   45975 |         |      |    |         |
+ 9|D  Dj Coates                |   54075 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 534 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b3.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+This is the REAL WRGPT29.
+Changes to office hours and email addresses do not carry over from the
+practice round.
+You have been assigned a new ID and the round is "b".
+
+Good luck.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 3
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

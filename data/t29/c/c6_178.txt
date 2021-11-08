@@ -1,0 +1,109 @@
+Subject: [c6.10340] Holdem Game Broadcast Message(*)
+
+! Table c6, Hand 178, Day 81
+
+! jpawloski calls 
+! Pot right ($78750), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped cards: Kc 4h 9d
+! Flopped card: 3d
+! Flopped card: 8s
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Elmis                    |  139725 |    1400 |folded|    |         |
+ 2|   Dino Bravo               |   41025 |     200 |folded|    |         |
+ 3|   FingerCramp              |   27250 |     200 |folded|    |         |
+ 4|   TRC Expert               |   75850 |     200 |folded|    |         |
+ 5|   Abhishek Garg            |       0 |   37775 |all-in|    |         |
+ 6|   Samueladams              |   50325 |     200 |folded|    |         |
+ 7|   Wrongfellow              |  133775 |     200 |folded|    |         |
+ 8|D> jpawloski                |   51350 |   37775 |      |    |         |
+ 9|   Mark Ito                 |  100050 |     800 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/22/20 16:06:58! Dealing a new hand
+! 01/22/20 16:06:58! Everyone antes $200
+! 01/22/20 16:06:58! Mark Ito blinds $600
+! 01/22/20 16:06:58! Elmis blinds $1200
+! 01/22/20 16:18:55! Dino Bravo folds
+! 01/22/20 16:34:21! FingerCramp folds
+! 01/22/20 16:34:21! TRC Expert folds
+! 01/22/20 16:49:41! Abhishek Garg raises $1800 to $3000 total 
+! 01/22/20 16:49:41! Samueladams folds
+! 01/22/20 16:49:41! Wrongfellow folds
+! 01/22/20 16:50:24! jpawloski raises $15000 to $18000 total 
+! 01/22/20 17:55:01! Mark Ito folds
+! 01/22/20 21:07:29! Elmis folds
+! 01/23/20 07:41:42! Abhishek Garg raises $19575 to $37575 total and is all in
+! 01/23/20 08:41:04! jpawloski calls 
+
+! 01/23/20 08:41:04! Pot right ($78750), flopping/dealing/drawing cards
+! 01/23/20 08:41:04! 2 players, 1 all in
+! 01/23/20 08:41:04! Flopped cards: Kc 4h 9d
+! 01/23/20 08:41:04! Flopped card: 3d
+! 01/23/20 08:41:04! Flopped card: 8s
+! Hand over, current board is:  Kc 4h 9d 3d 8s
+! Abhishek Garg            has: 3s 3c
+! jpawloski                has: 9s 9c
+! jpawloski wins $78750 (net $40975) with Three of a Kind (9 9 9 K 8)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Elmis                    |  139725 |         |      |    |         |
+ 2|   Dino Bravo               |   41025 |         |      |    |         |
+ 3|   FingerCramp              |   27250 |         |      |    |         |
+ 4|   TRC Expert               |   75850 |         |      |    |         |
+ 6|   Samueladams              |   50325 |         |      |    |         |
+ 7|   Wrongfellow              |  133775 |         |      |    |         |
+ 8|>  jpawloski                |  130100 |         |      |    |         |
+ 9|D  Mark Ito                 |  100050 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Abhishek Garg is eliminated!
+! 264 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c6.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 5
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

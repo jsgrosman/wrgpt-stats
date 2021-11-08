@@ -1,0 +1,121 @@
+Subject: [c3.10621] Holdem Game Broadcast Message(*)
+
+! Table c3, Hand 202, Day 96
+
+! Ed Baker calls 
+! Pot right ($113850), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: Qc
+! Flopped card: Qd
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   robo                     |  130500 |     300 |folded|    |         |
+ 2|>  Ed Baker                 |   24300 |   51875 |      |    |         |
+ 3|   Mother Speaks            |   31975 |    7300 |folded|    |         |
+ 4|   Poker Coach              |   89750 |     300 |folded|    |         |
+ 5|   Bangalore                |   92200 |     300 |folded|    |         |
+ 6|D  Mark Lemon               |   32025 |     300 |folded|    |         |
+ 7|   Josh Goldshlag           |  165275 |    1300 |folded|    |         |
+ 8|   RUGRAT                   |       0 |   51875 |all-in|    |         |
+ 9|   HK                       |   43775 |     300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/06/20 13:19:59! Dealing a new hand
+! 02/06/20 13:19:59! Everyone antes $300
+! 02/06/20 13:19:59! Josh Goldshlag blinds $1000
+! 02/06/20 13:19:59! RUGRAT blinds $2000
+! 02/07/20 04:09:47! HK folds
+! 02/07/20 06:16:08! robo folds
+! 02/07/20 06:17:18! Ed Baker raises $5000 to $7000 total 
+! 02/07/20 06:18:33! Mother Speaks calls 
+! 02/07/20 06:19:31! Poker Coach folds
+! 02/07/20 07:32:24! Bangalore folds
+! 02/07/20 07:32:24! Mark Lemon folds
+! 02/07/20 07:32:24! Josh Goldshlag folds
+! 02/07/20 07:35:00! RUGRAT calls 
+
+! 02/07/20 07:35:00! Pot right ($24700), flopping/dealing/drawing cards
+! 02/07/20 07:35:00! 3 players
+! 02/07/20 07:35:00! Flopped cards: 8d 8s Kh
+! 02/07/20 07:36:20! RUGRAT checks
+! 02/07/20 08:00:26! Ed Baker bets $16000 
+! 02/07/20 08:00:59! Mother Speaks folds
+! 02/07/20 08:54:25! RUGRAT raises $28575 to $44575 total and is all in
+! 02/07/20 10:50:47! Ed Baker calls 
+
+! 02/07/20 10:50:47! Pot right ($113850), flopping/dealing/drawing cards
+! 02/07/20 10:50:47! 2 players, 1 all in
+! 02/07/20 10:50:47! Flopped card: Qc
+! 02/07/20 10:50:47! Flopped card: Qd
+! Hand over, current board is:  8d 8s Kh Qc Qd
+! Ed Baker                 has: Kd 10c
+! RUGRAT                   has: Ks Ac
+! RUGRAT wins $113850 (net $61975) with Two Pair (K K Q Q A)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   robo                     |  130500 |         |      |    |         |
+ 2|>  Ed Baker                 |   24300 |         |      |    |         |
+ 3|   Mother Speaks            |   31975 |         |      |    |         |
+ 4|   Poker Coach              |   89750 |         |      |    |         |
+ 5|   Bangalore                |   92200 |         |      |    |         |
+ 6|   Mark Lemon               |   32025 |         |      |    |         |
+ 7|D  Josh Goldshlag           |  165275 |         |      |    |         |
+ 8|   RUGRAT                   |  113850 |         |      |    |         |
+ 9|   HK                       |   43775 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 194 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c3.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+We are now over 30 days in round "c".  Automatic
+table breaking and live redraws have been disabled.
+We will play until one or more tables gets below six
+players.  When that happens all tables will finish
+the current hand and a full redraw will occur into
+the "d" round.
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 22
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,119 @@
+Subject: [c11.10559] Holdem Game Broadcast Message(*)
+
+! Table c11, Hand 185, Day 97
+
+! Tony Gurney checks
+! Slimbob checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|   Clark Olson              |  116500 |     300 |folded|    |         |
+ 3|   DaveKal                  |  207825 |     300 |folded|    |         |
+ 4|   denimmined               |  118000 |     300 |folded|    |         |
+ 5|D  Slimbob                  |   26250 |    5300 |      |    |         |
+ 6|   not66                    |   81125 |    1300 |folded|    |         |
+ 7|>  Tony Gurney              |   72725 |    5300 |      |    |         |
+ 8|   Nightshift6              |  116975 |     300 |folded|    |         |
+ 9|   All In a daze work       |  216875 |     300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/07/20 10:21:30! Dealing a new hand
+! 02/07/20 10:21:30! Everyone antes $300
+! 02/07/20 10:21:30! not66 blinds $1000
+! 02/07/20 10:21:30! Tony Gurney blinds $2000
+! 02/07/20 10:22:11! Nightshift6 folds
+! 02/07/20 10:26:38! All In a daze work folds
+! 02/07/20 10:33:51! Clark Olson folds
+! 02/07/20 10:33:51! DaveKal folds
+! 02/07/20 10:39:55! denimmined folds
+! 02/07/20 10:52:06! Slimbob raises $3000 to $5000 total 
+! 02/07/20 10:52:06! not66 folds
+! 02/08/20 01:05:38! Tony Gurney calls 
+
+! 02/08/20 01:05:38! Pot right ($13400), flopping/dealing/drawing cards
+! 02/08/20 01:05:38! 2 players
+! 02/08/20 01:05:38! Flopped cards: 7c 2h Ks
+! 02/08/20 01:06:24! Tony Gurney checks
+! 02/08/20 05:07:32! Slimbob checks
+
+! 02/08/20 05:07:32! Pot right ($13400), flopping/dealing/drawing cards
+! 02/08/20 05:07:32! 2 players
+! 02/08/20 05:07:32! Flopped card: Jc
+! 02/08/20 05:54:29! Tony Gurney checks
+! 02/08/20 07:28:22! Slimbob checks
+
+! 02/08/20 07:28:22! Pot right ($13400), flopping/dealing/drawing cards
+! 02/08/20 07:28:22! 2 players
+! 02/08/20 07:28:22! Flopped card: 9h
+! 02/08/20 07:33:24! Tony Gurney checks
+! 02/08/20 07:33:24! Slimbob checks
+! Hand over, current board is:  7c 2h Ks Jc 9h
+! Slimbob                  has: Qs Ad
+! Tony Gurney              has: 2s Ac
+! Tony Gurney wins $13400 (net $8100) with One Pair (2 2 A K J)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|   Clark Olson              |  116500 |         |      |    |         |
+ 3|   DaveKal                  |  207825 |         |      |    |         |
+ 4|   denimmined               |  118000 |         |      |    |         |
+ 5|   Slimbob                  |   26250 |         |      |    |         |
+ 6|D  not66                    |   81125 |         |      |    |         |
+ 7|>  Tony Gurney              |   86125 |         |      |    |         |
+ 8|   Nightshift6              |  116975 |         |      |    |         |
+ 9|   All In a daze work       |  216875 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 192 players left in the tournament, 2 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c11.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+We are now over 30 days in round "c".  Automatic
+table breaking and live redraws have been disabled.
+We will play until one or more tables gets below six
+players.  When that happens all tables will finish
+the current hand and a full redraw will occur into
+the "d" round.
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 24
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

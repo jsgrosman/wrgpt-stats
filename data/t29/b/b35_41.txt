@@ -1,0 +1,124 @@
+Subject: [b35.10582] Holdem Game Broadcast Message(*)
+
+! Table b35, Hand 41, Day 40
+
+! Krushinski folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   fich                     |   42975 |      25 |folded|    |         |
+ 2|   Krushinski               |   52850 |    1525 |folded|    |         |
+ 3|   MTpotts                  |   56575 |      25 |folded|    |         |
+ 4|   TennisGeek               |   46275 |      25 |folded|    |         |
+ 5|D  drjeys                   |   50900 |     325 |folded|    |         |
+ 6|>  Poker Dog                |   50150 |    3525 |      |    |         |
+ 7|   Chew On Deez             |   47900 |     325 |folded|    |         |
+ 8|   Mark Ito                 |  112925 |      25 |folded|    |         |
+ 9|   Pvt_Pyle                 |   59775 |     325 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/12/19 14:16:53! Dealing a new hand
+! 12/12/19 14:16:53! Everyone antes $25
+! 12/12/19 14:16:53! Poker Dog blinds $150
+! 12/12/19 14:16:53! Chew On Deez blinds $300
+! 12/12/19 14:20:53! Mark Ito folds
+_____________________________________________________________________________
+
+! Three days to play one hand. Out of 49 tables, we are slower than 44.
+! http://hands.wrgpt.org/tablebyhand.html
+! Any ideas to speed up play?
+! -- Pvt_Pyle --
+_____________________________________________________________________________
+
+! 12/12/19 14:34:29! Pvt_Pyle calls 
+! 12/12/19 14:34:29! fich folds
+! 12/12/19 16:09:26! Krushinski calls 
+! 12/12/19 16:09:26! MTpotts folds
+! 12/12/19 17:19:40! TennisGeek folds
+! 12/12/19 17:31:47! drjeys calls 
+! 12/12/19 17:58:40! Poker Dog calls 
+! 12/12/19 19:40:38! Chew On Deez checks
+
+! 12/12/19 19:40:38! Pot right ($1725), flopping/dealing/drawing cards
+! 12/12/19 19:40:38! 5 players
+! 12/12/19 19:40:38! Flopped cards: 2s 6c Kh
+! 12/12/19 21:24:16! Poker Dog bets $1200 
+! 12/12/19 21:39:38! Chew On Deez folds
+! 12/12/19 23:11:13! Pvt_Pyle folds
+! 12/13/19 06:08:40! Krushinski calls 
+! 12/13/19 06:25:54! drjeys folds
+
+! 12/13/19 06:25:54! Pot right ($4125), flopping/dealing/drawing cards
+! 12/13/19 06:25:54! 2 players
+! 12/13/19 06:25:54! Flopped card: Ad
+! 12/13/19 07:06:12! Poker Dog checks
+! 12/13/19 08:26:55! Krushinski checks
+
+! 12/13/19 08:26:55! Pot right ($4125), flopping/dealing/drawing cards
+! 12/13/19 08:26:55! 2 players
+! 12/13/19 08:26:55! Flopped card: 7h
+! 12/13/19 08:30:48! Poker Dog bets $2000 
+! 12/13/19 11:16:25! Krushinski folds
+! Hand over, no showdown
+! Current board is:  2s 6c Kh Ad 7h
+! Poker Dog wins $6125 (net $2600)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   fich                     |   42975 |         |      |    |         |
+ 2|   Krushinski               |   52850 |         |      |    |         |
+ 3|   MTpotts                  |   56575 |         |      |    |         |
+ 4|   TennisGeek               |   46275 |         |      |    |         |
+ 5|   drjeys                   |   50900 |         |      |    |         |
+ 6|D> Poker Dog                |   56275 |         |      |    |         |
+ 7|   Chew On Deez             |   47900 |         |      |    |         |
+ 8|   Mark Ito                 |  112925 |         |      |    |         |
+ 9|   Pvt_Pyle                 |   59775 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 423 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b35.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables for 45 days 
+will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

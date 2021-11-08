@@ -1,0 +1,129 @@
+Subject: [c3.10690] Holdem Game Broadcast Message(*)
+
+% If you can beat my flush, then nice hand
+! -- Poker Coach --
+_____________________________________________________________________________
+
+! Table c3, Hand 209, Day 101
+
+! Poker Coach calls 
+! Pot right ($45050), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 2s
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   robo                     |  124000 |     400 |folded|    |         |
+ 3|   Mother Speaks            |   41275 |     400 |folded|    |         |
+ 4|>  Poker Coach              |   74325 |   19725 |      |    |         |
+ 5|D  Bangalore                |   82900 |     400 |folded|    |         |
+ 6|   Mark Lemon               |       0 |   19725 |all-in|    |         |
+ 7|   Josh Goldshlag           |  194475 |    3600 |folded|    |         |
+ 8|   RUGRAT                   |  121550 |     400 |folded|    |         |
+ 9|   HK                       |   40075 |     400 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/11/20 14:56:39! Dealing a new hand
+! 02/11/20 14:56:39! Everyone antes $400
+! 02/11/20 14:56:39! Mark Lemon blinds $1600
+! 02/11/20 14:56:39! Josh Goldshlag blinds $3200
+! 02/11/20 15:02:07! RUGRAT folds
+! 02/12/20 06:20:19! HK folds
+! 02/12/20 06:20:19! robo folds
+! 02/12/20 06:20:19! Mother Speaks folds
+! 02/12/20 06:22:53! Poker Coach raises $4800 to $8000 total 
+! 02/12/20 10:23:05! Bangalore folds
+! 02/12/20 10:24:54! Mark Lemon calls 
+! 02/12/20 10:24:54! Josh Goldshlag folds
+
+! 02/12/20 10:24:54! Pot right ($22400), flopping/dealing/drawing cards
+! 02/12/20 10:24:54! 2 players
+! 02/12/20 10:24:54! Flopped cards: 2c 2d 4c
+! 02/12/20 10:25:28! Mark Lemon checks
+! 02/12/20 10:25:54! Poker Coach checks
+
+! 02/12/20 10:25:54! Pot right ($22400), flopping/dealing/drawing cards
+! 02/12/20 10:25:54! 2 players
+! 02/12/20 10:25:54! Flopped card: 10c
+! 02/12/20 10:39:21! Mark Lemon bets $11325 and is all in
+_____________________________________________________________________________
+
+! If you can beat my flush, then nice hand
+! -- Poker Coach --
+_____________________________________________________________________________
+
+! 02/12/20 10:40:40! Poker Coach calls 
+
+! 02/12/20 10:40:40! Pot right ($45050), flopping/dealing/drawing cards
+! 02/12/20 10:40:40! 2 players, 1 all in
+! 02/12/20 10:40:40! Flopped card: 2s
+! Hand over, current board is:  2c 2d 4c 10c 2s
+! Poker Coach              has: Kc Qc
+! Mark Lemon               has: Ah Jc
+! Poker Coach wins $45050 (net $25325) with Club Flush (K Q 10 4 2)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   robo                     |  124000 |         |      |    |         |
+ 3|   Mother Speaks            |   41275 |         |      |    |         |
+ 4|>  Poker Coach              |  119375 |         |      |    |         |
+ 5|D  Bangalore                |   82900 |         |      |    |         |
+ 7|   Josh Goldshlag           |  194475 |         |      |    |         |
+ 8|   RUGRAT                   |  121550 |         |      |    |         |
+ 9|   HK                       |   40075 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Mark Lemon is eliminated!
+! 175 players left in the tournament 
+! All tables finished, waiting for redraw
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c3.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+We are now over 30 days in round "c".  Automatic
+table breaking and live redraws have been disabled.
+We will play until one or more tables gets below six
+players.  When that happens all tables will finish
+the current hand and a full redraw will occur into
+the "d" round.
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 40
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

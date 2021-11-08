@@ -1,0 +1,124 @@
+Subject: [c17.10715] Holdem Game Broadcast Message(*)
+
+! Table c17, Hand 202, Day 95
+
+! Buggzilla calls 
+! Pot right ($75500), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: Jd
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Lana OBrien              |  271600 |     300 |folded|    |         |
+ 2|   Rich Guidoboni           |  431050 |     300 |folded|    |         |
+ 4|   JRX                      |  208950 |     300 |folded|    |         |
+ 5|>  Buggzilla                |  103125 |   33600 |      |    |         |
+ 6|   EricL                    |  105025 |     300 |folded|    |         |
+ 7|D  Bryan Currie             |  181100 |     300 |folded|    |         |
+ 8|   Ken Doss                 |       0 |   33600 |all-in|    |         |
+ 9|   Htr                      |  126375 |    6800 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/05/20 12:31:09! Dealing a new hand
+! 02/05/20 12:31:09! Everyone antes $300
+! 02/05/20 12:31:09! Ken Doss blinds $1000
+! 02/05/20 12:31:09! Htr blinds $2000
+! 02/05/20 12:51:28! Lana OBrien folds
+! 02/05/20 12:51:28! Rich Guidoboni folds
+! 02/05/20 12:51:28! JRX folds
+! 02/05/20 13:54:32! Buggzilla calls 
+! 02/05/20 13:56:29! EricL folds
+! 02/05/20 13:56:29! Bryan Currie is on vacation and folds
+! 02/05/20 14:05:13! Ken Doss calls 
+! 02/05/20 14:06:58! Htr checks
+
+! 02/05/20 14:06:58! Pot right ($8400), flopping/dealing/drawing cards
+! 02/05/20 14:06:58! 3 players
+! 02/05/20 14:06:58! Flopped cards: Qh 8d 3d
+! 02/05/20 14:06:58! Ken Doss checks
+! 02/05/20 14:07:43! Htr checks
+! 02/05/20 14:12:09! Buggzilla bets $4500 
+! 02/05/20 14:13:49! Ken Doss calls 
+! 02/05/20 18:19:04! Htr calls 
+
+! 02/05/20 18:19:04! Pot right ($21900), flopping/dealing/drawing cards
+! 02/05/20 18:19:04! 3 players
+! 02/05/20 18:19:04! Flopped card: 3h
+! 02/05/20 21:49:30! Ken Doss bets $26800 and is all in
+! 02/05/20 21:54:47! Htr folds
+! 02/05/20 23:10:27! Bryan Currie is back from vacation
+! 02/06/20 07:51:23! Buggzilla calls 
+
+! 02/06/20 07:51:23! Pot right ($75500), flopping/dealing/drawing cards
+! 02/06/20 07:51:23! 2 players, 1 all in
+! 02/06/20 07:51:23! Flopped card: Jd
+! Hand over, current board is:  Qh 8d 3d 3h Jd
+! Buggzilla                has: Qs 5s
+! Ken Doss                 has: 8s Qc
+! Ken Doss wins $75500 (net $41900) with Two Pair (Q Q 8 8 J)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Lana OBrien              |  271600 |         |      |    |         |
+ 2|   Rich Guidoboni           |  431050 |         |      |    |         |
+ 4|   JRX                      |  208950 |         |      |    |         |
+ 5|>  Buggzilla                |  103125 |         |      |    |         |
+ 6|   EricL                    |  105025 |         |      |    |         |
+ 7|   Bryan Currie             |  181100 |         |      |    |         |
+ 8|D  Ken Doss                 |   75500 |         |      |    |         |
+ 9|   Htr                      |  126375 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 197 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c17.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+We are now over 30 days in round "c".  Automatic
+table breaking and live redraws have been disabled.
+We will play until one or more tables gets below six
+players.  When that happens all tables will finish
+the current hand and a full redraw will occur into
+the "d" round.
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 19
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

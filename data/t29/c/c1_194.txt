@@ -1,0 +1,111 @@
+Subject: [c1.10554] Holdem Game Broadcast Message(*)
+
+! Table c1, Hand 194, Day 87
+
+! Frank O raises $80375 to $150100 total and is all in
+! Pot right ($243225), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped card: 4h
+! Flopped card: 3h
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Seanbo                   |       0 |   76025 |all-in|  2 |  162850 |
+ 3|   BBLWOG                   |  161800 |     300 |folded|    |         |
+ 4|   Ryan Thomas              |  148800 |     300 |folded|    |         |
+ 5|D  Blackcove                |   96350 |    6300 |folded|    |         |
+ 6|V  Charlie Tuna             |  164950 |    1300 | 2 FEB|    |         |
+ 7|   Shari Silk               |  154000 |    2300 |folded|    |         |
+ 8|   Frank Russomanno         |  253800 |     300 |folded|    |         |
+ 9|>  Frank O                  |       0 |  156400 |all-in|  1 |   80375 |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/29/20 00:01:42! Dealing a new hand
+! 01/29/20 00:01:42! Everyone antes $300
+! 01/29/20 00:01:42! Charlie Tuna blinds $1000
+! 01/29/20 00:01:42! Shari Silk blinds $2000
+! 01/29/20 03:17:15! Frank Russomanno folds
+! 01/29/20 05:19:26! Frank O raises $4000 to $6000 total 
+! 01/29/20 06:09:45! Seanbo calls 
+! 01/29/20 06:41:14! BBLWOG folds
+! 01/29/20 06:55:37! Ryan Thomas folds
+! 01/29/20 07:40:48! Blackcove calls 
+! 01/29/20 07:40:48! Charlie Tuna is on vacation and folds
+! 01/29/20 09:12:46! Shari Silk folds
+
+! 01/29/20 09:12:46! Pot right ($23400), flopping/dealing/drawing cards
+! 01/29/20 09:12:46! 3 players
+! 01/29/20 09:12:46! Flopped cards: Jh Kh 7c
+! 01/29/20 09:16:03! Frank O bets $25000 
+! 01/29/20 09:16:52! Seanbo raises $44725 to $69725 total and is all in
+! 01/29/20 09:16:52! Blackcove folds
+! 01/29/20 09:17:30! Frank O raises $80375 to $150100 total and is all in
+
+! 01/29/20 09:17:30! Pot right ($243225), flopping/dealing/drawing cards
+! 01/29/20 09:17:30! 2 players, 2 all in
+! 01/29/20 09:17:30! Flopped card: 4h
+! 01/29/20 09:17:30! Flopped card: 3h
+! Hand over, current board is:  Jh Kh 7c 4h 3h
+! Seanbo                   has: Jd Kc
+! Frank O                  has: Qh 10c
+! Pot 1: uncalled $80375 returned to Frank O
+! Pot 2: Frank O wins $162850 with Heart Flush (K Q J 4 3)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 3|   BBLWOG                   |  161800 |         |      |    |         |
+ 4|   Ryan Thomas              |  148800 |         |      |    |         |
+ 5|   Blackcove                |   96350 |         |      |    |         |
+ 6|DV Charlie Tuna             |  164950 |         | 2 FEB|    |         |
+ 7|   Shari Silk               |  154000 |         |      |    |         |
+ 8|   Frank Russomanno         |  253800 |         |      |    |         |
+ 9|>  Frank O                  |  243225 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Seanbo is eliminated!
+! 233 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c1.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

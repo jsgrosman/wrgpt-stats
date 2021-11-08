@@ -1,0 +1,111 @@
+Subject: [c19.10180] Holdem Game Broadcast Message(*)
+
+! Table c19, Hand 161, Day 72
+
+! Jason Feng calls 
+! Pot right ($88000), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 7c
+! Flopped card: 4c
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  Jason Feng               |   24400 |   40400 |      |    |         |
+ 2|   Thomas Gabrysch          |  159100 |    1400 |folded|    |         |
+ 3|   Nixed                    |  242400 |     200 |folded|    |         |
+ 4|   Virginia Slims           |   74725 |    5000 |folded|    |         |
+ 6|   BrownTrout               |   56050 |     200 |folded|    |         |
+ 7|   heffmike                 |   34875 |     200 |folded|    |         |
+ 8|   ebock                    |   29000 |     200 |folded|    |         |
+ 9|D  Brent Moore              |       0 |   40400 |all-in|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/14/20 10:11:04! Dealing a new hand
+! 01/14/20 10:11:04! Everyone antes $200
+! 01/14/20 10:11:04! Jason Feng blinds $600
+! 01/14/20 10:11:04! Thomas Gabrysch blinds $1200
+! 01/14/20 10:36:16! Nixed folds
+! 01/14/20 11:41:45! Virginia Slims calls 
+! 01/14/20 11:41:45! BrownTrout folds
+! 01/14/20 11:41:45! heffmike folds
+! 01/14/20 11:41:45! ebock folds
+! 01/14/20 11:49:41! Brent Moore raises $3600 to $4800 total 
+! 01/14/20 11:51:06! Jason Feng calls 
+! 01/14/20 15:47:36! Thomas Gabrysch folds
+! 01/14/20 16:35:59! Virginia Slims calls 
+
+! 01/14/20 16:35:59! Pot right ($17200), flopping/dealing/drawing cards
+! 01/14/20 16:35:59! 3 players
+! 01/14/20 16:35:59! Flopped cards: 7s 5s 7h
+! 01/14/20 18:07:48! Jason Feng bets $5000 
+! 01/14/20 18:11:03! Virginia Slims folds
+! 01/14/20 18:28:15! Brent Moore raises $30400 to $35400 total and is all in
+! 01/14/20 18:35:30! Jason Feng calls 
+
+! 01/14/20 18:35:30! Pot right ($88000), flopping/dealing/drawing cards
+! 01/14/20 18:35:30! 2 players, 1 all in
+! 01/14/20 18:35:30! Flopped card: 7c
+! 01/14/20 18:35:30! Flopped card: 4c
+! Hand over, current board is:  7s 5s 7h 7c 4c
+! Jason Feng               has: Ah Ac
+! Brent Moore              has: 10h 10c
+! Jason Feng wins $88000 (net $47600) with Full House (7 7 7 A A)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D> Jason Feng               |  112400 |         |      |    |         |
+ 2|   Thomas Gabrysch          |  159100 |         |      |    |         |
+ 3|   Nixed                    |  242400 |         |      |    |         |
+ 4|   Virginia Slims           |   74725 |         |      |    |         |
+ 6|   BrownTrout               |   56050 |         |      |    |         |
+ 7|   heffmike                 |   34875 |         |      |    |         |
+ 8|   ebock                    |   29000 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Brent Moore is eliminated!
+! 302 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c19.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

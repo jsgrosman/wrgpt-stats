@@ -1,0 +1,115 @@
+Subject: [b41.10862] Holdem Game Broadcast Message(*)
+
+! Table b41, Hand 66, Day 55
+
+! Klod checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   CountFlop                |   41775 |      50 |folded|    |         |
+ 2|>  Righteous Indignation    |  207250 |    5450 |      |    |         |
+ 4|D  Klod                     |  127000 |    5450 |      |    |         |
+ 5|   dave                     |   89200 |     250 |folded|    |         |
+ 7|   jpawloski                |  111075 |     450 |folded|    |         |
+ 8|   Commander Flanders       |   69550 |      50 |folded|    |         |
+ 9|   Vic Vega                 |   78175 |      50 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/27/19 12:42:58! Dealing a new hand
+! 12/27/19 12:42:58! Everyone antes $50
+! 12/27/19 12:42:58! dave blinds $200
+! 12/27/19 12:42:58! jpawloski blinds $400
+! 12/27/19 15:34:08! Commander Flanders folds
+! 12/27/19 15:34:08! Vic Vega folds
+! 12/27/19 15:34:08! CountFlop folds
+! 12/27/19 15:38:27! Righteous Indignation raises $650 to $1050 total 
+! 12/27/19 17:34:28! Klod calls 
+! 12/27/19 17:57:30! dave folds
+! 12/27/19 17:57:30! jpawloski folds
+
+! 12/27/19 17:57:30! Pot right ($3050), flopping/dealing/drawing cards
+! 12/27/19 17:57:30! 2 players
+! 12/27/19 17:57:30! Flopped cards: 3c 6c Ks
+! 12/27/19 19:31:32! Righteous Indignation bets $1250 
+! 12/28/19 08:13:00! Klod calls 
+
+! 12/28/19 08:13:00! Pot right ($5550), flopping/dealing/drawing cards
+! 12/28/19 08:13:00! 2 players
+! 12/28/19 08:13:00! Flopped card: 6h
+! 12/28/19 08:41:57! Righteous Indignation bets $3100 
+! 12/28/19 08:42:35! Klod calls 
+
+! 12/28/19 08:42:35! Pot right ($11750), flopping/dealing/drawing cards
+! 12/28/19 08:42:35! 2 players
+! 12/28/19 08:42:35! Flopped card: 4s
+! 12/28/19 09:17:56! Righteous Indignation checks
+! 12/28/19 12:37:38! Klod checks
+! Hand over, current board is:  3c 6c Ks 6h 4s
+! Righteous Indignation    has: Qc Jc
+! Klod                     has: 8d 8c
+! Klod wins $11750 (net $6300) with Two Pair (8 8 6 6 K)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   CountFlop                |   41775 |         |      |    |         |
+ 2|>  Righteous Indignation    |  207250 |         |      |    |         |
+ 4|   Klod                     |  138750 |         |      |    |         |
+ 5|D  dave                     |   89200 |         |      |    |         |
+ 7|   jpawloski                |  111075 |         |      |    |         |
+ 8|   Commander Flanders       |   69550 |         |      |    |         |
+ 9|   Vic Vega                 |   78175 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 365 players left in the tournament, 3 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b41.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+After day 45 of the tourney there will be no
+more live redraws or breaking tables.  Tables
+will be allowed to run until a table gets to 
+five or fewer players at which time all tables
+will finish the current hand and a full, random
+redraw to all new tables will be done.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 40
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

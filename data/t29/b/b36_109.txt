@@ -1,0 +1,107 @@
+Subject: [b36.11293] Holdem Game Broadcast Message(*)
+
+! Table b36, Hand 109, Day 55
+
+! sendlo bets $2000 
+! Duncan folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   FruitFoot                |   37425 |      50 |folded|    |         |
+ 2|>  sendlo                   |   27275 |    3250 |      |    |         |
+ 3|D  Mike Sager               |   99650 |      50 |folded|    |         |
+ 5|   Jeff Okamoto             |   69025 |     250 |folded|    |         |
+ 6|   Duncan                   |   69650 |    1250 |folded|    |         |
+ 7|   JRX                      |  139975 |      50 |folded|    |         |
+ 8|   Mother Speaks            |   63025 |      50 |folded|    |         |
+ 9|   Morgan                   |   68450 |      50 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/27/19 22:02:51! Dealing a new hand
+! 12/27/19 22:02:51! Everyone antes $50
+! 12/27/19 22:02:51! Jeff Okamoto blinds $200
+! 12/27/19 22:02:51! Duncan blinds $400
+! 12/28/19 03:20:32! JRX folds
+! 12/28/19 03:27:55! Mother Speaks folds
+! 12/28/19 05:35:42! Morgan folds
+! 12/28/19 05:35:42! FruitFoot folds
+! 12/28/19 10:10:10! sendlo raises $800 to $1200 total 
+! 12/28/19 10:14:08! Mike Sager folds
+! 12/28/19 11:58:23! Jeff Okamoto folds
+! 12/28/19 12:09:06! Duncan calls 
+
+! 12/28/19 12:09:06! Pot right ($3000), flopping/dealing/drawing cards
+! 12/28/19 12:09:06! 2 players
+! 12/28/19 12:09:06! Flopped cards: 9h Jd 2h
+! 12/28/19 12:09:26! Duncan checks
+! 12/28/19 12:33:08! sendlo bets $2000 
+! 12/28/19 12:33:08! Duncan folds
+! Hand over, no showdown
+! Current board is:  9h Jd 2h ? ?
+! sendlo wins $5000 (net $1750)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   FruitFoot                |   37425 |         |      |    |         |
+ 2|>  sendlo                   |   32275 |         |      |    |         |
+ 3|   Mike Sager               |   99650 |         |      |    |         |
+ 5|D  Jeff Okamoto             |   69025 |         |      |    |         |
+ 6|   Duncan                   |   69650 |         |      |    |         |
+ 7|   JRX                      |  139975 |         |      |    |         |
+ 8|   Mother Speaks            |   63025 |         |      |    |         |
+ 9|   Morgan                   |   68450 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 365 players left in the tournament, 3 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b36.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+After day 45 of the tourney there will be no
+more live redraws or breaking tables.  Tables
+will be allowed to run until a table gets to 
+five or fewer players at which time all tables
+will finish the current hand and a full, random
+redraw to all new tables will be done.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 40
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

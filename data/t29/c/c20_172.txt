@@ -1,0 +1,116 @@
+Subject: [c20.10321] Holdem Game Broadcast Message(*)
+
+! Table c20, Hand 172, Day 85
+
+! panfried raises $30700 to $134050 total and is all in
+! Pot right ($303100), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped card: 10d
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  panfried                 |       0 |  164350 |all-in|  1 |   30700 |
+ 2|D  JohnnyMac                |   84625 |     300 |folded|    |         |
+ 3|   Cowabunga                |   45175 |    1300 |folded|    |         |
+ 4|   BluffaloBill             |   59900 |    2300 |folded|    |         |
+ 5|   Sandy                    |   44900 |     300 |folded|    |         |
+ 6|   Britney                  |  160925 |     300 |folded|    |         |
+ 7|   Baldgriff                |   86675 |     300 |folded|    |         |
+ 8|   PMD                      |   37650 |     300 |folded|    |         |
+ 9|   Mr Generic               |       0 |  133650 |all-in|  2 |  272400 |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/27/20 10:35:35! Dealing a new hand
+! 01/27/20 10:35:35! Everyone antes $300
+! 01/27/20 10:35:35! Cowabunga blinds $1000
+! 01/27/20 10:35:35! BluffaloBill blinds $2000
+! 01/27/20 10:42:00! Sandy folds
+! 01/27/20 10:45:29! Britney folds
+! 01/27/20 10:55:30! Baldgriff folds
+! 01/27/20 11:47:54! PMD folds
+! 01/27/20 12:56:31! Mr Generic raises $8000 to $10000 total 
+! 01/27/20 13:02:45! panfried calls 
+! 01/27/20 13:02:45! JohnnyMac folds
+! 01/27/20 15:23:37! Cowabunga folds
+! 01/27/20 15:23:37! BluffaloBill folds
+
+! 01/27/20 15:23:37! Pot right ($25700), flopping/dealing/drawing cards
+! 01/27/20 15:23:37! 2 players
+! 01/27/20 15:23:37! Flopped cards: 7d 6s 7s
+! 01/27/20 15:31:07! Mr Generic bets $20000 
+! 01/27/20 15:54:18! panfried calls 
+
+! 01/27/20 15:54:18! Pot right ($65700), flopping/dealing/drawing cards
+! 01/27/20 15:54:18! 2 players
+! 01/27/20 15:54:18! Flopped card: 8s
+! 01/27/20 15:56:05! Mr Generic bets $103350 and is all in
+! 01/27/20 16:10:16! panfried raises $30700 to $134050 total and is all in
+
+! 01/27/20 16:10:16! Pot right ($303100), flopping/dealing/drawing cards
+! 01/27/20 16:10:16! 2 players, 2 all in
+! 01/27/20 16:10:16! Flopped card: 10d
+! Hand over, current board is:  7d 6s 7s 8s 10d
+! panfried                 has: As 10s
+! Mr Generic               has: Ks Kd
+! Pot 1: uncalled $30700 returned to panfried
+! Pot 2: panfried wins $272400 with Spade Flush (A 10 8 7 6)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  panfried                 |  303100 |         |      |    |         |
+ 2|   JohnnyMac                |   84625 |         |      |    |         |
+ 3|D  Cowabunga                |   45175 |         |      |    |         |
+ 4|   BluffaloBill             |   59900 |         |      |    |         |
+ 5|   Sandy                    |   44900 |         |      |    |         |
+ 6|   Britney                  |  160925 |         |      |    |         |
+ 7|   Baldgriff                |   86675 |         |      |    |         |
+ 8|   PMD                      |   37650 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Mr Generic is eliminated!
+! 239 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c20.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 3
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

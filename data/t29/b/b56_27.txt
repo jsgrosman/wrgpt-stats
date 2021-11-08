@@ -1,0 +1,111 @@
+Subject: [b56.10379] Holdem Game Broadcast Message(*)
+
+! Table b56, Hand 27, Day 18
+
+! Eight of Spades folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  beacon bot               |   85225 |    4400 |      |    |         |
+ 2|   Eight of Spades          |   64800 |    1900 |folded|    |         |
+ 3|   db222                    |   39375 |       0 |folded|    |         |
+ 4|   TheJD                    |   47350 |       0 |folded|    |         |
+ 6|   mulligan                 |   33675 |       0 |folded|    |         |
+ 7|   not66                    |   74550 |     700 |folded|    |         |
+ 8|   ADBHOWLER                |   84750 |       0 |folded|    |         |
+ 9|D  Righteous Indignation    |   60325 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/20/19 14:15:12! Dealing a new hand
+! 11/20/19 14:15:12! No ante
+! 11/20/19 14:15:12! beacon bot blinds $150
+! 11/20/19 14:15:12! Eight of Spades blinds $300
+! 11/20/19 14:35:10! db222 folds
+! 11/20/19 14:35:10! TheJD folds
+! 11/20/19 15:17:21! mulligan folds
+! 11/20/19 15:45:33! not66 raises $400 to $700 total 
+! 11/20/19 16:12:27! ADBHOWLER folds
+! 11/20/19 16:12:27! Righteous Indignation folds
+! 11/20/19 17:35:43! beacon bot calls 
+! 11/20/19 17:35:43! Eight of Spades calls 
+
+! 11/20/19 17:35:43! Pot right ($2100), flopping/dealing/drawing cards
+! 11/20/19 17:35:43! 3 players
+! 11/20/19 17:35:43! Flopped cards: 7d 6s 9c
+! 11/20/19 17:37:15! beacon bot checks
+! 11/20/19 18:46:48! Eight of Spades bets $1200 
+! 11/20/19 18:55:28! not66 folds
+! 11/21/19 04:37:14! beacon bot calls 
+
+! 11/21/19 04:37:14! Pot right ($4500), flopping/dealing/drawing cards
+! 11/21/19 04:37:14! 2 players
+! 11/21/19 04:37:14! Flopped card: 4c
+! 11/21/19 04:43:56! beacon bot checks
+! 11/21/19 05:08:41! Eight of Spades checks
+
+! 11/21/19 05:08:41! Pot right ($4500), flopping/dealing/drawing cards
+! 11/21/19 05:08:41! 2 players
+! 11/21/19 05:08:41! Flopped card: Kh
+! 11/21/19 05:19:29! beacon bot bets $2500 
+! 11/21/19 06:36:51! Eight of Spades folds
+! Hand over, no showdown
+! Current board is:  7d 6s 9c 4c Kh
+! beacon bot wins $7000 (net $2600)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D> beacon bot               |   92225 |         |      |    |         |
+ 2|   Eight of Spades          |   64800 |         |      |    |         |
+ 3|   db222                    |   39375 |         |      |    |         |
+ 4|   TheJD                    |   47350 |         |      |    |         |
+ 6|   mulligan                 |   33675 |         |      |    |         |
+ 7|   not66                    |   74550 |         |      |    |         |
+ 8|   ADBHOWLER                |   84750 |         |      |    |         |
+ 9|   Righteous Indignation    |   60325 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 506 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b56.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Good luck.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 7
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

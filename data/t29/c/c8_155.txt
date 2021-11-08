@@ -1,0 +1,114 @@
+Subject: [c8.10143] Holdem Game Broadcast Message(*)
+
+! Table c8, Hand 155, Day 70
+
+! Michael Proteau calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Cruella                  |   44100 |     100 |folded|    |         |
+ 2|D  Michael Proteau          |  116925 |   11650 |      |    |         |
+ 3|>  DouglasT                 |  103775 |   11650 |      |    |         |
+ 4|   kmommy                   |   83625 |     600 |folded|    |         |
+ 5|   Kinda Gamey              |   26075 |     100 |folded|    |         |
+ 6|   Zipper                   |   70000 |     100 |folded|    |         |
+ 7|   smak                     |   72200 |     100 |folded|    |         |
+ 8|   OldKingKohl              |  279675 |     100 |folded|    |         |
+ 9|   Ed Barrett               |  117450 |       0 |New   |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/12/20 07:06:17! Dealing a new hand
+! 01/12/20 07:06:17! Everyone antes $100
+! 01/12/20 07:06:17! DouglasT blinds $250
+! 01/12/20 07:06:17! kmommy blinds $500
+! 01/12/20 07:15:06! New player added to the table: Ed Barrett
+! 01/12/20 07:34:03! Kinda Gamey folds
+! 01/12/20 09:32:16! Zipper folds
+! 01/12/20 09:32:16! smak folds
+! 01/12/20 09:32:16! OldKingKohl folds
+! 01/12/20 09:32:16! Cruella folds
+! 01/12/20 09:36:09! Michael Proteau raises $2050 to $2550 total 
+! 01/12/20 11:44:20! DouglasT calls 
+! 01/12/20 12:48:28! kmommy folds
+
+! 01/12/20 12:48:28! Pot right ($6400), flopping/dealing/drawing cards
+! 01/12/20 12:48:28! 2 players
+! 01/12/20 12:48:28! Flopped cards: 7c 6c 2c
+! 01/12/20 12:49:46! DouglasT checks
+! 01/12/20 14:26:55! Michael Proteau checks
+
+! 01/12/20 14:26:55! Pot right ($6400), flopping/dealing/drawing cards
+! 01/12/20 14:26:55! 2 players
+! 01/12/20 14:26:55! Flopped card: Js
+! 01/12/20 14:29:17! DouglasT bets $3000 
+! 01/12/20 15:32:52! Michael Proteau calls 
+
+! 01/12/20 15:32:52! Pot right ($12400), flopping/dealing/drawing cards
+! 01/12/20 15:32:52! 2 players
+! 01/12/20 15:32:52! Flopped card: 8d
+! 01/12/20 16:10:10! DouglasT bets $6000 
+! 01/12/20 16:38:38! Michael Proteau calls 
+! Hand over, current board is:  7c 6c 2c Js 8d
+! Michael Proteau          has: Qd Qc
+! DouglasT                 has: As 3s
+! Michael Proteau wins $24400 (net $12750) with One Pair (Q Q J 8 7)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Cruella                  |   44100 |         |      |    |         |
+ 2|   Michael Proteau          |  141325 |         |      |    |         |
+ 3|D> DouglasT                 |  103775 |         |      |    |         |
+ 4|   kmommy                   |   83625 |         |      |    |         |
+ 5|   Kinda Gamey              |   26075 |         |      |    |         |
+ 6|   Zipper                   |   70000 |         |      |    |         |
+ 7|   smak                     |   72200 |         |      |    |         |
+ 8|   OldKingKohl              |  279675 |         |      |    |         |
+ 9|   Ed Barrett               |  117450 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 311 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c8.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,113 @@
+Subject: [c7.10645] Holdem Game Broadcast Message(*)
+
+! Table c7, Hand 200, Day 97
+
+! CountFlop folds
+! janie folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   1985 M Building Champ    |   84350 |     300 |folded|    |         |
+ 2|   janie                    |   86800 |    2300 |folded|    |         |
+ 3|D> Piney Boy                |   63550 |    8500 |      |    |         |
+ 4|   BigElmo                  |   60750 |    2300 |folded|    |         |
+ 5|   Dario                    |  105775 |    2300 |folded|    |         |
+ 6|   Per Starback             |   85925 |     300 |folded|    |         |
+ 7|   CountFlop                |   67825 |    2300 |folded|    |         |
+ 9|V  Taki                     |   17675 |     300 |  busy|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/07/20 16:19:19! Dealing a new hand
+! 02/07/20 16:19:19! Everyone antes $300
+! 02/07/20 16:19:19! BigElmo blinds $1000
+! 02/07/20 16:19:19! Dario blinds $2000
+! 02/07/20 21:49:06! Per Starback folds
+! 02/08/20 07:55:52! CountFlop calls 
+! 02/08/20 07:55:52! Taki is on vacation and folds
+! 02/08/20 07:55:52! 1985 M Building Champ folds
+! 02/08/20 08:04:14! janie calls 
+! 02/08/20 08:12:49! Piney Boy calls 
+! 02/08/20 08:29:24! BigElmo calls 
+! 02/08/20 08:44:20! Dario checks
+
+! 02/08/20 08:44:20! Pot right ($12400), flopping/dealing/drawing cards
+! 02/08/20 08:44:20! 5 players
+! 02/08/20 08:44:20! Flopped cards: 9h 5s Qh
+! 02/08/20 08:52:56! BigElmo checks
+! 02/08/20 09:55:47! Dario checks
+! 02/08/20 10:00:15! CountFlop checks
+! 02/08/20 15:20:09! janie checks
+! 02/08/20 15:51:38! Piney Boy bets $6200 
+! 02/08/20 15:57:05! BigElmo folds
+! 02/08/20 17:34:17! Dario folds
+! 02/08/20 21:19:20! CountFlop folds
+! 02/08/20 21:19:20! janie folds
+! Hand over, no showdown
+! Current board is:  9h 5s Qh ? ?
+! Piney Boy wins $18600 (net $10100)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   1985 M Building Champ    |   84350 |         |      |    |         |
+ 2|   janie                    |   86800 |         |      |    |         |
+ 3|>  Piney Boy                |   82150 |         |      |    |         |
+ 4|D  BigElmo                  |   60750 |         |      |    |         |
+ 5|   Dario                    |  105775 |         |      |    |         |
+ 6|   Per Starback             |   85925 |         |      |    |         |
+ 7|   CountFlop                |   67825 |         |      |    |         |
+ 9|V  Taki                     |   17675 |         |  busy|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 188 players left in the tournament, 2 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c7.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+We are now over 30 days in round "c".  Automatic
+table breaking and live redraws have been disabled.
+We will play until one or more tables gets below six
+players.  When that happens all tables will finish
+the current hand and a full redraw will occur into
+the "d" round.
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 28
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,109 @@
+Subject: [c23.10121] Holdem Game Broadcast Message(*)
+
+! Table c23, Hand 158, Day 70
+
+! scjansen calls 
+! Pot right ($63750), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped cards: Ac Jh Qc
+! Flopped card: Qh
+! Flopped card: Qd
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Couchtater               |   60275 |     100 |folded|    |         |
+ 2|   Joshua                   |  113400 |     100 |folded|    |         |
+ 3|   Bugsy                    |       0 |   30900 |all-in|    |         |
+ 4|   dstebs                   |   45750 |     100 |folded|    |         |
+ 5|D  Fredrik Westerlund       |   66550 |     100 |folded|    |         |
+ 6|   Sam Parazette            |  128000 |     350 |folded|    |         |
+ 7|   Home_Brew_Boy            |  119225 |     600 |folded|    |         |
+ 8|   CoachMatt13              |  125275 |     600 |folded|    |         |
+ 9|>  scjansen                 |   51800 |   30900 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/11/20 16:08:09! Dealing a new hand
+! 01/11/20 16:08:09! Everyone antes $100
+! 01/11/20 16:08:09! Sam Parazette blinds $250
+! 01/11/20 16:08:09! Home_Brew_Boy blinds $500
+! 01/11/20 16:14:23! CoachMatt13 calls 
+! 01/12/20 04:13:14! scjansen calls 
+! 01/12/20 04:13:14! Couchtater folds
+! 01/12/20 04:13:14! Joshua folds
+! 01/12/20 06:51:47! Bugsy raises $30300 to $30800 total and is all in
+! 01/12/20 07:07:53! dstebs folds
+! 01/12/20 07:07:53! Fredrik Westerlund folds
+! 01/12/20 16:23:23! Sam Parazette folds
+! 01/12/20 17:12:19! Home_Brew_Boy folds
+! 01/12/20 18:02:44! CoachMatt13 folds
+! 01/12/20 18:04:02! scjansen calls 
+
+! 01/12/20 18:04:02! Pot right ($63750), flopping/dealing/drawing cards
+! 01/12/20 18:04:02! 2 players, 1 all in
+! 01/12/20 18:04:02! Flopped cards: Ac Jh Qc
+! 01/12/20 18:04:02! Flopped card: Qh
+! 01/12/20 18:04:02! Flopped card: Qd
+! Hand over, current board is:  Ac Jh Qc Qh Qd
+! Bugsy                    has: 8h 8d
+! scjansen                 has: 5s 5h
+! Bugsy wins $63750 (net $32850) with Full House (Q Q Q 8 8)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Couchtater               |   60275 |         |      |    |         |
+ 2|   Joshua                   |  113400 |         |      |    |         |
+ 3|   Bugsy                    |   63750 |         |      |    |         |
+ 4|   dstebs                   |   45750 |         |      |    |         |
+ 5|   Fredrik Westerlund       |   66550 |         |      |    |         |
+ 6|D  Sam Parazette            |  128000 |         |      |    |         |
+ 7|   Home_Brew_Boy            |  119225 |         |      |    |         |
+ 8|   CoachMatt13              |  125275 |         |      |    |         |
+ 9|>  scjansen                 |   51800 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 311 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c23.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

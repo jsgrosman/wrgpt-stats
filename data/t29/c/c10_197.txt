@@ -1,0 +1,123 @@
+Subject: [c10.10599] Holdem Game Broadcast Message(*)
+
+! Table c10, Hand 197, Day 96
+
+! TheOldThug raises $102100 to $121450 total and is all in
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Lars Bergkvist           |   86000 |    2300 |folded|    |         |
+ 2|   kvk                      |   60025 |     300 |folded|    |         |
+ 4|   SongMonk                 |  109300 |     300 |folded|    |         |
+ 5|   d-alamo                  |  158650 |     300 |folded|    |         |
+ 6|   Regis                    |  112600 |     300 |folded|    |         |
+ 7|>  TheOldThug               |       0 |  136750 |all-in|  1 |  102100 |
+ 8|D  Fun Time                 |  211875 |     300 |folded|    |         |
+ 9|   KDR118                   |       0 |   34650 |all-in|  2 |   73100 |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/06/20 10:15:30! Dealing a new hand
+! 02/06/20 10:15:30! Everyone antes $300
+! 02/06/20 10:15:30! KDR118 blinds $1000
+! 02/06/20 10:15:30! Lars Bergkvist blinds $2000
+! 02/06/20 12:10:54! kvk folds
+! 02/06/20 12:10:54! SongMonk folds
+! 02/06/20 16:12:02! d-alamo folds
+! 02/06/20 16:12:02! Regis folds
+! 02/06/20 16:31:07! TheOldThug calls 
+! 02/06/20 16:40:40! Fun Time folds
+! 02/06/20 17:01:34! KDR118 calls 
+! 02/06/20 19:05:25! Lars Bergkvist checks
+
+! 02/06/20 19:05:25! Pot right ($8400), flopping/dealing/drawing cards
+! 02/06/20 19:05:25! 3 players
+! 02/06/20 19:05:25! Flopped cards: Jh 3c Jd
+! 02/06/20 21:54:47! KDR118 checks
+! 02/06/20 21:54:47! Lars Bergkvist checks
+! 02/07/20 05:14:31! TheOldThug bets $4000 
+! 02/07/20 05:20:03! KDR118 calls 
+! 02/07/20 05:24:14! Lars Bergkvist folds
+
+! 02/07/20 05:24:14! Pot right ($16400), flopping/dealing/drawing cards
+! 02/07/20 05:24:14! 2 players
+! 02/07/20 05:24:14! Flopped card: 3s
+! 02/07/20 05:37:19! KDR118 checks
+! 02/07/20 06:49:42! TheOldThug bets $9000 
+! 02/07/20 06:51:43! KDR118 calls 
+
+! 02/07/20 06:51:43! Pot right ($34400), flopping/dealing/drawing cards
+! 02/07/20 06:51:43! 2 players
+! 02/07/20 06:51:43! Flopped card: 6h
+! 02/07/20 06:53:47! KDR118 bets $19350 and is all in
+! 02/07/20 07:09:33! TheOldThug raises $102100 to $121450 total and is all in
+! Hand over, current board is:  Jh 3c Jd 3s 6h
+! TheOldThug               has: Js 2s
+! KDR118                   has: 3d 10c
+! Pot 1: uncalled $102100 returned to TheOldThug
+! Pot 2: TheOldThug wins $73100 with Full House (J J J 3 3)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Lars Bergkvist           |   86000 |         |      |    |         |
+ 2|   kvk                      |   60025 |         |      |    |         |
+ 4|   SongMonk                 |  109300 |         |      |    |         |
+ 5|   d-alamo                  |  158650 |         |      |    |         |
+ 6|   Regis                    |  112600 |         |      |    |         |
+ 7|>  TheOldThug               |  175200 |         |      |    |         |
+ 8|D  Fun Time                 |  211875 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! KDR118 is eliminated!
+! 195 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c10.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+We are now over 30 days in round "c".  Automatic
+table breaking and live redraws have been disabled.
+We will play until one or more tables gets below six
+players.  When that happens all tables will finish
+the current hand and a full redraw will occur into
+the "d" round.
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 20
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

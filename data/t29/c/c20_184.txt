@@ -1,0 +1,117 @@
+Subject: [c20.10423] Holdem Game Broadcast Message(*)
+
+! Table c20, Hand 184, Day 94
+
+! Sandy folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   panfried                 |  315400 |     300 |folded|    |         |
+ 2|   JohnnyMac                |   59550 |     300 |folded|    |         |
+ 3|   Cowabunga                |   61250 |     300 |folded|    |         |
+ 4|   BluffaloBill             |   52300 |     300 |folded|    |         |
+ 5|>  Sandy                    |   35700 |   15300 |folded|    |         |
+ 6|D  Britney                  |  109875 |     300 |folded|    |         |
+ 7|   Baldgriff                |       0 |   93175 |all-in|    |         |
+ 8|   PMD                      |   71800 |    2300 |folded|    |         |
+ 9|   Vodka on the rocks       |  195650 |   15300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/04/20 11:36:06! Dealing a new hand
+! 02/04/20 11:36:06! Everyone antes $300
+! 02/04/20 11:36:06! Baldgriff blinds $1000
+! 02/04/20 11:36:06! PMD blinds $2000
+! 02/04/20 11:52:17! Vodka on the rocks raises $3000 to $5000 total 
+! 02/04/20 11:59:48! panfried folds
+! 02/04/20 11:59:48! JohnnyMac folds
+! 02/04/20 12:40:38! Cowabunga folds
+! 02/04/20 12:40:38! BluffaloBill folds
+! 02/04/20 15:12:53! Sandy calls 
+! 02/04/20 15:15:35! Britney folds
+! 02/04/20 15:23:29! Baldgriff calls 
+! 02/05/20 08:18:31! PMD folds
+
+! 02/05/20 08:18:31! Pot right ($19700), flopping/dealing/drawing cards
+! 02/05/20 08:18:31! 3 players
+! 02/05/20 08:18:31! Flopped cards: 7c 3s Js
+! 02/05/20 09:48:52! Baldgriff checks
+! 02/05/20 09:54:15! Vodka on the rocks bets $10000 
+! 02/05/20 12:01:55! Sandy calls 
+! 02/05/20 12:12:07! Baldgriff calls 
+
+! 02/05/20 12:12:07! Pot right ($49700), flopping/dealing/drawing cards
+! 02/05/20 12:12:07! 3 players
+! 02/05/20 12:12:07! Flopped card: 6d
+! 02/05/20 12:13:06! Baldgriff bets $77875 and is all in
+! 02/05/20 12:41:06! Vodka on the rocks folds
+! 02/05/20 12:55:55! Sandy folds
+! Hand over, no showdown
+! Current board is:  7c 3s Js 6d ?
+! Baldgriff wins $127575 (net $34400)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   panfried                 |  315400 |         |      |    |         |
+ 2|   JohnnyMac                |   59550 |         |      |    |         |
+ 3|   Cowabunga                |   61250 |         |      |    |         |
+ 4|   BluffaloBill             |   52300 |         |      |    |         |
+ 5|>  Sandy                    |   35700 |         |      |    |         |
+ 6|   Britney                  |  109875 |         |      |    |         |
+ 7|D  Baldgriff                |  127575 |         |      |    |         |
+ 8|   PMD                      |   71800 |         |      |    |         |
+ 9|   Vodka on the rocks       |  195650 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 201 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c20.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+We are now over 30 days in round "c".  Automatic
+table breaking and live redraws have been disabled.
+We will play until one or more tables gets below six
+players.  When that happens all tables will finish
+the current hand and a full redraw will occur into
+the "d" round.
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 15
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

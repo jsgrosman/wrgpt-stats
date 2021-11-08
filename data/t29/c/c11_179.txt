@@ -1,0 +1,120 @@
+Subject: [c11.10487] Holdem Game Broadcast Message(*)
+
+! Table c11, Hand 179, Day 93
+
+! Clark Olson calls 
+! Nightshift6 folds
+! Pot right ($127000), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 9s
+! Flopped card: Jd
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Zerksauce                |       0 |   57950 |all-in|    |         |
+ 2|>  Clark Olson              |    1500 |   57950 |      |    |         |
+ 3|   DaveKal                  |  201025 |     300 |folded|    |         |
+ 4|   denimmined               |   55450 |     300 |folded|    |         |
+ 5|   Slimbob                  |   95200 |     300 |folded|    |         |
+ 6|   not66                    |   76525 |     300 |folded|    |         |
+ 7|   Tony Gurney              |   73125 |     300 |folded|    |         |
+ 8|D  Nightshift6              |  120775 |    8300 |folded|    |         |
+ 9|   All In a daze work       |  219075 |    1300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/03/20 11:28:22! Dealing a new hand
+! 02/03/20 11:28:22! Everyone antes $300
+! 02/03/20 11:28:22! All In a daze work blinds $1000
+! 02/03/20 11:28:22! Zerksauce blinds $2000
+! 02/03/20 12:42:00! Clark Olson raises $6000 to $8000 total 
+! 02/03/20 12:52:13! DaveKal folds
+! 02/03/20 13:10:28! denimmined folds
+! 02/03/20 14:04:40! Slimbob folds
+! 02/03/20 14:04:40! not66 folds
+! 02/04/20 00:58:04! Tony Gurney folds
+! 02/04/20 06:30:44! Nightshift6 calls 
+! 02/04/20 08:08:25! All In a daze work folds
+! 02/04/20 08:18:45! Zerksauce calls 
+
+! 02/04/20 08:18:45! Pot right ($27700), flopping/dealing/drawing cards
+! 02/04/20 08:18:45! 3 players
+! 02/04/20 08:18:45! Flopped cards: Jc Kc 6s
+! 02/04/20 08:23:03! Zerksauce bets $49650 and is all in
+! 02/04/20 08:35:57! Clark Olson calls 
+! 02/04/20 08:35:57! Nightshift6 folds
+
+! 02/04/20 08:35:57! Pot right ($127000), flopping/dealing/drawing cards
+! 02/04/20 08:35:57! 2 players, 1 all in
+! 02/04/20 08:35:57! Flopped card: 9s
+! 02/04/20 08:35:57! Flopped card: Jd
+! Hand over, current board is:  Jc Kc 6s 9s Jd
+! Zerksauce                has: Ah 10d
+! Clark Olson              has: Ad Qd
+! Clark Olson wins $127000 (net $69050) with One Pair (J J A K Q)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|>  Clark Olson              |  128500 |         |      |    |         |
+ 3|   DaveKal                  |  201025 |         |      |    |         |
+ 4|   denimmined               |   55450 |         |      |    |         |
+ 5|   Slimbob                  |   95200 |         |      |    |         |
+ 6|   not66                    |   76525 |         |      |    |         |
+ 7|   Tony Gurney              |   73125 |         |      |    |         |
+ 8|   Nightshift6              |  120775 |         |      |    |         |
+ 9|D  All In a daze work       |  219075 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Zerksauce is eliminated!
+! 208 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c11.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+We are now over 30 days in round "c".  Automatic
+table breaking and live redraws have been disabled.
+We will play until one or more tables gets below six
+players.  When that happens all tables will finish
+the current hand and a full redraw will occur into
+the "d" round.
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 7
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

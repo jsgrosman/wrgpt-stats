@@ -1,0 +1,117 @@
+Subject: [b2.10993] Holdem Game Broadcast Message(*)
+
+! Table b2, Hand 86, Day 60
+
+! Buggzilla calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Frank Russomanno         |   79850 |     100 |folded|    |         |
+ 2|   Taki                     |   28125 |     100 |folded|    |         |
+ 3|D  David Kuznick            |   52600 |     100 |folded|    |         |
+ 4|   Crunch                   |   45900 |     350 |folded|    |         |
+ 7|>  StingRay                 |   20000 |   19050 |      |    |         |
+ 8|   Buggzilla                |  138300 |   19050 |      |    |         |
+ 9|   janie                    |   59300 |    2100 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/01/20 18:26:31! Dealing a new hand
+! 01/01/20 18:26:31! Everyone antes $100
+! 01/01/20 18:26:31! Crunch blinds $250
+! 01/01/20 18:26:31! StingRay blinds $500
+! 01/01/20 19:03:45! Buggzilla raises $1500 to $2000 total 
+! 01/01/20 19:37:14! janie calls 
+! 01/01/20 19:46:31! Frank Russomanno folds
+! 01/01/20 21:06:47! Taki folds
+! 01/01/20 21:06:47! David Kuznick folds
+! 01/01/20 21:18:57! Crunch folds
+! 01/01/20 21:38:11! StingRay calls 
+
+! 01/01/20 21:38:11! Pot right ($6950), flopping/dealing/drawing cards
+! 01/01/20 21:38:11! 3 players
+! 01/01/20 21:38:11! Flopped cards: 4d Ac Qs
+! 01/01/20 21:38:37! StingRay checks
+! 01/02/20 05:25:44! Buggzilla bets $5000 
+! 01/02/20 06:55:29! janie folds
+! 01/02/20 07:02:25! StingRay calls 
+
+! 01/02/20 07:02:25! Pot right ($16950), flopping/dealing/drawing cards
+! 01/02/20 07:02:25! 2 players
+! 01/02/20 07:02:25! Flopped card: 3d
+! 01/02/20 07:02:55! StingRay checks
+! 01/02/20 07:04:11! Buggzilla checks
+
+! 01/02/20 07:04:11! Pot right ($16950), flopping/dealing/drawing cards
+! 01/02/20 07:04:11! 2 players
+! 01/02/20 07:04:11! Flopped card: 5h
+! 01/02/20 07:11:52! StingRay bets $11950 
+! 01/02/20 07:20:18! Buggzilla calls 
+! Hand over, current board is:  4d Ac Qs 3d 5h
+! StingRay                 has: Qh 10d
+! Buggzilla                has: Ah 10c
+! Buggzilla wins $40850 (net $21800) with One Pair (A A Q 10 5)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Frank Russomanno         |   79850 |         |      |    |         |
+ 2|   Taki                     |   28125 |         |      |    |         |
+ 3|   David Kuznick            |   52600 |         |      |    |         |
+ 4|D  Crunch                   |   45900 |         |      |    |         |
+ 7|>  StingRay                 |   20000 |         |      |    |         |
+ 8|   Buggzilla                |  179150 |         |      |    |         |
+ 9|   janie                    |   59300 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 346 players left in the tournament, 9 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b2.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+After day 45 of the tourney there will be no
+more live redraws or breaking tables.  Tables
+will be allowed to run until a table gets to 
+five or fewer players at which time all tables
+will finish the current hand and a full, random
+redraw to all new tables will be done.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 59
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

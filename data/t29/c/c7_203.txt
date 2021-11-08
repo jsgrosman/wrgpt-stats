@@ -1,0 +1,120 @@
+Subject: [c7.10680] Holdem Game Broadcast Message(*)
+
+! Table c7, Hand 203, Day 100
+
+! Dario checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   1985 M Building Champ    |   83350 |     400 |folded|    |         |
+ 2|   janie                    |   79800 |     400 |folded|    |         |
+ 3|>  Piney Boy                |   37150 |   44400 |      |    |         |
+ 4|   BigElmo                  |   59750 |     400 |folded|    |         |
+ 5|   Dario                    |   61175 |   44400 |      |    |         |
+ 6|D  Per Starback             |   97325 |     400 |folded|    |         |
+ 7|   CountFlop                |   63225 |    2000 |folded|    |         |
+ 9|V  Taki                     |   13475 |    3600 |  busy|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/10/20 10:09:36! Dealing a new hand
+! 02/10/20 10:09:36! Everyone antes $400
+! 02/10/20 10:09:36! CountFlop blinds $1600
+! 02/10/20 10:09:36! Taki blinds $3200
+! 02/10/20 11:27:27! 1985 M Building Champ folds
+! 02/10/20 12:39:20! janie folds
+! 02/10/20 15:41:03! Piney Boy raises $3200 to $6400 total 
+! 02/10/20 15:41:03! BigElmo folds
+! 02/10/20 15:41:03! Dario raises $3600 to $10000 total 
+! 02/10/20 22:14:53! Per Starback folds
+! 02/11/20 07:10:51! CountFlop folds
+! 02/11/20 07:10:51! Taki is on vacation and folds
+! 02/11/20 07:32:17! Piney Boy calls 
+
+! 02/11/20 07:32:17! Pot right ($28000), flopping/dealing/drawing cards
+! 02/11/20 07:32:17! 2 players
+! 02/11/20 07:32:17! Flopped cards: Qh 5s 5c
+! 02/11/20 07:34:57! Piney Boy bets $14000 
+! 02/11/20 08:20:19! Dario calls 
+
+! 02/11/20 08:20:19! Pot right ($56000), flopping/dealing/drawing cards
+! 02/11/20 08:20:19! 2 players
+! 02/11/20 08:20:19! Flopped card: 8d
+! 02/11/20 08:21:50! Piney Boy checks
+! 02/11/20 08:23:28! Dario bets $20000 
+! 02/11/20 08:24:47! Piney Boy calls 
+
+! 02/11/20 08:24:47! Pot right ($96000), flopping/dealing/drawing cards
+! 02/11/20 08:24:47! 2 players
+! 02/11/20 08:24:47! Flopped card: 6h
+! 02/11/20 08:25:43! Piney Boy checks
+! 02/11/20 08:26:31! Dario checks
+! Hand over, current board is:  Qh 5s 5c 8d 6h
+! Piney Boy                has: 7s 7d
+! Dario                    has: Ah 8h
+! Dario wins $96000 (net $51600) with Two Pair (8 8 5 5 A)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   1985 M Building Champ    |   83350 |         |      |    |         |
+ 2|   janie                    |   79800 |         |      |    |         |
+ 3|>  Piney Boy                |   37150 |         |      |    |         |
+ 4|   BigElmo                  |   59750 |         |      |    |         |
+ 5|   Dario                    |  157175 |         |      |    |         |
+ 6|   Per Starback             |   97325 |         |      |    |         |
+ 7|D  CountFlop                |   63225 |         |      |    |         |
+ 9|V  Taki                     |   13475 |         |  busy|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 182 players left in the tournament, 3 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c7.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+We are now over 30 days in round "c".  Automatic
+table breaking and live redraws have been disabled.
+We will play until one or more tables gets below six
+players.  When that happens all tables will finish
+the current hand and a full redraw will occur into
+the "d" round.
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 34
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

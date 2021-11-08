@@ -1,0 +1,114 @@
+Subject: [c6.10439] Holdem Game Broadcast Message(*)
+
+! Table c6, Hand 187, Day 85
+
+! Neil Boyce calls - side pot
+! Pot right ($190925), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped card: 4d
+! Flopped card: Qh
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Elmis                    |   84000 |    1300 |folded|    |         |
+ 2|   Dino Bravo               |  136175 |    2300 |folded|    |         |
+ 3|   FingerCramp              |   27550 |     300 |folded|    |         |
+ 4|   TRC Expert               |   70350 |     300 |folded|    |         |
+ 5|>  Neil Boyce               |       0 |   36325 |all-in|  2 |   77750 |
+ 6|   Samueladams              |   44525 |     300 |folded|    |         |
+ 7|   Wrongfellow              |   84350 |     300 |folded|    |         |
+ 8|   jpawloski                |       0 |  149500 |all-in|  1 |  113175 |
+ 9|D  Mark Ito                 |   96550 |     300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/27/20 14:22:19! Dealing a new hand
+! 01/27/20 14:22:19! Everyone antes $300
+! 01/27/20 14:22:19! Elmis blinds $1000
+! 01/27/20 14:22:19! Dino Bravo blinds $2000
+! 01/27/20 14:25:22! FingerCramp folds
+! 01/27/20 14:51:59! TRC Expert folds
+! 01/27/20 14:56:31! Neil Boyce calls 
+! 01/27/20 14:57:08! Samueladams folds
+! 01/27/20 14:57:08! Wrongfellow folds
+! 01/27/20 15:07:36! jpawloski raises $3500 to $5500 total 
+! 01/27/20 15:07:36! Mark Ito folds
+! 01/27/20 21:37:20! Elmis folds
+! 01/27/20 21:37:20! Dino Bravo folds
+! 01/27/20 21:49:35! Neil Boyce calls 
+
+! 01/27/20 21:49:35! Pot right ($16700), flopping/dealing/drawing cards
+! 01/27/20 21:49:35! 2 players
+! 01/27/20 21:49:35! Flopped cards: 2h Jh As
+! 01/27/20 21:51:04! Neil Boyce bets $8000 
+! 01/27/20 21:54:48! jpawloski raises $135700 to $143700 total and is all in
+! 01/27/20 22:04:28! Neil Boyce calls - side pot
+
+! 01/27/20 22:04:28! Pot right ($190925), flopping/dealing/drawing cards
+! 01/27/20 22:04:28! 2 players, 2 all in
+! 01/27/20 22:04:28! Flopped card: 4d
+! 01/27/20 22:04:28! Flopped card: Qh
+! Hand over, current board is:  2h Jh As 4d Qh
+! Neil Boyce               has: Ac 8c
+! jpawloski                has: 10s Ad
+! Pot 1: uncalled $113175 returned to jpawloski
+! Pot 2: jpawloski wins $77750 with One Pair (A A Q J 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  Elmis                    |   84000 |         |      |    |         |
+ 2|   Dino Bravo               |  136175 |         |      |    |         |
+ 3|   FingerCramp              |   27550 |         |      |    |         |
+ 4|   TRC Expert               |   70350 |         |      |    |         |
+ 6|   Samueladams              |   44525 |         |      |    |         |
+ 7|   Wrongfellow              |   84350 |         |      |    |         |
+ 8|   jpawloski                |  190925 |         |      |    |         |
+ 9|   Mark Ito                 |   96550 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Neil Boyce is eliminated!
+! 238 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c6.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 4
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

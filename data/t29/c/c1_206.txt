@@ -1,0 +1,113 @@
+Subject: [c1.10678] Holdem Game Broadcast Message(*)
+
+! Table c1, Hand 206, Day 90
+
+! Ryan Thomas bets $36000 
+! Blackcove folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Nyte                     |   33850 |       0 |New   |    |         |
+ 3|D  BBLWOG                   |  136300 |     300 |folded|    |         |
+ 4|>  Ryan Thomas              |   85200 |   53300 |      |    |         |
+ 5|   Blackcove                |  122850 |   17300 |folded|    |         |
+ 6|V  Charlie Tuna             |  158350 |     300 | 2 FEB|    |         |
+ 7|   Shari Silk               |  161600 |     300 |folded|    |         |
+ 8|   Frank Russomanno         |  254500 |     300 |folded|    |         |
+ 9|   Frank O                  |  232025 |     300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/01/20 08:55:56! Dealing a new hand
+! 02/01/20 08:55:56! Everyone antes $300
+! 02/01/20 08:55:56! Ryan Thomas blinds $1000
+! 02/01/20 08:55:56! Blackcove blinds $2000
+! 02/01/20 08:55:56! Charlie Tuna is on vacation and folds
+! 02/01/20 08:59:49! Shari Silk folds
+! 02/01/20 10:35:13! New player added to the table: Nyte
+! 02/01/20 12:29:50! Frank Russomanno folds
+! 02/01/20 14:11:23! Frank O folds
+! 02/01/20 14:11:23! BBLWOG folds
+! 02/01/20 15:27:36! Ryan Thomas calls 
+! 02/01/20 19:19:34! Blackcove raises $5000 to $7000 total 
+! 02/01/20 19:25:54! Ryan Thomas calls 
+
+! 02/01/20 19:25:54! Pot right ($16100), flopping/dealing/drawing cards
+! 02/01/20 19:25:54! 2 players
+! 02/01/20 19:25:54! Flopped cards: 7s Jd 2s
+! 02/01/20 19:29:24! Ryan Thomas checks
+! 02/01/20 19:30:42! Blackcove bets $10000 
+! 02/01/20 19:31:23! Ryan Thomas calls 
+
+! 02/01/20 19:31:23! Pot right ($36100), flopping/dealing/drawing cards
+! 02/01/20 19:31:23! 2 players
+! 02/01/20 19:31:23! Flopped card: 6s
+! 02/01/20 19:32:07! Ryan Thomas checks
+! 02/01/20 19:47:44! Blackcove checks
+
+! 02/01/20 19:47:44! Pot right ($36100), flopping/dealing/drawing cards
+! 02/01/20 19:47:44! 2 players
+! 02/01/20 19:47:44! Flopped card: Ac
+! 02/01/20 19:53:01! Ryan Thomas bets $36000 
+! 02/01/20 19:53:01! Blackcove folds
+! Hand over, no showdown
+! Current board is:  7s Jd 2s 6s Ac
+! Ryan Thomas wins $72100 (net $18800)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Nyte                     |   33850 |         |      |    |         |
+ 3|   BBLWOG                   |  136300 |         |      |    |         |
+ 4|D> Ryan Thomas              |  157300 |         |      |    |         |
+ 5|   Blackcove                |  122850 |         |      |    |         |
+ 6|V  Charlie Tuna             |  158350 |         | 2 FEB|    |         |
+ 7|   Shari Silk               |  161600 |         |      |    |         |
+ 8|   Frank Russomanno         |  254500 |         |      |    |         |
+ 9|   Frank O                  |  232025 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 219 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c1.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

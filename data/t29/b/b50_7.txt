@@ -1,0 +1,120 @@
+Subject: [b50.10089] Holdem Game Broadcast Message(*)
+
+! Table b50, Hand 7, Day 4
+
+! Joker calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   sgranen                  |   44000 |       0 |folded|    |         |
+ 2|   Tiltdad                  |   49925 |       0 |folded|    |         |
+ 3|V  Joe Gunn                 |   49775 |       0 | NoSho|    |         |
+ 4|>  panfried                 |   52850 |   20850 |      |    |         |
+ 5|V  Carlos Jimnez            |   49775 |       0 | NoSho|    |         |
+ 6|   Poolshark                |   15075 |       0 |folded|    |         |
+ 7|D  Fredrik Westerlund       |   63825 |     375 |folded|    |         |
+ 8|   Joker                    |   32325 |   20850 |      |    |         |
+ 9|   GunsNRoses               |   50225 |     150 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/07/19 07:50:07! Dealing a new hand
+! 11/07/19 07:50:07! No ante
+! 11/07/19 07:50:07! Joker blinds $75
+! 11/07/19 07:50:07! GunsNRoses blinds $150
+! 11/07/19 07:51:32! sgranen folds
+! 11/07/19 08:28:55! Tiltdad folds
+! 11/07/19 08:28:55! Joe Gunn is on vacation and folds
+! 11/07/19 09:04:24! panfried calls 
+! 11/07/19 09:04:24! Carlos Jimnez is on vacation and folds
+! 11/07/19 09:04:24! Poolshark folds
+! 11/07/19 09:49:48! Fredrik Westerlund calls 
+! 11/07/19 10:17:27! Joker raises $225 to $375 total 
+! 11/07/19 10:55:23! GunsNRoses folds
+! 11/07/19 11:13:49! panfried calls 
+! 11/07/19 11:13:49! Fredrik Westerlund calls 
+
+! 11/07/19 11:13:49! Pot right ($1275), flopping/dealing/drawing cards
+! 11/07/19 11:13:49! 3 players
+! 11/07/19 11:13:49! Flopped cards: 2h 4s 3d
+! 11/07/19 12:02:33! Joker bets $700 
+! 11/07/19 12:12:37! panfried raises $700 to $1400 total 
+! 11/07/19 12:12:37! Fredrik Westerlund folds
+! 11/07/19 12:57:43! Joker calls 
+
+! 11/07/19 12:57:43! Pot right ($4075), flopping/dealing/drawing cards
+! 11/07/19 12:57:43! 2 players
+! 11/07/19 12:57:43! Flopped card: Jd
+! 11/07/19 13:04:49! Joker checks
+! 11/07/19 13:13:31! panfried bets $4075 
+! 11/07/19 13:43:57! Joker calls 
+
+! 11/07/19 13:43:57! Pot right ($12225), flopping/dealing/drawing cards
+! 11/07/19 13:43:57! 2 players
+! 11/07/19 13:43:57! Flopped card: 8c
+! 11/07/19 13:44:39! Joker bets $6200 
+! 11/07/19 14:04:21! panfried raises $8800 to $15000 total 
+! 11/07/19 14:04:49! Joker calls 
+! Hand over, current board is:  2h 4s 3d Jd 8c
+! panfried                 has: Ah 5c
+! Joker                    has: Qs Qh
+! panfried wins $42225 (net $21375) with Straight (5 4 3 2 A)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   sgranen                  |   44000 |         |      |    |         |
+ 2|   Tiltdad                  |   49925 |         |      |    |         |
+ 3|V  Joe Gunn                 |   49775 |         | NoSho|    |         |
+ 4|>  panfried                 |   95075 |         |      |    |         |
+ 5|V  Carlos Jimnez            |   49775 |         | NoSho|    |         |
+ 6|   Poolshark                |   15075 |         |      |    |         |
+ 7|   Fredrik Westerlund       |   63825 |         |      |    |         |
+ 8|D  Joker                    |   32325 |         |      |    |         |
+ 9|   GunsNRoses               |   50225 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 536 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b50.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+This is the REAL WRGPT29.
+Changes to office hours and email addresses do not carry over from the
+practice round.
+You have been assigned a new ID and the round is "b".
+
+Good luck.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

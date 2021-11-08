@@ -1,0 +1,123 @@
+Subject: [c15.10030] Holdem Game Broadcast Message(*)
+
+! Table c15, Hand 146, Day 63
+
+! SN calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Crunch                   |   44000 |    1200 |folded|    |         |
+ 2|D  SN                       |   39450 |    4800 |      |    |         |
+ 3|   Siri play Nickelback     |   92450 |     600 |folded|    |         |
+ 4|   ScoobySnack              |   45325 |     600 |folded|    |         |
+ 5|   Deborah Abel             |   49550 |     100 |folded|    |         |
+ 6|>  Ableseaman               |   83100 |    4800 |      |    |         |
+ 7|   MichaelJ                 |   55925 |     100 |folded|    |         |
+ 8|   AveCat                   |  109650 |     100 |folded|    |         |
+ 9|   mshulm1                  |   27900 |     100 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/04/20 14:39:00! Dealing a new hand
+! 01/04/20 14:39:00! Everyone antes $100
+! 01/04/20 14:39:00! Siri play Nickelback blinds $250
+! 01/04/20 14:39:00! ScoobySnack blinds $500
+! 01/04/20 14:39:40! Deborah Abel folds
+! 01/04/20 15:18:19! Ableseaman calls 
+! 01/04/20 15:18:19! MichaelJ is on vacation and folds
+! 01/04/20 15:18:19! AveCat folds
+! 01/04/20 17:22:07! mshulm1 folds
+! 01/04/20 17:25:24! Crunch calls 
+! 01/04/20 21:34:57! SN calls 
+! 01/05/20 05:24:58! Siri play Nickelback calls 
+! 01/05/20 05:24:58! ScoobySnack checks
+
+! 01/05/20 05:24:58! Pot right ($3400), flopping/dealing/drawing cards
+! 01/05/20 05:24:58! 5 players
+! 01/05/20 05:24:58! Flopped cards: 7h 3s 8s
+! 01/05/20 05:26:00! Siri play Nickelback checks
+! 01/05/20 07:52:36! ScoobySnack checks
+! 01/05/20 08:00:19! Ableseaman checks
+! 01/05/20 09:11:33! Crunch checks
+! 01/05/20 12:27:43! SN bets $600 
+! 01/05/20 12:27:43! Siri play Nickelback folds
+! 01/05/20 14:32:33! ScoobySnack folds
+! 01/05/20 14:44:42! MichaelJ is back from vacation
+! 01/05/20 15:03:09! Ableseaman calls 
+! 01/05/20 15:11:22! Crunch calls 
+
+! 01/05/20 15:11:22! Pot right ($5200), flopping/dealing/drawing cards
+! 01/05/20 15:11:22! 3 players
+! 01/05/20 15:11:22! Flopped card: 7d
+! 01/05/20 15:18:11! Ableseaman bets $1200 
+! 01/05/20 15:21:28! Crunch folds
+! 01/05/20 16:23:26! SN calls 
+
+! 01/05/20 16:23:26! Pot right ($7600), flopping/dealing/drawing cards
+! 01/05/20 16:23:26! 2 players
+! 01/05/20 16:23:26! Flopped card: 10s
+! 01/05/20 16:24:56! Ableseaman bets $2400 
+! 01/05/20 17:07:31! SN calls 
+! Hand over, current board is:  7h 3s 8s 7d 10s
+! SN                       has: 8h Ac
+! Ableseaman               has: Qc 10c
+! Ableseaman wins $12400 (net $7600) with Two Pair (10 10 7 7 Q)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Crunch                   |   44000 |         |      |    |         |
+ 2|   SN                       |   39450 |         |      |    |         |
+ 3|D  Siri play Nickelback     |   92450 |         |      |    |         |
+ 4|   ScoobySnack              |   45325 |         |      |    |         |
+ 5|   Deborah Abel             |   49550 |         |      |    |         |
+ 6|>  Ableseaman               |   95500 |         |      |    |         |
+ 7|   MichaelJ                 |   55925 |         |      |    |         |
+ 8|   AveCat                   |  109650 |         |      |    |         |
+ 9|   mshulm1                  |   27900 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 336 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c15.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 7
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

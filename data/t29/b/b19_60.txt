@@ -1,0 +1,137 @@
+Subject: [b19.10853] Holdem Game Broadcast Message(*)
+
+! Table b19, Hand 60, Day 47
+
+! asypta calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Donald Neilson           |   58600 |      50 |folded|    |         |
+ 2|   Nick Name                |   40700 |     450 |folded|    |         |
+ 3|   Josh Goldshlag           |   93625 |    5450 |folded|    |         |
+ 4|   SongMonk                 |  125650 |      50 |folded|    |         |
+ 5|   asypta                   |   72800 |    8450 |      |    |         |
+ 6|D  DouglasT                 |   95075 |      50 |folded|    |         |
+ 7|   IReilly                  |   91700 |     450 |folded|    |         |
+ 8|>  KDR118                   |   42325 |    8450 |      |    |         |
+ 9|   Michael Brennan          |   35850 |      50 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/19/19 06:16:48! Dealing a new hand
+! 12/19/19 06:16:48! Everyone antes $50
+! 12/19/19 06:16:48! IReilly blinds $200
+! 12/19/19 06:16:48! KDR118 blinds $400
+! 12/19/19 08:52:47! Michael Brennan folds
+! 12/19/19 08:54:13! Donald Neilson folds
+! 12/19/19 11:01:00! Nick Name calls 
+! 12/19/19 11:10:03! Josh Goldshlag calls 
+! 12/19/19 11:10:03! SongMonk folds
+_____________________________________________________________________________
+
+! You're going to need to raise to get people to fold.
+! On Thu, Dec 19, 2019 at 11:10 AM <dealer@wrgpt.org> wrote:
+! (dealer suppressed lines starting with '>' or ':')
+! -- asypta --
+_____________________________________________________________________________
+
+! 12/19/19 11:10:51! asypta calls 
+! 12/19/19 11:10:51! DouglasT folds
+! 12/19/19 12:16:26! IReilly calls 
+! 12/19/19 13:18:57! KDR118 checks
+
+! 12/19/19 13:18:57! Pot right ($2450), flopping/dealing/drawing cards
+! 12/19/19 13:18:57! 5 players
+! 12/19/19 13:18:57! Flopped cards: 2c 8s 3d
+! 12/19/19 16:01:16! IReilly checks
+! 12/19/19 16:11:57! KDR118 bets $2000 
+! 12/19/19 23:17:07! Nick Name folds
+! 12/20/19 04:38:47! Josh Goldshlag calls 
+! 12/20/19 08:40:28! asypta calls 
+! 12/20/19 08:40:28! IReilly folds
+
+! 12/20/19 08:40:28! Pot right ($8450), flopping/dealing/drawing cards
+! 12/20/19 08:40:28! 3 players
+! 12/20/19 08:40:28! Flopped card: 4s
+! 12/20/19 08:43:02! KDR118 bets $3000 
+! 12/20/19 08:56:20! Josh Goldshlag calls 
+! 12/20/19 08:59:32! asypta calls 
+
+! 12/20/19 08:59:32! Pot right ($17450), flopping/dealing/drawing cards
+! 12/20/19 08:59:32! 3 players
+! 12/20/19 08:59:32! Flopped card: 3h
+! 12/20/19 09:17:25! KDR118 bets $3000 
+! 12/20/19 13:19:02! Josh Goldshlag folds
+! 12/20/19 13:26:57! asypta calls 
+! Hand over, current board is:  2c 8s 3d 4s 3h
+! asypta                   has: Qh 8d
+! KDR118                   has: 4d 2d
+! asypta wins $23450 (net $15000) with Two Pair (8 8 3 3 Q)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Donald Neilson           |   58600 |         |      |    |         |
+ 2|   Nick Name                |   40700 |         |      |    |         |
+ 3|   Josh Goldshlag           |   93625 |         |      |    |         |
+ 4|   SongMonk                 |  125650 |         |      |    |         |
+ 5|   asypta                   |   96250 |         |      |    |         |
+ 6|   DouglasT                 |   95075 |         |      |    |         |
+ 7|D  IReilly                  |   91700 |         |      |    |         |
+ 8|>  KDR118                   |   42325 |         |      |    |         |
+ 9|   Michael Brennan          |   35850 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Josh Goldshlag timed out during this hand
+! DouglasT went on vacation until <Gone>
+! 383 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b19.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+After day 45 of the tourney there will be no
+more live redraws or breaking tables.  Tables
+will be allowed to run until a table gets to 
+five or fewer players at which time all tables
+will finish the current hand and a full, random
+redraw to all new tables will be done.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 22
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

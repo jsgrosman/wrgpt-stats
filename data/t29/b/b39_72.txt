@@ -1,0 +1,58 @@
+Subject: [b39.10915] Holdem Game Broadcast Message(*)
+
+! Table b39, Hand 72, Day 56
+
+! Swamper BFJ folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Bobby the Worm           |   61275 |      50 |folded|    |         |
+ 2|>  beacon bot               |  179250 |    2150 |      |    |         |
+ 3|   Larry Stone              |  182275 |      50 |folded|    |         |
+ 5|D  Chris Danek              |   97975 |      50 |folded|    |         |
+ 6|   mshulm1                  |   34700 |     250 |folded|    |         |
+ 7|   Swamper BFJ              |   56675 |     450 |folded|    |         |
+ 8|V  BlindMonkey              |   49125 |      50 | Jan 1|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/28/19 17:07:12! Dealing a new hand
+! 12/28/19 17:07:12! Everyone antes $50
+! 12/28/19 17:07:12! mshulm1 blinds $200
+! 12/28/19 17:07:12! Swamper BFJ blinds $400
+! 12/28/19 17:07:12! BlindMonkey is on vacation and folds
+! 12/28/19 19:27:55! Bobby the Worm folds
+! 12/28/19 20:30:05! beacon bot calls 
+! 12/28/19 20:30:05! Larry Stone folds
+! 12/28/19 21:01:27! Chris Danek folds
+! 12/28/19 22:37:52! mshulm1 folds
+! 12/29/19 03:46:38! Swamper BFJ checks
+
+! 12/29/19 03:46:38! Pot right ($1350), flopping/dealing/drawing cards
+! 12/29/19 03:46:38! 2 players
+! 12/29/19 03:46:38! Flopped cards: 3d Qh As
+! 12/29/19 03:47:09! Swamper BFJ checks
+! 12/29/19 06:52:20! beacon bot bets $1700 
+! 12/29/19 07:55:04! Swamper BFJ folds
+! Hand over, no showdown
+! Current board is:  3d Qh As ? ?
+! beacon bot wins $3050 (net $900)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Bobby the Worm           |   61275 |         |      |    |         |
+ 2|>  beacon bot               |  182300 |         |      |    |         |
+ 3|   Larry Stone              |  182275 |         |      |    |         |
+ 5|   Chris Danek              |   97975 |         |      |    |         |
+ 6|D  mshulm1                  |   34700 |         |      |    |         |
+ 7|   Swamper BFJ              |   56675 |         |      |    |         |
+ 8|V  BlindMonkey              |   49125 |         | Jan 1|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 363 players left in the tournament, 3 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b39.html
+
+TOURNEY INFORMATION
+
+Your automated Holdem dealer

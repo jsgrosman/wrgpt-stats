@@ -1,0 +1,117 @@
+Subject: [b46.10451] Holdem Game Broadcast Message(*)
+
+! Table b46, Hand 32, Day 21
+
+! dgr checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Jim Anderson             |   49375 |     300 |folded|    |         |
+ 2|   TomasL                   |   69625 |       0 |folded|    |         |
+ 3|   Charles Moore            |   49325 |       0 |folded|    |         |
+ 4|   Dwayne Martins           |   66575 |       0 |folded|    |         |
+ 5|   Kimbo                    |   51150 |       0 |folded|    |         |
+ 7|   Britney                  |   68100 |       0 |folded|    |         |
+ 8|D  dgr                      |   90500 |     950 |      |    |         |
+ 9|>  NNR13                    |   55575 |     950 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/24/19 08:34:45! Dealing a new hand
+! 11/24/19 08:34:45! No ante
+! 11/24/19 08:34:45! NNR13 blinds $150
+! 11/24/19 08:34:45! Jim Anderson blinds $300
+! 11/24/19 10:31:24! TomasL folds
+! 11/24/19 10:31:24! Charles Moore folds
+! 11/24/19 10:31:24! Dwayne Martins folds
+! 11/24/19 14:51:59! Kimbo folds
+! 11/24/19 14:51:59! Britney folds
+! 11/24/19 15:37:50! dgr calls 
+! 11/24/19 15:37:50! NNR13 calls 
+! 11/24/19 15:37:50! Jim Anderson checks
+
+! 11/24/19 15:37:50! Pot right ($900), flopping/dealing/drawing cards
+! 11/24/19 15:37:50! 3 players
+! 11/24/19 15:37:50! Flopped cards: 2d 2h 4d
+! 11/24/19 15:53:25! NNR13 checks
+! 11/24/19 15:53:25! Jim Anderson checks
+! 11/24/19 16:02:42! dgr bets $650 
+! 11/24/19 16:03:40! NNR13 calls 
+! 11/24/19 16:03:40! Jim Anderson folds
+
+! 11/24/19 16:03:40! Pot right ($2200), flopping/dealing/drawing cards
+! 11/24/19 16:03:40! 2 players
+! 11/24/19 16:03:40! Flopped card: 10h
+! 11/24/19 16:04:39! NNR13 checks
+! 11/24/19 16:13:17! dgr checks
+
+! 11/24/19 16:13:17! Pot right ($2200), flopping/dealing/drawing cards
+! 11/24/19 16:13:17! 2 players
+! 11/24/19 16:13:17! Flopped card: Qc
+! 11/24/19 16:13:17! NNR13 checks
+! 11/24/19 16:15:56! dgr checks
+! Hand over, current board is:  2d 2h 4d 10h Qc
+! dgr                      has: 9h Ad
+! NNR13                    has: 3d 6c
+! dgr wins $2200 (net $1250) with One Pair (2 2 A Q 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Jim Anderson             |   49375 |         |      |    |         |
+ 2|   TomasL                   |   69625 |         |      |    |         |
+ 3|   Charles Moore            |   49325 |         |      |    |         |
+ 4|   Dwayne Martins           |   66575 |         |      |    |         |
+ 5|   Kimbo                    |   51150 |         |      |    |         |
+ 7|   Britney                  |   68100 |         |      |    |         |
+ 8|   dgr                      |   92700 |         |      |    |         |
+ 9|D> NNR13                    |   55575 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 499 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b46.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that have not come to the table by the end
+of day 30 will be removed.
+
+Players that are away from the tables for 45 days 
+will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 5
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

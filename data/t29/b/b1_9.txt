@@ -1,0 +1,125 @@
+Subject: [b1.10127] Holdem Game Broadcast Message(*)
+
+! Table b1, Hand 9, Day 16
+
+! TommyO bets $10000 
+! Andrew Prock folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   DroogieDroog             |   55950 |     450 |folded|    |         |
+ 2|   Andrew Prock             |   63000 |    3450 |folded|    |         |
+ 3|   DaveKal                  |   48875 |     450 |folded|    |         |
+ 4|   the cake is a pie        |   34800 |       0 |folded|    |         |
+ 5|   glorphy                  |   49775 |       0 |folded|    |         |
+ 6|>  TommyO                   |   31000 |   13450 |      |    |         |
+ 7|   Vodka on the rocks       |   42475 |     450 |folded|    |         |
+ 8|   jockamo                  |   56050 |     450 |folded|    |         |
+ 9|D  Hynes57                  |   47925 |    1450 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/16/19 14:16:45! Dealing a new hand
+! 11/16/19 14:16:45! No ante
+! 11/16/19 14:16:45! DroogieDroog blinds $75
+! 11/16/19 14:16:45! Andrew Prock blinds $150
+! 11/16/19 14:41:38! DaveKal raises $300 to $450 total 
+! 11/16/19 14:41:38! the cake is a pie folds
+! 11/16/19 18:15:08! glorphy folds
+! 11/17/19 04:37:10! TommyO calls 
+! 11/17/19 05:24:15! Vodka on the rocks calls 
+! 11/17/19 11:48:14! jockamo calls 
+! 11/17/19 11:48:14! Hynes57 calls 
+! 11/17/19 14:04:49! DroogieDroog calls 
+! 11/17/19 20:24:03! Andrew Prock calls 
+
+! 11/17/19 20:24:03! Pot right ($3150), flopping/dealing/drawing cards
+! 11/17/19 20:24:03! 7 players
+! 11/17/19 20:24:03! Flopped cards: Jc 4d 3h
+! 11/18/19 05:18:26! DroogieDroog checks
+! 11/18/19 09:27:34! Andrew Prock checks
+! 11/18/19 09:31:45! DaveKal checks
+! 11/18/19 10:05:30! TommyO bets $1000 
+! 11/18/19 10:55:37! Vodka on the rocks folds
+! 11/18/19 10:55:37! jockamo folds
+! 11/18/19 11:25:33! Hynes57 calls 
+! 11/18/19 14:43:40! DroogieDroog folds
+! 11/18/19 14:43:40! Andrew Prock calls 
+! 11/18/19 14:43:40! DaveKal folds
+
+! 11/18/19 14:43:40! Pot right ($6150), flopping/dealing/drawing cards
+! 11/18/19 14:43:40! 3 players
+! 11/18/19 14:43:40! Flopped card: Qc
+! 11/18/19 16:37:59! Andrew Prock checks
+! 11/18/19 16:37:59! TommyO bets $2000 
+! 11/18/19 18:24:06! Hynes57 folds
+! 11/18/19 18:24:06! Andrew Prock calls 
+
+! 11/18/19 18:24:06! Pot right ($10150), flopping/dealing/drawing cards
+! 11/18/19 18:24:06! 2 players
+! 11/18/19 18:24:06! Flopped card: As
+! 11/19/19 09:15:33! Andrew Prock checks
+! 11/19/19 09:17:34! TommyO bets $10000 
+! 11/19/19 09:17:34! Andrew Prock folds
+! Hand over, no showdown
+! Current board is:  Jc 4d 3h Qc As
+! TommyO wins $20150 (net $6700)
+! Antes and blinds go up
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  DroogieDroog             |   55950 |         |      |    |         |
+ 2|   Andrew Prock             |   63000 |         |      |    |         |
+ 3|   DaveKal                  |   48875 |         |      |    |         |
+ 4|   the cake is a pie        |   34800 |         |      |    |         |
+ 5|   glorphy                  |   49775 |         |      |    |         |
+ 6|>  TommyO                   |   51150 |         |      |    |         |
+ 7|   Vodka on the rocks       |   42475 |         |      |    |         |
+ 8|   jockamo                  |   56050 |         |      |    |         |
+ 9|   Hynes57                  |   47925 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 511 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b1.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Good luck.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 2
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

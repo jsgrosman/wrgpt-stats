@@ -1,0 +1,124 @@
+Subject: [b42.11058] Holdem Game Broadcast Message(*)
+
+! Table b42, Hand 86, Day 56
+
+! Dario checks
+! Mark-Ed Cards checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Cowabunga                |   36675 |     250 |folded|    |         |
+ 2|   shaneless                |   51350 |     450 |folded|    |         |
+ 3|   Rcheney                  |       0 |   15025 |all-in|    |         |
+ 4|>  Dario                    |   97675 |   15025 |      |    |         |
+ 5|   Mark-Ed Cards            |  154200 |   15025 |      |    |         |
+ 6|   BT                       |   99050 |      50 |folded|    |         |
+ 7|   Statistical Tie          |   88250 |    1650 |folded|    |         |
+ 8|D  Redbird                  |   97800 |      50 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/29/19 11:37:01! Dealing a new hand
+! 12/29/19 11:37:01! Everyone antes $50
+! 12/29/19 11:37:01! Cowabunga blinds $200
+! 12/29/19 11:37:01! shaneless blinds $400
+! 12/29/19 11:59:16! Rcheney calls 
+! 12/29/19 12:03:06! Dario raises $1200 to $1600 total 
+! 12/29/19 12:03:06! Mark-Ed Cards calls 
+! 12/29/19 12:03:06! BT folds
+! 12/29/19 12:09:22! Statistical Tie calls 
+! 12/29/19 12:27:56! Redbird folds
+! 12/29/19 13:28:47! Cowabunga folds
+! 12/29/19 13:28:47! shaneless folds
+! 12/29/19 13:28:47! Rcheney raises $13375 to $14975 total and is all in
+! 12/29/19 15:01:13! Dario calls 
+! 12/29/19 15:01:13! Mark-Ed Cards calls 
+! 12/29/19 15:01:13! Statistical Tie folds
+
+! 12/29/19 15:01:13! Pot right ($47525), flopping/dealing/drawing cards
+! 12/29/19 15:01:13! 3 players, 1 all in
+! 12/29/19 15:01:13! Flopped cards: 9d 9h 2s
+! 12/29/19 15:01:58! Dario checks
+! 12/29/19 15:11:18! Mark-Ed Cards checks
+
+! 12/29/19 15:11:18! Pot right ($47525), flopping/dealing/drawing cards
+! 12/29/19 15:11:18! 3 players, 1 all in
+! 12/29/19 15:11:18! Flopped card: 6h
+! 12/29/19 15:11:18! Dario checks
+! 12/29/19 15:12:03! Mark-Ed Cards checks
+
+! 12/29/19 15:12:03! Pot right ($47525), flopping/dealing/drawing cards
+! 12/29/19 15:12:03! 3 players, 1 all in
+! 12/29/19 15:12:03! Flopped card: 9c
+! 12/29/19 17:46:19! Dario checks
+! 12/29/19 17:46:19! Mark-Ed Cards checks
+! Hand over, current board is:  9d 9h 2s 6h 9c
+! Rcheney                  has: As 4c
+! Dario                    has: 3h 3d
+! Mark-Ed Cards            has: 10s Kh
+! Dario wins $47525 (net $32500) with Full House (9 9 9 3 3)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  Cowabunga                |   36675 |         |      |    |         |
+ 2|   shaneless                |   51350 |         |      |    |         |
+ 4|>  Dario                    |  145200 |         |      |    |         |
+ 5|   Mark-Ed Cards            |  154200 |         |      |    |         |
+ 6|   BT                       |   99050 |         |      |    |         |
+ 7|   Statistical Tie          |   88250 |         |      |    |         |
+ 8|   Redbird                  |   97800 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Rcheney is eliminated!
+! 360 players left in the tournament, 3 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b42.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+After day 45 of the tourney there will be no
+more live redraws or breaking tables.  Tables
+will be allowed to run until a table gets to 
+five or fewer players at which time all tables
+will finish the current hand and a full, random
+redraw to all new tables will be done.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 44
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,120 @@
+Subject: [b3.10590] Holdem Game Broadcast Message(*)
+
+! Table b3, Hand 49, Day 30
+
+! Dave Weiss calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   beowulf                  |   21400 |      25 |folded|    |         |
+ 2|   JohnnyMac                |   99800 |     325 |folded|    |         |
+ 3|>  Robert Christ            |   50500 |    8325 |      |    |         |
+ 4|D  Anonymous                |   44875 |      25 |folded|    |         |
+ 5|   Dave Weiss               |   52350 |    8325 |      |    |         |
+ 6|V  Kit Woolsey              |   44650 |     325 |<Gone>|    |         |
+ 7|   Another player           |   65075 |      25 |folded|    |         |
+ 8|   Jeff Goff                |   35175 |      25 |folded|    |         |
+ 9|   Dj Coates                |   57775 |      25 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/03/19 00:04:12! Dealing a new hand
+! 12/03/19 00:04:12! Everyone antes $25
+! 12/03/19 00:04:12! Dave Weiss blinds $150
+! 12/03/19 00:04:12! Kit Woolsey blinds $300
+! 12/03/19 05:16:54! Another player folds
+! 12/03/19 05:16:54! Jeff Goff folds
+! 12/03/19 06:09:41! Dj Coates folds
+! 12/03/19 06:09:41! beowulf folds
+! 12/03/19 06:09:41! JohnnyMac calls 
+! 12/03/19 09:06:59! Robert Christ calls 
+! 12/03/19 09:06:59! Anonymous folds
+! 12/03/19 09:06:59! Dave Weiss calls 
+! 12/03/19 09:06:59! Kit Woolsey is on vacation and checks
+
+! 12/03/19 09:06:59! Pot right ($1425), flopping/dealing/drawing cards
+! 12/03/19 09:06:59! 4 players
+! 12/03/19 09:06:59! Flopped cards: 3d 6h 8s
+! 12/03/19 09:11:56! Dave Weiss bets $1000 
+! 12/03/19 09:11:56! Kit Woolsey is on vacation and folds
+! 12/03/19 09:31:28! JohnnyMac folds
+! 12/03/19 09:41:32! Robert Christ calls 
+
+! 12/03/19 09:41:32! Pot right ($3425), flopping/dealing/drawing cards
+! 12/03/19 09:41:32! 2 players
+! 12/03/19 09:41:32! Flopped card: 9h
+! 12/03/19 09:43:11! Dave Weiss bets $2000 
+! 12/03/19 09:49:14! Robert Christ calls 
+
+! 12/03/19 09:49:14! Pot right ($7425), flopping/dealing/drawing cards
+! 12/03/19 09:49:14! 2 players
+! 12/03/19 09:49:14! Flopped card: 5s
+! 12/03/19 09:53:11! Dave Weiss checks
+! 12/03/19 09:56:10! Robert Christ bets $5000 
+! 12/03/19 09:57:52! Dave Weiss calls 
+! Hand over, current board is:  3d 6h 8s 9h 5s
+! Robert Christ            has: 8c 7c
+! Dave Weiss               has: 4h 6d
+! Robert Christ wins $17425 (net $9100) with Straight (9 8 7 6 5)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   beowulf                  |   21400 |         |      |    |         |
+ 2|   JohnnyMac                |   99800 |         |      |    |         |
+ 3|>  Robert Christ            |   67925 |         |      |    |         |
+ 4|   Anonymous                |   44875 |         |      |    |         |
+ 5|D  Dave Weiss               |   52350 |         |      |    |         |
+ 6|V  Kit Woolsey              |   44650 |         |<Gone>|    |         |
+ 7|   Another player           |   65075 |         |      |    |         |
+ 8|   Jeff Goff                |   35175 |         |      |    |         |
+ 9|   Dj Coates                |   57775 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 468 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b3.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that have not come to the table by the end
+of day 30 will be removed.
+
+Players that are away from the tables for 45 days 
+will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

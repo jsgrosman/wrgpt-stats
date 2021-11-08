@@ -1,0 +1,117 @@
+Subject: [b1.10443] Holdem Game Broadcast Message(*)
+
+! Table b1, Hand 37, Day 47
+
+! DaveKal checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   DroogieDroog             |  117650 |      50 |folded|    |         |
+ 2|   Andrew Prock             |   27500 |    1250 |folded|    |         |
+ 3|D  DaveKal                  |  180650 |    3250 |      |    |         |
+ 4|>  CharlieM                 |   63400 |    3250 |      |    |         |
+ 5|V  glorphy                  |   35175 |     450 |<AWOL>|    |         |
+ 6|   TommyO                   |   53925 |    1250 |folded|    |         |
+ 7|   Vodka on the rocks       |   59725 |      50 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/19/19 16:01:51! Dealing a new hand
+! 12/19/19 16:01:51! Everyone antes $50
+! 12/19/19 16:01:51! CharlieM blinds $200
+! 12/19/19 16:01:51! glorphy blinds $400
+! 12/19/19 17:53:50! TommyO raises $800 to $1200 total 
+! 12/19/19 17:53:50! Vodka on the rocks folds
+! 12/20/19 04:39:41! DroogieDroog folds
+! 12/20/19 08:30:25! Andrew Prock calls 
+! 12/20/19 08:30:25! DaveKal calls 
+! 12/20/19 08:30:25! CharlieM calls 
+! 12/20/19 08:30:25! glorphy is on vacation and folds
+
+! 12/20/19 08:30:25! Pot right ($5550), flopping/dealing/drawing cards
+! 12/20/19 08:30:25! 4 players
+! 12/20/19 08:30:25! Flopped cards: Ac 6s Kc
+! 12/20/19 08:34:09! CharlieM bets $2000 
+! 12/20/19 08:41:02! TommyO folds
+! 12/20/19 08:41:02! Andrew Prock folds
+! 12/20/19 08:41:37! DaveKal calls 
+
+! 12/20/19 08:41:37! Pot right ($9550), flopping/dealing/drawing cards
+! 12/20/19 08:41:37! 2 players
+! 12/20/19 08:41:37! Flopped card: Qd
+! 12/20/19 09:58:02! CharlieM checks
+! 12/20/19 09:58:28! DaveKal checks
+
+! 12/20/19 09:58:28! Pot right ($9550), flopping/dealing/drawing cards
+! 12/20/19 09:58:28! 2 players
+! 12/20/19 09:58:28! Flopped card: 3c
+! 12/20/19 10:43:49! CharlieM checks
+! 12/20/19 10:44:56! DaveKal checks
+! Hand over, current board is:  Ac 6s Kc Qd 3c
+! DaveKal                  has: As Jc
+! CharlieM                 has: 5s Ad
+! DaveKal wins $9550 (net $6300) with One Pair (A A K Q J)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   DroogieDroog             |  117650 |         |      |    |         |
+ 2|   Andrew Prock             |   27500 |         |      |    |         |
+ 3|   DaveKal                  |  190200 |         |      |    |         |
+ 4|D> CharlieM                 |   63400 |         |      |    |         |
+ 5|V  glorphy                  |   35175 |         |<AWOL>|    |         |
+ 6|   TommyO                   |   53925 |         |      |    |         |
+ 7|   Vodka on the rocks       |   59725 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 385 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b1.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+After day 45 of the tourney there will be no
+more live redraws or breaking tables.  Tables
+will be allowed to run until a table gets to 
+five or fewer players at which time all tables
+will finish the current hand and a full, random
+redraw to all new tables will be done.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 20
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

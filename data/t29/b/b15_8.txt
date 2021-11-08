@@ -1,0 +1,121 @@
+Subject: [b15.10102] Holdem Game Broadcast Message(*)
+
+! Table b15, Hand 8, Day 6
+
+! robo folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Floyd H. McKay           |   44550 |     150 |folded|    |         |
+ 2|   bluecandy                |   57100 |       0 |folded|    |         |
+ 3|>  BigElmo                  |   34175 |   14925 |      |    |         |
+ 4|   TrayRacer                |   47650 |     825 |folded|    |         |
+ 5|   JakeyD                   |   52475 |       0 |folded|    |         |
+ 6|   Bob The Butcher          |   44775 |     825 |folded|    |         |
+ 7|   robo                     |   45425 |    4350 |folded|    |         |
+ 8|D  Simon McAndrews          |   50950 |       0 |folded|    |         |
+ 9|   Nyte                     |   51750 |      75 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/08/19 13:25:57! Dealing a new hand
+! 11/08/19 13:25:57! No ante
+! 11/08/19 13:25:57! Nyte blinds $75
+! 11/08/19 13:25:57! Floyd H. McKay blinds $150
+! 11/08/19 17:23:24! bluecandy folds
+! 11/08/19 18:09:53! BigElmo calls 
+! 11/08/19 19:16:37! TrayRacer calls 
+! 11/08/19 19:16:37! JakeyD folds
+! 11/09/19 04:02:42! Bob The Butcher calls 
+! 11/09/19 04:02:42! robo raises $675 to $825 total 
+! 11/09/19 04:02:42! Simon McAndrews folds
+! 11/09/19 07:29:16! Nyte folds
+! 11/09/19 12:33:04! Floyd H. McKay folds
+! 11/09/19 12:33:51! BigElmo calls 
+! 11/09/19 13:16:35! TrayRacer calls 
+! 11/09/19 13:16:35! Bob The Butcher calls 
+
+! 11/09/19 13:16:35! Pot right ($3525), flopping/dealing/drawing cards
+! 11/09/19 13:16:35! 4 players
+! 11/09/19 13:16:35! Flopped cards: 4c 2s 9h
+! 11/09/19 14:31:26! BigElmo checks
+! 11/09/19 14:31:26! TrayRacer checks
+! 11/09/19 14:54:27! Bob The Butcher checks
+! 11/09/19 15:00:24! robo bets $3525 
+! 11/09/19 17:28:20! BigElmo calls 
+! 11/09/19 17:28:20! TrayRacer folds
+! 11/09/19 17:28:20! Bob The Butcher folds
+
+! 11/09/19 17:28:20! Pot right ($10575), flopping/dealing/drawing cards
+! 11/09/19 17:28:20! 2 players
+! 11/09/19 17:28:20! Flopped card: 2d
+! 11/09/19 17:28:44! BigElmo checks
+! 11/09/19 17:29:15! robo checks
+
+! 11/09/19 17:29:15! Pot right ($10575), flopping/dealing/drawing cards
+! 11/09/19 17:29:15! 2 players
+! 11/09/19 17:29:15! Flopped card: 6c
+! 11/09/19 18:53:39! BigElmo bets $10575 
+! 11/09/19 19:09:51! robo folds
+! Hand over, no showdown
+! Current board is:  4c 2s 9h 2d 6c
+! BigElmo wins $21150 (net $6225)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Floyd H. McKay           |   44550 |         |      |    |         |
+ 2|   bluecandy                |   57100 |         |      |    |         |
+ 3|>  BigElmo                  |   55325 |         |      |    |         |
+ 4|   TrayRacer                |   47650 |         |      |    |         |
+ 5|   JakeyD                   |   52475 |         |      |    |         |
+ 6|   Bob The Butcher          |   44775 |         |      |    |         |
+ 7|   robo                     |   45425 |         |      |    |         |
+ 8|   Simon McAndrews          |   50950 |         |      |    |         |
+ 9|D  Nyte                     |   51750 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 534 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b15.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+This is the REAL WRGPT29.
+Changes to office hours and email addresses do not carry over from the
+practice round.
+You have been assigned a new ID and the round is "b".
+
+Good luck.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 3
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

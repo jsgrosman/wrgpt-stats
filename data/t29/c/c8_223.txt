@@ -1,0 +1,118 @@
+Subject: [c8.10880] Holdem Game Broadcast Message(*)
+
+! Table c8, Hand 223, Day 100
+
+! Andyd checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  Cruella                  |   44700 |     400 |folded|    |         |
+ 2|>  Michael Proteau          |  337150 |    3600 |      |    |         |
+ 3|   Andyd                    |  110650 |    3600 |      |    |         |
+ 5|   SJL                      |  143450 |     400 |folded|    |         |
+ 6|   Swamper_Shirley          |  161875 |     400 |folded|    |         |
+ 7|   smak                     |   96500 |     400 |folded|    |         |
+ 8|   OldKingKohl              |  357600 |     400 |folded|    |         |
+ 9|   Ed Barrett               |   40500 |     400 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/11/20 06:24:00! Dealing a new hand
+! 02/11/20 06:24:00! Everyone antes $400
+! 02/11/20 06:24:00! Michael Proteau blinds $1600
+! 02/11/20 06:24:00! Andyd blinds $3200
+! 02/11/20 06:25:57! SJL folds
+! 02/11/20 07:08:34! Swamper_Shirley folds
+! 02/11/20 07:08:34! smak folds
+! 02/11/20 07:17:16! OldKingKohl folds
+! 02/11/20 07:17:16! Ed Barrett folds
+! 02/11/20 07:17:16! Cruella folds
+! 02/11/20 07:38:55! Michael Proteau calls 
+! 02/11/20 07:38:55! Andyd checks
+
+! 02/11/20 07:38:55! Pot right ($9600), flopping/dealing/drawing cards
+! 02/11/20 07:38:55! 2 players
+! 02/11/20 07:38:55! Flopped cards: Kh 7c 9c
+! 02/11/20 07:39:18! Michael Proteau checks
+! 02/11/20 07:42:05! Andyd checks
+
+! 02/11/20 07:42:05! Pot right ($9600), flopping/dealing/drawing cards
+! 02/11/20 07:42:05! 2 players
+! 02/11/20 07:42:05! Flopped card: 8h
+! 02/11/20 07:44:27! Michael Proteau checks
+! 02/11/20 07:44:55! Andyd checks
+
+! 02/11/20 07:44:55! Pot right ($9600), flopping/dealing/drawing cards
+! 02/11/20 07:44:55! 2 players
+! 02/11/20 07:44:55! Flopped card: 2s
+! 02/11/20 07:46:35! Michael Proteau checks
+! 02/11/20 07:47:27! Andyd checks
+! Hand over, current board is:  Kh 7c 9c 8h 2s
+! Michael Proteau          has: 6h Qd
+! Andyd                    has: 7h 4d
+! Andyd wins $9600 (net $6000) with One Pair (7 7 K 9 8)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Cruella                  |   44700 |         |      |    |         |
+ 2|D> Michael Proteau          |  337150 |         |      |    |         |
+ 3|   Andyd                    |  120250 |         |      |    |         |
+ 5|   SJL                      |  143450 |         |      |    |         |
+ 6|   Swamper_Shirley          |  161875 |         |      |    |         |
+ 7|   smak                     |   96500 |         |      |    |         |
+ 8|   OldKingKohl              |  357600 |         |      |    |         |
+ 9|   Ed Barrett               |   40500 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 182 players left in the tournament, 3 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c8.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+We are now over 30 days in round "c".  Automatic
+table breaking and live redraws have been disabled.
+We will play until one or more tables gets below six
+players.  When that happens all tables will finish
+the current hand and a full redraw will occur into
+the "d" round.
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 34
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

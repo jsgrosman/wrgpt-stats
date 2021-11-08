@@ -1,0 +1,120 @@
+Subject: [c19.10646] Holdem Game Broadcast Message(*)
+
+! Table c19, Hand 201, Day 97
+
+! Troutboy Garrett calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Jason Feng               |   96000 |     300 |folded|    |         |
+ 2|   Thomas Gabrysch          |  318300 |     300 |folded|    |         |
+ 3|   Nixed                    |  204300 |     300 |folded|    |         |
+ 4|   Virginia Slims           |   42250 |     300 |folded|    |         |
+ 6|   BrownTrout               |       0 |   36375 |all-in|    |         |
+ 7|D  Richard Rognlie          |  174775 |     300 |folded|    |         |
+ 8|>  Troutboy Garrett         |  264175 |   36375 |      |    |         |
+ 9|   BT                       |  101325 |    2300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/07/20 09:48:54! Dealing a new hand
+! 02/07/20 09:48:54! Everyone antes $300
+! 02/07/20 09:48:54! Troutboy Garrett blinds $1000
+! 02/07/20 09:48:54! BT blinds $2000
+! 02/07/20 11:13:18! Jason Feng folds
+! 02/07/20 11:13:18! Thomas Gabrysch folds
+! 02/07/20 11:13:18! Nixed folds
+! 02/07/20 11:13:18! Virginia Slims folds
+! 02/07/20 11:28:28! BrownTrout raises $2000 to $4000 total 
+! 02/07/20 11:28:28! Richard Rognlie folds
+! 02/07/20 12:34:35! Troutboy Garrett calls 
+! 02/07/20 15:34:43! BT folds
+
+! 02/07/20 15:34:43! Pot right ($12400), flopping/dealing/drawing cards
+! 02/07/20 15:34:43! 2 players
+! 02/07/20 15:34:43! Flopped cards: 3d 6h Ah
+! 02/07/20 19:35:03! Troutboy Garrett checks
+! 02/07/20 21:58:26! BrownTrout checks
+
+! 02/07/20 21:58:26! Pot right ($12400), flopping/dealing/drawing cards
+! 02/07/20 21:58:26! 2 players
+! 02/07/20 21:58:26! Flopped card: Kc
+! 02/07/20 21:58:26! Troutboy Garrett checks
+! 02/08/20 11:31:54! BrownTrout bets $6000 
+! 02/08/20 12:14:11! Troutboy Garrett calls 
+
+! 02/08/20 12:14:11! Pot right ($24400), flopping/dealing/drawing cards
+! 02/08/20 12:14:11! 2 players
+! 02/08/20 12:14:11! Flopped card: 4s
+! 02/08/20 12:14:51! Troutboy Garrett checks
+! 02/08/20 12:29:43! BrownTrout bets $26075 and is all in
+! 02/08/20 15:49:29! Troutboy Garrett calls 
+! Hand over, current board is:  3d 6h Ah Kc 4s
+! BrownTrout               has: Js 9s
+! Troutboy Garrett         has: Ad 7c
+! Troutboy Garrett wins $76550 (net $40175) with One Pair (A A K 7 6)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Jason Feng               |   96000 |         |      |    |         |
+ 2|   Thomas Gabrysch          |  318300 |         |      |    |         |
+ 3|   Nixed                    |  204300 |         |      |    |         |
+ 4|   Virginia Slims           |   42250 |         |      |    |         |
+ 7|   Richard Rognlie          |  174775 |         |      |    |         |
+ 8|D> Troutboy Garrett         |  340725 |         |      |    |         |
+ 9|   BT                       |  101325 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! BrownTrout is eliminated!
+! 189 players left in the tournament, 2 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c19.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+We are now over 30 days in round "c".  Automatic
+table breaking and live redraws have been disabled.
+We will play until one or more tables gets below six
+players.  When that happens all tables will finish
+the current hand and a full redraw will occur into
+the "d" round.
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 26
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

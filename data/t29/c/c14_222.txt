@@ -1,0 +1,116 @@
+Subject: [c14.10794] Holdem Game Broadcast Message(*)
+
+! Table c14, Hand 222, Day 97
+
+! Steve Zagieboylo calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  Keith Carangelo          |   79650 |   20300 |      |    |         |
+ 2|D  Ken Anderson             |  270700 |     300 |folded|    |         |
+ 3|   Bacon Z                  |   81250 |    1300 |folded|    |         |
+ 6|   Steve Zagieboylo         |  243950 |   20300 |      |    |         |
+ 7|   Josh Moore               |  152575 |     300 |folded|    |         |
+ 8|   Bobby Luckbox            |   49400 |     300 |folded|    |         |
+ 9|   DireWolf                 |  466650 |     300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/07/20 13:20:33! Dealing a new hand
+! 02/07/20 13:20:33! Everyone antes $300
+! 02/07/20 13:20:33! Bacon Z blinds $1000
+! 02/07/20 13:20:33! Steve Zagieboylo blinds $2000
+! 02/07/20 13:42:51! Josh Moore folds
+! 02/07/20 14:39:33! Bobby Luckbox folds
+! 02/07/20 17:20:38! DireWolf folds
+! 02/07/20 18:05:07! Keith Carangelo raises $3000 to $5000 total 
+! 02/07/20 18:05:07! Ken Anderson folds
+! 02/07/20 18:05:07! Bacon Z folds
+! 02/07/20 18:18:54! Steve Zagieboylo calls 
+
+! 02/07/20 18:18:54! Pot right ($13100), flopping/dealing/drawing cards
+! 02/07/20 18:18:54! 2 players
+! 02/07/20 18:18:54! Flopped cards: 8h 7d Qh
+! 02/07/20 18:19:45! Steve Zagieboylo checks
+! 02/07/20 19:56:32! Keith Carangelo checks
+
+! 02/07/20 19:56:32! Pot right ($13100), flopping/dealing/drawing cards
+! 02/07/20 19:56:32! 2 players
+! 02/07/20 19:56:32! Flopped card: Qs
+! 02/07/20 21:18:11! Steve Zagieboylo bets $7000 
+! 02/08/20 04:04:18! Keith Carangelo calls 
+
+! 02/08/20 04:04:18! Pot right ($27100), flopping/dealing/drawing cards
+! 02/08/20 04:04:18! 2 players
+! 02/08/20 04:04:18! Flopped card: 5d
+! 02/08/20 08:39:51! Steve Zagieboylo checks
+! 02/08/20 08:49:37! Keith Carangelo bets $8000 
+! 02/08/20 09:11:59! Steve Zagieboylo calls 
+! Hand over, current board is:  8h 7d Qh Qs 5d
+! Keith Carangelo          has: 10s 7h
+! Steve Zagieboylo         has: 10d 8d
+! Steve Zagieboylo wins $43100 (net $22800) with Two Pair (Q Q 8 8 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  Keith Carangelo          |   79650 |         |      |    |         |
+ 2|   Ken Anderson             |  270700 |         |      |    |         |
+ 3|D  Bacon Z                  |   81250 |         |      |    |         |
+ 6|   Steve Zagieboylo         |  287050 |         |      |    |         |
+ 7|   Josh Moore               |  152575 |         |      |    |         |
+ 8|   Bobby Luckbox            |   49400 |         |      |    |         |
+ 9|   DireWolf                 |  466650 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 192 players left in the tournament, 2 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c14.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+We are now over 30 days in round "c".  Automatic
+table breaking and live redraws have been disabled.
+We will play until one or more tables gets below six
+players.  When that happens all tables will finish
+the current hand and a full redraw will occur into
+the "d" round.
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 24
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

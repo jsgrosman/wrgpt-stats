@@ -1,0 +1,122 @@
+Subject: [c30.10165] Holdem Game Broadcast Message(*)
+
+! Table c30, Hand 159, Day 72
+
+! Buggzilla checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   DroogieDroog             |  149350 |     200 |folded|    |         |
+ 2|V  Kit Woolsey              |   78000 |     200 |<Gone>|    |         |
+ 3|   Per Landberger           |  114575 |     200 |folded|    |         |
+ 4|   Richard Rognlie          |  118675 |     200 |folded|    |         |
+ 5|   robo                     |   38900 |    1400 |      |    |         |
+ 6|   Mejjad                   |   56475 |     200 |folded|    |         |
+ 7|D  Buggzilla                |  162700 |    1400 |      |    |         |
+ 8|>  Dan Driscoll             |   51700 |    1400 |      |    |         |
+ 9|   Eric Brassell            |  113100 |    1400 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/13/20 09:23:44! Dealing a new hand
+! 01/13/20 09:23:44! Everyone antes $200
+! 01/13/20 09:23:44! Dan Driscoll blinds $600
+! 01/13/20 09:23:44! Eric Brassell blinds $1200
+! 01/13/20 09:41:20! DroogieDroog folds
+! 01/13/20 09:41:20! Kit Woolsey is on vacation and folds
+! 01/13/20 10:45:58! Per Landberger folds
+! 01/13/20 10:45:58! Richard Rognlie folds
+! 01/13/20 10:46:33! robo calls 
+! 01/13/20 10:57:59! Mejjad folds
+! 01/13/20 11:35:49! Buggzilla calls 
+! 01/13/20 13:29:19! Dan Driscoll calls 
+! 01/13/20 13:33:07! Eric Brassell checks
+
+! 01/13/20 13:33:07! Pot right ($6600), flopping/dealing/drawing cards
+! 01/13/20 13:33:07! 4 players
+! 01/13/20 13:33:07! Flopped cards: Ah 2c 2d
+! 01/13/20 16:42:46! Dan Driscoll checks
+! 01/13/20 16:44:25! Eric Brassell checks
+! 01/13/20 16:46:56! robo checks
+! 01/13/20 21:48:00! Buggzilla checks
+
+! 01/13/20 21:48:00! Pot right ($6600), flopping/dealing/drawing cards
+! 01/13/20 21:48:00! 4 players
+! 01/13/20 21:48:00! Flopped card: 5s
+! 01/14/20 03:20:43! Dan Driscoll checks
+! 01/14/20 03:49:34! Eric Brassell checks
+! 01/14/20 05:04:06! robo checks
+! 01/14/20 05:33:38! Buggzilla checks
+
+! 01/14/20 05:33:38! Pot right ($6600), flopping/dealing/drawing cards
+! 01/14/20 05:33:38! 4 players
+! 01/14/20 05:33:38! Flopped card: 6s
+! 01/14/20 09:05:31! Dan Driscoll checks
+! 01/14/20 09:12:14! Eric Brassell checks
+! 01/14/20 09:12:57! robo checks
+! 01/14/20 09:22:33! Buggzilla checks
+! Hand over, current board is:  Ah 2c 2d 5s 6s
+! robo                     has: Ks 9d
+! Buggzilla                has: Kh 10h
+! Dan Driscoll             has: Jc 6c
+! Eric Brassell            has: 7h 3h
+! Dan Driscoll wins $6600 (net $5200) with Two Pair (6 6 2 2 A)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   DroogieDroog             |  149350 |         |      |    |         |
+ 2|V  Kit Woolsey              |   78000 |         |<Gone>|    |         |
+ 3|   Per Landberger           |  114575 |         |      |    |         |
+ 4|   Richard Rognlie          |  118675 |         |      |    |         |
+ 5|   robo                     |   38900 |         |      |    |         |
+ 6|   Mejjad                   |   56475 |         |      |    |         |
+ 7|   Buggzilla                |  162700 |         |      |    |         |
+ 8|D> Dan Driscoll             |   58300 |         |      |    |         |
+ 9|   Eric Brassell            |  113100 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 309 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c30.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 12
+Live redraw in progress:
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

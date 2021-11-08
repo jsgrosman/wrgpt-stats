@@ -1,0 +1,116 @@
+Subject: [b23.10423] Holdem Game Broadcast Message(*)
+
+! Table b23, Hand 31, Day 27
+
+! jtk calls 
+! Pot right ($68300), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 3s
+! Flopped card: Kd
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Twench                   |       0 |   33925 |all-in|    |         |
+ 2|   shinsook                 |   82250 |       0 |folded|    |         |
+ 3|   sjb                      |    2450 |       0 |folded|    |         |
+ 4|   Ed Barrett               |   71550 |       0 |folded|    |         |
+ 5|D> jtk                      |   39225 |   33925 |      |    |         |
+ 6|   Sam Parazette            |   83600 |     150 |folded|    |         |
+ 7|   Inca                     |   57875 |     300 |folded|    |         |
+ 8|   Bryan Juliano            |   56050 |       0 |folded|    |         |
+ 9|   heffmike                 |   81625 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/29/19 13:47:47! Dealing a new hand
+! 11/29/19 13:47:47! No ante
+! 11/29/19 13:47:47! Sam Parazette blinds $150
+! 11/29/19 13:47:47! Inca blinds $300
+! 11/29/19 13:57:07! Bryan Juliano folds
+! 11/29/19 14:41:00! heffmike folds
+! 11/29/19 15:51:51! Twench raises $700 to $1000 total 
+! 11/29/19 15:54:20! shinsook folds
+! 11/29/19 15:54:20! sjb folds
+! 11/29/19 15:54:20! Ed Barrett folds
+! 11/29/19 16:05:41! jtk calls 
+! 11/29/19 16:15:59! Sam Parazette folds
+! 11/29/19 20:17:02! Inca folds
+
+! 11/29/19 20:17:02! Pot right ($2450), flopping/dealing/drawing cards
+! 11/29/19 20:17:02! 2 players
+! 11/29/19 20:17:02! Flopped cards: 7h 5s 3c
+! 11/30/19 04:56:19! Twench bets $2000 
+! 11/30/19 07:52:30! jtk raises $2000 to $4000 total 
+! 11/30/19 12:54:18! Twench raises $28925 to $32925 total and is all in
+! 11/30/19 17:10:04! jtk calls 
+
+! 11/30/19 17:10:04! Pot right ($68300), flopping/dealing/drawing cards
+! 11/30/19 17:10:04! 2 players, 1 all in
+! 11/30/19 17:10:04! Flopped card: 3s
+! 11/30/19 17:10:04! Flopped card: Kd
+! Hand over, current board is:  7h 5s 3c 3s Kd
+! Twench                   has: Ah Kc
+! jtk                      has: Js Jd
+! Twench wins $68300 (net $34375) with Two Pair (K K 3 3 A)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Twench                   |   68300 |         |      |    |         |
+ 2|   shinsook                 |   82250 |         |      |    |         |
+ 3|   sjb                      |    2450 |         |      |    |         |
+ 4|   Ed Barrett               |   71550 |         |      |    |         |
+ 5|>  jtk                      |   39225 |         |      |    |         |
+ 6|D  Sam Parazette            |   83600 |         |      |    |         |
+ 7|   Inca                     |   57875 |         |      |    |         |
+ 8|   Bryan Juliano            |   56050 |         |      |    |         |
+ 9|   heffmike                 |   81625 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 479 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b23.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that have not come to the table by the end
+of day 30 will be removed.
+
+Players that are away from the tables for 45 days 
+will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 11
+Live redraw in progress:
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

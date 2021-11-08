@@ -1,0 +1,109 @@
+Subject: [c18.10389] Holdem Game Broadcast Message(*)
+
+! Table c18, Hand 182, Day 85
+
+! Butter calls 
+! Pot right ($53300), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped cards: Jd Ad 9h
+! Flopped card: 6s
+! Flopped card: 2h
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   888                      |       0 |   25050 |all-in|    |         |
+ 2|D  Bob The Butcher          |  161650 |     200 |folded|    |         |
+ 3|   Ian Collier              |   16000 |     800 |folded|    |         |
+ 4|   danthefan                |   88700 |    1400 |folded|    |         |
+ 5|   Sunnygirl318             |   95650 |     200 |folded|    |         |
+ 6|>  Butter                   |  251225 |   25050 |      |    |         |
+ 7|   beacon bot               |  142000 |     200 |folded|    |         |
+ 8|V  Oldbloke                 |  114125 |     200 |<AWOL>|    |         |
+ 9|   Robert Christ            |  150150 |     200 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/26/20 23:28:56! Dealing a new hand
+! 01/26/20 23:28:56! Everyone antes $200
+! 01/26/20 23:28:56! Ian Collier blinds $600
+! 01/26/20 23:28:56! danthefan blinds $1200
+! 01/27/20 00:36:55! Sunnygirl318 folds
+! 01/27/20 01:04:55! Butter raises $3800 to $5000 total 
+! 01/27/20 05:23:44! beacon bot folds
+! 01/27/20 05:23:44! Oldbloke is on vacation and folds
+! 01/27/20 05:23:44! Robert Christ folds
+! 01/27/20 06:19:17! 888 raises $19850 to $24850 total and is all in
+! 01/27/20 06:19:17! Bob The Butcher folds
+! 01/27/20 06:19:17! Ian Collier folds
+! 01/27/20 06:21:47! danthefan folds
+! 01/27/20 06:26:43! Butter calls 
+
+! 01/27/20 06:26:43! Pot right ($53300), flopping/dealing/drawing cards
+! 01/27/20 06:26:43! 2 players, 1 all in
+! 01/27/20 06:26:43! Flopped cards: Jd Ad 9h
+! 01/27/20 06:26:43! Flopped card: 6s
+! 01/27/20 06:26:43! Flopped card: 2h
+! Hand over, current board is:  Jd Ad 9h 6s 2h
+! 888                      has: Ac Kc
+! Butter                   has: Kh Jc
+! 888 wins $53300 (net $28250) with One Pair (A A K J 9)
+! Antes and blinds go up
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   888                      |   53300 |         |      |    |         |
+ 2|   Bob The Butcher          |  161650 |         |      |    |         |
+ 3|D  Ian Collier              |   16000 |         |      |    |         |
+ 4|   danthefan                |   88700 |         |      |    |         |
+ 5|   Sunnygirl318             |   95650 |         |      |    |         |
+ 6|>  Butter                   |  251225 |         |      |    |         |
+ 7|   beacon bot               |  142000 |         |      |    |         |
+ 8|V  Oldbloke                 |  114125 |         |<AWOL>|    |         |
+ 9|   Robert Christ            |  150150 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 244 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c18.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,119 @@
+Subject: [c1.10416] Holdem Game Broadcast Message(*)
+
+! Table c1, Hand 181, Day 82
+
+! BBLWOG calls - side pot
+! Pot right ($197500), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 9h
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  Seanbo                   |  121625 |     200 |folded|    |         |
+ 2|   Derrick Martins          |   66000 |     800 |folded|    |         |
+ 3|   BBLWOG                   |       0 |   84300 |all-in|  2 |  178600 |
+ 4|   James Scharf             |   75400 |     200 |folded|    |         |
+ 5|   Blackcove                |  129450 |    8200 |folded|    |         |
+ 6|V  Charlie Tuna             |  173150 |     200 | 2 FEB|    |         |
+ 7|>  Shari Silk               |   52400 |  103200 |      |  1 |   18900 |
+ 8|   Frank Russomanno         |   54650 |     200 |folded|    |         |
+ 9|   Frank O                  |  188950 |     200 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/24/20 07:12:33! Dealing a new hand
+! 01/24/20 07:12:33! Everyone antes $200
+! 01/24/20 07:12:33! Derrick Martins blinds $600
+! 01/24/20 07:12:33! BBLWOG blinds $1200
+! 01/24/20 07:16:21! James Scharf folds
+! 01/24/20 07:27:42! Blackcove raises $1900 to $3100 total 
+! 01/24/20 07:27:42! Charlie Tuna is on vacation and folds
+! 01/24/20 07:35:30! Shari Silk raises $4900 to $8000 total 
+! 01/24/20 07:37:23! Frank Russomanno folds
+! 01/24/20 07:37:23! Frank O folds
+! 01/24/20 07:37:23! Seanbo folds
+! 01/24/20 07:42:29! Derrick Martins folds
+! 01/24/20 07:45:02! BBLWOG calls 
+! 01/24/20 07:48:35! Blackcove calls 
+
+! 01/24/20 07:48:35! Pot right ($26400), flopping/dealing/drawing cards
+! 01/24/20 07:48:35! 3 players
+! 01/24/20 07:48:35! Flopped cards: 8c Js 10h
+! 01/24/20 07:50:21! BBLWOG bets $15000 
+! 01/24/20 07:52:04! Blackcove folds
+! 01/24/20 07:59:47! Shari Silk calls 
+
+! 01/24/20 07:59:47! Pot right ($56400), flopping/dealing/drawing cards
+! 01/24/20 07:59:47! 2 players
+! 01/24/20 07:59:47! Flopped card: Jc
+! 01/24/20 08:02:34! BBLWOG bets $40000 
+! 01/24/20 08:13:07! Shari Silk raises $40000 to $80000 total 
+! 01/24/20 08:14:41! BBLWOG calls - side pot
+
+! 01/24/20 08:14:41! Pot right ($197500), flopping/dealing/drawing cards
+! 01/24/20 08:14:41! 2 players, 1 all in
+! 01/24/20 08:14:41! Flopped card: 9h
+! Hand over, current board is:  8c Js 10h Jc 9h
+! BBLWOG                   has: 10s 10c
+! Shari Silk               has: Ah Ad
+! Pot 1: uncalled $18900 returned to Shari Silk
+! Pot 2: BBLWOG wins $178600 with Full House (10 10 10 J J)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Seanbo                   |  121625 |         |      |    |         |
+ 2|D  Derrick Martins          |   66000 |         |      |    |         |
+ 3|   BBLWOG                   |  178600 |         |      |    |         |
+ 4|   James Scharf             |   75400 |         |      |    |         |
+ 5|   Blackcove                |  129450 |         |      |    |         |
+ 6|V  Charlie Tuna             |  173150 |         | 2 FEB|    |         |
+ 7|>  Shari Silk               |   71300 |         |      |    |         |
+ 8|   Frank Russomanno         |   54650 |         |      |    |         |
+ 9|   Frank O                  |  188950 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 259 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c1.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 11
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

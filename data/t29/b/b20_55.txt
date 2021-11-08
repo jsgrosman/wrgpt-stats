@@ -1,0 +1,122 @@
+Subject: [b20.10743] Holdem Game Broadcast Message(*)
+
+! Table b20, Hand 55, Day 37
+
+! Elmis folds
+! Pot right ($27675), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped card: 8s
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   jasong                   |  115975 |      25 |folded|    |         |
+ 2|D> Elmis                    |   89825 |    1775 |folded|    |         |
+ 3|V  AAJogger                 |   83175 |     175 |13 Dec|    |         |
+ 4|   Ben Buchwald             |   29400 |     325 |folded|    |         |
+ 5|   Jon H Nightingale        |       0 |   14625 |all-in|  1 |    5675 |
+ 6|   Chevy                    |       0 |    8950 |all-in|  2 |   22000 |
+ 7|   ADB Jaeger               |   34150 |      25 |folded|    |         |
+ 8|   cedwards170              |  108975 |    1775 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/09/19 23:17:56! Dealing a new hand
+! 12/09/19 23:17:56! Everyone antes $25
+! 12/09/19 23:17:56! AAJogger blinds $150
+! 12/09/19 23:17:56! Ben Buchwald blinds $300
+! 12/10/19 06:35:11! Jon H Nightingale calls 
+! 12/10/19 06:35:11! Chevy calls 
+! 12/10/19 06:35:11! ADB Jaeger folds
+! 12/10/19 06:45:08! cedwards170 raises $450 to $750 total 
+! 12/10/19 06:45:08! jasong folds
+! 12/10/19 06:55:35! Elmis calls 
+! 12/10/19 06:55:35! AAJogger is on vacation and folds
+! 12/10/19 06:55:35! Ben Buchwald folds
+! 12/10/19 07:01:48! Jon H Nightingale calls 
+! 12/10/19 07:42:09! Chevy calls 
+
+! 12/10/19 07:42:09! Pot right ($3650), flopping/dealing/drawing cards
+! 12/10/19 07:42:09! 4 players
+! 12/10/19 07:42:09! Flopped cards: Ac 2d 5h
+! 12/10/19 09:31:49! Jon H Nightingale bets $1000 
+! 12/10/19 09:31:49! Chevy calls 
+! 12/10/19 09:38:42! cedwards170 calls 
+! 12/10/19 09:57:46! Elmis calls 
+
+! 12/10/19 09:57:46! Pot right ($7650), flopping/dealing/drawing cards
+! 12/10/19 09:57:46! 4 players
+! 12/10/19 09:57:46! Flopped card: Jc
+! 12/10/19 10:29:56! Jon H Nightingale bets $12850 and is all in
+! 12/10/19 10:41:42! Chevy calls - side pot
+! 12/10/19 11:55:56! cedwards170 folds
+! 12/10/19 12:11:04! Elmis folds
+
+! 12/10/19 12:11:04! Pot right ($27675), flopping/dealing/drawing cards
+! 12/10/19 12:11:04! 2 players, 2 all in
+! 12/10/19 12:11:04! Flopped card: 8s
+! Hand over, current board is:  Ac 2d 5h Jc 8s
+! Jon H Nightingale        has: 6s 6c
+! Chevy                    has: 10s 10c
+! Pot 1: uncalled $5675 returned to Jon H Nightingale
+! Pot 2: Chevy wins $22000 with One Pair (10 10 A J 8)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   jasong                   |  115975 |         |      |    |         |
+ 2|>  Elmis                    |   89825 |         |      |    |         |
+ 3|DV AAJogger                 |   83175 |         |13 Dec|    |         |
+ 4|   Ben Buchwald             |   29400 |         |      |    |         |
+ 5|   Jon H Nightingale        |    5675 |         |      |    |         |
+ 6|   Chevy                    |   22000 |         |      |    |         |
+ 7|   ADB Jaeger               |   34150 |         |      |    |         |
+ 8|   cedwards170              |  108975 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 438 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b20.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that have not come to the table by the end
+of day 30 will be removed.
+
+Players that are away from the tables for 45 days 
+will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 12
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

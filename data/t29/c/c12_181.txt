@@ -1,0 +1,119 @@
+Subject: [c12.10473] Holdem Game Broadcast Message(*)
+
+! Table c12, Hand 181, Day 75
+
+! Srfndoc checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Stephen Wong             |  232900 |     200 |folded|    |         |
+ 2|D  Srfndoc                  |   75750 |    9400 |      |    |         |
+ 3|   docdanger                |  145400 |    1400 |folded|    |         |
+ 4|   Matthew                  |   65150 |    1400 |folded|    |         |
+ 5|>  grizz                    |  194525 |    9400 |      |    |         |
+ 6|   Chris Leslie             |   34275 |     200 |folded|    |         |
+ 7|   Brian Cooper             |   51450 |     200 |folded|    |         |
+ 8|   Donald Neilson           |   57275 |     200 |folded|    |         |
+ 9|   jasong                   |   71175 |     200 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/16/20 21:26:34! Dealing a new hand
+! 01/16/20 21:26:34! Everyone antes $200
+! 01/16/20 21:26:34! docdanger blinds $600
+! 01/16/20 21:26:34! Matthew blinds $1200
+! 01/16/20 21:40:17! grizz calls 
+! 01/16/20 22:09:54! Chris Leslie folds
+! 01/17/20 03:50:04! Brian Cooper folds
+! 01/17/20 08:32:25! Donald Neilson folds
+! 01/17/20 08:32:25! jasong folds
+! 01/17/20 08:32:25! Stephen Wong folds
+! 01/17/20 08:34:47! Srfndoc calls 
+! 01/17/20 08:35:59! docdanger calls 
+! 01/17/20 08:35:59! Matthew checks
+
+! 01/17/20 08:35:59! Pot right ($6600), flopping/dealing/drawing cards
+! 01/17/20 08:35:59! 4 players
+! 01/17/20 08:35:59! Flopped cards: 2d 3d Qd
+! 01/17/20 08:48:30! docdanger checks
+! 01/17/20 09:41:17! Matthew checks
+! 01/17/20 09:47:01! grizz bets $2000 
+! 01/17/20 10:39:12! Srfndoc calls 
+! 01/17/20 10:39:12! docdanger folds
+! 01/17/20 10:39:16! Matthew folds
+
+! 01/17/20 10:39:16! Pot right ($10600), flopping/dealing/drawing cards
+! 01/17/20 10:39:16! 2 players
+! 01/17/20 10:39:16! Flopped card: 4h
+! 01/17/20 12:22:50! grizz bets $3000 
+! 01/17/20 12:31:10! Srfndoc raises $3000 to $6000 total 
+! 01/17/20 12:41:14! grizz calls 
+
+! 01/17/20 12:41:14! Pot right ($22600), flopping/dealing/drawing cards
+! 01/17/20 12:41:14! 2 players
+! 01/17/20 12:41:14! Flopped card: Ks
+! 01/17/20 12:41:38! grizz checks
+! 01/17/20 12:46:37! Srfndoc checks
+! Hand over, current board is:  2d 3d Qd 4h Ks
+! Srfndoc                  has: 4c 3c
+! grizz                    has: Jh Qc
+! Srfndoc wins $22600 (net $13200) with Two Pair (4 4 3 3 K)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Stephen Wong             |  232900 |         |      |    |         |
+ 2|   Srfndoc                  |   98350 |         |      |    |         |
+ 3|D  docdanger                |  145400 |         |      |    |         |
+ 4|   Matthew                  |   65150 |         |      |    |         |
+ 5|>  grizz                    |  194525 |         |      |    |         |
+ 6|   Chris Leslie             |   34275 |         |      |    |         |
+ 7|   Brian Cooper             |   51450 |         |      |    |         |
+ 8|   Donald Neilson           |   57275 |         |      |    |         |
+ 9|   jasong                   |   71175 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 289 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c12.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

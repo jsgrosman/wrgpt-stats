@@ -1,0 +1,120 @@
+Subject: [b9.11207] Holdem Game Broadcast Message(*)
+
+! Table b9, Hand 113, Day 59
+
+! denimmined calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   altidude6202             |  105375 |    2100 |folded|    |         |
+ 3|   Wrongfellow              |   78225 |     100 |folded|    |         |
+ 4|   GKinz54                  |   27700 |     100 |folded|    |         |
+ 5|   ScoobySnack              |   46125 |     100 |folded|    |         |
+ 6|   denimmined               |   72350 |    9600 |      |    |         |
+ 7|   James Scharf             |   79100 |     100 |folded|    |         |
+ 8|D  tekbot                   |   66450 |     100 |folded|    |         |
+ 9|>  GunsNRoses               |   34800 |    9600 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/31/19 15:20:45! Dealing a new hand
+! 12/31/19 15:20:45! Everyone antes $100
+! 12/31/19 15:20:45! GunsNRoses blinds $250
+! 12/31/19 15:20:45! altidude6202 blinds $500
+! 12/31/19 15:22:43! Wrongfellow folds
+! 12/31/19 16:26:21! GKinz54 folds
+! 12/31/19 16:26:21! ScoobySnack folds
+! 01/01/20 03:47:23! denimmined raises $500 to $1000 total 
+! 01/01/20 03:47:23! James Scharf folds
+! 01/01/20 03:47:23! tekbot folds
+! 01/01/20 08:56:02! GunsNRoses calls 
+! 01/01/20 09:10:25! altidude6202 calls 
+
+! 01/01/20 09:10:25! Pot right ($3800), flopping/dealing/drawing cards
+! 01/01/20 09:10:25! 3 players
+! 01/01/20 09:10:25! Flopped cards: Jd 5c 3c
+! 01/01/20 09:34:05! GunsNRoses bets $1000 
+! 01/01/20 09:42:40! altidude6202 calls 
+! 01/01/20 10:45:17! denimmined calls 
+
+! 01/01/20 10:45:17! Pot right ($6800), flopping/dealing/drawing cards
+! 01/01/20 10:45:17! 3 players
+! 01/01/20 10:45:17! Flopped card: 4c
+! 01/01/20 10:46:52! GunsNRoses bets $2500 
+! 01/01/20 11:07:11! altidude6202 folds
+! 01/01/20 12:29:43! denimmined calls 
+
+! 01/01/20 12:29:43! Pot right ($11800), flopping/dealing/drawing cards
+! 01/01/20 12:29:43! 2 players
+! 01/01/20 12:29:43! Flopped card: 3s
+! 01/01/20 14:29:34! GunsNRoses bets $5000 
+! 01/01/20 14:37:43! denimmined calls 
+! Hand over, current board is:  Jd 5c 3c 4c 3s
+! denimmined               has: Kc 6c
+! GunsNRoses               has: Kh Jh
+! denimmined wins $21800 (net $12200) with Club Flush (K 6 5 4 3)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   altidude6202             |  105375 |         |      |    |         |
+ 3|   Wrongfellow              |   78225 |         |      |    |         |
+ 4|   GKinz54                  |   27700 |         |      |    |         |
+ 5|   ScoobySnack              |   46125 |         |      |    |         |
+ 6|   denimmined               |   94150 |         |      |    |         |
+ 7|   James Scharf             |   79100 |         |      |    |         |
+ 8|   tekbot                   |   66450 |         |      |    |         |
+ 9|D> GunsNRoses               |   34800 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 347 players left in the tournament, 9 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b9.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+After day 45 of the tourney there will be no
+more live redraws or breaking tables.  Tables
+will be allowed to run until a table gets to 
+five or fewer players at which time all tables
+will finish the current hand and a full, random
+redraw to all new tables will be done.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 58
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

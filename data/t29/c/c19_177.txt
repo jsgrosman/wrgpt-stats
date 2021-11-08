@@ -1,0 +1,118 @@
+Subject: [c19.10363] Holdem Game Broadcast Message(*)
+
+! Table c19, Hand 177, Day 82
+
+! Virginia Slims checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  Jason Feng               |   93100 |    3900 |      |    |         |
+ 2|   Thomas Gabrysch          |  148500 |    3900 |      |    |         |
+ 3|   Nixed                    |  250200 |     200 |folded|    |         |
+ 4|   Virginia Slims           |   55925 |    3900 |      |    |         |
+ 5|   Crush_me                 |  151350 |     200 |folded|    |         |
+ 6|   BrownTrout               |   73050 |     200 |folded|    |         |
+ 7|   Richard Rognlie          |  123075 |       0 |New   |    |         |
+ 8|   ebock                    |   32400 |     200 |folded|    |         |
+ 9|D  BT                       |  118225 |     200 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/24/20 05:54:04! Dealing a new hand
+! 01/24/20 05:54:04! Everyone antes $200
+! 01/24/20 05:54:04! Jason Feng blinds $600
+! 01/24/20 05:54:04! Thomas Gabrysch blinds $1200
+! 01/24/20 05:54:45! Nixed folds
+! 01/24/20 05:56:29! Virginia Slims calls 
+! 01/24/20 05:56:29! Crush_me folds
+! 01/24/20 09:30:39! BrownTrout folds
+! 01/24/20 09:30:39! ebock folds
+! 01/24/20 09:30:39! BT folds
+! 01/24/20 09:35:04! New player added to the table: Richard Rognlie
+! 01/24/20 11:45:32! Jason Feng calls 
+! 01/24/20 12:34:54! Thomas Gabrysch checks
+
+! 01/24/20 12:34:54! Pot right ($5200), flopping/dealing/drawing cards
+! 01/24/20 12:34:54! 3 players
+! 01/24/20 12:34:54! Flopped cards: 8h 7s 8s
+! 01/24/20 12:52:46! Jason Feng checks
+! 01/24/20 13:15:22! Thomas Gabrysch checks
+! 01/24/20 13:26:21! Virginia Slims checks
+
+! 01/24/20 13:26:21! Pot right ($5200), flopping/dealing/drawing cards
+! 01/24/20 13:26:21! 3 players
+! 01/24/20 13:26:21! Flopped card: 6c
+! 01/24/20 14:38:45! Jason Feng bets $2500 
+! 01/24/20 14:50:27! Thomas Gabrysch calls 
+! 01/24/20 15:39:40! Virginia Slims calls 
+
+! 01/24/20 15:39:40! Pot right ($12700), flopping/dealing/drawing cards
+! 01/24/20 15:39:40! 3 players
+! 01/24/20 15:39:40! Flopped card: 9s
+! 01/24/20 16:50:21! Jason Feng checks
+! 01/24/20 17:07:23! Thomas Gabrysch checks
+! 01/24/20 17:11:15! Virginia Slims checks
+! Hand over, current board is:  8h 7s 8s 6c 9s
+! Jason Feng               has: Qs Jc
+! Thomas Gabrysch          has: 4s 2s
+! Virginia Slims           has: Ah 9h
+! Thomas Gabrysch wins $12700 (net $8800) with Spade Flush (9 8 7 4 2)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D> Jason Feng               |   93100 |         |      |    |         |
+ 2|   Thomas Gabrysch          |  161200 |         |      |    |         |
+ 3|   Nixed                    |  250200 |         |      |    |         |
+ 4|   Virginia Slims           |   55925 |         |      |    |         |
+ 5|   Crush_me                 |  151350 |         |      |    |         |
+ 6|   BrownTrout               |   73050 |         |      |    |         |
+ 7|   Richard Rognlie          |  123075 |         |      |    |         |
+ 8|   ebock                    |   32400 |         |      |    |         |
+ 9|   BT                       |  118225 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 255 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c19.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

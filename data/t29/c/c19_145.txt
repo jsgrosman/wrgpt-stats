@@ -1,0 +1,120 @@
+Subject: [c19.10014] Holdem Game Broadcast Message(*)
+
+! Table c19, Hand 145, Day 63
+
+! Nixed calls and is all in
+! Pot right ($214300), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: Qd
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  Jason Feng               |   32975 |     100 |folded|    |         |
+ 2|   Thomas Gabrysch          |  155750 |     350 |folded|    |         |
+ 3|   Nixed                    |       0 |  103725 |all-in|    |         |
+ 4|   Virginia Slims           |   93525 |    6000 |folded|    |         |
+ 5|   Monika                   |   40425 |     100 |folded|    |         |
+ 6|   BrownTrout               |   56650 |     100 |folded|    |         |
+ 7|   heffmike                 |   51600 |     100 |folded|    |         |
+ 8|   ebock                    |   13175 |     100 |folded|    |         |
+ 9|>  Brent Moore              |   50150 |  103725 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/03/20 16:58:07! Dealing a new hand
+! 01/03/20 16:58:07! Everyone antes $100
+! 01/03/20 16:58:07! Thomas Gabrysch blinds $250
+! 01/03/20 16:58:07! Nixed blinds $500
+! 01/03/20 17:19:06! Virginia Slims raises $1500 to $2000 total 
+! 01/03/20 20:36:25! Monika folds
+! 01/04/20 20:37:03! BrownTrout folds
+! 01/04/20 20:43:04! heffmike folds
+! 01/04/20 20:43:04! ebock folds
+! 01/04/20 23:49:00! Brent Moore raises $3900 to $5900 total 
+! 01/04/20 23:49:00! Jason Feng folds
+! 01/04/20 23:49:00! Thomas Gabrysch folds
+! 01/05/20 08:42:49! Nixed calls 
+! 01/05/20 09:40:31! Virginia Slims calls 
+
+! 01/05/20 09:40:31! Pot right ($18850), flopping/dealing/drawing cards
+! 01/05/20 09:40:31! 3 players
+! 01/05/20 09:40:31! Flopped cards: 8s 2d Ad
+! 01/05/20 10:28:08! Nixed checks
+! 01/05/20 11:01:53! Virginia Slims checks
+! 01/05/20 11:11:42! Brent Moore bets $18850 
+! 01/05/20 11:27:38! Nixed calls 
+! 01/05/20 11:27:38! Virginia Slims folds
+
+! 01/05/20 11:27:38! Pot right ($56550), flopping/dealing/drawing cards
+! 01/05/20 11:27:38! 2 players
+! 01/05/20 11:27:38! Flopped card: 3d
+! 01/05/20 11:40:06! Nixed bets $33000 
+! 01/05/20 12:10:54! Brent Moore raises $45875 to $78875 total 
+! 01/05/20 12:43:56! Nixed calls and is all in
+
+! 01/05/20 12:43:56! Pot right ($214300), flopping/dealing/drawing cards
+! 01/05/20 12:43:56! 2 players, 1 all in
+! 01/05/20 12:43:56! Flopped card: Qd
+! Hand over, current board is:  8s 2d Ad 3d Qd
+! Nixed                    has: Kd Ac
+! Brent Moore              has: As Kc
+! Nixed wins $214300 (net $110575) with Diamond Flush (A K Q 3 2)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Jason Feng               |   32975 |         |      |    |         |
+ 2|D  Thomas Gabrysch          |  155750 |         |      |    |         |
+ 3|   Nixed                    |  214300 |         |      |    |         |
+ 4|   Virginia Slims           |   93525 |         |      |    |         |
+ 5|   Monika                   |   40425 |         |      |    |         |
+ 6|   BrownTrout               |   56650 |         |      |    |         |
+ 7|   heffmike                 |   51600 |         |      |    |         |
+ 8|   ebock                    |   13175 |         |      |    |         |
+ 9|>  Brent Moore              |   50150 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 337 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c19.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

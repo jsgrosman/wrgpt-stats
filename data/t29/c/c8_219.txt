@@ -1,0 +1,121 @@
+Subject: [c8.10847] Holdem Game Broadcast Message(*)
+
+! Table c8, Hand 219, Day 99
+
+! Cruella folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Cruella                  |   51100 |    9800 |folded|    |         |
+ 2|   Michael Proteau          |  345150 |     300 |folded|    |         |
+ 3|   Andyd                    |  107450 |     300 |folded|    |         |
+ 5|   SJL                      |  145050 |     300 |folded|    |         |
+ 6|D  Swamper_Shirley          |  150675 |     300 |folded|    |         |
+ 7|   smak                     |   98100 |    2300 |folded|    |         |
+ 8|>  OldKingKohl              |  278300 |   60900 |      |    |         |
+ 9|   Ed Barrett               |   51700 |     300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/09/20 20:32:30! Dealing a new hand
+! 02/09/20 20:32:30! Everyone antes $300
+! 02/09/20 20:32:30! smak blinds $1000
+! 02/09/20 20:32:30! OldKingKohl blinds $2000
+! 02/09/20 20:42:31! Ed Barrett folds
+! 02/09/20 22:11:54! Cruella calls 
+! 02/09/20 22:11:54! Michael Proteau folds
+! 02/09/20 22:11:54! Andyd folds
+! 02/10/20 01:01:15! SJL folds
+! 02/10/20 03:52:45! Swamper_Shirley folds
+! 02/10/20 03:57:09! smak calls 
+! 02/10/20 04:57:06! OldKingKohl checks
+
+! 02/10/20 04:57:06! Pot right ($8400), flopping/dealing/drawing cards
+! 02/10/20 04:57:06! 3 players
+! 02/10/20 04:57:06! Flopped cards: 7c Ks 8h
+! 02/10/20 04:57:45! smak checks
+! 02/10/20 05:09:26! OldKingKohl checks
+! 02/10/20 05:46:24! Cruella checks
+
+! 02/10/20 05:46:24! Pot right ($8400), flopping/dealing/drawing cards
+! 02/10/20 05:46:24! 3 players
+! 02/10/20 05:46:24! Flopped card: 7h
+! 02/10/20 10:44:26! smak checks
+! 02/10/20 12:41:56! OldKingKohl bets $7500 
+! 02/10/20 13:05:39! Cruella calls 
+! 02/10/20 13:06:22! smak folds
+
+! 02/10/20 13:06:22! Pot right ($23400), flopping/dealing/drawing cards
+! 02/10/20 13:06:22! 2 players
+! 02/10/20 13:06:22! Flopped card: Jc
+! 02/10/20 13:26:43! OldKingKohl bets $51100 
+! 02/10/20 13:28:25! Cruella folds
+! Hand over, no showdown
+! Current board is:  7c Ks 8h 7h Jc
+! OldKingKohl wins $74500 (net $13600)
+! Antes and blinds go up
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Cruella                  |   51100 |         |      |    |         |
+ 2|   Michael Proteau          |  345150 |         |      |    |         |
+ 3|   Andyd                    |  107450 |         |      |    |         |
+ 5|   SJL                      |  145050 |         |      |    |         |
+ 6|   Swamper_Shirley          |  150675 |         |      |    |         |
+ 7|D  smak                     |   98100 |         |      |    |         |
+ 8|>  OldKingKohl              |  352800 |         |      |    |         |
+ 9|   Ed Barrett               |   51700 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 187 players left in the tournament, 2 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c8.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+We are now over 30 days in round "c".  Automatic
+table breaking and live redraws have been disabled.
+We will play until one or more tables gets below six
+players.  When that happens all tables will finish
+the current hand and a full redraw will occur into
+the "d" round.
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 29
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,115 @@
+Subject: [c19.10418] Holdem Game Broadcast Message(*)
+
+! Table c19, Hand 181, Day 86
+
+! Thomas Gabrysch calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Jason Feng               |   86100 |     300 |folded|    |         |
+ 2|   Thomas Gabrysch          |   26400 |  127800 |      |    |         |
+ 3|   Nixed                    |  283100 |     300 |folded|    |         |
+ 4|D  Virginia Slims           |   50225 |     300 |folded|    |         |
+ 5|>  Crush_me                 |   19250 |  127800 |      |    |         |
+ 6|   BrownTrout               |   80450 |    2300 |folded|    |         |
+ 7|   Richard Rognlie          |  136275 |     300 |folded|    |         |
+ 8|   Troutboy Garrett         |  219150 |       0 |New   |    |         |
+ 9|   BT                       |  117325 |     300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/27/20 13:40:10! Dealing a new hand
+! 01/27/20 13:40:10! Everyone antes $300
+! 01/27/20 13:40:10! Crush_me blinds $1000
+! 01/27/20 13:40:10! BrownTrout blinds $2000
+! 01/27/20 14:00:34! Richard Rognlie folds
+! 01/27/20 14:35:08! New player added to the table: Troutboy Garrett
+! 01/27/20 16:36:41! BT folds
+! 01/27/20 16:36:41! Jason Feng folds
+! 01/27/20 16:47:57! Thomas Gabrysch raises $3000 to $5000 total 
+! 01/28/20 05:49:50! Nixed folds
+! 01/28/20 05:49:50! Virginia Slims folds
+! 01/28/20 05:57:37! Crush_me raises $11200 to $16200 total 
+! 01/28/20 08:23:19! BrownTrout folds
+! 01/28/20 08:55:25! Thomas Gabrysch calls 
+
+! 01/28/20 08:55:25! Pot right ($36800), flopping/dealing/drawing cards
+! 01/28/20 08:55:25! 2 players
+! 01/28/20 08:55:25! Flopped cards: 7h 5s Kc
+! 01/28/20 09:03:29! Crush_me bets $12800 
+! 01/28/20 09:05:55! Thomas Gabrysch calls 
+
+! 01/28/20 09:05:55! Pot right ($62400), flopping/dealing/drawing cards
+! 01/28/20 09:05:55! 2 players
+! 01/28/20 09:05:55! Flopped card: 10d
+! 01/28/20 09:09:23! Crush_me bets $34600 
+! 01/28/20 09:13:09! Thomas Gabrysch calls 
+
+! 01/28/20 09:13:09! Pot right ($131600), flopping/dealing/drawing cards
+! 01/28/20 09:13:09! 2 players
+! 01/28/20 09:13:09! Flopped card: 9d
+! 01/28/20 09:17:48! Crush_me bets $63900 
+! 01/28/20 09:21:14! Thomas Gabrysch calls 
+! Hand over, current board is:  7h 5s Kc 10d 9d
+! Thomas Gabrysch          has: As Ks
+! Crush_me                 has: 3d 3c
+! Thomas Gabrysch wins $259400 (net $131600) with One Pair (K K A 10 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Jason Feng               |   86100 |         |      |    |         |
+ 2|   Thomas Gabrysch          |  285800 |         |      |    |         |
+ 3|   Nixed                    |  283100 |         |      |    |         |
+ 4|   Virginia Slims           |   50225 |         |      |    |         |
+ 5|D> Crush_me                 |   19250 |         |      |    |         |
+ 6|   BrownTrout               |   80450 |         |      |    |         |
+ 7|   Richard Rognlie          |  136275 |         |      |    |         |
+ 8|   Troutboy Garrett         |  219150 |         |      |    |         |
+ 9|   BT                       |  117325 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 236 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c19.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 7
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

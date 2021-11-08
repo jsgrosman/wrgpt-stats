@@ -1,0 +1,116 @@
+Subject: [c25.10455] Holdem Game Broadcast Message(*)
+
+! Table c25, Hand 187, Day 85
+
+! Lana OBrien bets $12000 
+! Klod folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   BlindMonkey              |   53975 |     200 |folded|    |         |
+ 2|   Klod                     |  136875 |   13200 |folded|    |         |
+ 3|D> Lana OBrien              |  159300 |   25200 |      |    |         |
+ 4|   Bobby Luckbox            |   57800 |     800 |folded|    |         |
+ 5|   MarinaMan                |   94075 |    1400 |folded|    |         |
+ 6|   Dennis Roberts           |   33625 |    4200 |folded|    |         |
+ 7|   Julie Greenberg          |   81550 |     200 |folded|    |         |
+ 9|   Rick Brown               |  104450 |     200 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/26/20 16:32:01! Dealing a new hand
+! 01/26/20 16:32:01! Everyone antes $200
+! 01/26/20 16:32:01! Bobby Luckbox blinds $600
+! 01/26/20 16:32:01! MarinaMan blinds $1200
+! 01/26/20 16:33:17! Dennis Roberts raises $2800 to $4000 total 
+! 01/26/20 16:43:21! Julie Greenberg folds
+! 01/26/20 18:54:21! Rick Brown folds
+! 01/26/20 18:54:21! BlindMonkey folds
+! 01/26/20 18:59:32! Klod calls 
+! 01/26/20 19:17:47! Lana OBrien calls 
+! 01/26/20 20:06:59! Bobby Luckbox folds
+! 01/26/20 20:06:59! MarinaMan folds
+
+! 01/26/20 20:06:59! Pot right ($15400), flopping/dealing/drawing cards
+! 01/26/20 20:06:59! 3 players
+! 01/26/20 20:06:59! Flopped cards: 10d 7d 6s
+! 01/27/20 07:01:52! Dennis Roberts checks
+! 01/27/20 07:11:01! Klod checks
+! 01/27/20 09:02:05! Lana OBrien bets $9000 
+! 01/27/20 09:25:08! Dennis Roberts folds
+! 01/27/20 09:43:59! Klod calls 
+
+! 01/27/20 09:43:59! Pot right ($33400), flopping/dealing/drawing cards
+! 01/27/20 09:43:59! 2 players
+! 01/27/20 09:43:59! Flopped card: Ah
+! 01/27/20 09:50:21! Klod checks
+! 01/27/20 10:12:48! Lana OBrien checks
+
+! 01/27/20 10:12:48! Pot right ($33400), flopping/dealing/drawing cards
+! 01/27/20 10:12:48! 2 players
+! 01/27/20 10:12:48! Flopped card: 3c
+! 01/27/20 10:14:05! Klod checks
+! 01/27/20 10:19:14! Lana OBrien bets $12000 
+! 01/27/20 10:19:14! Klod folds
+! Hand over, no showdown
+! Current board is:  10d 7d 6s Ah 3c
+! Lana OBrien wins $45400 (net $20200)
+! Antes and blinds go up
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   BlindMonkey              |   53975 |         |      |    |         |
+ 2|   Klod                     |  136875 |         |      |    |         |
+ 3|>  Lana OBrien              |  204700 |         |      |    |         |
+ 4|D  Bobby Luckbox            |   57800 |         |      |    |         |
+ 5|   MarinaMan                |   94075 |         |      |    |         |
+ 6|   Dennis Roberts           |   33625 |         |      |    |         |
+ 7|   Julie Greenberg          |   81550 |         |      |    |         |
+ 9|   Rick Brown               |  104450 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 243 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c25.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

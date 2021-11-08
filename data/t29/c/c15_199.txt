@@ -1,0 +1,110 @@
+Subject: [c15.10620] Holdem Game Broadcast Message(*)
+
+! Table c15, Hand 199, Day 91
+
+! Per Landberger calls 
+! Pot right ($159100), flopping/dealing/drawing cards
+! 3 players, 2 all in
+! Flopped cards: As 6s 9d
+! Flopped card: 7d
+! Flopped card: 10c
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Tiltdad                  |   70900 |     300 |folded|    |         |
+ 2|>  Per Landberger           |  187550 |   64250 |      |  2 |   74900 |
+ 3|D  Siri play Nickelback     |       0 |   26800 |all-in|  3 |   84200 |
+ 4|   ScoobySnack              |       0 |   64250 |all-in|  2 |   74900 |
+ 5|   Deborah Abel             |   51400 |    2300 |folded|    |         |
+ 6|   Ableseaman               |   87875 |     300 |folded|    |         |
+ 7|V  Kit Woolsey              |   61500 |     300 |<Gone>|    |         |
+ 8|   AveCat                   |  241875 |     300 |folded|    |         |
+ 9|   quas2000                 |   55450 |     300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/01/20 16:02:28! Dealing a new hand
+! 02/01/20 16:02:28! Everyone antes $300
+! 02/01/20 16:02:28! ScoobySnack blinds $1000
+! 02/01/20 16:02:28! Deborah Abel blinds $2000
+! 02/01/20 16:05:28! Ableseaman folds
+! 02/01/20 16:05:28! Kit Woolsey is on vacation and folds
+! 02/01/20 16:06:43! AveCat folds
+! 02/01/20 16:42:26! quas2000 folds
+! 02/01/20 16:51:03! Tiltdad folds
+! 02/02/20 03:23:43! Per Landberger raises $4000 to $6000 total 
+! 02/02/20 03:23:43! Siri play Nickelback raises $20500 to $26500 total and is all in
+! 02/02/20 07:17:32! ScoobySnack raises $37450 to $63950 total and is all in
+! 02/02/20 07:17:32! Deborah Abel folds
+! 02/02/20 11:22:51! Per Landberger calls 
+
+! 02/02/20 11:22:51! Pot right ($159100), flopping/dealing/drawing cards
+! 02/02/20 11:22:51! 3 players, 2 all in
+! 02/02/20 11:22:51! Flopped cards: As 6s 9d
+! 02/02/20 11:22:51! Flopped card: 7d
+! 02/02/20 11:22:51! Flopped card: 10c
+! Hand over, current board is:  As 6s 9d 7d 10c
+! Per Landberger           has: Js Jc
+! Siri play Nickelback     has: Qh Qd
+! ScoobySnack              has: 8s 8h
+! Pot 2: ScoobySnack wins $74900 with Straight (10 9 8 7 6)
+! Pot 3: ScoobySnack wins $84200 with Straight (10 9 8 7 6)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Tiltdad                  |   70900 |         |      |    |         |
+ 2|>  Per Landberger           |  187550 |         |      |    |         |
+ 4|D  ScoobySnack              |  159100 |         |      |    |         |
+ 5|   Deborah Abel             |   51400 |         |      |    |         |
+ 6|   Ableseaman               |   87875 |         |      |    |         |
+ 7|V  Kit Woolsey              |   61500 |         |<Gone>|    |         |
+ 8|   AveCat                   |  241875 |         |      |    |         |
+ 9|   quas2000                 |   55450 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Siri play Nickelback is eliminated!
+! 216 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c15.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,101 @@
+Subject: [c12.11214] Holdem Game Broadcast Message(*)
+
+! Table c12, Hand 250, Day 97
+
+! jasong folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Stephen Wong             |   31800 |     300 |folded|    |         |
+ 2|   Srfndoc                  |  257200 |     300 |folded|    |         |
+ 3|>  docdanger                |   58225 |   20300 |      |    |         |
+ 5|D  grizz                    |  377000 |    5300 |folded|    |         |
+ 6|   Chris Leslie             |  159700 |    1300 |folded|    |         |
+ 9|   jasong                   |  121425 |    5300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/07/20 21:13:12! Dealing a new hand
+! 02/07/20 21:13:12! Everyone antes $300
+! 02/07/20 21:13:12! Chris Leslie blinds $1000
+! 02/07/20 21:13:12! jasong blinds $2000
+! 02/08/20 00:15:33! Stephen Wong folds
+! 02/08/20 00:15:33! Srfndoc folds
+! 02/08/20 10:29:06! docdanger raises $3000 to $5000 total 
+! 02/08/20 10:40:54! grizz calls 
+! 02/08/20 10:44:33! Chris Leslie folds
+! 02/08/20 11:36:33! jasong calls 
+
+! 02/08/20 11:36:33! Pot right ($17800), flopping/dealing/drawing cards
+! 02/08/20 11:36:33! 3 players
+! 02/08/20 11:36:33! Flopped cards: 10d 5d 7c
+! 02/08/20 11:36:58! jasong checks
+! 02/08/20 11:39:58! docdanger bets $15000 
+! 02/08/20 11:46:43! grizz folds
+! 02/08/20 11:48:52! jasong folds
+! Hand over, no showdown
+! Current board is:  10d 5d 7c ? ?
+! docdanger wins $32800 (net $12500)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Stephen Wong             |   31800 |         |      |    |         |
+ 2|   Srfndoc                  |  257200 |         |      |    |         |
+ 3|>  docdanger                |   91025 |         |      |    |         |
+ 5|   grizz                    |  377000 |         |      |    |         |
+ 6|D  Chris Leslie             |  159700 |         |      |    |         |
+ 9|   jasong                   |  121425 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 191 players left in the tournament, 2 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c12.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+We are now over 30 days in round "c".  Automatic
+table breaking and live redraws have been disabled.
+We will play until one or more tables gets below six
+players.  When that happens all tables will finish
+the current hand and a full redraw will occur into
+the "d" round.
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 25
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

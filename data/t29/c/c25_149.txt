@@ -1,0 +1,113 @@
+Subject: [c25.10056] Holdem Game Broadcast Message(*)
+
+! Table c25, Hand 149, Day 64
+
+! Rick Brown calls 
+! Pot right ($20350), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 8h
+! Flopped card: 4c
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   BlindMonkey              |   56725 |     100 |folded|    |         |
+ 2|   FeedTheHerd              |    9925 |     100 |folded|    |         |
+ 3|   Lana OBrien              |   70850 |     100 |folded|    |         |
+ 4|   Simon McAndrews          |   14900 |     100 |folded|    |         |
+ 5|D  MarinaMan                |   73525 |     100 |folded|    |         |
+ 6|   Dennis Roberts           |   60425 |     350 |folded|    |         |
+ 7|   Aardvark                 |       0 |    9700 |all-in|    |         |
+ 8|   SwamperTT                |   82900 |     100 |folded|    |         |
+ 9|>  Rick Brown               |   61025 |    9700 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/06/20 07:10:26! Dealing a new hand
+! 01/06/20 07:10:26! Everyone antes $100
+! 01/06/20 07:10:26! Dennis Roberts blinds $250
+! 01/06/20 07:10:26! Aardvark blinds $500
+! 01/06/20 09:28:22! SwamperTT folds
+! 01/06/20 09:32:14! Rick Brown raises $500 to $1000 total 
+! 01/06/20 10:07:44! BlindMonkey folds
+! 01/06/20 10:20:13! FeedTheHerd folds
+! 01/06/20 10:43:21! Lana OBrien folds
+! 01/06/20 10:43:21! Simon McAndrews folds
+! 01/06/20 14:45:02! MarinaMan folds
+! 01/06/20 14:45:02! Dennis Roberts folds
+! 01/06/20 14:46:42! Aardvark calls 
+
+! 01/06/20 14:46:42! Pot right ($3150), flopping/dealing/drawing cards
+! 01/06/20 14:46:42! 2 players
+! 01/06/20 14:46:42! Flopped cards: 9s Kd 2s
+! 01/06/20 14:54:03! Aardvark checks
+! 01/06/20 14:57:50! Rick Brown bets $4000 
+! 01/06/20 17:08:43! Aardvark raises $4600 to $8600 total and is all in
+! 01/06/20 17:10:51! Rick Brown calls 
+
+! 01/06/20 17:10:51! Pot right ($20350), flopping/dealing/drawing cards
+! 01/06/20 17:10:51! 2 players, 1 all in
+! 01/06/20 17:10:51! Flopped card: 8h
+! 01/06/20 17:10:51! Flopped card: 4c
+! Hand over, current board is:  9s Kd 2s 8h 4c
+! Aardvark                 has: 2h 8c
+! Rick Brown               has: Js Jd
+! Aardvark wins $20350 (net $10650) with Two Pair (8 8 2 2 K)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   BlindMonkey              |   56725 |         |      |    |         |
+ 2|   FeedTheHerd              |    9925 |         |      |    |         |
+ 3|   Lana OBrien              |   70850 |         |      |    |         |
+ 4|   Simon McAndrews          |   14900 |         |      |    |         |
+ 5|   MarinaMan                |   73525 |         |      |    |         |
+ 6|D  Dennis Roberts           |   60425 |         |      |    |         |
+ 7|   Aardvark                 |   20350 |         |      |    |         |
+ 8|   SwamperTT                |   82900 |         |      |    |         |
+ 9|>  Rick Brown               |   61025 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 334 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c25.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

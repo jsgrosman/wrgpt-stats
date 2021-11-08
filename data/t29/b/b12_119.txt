@@ -1,0 +1,120 @@
+Subject: [b12.11291] Holdem Game Broadcast Message(*)
+
+! Table b12, Hand 119, Day 59
+
+! BBLWOG calls 
+! Pot right ($55600), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 5d
+! Flopped card: 9c
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Derrick Martins          |   84200 |     100 |folded|    |         |
+ 2|   Lana OBrien              |   34825 |     100 |folded|    |         |
+ 3|>  BBLWOG                   |   37325 |   27325 |      |    |         |
+ 4|D  J. Michael Robertson     |  194700 |     100 |folded|    |         |
+ 5|   Bacon                    |   64800 |     350 |folded|    |         |
+ 6|   Chris Leslie             |       0 |   27325 |all-in|    |         |
+ 7|   Daryl                    |   20300 |     100 |folded|    |         |
+ 8|   Dino Bravo               |   94875 |     100 |folded|    |         |
+ 9|   Ken Kubey                |   76650 |     100 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/31/19 12:49:35! Dealing a new hand
+! 12/31/19 12:49:35! Everyone antes $100
+! 12/31/19 12:49:35! Bacon blinds $250
+! 12/31/19 12:49:35! Chris Leslie blinds $500
+! 12/31/19 13:17:06! Daryl folds
+! 12/31/19 16:27:29! Dino Bravo folds
+! 12/31/19 16:27:29! Ken Kubey folds
+! 12/31/19 22:10:46! Derrick Martins folds
+! 12/31/19 22:10:46! Lana OBrien folds
+! 12/31/19 22:13:13! BBLWOG raises $2000 to $2500 total 
+! 12/31/19 22:13:13! J. Michael Robertson folds
+! 01/01/20 04:50:56! Bacon folds
+! 01/01/20 08:40:55! Chris Leslie calls 
+
+! 01/01/20 08:40:55! Pot right ($6150), flopping/dealing/drawing cards
+! 01/01/20 08:40:55! 2 players
+! 01/01/20 08:40:55! Flopped cards: Jd Qd 7s
+! 01/01/20 08:46:35! Chris Leslie checks
+! 01/01/20 09:01:22! BBLWOG bets $3000 
+! 01/01/20 12:33:16! Chris Leslie raises $21725 to $24725 total and is all in
+! 01/01/20 12:42:34! BBLWOG calls 
+
+! 01/01/20 12:42:34! Pot right ($55600), flopping/dealing/drawing cards
+! 01/01/20 12:42:34! 2 players, 1 all in
+! 01/01/20 12:42:34! Flopped card: 5d
+! 01/01/20 12:42:34! Flopped card: 9c
+! Hand over, current board is:  Jd Qd 7s 5d 9c
+! BBLWOG                   has: Ks Ad
+! Chris Leslie             has: Qs Kc
+! Chris Leslie wins $55600 (net $28275) with One Pair (Q Q K J 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Derrick Martins          |   84200 |         |      |    |         |
+ 2|   Lana OBrien              |   34825 |         |      |    |         |
+ 3|>  BBLWOG                   |   37325 |         |      |    |         |
+ 4|   J. Michael Robertson     |  194700 |         |      |    |         |
+ 5|D  Bacon                    |   64800 |         |      |    |         |
+ 6|   Chris Leslie             |   55600 |         |      |    |         |
+ 7|   Daryl                    |   20300 |         |      |    |         |
+ 8|   Dino Bravo               |   94875 |         |      |    |         |
+ 9|   Ken Kubey                |   76650 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 347 players left in the tournament, 9 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b12.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+After day 45 of the tourney there will be no
+more live redraws or breaking tables.  Tables
+will be allowed to run until a table gets to 
+five or fewer players at which time all tables
+will finish the current hand and a full, random
+redraw to all new tables will be done.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 58
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

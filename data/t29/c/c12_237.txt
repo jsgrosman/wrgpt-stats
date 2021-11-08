@@ -1,0 +1,111 @@
+Subject: [c12.11092] Holdem Game Broadcast Message(*)
+
+! Table c12, Hand 237, Day 94
+
+! Brian Cooper folds
+! Pot right ($87100), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped cards: 3d Ah Kd
+! Flopped card: Qh
+! Flopped card: 2h
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Stephen Wong             |  113225 |     300 |folded|    |         |
+ 2|   Srfndoc                  |  169200 |     300 |folded|    |         |
+ 3|   docdanger                |  107125 |     300 |folded|    |         |
+ 5|D> grizz                    |  337275 |   41150 |      |    |         |
+ 6|   Chris Leslie             |  148350 |    1300 |folded|    |         |
+ 7|   Brian Cooper             |   33750 |    2300 |folded|    |         |
+ 8|   Poulsboy                 |       0 |   41150 |all-in|    |         |
+ 9|   jasong                   |   42125 |     300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/05/20 13:19:10! Dealing a new hand
+! 02/05/20 13:19:10! Everyone antes $300
+! 02/05/20 13:19:10! Chris Leslie blinds $1000
+! 02/05/20 13:19:10! Brian Cooper blinds $2000
+! 02/05/20 13:19:30! Poulsboy raises $38850 to $40850 total and is all in
+! 02/05/20 13:32:38! jasong folds
+! 02/05/20 13:44:26! Stephen Wong folds
+! 02/05/20 13:44:26! Srfndoc folds
+! 02/05/20 13:44:26! docdanger folds
+! 02/05/20 13:54:20! grizz calls 
+! 02/05/20 14:07:05! Chris Leslie folds
+! 02/05/20 14:16:58! Brian Cooper folds
+
+! 02/05/20 14:16:58! Pot right ($87100), flopping/dealing/drawing cards
+! 02/05/20 14:16:58! 2 players, 1 all in
+! 02/05/20 14:16:58! Flopped cards: 3d Ah Kd
+! 02/05/20 14:16:58! Flopped card: Qh
+! 02/05/20 14:16:58! Flopped card: 2h
+! Hand over, current board is:  3d Ah Kd Qh 2h
+! grizz                    has: Jh Ad
+! Poulsboy                 has: 9s 9c
+! grizz wins $87100 (net $45950) with One Pair (A A K Q J)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Stephen Wong             |  113225 |         |      |    |         |
+ 2|   Srfndoc                  |  169200 |         |      |    |         |
+ 3|   docdanger                |  107125 |         |      |    |         |
+ 5|>  grizz                    |  424375 |         |      |    |         |
+ 6|D  Chris Leslie             |  148350 |         |      |    |         |
+ 7|   Brian Cooper             |   33750 |         |      |    |         |
+ 9|   jasong                   |   42125 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Poulsboy is eliminated!
+! 199 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c12.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+We are now over 30 days in round "c".  Automatic
+table breaking and live redraws have been disabled.
+We will play until one or more tables gets below six
+players.  When that happens all tables will finish
+the current hand and a full redraw will occur into
+the "d" round.
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 16
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

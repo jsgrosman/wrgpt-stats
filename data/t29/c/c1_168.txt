@@ -1,0 +1,108 @@
+Subject: [c1.10265] Holdem Game Broadcast Message(*)
+
+! Table c1, Hand 168, Day 74
+
+! Seanbo calls 
+! Pot right ($34300), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped cards: 5c 7c 9c
+! Flopped card: Qh
+! Flopped card: 5h
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  Seanbo                   |   90525 |   15550 |      |    |         |
+ 2|   Derrick Martins          |   64400 |     200 |folded|    |         |
+ 3|   BBLWOG                   |   74200 |     200 |folded|    |         |
+ 4|   JoeBou4860               |       0 |   15550 |all-in|    |         |
+ 5|   Blackcove                |   79300 |     200 |folded|    |         |
+ 6|D  Charlie Tuna             |  127850 |     200 |folded|    |         |
+ 7|   Shari Silk               |  156800 |     800 |folded|    |         |
+ 8|   Frank Russomanno         |   63250 |    1400 |folded|    |         |
+ 9|   Joe Nadeau               |   30950 |     200 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/15/20 16:11:53! Dealing a new hand
+! 01/15/20 16:11:53! Everyone antes $200
+! 01/15/20 16:11:53! Shari Silk blinds $600
+! 01/15/20 16:11:53! Frank Russomanno blinds $1200
+! 01/15/20 19:01:56! Joe Nadeau folds
+! 01/16/20 02:24:51! Seanbo raises $4800 to $6000 total 
+! 01/16/20 02:24:51! Derrick Martins folds
+! 01/16/20 02:24:51! BBLWOG folds
+! 01/16/20 04:00:46! JoeBou4860 raises $9350 to $15350 total and is all in
+! 01/16/20 05:54:18! Blackcove folds
+! 01/16/20 07:02:22! Charlie Tuna folds
+! 01/16/20 07:31:38! Shari Silk folds
+! 01/16/20 07:49:06! Frank Russomanno folds
+! 01/16/20 08:01:56! Seanbo calls 
+
+! 01/16/20 08:01:56! Pot right ($34300), flopping/dealing/drawing cards
+! 01/16/20 08:01:56! 2 players, 1 all in
+! 01/16/20 08:01:56! Flopped cards: 5c 7c 9c
+! 01/16/20 08:01:56! Flopped card: Qh
+! 01/16/20 08:01:56! Flopped card: 5h
+! Hand over, current board is:  5c 7c 9c Qh 5h
+! Seanbo                   has: Qd Kc
+! JoeBou4860               has: Ah 9d
+! Seanbo wins $34300 (net $18750) with Two Pair (Q Q 5 5 K)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  Seanbo                   |  124825 |         |      |    |         |
+ 2|   Derrick Martins          |   64400 |         |      |    |         |
+ 3|   BBLWOG                   |   74200 |         |      |    |         |
+ 5|   Blackcove                |   79300 |         |      |    |         |
+ 6|   Charlie Tuna             |  127850 |         |      |    |         |
+ 7|D  Shari Silk               |  156800 |         |      |    |         |
+ 8|   Frank Russomanno         |   63250 |         |      |    |         |
+ 9|   Joe Nadeau               |   30950 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! JoeBou4860 is eliminated!
+! 296 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c1.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

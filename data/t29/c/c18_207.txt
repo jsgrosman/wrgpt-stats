@@ -1,0 +1,124 @@
+Subject: [c18.10651] Holdem Game Broadcast Message(*)
+
+! Table c18, Hand 207, Day 95
+
+! Robert Christ checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   888                      |   54900 |    1300 |folded|    |         |
+ 2|   Bob The Butcher          |  143750 |    5300 |folded|    |         |
+ 3|   db222                    |   30275 |     300 |folded|    |         |
+ 4|>  danthefan                |   90800 |   35300 |      |    |         |
+ 5|   Sunnygirl318             |   69500 |     300 |folded|    |         |
+ 6|   Butter                   |  363625 |     300 |folded|    |         |
+ 7|   beacon bot               |  115700 |     300 |folded|    |         |
+ 8|V  Oldbloke                 |   97625 |     300 |<Gone>|    |         |
+ 9|D  Robert Christ            |  124050 |   35300 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/05/20 17:03:43! Dealing a new hand
+! 02/05/20 17:03:43! Everyone antes $300
+! 02/05/20 17:03:43! 888 blinds $1000
+! 02/05/20 17:03:43! Bob The Butcher blinds $2000
+! 02/05/20 17:40:46! db222 folds
+! 02/05/20 17:57:38! danthefan raises $3000 to $5000 total 
+! 02/05/20 17:57:38! Sunnygirl318 folds
+! 02/05/20 17:57:38! Butter folds
+! 02/05/20 19:24:43! beacon bot folds
+! 02/05/20 19:24:43! Oldbloke is on vacation and folds
+! 02/05/20 21:08:09! Robert Christ calls 
+! 02/06/20 02:38:47! 888 folds
+! 02/06/20 04:11:54! Bob The Butcher calls 
+
+! 02/06/20 04:11:54! Pot right ($18700), flopping/dealing/drawing cards
+! 02/06/20 04:11:54! 3 players
+! 02/06/20 04:11:54! Flopped cards: 5h Kh 7s
+! 02/06/20 04:12:31! Bob The Butcher checks
+! 02/06/20 04:46:41! danthefan bets $10000 
+! 02/06/20 08:46:10! Robert Christ calls 
+! 02/06/20 08:46:10! Bob The Butcher folds
+
+! 02/06/20 08:46:10! Pot right ($38700), flopping/dealing/drawing cards
+! 02/06/20 08:46:10! 2 players
+! 02/06/20 08:46:10! Flopped card: Qh
+! 02/06/20 08:48:23! danthefan checks
+! 02/06/20 08:51:38! Robert Christ bets $20000 
+! 02/06/20 08:54:10! danthefan calls 
+
+! 02/06/20 08:54:10! Pot right ($78700), flopping/dealing/drawing cards
+! 02/06/20 08:54:10! 2 players
+! 02/06/20 08:54:10! Flopped card: 9d
+! 02/06/20 08:54:48! danthefan checks
+! 02/06/20 09:33:58! Robert Christ checks
+! Hand over, current board is:  5h Kh 7s Qh 9d
+! danthefan                has: Qs Js
+! Robert Christ            has: Jh Kd
+! Robert Christ wins $78700 (net $43400) with One Pair (K K Q J 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  888                      |   54900 |         |      |    |         |
+ 2|   Bob The Butcher          |  143750 |         |      |    |         |
+ 3|   db222                    |   30275 |         |      |    |         |
+ 4|>  danthefan                |   90800 |         |      |    |         |
+ 5|   Sunnygirl318             |   69500 |         |      |    |         |
+ 6|   Butter                   |  363625 |         |      |    |         |
+ 7|   beacon bot               |  115700 |         |      |    |         |
+ 8|V  Oldbloke                 |   97625 |         |<Gone>|    |         |
+ 9|   Robert Christ            |  202750 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 197 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c18.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+We are now over 30 days in round "c".  Automatic
+table breaking and live redraws have been disabled.
+We will play until one or more tables gets below six
+players.  When that happens all tables will finish
+the current hand and a full redraw will occur into
+the "d" round.
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 19
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

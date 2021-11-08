@@ -1,0 +1,103 @@
+Subject: [c26.10035] Holdem Game Broadcast Message(*)
+
+! Table c26, Hand 147, Day 63
+
+! Barrett folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Jim Anderson             |  111950 |     100 |folded|    |         |
+ 2|   m13d                     |   74775 |     100 |folded|    |         |
+ 3|D  Tiltdad                  |   59750 |     100 |folded|    |         |
+ 4|   Nyte                     |   37975 |     350 |folded|    |         |
+ 5|   gilette                  |  156800 |     600 |folded|    |         |
+ 6|   Rollo                    |   22775 |     100 |folded|    |         |
+ 7|   Barrett                  |   27125 |    3600 |folded|    |         |
+ 8|>  tekbot                   |   57550 |    8600 |      |    |         |
+ 9|   GoBig                    |   43900 |     100 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/05/20 12:40:34! Dealing a new hand
+! 01/05/20 12:40:34! Everyone antes $100
+! 01/05/20 12:40:34! Nyte blinds $250
+! 01/05/20 12:40:34! gilette blinds $500
+! 01/05/20 12:42:53! Rollo folds
+! 01/05/20 12:57:23! Barrett raises $1000 to $1500 total 
+! 01/05/20 13:13:34! tekbot raises $2000 to $3500 total 
+! 01/05/20 14:09:20! GoBig folds
+! 01/05/20 14:09:20! Jim Anderson folds
+! 01/05/20 14:11:41! m13d folds
+! 01/05/20 14:11:41! Tiltdad folds
+! 01/05/20 14:24:25! Nyte folds
+! 01/05/20 15:09:00! gilette folds
+! 01/05/20 15:12:31! Barrett calls 
+
+! 01/05/20 15:12:31! Pot right ($8650), flopping/dealing/drawing cards
+! 01/05/20 15:12:31! 2 players
+! 01/05/20 15:12:31! Flopped cards: Ks 8c 7h
+! 01/05/20 15:14:08! Barrett checks
+! 01/05/20 15:16:28! tekbot bets $5000 
+! 01/05/20 15:17:31! Barrett folds
+! Hand over, no showdown
+! Current board is:  Ks 8c 7h ? ?
+! tekbot wins $13650 (net $5050)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Jim Anderson             |  111950 |         |      |    |         |
+ 2|   m13d                     |   74775 |         |      |    |         |
+ 3|   Tiltdad                  |   59750 |         |      |    |         |
+ 4|D  Nyte                     |   37975 |         |      |    |         |
+ 5|   gilette                  |  156800 |         |      |    |         |
+ 6|   Rollo                    |   22775 |         |      |    |         |
+ 7|   Barrett                  |   27125 |         |      |    |         |
+ 8|>  tekbot                   |   71200 |         |      |    |         |
+ 9|   GoBig                    |   43900 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 337 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c26.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

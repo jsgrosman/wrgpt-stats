@@ -1,0 +1,116 @@
+Subject: [b1.10385] Holdem Game Broadcast Message(*)
+
+! Table b1, Hand 31, Day 43
+
+! JADC calls - side pot
+! Pot right ($61025), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped card: 8s
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|V  DroogieDroog             |  116400 |      50 | 17Dec|    |         |
+ 2|   Andrew Prock             |   27050 |      50 |folded|    |         |
+ 3|   DaveKal                  |  184750 |      50 |folded|    |         |
+ 4|D  CharlieM                 |   70950 |      50 |folded|    |         |
+ 5|V  glorphy                  |   35875 |     250 |<AWOL>|    |         |
+ 6|   TommyO                   |   51525 |    1050 |folded|    |         |
+ 7|   Vodka on the rocks       |       0 |   34075 |all-in|  1 |    8625 |
+ 8|>  JADC                     |       0 |   25450 |all-in|  2 |   52400 |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/16/19 13:09:45! Dealing a new hand
+! 12/16/19 13:09:45! Everyone antes $50
+! 12/16/19 13:09:45! glorphy blinds $200
+! 12/16/19 13:09:45! TommyO blinds $400
+! 12/16/19 14:15:07! Vodka on the rocks calls 
+! 12/16/19 14:44:04! JADC raises $600 to $1000 total 
+! 12/16/19 14:44:04! DroogieDroog is on vacation and folds
+! 12/16/19 14:44:04! Andrew Prock folds
+! 12/16/19 14:52:15! DaveKal folds
+! 12/16/19 15:01:41! CharlieM folds
+! 12/16/19 15:01:41! glorphy is on vacation and folds
+! 12/16/19 15:13:39! TommyO calls 
+! 12/16/19 15:40:34! Vodka on the rocks calls 
+
+! 12/16/19 15:40:34! Pot right ($3600), flopping/dealing/drawing cards
+! 12/16/19 15:40:34! 3 players
+! 12/16/19 15:40:34! Flopped cards: 2d 9c 9s
+! 12/16/19 16:05:22! TommyO checks
+! 12/16/19 16:26:47! Vodka on the rocks bets $3600 
+! 12/16/19 17:27:48! JADC calls 
+! 12/16/19 17:27:48! TommyO folds
+
+! 12/16/19 17:27:48! Pot right ($10800), flopping/dealing/drawing cards
+! 12/16/19 17:27:48! 2 players
+! 12/16/19 17:27:48! Flopped card: 3d
+! 12/16/19 17:33:15! Vodka on the rocks bets $29425 and is all in
+! 12/16/19 18:01:36! JADC calls - side pot
+
+! 12/16/19 18:01:36! Pot right ($61025), flopping/dealing/drawing cards
+! 12/16/19 18:01:36! 2 players, 2 all in
+! 12/16/19 18:01:36! Flopped card: 8s
+! Hand over, current board is:  2d 9c 9s 3d 8s
+! Vodka on the rocks       has: 3s 3h
+! JADC                     has: Ah 9h
+! Pot 1: uncalled $8625 returned to Vodka on the rocks
+! Pot 2: Vodka on the rocks wins $52400 with Full House (3 3 3 9 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|V  DroogieDroog             |  116400 |         | 17Dec|    |         |
+ 2|   Andrew Prock             |   27050 |         |      |    |         |
+ 3|   DaveKal                  |  184750 |         |      |    |         |
+ 4|   CharlieM                 |   70950 |         |      |    |         |
+ 5|DV glorphy                  |   35875 |         |<AWOL>|    |         |
+ 6|   TommyO                   |   51525 |         |      |    |         |
+ 7|   Vodka on the rocks       |   61025 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! JADC is eliminated!
+! 403 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b1.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables for 45 days 
+will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 10
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

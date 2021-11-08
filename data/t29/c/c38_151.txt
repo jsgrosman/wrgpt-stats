@@ -1,0 +1,115 @@
+Subject: [c38.10085] Holdem Game Broadcast Message(*)
+
+! Table c38, Hand 151, Day 65
+
+! Glenn All-in calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Bart Tichelman           |   43050 |     600 |folded|    |         |
+ 2|   Twench                   |   64900 |     100 |folded|    |         |
+ 3|   Dan Driscoll             |   59800 |     600 |folded|    |         |
+ 5|   Glenn All-in             |   60225 |   18600 |      |    |         |
+ 6|   quas2000                 |   77150 |     100 |folded|    |         |
+ 7|D> Eliuk35                  |   40600 |   18600 |      |    |         |
+ 8|   Mark Ito                 |   88800 |     600 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/06/20 14:40:20! Dealing a new hand
+! 01/06/20 14:40:20! Everyone antes $100
+! 01/06/20 14:40:20! Mark Ito blinds $250
+! 01/06/20 14:40:20! Bart Tichelman blinds $500
+! 01/06/20 16:06:55! Twench folds
+! 01/06/20 16:53:00! Dan Driscoll calls 
+! 01/06/20 19:29:20! Glenn All-in calls 
+! 01/06/20 19:29:20! quas2000 folds
+! 01/06/20 20:39:45! Eliuk35 calls 
+! 01/06/20 20:39:45! Mark Ito calls 
+! 01/07/20 08:02:03! Bart Tichelman checks
+
+! 01/07/20 08:02:03! Pot right ($3200), flopping/dealing/drawing cards
+! 01/07/20 08:02:03! 5 players
+! 01/07/20 08:02:03! Flopped cards: Qc 8c 5h
+! 01/07/20 08:03:05! Mark Ito checks
+! 01/07/20 08:03:05! Bart Tichelman checks
+! 01/07/20 08:49:02! Dan Driscoll checks
+! 01/07/20 08:51:00! Glenn All-in bets $1600 
+! 01/07/20 08:53:44! Eliuk35 calls 
+! 01/07/20 08:57:23! Mark Ito folds
+! 01/07/20 09:43:58! Bart Tichelman folds
+! 01/07/20 12:03:40! Dan Driscoll folds
+
+! 01/07/20 12:03:40! Pot right ($6400), flopping/dealing/drawing cards
+! 01/07/20 12:03:40! 2 players
+! 01/07/20 12:03:40! Flopped card: 6c
+! 01/07/20 13:06:58! Glenn All-in bets $6400 
+! 01/07/20 13:13:47! Eliuk35 calls 
+
+! 01/07/20 13:13:47! Pot right ($19200), flopping/dealing/drawing cards
+! 01/07/20 13:13:47! 2 players
+! 01/07/20 13:13:47! Flopped card: 8s
+! 01/07/20 13:15:04! Glenn All-in checks
+! 01/07/20 13:21:51! Eliuk35 bets $10000 
+! 01/07/20 13:23:51! Glenn All-in calls 
+! Hand over, current board is:  Qc 8c 5h 6c 8s
+! Glenn All-in             has: 10c 7c
+! Eliuk35                  has: Kd Qd
+! Glenn All-in wins $39200 (net $20600) with Club Flush (Q 10 8 7 6)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Bart Tichelman           |   43050 |         |      |    |         |
+ 2|   Twench                   |   64900 |         |      |    |         |
+ 3|   Dan Driscoll             |   59800 |         |      |    |         |
+ 5|   Glenn All-in             |   99425 |         |      |    |         |
+ 6|   quas2000                 |   77150 |         |      |    |         |
+ 7|>  Eliuk35                  |   40600 |         |      |    |         |
+ 8|D  Mark Ito                 |   88800 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 333 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c38.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 10
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

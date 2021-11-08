@@ -1,0 +1,110 @@
+Subject: [c21.10561] Holdem Game Broadcast Message(*)
+
+! Table c21, Hand 201, Day 90
+
+! bozo calls - side pot
+! Cody Jones is on vacation and folds
+! Redbird is on vacation and folds
+! Pot right ($111150), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped cards: 3d Kd 4d
+! Flopped card: 8s
+! Flopped card: 3s
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   CRStals                  |  238825 |     300 |folded|    |         |
+ 2|   L.A. Johnson             |  262900 |     300 |folded|    |         |
+ 3|   mjoseff                  |  101900 |     300 |folded|    |         |
+ 4|D  bozo                     |       0 |   52175 |all-in|  2 |  109450 |
+ 5|V  Cody Jones               |   11650 |    1300 |<AWOL>|    |         |
+ 6|V> Redbird                  |   76250 |    2300 |<AWOL>|    |         |
+ 7|   Olof Siverbo             |  111950 |     300 |folded|    |         |
+ 8|   Another player           |   92700 |     300 |folded|    |         |
+ 9|   Dave McVay               |       0 |   53875 |all-in|  1 |    1700 |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/01/20 01:38:21! Dealing a new hand
+! 02/01/20 01:38:21! Everyone antes $300
+! 02/01/20 01:38:21! Cody Jones blinds $1000
+! 02/01/20 01:38:21! Redbird blinds $2000
+! 02/01/20 02:08:28! Olof Siverbo folds
+! 02/01/20 06:34:22! Another player folds
+! 02/01/20 07:24:12! Dave McVay raises $51575 to $53575 total and is all in
+! 02/01/20 08:37:06! CRStals folds
+! 02/01/20 08:37:06! L.A. Johnson folds
+! 02/01/20 08:37:06! mjoseff folds
+! 02/01/20 08:43:24! bozo calls - side pot
+! 02/01/20 08:43:24! Cody Jones is on vacation and folds
+! 02/01/20 08:43:24! Redbird is on vacation and folds
+
+! 02/01/20 08:43:24! Pot right ($111150), flopping/dealing/drawing cards
+! 02/01/20 08:43:24! 2 players, 2 all in
+! 02/01/20 08:43:24! Flopped cards: 3d Kd 4d
+! 02/01/20 08:43:24! Flopped card: 8s
+! 02/01/20 08:43:24! Flopped card: 3s
+! Hand over, current board is:  3d Kd 4d 8s 3s
+! bozo                     has: 5s 5h
+! Dave McVay               has: 7h 7d
+! Pot 1: uncalled $1700 returned to Dave McVay
+! Pot 2: Dave McVay wins $109450 with Two Pair (7 7 3 3 K)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   CRStals                  |  238825 |         |      |    |         |
+ 2|   L.A. Johnson             |  262900 |         |      |    |         |
+ 3|   mjoseff                  |  101900 |         |      |    |         |
+ 5|DV Cody Jones               |   11650 |         |<AWOL>|    |         |
+ 6|V> Redbird                  |   76250 |         |<AWOL>|    |         |
+ 7|   Olof Siverbo             |  111950 |         |      |    |         |
+ 8|   Another player           |   92700 |         |      |    |         |
+ 9|   Dave McVay               |  111150 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! bozo is eliminated!
+! 222 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c21.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 11
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

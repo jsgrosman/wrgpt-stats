@@ -1,0 +1,108 @@
+Subject: [c19.10094] Holdem Game Broadcast Message(*)
+
+! Table c19, Hand 153, Day 67
+
+! heffmike calls 
+! Pot right ($23000), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped cards: Kh 9d 10d
+! Flopped card: 9h
+! Flopped card: 2h
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Jason Feng               |   30575 |     350 |folded|    |         |
+ 2|   Thomas Gabrysch          |  161750 |     600 |folded|    |         |
+ 3|   Nixed                    |  217050 |     100 |folded|    |         |
+ 4|   Virginia Slims           |   90725 |     100 |folded|    |         |
+ 5|   Monika                   |   49075 |     100 |folded|    |         |
+ 6|   BrownTrout               |   58000 |     100 |folded|    |         |
+ 7|>  heffmike                 |   29775 |   10775 |      |    |         |
+ 8|   ebock                    |       0 |   10775 |all-in|    |         |
+ 9|D  Brent Moore              |   48600 |     100 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/09/20 11:41:56! Dealing a new hand
+! 01/09/20 11:41:56! Everyone antes $100
+! 01/09/20 11:41:56! Jason Feng blinds $250
+! 01/09/20 11:41:56! Thomas Gabrysch blinds $500
+! 01/09/20 11:52:47! Nixed folds
+! 01/09/20 12:25:53! Virginia Slims folds
+! 01/09/20 12:26:49! Monika folds
+! 01/09/20 15:59:52! BrownTrout folds
+! 01/09/20 16:52:06! heffmike raises $1100 to $1600 total 
+! 01/09/20 18:33:13! ebock raises $9075 to $10675 total and is all in
+! 01/09/20 18:33:13! Brent Moore folds
+! 01/09/20 18:33:13! Jason Feng folds
+! 01/09/20 20:04:37! Thomas Gabrysch folds
+! 01/09/20 21:44:29! heffmike calls 
+
+! 01/09/20 21:44:29! Pot right ($23000), flopping/dealing/drawing cards
+! 01/09/20 21:44:29! 2 players, 1 all in
+! 01/09/20 21:44:29! Flopped cards: Kh 9d 10d
+! 01/09/20 21:44:29! Flopped card: 9h
+! 01/09/20 21:44:29! Flopped card: 2h
+! Hand over, current board is:  Kh 9d 10d 9h 2h
+! heffmike                 has: 9c 6c
+! ebock                    has: Qh Jd
+! ebock wins $23000 (net $12225) with Straight (K Q J 10 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  Jason Feng               |   30575 |         |      |    |         |
+ 2|   Thomas Gabrysch          |  161750 |         |      |    |         |
+ 3|   Nixed                    |  217050 |         |      |    |         |
+ 4|   Virginia Slims           |   90725 |         |      |    |         |
+ 5|   Monika                   |   49075 |         |      |    |         |
+ 6|   BrownTrout               |   58000 |         |      |    |         |
+ 7|>  heffmike                 |   29775 |         |      |    |         |
+ 8|   ebock                    |   23000 |         |      |    |         |
+ 9|   Brent Moore              |   48600 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 317 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c19.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 10
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

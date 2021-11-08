@@ -1,0 +1,114 @@
+Subject: [b4.10231] Holdem Game Broadcast Message(*)
+
+! Table b4, Hand 21, Day 18
+
+! ActionBob checks
+! Pot right ($1800), flopping/dealing/drawing cards
+! 2 players
+! Flopped card: 8c
+! Jason Feng bets $1000 
+! ActionBob folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Cruella                  |   70475 |       0 |folded|    |         |
+ 2|   ActionBob                |   48150 |     750 |folded|    |         |
+ 3|   Neurosion                |   85100 |       0 |folded|    |         |
+ 4|D  Brent Moore              |   62725 |       0 |folded|    |         |
+ 5|>  Jason Feng               |   73850 |    1750 |      |    |         |
+ 6|   Dalai Pookah             |   48525 |     300 |folded|    |         |
+ 7|   ADB Foldem               |   44250 |       0 |folded|    |         |
+ 9|   Nixed                    |   49525 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/20/19 14:49:00! Dealing a new hand
+! 11/20/19 14:49:00! No ante
+! 11/20/19 14:49:00! Jason Feng blinds $150
+! 11/20/19 14:49:00! Dalai Pookah blinds $300
+! 11/20/19 15:13:44! ADB Foldem folds
+! 11/20/19 17:50:59! ActionBob is back from vacation
+! 11/20/19 19:48:33! Nixed folds
+! 11/20/19 19:48:33! Cruella folds
+! 11/20/19 22:05:56! ActionBob raises $450 to $750 total 
+! 11/20/19 22:05:56! Neurosion folds
+! 11/21/19 04:56:29! Brent Moore folds
+! 11/21/19 04:56:29! Jason Feng calls 
+! 11/21/19 05:45:55! Dalai Pookah folds
+
+! 11/21/19 05:45:55! Pot right ($1800), flopping/dealing/drawing cards
+! 11/21/19 05:45:55! 2 players
+! 11/21/19 05:45:55! Flopped cards: 9c 7c 10c
+! 11/21/19 06:04:27! Jason Feng checks
+! 11/21/19 14:01:03! ActionBob checks
+
+! 11/21/19 14:01:03! Pot right ($1800), flopping/dealing/drawing cards
+! 11/21/19 14:01:03! 2 players
+! 11/21/19 14:01:03! Flopped card: 8c
+! 11/21/19 14:01:03! Jason Feng bets $1000 
+! 11/21/19 14:01:03! ActionBob folds
+! Hand over, no showdown
+! Current board is:  9c 7c 10c 8c ?
+! Jason Feng wins $2800 (net $1050)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Cruella                  |   70475 |         |      |    |         |
+ 2|   ActionBob                |   48150 |         |      |    |         |
+ 3|   Neurosion                |   85100 |         |      |    |         |
+ 4|   Brent Moore              |   62725 |         |      |    |         |
+ 5|D> Jason Feng               |   76650 |         |      |    |         |
+ 6|   Dalai Pookah             |   48525 |         |      |    |         |
+ 7|   ADB Foldem               |   44250 |         |      |    |         |
+ 9|   Nixed                    |   49525 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! ActionBob timed out during this hand
+! 505 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b4.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that have not come to the table by the end
+of day 30 will be removed.
+
+Players that are away from the tables for 45 days 
+will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

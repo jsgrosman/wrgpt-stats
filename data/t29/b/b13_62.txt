@@ -1,0 +1,113 @@
+Subject: [b13.10683] Holdem Game Broadcast Message(*)
+
+! Table b13, Hand 62, Day 56
+
+! Tom A calls 
+! Pot right ($17450), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 10s
+! Flopped card: 8c
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  Kevin Mackey             |       0 |    8500 |all-in|    |         |
+ 3|   SJL                      |   60800 |     250 |folded|    |         |
+ 4|>  Tom A                    |   76300 |    8500 |      |    |         |
+ 5|   Per Starback             |   53150 |      50 |folded|    |         |
+ 6|   scjansen                 |   96300 |      50 |folded|    |         |
+ 8|   FFigawi                  |   41150 |      50 |folded|    |         |
+ 9|V  reelbigbeagles           |   45150 |      50 |9 Janu|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/29/19 05:53:44! Dealing a new hand
+! 12/29/19 05:53:44! Everyone antes $50
+! 12/29/19 05:53:44! SJL blinds $200
+! 12/29/19 05:53:44! Tom A blinds $400
+! 12/29/19 06:05:37! Per Starback folds
+! 12/29/19 06:18:03! scjansen folds
+! 12/29/19 06:18:03! FFigawi folds
+! 12/29/19 06:18:03! reelbigbeagles is on vacation and folds
+! 12/29/19 07:33:43! Kevin Mackey raises $600 to $1000 total 
+! 12/29/19 07:42:32! SJL folds
+! 12/29/19 09:00:48! Tom A calls 
+
+! 12/29/19 09:00:48! Pot right ($2550), flopping/dealing/drawing cards
+! 12/29/19 09:00:48! 2 players
+! 12/29/19 09:00:48! Flopped cards: 8h 6s 7d
+! 12/29/19 09:01:39! Tom A checks
+! 12/29/19 15:36:33! Kevin Mackey bets $7450 and is all in
+! 12/29/19 21:51:19! Tom A calls 
+
+! 12/29/19 21:51:19! Pot right ($17450), flopping/dealing/drawing cards
+! 12/29/19 21:51:19! 2 players, 1 all in
+! 12/29/19 21:51:19! Flopped card: 10s
+! 12/29/19 21:51:19! Flopped card: 8c
+! Hand over, current board is:  8h 6s 7d 10s 8c
+! Kevin Mackey             has: Ah Qd
+! Tom A                    has: 6c 3c
+! Tom A wins $17450 (net $8950) with Two Pair (8 8 6 6 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 3|D  SJL                      |   60800 |         |      |    |         |
+ 4|>  Tom A                    |   93750 |         |      |    |         |
+ 5|   Per Starback             |   53150 |         |      |    |         |
+ 6|   scjansen                 |   96300 |         |      |    |         |
+ 8|   FFigawi                  |   41150 |         |      |    |         |
+ 9|V  reelbigbeagles           |   45150 |         |9 Janu|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Kevin Mackey is eliminated!
+! 359 players left in the tournament, 4 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b13.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+After day 45 of the tourney there will be no
+more live redraws or breaking tables.  Tables
+will be allowed to run until a table gets to 
+five or fewer players at which time all tables
+will finish the current hand and a full, random
+redraw to all new tables will be done.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 45
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,122 @@
+Subject: [b7.10280] Holdem Game Broadcast Message(*)
+
+! Table b7, Hand 22, Day 21
+
+! Michael Proteau checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|V  Michigan                 |   49325 |       0 | NoSho|    |         |
+ 2|   fattychubs               |  118525 |     300 |folded|    |         |
+ 3|   Rick Brown               |   53400 |       0 |folded|    |         |
+ 4|D  Michael Proteau          |   36000 |    4200 |      |    |         |
+ 5|   Svante Wester            |   54600 |     150 |folded|    |         |
+ 6|   d-alamo                  |   59275 |     300 |folded|    |         |
+ 7|>  Dragon                   |   24050 |    4200 |      |    |         |
+ 8|   Casperskulls             |   46025 |    1200 |folded|    |         |
+ 9|V  coming                   |   49325 |       0 |15 dec|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/23/19 19:28:16! Dealing a new hand
+! 11/23/19 19:28:16! No ante
+! 11/23/19 19:28:16! Svante Wester blinds $150
+! 11/23/19 19:28:16! d-alamo blinds $300
+! 11/23/19 19:49:11! Dragon calls 
+! 11/23/19 21:42:06! Casperskulls calls 
+! 11/23/19 21:42:06! coming is on vacation and folds
+! 11/23/19 21:42:06! Michigan is on vacation and folds
+! 11/23/19 22:55:28! fattychubs calls 
+! 11/24/19 08:18:55! Rick Brown folds
+! 11/24/19 08:46:10! Michael Proteau raises $900 to $1200 total 
+! 11/24/19 10:40:26! Svante Wester folds
+! 11/24/19 13:00:01! d-alamo folds
+! 11/24/19 13:00:01! Dragon calls 
+! 11/24/19 13:04:08! Casperskulls calls 
+! 11/24/19 13:04:08! fattychubs folds
+
+! 11/24/19 13:04:08! Pot right ($4350), flopping/dealing/drawing cards
+! 11/24/19 13:04:08! 3 players
+! 11/24/19 13:04:08! Flopped cards: 10c Jh Jc
+! 11/24/19 13:07:43! Dragon checks
+! 11/24/19 13:10:06! Casperskulls checks
+! 11/24/19 13:35:38! Michael Proteau checks
+
+! 11/24/19 13:35:38! Pot right ($4350), flopping/dealing/drawing cards
+! 11/24/19 13:35:38! 3 players
+! 11/24/19 13:35:38! Flopped card: 5s
+! 11/24/19 14:00:26! Dragon bets $3000 
+! 11/24/19 15:41:12! Casperskulls folds
+! 11/24/19 19:12:24! Michael Proteau calls 
+
+! 11/24/19 19:12:24! Pot right ($10350), flopping/dealing/drawing cards
+! 11/24/19 19:12:24! 2 players
+! 11/24/19 19:12:24! Flopped card: 6c
+! 11/24/19 19:32:11! Dragon checks
+! 11/24/19 19:46:13! Michael Proteau checks
+! Hand over, current board is:  10c Jh Jc 5s 6c
+! Michael Proteau          has: Ah Kc
+! Dragon                   has: Kd 10d
+! Dragon wins $10350 (net $6150) with Two Pair (J J 10 10 K)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|V  Michigan                 |   49325 |         | NoSho|    |         |
+ 2|   fattychubs               |  118525 |         |      |    |         |
+ 3|   Rick Brown               |   53400 |         |      |    |         |
+ 4|   Michael Proteau          |   36000 |         |      |    |         |
+ 5|D  Svante Wester            |   54600 |         |      |    |         |
+ 6|   d-alamo                  |   59275 |         |      |    |         |
+ 7|>  Dragon                   |   34400 |         |      |    |         |
+ 8|   Casperskulls             |   46025 |         |      |    |         |
+ 9|V  coming                   |   49325 |         |15 dec|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 498 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b7.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that have not come to the table by the end
+of day 30 will be removed.
+
+Players that are away from the tables for 45 days 
+will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

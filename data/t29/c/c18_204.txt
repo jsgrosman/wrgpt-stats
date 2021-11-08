@@ -1,0 +1,119 @@
+Subject: [c18.10616] Holdem Game Broadcast Message(*)
+
+! Table c18, Hand 204, Day 94
+
+! 888 folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   888                      |   53100 |    7800 |folded|    |         |
+ 2|>  Bob The Butcher          |  121950 |   13800 |      |    |         |
+ 3|   db222                    |   31175 |     300 |folded|    |         |
+ 4|   danthefan                |  126700 |     300 |folded|    |         |
+ 5|   Sunnygirl318             |   70400 |     300 |folded|    |         |
+ 6|D  Butter                   |  364525 |     300 |folded|    |         |
+ 7|   beacon bot               |  132600 |    2300 |folded|    |         |
+ 8|V  Oldbloke                 |   99525 |    2300 |<Gone>|    |         |
+ 9|   Robert Christ            |  141250 |     300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/04/20 09:13:04! Dealing a new hand
+! 02/04/20 09:13:04! Everyone antes $300
+! 02/04/20 09:13:04! beacon bot blinds $1000
+! 02/04/20 09:13:04! Oldbloke blinds $2000
+! 02/04/20 09:40:58! Robert Christ folds
+! 02/04/20 09:43:10! 888 calls 
+! 02/04/20 09:43:55! Bob The Butcher calls 
+! 02/04/20 10:11:19! db222 folds
+! 02/04/20 10:11:19! danthefan folds
+! 02/04/20 10:17:45! Sunnygirl318 folds
+! 02/04/20 10:17:45! Butter folds
+! 02/04/20 10:40:43! beacon bot calls 
+! 02/04/20 10:40:43! Oldbloke is on vacation and checks
+
+! 02/04/20 10:40:43! Pot right ($10700), flopping/dealing/drawing cards
+! 02/04/20 10:40:43! 4 players
+! 02/04/20 10:40:43! Flopped cards: Jd 9d 3h
+! 02/04/20 14:41:02! beacon bot checks
+! 02/04/20 14:41:02! Oldbloke is on vacation and checks
+! 02/04/20 15:37:14! 888 bets $5500 
+! 02/04/20 16:55:49! Bob The Butcher calls 
+! 02/04/20 16:55:49! beacon bot folds
+! 02/04/20 16:55:49! Oldbloke is on vacation and folds
+
+! 02/04/20 16:55:49! Pot right ($21700), flopping/dealing/drawing cards
+! 02/04/20 16:55:49! 2 players
+! 02/04/20 16:55:49! Flopped card: Qh
+! 02/04/20 19:10:26! 888 checks
+! 02/05/20 03:49:34! Bob The Butcher bets $6000 
+! 02/05/20 04:24:20! 888 folds
+! Hand over, no showdown
+! Current board is:  Jd 9d 3h Qh ?
+! Bob The Butcher wins $27700 (net $13900)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   888                      |   53100 |         |      |    |         |
+ 2|>  Bob The Butcher          |  149650 |         |      |    |         |
+ 3|   db222                    |   31175 |         |      |    |         |
+ 4|   danthefan                |  126700 |         |      |    |         |
+ 5|   Sunnygirl318             |   70400 |         |      |    |         |
+ 6|   Butter                   |  364525 |         |      |    |         |
+ 7|D  beacon bot               |  132600 |         |      |    |         |
+ 8|V  Oldbloke                 |   99525 |         |<Gone>|    |         |
+ 9|   Robert Christ            |  141250 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 204 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c18.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+We are now over 30 days in round "c".  Automatic
+table breaking and live redraws have been disabled.
+We will play until one or more tables gets below six
+players.  When that happens all tables will finish
+the current hand and a full redraw will occur into
+the "d" round.
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 12
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,118 @@
+Subject: [b13.10464] Holdem Game Broadcast Message(*)
+
+! Table b13, Hand 38, Day 39
+
+! HSBDon calls - side pot
+! Pot right ($112875), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 6d
+! Flopped card: 4h
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Kevin Mackey             |   54125 |      25 |folded|    |         |
+ 2|D  Krystian 321adniak       |   86650 |      25 |folded|    |         |
+ 3|   SJL                      |   74700 |     175 |folded|    |         |
+ 4|   HSBDon                   |       0 |   47925 |all-in|  2 |   96175 |
+ 5|   Per Starback             |   32600 |      25 |folded|    |         |
+ 6|   scjansen                 |   36150 |      25 |folded|    |         |
+ 7|>  Guyute                   |    2700 |   64625 |      |  1 |   16700 |
+ 8|   FFigawi                  |   46350 |      25 |folded|    |         |
+ 9|V  reelbigbeagles           |   59050 |      25 |<AWOL>|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/11/19 22:24:52! Dealing a new hand
+! 12/11/19 22:24:52! Everyone antes $25
+! 12/11/19 22:24:52! SJL blinds $150
+! 12/11/19 22:24:52! HSBDon blinds $300
+! 12/11/19 22:46:53! Per Starback folds
+! 12/12/19 02:24:42! scjansen folds
+! 12/12/19 04:11:29! Guyute raises $300 to $600 total 
+! 12/12/19 04:59:33! FFigawi folds
+! 12/12/19 04:59:33! reelbigbeagles is on vacation and folds
+! 12/12/19 04:59:33! Kevin Mackey folds
+! 12/12/19 05:00:22! Krystian 321adniak folds
+! 12/12/19 05:14:20! SJL folds
+! 12/12/19 05:50:48! HSBDon calls 
+
+! 12/12/19 05:50:48! Pot right ($1575), flopping/dealing/drawing cards
+! 12/12/19 05:50:48! 2 players
+! 12/12/19 05:50:48! Flopped cards: Jc 10s 8s
+! 12/12/19 06:09:33! HSBDon bets $1500 
+! 12/12/19 07:43:07! Guyute raises $2500 to $4000 total 
+! 12/12/19 09:57:44! HSBDon raises $20000 to $24000 total 
+! 12/12/19 10:22:51! Guyute raises $40000 to $64000 total 
+! 12/12/19 11:48:44! HSBDon calls - side pot
+
+! 12/12/19 11:48:44! Pot right ($112875), flopping/dealing/drawing cards
+! 12/12/19 11:48:44! 2 players, 1 all in
+! 12/12/19 11:48:44! Flopped card: 6d
+! 12/12/19 11:48:44! Flopped card: 4h
+! Hand over, current board is:  Jc 10s 8s 6d 4h
+! HSBDon                   has: 5s Jh
+! Guyute                   has: Js 10d
+! Pot 1: uncalled $16700 returned to Guyute
+! Pot 2: Guyute wins $96175 with Two Pair (J J 10 10 8)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Kevin Mackey             |   54125 |         |      |    |         |
+ 2|   Krystian 321adniak       |   86650 |         |      |    |         |
+ 3|D  SJL                      |   74700 |         |      |    |         |
+ 5|   Per Starback             |   32600 |         |      |    |         |
+ 6|   scjansen                 |   36150 |         |      |    |         |
+ 7|>  Guyute                   |  115575 |         |      |    |         |
+ 8|   FFigawi                  |   46350 |         |      |    |         |
+ 9|V  reelbigbeagles           |   59050 |         |<AWOL>|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! HSBDon is eliminated!
+! 428 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b13.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that have not come to the table by the end
+of day 30 will be removed.
+
+Players that are away from the tables for 45 days 
+will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 12
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

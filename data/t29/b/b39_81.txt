@@ -1,0 +1,105 @@
+Subject: [b39.11000] Holdem Game Broadcast Message(*)
+
+! Table b39, Hand 81, Day 60
+
+! BlindMonkey folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  Bobby the Worm           |   60075 |    5900 |      |    |         |
+ 2|   beacon bot               |  281775 |    1900 |folded|    |         |
+ 3|   Larry Stone              |  183375 |     100 |folded|    |         |
+ 6|   mshulm1                  |   28100 |     600 |folded|    |         |
+ 7|   Swamper BFJ              |   55425 |     100 |folded|    |         |
+ 8|D  BlindMonkey              |   45075 |    1900 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/02/20 08:34:06! Dealing a new hand
+! 01/02/20 08:34:06! Everyone antes $100
+! 01/02/20 08:34:06! Bobby the Worm blinds $250
+! 01/02/20 08:34:06! beacon bot blinds $500
+! 01/02/20 09:08:57! Larry Stone folds
+! 01/02/20 09:16:43! mshulm1 calls 
+! 01/02/20 09:23:38! Swamper BFJ folds
+! 01/02/20 10:01:26! BlindMonkey raises $1300 to $1800 total 
+! 01/02/20 11:09:05! Bobby the Worm calls 
+! 01/02/20 11:58:07! beacon bot calls 
+! 01/02/20 12:06:17! mshulm1 folds
+
+! 01/02/20 12:06:17! Pot right ($6500), flopping/dealing/drawing cards
+! 01/02/20 12:06:17! 3 players
+! 01/02/20 12:06:17! Flopped cards: 2d 10h 5d
+! 01/02/20 12:43:37! Bobby the Worm checks
+! 01/02/20 12:44:25! beacon bot checks
+! 01/02/20 12:54:41! BlindMonkey checks
+
+! 01/02/20 12:54:41! Pot right ($6500), flopping/dealing/drawing cards
+! 01/02/20 12:54:41! 3 players
+! 01/02/20 12:54:41! Flopped card: 9h
+! 01/02/20 14:58:51! Bobby the Worm bets $4000 
+! 01/02/20 14:59:53! beacon bot folds
+! 01/02/20 16:04:13! BlindMonkey folds
+! Hand over, no showdown
+! Current board is:  2d 10h 5d 9h ?
+! Bobby the Worm wins $10500 (net $4600)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D> Bobby the Worm           |   70575 |         |      |    |         |
+ 2|   beacon bot               |  281775 |         |      |    |         |
+ 3|   Larry Stone              |  183375 |         |      |    |         |
+ 6|   mshulm1                  |   28100 |         |      |    |         |
+ 7|   Swamper BFJ              |   55425 |         |      |    |         |
+ 8|   BlindMonkey              |   45075 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 343 players left in the tournament 
+! Table finished, waiting to redraw seats.
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b39.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+Tables still playing round "b" will finish
+the current hand.  Then a full redraw to "c"
+tables will be done.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 62
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,114 @@
+Subject: [c7.10398] Holdem Game Broadcast Message(*)
+
+! Table c7, Hand 175, Day 83
+
+! Piney Boy calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   1985 M Building Champ    |   78250 |     200 |folded|    |         |
+ 2|   janie                    |   27300 |     200 |folded|    |         |
+ 3|   Piney Boy                |   83250 |    7300 |      |    |         |
+ 4|D  BigElmo                  |   77950 |     200 |folded|    |         |
+ 5|   Dario                    |  116625 |     800 |folded|    |         |
+ 6|>  Per Starback             |   55925 |    7300 |      |    |         |
+ 7|   CountFlop                |   70725 |     200 |folded|    |         |
+ 8|   MTpotts                  |   43250 |     200 |folded|    |         |
+ 9|V  Taki                     |   21375 |     200 |  busy|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/24/20 12:14:22! Dealing a new hand
+! 01/24/20 12:14:22! Everyone antes $200
+! 01/24/20 12:14:22! Dario blinds $600
+! 01/24/20 12:14:22! Per Starback blinds $1200
+! 01/24/20 12:16:33! CountFlop folds
+! 01/24/20 14:40:36! MTpotts folds
+! 01/24/20 14:40:36! Taki is on vacation and folds
+! 01/24/20 18:06:10! 1985 M Building Champ folds
+! 01/24/20 20:10:29! janie folds
+! 01/25/20 04:34:03! Piney Boy raises $2400 to $3600 total 
+! 01/25/20 04:34:03! BigElmo folds
+! 01/25/20 04:34:03! Dario folds
+! 01/25/20 05:00:53! Per Starback calls 
+
+! 01/25/20 05:00:53! Pot right ($9600), flopping/dealing/drawing cards
+! 01/25/20 05:00:53! 2 players
+! 01/25/20 05:00:53! Flopped cards: 7s 10s 7c
+! 01/25/20 05:03:21! Per Starback checks
+! 01/25/20 07:18:33! Piney Boy checks
+
+! 01/25/20 07:18:33! Pot right ($9600), flopping/dealing/drawing cards
+! 01/25/20 07:18:33! 2 players
+! 01/25/20 07:18:33! Flopped card: 4h
+! 01/25/20 07:33:55! Per Starback checks
+! 01/25/20 07:59:24! Piney Boy checks
+
+! 01/25/20 07:59:24! Pot right ($9600), flopping/dealing/drawing cards
+! 01/25/20 07:59:24! 2 players
+! 01/25/20 07:59:24! Flopped card: Ks
+! 01/25/20 08:02:05! Per Starback bets $3500 
+! 01/25/20 08:09:41! Piney Boy calls 
+! Hand over, current board is:  7s 10s 7c 4h Ks
+! Piney Boy                has: As 6d
+! Per Starback             has: Jh Kd
+! Per Starback wins $16600 (net $9300) with Two Pair (K K 7 7 J)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   1985 M Building Champ    |   78250 |         |      |    |         |
+ 2|   janie                    |   27300 |         |      |    |         |
+ 3|   Piney Boy                |   83250 |         |      |    |         |
+ 4|   BigElmo                  |   77950 |         |      |    |         |
+ 5|D  Dario                    |  116625 |         |      |    |         |
+ 6|>  Per Starback             |   72525 |         |      |    |         |
+ 7|   CountFlop                |   70725 |         |      |    |         |
+ 8|   MTpotts                  |   43250 |         |      |    |         |
+ 9|V  Taki                     |   21375 |         |  busy|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 250 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c7.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 11
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

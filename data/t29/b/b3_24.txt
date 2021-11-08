@@ -1,0 +1,115 @@
+Subject: [b3.10321] Holdem Game Broadcast Message(*)
+
+! Table b3, Hand 24, Day 16
+
+! beowulf calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   beowulf                  |   13825 |    3800 |      |    |         |
+ 2|   JohnnyMac                |   76625 |     300 |folded|    |         |
+ 3|   Robert Christ            |   57650 |       0 |folded|    |         |
+ 4|   Anonymous                |   60425 |       0 |folded|    |         |
+ 5|   Dave Weiss               |   46500 |       0 |folded|    |         |
+ 6|DV Kit Woolsey              |   45975 |       0 |<Gone>|    |         |
+ 7|   Another player           |   65200 |     150 |folded|    |         |
+ 8|>  Otto                     |   27400 |    3800 |      |    |         |
+ 9|   Dj Coates                |   48350 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/19/19 10:54:15! Dealing a new hand
+! 11/19/19 10:54:15! No ante
+! 11/19/19 10:54:15! Another player blinds $150
+! 11/19/19 10:54:15! Otto blinds $300
+! 11/19/19 12:30:35! Dj Coates folds
+! 11/19/19 13:45:34! beowulf calls 
+! 11/19/19 13:49:54! JohnnyMac calls 
+! 11/19/19 13:49:54! Robert Christ folds
+! 11/19/19 14:07:52! Anonymous folds
+! 11/19/19 14:07:52! Dave Weiss folds
+! 11/19/19 14:07:52! Kit Woolsey is on vacation and folds
+! 11/19/19 14:07:52! Another player folds
+! 11/19/19 14:07:52! Otto checks
+
+! 11/19/19 14:07:52! Pot right ($1050), flopping/dealing/drawing cards
+! 11/19/19 14:07:52! 3 players
+! 11/19/19 14:07:52! Flopped cards: Qh Ks 10d
+! 11/19/19 14:09:28! Otto checks
+! 11/19/19 14:29:10! beowulf bets $1000 
+! 11/19/19 14:29:10! JohnnyMac folds
+! 11/19/19 14:37:54! Otto calls 
+
+! 11/19/19 14:37:54! Pot right ($3050), flopping/dealing/drawing cards
+! 11/19/19 14:37:54! 2 players
+! 11/19/19 14:37:54! Flopped card: 4s
+! 11/19/19 14:39:47! Otto checks
+! 11/19/19 14:40:38! beowulf checks
+
+! 11/19/19 14:40:38! Pot right ($3050), flopping/dealing/drawing cards
+! 11/19/19 14:40:38! 2 players
+! 11/19/19 14:40:38! Flopped card: 6c
+! 11/19/19 14:41:30! Otto bets $2500 
+! 11/19/19 14:49:40! beowulf calls 
+! Hand over, current board is:  Qh Ks 10d 4s 6c
+! beowulf                  has: Qc 9c
+! Otto                     has: 3h Ac
+! beowulf wins $8050 (net $4250) with One Pair (Q Q K 10 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   beowulf                  |   21875 |         |      |    |         |
+ 2|   JohnnyMac                |   76625 |         |      |    |         |
+ 3|   Robert Christ            |   57650 |         |      |    |         |
+ 4|   Anonymous                |   60425 |         |      |    |         |
+ 5|   Dave Weiss               |   46500 |         |      |    |         |
+ 6|V  Kit Woolsey              |   45975 |         |<Gone>|    |         |
+ 7|D  Another player           |   65200 |         |      |    |         |
+ 8|>  Otto                     |   27400 |         |      |    |         |
+ 9|   Dj Coates                |   48350 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 509 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b3.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Good luck.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 4
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

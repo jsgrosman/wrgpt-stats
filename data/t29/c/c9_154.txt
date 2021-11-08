@@ -1,0 +1,117 @@
+Subject: [c9.10142] Holdem Game Broadcast Message(*)
+
+! Table c9, Hand 154, Day 68
+
+! Stephen Opal checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  BeastSlayer              |  100350 |     100 |folded|    |         |
+ 2|   ThinkingPokerAndrew      |       0 |    2500 |all-in|    |         |
+ 3|   docober                  |   36050 |     600 |folded|    |         |
+ 4|   Poohbear                 |   73275 |     100 |folded|    |         |
+ 5|>  newtonheath              |  105825 |    2500 |      |    |         |
+ 6|   Loboc                    |   94250 |     100 |folded|    |         |
+ 7|   JZo                      |   17500 |     100 |folded|    |         |
+ 8|   Stephen Opal             |   23650 |    2500 |      |    |         |
+ 9|   Pvt_Pyle                 |  137875 |     100 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/09/20 19:10:55! Dealing a new hand
+! 01/09/20 19:10:55! Everyone antes $100
+! 01/09/20 19:10:55! ThinkingPokerAndrew blinds $250
+! 01/09/20 19:10:55! docober blinds $500
+! 01/09/20 22:16:56! Poohbear folds
+! 01/10/20 03:43:01! newtonheath calls 
+! 01/10/20 04:13:50! Loboc folds
+! 01/10/20 04:13:50! JZo folds
+! 01/10/20 04:18:59! Stephen Opal calls 
+! 01/10/20 07:33:55! Pvt_Pyle folds
+! 01/10/20 07:33:55! BeastSlayer folds
+! 01/10/20 07:35:07! ThinkingPokerAndrew raises $1900 to $2400 total and is all in
+! 01/10/20 07:38:16! docober folds
+! 01/10/20 09:55:42! newtonheath calls 
+! 01/10/20 10:11:32! Stephen Opal calls 
+
+! 01/10/20 10:11:32! Pot right ($8600), flopping/dealing/drawing cards
+! 01/10/20 10:11:32! 3 players, 1 all in
+! 01/10/20 10:11:32! Flopped cards: 2s 6d 7s
+! 01/10/20 10:38:20! newtonheath checks
+! 01/10/20 10:39:37! Stephen Opal checks
+
+! 01/10/20 10:39:37! Pot right ($8600), flopping/dealing/drawing cards
+! 01/10/20 10:39:37! 3 players, 1 all in
+! 01/10/20 10:39:37! Flopped card: 5h
+! 01/10/20 11:33:51! newtonheath checks
+! 01/10/20 12:49:25! Stephen Opal checks
+
+! 01/10/20 12:49:25! Pot right ($8600), flopping/dealing/drawing cards
+! 01/10/20 12:49:25! 3 players, 1 all in
+! 01/10/20 12:49:25! Flopped card: 6s
+! 01/10/20 12:49:25! newtonheath checks
+! 01/10/20 12:50:13! Stephen Opal checks
+! Hand over, current board is:  2s 6d 7s 5h 6s
+! ThinkingPokerAndrew      has: Ks 6h
+! newtonheath              has: Qs Qh
+! Stephen Opal             has: As 8c
+! ThinkingPokerAndrew wins $8600 (net $6100) with Three of a Kind (6 6 6 K 7)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   BeastSlayer              |  100350 |         |      |    |         |
+ 2|D  ThinkingPokerAndrew      |    8600 |         |      |    |         |
+ 3|   docober                  |   36050 |         |      |    |         |
+ 4|   Poohbear                 |   73275 |         |      |    |         |
+ 5|>  newtonheath              |  105825 |         |      |    |         |
+ 6|   Loboc                    |   94250 |         |      |    |         |
+ 7|   JZo                      |   17500 |         |      |    |         |
+ 8|   Stephen Opal             |   23650 |         |      |    |         |
+ 9|   Pvt_Pyle                 |  137875 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 317 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c9.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 10
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

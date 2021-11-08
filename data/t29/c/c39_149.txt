@@ -1,0 +1,105 @@
+Subject: [c39.10036] Holdem Game Broadcast Message(*)
+
+! Table c39, Hand 149, Day 64
+
+! bozo folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Cowabunga                |   35575 |     100 |folded|    |         |
+ 2|V  Tom A                    |  102450 |     100 |     9|    |         |
+ 3|   bozo                     |  130000 |    6150 |folded|    |         |
+ 4|   Cruella                  |   45400 |     100 |folded|    |         |
+ 5|D> Ed Baker                 |   70750 |   15250 |      |    |         |
+ 6|   Stephen Opal             |   13900 |     350 |folded|    |         |
+ 7|   Donald Neilson           |   73250 |     600 |folded|    |         |
+ 8|   Steve B                  |   33650 |     100 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/05/20 17:03:06! Dealing a new hand
+! 01/05/20 17:03:06! Everyone antes $100
+! 01/05/20 17:03:06! Stephen Opal blinds $250
+! 01/05/20 17:03:06! Donald Neilson blinds $500
+! 01/05/20 17:14:58! Steve B folds
+! 01/05/20 17:48:18! Cowabunga folds
+! 01/05/20 17:48:18! Tom A is on vacation and folds
+! 01/05/20 17:59:54! bozo raises $2050 to $2550 total 
+! 01/05/20 18:54:44! Cruella folds
+! 01/06/20 05:26:24! Ed Baker calls 
+! 01/06/20 05:26:24! Stephen Opal folds
+! 01/06/20 07:34:01! Donald Neilson folds
+
+! 01/06/20 07:34:01! Pot right ($6650), flopping/dealing/drawing cards
+! 01/06/20 07:34:01! 2 players
+! 01/06/20 07:34:01! Flopped cards: 8c 3h Qc
+! 01/06/20 07:36:40! bozo bets $3500 
+! 01/06/20 07:38:06! Ed Baker calls 
+
+! 01/06/20 07:38:06! Pot right ($13650), flopping/dealing/drawing cards
+! 01/06/20 07:38:06! 2 players
+! 01/06/20 07:38:06! Flopped card: 10s
+! 01/06/20 07:48:36! bozo checks
+! 01/06/20 07:50:16! Ed Baker bets $9100 
+! 01/06/20 08:01:20! bozo folds
+! Hand over, no showdown
+! Current board is:  8c 3h Qc 10s ?
+! Ed Baker wins $22750 (net $7500)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Cowabunga                |   35575 |         |      |    |         |
+ 2|V  Tom A                    |  102450 |         |     9|    |         |
+ 3|   bozo                     |  130000 |         |      |    |         |
+ 4|   Cruella                  |   45400 |         |      |    |         |
+ 5|>  Ed Baker                 |   93500 |         |      |    |         |
+ 6|D  Stephen Opal             |   13900 |         |      |    |         |
+ 7|   Donald Neilson           |   73250 |         |      |    |         |
+ 8|   Steve B                  |   33650 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 336 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c39.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 7
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

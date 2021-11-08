@@ -1,0 +1,115 @@
+Subject: [c1.10110] Holdem Game Broadcast Message(*)
+
+! Table c1, Hand 154, Day 67
+
+! Charlie Tuna calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  Seanbo                   |  105375 |     100 |folded|    |         |
+ 2|>  Derrick Martins          |   61650 |   14350 |      |    |         |
+ 3|   BBLWOG                   |   39825 |    1350 |folded|    |         |
+ 4|   JoeBou4860               |   53850 |     100 |folded|    |         |
+ 5|   Blackcove                |   79550 |     100 |folded|    |         |
+ 6|   Charlie Tuna             |   94900 |   14350 |      |    |         |
+ 7|   Shari Silk               |  174975 |     100 |folded|    |         |
+ 8|   Frank Russomanno         |   67600 |     100 |folded|    |         |
+ 9|   Joe Nadeau               |   13200 |     100 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/08/20 19:14:51! Dealing a new hand
+! 01/08/20 19:14:51! Everyone antes $100
+! 01/08/20 19:14:51! Derrick Martins blinds $250
+! 01/08/20 19:14:51! BBLWOG blinds $500
+! 01/09/20 02:01:04! JoeBou4860 folds
+! 01/09/20 02:01:04! Blackcove folds
+! 01/09/20 02:35:39! Charlie Tuna raises $750 to $1250 total 
+! 01/09/20 02:35:39! Shari Silk folds
+! 01/09/20 03:00:37! Frank Russomanno folds
+! 01/09/20 03:00:37! Joe Nadeau folds
+! 01/09/20 03:00:37! Seanbo folds
+! 01/09/20 03:36:43! Derrick Martins calls 
+! 01/09/20 04:13:53! BBLWOG calls 
+
+! 01/09/20 04:13:53! Pot right ($4650), flopping/dealing/drawing cards
+! 01/09/20 04:13:53! 3 players
+! 01/09/20 04:13:53! Flopped cards: 8c 3c Ad
+! 01/09/20 04:18:45! Derrick Martins bets $3000 
+! 01/09/20 06:41:22! BBLWOG folds
+! 01/09/20 07:19:00! Charlie Tuna calls 
+
+! 01/09/20 07:19:00! Pot right ($10650), flopping/dealing/drawing cards
+! 01/09/20 07:19:00! 2 players
+! 01/09/20 07:19:00! Flopped card: Js
+! 01/09/20 07:19:49! Derrick Martins bets $5000 
+! 01/09/20 07:20:41! Charlie Tuna calls 
+
+! 01/09/20 07:20:41! Pot right ($20650), flopping/dealing/drawing cards
+! 01/09/20 07:20:41! 2 players
+! 01/09/20 07:20:41! Flopped card: 7s
+! 01/09/20 07:22:26! Derrick Martins bets $5000 
+! 01/09/20 07:23:22! Charlie Tuna calls 
+! Hand over, current board is:  8c 3c Ad Js 7s
+! Derrick Martins          has: Ah 4h
+! Charlie Tuna             has: Ac 9c
+! Charlie Tuna wins $30650 (net $16300) with One Pair (A A J 9 8)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Seanbo                   |  105375 |         |      |    |         |
+ 2|D> Derrick Martins          |   61650 |         |      |    |         |
+ 3|   BBLWOG                   |   39825 |         |      |    |         |
+ 4|   JoeBou4860               |   53850 |         |      |    |         |
+ 5|   Blackcove                |   79550 |         |      |    |         |
+ 6|   Charlie Tuna             |  125550 |         |      |    |         |
+ 7|   Shari Silk               |  174975 |         |      |    |         |
+ 8|   Frank Russomanno         |   67600 |         |      |    |         |
+ 9|   Joe Nadeau               |   13200 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 326 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c1.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 12
+Live redraw in progress:
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,119 @@
+Subject: [b22.10226] Holdem Game Broadcast Message(*)
+
+! Table b22, Hand 16, Day 12
+
+! gilette checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   UConn                    |   55875 |       0 |folded|    |         |
+ 2|   Russ Fox                 |   49250 |       0 |folded|    |         |
+ 3|   stannius                 |   54875 |       0 |folded|    |         |
+ 4|   Alvin Chipmunk           |   45825 |       0 |folded|    |         |
+ 5|   mrstcao                  |   46600 |    3400 |folded|    |         |
+ 6|   gilette                  |   33025 |    6700 |      |    |         |
+ 7|D  Claudia M                |   59825 |       0 |folded|    |         |
+ 8|>  underdog                 |   39100 |    6700 |      |    |         |
+ 9|   Charlie Tuna             |   48675 |     150 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/14/19 19:52:35! Dealing a new hand
+! 11/14/19 19:52:35! No ante
+! 11/14/19 19:52:35! underdog blinds $75
+! 11/14/19 19:52:35! Charlie Tuna blinds $150
+! 11/15/19 05:55:38! UConn folds
+! 11/15/19 08:49:01! Russ Fox folds
+! 11/15/19 08:49:01! stannius folds
+! 11/15/19 08:49:01! Alvin Chipmunk folds
+! 11/15/19 09:28:33! mrstcao raises $300 to $450 total 
+! 11/15/19 12:23:27! gilette raises $700 to $1150 total 
+! 11/15/19 12:33:01! Claudia M folds
+! 11/15/19 12:38:13! underdog calls 
+! 11/15/19 12:38:13! Charlie Tuna folds
+! 11/15/19 12:51:24! mrstcao calls 
+
+! 11/15/19 12:51:24! Pot right ($3600), flopping/dealing/drawing cards
+! 11/15/19 12:51:24! 3 players
+! 11/15/19 12:51:24! Flopped cards: 6c 10h 4h
+! 11/15/19 12:53:06! underdog checks
+! 11/15/19 13:14:51! mrstcao bets $1800 
+! 11/15/19 15:30:20! gilette calls 
+! 11/15/19 15:30:20! underdog calls 
+
+! 11/15/19 15:30:20! Pot right ($9000), flopping/dealing/drawing cards
+! 11/15/19 15:30:20! 3 players
+! 11/15/19 15:30:20! Flopped card: Ks
+! 11/15/19 16:00:31! underdog checks
+! 11/15/19 16:01:46! mrstcao bets $450 
+! 11/15/19 16:09:32! gilette raises $3300 to $3750 total 
+! 11/15/19 16:29:41! underdog calls 
+! 11/15/19 16:29:41! mrstcao folds
+
+! 11/15/19 16:29:41! Pot right ($16950), flopping/dealing/drawing cards
+! 11/15/19 16:29:41! 2 players
+! 11/15/19 16:29:41! Flopped card: 8d
+! 11/15/19 16:33:04! underdog checks
+! 11/15/19 17:14:48! gilette checks
+! Hand over, current board is:  6c 10h 4h Ks 8d
+! gilette                  has: Qh 8h
+! underdog                 has: Qs Jc
+! gilette wins $16950 (net $10250) with One Pair (8 8 K Q 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   UConn                    |   55875 |         |      |    |         |
+ 2|   Russ Fox                 |   49250 |         |      |    |         |
+ 3|   stannius                 |   54875 |         |      |    |         |
+ 4|   Alvin Chipmunk           |   45825 |         |      |    |         |
+ 5|   mrstcao                  |   46600 |         |      |    |         |
+ 6|   gilette                  |   49975 |         |      |    |         |
+ 7|   Claudia M                |   59825 |         |      |    |         |
+ 8|D> underdog                 |   39100 |         |      |    |         |
+ 9|   Charlie Tuna             |   48675 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 520 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b22.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Good luck.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,126 @@
+Subject: [b39.10754] Holdem Game Broadcast Message(*)
+
+! Table b39, Hand 55, Day 46
+
+! beacon bot calls 
+! Pot right ($82000), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 9c
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Bobby the Worm           |   66775 |      50 |folded|    |         |
+ 2|>  beacon bot               |   97750 |   40325 |      |    |         |
+ 3|D  Larry Stone              |  156225 |      50 |folded|    |         |
+ 4|   BillB                    |   32400 |     250 |folded|    |         |
+ 5|   Chris Danek              |   93525 |     450 |folded|    |         |
+ 6|   mshulm1                  |   34350 |      50 |folded|    |         |
+ 7|   Swamper BFJ              |   60725 |     450 |folded|    |         |
+ 8|   BlindMonkey              |   40575 |      50 |folded|    |         |
+ 9|   Eight of Spades          |       0 |   40325 |all-in|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/18/19 14:27:59! Dealing a new hand
+! 12/18/19 14:27:59! Everyone antes $50
+! 12/18/19 14:27:59! BillB blinds $200
+! 12/18/19 14:27:59! Chris Danek blinds $400
+! 12/18/19 14:42:48! mshulm1 folds
+! 12/18/19 14:42:48! Swamper BFJ calls 
+! 12/18/19 15:13:44! BlindMonkey folds
+! 12/18/19 15:13:44! Eight of Spades raises $1100 to $1500 total 
+! 12/18/19 15:37:23! Bobby the Worm folds
+! 12/18/19 15:42:14! beacon bot calls 
+! 12/18/19 15:49:22! Larry Stone folds
+! 12/18/19 15:54:34! BillB folds
+! 12/18/19 16:42:45! Chris Danek folds
+! 12/18/19 16:56:18! Swamper BFJ folds
+
+! 12/18/19 16:56:18! Pot right ($4450), flopping/dealing/drawing cards
+! 12/18/19 16:56:18! 2 players
+! 12/18/19 16:56:18! Flopped cards: 2d As Jh
+! 12/18/19 19:13:38! Eight of Spades checks
+! 12/19/19 06:16:43! beacon bot bets $2500 
+! 12/19/19 06:18:14! Eight of Spades calls 
+
+! 12/19/19 06:18:14! Pot right ($9450), flopping/dealing/drawing cards
+! 12/19/19 06:18:14! 2 players
+! 12/19/19 06:18:14! Flopped card: 6s
+! 12/19/19 06:36:33! Eight of Spades checks
+! 12/19/19 07:30:21! beacon bot bets $5250 
+! 12/19/19 07:34:00! Eight of Spades raises $31025 to $36275 total and is all in
+! 12/19/19 09:20:06! beacon bot calls 
+
+! 12/19/19 09:20:06! Pot right ($82000), flopping/dealing/drawing cards
+! 12/19/19 09:20:06! 2 players, 1 all in
+! 12/19/19 09:20:06! Flopped card: 9c
+! Hand over, current board is:  2d As Jh 6s 9c
+! beacon bot               has: Ah 10h
+! Eight of Spades          has: Kc Jc
+! beacon bot wins $82000 (net $41675) with One Pair (A A J 10 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Bobby the Worm           |   66775 |         |      |    |         |
+ 2|>  beacon bot               |  179750 |         |      |    |         |
+ 3|   Larry Stone              |  156225 |         |      |    |         |
+ 4|D  BillB                    |   32400 |         |      |    |         |
+ 5|   Chris Danek              |   93525 |         |      |    |         |
+ 6|   mshulm1                  |   34350 |         |      |    |         |
+ 7|   Swamper BFJ              |   60725 |         |      |    |         |
+ 8|   BlindMonkey              |   40575 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Eight of Spades is eliminated!
+! 393 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b39.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+After day 45 of the tourney there will be no
+more live redraws or breaking tables.  Tables
+will be allowed to run until a table gets to 
+five or fewer players at which time all tables
+will finish the current hand and a full, random
+redraw to all new tables will be done.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 11
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

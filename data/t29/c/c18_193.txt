@@ -1,0 +1,104 @@
+Subject: [c18.10498] Holdem Game Broadcast Message(*)
+
+! Table c18, Hand 193, Day 90
+
+! Bob The Butcher folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   888                      |   61200 |     300 |folded|    |         |
+ 2|>  Bob The Butcher          |  121350 |    2300 |folded|    |         |
+ 3|   db222                    |   87425 |     300 |folded|    |         |
+ 4|D  danthefan                |  152300 |     300 |folded|    |         |
+ 5|   Sunnygirl318             |       0 |   26650 |all-in|    |         |
+ 6|   Butter                   |  289525 |    2300 |folded|    |         |
+ 7|   beacon bot               |  160700 |     300 |folded|    |         |
+ 8|   Oldbloke                 |  107825 |     300 |folded|    |         |
+ 9|   Robert Christ            |  155550 |     300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/01/20 09:06:48! Dealing a new hand
+! 02/01/20 09:06:48! Everyone antes $300
+! 02/01/20 09:06:48! Sunnygirl318 blinds $1000
+! 02/01/20 09:06:48! Butter blinds $2000
+! 02/01/20 09:07:44! beacon bot folds
+! 02/01/20 09:34:15! Oldbloke folds
+! 02/01/20 09:34:15! Robert Christ folds
+! 02/01/20 09:34:15! 888 folds
+! 02/01/20 09:59:57! Bob The Butcher calls 
+! 02/01/20 09:59:57! db222 folds
+! 02/01/20 10:08:53! danthefan folds
+! 02/01/20 10:18:40! Sunnygirl318 calls 
+! 02/01/20 10:27:56! Butter checks
+
+! 02/01/20 10:27:56! Pot right ($8700), flopping/dealing/drawing cards
+! 02/01/20 10:27:56! 3 players
+! 02/01/20 10:27:56! Flopped cards: Jd 5c 3h
+! 02/01/20 10:57:51! Sunnygirl318 bets $24350 and is all in
+! 02/01/20 11:04:08! Butter folds
+! 02/01/20 11:26:26! Bob The Butcher folds
+! Hand over, no showdown
+! Current board is:  Jd 5c 3h ? ?
+! Sunnygirl318 wins $33050 (net $6400)
+! Butter                   reveals  Ah 4h
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   888                      |   61200 |         |      |    |         |
+ 2|>  Bob The Butcher          |  121350 |         |      |    |         |
+ 3|   db222                    |   87425 |         |      |    |         |
+ 4|   danthefan                |  152300 |         |      |    |         |
+ 5|D  Sunnygirl318             |   33050 |         |      |    |         |
+ 6|   Butter                   |  289525 |         |      |    |         |
+ 7|   beacon bot               |  160700 |         |      |    |         |
+ 8|   Oldbloke                 |  107825 |         |      |    |         |
+ 9|   Robert Christ            |  155550 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Oldbloke went on vacation until <Gone>
+! 225 players left in the tournament, 2 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c18.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 13
+Live redraw in progress:
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

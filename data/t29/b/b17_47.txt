@@ -1,0 +1,128 @@
+Subject: [b17.10733] Holdem Game Broadcast Message(*)
+
+! Table b17, Hand 47, Day 42
+
+! ERIC C MOORE calls - side pot
+! Pot right ($174850), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped card: 6h
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Joker                    |   27125 |     825 |folded|    |         |
+ 2|   Jeff Palmucci            |  210450 |     825 |folded|    |         |
+ 3|D  Ian Collier              |   30175 |      25 |folded|    |         |
+ 4|   panfried                 |   78650 |     175 |folded|    |         |
+ 5|   ebock                    |   19700 |     825 |folded|    |         |
+ 6|   Mr Generic               |  156700 |     825 |folded|    |         |
+ 7|>  ERIC C MOORE             |       0 |   84800 |all-in|  2 |  173125 |
+ 8|   Samuel L. Bronkowitz     |   41775 |      25 |folded|    |         |
+ 9|   Slimbob                  |       0 |   86525 |all-in|  1 |    1725 |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/15/19 11:43:42! Dealing a new hand
+! 12/15/19 11:43:42! Everyone antes $25
+! 12/15/19 11:43:42! panfried blinds $150
+! 12/15/19 11:43:42! ebock blinds $300
+! 12/15/19 11:47:48! Mr Generic calls 
+! 12/15/19 11:49:15! ERIC C MOORE calls 
+! 12/15/19 11:49:15! Samuel L. Bronkowitz is on vacation and folds
+! 12/15/19 11:53:43! Samuel L. Bronkowitz is back from vacation
+! 12/15/19 13:14:02! Slimbob calls 
+! 12/15/19 13:48:11! Joker raises $500 to $800 total 
+! 12/15/19 13:58:34! Jeff Palmucci calls 
+! 12/15/19 13:58:34! Ian Collier folds
+! 12/15/19 14:53:02! panfried folds
+! 12/15/19 15:57:38! ebock calls 
+! 12/15/19 16:00:12! Mr Generic calls 
+! 12/15/19 16:03:59! ERIC C MOORE calls 
+! 12/15/19 16:09:16! Slimbob calls 
+
+! 12/15/19 16:09:16! Pot right ($5175), flopping/dealing/drawing cards
+! 12/15/19 16:09:16! 6 players
+! 12/15/19 16:09:16! Flopped cards: 4c 8s 7s
+! 12/15/19 16:48:13! ebock checks
+! 12/15/19 16:53:59! Mr Generic checks
+! 12/15/19 16:55:33! ERIC C MOORE bets $4375 
+! 12/15/19 16:56:14! Slimbob calls 
+! 12/15/19 18:06:25! Joker folds
+! 12/15/19 18:12:23! Jeff Palmucci folds
+! 12/15/19 18:12:23! ebock folds
+! 12/15/19 18:18:20! Mr Generic folds
+
+! 12/15/19 18:18:20! Pot right ($13925), flopping/dealing/drawing cards
+! 12/15/19 18:18:20! 2 players
+! 12/15/19 18:18:20! Flopped card: 5h
+! 12/15/19 18:21:56! ERIC C MOORE bets $17775 
+! 12/15/19 18:54:00! Slimbob raises $63550 to $81325 total and is all in
+! 12/15/19 19:29:43! ERIC C MOORE calls - side pot
+
+! 12/15/19 19:29:43! Pot right ($174850), flopping/dealing/drawing cards
+! 12/15/19 19:29:43! 2 players, 2 all in
+! 12/15/19 19:29:43! Flopped card: 6h
+! Hand over, current board is:  4c 8s 7s 5h 6h
+! ERIC C MOORE             has: 8h 8d
+! Slimbob                  has: Ah 6d
+! Pot 1: uncalled $1725 returned to Slimbob
+! Pot 2: ERIC C MOORE wins $86575 with Straight (8 7 6 5 4)
+! Pot 2: Slimbob wins $86550 with Straight (8 7 6 5 4)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Joker                    |   27125 |         |      |    |         |
+ 2|   Jeff Palmucci            |  210450 |         |      |    |         |
+ 3|   Ian Collier              |   30175 |         |      |    |         |
+ 4|D  panfried                 |   78650 |         |      |    |         |
+ 5|   ebock                    |   19700 |         |      |    |         |
+ 6|   Mr Generic               |  156700 |         |      |    |         |
+ 7|>  ERIC C MOORE             |   86575 |         |      |    |         |
+ 8|   Samuel L. Bronkowitz     |   41775 |         |      |    |         |
+ 9|   Slimbob                  |   88275 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 411 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b17.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables for 45 days 
+will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 15
+Live redraw in progress:
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

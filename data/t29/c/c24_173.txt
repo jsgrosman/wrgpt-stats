@@ -1,0 +1,115 @@
+Subject: [c24.10268] Holdem Game Broadcast Message(*)
+
+! Table c24, Hand 173, Day 72
+
+! dave calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   CharlieM                 |   30425 |     200 |folded|    |         |
+ 2|D  Ken Anderson             |  125400 |     200 |folded|    |         |
+ 3|   Twench                   |   74550 |     800 |folded|    |         |
+ 4|>  siona                    |   20625 |   18000 |      |    |         |
+ 5|   JakeyD                   |   20200 |     200 |folded|    |         |
+ 6|   Steve B                  |   26700 |     200 |folded|    |         |
+ 7|   dave                     |   77800 |   18000 |      |    |         |
+ 8|   Dave Weiss               |   69200 |     200 |folded|    |         |
+ 9|   Jay Usher                |  123300 |     200 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/14/20 05:27:05! Dealing a new hand
+! 01/14/20 05:27:05! Everyone antes $200
+! 01/14/20 05:27:05! Twench blinds $600
+! 01/14/20 05:27:05! siona blinds $1200
+! 01/14/20 06:21:20! JakeyD folds
+! 01/14/20 06:28:32! Steve B folds
+! 01/14/20 06:53:40! dave raises $1600 to $2800 total 
+! 01/14/20 06:53:40! Dave Weiss folds
+! 01/14/20 06:53:40! Jay Usher folds
+! 01/14/20 10:05:39! CharlieM folds
+! 01/14/20 10:05:39! Ken Anderson folds
+! 01/14/20 10:05:39! Twench folds
+! 01/14/20 10:32:38! siona calls 
+
+! 01/14/20 10:32:38! Pot right ($8000), flopping/dealing/drawing cards
+! 01/14/20 10:32:38! 2 players
+! 01/14/20 10:32:38! Flopped cards: 4d Jd 3s
+! 01/14/20 10:33:25! siona checks
+! 01/14/20 10:40:30! dave bets $5000 
+! 01/14/20 11:31:29! siona calls 
+
+! 01/14/20 11:31:29! Pot right ($18000), flopping/dealing/drawing cards
+! 01/14/20 11:31:29! 2 players
+! 01/14/20 11:31:29! Flopped card: 7c
+! 01/14/20 11:33:25! siona bets $5000 
+! 01/14/20 12:06:43! dave calls 
+
+! 01/14/20 12:06:43! Pot right ($28000), flopping/dealing/drawing cards
+! 01/14/20 12:06:43! 2 players
+! 01/14/20 12:06:43! Flopped card: 8s
+! 01/14/20 12:19:01! siona bets $5000 
+! 01/14/20 12:22:10! dave calls 
+! Hand over, current board is:  4d Jd 3s 7c 8s
+! siona                    has: 4h 4c
+! dave                     has: Js Ac
+! siona wins $38000 (net $20000) with Three of a Kind (4 4 4 J 8)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   CharlieM                 |   30425 |         |      |    |         |
+ 2|   Ken Anderson             |  125400 |         |      |    |         |
+ 3|D  Twench                   |   74550 |         |      |    |         |
+ 4|>  siona                    |   58625 |         |      |    |         |
+ 5|   JakeyD                   |   20200 |         |      |    |         |
+ 6|   Steve B                  |   26700 |         |      |    |         |
+ 7|   dave                     |   77800 |         |      |    |         |
+ 8|   Dave Weiss               |   69200 |         |      |    |         |
+ 9|   Jay Usher                |  123300 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 307 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c24.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 14
+Live redraw in progress:
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

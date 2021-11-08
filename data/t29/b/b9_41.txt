@@ -1,0 +1,118 @@
+Subject: [b9.10455] Holdem Game Broadcast Message(*)
+
+! Table b9, Hand 41, Day 23
+
+! hi.seas calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   altidude6202             |   53600 |       0 |folded|    |         |
+ 2|   hi.seas                  |   25675 |    7350 |      |    |         |
+ 3|   Wrongfellow              |   47300 |       0 |folded|    |         |
+ 4|   GKinz54                  |   47400 |       0 |folded|    |         |
+ 5|D> ScoobySnack              |   43575 |    7350 |      |    |         |
+ 6|   denimmined               |   62300 |     150 |folded|    |         |
+ 7|   James Scharf             |   64625 |     300 |folded|    |         |
+ 8|   tekbot                   |   66500 |       0 |folded|    |         |
+ 9|   Bwana                    |   23875 |       0 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/25/19 17:42:28! Dealing a new hand
+! 11/25/19 17:42:28! No ante
+! 11/25/19 17:42:28! denimmined blinds $150
+! 11/25/19 17:42:28! James Scharf blinds $300
+! 11/25/19 17:43:35! tekbot folds
+! 11/25/19 18:19:08! Bwana folds
+! 11/25/19 19:04:38! altidude6202 folds
+! 11/25/19 20:36:27! hi.seas raises $600 to $900 total 
+! 11/25/19 20:36:27! Wrongfellow folds
+! 11/25/19 21:04:09! GKinz54 folds
+! 11/25/19 21:55:43! ScoobySnack calls 
+! 11/25/19 21:55:43! denimmined folds
+! 11/25/19 21:55:43! James Scharf folds
+
+! 11/25/19 21:55:43! Pot right ($2250), flopping/dealing/drawing cards
+! 11/25/19 21:55:43! 2 players
+! 11/25/19 21:55:43! Flopped cards: 3c 10s Jh
+! 11/26/19 05:32:28! hi.seas bets $750 
+! 11/26/19 05:34:44! ScoobySnack calls 
+
+! 11/26/19 05:34:44! Pot right ($3750), flopping/dealing/drawing cards
+! 11/26/19 05:34:44! 2 players
+! 11/26/19 05:34:44! Flopped card: 7d
+! 11/26/19 05:41:39! hi.seas checks
+! 11/26/19 05:57:17! ScoobySnack checks
+
+! 11/26/19 05:57:17! Pot right ($3750), flopping/dealing/drawing cards
+! 11/26/19 05:57:17! 2 players
+! 11/26/19 05:57:17! Flopped card: Qh
+! 11/26/19 06:00:28! hi.seas bets $2850 
+! 11/26/19 06:01:24! ScoobySnack raises $2850 to $5700 total 
+! 11/26/19 06:19:11! hi.seas calls 
+! Hand over, current board is:  3c 10s Jh 7d Qh
+! hi.seas                  has: Ks 10h
+! ScoobySnack              has: As Kh
+! ScoobySnack wins $15150 (net $7800) with Straight (A K Q J 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   altidude6202             |   53600 |         |      |    |         |
+ 2|   hi.seas                  |   25675 |         |      |    |         |
+ 3|   Wrongfellow              |   47300 |         |      |    |         |
+ 4|   GKinz54                  |   47400 |         |      |    |         |
+ 5|>  ScoobySnack              |   58725 |         |      |    |         |
+ 6|D  denimmined               |   62300 |         |      |    |         |
+ 7|   James Scharf             |   64625 |         |      |    |         |
+ 8|   tekbot                   |   66500 |         |      |    |         |
+ 9|   Bwana                    |   23875 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 495 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b9.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that have not come to the table by the end
+of day 30 will be removed.
+
+Players that are away from the tables for 45 days 
+will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 13
+Live redraw in progress:
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

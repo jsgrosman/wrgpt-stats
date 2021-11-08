@@ -1,0 +1,127 @@
+Subject: [b18.10131] Holdem Game Broadcast Message(*)
+
+! Table b18, Hand 9, Day 6
+
+! Amanjyaku checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Ken Doss                 |   51800 |      75 |folded|    |         |
+ 2|   Blackcove                |   48950 |     150 |folded|    |         |
+ 3|   BustedYourMom            |   47525 |       0 |folded|    |         |
+ 4|   Aardvark                 |   55325 |       0 |folded|    |         |
+ 5|   Clark Olson              |   49175 |       0 |folded|    |         |
+ 6|   anjampie                 |   49775 |       0 |folded|    |         |
+ 7|>  Bugsy                    |   41400 |    7725 |      |    |         |
+ 8|   David Radke              |   43600 |       0 |folded|    |         |
+ 9|D  Amanjyaku                |   46775 |    7725 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/09/19 05:42:34! Dealing a new hand
+! 11/09/19 05:42:34! No ante
+! 11/09/19 05:42:34! Ken Doss blinds $75
+! 11/09/19 05:42:34! Blackcove blinds $150
+! 11/09/19 08:54:56! BustedYourMom folds
+! 11/09/19 09:05:32! Aardvark folds
+! 11/09/19 09:06:04! Clark Olson folds
+! 11/09/19 09:06:04! anjampie folds
+! 11/09/19 09:21:22! Bugsy raises $350 to $500 total 
+! 11/09/19 09:21:22! David Radke folds
+! 11/09/19 10:03:45! Amanjyaku calls 
+! 11/09/19 18:47:04! Ken Doss folds
+! 11/09/19 18:47:04! Blackcove folds
+
+! 11/09/19 18:47:04! Pot right ($1225), flopping/dealing/drawing cards
+! 11/09/19 18:47:04! 2 players
+! 11/09/19 18:47:04! Flopped cards: Ad 10d 3d
+! 11/09/19 18:52:02! Bugsy bets $750 
+! 11/09/19 18:55:47! Amanjyaku raises $1250 to $2000 total 
+! 11/09/19 19:13:12! Bugsy calls 
+
+! 11/09/19 19:13:12! Pot right ($5225), flopping/dealing/drawing cards
+! 11/09/19 19:13:12! 2 players
+! 11/09/19 19:13:12! Flopped card: 10h
+! 11/09/19 19:14:37! Bugsy checks
+_____________________________________________________________________________
+
+! Common commands: - WHAT for status
+! Basic advance actions:
+! BET $x | CALL $x | CALL * | FOLD | MAKE $x
+! RAISE $x | POT | CHECK | JAM | UNDO | GONE
+! On Sat, Nov 9, 2019 at 9:14 PM <dealer@wrgpt.org> wrote:
+! (dealer suppressed lines starting with '>' or ':')
+! -- Amanjyaku --
+_____________________________________________________________________________
+
+! 11/09/19 21:08:01! Amanjyaku bets $5225 
+! 11/09/19 21:13:33! Bugsy calls 
+
+! 11/09/19 21:13:33! Pot right ($15675), flopping/dealing/drawing cards
+! 11/09/19 21:13:33! 2 players
+! 11/09/19 21:13:33! Flopped card: Qs
+! 11/09/19 21:18:52! Bugsy checks
+! 11/09/19 21:54:16! Amanjyaku checks
+! Hand over, current board is:  Ad 10d 3d 10h Qs
+! Bugsy                    has: As Kd
+! Amanjyaku                has: 5s 9c
+! Bugsy wins $15675 (net $7950) with Two Pair (A A 10 10 K)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  Ken Doss                 |   51800 |         |      |    |         |
+ 2|   Blackcove                |   48950 |         |      |    |         |
+ 3|   BustedYourMom            |   47525 |         |      |    |         |
+ 4|   Aardvark                 |   55325 |         |      |    |         |
+ 5|   Clark Olson              |   49175 |         |      |    |         |
+ 6|   anjampie                 |   49775 |         |      |    |         |
+ 7|>  Bugsy                    |   57075 |         |      |    |         |
+ 8|   David Radke              |   43600 |         |      |    |         |
+ 9|   Amanjyaku                |   46775 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 534 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b18.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+This is the REAL WRGPT29.
+Changes to office hours and email addresses do not carry over from the
+practice round.
+You have been assigned a new ID and the round is "b".
+
+Good luck.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 3
+No Live redraw in progress.
+
+===== helpful links =====
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

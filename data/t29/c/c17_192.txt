@@ -1,0 +1,104 @@
+Subject: [c17.10588] Holdem Game Broadcast Message(*)
+
+! Table c17, Hand 192, Day 88
+
+! Buggzilla bets $5000 
+! Ken Doss folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Reggie Miller            |   49050 |     300 |folded|    |         |
+ 2|   Rich Guidoboni           |  374800 |     300 |folded|    |         |
+ 3|   Boiling Frog             |   62625 |     300 |folded|    |         |
+ 4|   JRX                      |  182125 |     300 |folded|    |         |
+ 5|>  Buggzilla                |  168725 |    7300 |      |    |         |
+ 6|D  EricL                    |  111025 |     300 |folded|    |         |
+ 7|   Bryan Currie             |  172400 |    1300 |folded|    |         |
+ 8|   Ken Doss                 |   14100 |    2300 |folded|    |         |
+ 9|   Htr                      |  140775 |     300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/30/20 09:46:34! Dealing a new hand
+! 01/30/20 09:46:34! Everyone antes $300
+! 01/30/20 09:46:34! Bryan Currie blinds $1000
+! 01/30/20 09:46:34! Ken Doss blinds $2000
+! 01/30/20 09:52:32! Htr folds
+! 01/30/20 10:17:54! Reggie Miller folds
+! 01/30/20 10:17:54! Rich Guidoboni folds
+! 01/30/20 10:19:23! Boiling Frog folds
+! 01/30/20 14:21:04! JRX folds
+! 01/30/20 14:21:56! Buggzilla calls 
+! 01/30/20 14:23:43! EricL folds
+! 01/30/20 14:23:43! Bryan Currie folds
+! 01/30/20 14:23:43! Ken Doss checks
+
+! 01/30/20 14:23:43! Pot right ($7700), flopping/dealing/drawing cards
+! 01/30/20 14:23:43! 2 players
+! 01/30/20 14:23:43! Flopped cards: 8h 9h Ad
+! 01/30/20 14:23:43! Ken Doss checks
+! 01/30/20 14:43:12! Buggzilla bets $5000 
+! 01/30/20 14:43:12! Ken Doss folds
+! Hand over, no showdown
+! Current board is:  8h 9h Ad ? ?
+! Buggzilla wins $12700 (net $5400)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Reggie Miller            |   49050 |         |      |    |         |
+ 2|   Rich Guidoboni           |  374800 |         |      |    |         |
+ 3|   Boiling Frog             |   62625 |         |      |    |         |
+ 4|   JRX                      |  182125 |         |      |    |         |
+ 5|>  Buggzilla                |  181425 |         |      |    |         |
+ 6|   EricL                    |  111025 |         |      |    |         |
+ 7|D  Bryan Currie             |  172400 |         |      |    |         |
+ 8|   Ken Doss                 |   14100 |         |      |    |         |
+ 9|   Htr                      |  140775 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! JRX timed out during this hand
+! 226 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c17.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

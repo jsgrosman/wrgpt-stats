@@ -1,0 +1,121 @@
+Subject: [b7.10758] Holdem Game Broadcast Message(*)
+
+! Table b7, Hand 64, Day 60
+
+! fattychubs calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|V  BertBell                 |   41700 |     100 |<AWOL>|    |         |
+ 2|D  fattychubs               |   50775 |   19650 |      |    |         |
+ 3|   Rick Brown               |   67825 |     350 |folded|    |         |
+ 4|   Michael Proteau          |   75700 |     600 |folded|    |         |
+ 5|>  Svante Wester            |   48100 |   19650 |      |    |         |
+ 6|   d-alamo                  |  102625 |     100 |folded|    |         |
+ 7|   Tiltdad                  |   60800 |     600 |folded|    |         |
+ 9|   coming                   |  127700 |     100 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/01/20 16:32:49! Dealing a new hand
+! 01/01/20 16:32:49! Everyone antes $100
+! 01/01/20 16:32:49! Rick Brown blinds $250
+! 01/01/20 16:32:49! Michael Proteau blinds $500
+! 01/01/20 23:03:58! Svante Wester calls 
+! 01/01/20 23:03:58! d-alamo folds
+! 01/01/20 23:03:58! Tiltdad calls 
+! 01/01/20 23:03:58! coming folds
+! 01/01/20 23:03:58! BertBell is on vacation and folds
+! 01/02/20 01:08:29! fattychubs calls 
+! 01/02/20 01:08:29! Rick Brown folds
+! 01/02/20 01:08:29! Michael Proteau checks
+
+! 01/02/20 01:08:29! Pot right ($3050), flopping/dealing/drawing cards
+! 01/02/20 01:08:29! 4 players
+! 01/02/20 01:08:29! Flopped cards: 10s Kc 10d
+! 01/02/20 01:08:29! Michael Proteau checks
+! 01/02/20 01:41:16! Svante Wester bets $3050 
+! 01/02/20 06:26:58! Tiltdad folds
+! 01/02/20 06:51:55! fattychubs calls 
+! 01/02/20 06:51:55! Michael Proteau folds
+
+! 01/02/20 06:51:55! Pot right ($9150), flopping/dealing/drawing cards
+! 01/02/20 06:51:55! 2 players
+! 01/02/20 06:51:55! Flopped card: 9s
+! 01/02/20 07:53:41! Svante Wester bets $6000 
+! 01/02/20 08:27:36! fattychubs calls 
+
+! 01/02/20 08:27:36! Pot right ($21150), flopping/dealing/drawing cards
+! 01/02/20 08:27:36! 2 players
+! 01/02/20 08:27:36! Flopped card: Jd
+! 01/02/20 09:00:24! Svante Wester bets $10000 
+! 01/02/20 09:10:30! fattychubs calls 
+! Hand over, current board is:  10s Kc 10d 9s Jd
+! fattychubs               has: Kh 6c
+! Svante Wester            has: Qs Qd
+! Svante Wester wins $41150 (net $21500) with Straight (K Q J 10 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|V  BertBell                 |   41700 |         |<AWOL>|    |         |
+ 2|   fattychubs               |   50775 |         |      |    |         |
+ 3|D  Rick Brown               |   67825 |         |      |    |         |
+ 4|   Michael Proteau          |   75700 |         |      |    |         |
+ 5|>  Svante Wester            |   89250 |         |      |    |         |
+ 6|   d-alamo                  |  102625 |         |      |    |         |
+ 7|   Tiltdad                  |   60800 |         |      |    |         |
+ 9|   coming                   |  127700 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 344 players left in the tournament 
+! Table finished, waiting to redraw seats.
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b7.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+After day 45 of the tourney there will be no
+more live redraws or breaking tables.  Tables
+will be allowed to run until a table gets to 
+five or fewer players at which time all tables
+will finish the current hand and a full, random
+redraw to all new tables will be done.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 61
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

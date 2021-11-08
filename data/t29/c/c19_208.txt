@@ -1,0 +1,108 @@
+Subject: [c19.10702] Holdem Game Broadcast Message(*)
+
+! Table c19, Hand 208, Day 101
+
+! Nixed folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Jason Feng               |   90500 |     400 |folded|    |         |
+ 2|   Thomas Gabrysch          |  304900 |     400 |folded|    |         |
+ 3|   Nixed                    |  195700 |   18100 |folded|    |         |
+ 4|   Virginia Slims           |   43750 |     400 |folded|    |         |
+ 7|D  Richard Rognlie          |  167475 |     400 |folded|    |         |
+ 8|>  Troutboy Garrett         |  321325 |   36100 |      |    |         |
+ 9|   BT                       |   94625 |    3600 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/11/20 13:43:33! Dealing a new hand
+! 02/11/20 13:43:33! Everyone antes $400
+! 02/11/20 13:43:33! Troutboy Garrett blinds $1600
+! 02/11/20 13:43:33! BT blinds $3200
+! 02/11/20 16:04:06! Jason Feng folds
+! 02/11/20 16:04:06! Thomas Gabrysch folds
+! 02/11/20 16:11:15! Nixed raises $4500 to $7700 total 
+! 02/11/20 16:11:15! Virginia Slims folds
+! 02/11/20 16:11:15! Richard Rognlie folds
+! 02/11/20 17:17:11! Troutboy Garrett calls 
+! 02/11/20 17:34:07! BT folds
+
+! 02/11/20 17:34:07! Pot right ($21400), flopping/dealing/drawing cards
+! 02/11/20 17:34:07! 2 players
+! 02/11/20 17:34:07! Flopped cards: 9d Kd 4d
+! 02/11/20 20:57:06! Troutboy Garrett bets $10000 
+! 02/11/20 21:42:05! Nixed calls 
+
+! 02/11/20 21:42:05! Pot right ($41400), flopping/dealing/drawing cards
+! 02/11/20 21:42:05! 2 players
+! 02/11/20 21:42:05! Flopped card: 5h
+! 02/11/20 23:30:10! Troutboy Garrett bets $18000 
+! 02/12/20 05:10:14! Nixed folds
+! Hand over, no showdown
+! Current board is:  9d Kd 4d 5h ?
+! Troutboy Garrett wins $59400 (net $23300)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Jason Feng               |   90500 |         |      |    |         |
+ 2|   Thomas Gabrysch          |  304900 |         |      |    |         |
+ 3|   Nixed                    |  195700 |         |      |    |         |
+ 4|   Virginia Slims           |   43750 |         |      |    |         |
+ 7|   Richard Rognlie          |  167475 |         |      |    |         |
+ 8|D> Troutboy Garrett         |  380725 |         |      |    |         |
+ 9|   BT                       |   94625 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 177 players left in the tournament 
+! Table finished, waiting to redraw seats.
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c19.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+We are now over 30 days in round "c".  Automatic
+table breaking and live redraws have been disabled.
+We will play until one or more tables gets below six
+players.  When that happens all tables will finish
+the current hand and a full redraw will occur into
+the "d" round.
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 39
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

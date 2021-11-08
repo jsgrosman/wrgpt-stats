@@ -1,0 +1,130 @@
+Subject: [b27.10928] Holdem Game Broadcast Message(*)
+
+! Table b27, Hand 74, Day 45
+
+! OldKingKohl calls 
+! Pot right ($63850), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: Qd
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   LetsGoRedSox             |       0 |   29600 |all-in|    |         |
+ 2|   swamperBengal            |   16450 |    1050 |folded|    |         |
+ 3|   Axel Foley               |  119700 |      50 |folded|    |         |
+ 4|D  Steve B                  |   81250 |      50 |folded|    |         |
+ 5|   Ed Fernandez             |  100025 |    3350 |folded|    |         |
+ 6|>  OldKingKohl              |   96925 |   29600 |      |    |         |
+ 7|   Quick                    |   29375 |      50 |folded|    |         |
+ 8|   Matt Matros              |   16850 |      50 |folded|    |         |
+ 9|   L.A. Johnson             |   44200 |      50 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/18/19 09:59:19! Dealing a new hand
+! 12/18/19 09:59:19! Everyone antes $50
+! 12/18/19 09:59:19! Ed Fernandez blinds $200
+! 12/18/19 09:59:19! OldKingKohl blinds $400
+! 12/18/19 10:03:26! Quick folds
+! 12/18/19 10:20:12! Matt Matros folds
+! 12/18/19 10:20:12! L.A. Johnson folds
+! 12/18/19 10:35:34! LetsGoRedSox raises $600 to $1000 total 
+! 12/18/19 11:14:22! swamperBengal calls 
+! 12/18/19 11:14:22! Axel Foley folds
+! 12/18/19 11:36:54! Steve B folds
+! 12/18/19 11:47:44! Ed Fernandez calls 
+! 12/18/19 11:57:08! OldKingKohl calls 
+
+! 12/18/19 11:57:08! Pot right ($4450), flopping/dealing/drawing cards
+! 12/18/19 11:57:08! 4 players
+! 12/18/19 11:57:08! Flopped cards: 2s Ad Jc
+! 12/18/19 12:56:43! Ed Fernandez checks
+! 12/18/19 14:20:45! OldKingKohl bets $2300 
+! 12/18/19 14:44:17! LetsGoRedSox calls 
+! 12/18/19 17:13:21! swamperBengal folds
+! 12/18/19 17:37:41! Ed Fernandez calls 
+
+! 12/18/19 17:37:41! Pot right ($11350), flopping/dealing/drawing cards
+! 12/18/19 17:37:41! 3 players
+! 12/18/19 17:37:41! Flopped card: 3h
+! 12/18/19 17:38:26! Ed Fernandez checks
+! 12/18/19 17:50:57! OldKingKohl checks
+! 12/18/19 20:19:58! LetsGoRedSox bets $7250 
+! 12/18/19 20:25:23! Ed Fernandez folds
+! 12/18/19 20:31:08! OldKingKohl raises $7250 to $14500 total 
+! 12/18/19 20:40:43! LetsGoRedSox raises $11750 to $26250 total and is all in
+! 12/18/19 20:42:02! OldKingKohl calls 
+
+! 12/18/19 20:42:02! Pot right ($63850), flopping/dealing/drawing cards
+! 12/18/19 20:42:02! 2 players, 1 all in
+! 12/18/19 20:42:02! Flopped card: Qd
+! Hand over, current board is:  2s Ad Jc 3h Qd
+! LetsGoRedSox             has: 10s Jh
+! OldKingKohl              has: 3s 3c
+! OldKingKohl wins $63850 (net $34250) with Three of a Kind (3 3 3 A Q)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|   swamperBengal            |   16450 |         |      |    |         |
+ 3|   Axel Foley               |  119700 |         |      |    |         |
+ 4|   Steve B                  |   81250 |         |      |    |         |
+ 5|D  Ed Fernandez             |  100025 |         |      |    |         |
+ 6|>  OldKingKohl              |  160775 |         |      |    |         |
+ 7|   Quick                    |   29375 |         |      |    |         |
+ 8|   Matt Matros              |   16850 |         |      |    |         |
+ 9|   L.A. Johnson             |   44200 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! LetsGoRedSox is eliminated!
+! 395 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b27.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+After day 45 of the tourney there will be no
+more live redraws or breaking tables.  Tables
+will be allowed to run until a table gets to 
+five or fewer players at which time all tables
+will finish the current hand and a full, random
+redraw to all new tables will be done.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

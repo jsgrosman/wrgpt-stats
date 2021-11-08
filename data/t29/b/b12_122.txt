@@ -1,0 +1,123 @@
+Subject: [b12.11315] Holdem Game Broadcast Message(*)
+
+! Table b12, Hand 122, Day 60
+
+! Bacon calls 
+! Pot right ($70700), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: 6d
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Derrick Martins          |   85550 |     100 |folded|    |         |
+ 2|   Lana OBrien              |       0 |   34625 |all-in|    |         |
+ 3|   BBLWOG                   |   37025 |     100 |folded|    |         |
+ 4|   J. Michael Robertson     |  194400 |     100 |folded|    |         |
+ 5|>  Bacon                    |   29975 |   34625 |      |    |         |
+ 6|   Chris Leslie             |   55050 |     100 |folded|    |         |
+ 7|D  Daryl                    |   20900 |     100 |folded|    |         |
+ 8|   Dino Bravo               |   93825 |     350 |folded|    |         |
+ 9|   Ken Kubey                |   75850 |     600 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/02/20 06:07:30! Dealing a new hand
+! 01/02/20 06:07:30! Everyone antes $100
+! 01/02/20 06:07:30! Dino Bravo blinds $250
+! 01/02/20 06:07:30! Ken Kubey blinds $500
+! 01/02/20 06:08:59! Derrick Martins folds
+! 01/02/20 08:18:29! Lana OBrien raises $850 to $1350 total 
+! 01/02/20 08:18:29! BBLWOG folds
+! 01/02/20 08:18:29! J. Michael Robertson folds
+! 01/02/20 08:28:44! Bacon raises $2300 to $3650 total 
+! 01/02/20 09:05:28! Chris Leslie folds
+! 01/02/20 09:58:27! Daryl folds
+! 01/02/20 09:58:27! Dino Bravo folds
+! 01/02/20 10:03:29! Ken Kubey folds
+! 01/02/20 11:43:14! Lana OBrien calls 
+
+! 01/02/20 11:43:14! Pot right ($8950), flopping/dealing/drawing cards
+! 01/02/20 11:43:14! 2 players
+! 01/02/20 11:43:14! Flopped cards: 5d 5c 7d
+! 01/02/20 11:47:16! Lana OBrien checks
+! 01/02/20 11:58:15! Bacon bets $5550 
+! 01/02/20 13:35:20! Lana OBrien calls 
+
+! 01/02/20 13:35:20! Pot right ($20050), flopping/dealing/drawing cards
+! 01/02/20 13:35:20! 2 players
+! 01/02/20 13:35:20! Flopped card: 6c
+! 01/02/20 13:36:49! Lana OBrien checks
+! 01/02/20 13:56:07! Bacon bets $18000 
+! 01/02/20 15:08:44! Lana OBrien raises $7325 to $25325 total and is all in
+! 01/02/20 15:26:59! Bacon calls 
+
+! 01/02/20 15:26:59! Pot right ($70700), flopping/dealing/drawing cards
+! 01/02/20 15:26:59! 2 players, 1 all in
+! 01/02/20 15:26:59! Flopped card: 6d
+! Hand over, current board is:  5d 5c 7d 6c 6d
+! Lana OBrien              has: 7s 7c
+! Bacon                    has: As Ad
+! Lana OBrien wins $70700 (net $36075) with Full House (7 7 7 6 6)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Derrick Martins          |   85550 |         |      |    |         |
+ 2|   Lana OBrien              |   70700 |         |      |    |         |
+ 3|   BBLWOG                   |   37025 |         |      |    |         |
+ 4|   J. Michael Robertson     |  194400 |         |      |    |         |
+ 5|>  Bacon                    |   29975 |         |      |    |         |
+ 6|   Chris Leslie             |   55050 |         |      |    |         |
+ 7|   Daryl                    |   20900 |         |      |    |         |
+ 8|D  Dino Bravo               |   93825 |         |      |    |         |
+ 9|   Ken Kubey                |   75850 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 343 players left in the tournament 
+! Table finished, waiting to redraw seats.
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b12.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+Tables still playing round "b" will finish
+the current hand.  Then a full redraw to "c"
+tables will be done.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 62
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

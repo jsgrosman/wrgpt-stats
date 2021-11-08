@@ -1,0 +1,122 @@
+Subject: [c4.10772] Holdem Game Broadcast Message(*)
+
+! Table c4, Hand 214, Day 96
+
+! Sir Barlow calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Jeff Okamoto             |   68025 |    1300 |folded|    |         |
+ 2|>  GoBig                    |   53650 |   21300 |      |    |         |
+ 3|   Ken Kubey                |  103100 |     300 |folded|    |         |
+ 4|   FruitFoot                |   94650 |     300 |folded|    |         |
+ 5|   Righteous Indignation    |  199000 |    6300 |folded|    |         |
+ 6|   Motown                   |   67800 |     300 |folded|    |         |
+ 7|   Klod                     |  228375 |     300 |folded|    |         |
+ 8|   Barrett                  |   92300 |     300 |folded|    |         |
+ 9|D  Sir Barlow               |  252475 |   21300 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/06/20 18:52:02! Dealing a new hand
+! 02/06/20 18:52:02! Everyone antes $300
+! 02/06/20 18:52:02! Jeff Okamoto blinds $1000
+! 02/06/20 18:52:02! GoBig blinds $2000
+! 02/06/20 19:00:35! Ken Kubey folds
+! 02/07/20 05:11:51! FruitFoot folds
+! 02/07/20 08:26:50! Righteous Indignation raises $4000 to $6000 total 
+! 02/07/20 09:21:18! Motown folds
+! 02/07/20 09:21:18! Klod folds
+! 02/07/20 09:21:18! Barrett folds
+! 02/07/20 10:15:02! Sir Barlow calls 
+! 02/07/20 10:15:02! Jeff Okamoto folds
+! 02/07/20 10:21:37! GoBig calls 
+
+! 02/07/20 10:21:37! Pot right ($21700), flopping/dealing/drawing cards
+! 02/07/20 10:21:37! 3 players
+! 02/07/20 10:21:37! Flopped cards: 7c Ac 4s
+! 02/07/20 10:34:17! GoBig bets $5000 
+! 02/07/20 10:40:38! Righteous Indignation folds
+! 02/07/20 10:43:29! Sir Barlow calls 
+
+! 02/07/20 10:43:29! Pot right ($31700), flopping/dealing/drawing cards
+! 02/07/20 10:43:29! 2 players
+! 02/07/20 10:43:29! Flopped card: 2s
+! 02/07/20 10:46:25! GoBig bets $5000 
+! 02/07/20 11:20:13! Sir Barlow calls 
+
+! 02/07/20 11:20:13! Pot right ($41700), flopping/dealing/drawing cards
+! 02/07/20 11:20:13! 2 players
+! 02/07/20 11:20:13! Flopped card: 2c
+! 02/07/20 11:34:20! GoBig bets $5000 
+! 02/07/20 11:35:45! Sir Barlow calls 
+! Hand over, current board is:  7c Ac 4s 2s 2c
+! GoBig                    has: Kc 3c
+! Sir Barlow               has: As 9c
+! GoBig wins $51700 (net $30400) with Club Flush (A K 7 3 2)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  Jeff Okamoto             |   68025 |         |      |    |         |
+ 2|>  GoBig                    |  105350 |         |      |    |         |
+ 3|   Ken Kubey                |  103100 |         |      |    |         |
+ 4|   FruitFoot                |   94650 |         |      |    |         |
+ 5|   Righteous Indignation    |  199000 |         |      |    |         |
+ 6|   Motown                   |   67800 |         |      |    |         |
+ 7|   Klod                     |  228375 |         |      |    |         |
+ 8|   Barrett                  |   92300 |         |      |    |         |
+ 9|   Sir Barlow               |  252475 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 194 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c4.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+We are now over 30 days in round "c".  Automatic
+table breaking and live redraws have been disabled.
+We will play until one or more tables gets below six
+players.  When that happens all tables will finish
+the current hand and a full redraw will occur into
+the "d" round.
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 22
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

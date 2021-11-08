@@ -1,0 +1,127 @@
+Subject: [b11.10759] Holdem Game Broadcast Message(*)
+
+! Table b11, Hand 58, Day 50
+
+! Butter checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   That Guy There           |   33725 |      50 |folded|    |         |
+ 2|   ADB Schmengie            |   67375 |      50 |folded|    |         |
+ 3|   Butter                   |   72750 |    6450 |      |    |         |
+ 4|D  Jim Sokoloff             |   41275 |      50 |folded|    |         |
+ 5|>  Monika                   |   44325 |    6450 |      |    |         |
+ 6|   Mybanjo                  |   59725 |     450 |folded|    |         |
+ 7|   ThinkingPokerAndrew      |   37800 |      50 |folded|    |         |
+ 8|   Nightshift6              |   43650 |    1450 |folded|    |         |
+ 9|V  Abhishek Garg            |   34325 |      50 |<AWOL>|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/21/19 13:11:11! Dealing a new hand
+! 12/21/19 13:11:11! Everyone antes $50
+! 12/21/19 13:11:11! Monika blinds $200
+! 12/21/19 13:11:11! Mybanjo blinds $400
+! 12/21/19 13:19:32! ThinkingPokerAndrew folds
+! 12/22/19 04:36:00! Nightshift6 calls 
+! 12/22/19 04:36:00! Abhishek Garg is on vacation and folds
+! 12/22/19 04:36:00! That Guy There folds
+! 12/22/19 04:36:00! ADB Schmengie folds
+! 12/22/19 07:33:51! Butter calls 
+! 12/22/19 07:33:51! Jim Sokoloff folds
+! 12/22/19 07:41:07! Monika calls 
+! 12/22/19 10:14:09! Mybanjo checks
+
+! 12/22/19 10:14:09! Pot right ($2050), flopping/dealing/drawing cards
+! 12/22/19 10:14:09! 4 players
+! 12/22/19 10:14:09! Flopped cards: Js 4h 5h
+! 12/22/19 11:03:28! Monika bets $500 
+! 12/22/19 11:08:21! Mybanjo folds
+! 12/22/19 12:42:30! Nightshift6 calls 
+! 12/22/19 12:43:50! Butter calls 
+
+! 12/22/19 12:43:50! Pot right ($3550), flopping/dealing/drawing cards
+! 12/22/19 12:43:50! 3 players
+! 12/22/19 12:43:50! Flopped card: 9h
+! 12/22/19 12:45:50! Monika bets $500 
+! 12/23/19 05:25:00! Nightshift6 calls 
+! 12/23/19 06:13:21! Butter raises $2500 to $3000 total 
+! 12/23/19 08:08:29! Monika raises $2500 to $5500 total 
+! 12/23/19 08:13:12! Nightshift6 folds
+! 12/23/19 08:17:14! Butter calls 
+
+! 12/23/19 08:17:14! Pot right ($15050), flopping/dealing/drawing cards
+! 12/23/19 08:17:14! 2 players
+! 12/23/19 08:17:14! Flopped card: 7h
+! 12/23/19 10:18:32! Monika checks
+! 12/23/19 10:20:27! Butter checks
+! Hand over, current board is:  Js 4h 5h 9h 7h
+! Butter                   has: Jh 10c
+! Monika                   has: Qd Qc
+! Butter wins $15050 (net $8600) with Heart Flush (J 9 7 5 4)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   That Guy There           |   33725 |         |      |    |         |
+ 2|   ADB Schmengie            |   67375 |         |      |    |         |
+ 3|   Butter                   |   87800 |         |      |    |         |
+ 4|   Jim Sokoloff             |   41275 |         |      |    |         |
+ 5|D> Monika                   |   44325 |         |      |    |         |
+ 6|   Mybanjo                  |   59725 |         |      |    |         |
+ 7|   ThinkingPokerAndrew      |   37800 |         |      |    |         |
+ 8|   Nightshift6              |   43650 |         |      |    |         |
+ 9|V  Abhishek Garg            |   34325 |         |<AWOL>|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 378 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b11.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+After day 45 of the tourney there will be no
+more live redraws or breaking tables.  Tables
+will be allowed to run until a table gets to 
+five or fewer players at which time all tables
+will finish the current hand and a full, random
+redraw to all new tables will be done.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 27
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

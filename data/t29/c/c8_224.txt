@@ -1,0 +1,109 @@
+Subject: [c8.10889] Holdem Game Broadcast Message(*)
+
+! Table c8, Hand 224, Day 100
+
+! smak folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Cruella                  |   44300 |     400 |folded|    |         |
+ 2|D  Michael Proteau          |  336750 |     400 |folded|    |         |
+ 3|>  Andyd                    |  100150 |   20100 |      |    |         |
+ 5|   SJL                      |  139850 |    3600 |folded|    |         |
+ 6|   Swamper_Shirley          |  161475 |     400 |folded|    |         |
+ 7|   smak                     |   86400 |   10100 |folded|    |         |
+ 8|   OldKingKohl              |  357200 |     400 |folded|    |         |
+ 9|   Ed Barrett               |   40100 |     400 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/11/20 07:47:28! Dealing a new hand
+! 02/11/20 07:47:28! Everyone antes $400
+! 02/11/20 07:47:28! Andyd blinds $1600
+! 02/11/20 07:47:28! SJL blinds $3200
+! 02/11/20 07:55:52! Swamper_Shirley folds
+! 02/11/20 11:39:58! smak calls 
+! 02/11/20 11:39:58! OldKingKohl folds
+! 02/11/20 11:39:58! Ed Barrett folds
+! 02/11/20 11:39:58! Cruella folds
+! 02/11/20 11:39:58! Michael Proteau folds
+! 02/11/20 11:39:58! Andyd calls 
+! 02/11/20 11:39:58! SJL checks
+
+! 02/11/20 11:39:58! Pot right ($12800), flopping/dealing/drawing cards
+! 02/11/20 11:39:58! 3 players
+! 02/11/20 11:39:58! Flopped cards: 8h 10s 10h
+! 02/11/20 11:41:38! Andyd checks
+! 02/11/20 13:06:09! SJL checks
+! 02/11/20 13:07:06! smak bets $6500 
+! 02/11/20 14:21:54! Andyd raises $10000 to $16500 total 
+! 02/11/20 14:24:16! SJL folds
+! 02/11/20 14:24:49! smak folds
+! Hand over, no showdown
+! Current board is:  8h 10s 10h ? ?
+! Andyd wins $35800 (net $15700)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Cruella                  |   44300 |         |      |    |         |
+ 2|   Michael Proteau          |  336750 |         |      |    |         |
+ 3|D> Andyd                    |  135950 |         |      |    |         |
+ 5|   SJL                      |  139850 |         |      |    |         |
+ 6|   Swamper_Shirley          |  161475 |         |      |    |         |
+ 7|   smak                     |   86400 |         |      |    |         |
+ 8|   OldKingKohl              |  357200 |         |      |    |         |
+ 9|   Ed Barrett               |   40100 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 180 players left in the tournament, 4 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c8.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+We are now over 30 days in round "c".  Automatic
+table breaking and live redraws have been disabled.
+We will play until one or more tables gets below six
+players.  When that happens all tables will finish
+the current hand and a full redraw will occur into
+the "d" round.
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 36
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

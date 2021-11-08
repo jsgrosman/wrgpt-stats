@@ -1,0 +1,109 @@
+Subject: [c14.10866] Holdem Game Broadcast Message(*)
+
+! Table c14, Hand 231, Day 100
+
+! DireWolf calls 
+! Pot right ($91000), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped cards: 6s 8s 2s
+! Flopped card: Jd
+! Flopped card: 7s
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Keith Carangelo          |   64450 |     400 |folded|    |         |
+ 2|   Ken Anderson             |  287100 |     400 |folded|    |         |
+ 3|V  Bacon Z                  |   88050 |     400 |<AWOL>|    |         |
+ 6|D  Steve Zagieboylo         |  288650 |     400 |folded|    |         |
+ 7|   Josh Moore               |  141675 |    2000 |folded|    |         |
+ 8|   Bobby Luckbox            |       0 |   43700 |all-in|    |         |
+ 9|>  DireWolf                 |  426350 |   43700 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/11/20 15:02:55! Dealing a new hand
+! 02/11/20 15:02:55! Everyone antes $400
+! 02/11/20 15:02:55! Josh Moore blinds $1600
+! 02/11/20 15:02:55! Bobby Luckbox blinds $3200
+! 02/11/20 15:12:13! DireWolf raises $6000 to $9200 total 
+! 02/11/20 15:27:47! Keith Carangelo folds
+! 02/11/20 15:58:21! Ken Anderson folds
+! 02/11/20 15:58:21! Bacon Z is on vacation and folds
+! 02/11/20 17:02:34! Steve Zagieboylo folds
+! 02/11/20 17:02:34! Josh Moore folds
+! 02/11/20 17:42:14! Bobby Luckbox raises $34100 to $43300 total and is all in
+! 02/11/20 17:44:41! DireWolf calls 
+
+! 02/11/20 17:44:41! Pot right ($91000), flopping/dealing/drawing cards
+! 02/11/20 17:44:41! 2 players, 1 all in
+! 02/11/20 17:44:41! Flopped cards: 6s 8s 2s
+! 02/11/20 17:44:41! Flopped card: Jd
+! 02/11/20 17:44:41! Flopped card: 7s
+! Hand over, current board is:  6s 8s 2s Jd 7s
+! Bobby Luckbox            has: 10s Ah
+! DireWolf                 has: 3s 3h
+! Bobby Luckbox wins $91000 (net $47300) with Spade Flush (10 8 7 6 2)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Keith Carangelo          |   64450 |         |      |    |         |
+ 2|   Ken Anderson             |  287100 |         |      |    |         |
+ 3|V  Bacon Z                  |   88050 |         |<AWOL>|    |         |
+ 6|   Steve Zagieboylo         |  288650 |         |      |    |         |
+ 7|D  Josh Moore               |  141675 |         |      |    |         |
+ 8|   Bobby Luckbox            |   91000 |         |      |    |         |
+ 9|>  DireWolf                 |  426350 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 178 players left in the tournament 
+! Table finished, waiting to redraw seats.
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c14.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+We are now over 30 days in round "c".  Automatic
+table breaking and live redraws have been disabled.
+We will play until one or more tables gets below six
+players.  When that happens all tables will finish
+the current hand and a full redraw will occur into
+the "d" round.
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 37
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

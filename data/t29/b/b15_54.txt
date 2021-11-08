@@ -1,0 +1,121 @@
+Subject: [b15.10721] Holdem Game Broadcast Message(*)
+
+! Table b15, Hand 54, Day 29
+
+! Nyte checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Floyd H. McKay           |   34650 |     150 |folded|    |         |
+ 2|V  bluecandy                |   45600 |     300 |<Gone>|    |         |
+ 3|   BigElmo                  |   34900 |       0 |folded|    |         |
+ 4|   TrayRacer                |   61025 |       0 |folded|    |         |
+ 5|>  JakeyD                   |   62375 |    3300 |      |    |         |
+ 6|   Bob The Butcher          |   66075 |       0 |folded|    |         |
+ 7|   robo                     |   47225 |     300 |folded|    |         |
+ 8|   Simon McAndrews          |   43100 |       0 |folded|    |         |
+ 9|D  Nyte                     |   47700 |    3300 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/01/19 19:56:33! Dealing a new hand
+! 12/01/19 19:56:33! No ante
+! 12/01/19 19:56:33! Floyd H. McKay blinds $150
+! 12/01/19 19:56:33! bluecandy blinds $300
+! 12/01/19 21:18:43! BigElmo folds
+! 12/01/19 21:18:43! TrayRacer folds
+! 12/02/19 03:49:18! JakeyD calls 
+! 12/02/19 03:49:18! Bob The Butcher folds
+! 12/02/19 03:49:18! robo calls 
+! 12/02/19 03:49:18! Simon McAndrews folds
+! 12/02/19 04:49:19! Nyte calls 
+! 12/02/19 04:49:19! Floyd H. McKay folds
+! 12/02/19 04:49:19! bluecandy is on vacation and checks
+
+! 12/02/19 04:49:19! Pot right ($1350), flopping/dealing/drawing cards
+! 12/02/19 04:49:19! 4 players
+! 12/02/19 04:49:19! Flopped cards: Qd 2s 2d
+! 12/02/19 04:49:19! bluecandy is on vacation and checks
+! 12/02/19 04:50:22! JakeyD bets $1000 
+! 12/02/19 05:25:36! robo folds
+! 12/02/19 07:53:47! Nyte calls 
+! 12/02/19 07:53:47! bluecandy is on vacation and folds
+
+! 12/02/19 07:53:47! Pot right ($3350), flopping/dealing/drawing cards
+! 12/02/19 07:53:47! 2 players
+! 12/02/19 07:53:47! Flopped card: 7c
+! 12/02/19 07:58:14! JakeyD bets $2000 
+! 12/02/19 08:01:18! Nyte calls 
+
+! 12/02/19 08:01:18! Pot right ($7350), flopping/dealing/drawing cards
+! 12/02/19 08:01:18! 2 players
+! 12/02/19 08:01:18! Flopped card: 4s
+! 12/02/19 08:07:18! JakeyD checks
+! 12/02/19 08:09:48! Nyte checks
+! Hand over, current board is:  Qd 2s 2d 7c 4s
+! JakeyD                   has: 6s 6h
+! Nyte                     has: 9d 7d
+! Nyte wins $7350 (net $4050) with Two Pair (7 7 2 2 Q)
+! Antes and blinds go up
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  Floyd H. McKay           |   34650 |         |      |    |         |
+ 2|V  bluecandy                |   45600 |         |<Gone>|    |         |
+ 3|   BigElmo                  |   34900 |         |      |    |         |
+ 4|   TrayRacer                |   61025 |         |      |    |         |
+ 5|>  JakeyD                   |   62375 |         |      |    |         |
+ 6|   Bob The Butcher          |   66075 |         |      |    |         |
+ 7|   robo                     |   47225 |         |      |    |         |
+ 8|   Simon McAndrews          |   43100 |         |      |    |         |
+ 9|   Nyte                     |   55050 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 471 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b15.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that have not come to the table by the end
+of day 30 will be removed.
+
+Players that are away from the tables for 45 days 
+will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 6
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

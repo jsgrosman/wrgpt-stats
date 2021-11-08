@@ -1,0 +1,124 @@
+Subject: [b32.10451] Holdem Game Broadcast Message(*)
+
+! Table b32, Hand 34, Day 21
+
+! Thumper checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  BillDaBear               |   89250 |    8250 |      |    |         |
+ 2|   DireWolf                 |   39675 |       0 |folded|    |         |
+ 3|   Stephen Mack             |       0 |    8250 |all-in|    |         |
+ 4|   Thumper                  |   96100 |    8250 |      |    |         |
+ 5|   Chris Sims               |   35325 |     750 |folded|    |         |
+ 6|   JZo                      |   83875 |       0 |folded|    |         |
+ 7|D  Blind Owl                |   39550 |       0 |folded|    |         |
+ 8|   Dr. Evil                 |   28350 |     150 |folded|    |         |
+ 9|   Shari Silk               |   59850 |     300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 11/23/19 07:52:42! Dealing a new hand
+! 11/23/19 07:52:42! No ante
+! 11/23/19 07:52:42! Dr. Evil blinds $150
+! 11/23/19 07:52:42! Shari Silk blinds $300
+! 11/23/19 08:57:34! BillDaBear raises $450 to $750 total 
+! 11/23/19 09:03:20! DireWolf folds
+! 11/23/19 12:26:05! Stephen Mack calls 
+! 11/23/19 15:10:36! Thumper calls 
+! 11/23/19 15:56:41! Chris Sims calls 
+! 11/23/19 15:56:41! JZo folds
+! 11/23/19 15:56:41! Blind Owl folds
+! 11/23/19 15:56:41! Dr. Evil folds
+! 11/23/19 16:00:51! Shari Silk folds
+
+! 11/23/19 16:00:51! Pot right ($3450), flopping/dealing/drawing cards
+! 11/23/19 16:00:51! 4 players
+! 11/23/19 16:00:51! Flopped cards: 7d As Ah
+! 11/23/19 16:49:27! BillDaBear checks
+! 11/23/19 17:08:05! Stephen Mack checks
+! 11/23/19 17:15:42! Thumper bets $2000 
+! 11/23/19 18:19:07! Chris Sims folds
+! 11/23/19 18:21:48! BillDaBear calls 
+! 11/23/19 20:36:10! Stephen Mack calls 
+
+! 11/23/19 20:36:10! Pot right ($9450), flopping/dealing/drawing cards
+! 11/23/19 20:36:10! 3 players
+! 11/23/19 20:36:10! Flopped card: 9h
+! 11/23/19 20:53:39! BillDaBear checks
+! 11/23/19 21:29:32! Stephen Mack bets $5500 and is all in
+! 11/23/19 21:31:41! Thumper calls 
+! 11/24/19 00:29:59! BillDaBear calls 
+
+! 11/24/19 00:29:59! Pot right ($25950), flopping/dealing/drawing cards
+! 11/24/19 00:29:59! 3 players, 1 all in
+! 11/24/19 00:29:59! Flopped card: 6s
+! 11/24/19 00:31:35! BillDaBear checks
+! 11/24/19 06:41:19! Thumper checks
+! Hand over, current board is:  7d As Ah 9h 6s
+! BillDaBear               has: 10d 9d
+! Stephen Mack             has: Ad 10c
+! Thumper                  has: Kh 9c
+! Stephen Mack wins $25950 (net $17700) with Three of a Kind (A A A 10 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  BillDaBear               |   89250 |         |      |    |         |
+ 2|   DireWolf                 |   39675 |         |      |    |         |
+ 3|   Stephen Mack             |   25950 |         |      |    |         |
+ 4|   Thumper                  |   96100 |         |      |    |         |
+ 5|   Chris Sims               |   35325 |         |      |    |         |
+ 6|   JZo                      |   83875 |         |      |    |         |
+ 7|   Blind Owl                |   39550 |         |      |    |         |
+ 8|D  Dr. Evil                 |   28350 |         |      |    |         |
+ 9|   Shari Silk               |   59850 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 501 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b32.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that have not come to the table by the end
+of day 30 will be removed.
+
+Players that are away from the tables for 45 days 
+will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 3
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

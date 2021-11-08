@@ -1,0 +1,118 @@
+Subject: [c9.10221] Holdem Game Broadcast Message(*)
+
+! Table c9, Hand 160, Day 71
+
+! docober calls - side pot
+! Pot right ($108825), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped card: 10s
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   BeastSlayer              |  102950 |     200 |folded|    |         |
+ 2|   ThinkingPokerAndrew      |    7800 |     200 |folded|    |         |
+ 3|>  docober                  |       0 |   35200 |all-in|  2 |   73600 |
+ 4|   Poohbear                 |       0 |   70425 |all-in|  1 |   35225 |
+ 5|   newtonheath              |  104275 |     200 |folded|    |         |
+ 6|   Loboc                    |  101050 |     200 |folded|    |         |
+ 7|D  JZo                      |   29200 |     200 |folded|    |         |
+ 8|   Stephen Opal             |   20700 |     800 |folded|    |         |
+ 9|   Pvt_Pyle                 |  122575 |    1400 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/13/20 11:00:40! Dealing a new hand
+! 01/13/20 11:00:40! Everyone antes $200
+! 01/13/20 11:00:40! Stephen Opal blinds $600
+! 01/13/20 11:00:40! Pvt_Pyle blinds $1200
+! 01/13/20 11:27:14! BeastSlayer folds
+! 01/13/20 11:36:02! ThinkingPokerAndrew folds
+! 01/13/20 12:29:44! docober raises $1600 to $2800 total 
+! 01/13/20 13:35:53! Poohbear raises $2000 to $4800 total 
+! 01/13/20 13:38:42! newtonheath folds
+! 01/13/20 13:38:42! Loboc folds
+! 01/13/20 13:38:42! JZo folds
+! 01/13/20 14:12:51! Stephen Opal folds
+! 01/13/20 14:12:51! Pvt_Pyle folds
+! 01/13/20 20:35:31! docober calls 
+
+! 01/13/20 20:35:31! Pot right ($13200), flopping/dealing/drawing cards
+! 01/13/20 20:35:31! 2 players
+! 01/13/20 20:35:31! Flopped cards: 5c 3c Qs
+! 01/13/20 20:36:39! docober checks
+! 01/13/20 20:56:22! Poohbear checks
+
+! 01/13/20 20:56:22! Pot right ($13200), flopping/dealing/drawing cards
+! 01/13/20 20:56:22! 2 players
+! 01/13/20 20:56:22! Flopped card: Kc
+! 01/13/20 21:25:19! docober bets $7800 
+! 01/13/20 21:28:28! Poohbear raises $57625 to $65425 total and is all in
+! 01/13/20 21:29:24! docober calls - side pot
+
+! 01/13/20 21:29:24! Pot right ($108825), flopping/dealing/drawing cards
+! 01/13/20 21:29:24! 2 players, 2 all in
+! 01/13/20 21:29:24! Flopped card: 10s
+! Hand over, current board is:  5c 3c Qs Kc 10s
+! docober                  has: Kh Qh
+! Poohbear                 has: Ah Ac
+! Pot 1: uncalled $35225 returned to Poohbear
+! Pot 2: docober wins $73600 with Two Pair (K K Q Q 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   BeastSlayer              |  102950 |         |      |    |         |
+ 2|   ThinkingPokerAndrew      |    7800 |         |      |    |         |
+ 3|>  docober                  |   73600 |         |      |    |         |
+ 4|   Poohbear                 |   35225 |         |      |    |         |
+ 5|   newtonheath              |  104275 |         |      |    |         |
+ 6|   Loboc                    |  101050 |         |      |    |         |
+ 7|   JZo                      |   29200 |         |      |    |         |
+ 8|D  Stephen Opal             |   20700 |         |      |    |         |
+ 9|   Pvt_Pyle                 |  122575 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 310 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c9.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 11
+Live redraw in progress:
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

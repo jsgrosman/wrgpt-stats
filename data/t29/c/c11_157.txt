@@ -1,0 +1,115 @@
+Subject: [c11.10175] Holdem Game Broadcast Message(*)
+
+! Table c11, Hand 157, Day 72
+
+! Slimbob checks
+! not66 checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Zerksauce                |   81550 |     200 |folded|    |         |
+ 2|   Clark Olson              |   50525 |     200 |folded|    |         |
+ 3|   Dalai Pookah             |   43525 |     200 |folded|    |         |
+ 4|D  denimmined               |   87350 |     200 |folded|    |         |
+ 5|>  Slimbob                  |   76450 |    1400 |      |    |         |
+ 6|   not66                    |   71525 |    1400 |      |    |         |
+ 7|   Tony Gurney              |  158450 |     200 |folded|    |         |
+ 8|   Nightshift6              |   69550 |     200 |folded|    |         |
+ 9|   All In a daze work       |  124625 |     200 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/13/20 14:48:24! Dealing a new hand
+! 01/13/20 14:48:24! Everyone antes $200
+! 01/13/20 14:48:24! Slimbob blinds $600
+! 01/13/20 14:48:24! not66 blinds $1200
+! 01/13/20 14:52:09! Tony Gurney folds
+! 01/13/20 16:54:36! Nightshift6 folds
+! 01/13/20 18:57:28! All In a daze work folds
+! 01/13/20 18:57:28! Zerksauce folds
+! 01/13/20 18:57:28! Clark Olson folds
+! 01/13/20 20:21:00! Dalai Pookah folds
+! 01/13/20 20:21:00! denimmined folds
+! 01/13/20 21:28:34! Slimbob calls 
+! 01/13/20 21:28:34! not66 checks
+
+! 01/13/20 21:28:34! Pot right ($4200), flopping/dealing/drawing cards
+! 01/13/20 21:28:34! 2 players
+! 01/13/20 21:28:34! Flopped cards: Qs 4s 10d
+! 01/13/20 21:31:43! Slimbob checks
+! 01/14/20 04:06:33! not66 checks
+
+! 01/14/20 04:06:33! Pot right ($4200), flopping/dealing/drawing cards
+! 01/14/20 04:06:33! 2 players
+! 01/14/20 04:06:33! Flopped card: 8d
+! 01/14/20 05:39:12! Slimbob checks
+! 01/14/20 05:39:12! not66 checks
+
+! 01/14/20 05:39:12! Pot right ($4200), flopping/dealing/drawing cards
+! 01/14/20 05:39:12! 2 players
+! 01/14/20 05:39:12! Flopped card: 8s
+! 01/14/20 05:41:24! Slimbob checks
+! 01/14/20 05:41:24! not66 checks
+! Hand over, current board is:  Qs 4s 10d 8d 8s
+! Slimbob                  has: 7h 7c
+! not66                    has: 8c 2c
+! not66 wins $4200 (net $2800) with Three of a Kind (8 8 8 Q 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Zerksauce                |   81550 |         |      |    |         |
+ 2|   Clark Olson              |   50525 |         |      |    |         |
+ 3|   Dalai Pookah             |   43525 |         |      |    |         |
+ 4|   denimmined               |   87350 |         |      |    |         |
+ 5|D> Slimbob                  |   76450 |         |      |    |         |
+ 6|   not66                    |   75725 |         |      |    |         |
+ 7|   Tony Gurney              |  158450 |         |      |    |         |
+ 8|   Nightshift6              |   69550 |         |      |    |         |
+ 9|   All In a daze work       |  124625 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 310 players left in the tournament, 1 table down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c11.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 11
+Live redraw in progress:
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

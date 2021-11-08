@@ -1,0 +1,122 @@
+Subject: [c20.10303] Holdem Game Broadcast Message(*)
+
+! Table c20, Hand 170, Day 84
+
+! Mr Generic checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   panfried                 |  164550 |     800 |folded|    |         |
+ 2|>  JohnnyMac                |   85725 |   12600 |      |    |         |
+ 3|   Cowabunga                |   47875 |     200 |folded|    |         |
+ 4|   BluffaloBill             |   62400 |     200 |folded|    |         |
+ 5|   Sandy                    |   45400 |    2600 |folded|    |         |
+ 6|   Britney                  |  163825 |    2600 |folded|    |         |
+ 7|   Baldgriff                |   81175 |    2600 |folded|    |         |
+ 8|   PMD                      |   38150 |     200 |folded|    |         |
+ 9|D  Mr Generic               |   99450 |   12600 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/24/20 13:54:28! Dealing a new hand
+! 01/24/20 13:54:28! Everyone antes $200
+! 01/24/20 13:54:28! panfried blinds $600
+! 01/24/20 13:54:28! JohnnyMac blinds $1200
+! 01/24/20 14:58:50! Cowabunga folds
+! 01/24/20 14:58:50! BluffaloBill folds
+! 01/24/20 18:11:03! Sandy calls 
+! 01/24/20 19:12:45! Britney raises $1200 to $2400 total 
+! 01/25/20 01:20:13! Baldgriff calls 
+! 01/26/20 00:33:56! PMD folds
+! 01/26/20 02:41:36! Mr Generic calls 
+! 01/26/20 02:41:36! panfried folds
+! 01/26/20 02:41:36! JohnnyMac calls 
+! 01/26/20 02:41:36! Sandy calls 
+
+! 01/26/20 02:41:36! Pot right ($14400), flopping/dealing/drawing cards
+! 01/26/20 02:41:36! 5 players
+! 01/26/20 02:41:36! Flopped cards: 10s 4d 6c
+! 01/26/20 04:41:40! JohnnyMac checks
+! 01/26/20 08:32:07! Sandy checks
+! 01/26/20 08:40:47! Britney checks
+! 01/26/20 09:19:12! Baldgriff checks
+! 01/26/20 13:34:37! Mr Generic bets $10000 
+! 01/26/20 14:07:14! JohnnyMac calls 
+! 01/26/20 15:09:38! Sandy folds
+! 01/26/20 15:09:38! Britney folds
+! 01/26/20 15:09:38! Baldgriff folds
+
+! 01/26/20 15:09:38! Pot right ($34400), flopping/dealing/drawing cards
+! 01/26/20 15:09:38! 2 players
+! 01/26/20 15:09:38! Flopped card: 3d
+! 01/26/20 18:38:01! JohnnyMac checks
+! 01/26/20 18:39:17! Mr Generic checks
+
+! 01/26/20 18:39:17! Pot right ($34400), flopping/dealing/drawing cards
+! 01/26/20 18:39:17! 2 players
+! 01/26/20 18:39:17! Flopped card: 2h
+! 01/26/20 18:39:58! JohnnyMac checks
+! 01/26/20 18:43:32! Mr Generic checks
+! Hand over, current board is:  10s 4d 6c 3d 2h
+! JohnnyMac                has: Qs 6d
+! Mr Generic               has: Jh 10c
+! Mr Generic wins $34400 (net $21800) with One Pair (10 10 J 6 4)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  panfried                 |  164550 |         |      |    |         |
+ 2|>  JohnnyMac                |   85725 |         |      |    |         |
+ 3|   Cowabunga                |   47875 |         |      |    |         |
+ 4|   BluffaloBill             |   62400 |         |      |    |         |
+ 5|   Sandy                    |   45400 |         |      |    |         |
+ 6|   Britney                  |  163825 |         |      |    |         |
+ 7|   Baldgriff                |   81175 |         |      |    |         |
+ 8|   PMD                      |   38150 |         |      |    |         |
+ 9|   Mr Generic               |  133850 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 245 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c20.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 7
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

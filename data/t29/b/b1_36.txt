@@ -1,0 +1,115 @@
+Subject: [b1.10432] Holdem Game Broadcast Message(*)
+
+! Table b1, Hand 36, Day 46
+
+! Andrew Prock checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   DroogieDroog             |  117700 |      50 |folded|    |         |
+ 2|D  Andrew Prock             |   24200 |    2050 |      |    |         |
+ 3|   DaveKal                  |  183900 |     250 |folded|    |         |
+ 4|>  CharlieM                 |   66650 |    2050 |      |    |         |
+ 5|V  glorphy                  |   35625 |      50 |<AWOL>|    |         |
+ 6|   TommyO                   |   55175 |      50 |folded|    |         |
+ 7|   Vodka on the rocks       |   59775 |      50 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/19/19 10:28:33! Dealing a new hand
+! 12/19/19 10:28:33! Everyone antes $50
+! 12/19/19 10:28:33! DaveKal blinds $200
+! 12/19/19 10:28:33! CharlieM blinds $400
+! 12/19/19 10:28:33! glorphy is on vacation and folds
+! 12/19/19 11:40:28! TommyO folds
+! 12/19/19 12:38:22! Vodka on the rocks folds
+! 12/19/19 12:38:22! DroogieDroog folds
+! 12/19/19 15:39:03! Andrew Prock raises $600 to $1000 total 
+! 12/19/19 15:44:17! DaveKal folds
+! 12/19/19 15:57:25! CharlieM calls 
+
+! 12/19/19 15:57:25! Pot right ($2550), flopping/dealing/drawing cards
+! 12/19/19 15:57:25! 2 players
+! 12/19/19 15:57:25! Flopped cards: 6h 5s 9h
+! 12/19/19 15:58:27! CharlieM bets $1000 
+! 12/19/19 15:59:00! Andrew Prock calls 
+
+! 12/19/19 15:59:00! Pot right ($4550), flopping/dealing/drawing cards
+! 12/19/19 15:59:00! 2 players
+! 12/19/19 15:59:00! Flopped card: 9d
+! 12/19/19 15:59:37! CharlieM checks
+! 12/19/19 16:00:29! Andrew Prock checks
+
+! 12/19/19 16:00:29! Pot right ($4550), flopping/dealing/drawing cards
+! 12/19/19 16:00:29! 2 players
+! 12/19/19 16:00:29! Flopped card: 4d
+! 12/19/19 16:01:23! CharlieM checks
+! 12/19/19 16:01:47! Andrew Prock checks
+! Hand over, current board is:  6h 5s 9h 9d 4d
+! Andrew Prock             has: As 5h
+! CharlieM                 has: Js Ac
+! Andrew Prock wins $4550 (net $2500) with Two Pair (9 9 5 5 A)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   DroogieDroog             |  117700 |         |      |    |         |
+ 2|   Andrew Prock             |   28750 |         |      |    |         |
+ 3|D  DaveKal                  |  183900 |         |      |    |         |
+ 4|>  CharlieM                 |   66650 |         |      |    |         |
+ 5|V  glorphy                  |   35625 |         |<AWOL>|    |         |
+ 6|   TommyO                   |   55175 |         |      |    |         |
+ 7|   Vodka on the rocks       |   59775 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 388 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b1.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+After day 45 of the tourney there will be no
+more live redraws or breaking tables.  Tables
+will be allowed to run until a table gets to 
+five or fewer players at which time all tables
+will finish the current hand and a full, random
+redraw to all new tables will be done.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 17
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

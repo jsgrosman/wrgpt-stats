@@ -1,0 +1,116 @@
+Subject: [c32.10193] Holdem Game Broadcast Message(*)
+
+! Table c32, Hand 160, Day 73
+
+! Bobby the Worm folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  Bobby the Worm           |   74825 |    7400 |folded|    |         |
+ 2|>  Josh Moore               |   76650 |   22400 |      |    |         |
+ 3|   Skippy                   |   27925 |   22400 |      |    |         |
+ 4|   Bangalore                |   90700 |     200 |folded|    |         |
+ 5|   Todd Brabbin             |   31600 |     200 |folded|    |         |
+ 6|   Stray Taoist             |   37125 |    4400 |folded|    |         |
+ 7|   Bigjimmf1                |   56275 |     200 |folded|    |         |
+ 8|   Klod                     |  157025 |     200 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/14/20 04:50:49! Dealing a new hand
+! 01/14/20 04:50:49! Everyone antes $200
+! 01/14/20 04:50:49! Josh Moore blinds $600
+! 01/14/20 04:50:49! Skippy blinds $1200
+! 01/14/20 07:09:39! Bangalore folds
+! 01/14/20 07:09:39! Todd Brabbin folds
+! 01/14/20 07:35:29! Stray Taoist calls 
+! 01/14/20 07:35:29! Bigjimmf1 folds
+! 01/14/20 07:40:15! Klod folds
+! 01/14/20 10:06:45! Bobby the Worm calls 
+! 01/14/20 12:08:21! Josh Moore calls 
+! 01/14/20 12:11:00! Skippy checks
+
+! 01/14/20 12:11:00! Pot right ($6400), flopping/dealing/drawing cards
+! 01/14/20 12:11:00! 4 players
+! 01/14/20 12:11:00! Flopped cards: 6h Jh 7s
+! 01/14/20 12:13:04! Josh Moore bets $3000 
+! 01/14/20 12:37:37! Skippy calls 
+! 01/14/20 14:39:25! Stray Taoist calls 
+! 01/14/20 14:52:21! Bobby the Worm calls 
+
+! 01/14/20 14:52:21! Pot right ($18400), flopping/dealing/drawing cards
+! 01/14/20 14:52:21! 4 players
+! 01/14/20 14:52:21! Flopped card: Ac
+! 01/14/20 15:31:58! Josh Moore bets $3000 
+! 01/14/20 15:34:44! Skippy calls 
+! 01/14/20 19:53:24! Stray Taoist folds
+! 01/14/20 19:53:24! Bobby the Worm calls 
+
+! 01/14/20 19:53:24! Pot right ($27400), flopping/dealing/drawing cards
+! 01/14/20 19:53:24! 3 players
+! 01/14/20 19:53:24! Flopped card: 10c
+! 01/14/20 20:18:37! Josh Moore bets $15000 
+! 01/15/20 04:25:05! Skippy calls 
+! 01/15/20 05:07:49! Bobby the Worm folds
+! Hand over, current board is:  6h Jh 7s Ac 10c
+! Josh Moore               has: Kh Qd
+! Skippy                   has: 10h Jd
+! Josh Moore wins $57400 (net $35000) with Straight (A K Q J 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Bobby the Worm           |   74825 |         |      |    |         |
+ 2|D> Josh Moore               |  134050 |         |      |    |         |
+ 3|   Skippy                   |   27925 |         |      |    |         |
+ 4|   Bangalore                |   90700 |         |      |    |         |
+ 5|   Todd Brabbin             |   31600 |         |      |    |         |
+ 6|   Stray Taoist             |   37125 |         |      |    |         |
+ 7|   Bigjimmf1                |   56275 |         |      |    |         |
+ 8|   Klod                     |  157025 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 302 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c32.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,125 @@
+Subject: [c12.11063] Holdem Game Broadcast Message(*)
+
+! Table c12, Hand 234, Day 93
+
+! Quiet Lion calls - side pot
+! Pot right ($88150), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: Qc
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  Stephen Wong             |  114125 |     300 |folded|    |         |
+ 2|   Srfndoc                  |  175100 |    1300 |folded|    |         |
+ 3|   docdanger                |  109025 |    2300 |folded|    |         |
+ 4|   Quiet Lion               |       0 |   39750 |all-in|  2 |   84600 |
+ 5|   grizz                    |  378625 |     300 |folded|    |         |
+ 6|>  Chris Leslie             |   40150 |   43300 |      |  1 |    3550 |
+ 7|   Brian Cooper             |   36650 |     300 |folded|    |         |
+ 8|   Poulsboy                 |   48300 |     300 |folded|    |         |
+ 9|   jasong                   |   48025 |     300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/04/20 15:12:50! Dealing a new hand
+! 02/04/20 15:12:50! Everyone antes $300
+! 02/04/20 15:12:50! Srfndoc blinds $1000
+! 02/04/20 15:12:50! docdanger blinds $2000
+! 02/04/20 15:13:44! Quiet Lion raises $3000 to $5000 total 
+! 02/04/20 15:21:56! grizz folds
+! 02/04/20 15:24:07! Chris Leslie raises $8000 to $13000 total 
+! 02/04/20 17:47:10! Brian Cooper folds
+! 02/04/20 17:47:10! Poulsboy folds
+! 02/04/20 17:47:10! jasong folds
+! 02/04/20 17:47:10! Stephen Wong folds
+! 02/04/20 18:03:18! Srfndoc folds
+! 02/04/20 18:03:18! docdanger folds
+! 02/04/20 18:11:35! Quiet Lion calls 
+
+! 02/04/20 18:11:35! Pot right ($31700), flopping/dealing/drawing cards
+! 02/04/20 18:11:35! 2 players
+! 02/04/20 18:11:35! Flopped cards: 5c 6s Qd
+! 02/04/20 18:12:22! Quiet Lion checks
+! 02/04/20 18:19:44! Chris Leslie checks
+
+! 02/04/20 18:19:44! Pot right ($31700), flopping/dealing/drawing cards
+! 02/04/20 18:19:44! 2 players
+! 02/04/20 18:19:44! Flopped card: Jh
+! 02/04/20 18:21:16! Quiet Lion checks
+! 02/04/20 18:28:15! Chris Leslie bets $30000 
+! 02/04/20 18:33:26! Quiet Lion calls - side pot
+
+! 02/04/20 18:33:26! Pot right ($88150), flopping/dealing/drawing cards
+! 02/04/20 18:33:26! 2 players, 1 all in
+! 02/04/20 18:33:26! Flopped card: Qc
+! Hand over, current board is:  5c 6s Qd Jh Qc
+! Quiet Lion               has: 10s 10d
+! Chris Leslie             has: Qs Qh
+! Pot 1: uncalled $3550 returned to Chris Leslie
+! Pot 2: Chris Leslie wins $84600 with Four of a Kind (Q Q Q Q J)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Stephen Wong             |  114125 |         |      |    |         |
+ 2|D  Srfndoc                  |  175100 |         |      |    |         |
+ 3|   docdanger                |  109025 |         |      |    |         |
+ 5|   grizz                    |  378625 |         |      |    |         |
+ 6|>  Chris Leslie             |  128300 |         |      |    |         |
+ 7|   Brian Cooper             |   36650 |         |      |    |         |
+ 8|   Poulsboy                 |   48300 |         |      |    |         |
+ 9|   jasong                   |   48025 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Quiet Lion is eliminated!
+! 205 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c12.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+We are now over 30 days in round "c".  Automatic
+table breaking and live redraws have been disabled.
+We will play until one or more tables gets below six
+players.  When that happens all tables will finish
+the current hand and a full redraw will occur into
+the "d" round.
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 10
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

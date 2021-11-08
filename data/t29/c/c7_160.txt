@@ -1,0 +1,119 @@
+Subject: [c7.10214] Holdem Game Broadcast Message(*)
+
+! Table c7, Hand 160, Day 73
+
+! CountFlop checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|V  BertBell                 |   38850 |     200 |<AWOL>|    |         |
+ 2|   janie                    |   59600 |     200 |folded|    |         |
+ 3|>  Piney Boy                |   48775 |   10400 |      |    |         |
+ 4|   BigElmo                  |   31400 |     200 |folded|    |         |
+ 5|   Claudia M                |   44975 |     200 |folded|    |         |
+ 6|   Per Starback             |   42225 |     200 |folded|    |         |
+ 7|D  CountFlop                |   53925 |   10400 |      |    |         |
+ 8|   MTpotts                  |   50450 |     800 |folded|    |         |
+ 9|   Taki                     |   26775 |    1400 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/14/20 19:32:12! Dealing a new hand
+! 01/14/20 19:32:12! Everyone antes $200
+! 01/14/20 19:32:12! MTpotts blinds $600
+! 01/14/20 19:32:12! Taki blinds $1200
+! 01/14/20 19:32:12! BertBell is on vacation and folds
+! 01/14/20 20:24:25! janie folds
+! 01/15/20 02:22:00! Piney Boy calls 
+! 01/15/20 02:22:00! BigElmo folds
+! 01/15/20 02:22:00! Claudia M folds
+! 01/15/20 02:22:00! Per Starback folds
+! 01/15/20 06:35:28! CountFlop calls 
+! 01/15/20 06:35:28! MTpotts folds
+! 01/15/20 11:02:02! Taki checks
+
+! 01/15/20 11:02:02! Pot right ($6000), flopping/dealing/drawing cards
+! 01/15/20 11:02:02! 3 players
+! 01/15/20 11:02:02! Flopped cards: Ks 3c 6h
+! 01/15/20 11:02:02! Taki checks
+! 01/15/20 11:15:01! Piney Boy checks
+! 01/15/20 11:15:44! CountFlop bets $3000 
+! 01/15/20 11:15:44! Taki folds
+! 01/15/20 11:23:00! Piney Boy calls 
+
+! 01/15/20 11:23:00! Pot right ($12000), flopping/dealing/drawing cards
+! 01/15/20 11:23:00! 2 players
+! 01/15/20 11:23:00! Flopped card: Jh
+! 01/15/20 11:24:23! Piney Boy checks
+! 01/15/20 11:25:08! CountFlop bets $6000 
+! 01/15/20 11:26:31! Piney Boy calls 
+
+! 01/15/20 11:26:31! Pot right ($24000), flopping/dealing/drawing cards
+! 01/15/20 11:26:31! 2 players
+! 01/15/20 11:26:31! Flopped card: 9d
+! 01/15/20 11:27:14! Piney Boy checks
+! 01/15/20 11:30:29! CountFlop checks
+! Hand over, current board is:  Ks 3c 6h Jh 9d
+! Piney Boy                has: 3h 2h
+! CountFlop                has: 10d Kc
+! CountFlop wins $24000 (net $13600) with One Pair (K K J 10 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|V  BertBell                 |   38850 |         |<AWOL>|    |         |
+ 2|   janie                    |   59600 |         |      |    |         |
+ 3|>  Piney Boy                |   48775 |         |      |    |         |
+ 4|   BigElmo                  |   31400 |         |      |    |         |
+ 5|   Claudia M                |   44975 |         |      |    |         |
+ 6|   Per Starback             |   42225 |         |      |    |         |
+ 7|   CountFlop                |   77925 |         |      |    |         |
+ 8|D  MTpotts                  |   50450 |         |      |    |         |
+ 9|   Taki                     |   26775 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Taki timed out during this hand
+! 301 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c7.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 10
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

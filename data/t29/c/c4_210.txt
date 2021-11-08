@@ -1,0 +1,117 @@
+Subject: [c4.10729] Holdem Game Broadcast Message(*)
+
+! Table c4, Hand 210, Day 94
+
+! Motown folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Jeff Okamoto             |   60525 |     300 |folded|    |         |
+ 2|   GoBig                    |   89950 |     300 |folded|    |         |
+ 3|   Ken Kubey                |   92500 |    2300 |folded|    |         |
+ 4|   FruitFoot                |   95850 |     300 |folded|    |         |
+ 5|D  Righteous Indignation    |  206200 |     300 |folded|    |         |
+ 6|>  Motown                   |   69000 |   42300 |folded|    |         |
+ 7|   Klod                     |       0 |  167275 |all-in|    |         |
+ 8|   Barrett                  |  103700 |     300 |folded|    |         |
+ 9|   Sir Barlow               |  277675 |    2300 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 02/05/20 14:23:36! Dealing a new hand
+! 02/05/20 14:23:36! Everyone antes $300
+! 02/05/20 14:23:36! Motown blinds $1000
+! 02/05/20 14:23:36! Klod blinds $2000
+! 02/05/20 14:24:07! Barrett folds
+! 02/05/20 14:30:40! Sir Barlow calls 
+! 02/05/20 15:14:35! Jeff Okamoto folds
+! 02/05/20 15:14:35! GoBig folds
+! 02/05/20 16:03:53! Ken Kubey calls 
+! 02/05/20 16:03:53! FruitFoot folds
+! 02/05/20 16:03:53! Righteous Indignation folds
+! 02/05/20 16:30:21! Motown raises $7000 to $9000 total 
+! 02/05/20 16:31:39! Klod calls 
+! 02/05/20 16:47:52! Sir Barlow folds
+! 02/05/20 16:47:52! Ken Kubey folds
+
+! 02/05/20 16:47:52! Pot right ($24700), flopping/dealing/drawing cards
+! 02/05/20 16:47:52! 2 players
+! 02/05/20 16:47:52! Flopped cards: 6h 2h 5s
+! 02/05/20 17:12:58! Motown bets $11000 
+! 02/05/20 17:14:12! Klod calls 
+
+! 02/05/20 17:14:12! Pot right ($46700), flopping/dealing/drawing cards
+! 02/05/20 17:14:12! 2 players
+! 02/05/20 17:14:12! Flopped card: 6d
+! 02/05/20 17:15:33! Motown bets $22000 
+! 02/05/20 17:16:50! Klod raises $124975 to $146975 total and is all in
+! 02/05/20 17:19:04! Motown folds
+! Hand over, no showdown
+! Current board is:  6h 2h 5s 6d ?
+! Klod wins $215675 (net $48400)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Jeff Okamoto             |   60525 |         |      |    |         |
+ 2|   GoBig                    |   89950 |         |      |    |         |
+ 3|   Ken Kubey                |   92500 |         |      |    |         |
+ 4|   FruitFoot                |   95850 |         |      |    |         |
+ 5|   Righteous Indignation    |  206200 |         |      |    |         |
+ 6|D> Motown                   |   69000 |         |      |    |         |
+ 7|   Klod                     |  215675 |         |      |    |         |
+ 8|   Barrett                  |  103700 |         |      |    |         |
+ 9|   Sir Barlow               |  277675 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 199 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c4.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+We are now over 30 days in round "c".  Automatic
+table breaking and live redraws have been disabled.
+We will play until one or more tables gets below six
+players.  When that happens all tables will finish
+the current hand and a full redraw will occur into
+the "d" round.
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 17
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

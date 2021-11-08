@@ -1,0 +1,120 @@
+Subject: [b5.10450] Holdem Game Broadcast Message(*)
+
+! Table b5, Hand 40, Day 30
+
+! Omaholic calls - side pot
+! Pot right ($135000), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped card: 3s
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Boaty McBoatface         |   66000 |      25 |folded|    |         |
+ 2|   Mr. Rhinelander          |   57500 |      25 |folded|    |         |
+ 3|V  David Paulett            |   48125 |      25 |<AWOL>|    |         |
+ 4|D> Omaholic                 |       0 |   32250 |all-in|  2 |   64825 |
+ 5|   Bubbabear                |   60800 |     175 |folded|    |         |
+ 6|   MarinaMan                |       0 |  102425 |all-in|  1 |   70175 |
+ 7|   Cody Jones               |   48750 |      25 |folded|    |         |
+ 8|   ITCs Trips on Trips      |   37725 |      25 |folded|    |         |
+ 9|   kvk                      |   45000 |      25 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/02/19 17:23:51! Dealing a new hand
+! 12/02/19 17:23:51! Everyone antes $25
+! 12/02/19 17:23:51! Bubbabear blinds $150
+! 12/02/19 17:23:51! MarinaMan blinds $300
+! 12/03/19 05:15:17! Cody Jones folds
+! 12/03/19 05:15:17! ITCs Trips on Trips folds
+! 12/03/19 05:15:17! kvk folds
+! 12/03/19 05:15:17! Boaty McBoatface folds
+! 12/03/19 05:15:17! Mr. Rhinelander folds
+! 12/03/19 05:15:17! David Paulett is on vacation and folds
+! 12/03/19 05:27:43! Omaholic raises $500 to $800 total 
+! 12/03/19 05:33:48! Bubbabear folds
+! 12/03/19 07:09:05! MarinaMan raises $1975 to $2775 total 
+! 12/03/19 09:20:48! Omaholic calls 
+
+! 12/03/19 09:20:48! Pot right ($5925), flopping/dealing/drawing cards
+! 12/03/19 09:20:48! 2 players
+! 12/03/19 09:20:48! Flopped cards: 9d 9s Ad
+! 12/03/19 09:26:48! MarinaMan bets $5925 
+! 12/03/19 09:30:59! Omaholic calls 
+
+! 12/03/19 09:30:59! Pot right ($17775), flopping/dealing/drawing cards
+! 12/03/19 09:30:59! 2 players
+! 12/03/19 09:30:59! Flopped card: 4h
+! 12/03/19 09:35:54! MarinaMan bets $93700 and is all in
+! 12/03/19 10:12:46! Omaholic calls - side pot
+
+! 12/03/19 10:12:46! Pot right ($135000), flopping/dealing/drawing cards
+! 12/03/19 10:12:46! 2 players, 2 all in
+! 12/03/19 10:12:46! Flopped card: 3s
+! Hand over, current board is:  9d 9s Ad 4h 3s
+! Omaholic                 has: 6d Ac
+! MarinaMan                has: Ah 10c
+! Pot 1: uncalled $70175 returned to MarinaMan
+! Pot 2: MarinaMan wins $64825 with Two Pair (A A 9 9 10)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Boaty McBoatface         |   66000 |         |      |    |         |
+ 2|   Mr. Rhinelander          |   57500 |         |      |    |         |
+ 3|V  David Paulett            |   48125 |         |<AWOL>|    |         |
+ 5|D  Bubbabear                |   60800 |         |      |    |         |
+ 6|   MarinaMan                |  135000 |         |      |    |         |
+ 7|   Cody Jones               |   48750 |         |      |    |         |
+ 8|   ITCs Trips on Trips      |   37725 |         |      |    |         |
+ 9|   kvk                      |   45000 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Omaholic is eliminated!
+! 467 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b5.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that have not come to the table by the end
+of day 30 will be removed.
+
+Players that are away from the tables for 45 days 
+will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 9
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

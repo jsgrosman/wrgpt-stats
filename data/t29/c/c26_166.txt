@@ -1,0 +1,113 @@
+Subject: [c26.10275] Holdem Game Broadcast Message(*)
+
+! Table c26, Hand 166, Day 76
+
+! Svante Wester folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Jim Anderson             |  109150 |     200 |folded|    |         |
+ 2|   m13d                     |   14625 |     200 |folded|    |         |
+ 3|   Tiltdad                  |   95925 |     200 |folded|    |         |
+ 4|   Nyte                     |   26825 |     200 |folded|    |         |
+ 5|D  gilette                  |  161300 |    4100 |folded|    |         |
+ 6|>  Svante Wester            |  105450 |   10100 |folded|    |         |
+ 7|   Barrett                  |       0 |   12950 |all-in|    |         |
+ 8|   tekbot                   |   76600 |     200 |folded|    |         |
+ 9|   GoBig                    |  105375 |    4100 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/16/20 13:01:19! Dealing a new hand
+! 01/16/20 13:01:19! Everyone antes $200
+! 01/16/20 13:01:19! Svante Wester blinds $600
+! 01/16/20 13:01:19! Barrett blinds $1200
+! 01/16/20 13:19:45! tekbot folds
+! 01/16/20 15:13:07! GoBig calls 
+! 01/16/20 15:31:39! Jim Anderson folds
+! 01/16/20 15:31:39! m13d folds
+! 01/16/20 15:31:39! Tiltdad folds
+! 01/16/20 15:31:39! Nyte folds
+! 01/16/20 16:04:21! gilette raises $2700 to $3900 total 
+! 01/16/20 20:21:26! Svante Wester calls 
+! 01/16/20 23:06:56! Barrett calls 
+! 01/17/20 07:03:38! GoBig calls 
+
+! 01/17/20 07:03:38! Pot right ($17400), flopping/dealing/drawing cards
+! 01/17/20 07:03:38! 4 players
+! 01/17/20 07:03:38! Flopped cards: Jc 5s 3h
+! 01/17/20 07:17:14! Svante Wester checks
+! 01/17/20 08:48:18! Barrett checks
+! 01/17/20 10:19:32! GoBig checks
+! 01/17/20 12:02:05! gilette checks
+
+! 01/17/20 12:02:05! Pot right ($17400), flopping/dealing/drawing cards
+! 01/17/20 12:02:05! 4 players
+! 01/17/20 12:02:05! Flopped card: 7h
+! 01/17/20 13:48:39! Svante Wester bets $6000 
+! 01/17/20 14:49:54! Barrett raises $2850 to $8850 total and is all in
+! 01/17/20 15:55:04! GoBig folds
+! 01/17/20 16:33:15! gilette folds
+! 01/18/20 00:11:09! Svante Wester folds
+! Hand over, no showdown
+! Current board is:  Jc 5s 3h 7h ?
+! Barrett wins $32250 (net $19300)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   Jim Anderson             |  109150 |         |      |    |         |
+ 2|   m13d                     |   14625 |         |      |    |         |
+ 3|   Tiltdad                  |   95925 |         |      |    |         |
+ 4|   Nyte                     |   26825 |         |      |    |         |
+ 5|   gilette                  |  161300 |         |      |    |         |
+ 6|D> Svante Wester            |  105450 |         |      |    |         |
+ 7|   Barrett                  |   32250 |         |      |    |         |
+ 8|   tekbot                   |   76600 |         |      |    |         |
+ 9|   GoBig                    |  105375 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 287 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c26.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 8
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

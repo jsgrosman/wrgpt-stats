@@ -1,0 +1,127 @@
+Subject: [b24.10625] Holdem Game Broadcast Message(*)
+
+! Table b24, Hand 50, Day 46
+
+! Andyd calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   BrownTrout               |   49000 |      50 |folded|    |         |
+ 2|   EricL                    |   88375 |    1150 |folded|    |         |
+ 3|   Quiet Lion               |   48425 |    1150 |folded|    |         |
+ 4|>  Andyd                    |   33325 |   27575 |      |    |         |
+ 5|D  Jillian McKillican       |   43425 |      50 |folded|    |         |
+ 6|   Micwso                   |   35700 |     250 |folded|    |         |
+ 7|   FingerCramp              |       0 |   27575 |all-in|    |         |
+ 8|   mjoseff                  |   36675 |      50 |folded|    |         |
+ 9|   Sunnygirl318             |   57175 |      50 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/19/19 08:40:38! Dealing a new hand
+! 12/19/19 08:40:38! Everyone antes $50
+! 12/19/19 08:40:38! Micwso blinds $200
+! 12/19/19 08:40:38! FingerCramp blinds $400
+! 12/19/19 14:35:43! mjoseff folds
+! 12/19/19 14:35:43! Sunnygirl318 folds
+! 12/19/19 14:35:43! BrownTrout folds
+! 12/19/19 14:36:51! EricL raises $700 to $1100 total 
+! 12/19/19 14:40:58! Quiet Lion calls 
+! 12/19/19 15:37:31! Andyd calls 
+! 12/19/19 15:54:33! Jillian McKillican folds
+! 12/19/19 15:54:33! Micwso folds
+! 12/19/19 16:12:04! FingerCramp calls 
+
+! 12/19/19 16:12:04! Pot right ($5050), flopping/dealing/drawing cards
+! 12/19/19 16:12:04! 4 players
+! 12/19/19 16:12:04! Flopped cards: As 6h Qs
+! 12/19/19 16:13:01! FingerCramp checks
+! 12/19/19 16:31:03! EricL checks
+! 12/19/19 16:31:49! Quiet Lion checks
+! 12/19/19 16:32:35! Andyd bets $2750 
+! 12/19/19 16:38:17! FingerCramp calls 
+! 12/19/19 16:42:00! EricL folds
+! 12/19/19 16:44:40! Quiet Lion folds
+
+! 12/19/19 16:44:40! Pot right ($10550), flopping/dealing/drawing cards
+! 12/19/19 16:44:40! 2 players
+! 12/19/19 16:44:40! Flopped card: 6s
+! 12/19/19 16:46:41! FingerCramp checks
+! 12/19/19 16:47:00! Andyd checks
+
+! 12/19/19 16:47:00! Pot right ($10550), flopping/dealing/drawing cards
+! 12/19/19 16:47:00! 2 players
+! 12/19/19 16:47:00! Flopped card: Jh
+! 12/19/19 16:52:29! FingerCramp bets $23675 and is all in
+! 12/19/19 16:52:51! Andyd calls 
+! Hand over, current board is:  As 6h Qs 6s Jh
+! Andyd                    has: Ah 9d
+! FingerCramp              has: 10h Ad
+! Andyd wins $28950 (net $1375) with Two Pair (A A 6 6 Q)
+! FingerCramp wins $28950 (net $1375) with Two Pair (A A 6 6 Q)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   BrownTrout               |   49000 |         |      |    |         |
+ 2|   EricL                    |   88375 |         |      |    |         |
+ 3|   Quiet Lion               |   48425 |         |      |    |         |
+ 4|>  Andyd                    |   62275 |         |      |    |         |
+ 5|   Jillian McKillican       |   43425 |         |      |    |         |
+ 6|D  Micwso                   |   35700 |         |      |    |         |
+ 7|   FingerCramp              |   28950 |         |      |    |         |
+ 8|   mjoseff                  |   36675 |         |      |    |         |
+ 9|   Sunnygirl318             |   57175 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 388 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b24.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+After day 45 of the tourney there will be no
+more live redraws or breaking tables.  Tables
+will be allowed to run until a table gets to 
+five or fewer players at which time all tables
+will finish the current hand and a full, random
+redraw to all new tables will be done.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 17
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

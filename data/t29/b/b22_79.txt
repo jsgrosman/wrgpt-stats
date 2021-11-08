@@ -1,0 +1,125 @@
+Subject: [b22.10963] Holdem Game Broadcast Message(*)
+
+! Table b22, Hand 79, Day 60
+
+! UConn calls - side pot
+! Pot right ($157650), flopping/dealing/drawing cards
+! 2 players, 2 all in
+! Flopped card: As
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|>  UConn                    |       0 |   47250 |all-in|  2 |   97450 |
+ 2|   Russ Fox                 |   54250 |     100 |folded|    |         |
+ 3|   stannius                 |   67300 |     100 |folded|    |         |
+ 4|   Crush_me                 |  120150 |    1600 |folded|    |         |
+ 5|   Todd Brabbin             |   37600 |     100 |folded|    |         |
+ 6|   gilette                  |       0 |  107450 |all-in|  1 |   60200 |
+ 7|D  Claudia M                |   49775 |     100 |folded|    |         |
+ 8|   underdog                 |   47050 |     350 |folded|    |         |
+ 9|   Charlie Tuna             |  103200 |     600 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/01/20 18:45:47! Dealing a new hand
+! 01/01/20 18:45:47! Everyone antes $100
+! 01/01/20 18:45:47! underdog blinds $250
+! 01/01/20 18:45:47! Charlie Tuna blinds $500
+! 01/01/20 18:46:59! UConn raises $1000 to $1500 total 
+! 01/01/20 19:17:41! Russ Fox folds
+! 01/01/20 19:25:58! stannius folds
+! 01/01/20 19:42:21! Crush_me calls 
+! 01/01/20 19:42:21! Todd Brabbin folds
+! 01/01/20 21:06:11! gilette calls 
+! 01/02/20 06:08:27! Claudia M folds
+! 01/02/20 06:08:27! underdog folds
+! 01/02/20 06:55:24! Charlie Tuna folds
+
+! 01/02/20 06:55:24! Pot right ($6150), flopping/dealing/drawing cards
+! 01/02/20 06:55:24! 3 players
+! 01/02/20 06:55:24! Flopped cards: 2d Jd 2c
+! 01/02/20 07:10:48! UConn bets $2700 
+! 01/02/20 07:43:15! Crush_me folds
+! 01/02/20 07:52:15! gilette calls 
+
+! 01/02/20 07:52:15! Pot right ($11550), flopping/dealing/drawing cards
+! 01/02/20 07:52:15! 2 players
+! 01/02/20 07:52:15! Flopped card: 8d
+! 01/02/20 07:54:28! UConn bets $10000 
+! 01/02/20 08:03:18! gilette raises $93150 to $103150 total and is all in
+! 01/02/20 08:05:33! UConn calls - side pot
+
+! 01/02/20 08:05:33! Pot right ($157650), flopping/dealing/drawing cards
+! 01/02/20 08:05:33! 2 players, 2 all in
+! 01/02/20 08:05:33! Flopped card: As
+! Hand over, current board is:  2d Jd 2c 8d As
+! UConn                    has: 10s Jc
+! gilette                  has: 5d 3d
+! Pot 1: uncalled $60200 returned to gilette
+! Pot 2: gilette wins $97450 with Diamond Flush (J 8 5 3 2)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 2|   Russ Fox                 |   54250 |         |      |    |         |
+ 3|   stannius                 |   67300 |         |      |    |         |
+ 4|   Crush_me                 |  120150 |         |      |    |         |
+ 5|   Todd Brabbin             |   37600 |         |      |    |         |
+ 6|   gilette                  |  157650 |         |      |    |         |
+ 7|   Claudia M                |   49775 |         |      |    |         |
+ 8|D  underdog                 |   47050 |         |      |    |         |
+ 9|   Charlie Tuna             |  103200 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! UConn is eliminated!
+! 345 players left in the tournament, 9 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b22.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+After day 45 of the tourney there will be no
+more live redraws or breaking tables.  Tables
+will be allowed to run until a table gets to 
+five or fewer players at which time all tables
+will finish the current hand and a full, random
+redraw to all new tables will be done.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 59
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

@@ -1,0 +1,122 @@
+Subject: [b9.10984] Holdem Game Broadcast Message(*)
+
+! Table b9, Hand 90, Day 45
+
+! tekbot calls 
+! Pot right ($35300), flopping/dealing/drawing cards
+! 2 players, 1 all in
+! Flopped card: Qd
+! Flopped card: 4h
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  altidude6202             |  100325 |      50 |folded|    |         |
+ 2|   Targhee                  |       0 |   16775 |all-in|    |         |
+ 3|   Wrongfellow              |   78325 |     450 |folded|    |         |
+ 4|   GKinz54                  |   25500 |      50 |folded|    |         |
+ 5|   ScoobySnack              |   47325 |      50 |folded|    |         |
+ 6|   denimmined               |   82450 |      50 |folded|    |         |
+ 7|   James Scharf             |   78000 |    1050 |folded|    |         |
+ 8|>  tekbot                   |   34100 |   16775 |      |    |         |
+ 9|   GunsNRoses               |   50600 |      50 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/17/19 20:40:43! Dealing a new hand
+! 12/17/19 20:40:43! Everyone antes $50
+! 12/17/19 20:40:43! Targhee blinds $200
+! 12/17/19 20:40:43! Wrongfellow blinds $400
+! 12/18/19 09:32:20! GKinz54 folds
+! 12/18/19 09:32:20! ScoobySnack folds
+! 12/18/19 09:32:20! denimmined folds
+! 12/18/19 10:28:55! James Scharf raises $600 to $1000 total 
+! 12/18/19 11:02:52! tekbot calls 
+! 12/18/19 11:02:52! GunsNRoses folds
+! 12/18/19 11:02:52! altidude6202 folds
+! 12/18/19 12:32:34! Targhee calls 
+! 12/18/19 12:32:34! Wrongfellow folds
+
+! 12/18/19 12:32:34! Pot right ($3850), flopping/dealing/drawing cards
+! 12/18/19 12:32:34! 3 players
+! 12/18/19 12:32:34! Flopped cards: Qh Kc 10s
+! 12/18/19 12:33:32! Targhee checks
+! 12/18/19 12:57:58! James Scharf checks
+! 12/18/19 12:58:53! tekbot bets $3000 
+! 12/18/19 13:36:22! Targhee raises $12725 to $15725 total and is all in
+! 12/18/19 13:36:22! James Scharf folds
+! 12/18/19 13:50:25! tekbot calls 
+
+! 12/18/19 13:50:25! Pot right ($35300), flopping/dealing/drawing cards
+! 12/18/19 13:50:25! 2 players, 1 all in
+! 12/18/19 13:50:25! Flopped card: Qd
+! 12/18/19 13:50:25! Flopped card: 4h
+! Hand over, current board is:  Qh Kc 10s Qd 4h
+! Targhee                  has: Kd 4d
+! tekbot                   has: Js 9s
+! tekbot wins $35300 (net $18525) with Straight (K Q J 10 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  altidude6202             |  100325 |         |      |    |         |
+ 3|   Wrongfellow              |   78325 |         |      |    |         |
+ 4|   GKinz54                  |   25500 |         |      |    |         |
+ 5|   ScoobySnack              |   47325 |         |      |    |         |
+ 6|   denimmined               |   82450 |         |      |    |         |
+ 7|   James Scharf             |   78000 |         |      |    |         |
+ 8|>  tekbot                   |   69400 |         |      |    |         |
+ 9|   GunsNRoses               |   50600 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! Targhee is eliminated!
+! 397 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b9.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+After day 45 of the tourney there will be no
+more live redraws or breaking tables.  Tables
+will be allowed to run until a table gets to 
+five or fewer players at which time all tables
+will finish the current hand and a full, random
+redraw to all new tables will be done.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 7
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

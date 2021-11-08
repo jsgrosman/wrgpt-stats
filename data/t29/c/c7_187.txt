@@ -1,0 +1,103 @@
+Subject: [c7.10512] Holdem Game Broadcast Message(*)
+
+! Table c7, Hand 187, Day 89
+
+! CountFlop bets $5000 
+! Taki is on vacation and folds
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   1985 M Building Champ    |   94150 |     300 |folded|    |         |
+ 2|   janie                    |   27300 |     300 |folded|    |         |
+ 3|   Piney Boy                |   66850 |     300 |folded|    |         |
+ 4|   BigElmo                  |   71650 |     300 |folded|    |         |
+ 5|   Dario                    |  124125 |     300 |folded|    |         |
+ 6|   Per Starback             |   83125 |     300 |folded|    |         |
+ 7|D> CountFlop                |   50625 |    7300 |      |    |         |
+ 8|   MTpotts                  |   35150 |    1300 |folded|    |         |
+ 9|V  Taki                     |   25575 |    2300 |<AWOL>|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/31/20 04:23:58! Dealing a new hand
+! 01/31/20 04:23:58! Everyone antes $300
+! 01/31/20 04:23:58! MTpotts blinds $1000
+! 01/31/20 04:23:58! Taki blinds $2000
+! 01/31/20 06:00:52! 1985 M Building Champ folds
+! 01/31/20 07:42:30! janie folds
+! 01/31/20 07:42:30! Piney Boy folds
+! 01/31/20 07:42:30! BigElmo folds
+! 01/31/20 09:06:21! Dario folds
+! 01/31/20 13:49:02! Per Starback folds
+! 01/31/20 13:50:59! CountFlop calls 
+! 01/31/20 13:50:59! MTpotts folds
+! 01/31/20 13:50:59! Taki is on vacation and checks
+
+! 01/31/20 13:50:59! Pot right ($7700), flopping/dealing/drawing cards
+! 01/31/20 13:50:59! 2 players
+! 01/31/20 13:50:59! Flopped cards: 2d 5h 7h
+! 01/31/20 13:50:59! Taki is on vacation and checks
+! 01/31/20 13:51:49! CountFlop bets $5000 
+! 01/31/20 13:51:49! Taki is on vacation and folds
+! Hand over, no showdown
+! Current board is:  2d 5h 7h ? ?
+! CountFlop wins $12700 (net $5400)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   1985 M Building Champ    |   94150 |         |      |    |         |
+ 2|   janie                    |   27300 |         |      |    |         |
+ 3|   Piney Boy                |   66850 |         |      |    |         |
+ 4|   BigElmo                  |   71650 |         |      |    |         |
+ 5|   Dario                    |  124125 |         |      |    |         |
+ 6|   Per Starback             |   83125 |         |      |    |         |
+ 7|>  CountFlop                |   63325 |         |      |    |         |
+ 8|D  MTpotts                  |   35150 |         |      |    |         |
+ 9|V  Taki                     |   25575 |         |<AWOL>|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 223 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/c/c7.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 11
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

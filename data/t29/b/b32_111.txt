@@ -1,0 +1,118 @@
+Subject: [b32.11434] Holdem Game Broadcast Message(*)
+
+! Table b32, Hand 111, Day 59
+
+! JZo calls 
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   BillDaBear               |   38325 |    5000 |folded|    |         |
+ 2|   DireWolf                 |   75825 |     600 |folded|    |         |
+ 3|   Stephen Wong             |  105625 |     100 |folded|    |         |
+ 4|   Thumper                  |  186350 |     100 |folded|    |         |
+ 6|   JZo                      |   37075 |   62000 |      |    |         |
+ 9|D> Shari Silk               |   46975 |   62000 |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 01/01/20 08:05:39! Dealing a new hand
+! 01/01/20 08:05:39! Everyone antes $100
+! 01/01/20 08:05:39! BillDaBear blinds $250
+! 01/01/20 08:05:39! DireWolf blinds $500
+! 01/01/20 08:19:00! Stephen Wong folds
+! 01/01/20 08:19:00! Thumper folds
+! 01/01/20 08:25:56! JZo raises $1000 to $1500 total 
+! 01/01/20 09:58:31! Shari Silk calls 
+! 01/01/20 10:04:33! BillDaBear calls 
+! 01/01/20 10:08:02! DireWolf folds
+
+! 01/01/20 10:08:02! Pot right ($5600), flopping/dealing/drawing cards
+! 01/01/20 10:08:02! 3 players
+! 01/01/20 10:08:02! Flopped cards: 4s 5c 6s
+! 01/01/20 10:18:11! BillDaBear checks
+! 01/01/20 10:20:03! JZo bets $3400 
+! 01/01/20 11:25:42! Shari Silk calls 
+! 01/01/20 11:47:07! BillDaBear calls 
+
+! 01/01/20 11:47:07! Pot right ($15800), flopping/dealing/drawing cards
+! 01/01/20 11:47:07! 3 players
+! 01/01/20 11:47:07! Flopped card: 5h
+! 01/01/20 12:04:05! BillDaBear checks
+! 01/01/20 12:12:28! JZo bets $10000 
+! 01/01/20 12:24:13! Shari Silk raises $15000 to $25000 total 
+! 01/01/20 12:24:55! BillDaBear folds
+! 01/01/20 12:29:44! JZo calls 
+
+! 01/01/20 12:29:44! Pot right ($65800), flopping/dealing/drawing cards
+! 01/01/20 12:29:44! 2 players
+! 01/01/20 12:29:44! Flopped card: 7h
+! 01/01/20 12:30:29! JZo checks
+! 01/01/20 12:37:03! Shari Silk bets $32000 
+! 01/01/20 13:08:09! JZo calls 
+! Hand over, current board is:  4s 5c 6s 5h 7h
+! JZo                      has: Kh Kc
+! Shari Silk               has: 5s 5d
+! Shari Silk wins $129800 (net $67800) with Four of a Kind (5 5 5 5 7)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|D  BillDaBear               |   38325 |         |      |    |         |
+ 2|   DireWolf                 |   75825 |         |      |    |         |
+ 3|   Stephen Wong             |  105625 |         |      |    |         |
+ 4|   Thumper                  |  186350 |         |      |    |         |
+ 6|   JZo                      |   37075 |         |      |    |         |
+ 9|>  Shari Silk               |  176775 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 347 players left in the tournament, 9 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b32.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that are away from the tables 
+for 45 days will be removed.
+
+After day 45 of the tourney there will be no
+more live redraws or breaking tables.  Tables
+will be allowed to run until a table gets to 
+five or fewer players at which time all tables
+will finish the current hand and a full, random
+redraw to all new tables will be done.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 58
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer

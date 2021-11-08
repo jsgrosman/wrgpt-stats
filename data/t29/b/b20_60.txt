@@ -1,0 +1,120 @@
+Subject: [b20.10794] Holdem Game Broadcast Message(*)
+
+! Table b20, Hand 60, Day 39
+
+! ADB Jaeger checks
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   jasong                   |  108250 |      25 |folded|    |         |
+ 2|   Elmis                    |   90375 |      25 |folded|    |         |
+ 3|V  AAJogger                 |   83050 |      25 |13 Dec|    |         |
+ 4|   Ben Buchwald             |   28975 |      25 |folded|    |         |
+ 5|   Jon H Nightingale        |    5100 |      25 |folded|    |         |
+ 6|   Chevy                    |   30175 |     325 |folded|    |         |
+ 7|D  ADB Jaeger               |   27325 |    6275 |      |    |         |
+ 8|>  cedwards170              |  102975 |    6275 |      |    |         |
+ 9|   Poolshark                |   36225 |    1525 |folded|    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! History of this hand:
+! 12/11/19 12:53:23! Dealing a new hand
+! 12/11/19 12:53:23! Everyone antes $25
+! 12/11/19 12:53:23! cedwards170 blinds $150
+! 12/11/19 12:53:23! Poolshark blinds $300
+! 12/11/19 13:08:36! jasong folds
+! 12/11/19 13:09:48! Elmis folds
+! 12/11/19 13:09:48! AAJogger is on vacation and folds
+! 12/11/19 13:38:41! Ben Buchwald folds
+! 12/11/19 13:38:41! Jon H Nightingale folds
+! 12/11/19 14:04:38! Chevy calls 
+! 12/12/19 04:11:53! ADB Jaeger calls 
+! 12/12/19 06:54:53! cedwards170 calls 
+! 12/12/19 07:03:43! Poolshark checks
+
+! 12/12/19 07:03:43! Pot right ($1425), flopping/dealing/drawing cards
+! 12/12/19 07:03:43! 4 players
+! 12/12/19 07:03:43! Flopped cards: 9c 6d Kc
+! 12/12/19 07:15:52! cedwards170 bets $1200 
+! 12/12/19 07:20:49! Poolshark calls 
+! 12/12/19 08:21:10! Chevy folds
+! 12/12/19 08:30:41! ADB Jaeger calls 
+
+! 12/12/19 08:30:41! Pot right ($5025), flopping/dealing/drawing cards
+! 12/12/19 08:30:41! 3 players
+! 12/12/19 08:30:41! Flopped card: 3h
+! 12/12/19 08:50:41! cedwards170 bets $4750 
+! 12/12/19 09:35:40! Poolshark folds
+! 12/12/19 09:42:07! ADB Jaeger calls 
+
+! 12/12/19 09:42:07! Pot right ($14525), flopping/dealing/drawing cards
+! 12/12/19 09:42:07! 2 players
+! 12/12/19 09:42:07! Flopped card: 2h
+! 12/12/19 09:43:56! cedwards170 checks
+! 12/12/19 09:49:13! ADB Jaeger checks
+! Hand over, current board is:  9c 6d Kc 3h 2h
+! ADB Jaeger               has: 10c 3c
+! cedwards170              has: 4h Qd
+! ADB Jaeger wins $14525 (net $8250) with One Pair (3 3 K 10 9)
++-+----------------------------+---------+---------+------+----+---------+
+|#|   Name                     |Bankroll | Action  |Status|Pot#|Pot Size |
++-+----------------------------+---------+---------+------+----+---------+
+ 1|   jasong                   |  108250 |         |      |    |         |
+ 2|   Elmis                    |   90375 |         |      |    |         |
+ 3|V  AAJogger                 |   83050 |         |13 Dec|    |         |
+ 4|   Ben Buchwald             |   28975 |         |      |    |         |
+ 5|   Jon H Nightingale        |    5100 |         |      |    |         |
+ 6|   Chevy                    |   30175 |         |      |    |         |
+ 7|   ADB Jaeger               |   41850 |         |      |    |         |
+ 8|D> cedwards170              |  102975 |         |      |    |         |
+ 9|   Poolshark                |   36225 |         |      |    |         |
++-+----------------------------+---------+---------+------+----+---------+
+! 430 players left in the tournament, 0 tables down to six players
+! A new hand will be dealt shortly
+
+
+This table's current status can be found at http://hands.wrgpt.org/b/b20.html
+
+TOURNEY INFORMATION
+
+NOTICE:
+
+
+Players that have not come to the table by the end
+of day 30 will be removed.
+
+Players that are away from the tables for 45 days 
+will be removed.
+
+--
+
+WRGPT has no entry fee and no prizes.
+
+======
+
+Total Empty Seats: 11
+No Live redraw in progress.
+
+===== helpful links =====
+
+So, you were eliminated?  See this: 
+http://www.wrgpt.org/iwaseliminated.html
+
+The manual on how to use the commands is here:
+http://www.wrgpt.org/manual.html
+
+There is a mailing list to get the standings sent to
+you every night and another list to see every hand.
+Info for those lists is at:
+http://www.wrgpt.org/mailing.html
+
+The round structure and holidays are at:
+http://www.wrgpt.org/holidays_etc.html
+
+Having problems? Send email to floorman29@wrgpt.org.
+
+quick guide: http://www.wrgpt.org and click on Quick Advance Actions.
+
+You can follow WRGPT on Facebook: http://facebook.com/wrgpt
+Hand history: http://hands.wrgpt.org
+
+Your automated Holdem dealer
